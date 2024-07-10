@@ -74,14 +74,14 @@ For a complete list, see the full spreadsheet below:
 | **[NexThreat](https://www.nexthreat.com/)** | **[Technical Writer Intern - HUBZone Residency (REQUIRED)](https://jobright.ai/jobs/info/668d785cd5c4383256bc154b?utm_source=1058&utm_campaign=git)** | Reston, VA | On Site | Jul 09 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[Classroom Technology Support Assistant - CEPS](https://jobright.ai/jobs/info/668d7866d5c4383256bc158a?utm_source=1058&utm_campaign=git)** | Edmond, OK | Hybrid | Jul 09 |
 | **[NPower](http://www.npower.org/)** | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70d3?utm_source=1058&utm_campaign=git)** | Canton, MI | On Site | Jul 09 |
-| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70e4?utm_source=1058&utm_campaign=git)** | West Bloomfield Township, MI | On Site | Jul 09 |
-| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70e9?utm_source=1058&utm_campaign=git)** | Redford, MI | On Site | Jul 09 |
-| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70ed?utm_source=1058&utm_campaign=git)** | Hamtramck, MI | On Site | Jul 09 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70d8?utm_source=1058&utm_campaign=git)** | Romulus, MI | On Site | Jul 09 |
-| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70f5?utm_source=1058&utm_campaign=git)** | Dearborn, MI | On Site | Jul 09 |
-| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70f3?utm_source=1058&utm_campaign=git)** | Taylor, MI | On Site | Jul 09 |
+| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70e4?utm_source=1058&utm_campaign=git)** | West Bloomfield Township, MI | On Site | Jul 09 |
+| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70ed?utm_source=1058&utm_campaign=git)** | Hamtramck, MI | On Site | Jul 09 |
+| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70e9?utm_source=1058&utm_campaign=git)** | Redford, MI | On Site | Jul 09 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70f7?utm_source=1058&utm_campaign=git)** | Royal Oak, MI | On Site | Jul 09 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70f0?utm_source=1058&utm_campaign=git)** | Grosse Pointe, MI | On Site | Jul 09 |
+| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70f5?utm_source=1058&utm_campaign=git)** | Dearborn, MI | On Site | Jul 09 |
+| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70f3?utm_source=1058&utm_campaign=git)** | Taylor, MI | On Site | Jul 09 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dc6c286e3ca8738b60784?utm_source=1058&utm_campaign=git)** | Dearborn Heights, MI | On Site | Jul 09 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668db9e1b1cc53b16ef0dcfb?utm_source=1058&utm_campaign=git)** | Belleville, MI | On Site | Jul 09 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668d8e1a6abc78b21c1dccef?utm_source=1058&utm_campaign=git)** | Eastpointe, MI | On Site | Jul 09 |
@@ -125,8 +125,8 @@ For a complete list, see the full spreadsheet below:
 | **[Snap](https://www.snap.com)** | **[2024 Technical Writer, Research Intern](https://jobright.ai/jobs/info/66592beefb1dd944df45ad64?utm_source=1058&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 08 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Production Associate (Premium-Internal Candidates)](https://jobright.ai/jobs/info/668b7ec5a4b39a66bdfc0050?utm_source=1058&utm_campaign=git)** | Washington, IN | On Site | Jul 08 |
 | **[ARA](https://www.ara.com)** | **[IT Support Assistant](https://jobright.ai/jobs/info/668b7b859f8be2511310f9c7?utm_source=1058&utm_campaign=git)** | Randolph, VT | On Site | Jul 08 |
-| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Student Assistant - External](https://jobright.ai/jobs/info/668bcbfcc0120707fc154137?utm_source=1058&utm_campaign=git)** | Lubbock, TX | On Site | Jul 08 |
-| ↳ | **[Student Assistant](https://jobright.ai/jobs/info/668b75744b098b7bc65bf8d5?utm_source=1058&utm_campaign=git)** | Lubbock, TX | On Site | Jul 08 |
+| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Student Assistant](https://jobright.ai/jobs/info/668879fdadbb085532cf9883?utm_source=1058&utm_campaign=git)** | Lubbock, TX | On Site | Jul 08 |
+| ↳ | **[Student Assistant - External](https://jobright.ai/jobs/info/668b6f0014b9045b5cb8e6d0?utm_source=1058&utm_campaign=git)** | Lubbock, TX | On Site | Jul 08 |
 | **[Florida International University](https://www.fiu.edu)** | **[2024-2025 - Office of Financial Aid, Student Computer Support Assistant - Graduate](https://jobright.ai/jobs/info/668b4db636fc66f4e341ee32?utm_source=1058&utm_campaign=git)** | Miami, FL | On Site | Jul 08 |
 | **[Applied Research Services](https://ars-corp.com)** | **[IT Support Assistant](https://jobright.ai/jobs/info/668b4a4a31b621abadc21601?utm_source=1058&utm_campaign=git)** | Randolph, VT | On Site | Jul 08 |
 | **[NPAA](https://www.nipponpaintamericas.com)** | **[Temporary- Part Time IT Assistant (Intern)](https://jobright.ai/jobs/info/668c22af42557af01ff611c5?utm_source=1058&utm_campaign=git)** | Cleveland, OH | On Site | Jul 08 |
@@ -171,7 +171,7 @@ For a complete list, see the full spreadsheet below:
 | **[Pronto Insurance](http://www.prontoinsurance.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/65f2ea60de1ed111e7f4ac4c?utm_source=1058&utm_campaign=git)** | Brownsville, TX | On Site | Jul 04 |
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Temporary Internal Traveler Program - Postpartum](https://jobright.ai/jobs/info/662c38ad1d09d72887a18bc9?utm_source=1058&utm_campaign=git)** | Winchester, MA | On Site | Jul 04 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6675e1b3e95c1a0a225b9032?utm_source=1058&utm_campaign=git)** | Dyersburg, TN | On Site | Jul 04 |
-| **[Baylor Scott & White Health](https://www.bswhealth.com/)** | **[Radiologic Tech Student](https://jobright.ai/jobs/info/668688b99db87c158112a804?utm_source=1058&utm_campaign=git)** | College Station, TX | On Site | Jul 04 |
+| **[Baylor Scott & White Health](https://www.bswhealth.com/)** | **[Radiologic Tech Student](https://jobright.ai/jobs/info/668688b99db87c158112a805?utm_source=1058&utm_campaign=git)** | College Station, TX | On Site | Jul 04 |
 | **[Kaseya](http://www.kaseya.com)** | **[Technical Support Expert – New Graduates](https://jobright.ai/jobs/info/667d79087f52fab5a9ba2689?utm_source=1058&utm_campaign=git)** | Orlando, FL | On Site | Jul 04 |
 | **[Kimpton Hotel & Restaurant Group](https://www.kimptonhotels.com/)** | **[Culinary J1 Intern-Red Owl Tavern](https://jobright.ai/jobs/info/6677b8ec9c2d9fa5bf08966b?utm_source=1058&utm_campaign=git)** | Philadelphia, PA | On Site | Jul 04 |
 | **[Vermont State University](https://vermontstate.edu)** | **[Summer Conference Assistant](https://jobright.ai/jobs/info/6686631bf5ea752669984172?utm_source=1058&utm_campaign=git)** | Johnson, VT | On Site | Jul 04 |
