@@ -45,7 +45,7 @@ Due to capacity constraints, only internship jobs posted within the last **7** d
 For a comprehensive list of all available internships, please refer to the full spreadsheet bellowed:
 
 <a href="https://docs.google.com/spreadsheets/d/1YhCc56aBbm1h-oiGbAEtRlc2IVW-CRqN_fJjsRBPHpk/edit?gid=1063573018#gid=1063573018">
-    <img src="./static/img/excel_icon.svg" alt="excel_icon">
+    <img src="./static/img/excel_icon.png" alt="excel_icon">
 </a>
 </div>
 
