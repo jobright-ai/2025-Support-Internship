@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mid-Hudson Valley Federal Credit Union](https://www.mhvfcu.com)** | **[Part-Time Teller, Student Position - Red Hook Branch](https://jobright.ai/jobs/info/668e29cf54416b35b878ca11?utm_source=1058&utm_campaign=git)** | Red Hook, NY | On Site | Jul 10 |
 | **[Wright's Resumes and Connections](https://www.wrightsresumes.com)** | **[Remote - IT Support (Unpaid Internship)](https://jobright.ai/jobs/info/668deb4c6da13c2496823975?utm_source=1058&utm_campaign=git)** | United States | Remote | Jul 10 |
 | **[Food Bank For New York City](http://www.foodbanknyc.org)** | **[Internship- Older Adult Care, Senior Program](https://jobright.ai/jobs/info/667dbd26ae1eddb4e04e2bd4?utm_source=1058&utm_campaign=git)** | New York, NY | On Site | Jul 09 |
 | **[Berkshire Hathaway GUARD Insurance Companies](https://www.guard.com)** | **[Internship - Customer Service](https://jobright.ai/jobs/info/668deb966da13c2496823ead?utm_source=1058&utm_campaign=git)** | Wilkes-Barre, PA | On Site | Jul 09 |
@@ -73,13 +74,13 @@ For a complete list, see the full spreadsheet below:
 | **[NexThreat](https://www.nexthreat.com/)** | **[Technical Writer Intern - HUBZone Residency (REQUIRED)](https://jobright.ai/jobs/info/668d785cd5c4383256bc154b?utm_source=1058&utm_campaign=git)** | Reston, VA | On Site | Jul 09 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[Classroom Technology Support Assistant - CEPS](https://jobright.ai/jobs/info/668d7866d5c4383256bc158a?utm_source=1058&utm_campaign=git)** | Edmond, OK | Hybrid | Jul 09 |
 | **[NPower](http://www.npower.org/)** | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70d3?utm_source=1058&utm_campaign=git)** | Canton, MI | On Site | Jul 09 |
-| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70d8?utm_source=1058&utm_campaign=git)** | Romulus, MI | On Site | Jul 09 |
-| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70ed?utm_source=1058&utm_campaign=git)** | Hamtramck, MI | On Site | Jul 09 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70e4?utm_source=1058&utm_campaign=git)** | West Bloomfield Township, MI | On Site | Jul 09 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70e9?utm_source=1058&utm_campaign=git)** | Redford, MI | On Site | Jul 09 |
+| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70ed?utm_source=1058&utm_campaign=git)** | Hamtramck, MI | On Site | Jul 09 |
+| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70d8?utm_source=1058&utm_campaign=git)** | Romulus, MI | On Site | Jul 09 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70f5?utm_source=1058&utm_campaign=git)** | Dearborn, MI | On Site | Jul 09 |
-| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70f7?utm_source=1058&utm_campaign=git)** | Royal Oak, MI | On Site | Jul 09 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70f3?utm_source=1058&utm_campaign=git)** | Taylor, MI | On Site | Jul 09 |
+| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70f7?utm_source=1058&utm_campaign=git)** | Royal Oak, MI | On Site | Jul 09 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70f0?utm_source=1058&utm_campaign=git)** | Grosse Pointe, MI | On Site | Jul 09 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dc6c286e3ca8738b60784?utm_source=1058&utm_campaign=git)** | Dearborn Heights, MI | On Site | Jul 09 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668db9e1b1cc53b16ef0dcfb?utm_source=1058&utm_campaign=git)** | Belleville, MI | On Site | Jul 09 |
@@ -136,9 +137,9 @@ For a complete list, see the full spreadsheet below:
 | **[HILLCREST MEDICAL CENTERS](https://www.linkedin.com/company/62633964)** | **[Student Radiologic Tech - Competitive Pay](https://jobright.ai/jobs/info/6689d31f77f58078ad10f48c?utm_source=1058&utm_campaign=git)** | Tulsa, OK | On Site | Jul 06 |
 | **[Cosolutions](https://www.cosolutions.com/)** | **[Customer Service Representative (CSR) – 100% On-site](https://jobright.ai/jobs/info/6689968adcce63bd866c4346?utm_source=1058&utm_campaign=git)** | Millington, TN | On Site | Jul 06 |
 | **[HCA](http://hcahealthcare.com)** | **[Technical Analyst Intern -Lewis Gale Med Ctr](https://jobright.ai/jobs/info/668d3bc9f0ea4d8212b0b979?utm_source=1058&utm_campaign=git)** | Salem, VA | On Site | Jul 06 |
-| **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/668d2f336cbb6889454a475f?utm_source=1058&utm_campaign=git)** | St Louis, MO | On Site | Jul 06 |
-| ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/668a8663c65b0798182027b3?utm_source=1058&utm_campaign=git)** | Columbia, MO | On Site | Jul 06 |
+| **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/668a8663c65b0798182027b3?utm_source=1058&utm_campaign=git)** | Columbia, MO | On Site | Jul 06 |
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/668a8024a62baba7813eea77?utm_source=1058&utm_campaign=git)** | Converse, TX | On Site | Jul 06 |
+| ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6689df3e561f55e570147f6a?utm_source=1058&utm_campaign=git)** | St Louis, MO | On Site | Jul 06 |
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6675746031f584ec4862611a?utm_source=1058&utm_campaign=git)** | Arnold, MO | On Site | Jul 06 |
 | **[Georgia Tech Research Corporation](http://www.gtrc.gatech.edu)** | **[Visiting Research Assistant - Fall 2024 - ASL - Atlanta, GA](https://jobright.ai/jobs/info/666cb625c55b5882af311ba6?utm_source=1058&utm_campaign=git)** | Atlanta, GA | Hybrid | Jul 06 |
 | **[CHKD](https://www.chkd.org/)** | **[Internal Traveler - Surgical Tech](https://jobright.ai/jobs/info/668859a797a875b115053bc3?utm_source=1058&utm_campaign=git)** | Norfolk, VA | On Site | Jul 05 |
