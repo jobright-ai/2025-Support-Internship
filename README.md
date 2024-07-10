@@ -3,7 +3,7 @@
 
 
 
-This job repository is your go-to resource for discovering and sharing the latest internships opportunities in: IT Support and Customer Service.
+**This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:** IT Support and Customer Service.
 
 
 ✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_source=1058&utm_campaign=git). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
@@ -40,7 +40,7 @@ This job repository is your go-to resource for discovering and sharing the lates
 
 ---
 <h4>
-Only jobs posted in the last 7 days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
 <br>
 For a complete list, see the full spreadsheet below:
 </h4>
@@ -73,14 +73,14 @@ For a complete list, see the full spreadsheet below:
 | **[NexThreat](https://www.nexthreat.com/)** | **[Technical Writer Intern - HUBZone Residency (REQUIRED)](https://jobright.ai/jobs/info/668d785cd5c4383256bc154b?utm_source=1058&utm_campaign=git)** | Reston, VA | On Site | Jul 09 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[Classroom Technology Support Assistant - CEPS](https://jobright.ai/jobs/info/668d7866d5c4383256bc158a?utm_source=1058&utm_campaign=git)** | Edmond, OK | Hybrid | Jul 09 |
 | **[NPower](http://www.npower.org/)** | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70d3?utm_source=1058&utm_campaign=git)** | Canton, MI | On Site | Jul 09 |
-| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70e9?utm_source=1058&utm_campaign=git)** | Redford, MI | On Site | Jul 09 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70d8?utm_source=1058&utm_campaign=git)** | Romulus, MI | On Site | Jul 09 |
-| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70e4?utm_source=1058&utm_campaign=git)** | West Bloomfield Township, MI | On Site | Jul 09 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70ed?utm_source=1058&utm_campaign=git)** | Hamtramck, MI | On Site | Jul 09 |
-| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70f7?utm_source=1058&utm_campaign=git)** | Royal Oak, MI | On Site | Jul 09 |
+| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70e4?utm_source=1058&utm_campaign=git)** | West Bloomfield Township, MI | On Site | Jul 09 |
+| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70e9?utm_source=1058&utm_campaign=git)** | Redford, MI | On Site | Jul 09 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70f5?utm_source=1058&utm_campaign=git)** | Dearborn, MI | On Site | Jul 09 |
-| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70f0?utm_source=1058&utm_campaign=git)** | Grosse Pointe, MI | On Site | Jul 09 |
+| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70f7?utm_source=1058&utm_campaign=git)** | Royal Oak, MI | On Site | Jul 09 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70f3?utm_source=1058&utm_campaign=git)** | Taylor, MI | On Site | Jul 09 |
+| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dae675d28e6cfb82b70f0?utm_source=1058&utm_campaign=git)** | Grosse Pointe, MI | On Site | Jul 09 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668dc6c286e3ca8738b60784?utm_source=1058&utm_campaign=git)** | Dearborn Heights, MI | On Site | Jul 09 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668db9e1b1cc53b16ef0dcfb?utm_source=1058&utm_campaign=git)** | Belleville, MI | On Site | Jul 09 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/668d8e1a6abc78b21c1dccef?utm_source=1058&utm_campaign=git)** | Eastpointe, MI | On Site | Jul 09 |
@@ -96,10 +96,10 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/668d28e4e9464a99e8cabf32?utm_source=1058&utm_campaign=git)** | West Helena, AR | On Site | Jul 09 |
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6670f6e7382db439f2c01034?utm_source=1058&utm_campaign=git)** | Everett, PA | On Site | Jul 09 |
 | **[Tekni-Plex](http://www.tekni-plex.com)** | **[IT Intern (On-site Dublin, VA)](https://jobright.ai/jobs/info/668536ba051ccec1a1d98def?utm_source=1058&utm_campaign=git)** | Dublin, VA | On Site | Jul 09 |
-| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Student Assistant - External](https://jobright.ai/jobs/info/668d2d3497f3d64813a4fe6b?utm_source=1058&utm_campaign=git)** | Lubbock, TX | On Site | Jul 09 |
 | **[Kenworth](http://www.kenworth.com/)** | **[Technical Support Analyst Intern](https://jobright.ai/jobs/info/65da7461b8a9bb265b152309?utm_source=1058&utm_campaign=git)** | Chillicothe, OH | On Site | Jul 09 |
 | **[WVU Medicine](https://wvumedicine.org/)** | **[Surg. Tech Externiship](https://jobright.ai/jobs/info/667d921c3d9d12ed42df5ae6?utm_source=1058&utm_campaign=git)** | Morgantown, WV | On Site | Jul 09 |
 | **[Central Moloney](http://www.centralmoloneyinc.com/)** | **[IT Support Intern](https://jobright.ai/jobs/info/668cf0c1361c7d879771ed9f?utm_source=1058&utm_campaign=git)** | Panama City, FL | On Site | Jul 09 |
+| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Student Assistant - External](https://jobright.ai/jobs/info/668cd4d0620920a453da71d6?utm_source=1058&utm_campaign=git)** | Lubbock, TX | On Site | Jul 09 |
 | **[Massachusetts Immigrant and Refugee Advocacy Coalition](http://miracoalition.org/)** | **[Legal Support Intern](https://jobright.ai/jobs/info/66856bedbdc2939b8d261f82?utm_source=1058&utm_campaign=git)** | Boston, MA | Hybrid | Jul 09 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Digital Access Intern](https://jobright.ai/jobs/info/668cb6e9c5aa0957f9001a96?utm_source=1058&utm_campaign=git)** | Salt Lake City, UT | On Site | Jul 09 |
 | ↳ | **[Housing Assistant Intern](https://jobright.ai/jobs/info/668cc31c3bf213b2cc3c7b82?utm_source=1058&utm_campaign=git)** | Salt Lake City, UT | Hybrid | Jul 09 |
@@ -124,8 +124,8 @@ For a complete list, see the full spreadsheet below:
 | **[Snap](https://www.snap.com)** | **[2024 Technical Writer, Research Intern](https://jobright.ai/jobs/info/66592beefb1dd944df45ad64?utm_source=1058&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 08 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Production Associate (Premium-Internal Candidates)](https://jobright.ai/jobs/info/668b7ec5a4b39a66bdfc0050?utm_source=1058&utm_campaign=git)** | Washington, IN | On Site | Jul 08 |
 | **[ARA](https://www.ara.com)** | **[IT Support Assistant](https://jobright.ai/jobs/info/668b7b859f8be2511310f9c7?utm_source=1058&utm_campaign=git)** | Randolph, VT | On Site | Jul 08 |
-| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Student Assistant](https://jobright.ai/jobs/info/668879fdadbb085532cf9883?utm_source=1058&utm_campaign=git)** | Lubbock, TX | On Site | Jul 08 |
-| ↳ | **[Student Assistant - External](https://jobright.ai/jobs/info/668bcbfcc0120707fc154137?utm_source=1058&utm_campaign=git)** | Lubbock, TX | On Site | Jul 08 |
+| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Student Assistant - External](https://jobright.ai/jobs/info/668bcbfcc0120707fc154137?utm_source=1058&utm_campaign=git)** | Lubbock, TX | On Site | Jul 08 |
+| ↳ | **[Student Assistant](https://jobright.ai/jobs/info/668b75744b098b7bc65bf8d5?utm_source=1058&utm_campaign=git)** | Lubbock, TX | On Site | Jul 08 |
 | **[Florida International University](https://www.fiu.edu)** | **[2024-2025 - Office of Financial Aid, Student Computer Support Assistant - Graduate](https://jobright.ai/jobs/info/668b4db636fc66f4e341ee32?utm_source=1058&utm_campaign=git)** | Miami, FL | On Site | Jul 08 |
 | **[Applied Research Services](https://ars-corp.com)** | **[IT Support Assistant](https://jobright.ai/jobs/info/668b4a4a31b621abadc21601?utm_source=1058&utm_campaign=git)** | Randolph, VT | On Site | Jul 08 |
 | **[NPAA](https://www.nipponpaintamericas.com)** | **[Temporary- Part Time IT Assistant (Intern)](https://jobright.ai/jobs/info/668c22af42557af01ff611c5?utm_source=1058&utm_campaign=git)** | Cleveland, OH | On Site | Jul 08 |
@@ -184,5 +184,4 @@ For a complete list, see the full spreadsheet below:
 | **[Mercy Health System](https://mercyhealthsystem.org)** | **[Receptionist - Internal Med](https://jobright.ai/jobs/info/6685d8da3aae3c4b011ad4e5?utm_source=1058&utm_campaign=git)** | Rockford, IL | On Site | Jul 03 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Intern, IT (Summer)](https://jobright.ai/jobs/info/6685cd646d2a4090360416b6?utm_source=1058&utm_campaign=git)** | Memphis, TN | On Site | Jul 03 |
 | **[CDC Small Business Finance](https://cdcloans.com/)** | **[Lending Support Liaison Intern](https://jobright.ai/jobs/info/6685eab2f97d28402a22d6f5?utm_source=1058&utm_campaign=git)** | San Diego, CA | On Site | Jul 03 |
-| **[The Ohio State University](http://www.osu.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/668578d9ad79c6e653c857f8?utm_source=1058&utm_campaign=git)** | Columbus, OH | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
