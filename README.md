@@ -78,8 +78,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Break into Tech! - FREE Tech Fundamentals Program (St. Louis, MO)](https://jobright.ai/jobs/info/669c4542f318798ab2b04f0a?utm_source=1058&utm_campaign=git)** | Alton, IL | On Site | Jul 20 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program (St. Louis, MO)](https://jobright.ai/jobs/info/669c4542f318798ab2b04f3f?utm_source=1058&utm_campaign=git)** | Collinsville, IL | On Site | Jul 20 |
 | ↳ | **[Start Your Tech Journey: Cost-Free Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/669c4542f318798ab2b04f50?utm_source=1058&utm_campaign=git)** | South Vienna, OH | On Site | Jul 20 |
-| ↳ | **[FREE Tech Fundamentals Program - Unlock Your Future in Tech (Raleigh, NC) ID:9262888728](https://jobright.ai/jobs/info/669c4506f318798ab2b047de?utm_source=1058&utm_campaign=git)** | Durham, NC | On Site | Jul 20 |
 | ↳ | **[Break into Tech! - FREE Tech Fundamentals Program ID:9262893222](https://jobright.ai/jobs/info/669c4506f318798ab2b047db?utm_source=1058&utm_campaign=git)** | Kittrell, NC | On Site | Jul 20 |
+| ↳ | **[FREE Tech Fundamentals Program - Unlock Your Future in Tech (Raleigh, NC) ID:9262888728](https://jobright.ai/jobs/info/669c4506f318798ab2b047de?utm_source=1058&utm_campaign=git)** | Durham, NC | On Site | Jul 20 |
 | ↳ | **[Start Your Tech Journey: Cost-Free Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/669c4542f318798ab2b04f77?utm_source=1058&utm_campaign=git)** | Alton, IL | On Site | Jul 20 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/669c4549f318798ab2b04fe5?utm_source=1058&utm_campaign=git)** | Grover, MO | On Site | Jul 20 |
 | ↳ | **[Start Your Tech Journey: Cost-Free Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/669c4549f318798ab2b04ff5?utm_source=1058&utm_campaign=git)** | Hillsborough, NC | On Site | Jul 20 |
@@ -99,8 +99,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/669c455af318798ab2b05212?utm_source=1058&utm_campaign=git)** | Kenly, NC | On Site | Jul 20 |
 | ↳ | **[FREE Tech Fundamentals Program - Opportunity to earn industry-recognized certifications ID:9262892930](https://jobright.ai/jobs/info/669c450df318798ab2b04960?utm_source=1058&utm_campaign=git)** | Hendersonville, NC | On Site | Jul 20 |
 | ↳ | **[No Cost Tech Fundamentals Program - Launching Your Tech Career! ID:9262890061](https://jobright.ai/jobs/info/669c450df318798ab2b04967?utm_source=1058&utm_campaign=git)** | Golden, IL | On Site | Jul 20 |
-| ↳ | **[Launch Your Tech Career: No-Cost Tech/IT Fundamentals Program ID:9262889943](https://jobright.ai/jobs/info/669c4514f318798ab2b04973?utm_source=1058&utm_campaign=git)** | St Louis, MO | On Site | Jul 20 |
 | ↳ | **[Start Your Tech Journey - FREE Tech/IT Fundamentals Program ID:9262884361](https://jobright.ai/jobs/info/669c4514f318798ab2b04989?utm_source=1058&utm_campaign=git)** | Fayetteville, NC | On Site | Jul 20 |
+| ↳ | **[Launch Your Tech Career: No-Cost Tech/IT Fundamentals Program ID:9262889943](https://jobright.ai/jobs/info/669c4514f318798ab2b04973?utm_source=1058&utm_campaign=git)** | St Louis, MO | On Site | Jul 20 |
 | ↳ | **[Break into Tech! - Cero-Cost Tech Fundamentals Program ID:9262891669](https://jobright.ai/jobs/info/669c4514f318798ab2b049b6?utm_source=1058&utm_campaign=git)** | Raleigh, NC | On Site | Jul 20 |
 | ↳ | **[Start Your Tech Journey: Cost-Free Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/669c455af318798ab2b05251?utm_source=1058&utm_campaign=git)** | Selma, NC | On Site | Jul 20 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/669c455af318798ab2b05254?utm_source=1058&utm_campaign=git)** | Fairborn, OH | On Site | Jul 20 |
@@ -110,8 +110,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Break into Tech! - FREE Tech Fundamentals Program ID:9262888617](https://jobright.ai/jobs/info/669c4521f318798ab2b04b2c?utm_source=1058&utm_campaign=git)** | Loveland, OH | On Site | Jul 20 |
 | ↳ | **[FREE Tech Fundamentals Program - Earn industry-recognized certifications ID:9262885886](https://jobright.ai/jobs/info/669c4521f318798ab2b04b22?utm_source=1058&utm_campaign=git)** | St Louis, MO | On Site | Jul 20 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/669c4560f318798ab2b05309?utm_source=1058&utm_campaign=git)** | Mason, OH | On Site | Jul 20 |
-| ↳ | **[Start Your Tech Journey - FREE Tech/IT Fundamentals Program ID:9262884599](https://jobright.ai/jobs/info/669c4521f318798ab2b04b54?utm_source=1058&utm_campaign=git)** | Lincolnton, NC | On Site | Jul 20 |
 | ↳ | **[Break into Tech! - FREE Tech Fundamentals Program (St. Louis, MO)](https://jobright.ai/jobs/info/669c4560f318798ab2b05316?utm_source=1058&utm_campaign=git)** | Arnold, MO | On Site | Jul 20 |
+| ↳ | **[Start Your Tech Journey - FREE Tech/IT Fundamentals Program ID:9262884599](https://jobright.ai/jobs/info/669c4521f318798ab2b04b54?utm_source=1058&utm_campaign=git)** | Lincolnton, NC | On Site | Jul 20 |
 | ↳ | **[FREE Tech Fundamentals Program - Launching Tech Career! (Dayton, OH) ID:9262889766](https://jobright.ai/jobs/info/669c4521f318798ab2b04b88?utm_source=1058&utm_campaign=git)** | Urbana, OH | On Site | Jul 20 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/669c4560f318798ab2b0532d?utm_source=1058&utm_campaign=git)** | Eaton, OH | On Site | Jul 20 |
 | ↳ | **[Free Tech Fundamentals Program ID:9262885485](https://jobright.ai/jobs/info/669c4521f318798ab2b04b9e?utm_source=1058&utm_campaign=git)** | South Roxana, IL | On Site | Jul 20 |
@@ -120,9 +120,9 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Break into Tech! - Cero-Cost Tech Fundamentals Program ID:9262889805](https://jobright.ai/jobs/info/669c47816bb170e0a8d910a8?utm_source=1058&utm_campaign=git)** | Durham, NC | On Site | Jul 20 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program ID:9262887362](https://jobright.ai/jobs/info/669c47886bb170e0a8d91177?utm_source=1058&utm_campaign=git)** | Clifton, OH | On Site | Jul 20 |
 | ↳ | **[Start Your Tech Journey - FREE Tech/IT Fundamentals Program ID:9262883245](https://jobright.ai/jobs/info/669c47886bb170e0a8d9118a?utm_source=1058&utm_campaign=git)** | Ahoskie, NC | On Site | Jul 20 |
-| ↳ | **[Tech Fundamentals Program - Break into Tech! ID:9262884099](https://jobright.ai/jobs/info/669c47886bb170e0a8d911c5?utm_source=1058&utm_campaign=git)** | Loveland, OH | On Site | Jul 20 |
 | ↳ | **[Start Your Tech Journey - FREE Tech/IT Fundamentals Program ID:9262888186](https://jobright.ai/jobs/info/669c47886bb170e0a8d91172?utm_source=1058&utm_campaign=git)** | Bynum, NC | On Site | Jul 20 |
 | ↳ | **[Start Your Tech Journey - FREE Tech/IT Fundamentals Program ID:9262884110](https://jobright.ai/jobs/info/669c47886bb170e0a8d91181?utm_source=1058&utm_campaign=git)** | Asheboro, NC | On Site | Jul 20 |
+| ↳ | **[Tech Fundamentals Program - Break into Tech! ID:9262884099](https://jobright.ai/jobs/info/669c47886bb170e0a8d911c5?utm_source=1058&utm_campaign=git)** | Loveland, OH | On Site | Jul 20 |
 | ↳ | **[Start Your Tech Journey - FREE Tech/IT Fundamentals Program ID:9262884457](https://jobright.ai/jobs/info/669c478e6bb170e0a8d91255?utm_source=1058&utm_campaign=git)** | Rockingham, NC | On Site | Jul 20 |
 | ↳ | **[Launch Your Tech Career: Cost-Free Tech/IT Fundamentals Program ID:9262883027](https://jobright.ai/jobs/info/669c47956bb170e0a8d9132a?utm_source=1058&utm_campaign=git)** | Spring Valley, OH | On Site | Jul 20 |
 | ↳ | **[Tech Fundamentals Program - Break into Tech! ID:9262888240](https://jobright.ai/jobs/info/669c478e6bb170e0a8d91254?utm_source=1058&utm_campaign=git)** | St Louis, MO | On Site | Jul 20 |
@@ -151,8 +151,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Break into Tech! - Cero-Cost Tech Fundamentals Program ID:9262887428](https://jobright.ai/jobs/info/669c47c36bb170e0a8d918f2?utm_source=1058&utm_campaign=git)** | South Roxana, IL | On Site | Jul 20 |
 | ↳ | **[FREE Tech Fundamentals Program - Unlock Your Future in Tech (Dayton, OH) Dayton, OH ID:9262871428](https://jobright.ai/jobs/info/669c47ca6bb170e0a8d919df?utm_source=1058&utm_campaign=git)** | Dayton, OH | On Site | Jul 20 |
 | ↳ | **[FREE Tech Fundamentals Program - Launching Tech Career! (St. Louis, MO) ID:9262874641](https://jobright.ai/jobs/info/669c47d06bb170e0a8d91a07?utm_source=1058&utm_campaign=git)** | High Ridge, MO | On Site | Jul 20 |
-| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program ID:9262886704](https://jobright.ai/jobs/info/669c47d06bb170e0a8d91a18?utm_source=1058&utm_campaign=git)** | Chapel Hill, NC | On Site | Jul 20 |
 | ↳ | **[Start Your Tech Journey - FREE Tech/IT Fundamentals Program ID:9262884424](https://jobright.ai/jobs/info/669c47d06bb170e0a8d91a1b?utm_source=1058&utm_campaign=git)** | Farmington, NC | On Site | Jul 20 |
+| ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program ID:9262886704](https://jobright.ai/jobs/info/669c47d06bb170e0a8d91a18?utm_source=1058&utm_campaign=git)** | Chapel Hill, NC | On Site | Jul 20 |
 | ↳ | **[Launch Your Tech Career: FREE Tech/IT Fundamentals Program ID:9262888266](https://jobright.ai/jobs/info/669c47d06bb170e0a8d91a3a?utm_source=1058&utm_campaign=git)** | Wadesboro, NC | On Site | Jul 20 |
 | ↳ | **[Break into Tech! - FREE Tech Fundamentals Program ID:9262871327](https://jobright.ai/jobs/info/669c47d06bb170e0a8d91a82?utm_source=1058&utm_campaign=git)** | St Louis, MO | On Site | Jul 20 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program ID:9262867064](https://jobright.ai/jobs/info/669c47d06bb170e0a8d91a91?utm_source=1058&utm_campaign=git)** | Port William, OH | On Site | Jul 20 |
@@ -160,8 +160,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Break into Tech! - FREE Tech Fundamentals Program ID:9262871759](https://jobright.ai/jobs/info/669c47d76bb170e0a8d91ada?utm_source=1058&utm_campaign=git)** | Westville, OH | On Site | Jul 20 |
 | ↳ | **[Start Your Tech Journey - FREE Tech/IT Fundamentals Program ID:9262882768](https://jobright.ai/jobs/info/669c47d76bb170e0a8d91b33?utm_source=1058&utm_campaign=git)** | South Roxana, IL | On Site | Jul 20 |
 | ↳ | **[Start Your Tech Journey - FREE Tech/IT Fundamentals Program ID:9262883983](https://jobright.ai/jobs/info/669c47d76bb170e0a8d91b55?utm_source=1058&utm_campaign=git)** | Kill Devil Hills, NC | On Site | Jul 20 |
-| ↳ | **[Break into Tech! - FREE Tech Fundamentals Program ID:9262874935](https://jobright.ai/jobs/info/669c47d76bb170e0a8d91b65?utm_source=1058&utm_campaign=git)** | Potsdam, OH | On Site | Jul 20 |
 | ↳ | **[Break into Tech! - FREE Tech Fundamentals Program ID:9262883902](https://jobright.ai/jobs/info/669c47d76bb170e0a8d91b5d?utm_source=1058&utm_campaign=git)** | Bunker Hill, IL | On Site | Jul 20 |
+| ↳ | **[Break into Tech! - FREE Tech Fundamentals Program ID:9262874935](https://jobright.ai/jobs/info/669c47d76bb170e0a8d91b65?utm_source=1058&utm_campaign=git)** | Potsdam, OH | On Site | Jul 20 |
 | ↳ | **[Break into Tech! - Cero-Cost Tech Fundamentals Program ID:9262875202](https://jobright.ai/jobs/info/669c4904fa2c0d1c7c2db65a?utm_source=1058&utm_campaign=git)** | Bynum, NC | On Site | Jul 20 |
 | ↳ | **[Start Your Tech Journey: Cost-Free Tech/IT Fundamentals Program ID:9262882221](https://jobright.ai/jobs/info/669c4904fa2c0d1c7c2db6ca?utm_source=1058&utm_campaign=git)** | St Louis, MO | On Site | Jul 20 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program ID:9262870066](https://jobright.ai/jobs/info/669c4904fa2c0d1c7c2db636?utm_source=1058&utm_campaign=git)** | West Elkton, OH | On Site | Jul 20 |
@@ -193,14 +193,14 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Free Tech Fundamentals Program ID:9262863070](https://jobright.ai/jobs/info/669c44257b9259a67122e9cb?utm_source=1058&utm_campaign=git)** | Wake Forest, NC | On Site | Jul 20 |
 | ↳ | **[Break into Tech! - Cero-Cost Tech Fundamentals Program ID:9262867883](https://jobright.ai/jobs/info/669c442c7b9259a67122ea45?utm_source=1058&utm_campaign=git)** | Dayton, OH | On Site | Jul 20 |
 | ↳ | **[No Cost Tech Fundamentals Program - Break into Tech! ID:9262863159](https://jobright.ai/jobs/info/669c442c7b9259a67122ea8a?utm_source=1058&utm_campaign=git)** | Ludlow Falls, OH | On Site | Jul 20 |
-| ↳ | **[Tech Fundamentals Program - Break into Tech! ID:9262864818](https://jobright.ai/jobs/info/669c44337b9259a67122ea9e?utm_source=1058&utm_campaign=git)** | Durham, NC | On Site | Jul 20 |
 | ↳ | **[No Cost Tech Fundamentals Program ID:9262867028](https://jobright.ai/jobs/info/669c442c7b9259a67122ea97?utm_source=1058&utm_campaign=git)** | Durham, NC | On Site | Jul 20 |
+| ↳ | **[Tech Fundamentals Program - Break into Tech! ID:9262864818](https://jobright.ai/jobs/info/669c44337b9259a67122ea9e?utm_source=1058&utm_campaign=git)** | Durham, NC | On Site | Jul 20 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program ID:9262863062](https://jobright.ai/jobs/info/669c44337b9259a67122eaee?utm_source=1058&utm_campaign=git)** | Urbana, OH | On Site | Jul 20 |
 | ↳ | **[Break into Tech! - Cero-Cost Tech Fundamentals Program ID:9262865070](https://jobright.ai/jobs/info/669c443b7b9259a67122ebab?utm_source=1058&utm_campaign=git)** | Catawba, OH | On Site | Jul 20 |
 | ↳ | **[FREE Tech Fundamental Program - Mentoring from senior-level IT professional (Raleigh, NC) Raleigh, NC ID:9262867824](https://jobright.ai/jobs/info/669c443b7b9259a67122ebc6?utm_source=1058&utm_campaign=git)** | Raleigh, NC | On Site | Jul 20 |
 | ↳ | **[Break into Tech! - No Cost Tech Fundamentals Program ID:9262865037](https://jobright.ai/jobs/info/669c44427b9259a67122ec63?utm_source=1058&utm_campaign=git)** | South Solon, OH | On Site | Jul 20 |
-| ↳ | **[Free Tech Fundamentals Program ID:9262862017](https://jobright.ai/jobs/info/669c44427b9259a67122ec6a?utm_source=1058&utm_campaign=git)** | Dayton, OH | On Site | Jul 20 |
 | ↳ | **[FREE Tech Fundamental Program - Mentoring from senior-level IT professional (Dayton, OH) Dayton, OH ID:9262864964](https://jobright.ai/jobs/info/669c44427b9259a67122ec70?utm_source=1058&utm_campaign=git)** | Dayton, OH | On Site | Jul 20 |
+| ↳ | **[Free Tech Fundamentals Program ID:9262862017](https://jobright.ai/jobs/info/669c44427b9259a67122ec6a?utm_source=1058&utm_campaign=git)** | Dayton, OH | On Site | Jul 20 |
 | ↳ | **[Tech Fundamentals Program - Break into Tech! ID:9262863418](https://jobright.ai/jobs/info/669c44427b9259a67122ec93?utm_source=1058&utm_campaign=git)** | St Louis, MO | On Site | Jul 20 |
 | ↳ | **[FREE Tech Fundamentals Program - Launching Tech Career! (St. Louis, MO) ID:9262863399](https://jobright.ai/jobs/info/669c44427b9259a67122ecc5?utm_source=1058&utm_campaign=git)** | Alhambra, IL | On Site | Jul 20 |
 | ↳ | **[Break into Tech! - Cero-Cost Tech Fundamentals Program ID:9262870145](https://jobright.ai/jobs/info/669c44497b9259a67122ed54?utm_source=1058&utm_campaign=git)** | St Jacob, IL | On Site | Jul 20 |
@@ -225,13 +225,13 @@ For a complete list, see the full spreadsheet below:
 | **[Trinity Health](http://www.trinity-health.org)** | **[MRI Imaging Extern Contingent](https://jobright.ai/jobs/info/667f9ff868d5f108040adc25?utm_source=1058&utm_campaign=git)** | Ann Arbor, MI | On Site | Jul 20 |
 | **[Colorado Judicial Learning Center](https://cjlc.colorado.gov/)** | **[TEMPORARY Chronic Wasting Disease (CWD) Intern/Customer Service Intern – Hot Sulphur Springs, CO.](https://jobright.ai/jobs/info/669c51e18008632ed3282640?utm_source=1058&utm_campaign=git)** | Grand County, CO | On Site | Jul 20 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/669b3fb6a4d30cc55a248a19?utm_source=1058&utm_campaign=git)** | Herriman, UT | On Site | Jul 20 |
+| **[Hy-Vee](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/669c62340641517343ceb79a?utm_source=1058&utm_campaign=git)** | Omaha, NE | On Site | Jul 20 |
 | **[Yale-New Haven Health System](https://www.ynhhs.org/)** | **[Practice Administrative Associate - Internal Med/Pediatrics](https://jobright.ai/jobs/info/669b08aca74e7e350e8cd82f?utm_source=1058&utm_campaign=git)** | Trumbull, CT | On Site | Jul 19 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[IT Co-op/Intern](https://jobright.ai/jobs/info/669afdc56857f87d380fcc32?utm_source=1058&utm_campaign=git)** | Ithaca, NY | On Site | Jul 19 |
 | **[Copper River Information Technology](http://copperriverit.com)** | **[Data Entry Clerk Intern](https://jobright.ai/jobs/info/669b1f4fbbd510c200cb1f2d?utm_source=1058&utm_campaign=git)** | Clackamas, OR | On Site | Jul 19 |
 | **[University of Phoenix](http://www.phoenix.edu)** | **[IT Apprentice](https://jobright.ai/jobs/info/669af48e459d064d98ae2bfd?utm_source=1058&utm_campaign=git)** | Phoenix, AZ | On Site | Jul 19 |
 | **[Hy-Vee](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/669ae2b0f776b6fd3c6f9ceb?utm_source=1058&utm_campaign=git)** | West Des Moines, IA | On Site | Jul 19 |
 | **[Wave Life Sciences](http://wavelifesciences.com)** | **[Lab Systems Support Co-op (Fall 2024)](https://jobright.ai/jobs/info/669ae07bceee32d833887c7d?utm_source=1058&utm_campaign=git)** | Lexington, MA | On Site | Jul 19 |
-| **[Novartis](https://www.novartis.com)** | **[Science Support Intern](https://jobright.ai/jobs/info/669ba8f6b14cf70eadd8b705?utm_source=1058&utm_campaign=git)** | Cambridge, MA | On Site | Jul 19 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Housestaff](https://jobright.ai/jobs/info/669c12c4d59a3f3d6e46e79f?utm_source=1058&utm_campaign=git)** | Greater St. Louis | On Site | Jul 19 |
 | **[Hops n Drops](http://www.hopsndrops.com)** | **[Host & Expos Wanted](https://jobright.ai/jobs/info/669ac950e652ae7e0e9c2193?utm_source=1058&utm_campaign=git)** | Vancouver, WA | On Site | Jul 19 |
 | **[Lancesoft](http://www.lancesoft.com/)** | **[Data Entry Clerk/Data Entry II](https://jobright.ai/jobs/info/669ab5a474aa6bde60afaa1b?utm_source=1058&utm_campaign=git)** | Bellevue, WA | On Site | Jul 19 |
@@ -275,7 +275,6 @@ For a complete list, see the full spreadsheet below:
 | **[Keolis Commuter Services](http://keoliscs.com/)** | **[Conductor in Training](https://jobright.ai/jobs/info/66994a8b4eef6966d6c9fef3?utm_source=1058&utm_campaign=git)** | Boston, MA | On Site | Jul 18 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Desktop Support Specialist Senior/Inter/Assoc](https://jobright.ai/jobs/info/669959cfa1e1babc4c7bf6f3?utm_source=1058&utm_campaign=git)** | Ann Arbor, MI | On Site | Jul 18 |
 | **[NPower](http://www.npower.org/)** | **[Start Your Tech Journey: Cost-Free Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/669965b965897324e5001a67?utm_source=1058&utm_campaign=git)** | St Louis, MO | On Site | Jul 18 |
-| **[Neogen](http://www.neogen.com/)** | **[IT Intern](https://jobright.ai/jobs/info/66992b9f716c40a54686d8db?utm_source=1058&utm_campaign=git)** | Lansing, MI | On Site | Jul 18 |
 | **[Regal Marine Industries, Inc.](http://regalboats.com)** | **[Part Time IT Help Desk](https://jobright.ai/jobs/info/66990eb473d5af3493603b2a?utm_source=1058&utm_campaign=git)** | Orlando, FL | On Site | Jul 18 |
 | ↳ | **[Help Desk Intern](https://jobright.ai/jobs/info/66990eb473d5af3493603ac1?utm_source=1058&utm_campaign=git)** | Orlando, FL | On Site | Jul 18 |
 | **[Capital Metro](https://capmetro.org)** | **[Records Management Intern](https://jobright.ai/jobs/info/669b9dd76f5f8c0b7954cd66?utm_source=1058&utm_campaign=git)** | Austin, TX | On Site | Jul 18 |
@@ -294,6 +293,7 @@ For a complete list, see the full spreadsheet below:
 | **[The Breakers Resort Palm Beach](https://www.thebreakers.com)** | **[High School Recruit](https://jobright.ai/jobs/info/669965b565897324e5001988?utm_source=1058&utm_campaign=git)** | Palm Beach, FL | On Site | Jul 18 |
 | **[KVAT Food Stores Inc.](https://www.foodcity.com)** | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/6698727a71d79b41ac627948?utm_source=1058&utm_campaign=git)** | Crossville, TN | On Site | Jul 18 |
 | **[STRS Ohio](http://www.strsoh.org)** | **[Information Technology, Student (ITS Service Desk) - PTO](https://jobright.ai/jobs/info/669925d1cd4eace260f0d8fa?utm_source=1058&utm_campaign=git)** | Columbus, Ohio | Hybrid | Jul 18 |
+| **[Neogen](http://www.neogen.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6699659d84bb9ddaa52fe1c9?utm_source=1058&utm_campaign=git)** | Lansing, MI | On Site | Jul 18 |
 | **[Hy-Vee](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/6698556a869b93a19d046c7b?utm_source=1058&utm_campaign=git)** | Omaha, NE | On Site | Jul 17 |
 | **[Kin Insurance](https://www.kin.com)** | **[IT Intern](https://jobright.ai/jobs/info/66984c71a353cfcf9467f1d4?utm_source=1058&utm_campaign=git)** | Chicago, IL | On Site | Jul 17 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/66983cf53fd096c6a4d6034f?utm_source=1058&utm_campaign=git)** | Illinois, United States | On Site | Jul 17 |
@@ -355,9 +355,9 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/667c07e53bb63afb4af97623?utm_source=1058&utm_campaign=git)** | Lawrence, KS | On Site | Jul 16 |
 | **[The ASU Foundation](http://www.asufoundation.org/)** | **[Client Solutions Student Assistant](https://jobright.ai/jobs/info/66975f9c48e5c34d96cb0e2b?utm_source=1058&utm_campaign=git)** | Tempe, AZ | Hybrid | Jul 16 |
 | **[Desert Diamond Casinos & Entertainment](https://www.ddcaz.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6695ea5735367859a290fb93?utm_source=1058&utm_campaign=git)** | Tucson, AZ | On Site | Jul 16 |
-| **[Ntiva](http://www.ntiva.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/6696ee8c131daa9222d41118?utm_source=1058&utm_campaign=git)** | Huntington, WV | On Site | Jul 16 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Special Collections Undergraduate Desk Assistant](https://jobright.ai/jobs/info/6696f75d0e9dd8848c3c67fb?utm_source=1058&utm_campaign=git)** | Raleigh, NC | On Site | Jul 16 |
 | **[Capital Companies](https://www.capitalcompanies.us/)** | **[Client Services Representative I](https://jobright.ai/jobs/info/6695d6c23ef039e1ea032b5a?utm_source=1058&utm_campaign=git)** | Irvine, CA | On Site | Jul 16 |
+| **[Ntiva](http://www.ntiva.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/669703f802c012c979e06824?utm_source=1058&utm_campaign=git)** | Huntington, WV | On Site | Jul 16 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Tech & Eng Fellow Undergrad](https://jobright.ai/jobs/info/6696bb3d3629e72b95a6069d?utm_source=1058&utm_campaign=git)** | New York, NY | On Site | Jul 16 |
 | **[Jackson](https://www.jackson.com)** | **[ITCDP Strategic Support Associate](https://jobright.ai/jobs/info/6696db8b2a7ddfeaec1c7bbc?utm_source=1058&utm_campaign=git)** | East Lansing, MI | On Site | Jul 16 |
 | **[Altamira](https://www.altamiracorp.com/)** | **[IT Help Desk- COOP](https://jobright.ai/jobs/info/66996062e56fdd691f9cfc12?utm_source=1058&utm_campaign=git)** | Fairborn, OH, United States | On Site | Jul 16 |
