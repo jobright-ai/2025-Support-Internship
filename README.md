@@ -57,6 +57,9 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Manhattan Restorative Health Sciences](https://www.mrhsclinics.com)** | **[Manhattan Pain Fellowship](https://jobright.ai/jobs/info/66a24c6a8f8ac2b9c97308fe?utm_source=1058&utm_campaign=git)** | New York, NY | On Site | Jul 25 |
+| **[ProMed Molded Products](http://promedmolding.com)** | **[Intern - Technical Writer](https://jobright.ai/jobs/info/66a23f5d90f019998daf747c?utm_source=1058&utm_campaign=git)** | Minneapolis, MN | On Site | Jul 25 |
+| **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/66a22fb3ad01bcaed1ade87c?utm_source=1058&utm_campaign=git)** | Omaha, NE | On Site | Jul 25 |
 | **[Nichols Career Center](https://www.jcschools.us/nichols)** | **[Technology Intern](https://jobright.ai/jobs/info/66a208717494f4663db302b6?utm_source=1058&utm_campaign=git)** | Jefferson City, MO | On Site | Jul 25 |
 | **[Simon Roofing](http://www.simonroofing.com)** | **[IT Intern (Co-Op)](https://jobright.ai/jobs/info/66a200932be4c7b2f0be47a5?utm_source=1058&utm_campaign=git)** | Boardman, OH | On Site | Jul 25 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/66a1d83e774f913ffb073e5a?utm_source=1058&utm_campaign=git)** | Wichita, KS | On Site | Jul 25 |
@@ -64,10 +67,12 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/66a1d83e774f913ffb073e6e?utm_source=1058&utm_campaign=git)** | Olean, NY | On Site | Jul 25 |
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/66a1d83e774f913ffb073e76?utm_source=1058&utm_campaign=git)** | Erwin, NC | On Site | Jul 25 |
 | **[Praxis](https://www.praxisgroup.com)** | **[Yacht Ownership Administrator](https://jobright.ai/jobs/info/66a1f514be29db5ba38602ae?utm_source=1058&utm_campaign=git)** | Guernsey, WY | On Site | Jul 25 |
+| **[Credit One Bank](http://creditonebank.com)** | **[Internal - Collections Representative 1](https://jobright.ai/jobs/info/66a250f3a8221cc7b873ee1e?utm_source=1058&utm_campaign=git)** | Las Vegas, NV | On Site | Jul 25 |
 | **[CHS (Community Health Systems)](http://www.chs.net)** | **[Surg Tech Apprentice - CST Students](https://jobright.ai/jobs/info/66a1d4d4b28bb7bcab7569fe?utm_source=1058&utm_campaign=git)** | Fort Wayne, IN | On Site | Jul 25 |
+| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Assistant- Gift Shop](https://jobright.ai/jobs/info/66a225b8642c1d827779ddb2?utm_source=1058&utm_campaign=git)** | Columbus, OH | On Site | Jul 25 |
 | **[East Carolina University](http://www.ecu.edu/)** | **[Self-Help - Pirate Techs - Service Desk Technical Supports](https://jobright.ai/jobs/info/66a1c551b6c6b56a063ac250?utm_source=1058&utm_campaign=git)** | NC | On Site | Jul 25 |
-| **[KVAT Food Stores Inc.](https://www.foodcity.com)** | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a1afe0099e1efc505306e8?utm_source=1058&utm_campaign=git)** | Galax, VA | On Site | Jul 25 |
-| ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a1afe0099e1efc505306e6?utm_source=1058&utm_campaign=git)** | Dandridge, TN | On Site | Jul 25 |
+| **[KVAT Food Stores Inc.](https://www.foodcity.com)** | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a1afe0099e1efc505306e6?utm_source=1058&utm_campaign=git)** | Dandridge, TN | On Site | Jul 25 |
+| ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a1afe0099e1efc505306e8?utm_source=1058&utm_campaign=git)** | Galax, VA | On Site | Jul 25 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a1afe0099e1efc505306ff?utm_source=1058&utm_campaign=git)** | Oliver Springs, TN | On Site | Jul 25 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a1afe0099e1efc50530717?utm_source=1058&utm_campaign=git)** | Marion, VA | On Site | Jul 25 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a1afe5099e1efc5053077f?utm_source=1058&utm_campaign=git)** | Rossville, GA | On Site | Jul 25 |
@@ -82,6 +87,7 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a1b4ff349d237c2fa6c1ef?utm_source=1058&utm_campaign=git)** | Gadsden, AL | On Site | Jul 25 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a1b503349d237c2fa6c27b?utm_source=1058&utm_campaign=git)** | Kingston, TN | On Site | Jul 25 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a1b503349d237c2fa6c28f?utm_source=1058&utm_campaign=git)** | Clintwood, VA | On Site | Jul 25 |
+| **[MUSC Children's Health](https://musckids.org)** | **[Intern-PhD](https://jobright.ai/jobs/info/669ea8f60d86c6d524e485b6?utm_source=1058&utm_campaign=git)** | Charleston, SC | On Site | Jul 25 |
 | **[American Axle & Manufacturing](http://aam.com)** | **[Co-Op Information Technology](https://jobright.ai/jobs/info/66a1a3ae44dfa5a9b61c37da?utm_source=1058&utm_campaign=git)** | Three Rivers, MI | Hybrid | Jul 25 |
 | **[Simon Roofing](http://www.simonroofing.com)** | **[IT Intern (Co-Op)](https://jobright.ai/jobs/info/66a1a9ccc21cf5f1f4e2e601?utm_source=1058&utm_campaign=git)** | Youngstown, OH | On Site | Jul 25 |
 | **[PHL17](https://www.phl17.com)** | **[IT Intern - Fall Semester](https://jobright.ai/jobs/info/66a19af879b79d29681d64f6?utm_source=1058&utm_campaign=git)** | Philadelphia, PA | Hybrid | Jul 24 |
@@ -95,6 +101,7 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/66a111fb4237786245447443?utm_source=1058&utm_campaign=git)** | Mobile, AL | On Site | Jul 24 |
 | **[Jackson Healthcare LLC](http://www.jacksonhealthcare.com)** | **[Audio Visual Intern](https://jobright.ai/jobs/info/66a10e6677417df7b9f091cd?utm_source=1058&utm_campaign=git)** | Alpharetta, GA | On Site | Jul 24 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Global Technology Solutions Internship (Remote & Hybrid)](https://jobright.ai/jobs/info/667b5c07144544f4c57b5216?utm_source=1058&utm_campaign=git)** | Virginia, United States | Hybrid | Jul 24 |
+| **[PSU Industrial Engineering](https://www.ime.psu.edu/)** | **[Part-Time Lions Gate Front Desk Assistant - Federal Work Study - Residence Life Abington](https://jobright.ai/jobs/info/66a23e0c591ddbc27da15d80?utm_source=1058&utm_campaign=git)** | Abington, PA | On Site | Jul 24 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6667a006a7ea1a8f547a3943?utm_source=1058&utm_campaign=git)** | Canal Winchester, OH | On Site | Jul 24 |
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6684e4cbb57bbac4cad72545?utm_source=1058&utm_campaign=git)** | Erie, PA | On Site | Jul 24 |
 | **[iVenture Solutions](https://www.iventuresolutions.com/)** | **[IT Internship - Fully On-Site](https://jobright.ai/jobs/info/6684d0c1722afc8d603ee546?utm_source=1058&utm_campaign=git)** | Jacksonville, FL | On Site | Jul 24 |
@@ -111,30 +118,29 @@ For a complete list, see the full spreadsheet below:
 | **[Hy-Vee](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/66a11627de97f55c0168f843?utm_source=1058&utm_campaign=git)** | Overland Park, KS | On Site | Jul 24 |
 | **[Vsolvit](http://www.vsolvit.com/)** | **[DOCUMENTATION INTERN](https://jobright.ai/jobs/info/66a1badd91191f45df57dd02?utm_source=1058&utm_campaign=git)** | California, United States | On Site | Jul 24 |
 | **[KVAT Food Stores Inc.](https://www.foodcity.com)** | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a098d12cf08baabd689bee?utm_source=1058&utm_campaign=git)** | Hazard, KY | On Site | Jul 24 |
-| ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a603557?utm_source=1058&utm_campaign=git)** | Pigeon Forge, TN | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a603553?utm_source=1058&utm_campaign=git)** | Calhoun, GA | On Site | Jul 24 |
+| ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a603557?utm_source=1058&utm_campaign=git)** | Pigeon Forge, TN | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a60355b?utm_source=1058&utm_campaign=git)** | Harriman, TN | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a603558?utm_source=1058&utm_campaign=git)** | Winchester, TN | On Site | Jul 24 |
-| ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a60355d?utm_source=1058&utm_campaign=git)** | Fort Oglethorpe, GA | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a603563?utm_source=1058&utm_campaign=git)** | Jonesborough, TN | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a60355c?utm_source=1058&utm_campaign=git)** | Loudon, TN | On Site | Jul 24 |
+| ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a60355d?utm_source=1058&utm_campaign=git)** | Fort Oglethorpe, GA | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a603564?utm_source=1058&utm_campaign=git)** | St Paul, VA | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a603565?utm_source=1058&utm_campaign=git)** | Chatsworth, GA | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a603567?utm_source=1058&utm_campaign=git)** | Gatlinburg, TN | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a603569?utm_source=1058&utm_campaign=git)** | Vonore, TN | On Site | Jul 24 |
+| ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a60356d?utm_source=1058&utm_campaign=git)** | Pennington Gap, VA | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a60356b?utm_source=1058&utm_campaign=git)** | Etowah, TN | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a60356f?utm_source=1058&utm_campaign=git)** | Damascus, VA | On Site | Jul 24 |
-| ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a60356d?utm_source=1058&utm_campaign=git)** | Pennington Gap, VA | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a60356c?utm_source=1058&utm_campaign=git)** | Church Hill, TN | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a603571?utm_source=1058&utm_campaign=git)** | Kimball, TN | On Site | Jul 24 |
-| ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a603575?utm_source=1058&utm_campaign=git)** | Maryville, TN | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a603576?utm_source=1058&utm_campaign=git)** | Cookeville, TN | On Site | Jul 24 |
+| ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a603575?utm_source=1058&utm_campaign=git)** | Maryville, TN | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a066f3585b612183432b14?utm_source=1058&utm_campaign=git)** | Pikeville, KY | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a066eb585b612183432a4d?utm_source=1058&utm_campaign=git)** | Weber City, VA | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a066f3585b612183432b1c?utm_source=1058&utm_campaign=git)** | Dalton, GA | On Site | Jul 24 |
-| ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a065bc0e159f780df65065?utm_source=1058&utm_campaign=git)** | Lenoir City, TN | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a065ec0e159f780df654a0?utm_source=1058&utm_campaign=git)** | Athens, TN | On Site | Jul 24 |
-| **[Thrive Skilled Pediatric Care](https://www.thrivespc.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/66a063dab7c3431a09f4de27?utm_source=1058&utm_campaign=git)** | Temple, TX | On Site | Jul 24 |
+| ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a065bc0e159f780df65065?utm_source=1058&utm_campaign=git)** | Lenoir City, TN | On Site | Jul 24 |
 | **[California Franchise Tax Board](http://www.ftb.ca.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/66a1439159051cfbf53a8019?utm_source=1058&utm_campaign=git)** | Sacramento, CA | On Site | Jul 24 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/66a1b6b9201fec70230d490b?utm_source=1058&utm_campaign=git)** | Erwin, NC | On Site | Jul 24 |
 | **[Trilogy Health Services](http://www.trilogyhs.com)** | **[QMA- Cert Resident Medication Asst](https://jobright.ai/jobs/info/66a063eab7c3431a09f4dfe1?utm_source=1058&utm_campaign=git)** | Peru, IN | On Site | Jul 23 |
@@ -156,10 +162,12 @@ For a complete list, see the full spreadsheet below:
 | **[Hexagon Safety, Infrastructure & Geospatial](https://hexagon.com/company/divisions/safety-infrastructure-geospatial)** | **[Technical Proposal Writer - Intern](https://jobright.ai/jobs/info/66a00160a4a9d243b7e56ae1?utm_source=1058&utm_campaign=git)** | Madison, AL | On Site | Jul 23 |
 | **[Hy-Vee](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/669fdae6a8a919031f05f3ee?utm_source=1058&utm_campaign=git)** | Urbandale, IA | On Site | Jul 23 |
 | **[Mueller Water Products](http://www.muellerwaterproducts.com/)** | **[IT Services Intern](https://jobright.ai/jobs/info/669fd57aacc3cbe824c668e4?utm_source=1058&utm_campaign=git)** | Decatur, IL | Hybrid | Jul 23 |
+| **[BDO USA](https://www.bdo.com/)** | **[Information Technology Intern - Winter 2025 (Remote)](https://jobright.ai/jobs/info/66a2426ee1424323d84530df?utm_source=1058&utm_campaign=git)** | Grand Rapids, MI | On Site | Jul 23 |
 | **[Bryant and Stratton College](https://www.bryantstratton.edu)** | **[Customer Service - Student Financial Aid](https://jobright.ai/jobs/info/669fa8a8ef9053e1471db464?utm_source=1058&utm_campaign=git)** | Orchard Park, NY | On Site | Jul 23 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM, Coweta](https://jobright.ai/jobs/info/66838c9b2c4a444fbfe64610?utm_source=1058&utm_campaign=git)** | Coweta, OK | On Site | Jul 23 |
 | ↳ | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6683926a12c00be519a72971?utm_source=1058&utm_campaign=git)** | Fishers, IN | On Site | Jul 23 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Medication History Pharmacy Intern Grand Rapids (for Class of 2026 Students)](https://jobright.ai/jobs/info/666749ebc4e1db34c68ef069?utm_source=1058&utm_campaign=git)** | Grand Rapids, MI | Hybrid | Jul 23 |
+| **[Poudre School District](http://www.psdschools.org)** | **[INTERNAL ONLY Information Technology Field Specialist- Information System MS](https://jobright.ai/jobs/info/66a225bc642c1d827779de3e?utm_source=1058&utm_campaign=git)** | Fort Collins, CO | On Site | Jul 23 |
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6683a5d32858e264224703f0?utm_source=1058&utm_campaign=git)** | Carmel, IN | On Site | Jul 23 |
 | **[Legend Homes](http://legendhomeshouston.com/)** | **[IT Intern](https://jobright.ai/jobs/info/66834126a77cf77fee2dcacf?utm_source=1058&utm_campaign=git)** | Houston, TX | On Site | Jul 23 |
 | **[SimplyHome](https://www.simplyrent.com)** | **[IT Intern](https://jobright.ai/jobs/info/66833ae560002e71662cd90e?utm_source=1058&utm_campaign=git)** | Houston, TX | On Site | Jul 23 |
@@ -182,13 +190,14 @@ For a complete list, see the full spreadsheet below:
 | **[Catawba Valley Medical Center](https://www.catawbavalleyhealth.org/)** | **[Radiologic Imaging Apprentice / Radiologic Imaging / PRN](https://jobright.ai/jobs/info/669ee05f6d37918f3bac857d?utm_source=1058&utm_campaign=git)** | North Carolina, United States | On Site | Jul 22 |
 | **[Windsor](https://www.windsorstore.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/669ea8f60d86c6d524e4851b?utm_source=1058&utm_campaign=git)** | Santa Fe Springs, CA | On Site | Jul 22 |
 | **[Altamira](https://www.altamiracorp.com/)** | **[IT Help Desk- COOP](https://jobright.ai/jobs/info/66994d7b631d3c62754166ce?utm_source=1058&utm_campaign=git)** | Fairborn, OH | On Site | Jul 22 |
-| **[MUSC Children's Health](https://musckids.org)** | **[Intern-PhD](https://jobright.ai/jobs/info/669ea8f60d86c6d524e485b6?utm_source=1058&utm_campaign=git)** | Charleston, SC | On Site | Jul 22 |
 | **[CCMSI](http://www.ccmsi.com)** | **[WC Claim Associate I LevelUP](https://jobright.ai/jobs/info/669e8cc70a6fdfaac9d5d9b8?utm_source=1058&utm_campaign=git)** | Maitland, FL | On Site | Jul 22 |
 | **[Atlas Technica](http://www.atlastechnica.com)** | **[Intern Trainee](https://jobright.ai/jobs/info/669e87eefd9fb1454f0b3a36?utm_source=1058&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 22 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[PT Customer Service Rep I - Work Based Learning (Calhoun, Georgia, United States, 30701)](https://jobright.ai/jobs/info/669e92fd1fc72dfa202d1301?utm_source=1058&utm_campaign=git)** | Calhoun, GA | On Site | Jul 22 |
 | **[Hy-Vee](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/669eaef317d5ed9a58b844a2?utm_source=1058&utm_campaign=git)** | Coralville, IA | On Site | Jul 22 |
 | **[Avancez](https://www.avancezassembly.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/669e7b3348c0502967efc274?utm_source=1058&utm_campaign=git)** | Hazel Park, MI | On Site | Jul 22 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[CS&S Core - Apprentice II](https://jobright.ai/jobs/info/669e7150ae420db141e9fea0?utm_source=1058&utm_campaign=git)** | Omaha, NE | Hybrid | Jul 22 |
+| **[Thrive Skilled Pediatric Care](https://www.thrivespc.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/66a246c86dde01000490c69e?utm_source=1058&utm_campaign=git)** | Temple, TX | On Site | Jul 22 |
+| **[Metropolitan Transportation Authority](http://mta.info)** | **[Tech &amp; Eng Fellow Grad](https://jobright.ai/jobs/info/66a23c435c14cdf3ee23e2e3?utm_source=1058&utm_campaign=git)** | New York, NY | On Site | Jul 22 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Production Associate (Premium-Internal Candidates)](https://jobright.ai/jobs/info/669df8b3af8d82a28cdd04ed?utm_source=1058&utm_campaign=git)** | Washington, IN | On Site | Jul 22 |
 | **[NPower](http://www.npower.org/)** | **[Break into Tech! - No Cost Tech Fundamentals Program](https://jobright.ai/jobs/info/669de3ea15950b55540169ba?utm_source=1058&utm_campaign=git)** | Warren, MI | On Site | Jul 22 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/66484acb5b3fae022671cd5d?utm_source=1058&utm_campaign=git)** | Portland, OR | On Site | Jul 22 |
@@ -204,7 +213,7 @@ For a complete list, see the full spreadsheet below:
 | **[Hy-Vee](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/669eba4bd9dab4d724384add?utm_source=1058&utm_campaign=git)** | Coralville #1, 8th Street, Coralville, IA | On Site | Jul 22 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/66469c21e232a930ae08d101?utm_source=1058&utm_campaign=git)** | Vancouver, WA | On Site | Jul 21 |
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6675dcecd40a616e23782bf6?utm_source=1058&utm_campaign=git)** | Springfield, OR | On Site | Jul 21 |
-| ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/66484ad45b3fae022671cd8b?utm_source=1058&utm_campaign=git)** | Beaverton, OR | On Site | Jul 21 |
+| ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/66484ad45b3fae022671cd93?utm_source=1058&utm_campaign=git)** | Beaverton, OR | On Site | Jul 21 |
 | **[Goodwill Industries](https://goodwillakron.org/)** | **[Customer Service and Shipping](https://jobright.ai/jobs/info/669d0e9d882781b0ee6b8d8e?utm_source=1058&utm_campaign=git)** | Akron, OH | On Site | Jul 21 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6648c684c271880be5e5c110?utm_source=1058&utm_campaign=git)** | Gresham, OR | On Site | Jul 21 |
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6663a67d1fcd0b606a5b4ead?utm_source=1058&utm_campaign=git)** | Littleton, NH | On Site | Jul 21 |
@@ -263,7 +272,9 @@ For a complete list, see the full spreadsheet below:
 | **[City of New York](http://www1.nyc.gov)** | **[College Aide/Summer Intern](https://jobright.ai/jobs/info/669ac2190147025a8fd9a87b?utm_source=1058&utm_campaign=git)** | Manhattan, NY | On Site | Jul 19 |
 | **[Nucor Corporation](http://www.nucor.com)** | **[IT Intern/Co-op (Spring/Summer 2024) 1](https://jobright.ai/jobs/info/669aa0e21550284ce0293430?utm_source=1058&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 19 |
 | **[TELUS International](https://www.telusinternational.com)** | **[Personalized Internet Assessor - US (Spanish speakers)](https://jobright.ai/jobs/info/669d1aca1e37f365816fcef9?utm_source=1058&utm_campaign=git)** | United States | Remote | Jul 19 |
+| **[Interpublic Group](http://www.interpublic.com)** | **[IT Intern](https://jobright.ai/jobs/info/66a24d564c8e52547bd6269d?utm_source=1058&utm_campaign=git)** | Omaha, NE | On Site | Jul 19 |
 | **[Bbyo](https://www.bbyo.org)** | **[Movement Experiences Intern - General Customer Service Support](https://jobright.ai/jobs/info/669e4f234761975356c351c5?utm_source=1058&utm_campaign=git)** | Washington, DC | On Site | Jul 19 |
+| **[ITSS](https://www.itssglobal.com/)** | **[Technical Intern](https://jobright.ai/jobs/info/66a2427ce1424323d845317c?utm_source=1058&utm_campaign=git)** | Goldsboro, NC | On Site | Jul 19 |
 | **[Wearwell](http://wearwell.com)** | **[Intern (Information Technology)](https://jobright.ai/jobs/info/669e3a25e01d13c184ac352d?utm_source=1058&utm_campaign=git)** | Smyrna, TN | On Site | Jul 19 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6687efff8d77caa13731f955?utm_source=1058&utm_campaign=git)** | Champaign, IL | On Site | Jul 19 |
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6675864a24f553052c296c27?utm_source=1058&utm_campaign=git)** | Lynnwood, WA | On Site | Jul 19 |
@@ -286,14 +297,7 @@ For a complete list, see the full spreadsheet below:
 | **[Vibe Credit Union](http://vibecreditunion.com)** | **[IT Support Specialist Intern](https://jobright.ai/jobs/info/669ffc18412b679d59f3ed99?utm_source=1058&utm_campaign=git)** | Novi, MI | On Site | Jul 18 |
 | **[State Bank of Southern Utah](http://sbsu.com)** | **[Intern - IT](https://jobright.ai/jobs/info/66996e6fa41ce254938c5a78?utm_source=1058&utm_campaign=git)** | Cedar City, UT | On Site | Jul 18 |
 | **[Iowa Western Community College](https://www.iwcc.edu)** | **[Fall Cyber Library Desk Worker](https://jobright.ai/jobs/info/66996050e56fdd691f9cfaba?utm_source=1058&utm_campaign=git)** | Council Bluffs, IA | On Site | Jul 18 |
-| **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6676dc5d52e59db0b1bd4f8e?utm_source=1058&utm_campaign=git)** | Houston, TX | On Site | Jul 18 |
 | **[Keolis Commuter Services](http://keoliscs.com/)** | **[Conductor in Training](https://jobright.ai/jobs/info/66994a8b4eef6966d6c9fef3?utm_source=1058&utm_campaign=git)** | Boston, MA | On Site | Jul 18 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Desktop Support Specialist Senior/Inter/Assoc](https://jobright.ai/jobs/info/669959cfa1e1babc4c7bf6f3?utm_source=1058&utm_campaign=git)** | Ann Arbor, MI | On Site | Jul 18 |
 | **[NPower](http://www.npower.org/)** | **[Start Your Tech Journey: Cost-Free Tech/IT Fundamentals Program -](https://jobright.ai/jobs/info/669965b965897324e5001a67?utm_source=1058&utm_campaign=git)** | St Louis, MO | On Site | Jul 18 |
-| **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/669d09a1fc1b9f558ef00f96?utm_source=1058&utm_campaign=git)** | Humble, TX | On Site | Jul 18 |
-| **[Capital Metro](https://capmetro.org)** | **[Records Management Intern](https://jobright.ai/jobs/info/669b9dd76f5f8c0b7954cd66?utm_source=1058&utm_campaign=git)** | Austin, TX | On Site | Jul 18 |
-| **[Austin Community College](http://austincc.edu)** | **[Intern, Computer Support (Temporary)](https://jobright.ai/jobs/info/6698f764967a910d444faec6?utm_source=1058&utm_campaign=git)** | Austin, TX | On Site | Jul 18 |
-| **[Credit One Bank](http://creditonebank.com)** | **[Collections Representative - Internal](https://jobright.ai/jobs/info/669e3a25e01d13c184ac355a?utm_source=1058&utm_campaign=git)** | Las Vegas, NV | On Site | Jul 18 |
-| **[ACT Lighting](https://www.actlighting.com/)** | **[Technical Services Internship (Hackensack)](https://jobright.ai/jobs/info/6677d17a97271e26801e1ce3?utm_source=1058&utm_campaign=git)** | Hackensack, NJ | On Site | Jul 18 |
-| **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/667cf4ddbfcdafe412391276?utm_source=1058&utm_campaign=git)** | Rochester, MI | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
