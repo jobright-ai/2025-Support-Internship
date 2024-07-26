@@ -133,8 +133,8 @@ For a complete list, see the full spreadsheet below:
 | **[Hy-Vee](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/66a11627de97f55c0168f843?utm_campaign=1058&utm_source=git)** | Overland Park, KS | On Site | Jul 24 |
 | **[Vsolvit](http://www.vsolvit.com/)** | **[DOCUMENTATION INTERN](https://jobright.ai/jobs/info/66a1badd91191f45df57dd02?utm_campaign=1058&utm_source=git)** | California, United States | On Site | Jul 24 |
 | **[KVAT Food Stores Inc.](https://www.foodcity.com)** | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a098d12cf08baabd689bee?utm_campaign=1058&utm_source=git)** | Hazard, KY | On Site | Jul 24 |
-| ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a603553?utm_campaign=1058&utm_source=git)** | Calhoun, GA | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a603557?utm_campaign=1058&utm_source=git)** | Pigeon Forge, TN | On Site | Jul 24 |
+| ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a603553?utm_campaign=1058&utm_source=git)** | Calhoun, GA | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a603558?utm_campaign=1058&utm_source=git)** | Winchester, TN | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a60355b?utm_campaign=1058&utm_source=git)** | Harriman, TN | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a603563?utm_campaign=1058&utm_source=git)** | Jonesborough, TN | On Site | Jul 24 |
@@ -148,8 +148,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a60356d?utm_campaign=1058&utm_source=git)** | Pennington Gap, VA | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a60356f?utm_campaign=1058&utm_source=git)** | Damascus, VA | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a60356b?utm_campaign=1058&utm_source=git)** | Etowah, TN | On Site | Jul 24 |
-| ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a603576?utm_campaign=1058&utm_source=git)** | Cookeville, TN | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a603575?utm_campaign=1058&utm_source=git)** | Maryville, TN | On Site | Jul 24 |
+| ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a603576?utm_campaign=1058&utm_source=git)** | Cookeville, TN | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a07935f493ff248a603571?utm_campaign=1058&utm_source=git)** | Kimball, TN | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a066f3585b612183432b14?utm_campaign=1058&utm_source=git)** | Pikeville, KY | On Site | Jul 24 |
 | ↳ | **[Courtesy Clerk (Bagger) - Student](https://jobright.ai/jobs/info/66a066eb585b612183432a4d?utm_campaign=1058&utm_source=git)** | Weber City, VA | On Site | Jul 24 |
@@ -179,7 +179,7 @@ For a complete list, see the full spreadsheet below:
 | **[Bryant and Stratton College](https://www.bryantstratton.edu)** | **[Customer Service - Student Financial Aid](https://jobright.ai/jobs/info/669fa8a8ef9053e1471db464?utm_campaign=1058&utm_source=git)** | Orchard Park, NY | On Site | Jul 23 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM, Coweta](https://jobright.ai/jobs/info/66838c9b2c4a444fbfe64610?utm_campaign=1058&utm_source=git)** | Coweta, OK | On Site | Jul 23 |
 | ↳ | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6683926a12c00be519a72971?utm_campaign=1058&utm_source=git)** | Fishers, IN | On Site | Jul 23 |
-| **[Corewell Health](https://corewellhealth.org)** | **[Medication History Pharmacy Intern Grand Rapids (for Class of 2026 Students)](https://jobright.ai/jobs/info/66626edcf69509faa21ea49a?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | Hybrid | Jul 23 |
+| **[Corewell Health](https://corewellhealth.org)** | **[Medication History Pharmacy Intern Grand Rapids (for Class of 2026 Students)](https://jobright.ai/jobs/info/666749ebc4e1db34c68ef069?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | Hybrid | Jul 23 |
 | **[Poudre School District](http://www.psdschools.org)** | **[INTERNAL ONLY Information Technology Field Specialist- Information System MS](https://jobright.ai/jobs/info/66a225bc642c1d827779de3e?utm_campaign=1058&utm_source=git)** | Fort Collins, CO | On Site | Jul 23 |
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6683a5d32858e264224703f0?utm_campaign=1058&utm_source=git)** | Carmel, IN | On Site | Jul 23 |
 | **[Legend Homes](http://legendhomeshouston.com/)** | **[IT Intern](https://jobright.ai/jobs/info/66834126a77cf77fee2dcacf?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Jul 23 |
@@ -202,7 +202,6 @@ For a complete list, see the full spreadsheet below:
 | **[Catawba Valley Medical Center](https://www.catawbavalleyhealth.org/)** | **[Radiologic Imaging Apprentice / Radiologic Imaging / PRN](https://jobright.ai/jobs/info/669ee05f6d37918f3bac857d?utm_campaign=1058&utm_source=git)** | North Carolina, United States | On Site | Jul 22 |
 | **[Windsor](https://www.windsorstore.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/669ea8f60d86c6d524e4851b?utm_campaign=1058&utm_source=git)** | Santa Fe Springs, CA | On Site | Jul 22 |
 | **[Altamira](https://www.altamiracorp.com/)** | **[IT Help Desk- COOP](https://jobright.ai/jobs/info/66994d7b631d3c62754166ce?utm_campaign=1058&utm_source=git)** | Fairborn, OH | On Site | Jul 22 |
-| **[CCMSI](http://www.ccmsi.com)** | **[WC Claim Associate I LevelUP](https://jobright.ai/jobs/info/669e8cc70a6fdfaac9d5d9b8?utm_campaign=1058&utm_source=git)** | Maitland, FL | On Site | Jul 22 |
 | **[Atlas Technica](http://www.atlastechnica.com)** | **[Intern Trainee](https://jobright.ai/jobs/info/669e87eefd9fb1454f0b3a36?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jul 22 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[PT Customer Service Rep I - Work Based Learning (Calhoun, Georgia, United States, 30701)](https://jobright.ai/jobs/info/669e92fd1fc72dfa202d1301?utm_campaign=1058&utm_source=git)** | Calhoun, GA | On Site | Jul 22 |
 | **[Hy-Vee](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/669eaef317d5ed9a58b844a2?utm_campaign=1058&utm_source=git)** | Coralville, IA | On Site | Jul 22 |
