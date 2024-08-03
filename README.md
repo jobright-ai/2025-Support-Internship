@@ -192,7 +192,7 @@ For a complete list, see the full spreadsheet below:
 | **[Markel Corporation](https://www.markel.com)** | **[Markel 2025 IT Internship](https://jobright.ai/jobs/info/66a7e4cec052561f7e481a5c?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Jul 29 |
 | **[Hy-Vee](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/66a7e5f2259501eb30bd987f?utm_campaign=1058&utm_source=git)** | Urbandale, IA | On Site | Jul 29 |
 | **[Linn-Benton Community College](http://www.linnbenton.edu/)** | **[Financial Aid Clerk WS, Student](https://jobright.ai/jobs/info/66a7d5a03e6785f775134bb0?utm_campaign=1058&utm_source=git)** | Albany, OR | On Site | Jul 29 |
-| **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[IT Service Desk Associate](https://jobright.ai/jobs/info/66a7ca1dfe3ec3acdcd1f0e0?utm_campaign=1058&utm_source=git)** | Pooler, GA | On Site | Jul 29 |
+| **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[IT Service Desk Associate](https://jobright.ai/jobs/info/66a7cc66188a84b833435252?utm_campaign=1058&utm_source=git)** | Pooler, GA | On Site | Jul 29 |
 | **[Snap](https://www.snap.com)** | **[2024 Technical Writer, Research Intern](https://jobright.ai/jobs/info/665921b8dc30f127d7d70cc1?utm_campaign=1058&utm_source=git)** | Palo Alto, CA | On Site | Jul 29 |
 | **[ARA](https://www.ara.com)** | **[IT Support Assistant](https://jobright.ai/jobs/info/668b7b859f8be2511310f9c7?utm_campaign=1058&utm_source=git)** | Randolph, VT | On Site | Jul 29 |
 | **[One Community Bank](https://www.onecommunity.bank)** | **[Bank Teller](https://jobright.ai/jobs/info/66ab3c6f402dfe2594bb9a96?utm_campaign=1058&utm_source=git)** | Sun Prairie, WI | On Site | Jul 29 |
@@ -205,6 +205,5 @@ For a complete list, see the full spreadsheet below:
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/66a796a56d970a18cb34a421?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Jul 28 |
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6675746031f584ec4862611a?utm_campaign=1058&utm_source=git)** | Arnold, MO | On Site | Jul 28 |
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6689df3e561f55e570147f6a?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Jul 28 |
-| **[myGwork](https://www.mygwork.com/en/)** | **[Intern - Information Systems and Communication Technology](https://jobright.ai/jobs/info/66a678c50e9416a97df2df99?utm_campaign=1058&utm_source=git)** | New York, United States | Hybrid | Jul 27 |
-| **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/66a4ee5f8041ed87196fc63c?utm_campaign=1058&utm_source=git)** | Cheyenne, WY | On Site | Jul 27 |
+| **[myGwork](https://www.mygwork.com/en/)** | **[Intern - Information Systems and Communication Technology](https://jobright.ai/jobs/info/66a5a126d32c7a7e9455f3df?utm_campaign=1058&utm_source=git)** | New York, United States | Hybrid | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
