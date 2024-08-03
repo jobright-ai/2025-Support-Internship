@@ -58,7 +58,7 @@ For a complete list, see the full spreadsheet below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Hy-Vee](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/66ad5f4d84dbce20c654c7bd?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | Aug 02 |
-| **[Credit One Bank](http://creditonebank.com)** | **[Internal - Collections Representative I - S1](https://jobright.ai/jobs/info/66ad50b364b84440849474d4?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Aug 02 |
+| **[Benchmark](http://www.bench.com)** | **[Intern - Documentation Control Intern](https://jobright.ai/jobs/info/66ad6a8300be427b7f305784?utm_campaign=1058&utm_source=git)** | Tempe, AZ | On Site | Aug 02 |
 | **[ARAMARK Refreshment Services](http://www.aramarkrefreshments.com/)** | **[Student Barista - Starbucks Student Center](https://jobright.ai/jobs/info/66ad38fee9d1c48af4f58351?utm_campaign=1058&utm_source=git)** | Tuscaloosa, AL | On Site | Aug 02 |
 | **[Action Behavior Centers](https://www.actionbehavior.com)** | **[INTERNAL ONLY - Clinic Admissions Associate](https://jobright.ai/jobs/info/66ad24910480bf22e41f847e?utm_campaign=1058&utm_source=git)** | Broomfield, CO | On Site | Aug 02 |
 | **[Spokane Teachers Credit Union](https://stcu.org/)** | **[Help Desk IT Intern](https://jobright.ai/jobs/info/66ad16d0f3a6da9003467261?utm_campaign=1058&utm_source=git)** | Liberty Lake, WA | On Site | Aug 02 |
@@ -95,7 +95,6 @@ For a complete list, see the full spreadsheet below:
 | **[The Poole and Kent Corporation](https://www.poole-kent.com)** | **[IT Helpdesk Intern (On-Site)](https://jobright.ai/jobs/info/66abc601df6cc57ead19bcd4?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Aug 01 |
 | **[Hy-Vee](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/66abb297cdf3f5cef04078da?utm_campaign=1058&utm_source=git)** | West Des Moines, IA | On Site | Aug 01 |
 | **[PrimeFlight Aviation Services](http://primeflight.com)** | **[Customer Service Agent-Rochester International Airport (ROC)](https://jobright.ai/jobs/info/66abc620df6cc57ead19bf00?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | Aug 01 |
-| ↳ | **[Customer Service Agent- Baltimore/Washington International Thurgood Marshall Airport ( BWI)](https://jobright.ai/jobs/info/66ab883662c33be23c696e17?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Aug 01 |
 | ↳ | **[Customer Service Agent - Buffalo Niagara International Airport (BUF)](https://jobright.ai/jobs/info/66abcb761c56da80efd61072?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Aug 01 |
 | **[WuXi Biologics](https://www.wuxibiologics.com/)** | **[US IT Technical Support Intern](https://jobright.ai/jobs/info/668fe76685be61dbaa64a0f5?utm_campaign=1058&utm_source=git)** | Cranbury, NJ | On Site | Aug 01 |
 | **[Metro Los Angeles](https://www.metro.net)** | **[TEMPORARY SPECIAL EVENTS ASSISTANT](https://jobright.ai/jobs/info/66ab629aba7a250964cd7fe9?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 01 |
@@ -209,5 +208,4 @@ For a complete list, see the full spreadsheet below:
 | **[myGwork](https://www.mygwork.com/en/)** | **[Intern - Information Systems and Communication Technology](https://jobright.ai/jobs/info/66a678c50e9416a97df2df99?utm_campaign=1058&utm_source=git)** | New York, United States | Hybrid | Jul 27 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/66a4ee5f8041ed87196fc63c?utm_campaign=1058&utm_source=git)** | Cheyenne, WY | On Site | Jul 27 |
 | **[Hermès International](https://www.hermes.com/us/en/)** | **[IT Intern - Generation H](https://jobright.ai/jobs/info/66a48b00a640d8c2bb94e108?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jul 27 |
-| **[Santa Barbara County Education Office](https://www.sbceo.org/)** | **[Student Worker](https://jobright.ai/jobs/info/66a431388d3eebff0ac37878?utm_campaign=1058&utm_source=git)** | Santa Maria, CA | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
