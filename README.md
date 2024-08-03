@@ -62,7 +62,8 @@ For a complete list, see the full spreadsheet below:
 | **[King's Daughters](https://www.kingsdaughtershealth.com)** | **[Rad Tech-Student](https://jobright.ai/jobs/info/66ae3cc2a8095743c7818314?utm_campaign=1058&utm_source=git)** | Kentucky, United States | On Site | Aug 03 |
 | **[City of New York](http://www1.nyc.gov)** | **[Applications Support College Aide](https://jobright.ai/jobs/info/66ae39f21a7287370e5a90bd?utm_campaign=1058&utm_source=git)** | All, MO | On Site | Aug 03 |
 | **[Token Metrics](http://tokenmetrics.com)** | **[Crypto/Web3 Technical Writer(Remote)](https://jobright.ai/jobs/info/66ae1aa647d782bc56401475?utm_campaign=1058&utm_source=git)** | Oregon, United States | On Site | Aug 03 |
-| **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/665026c0a84f87e434e098ce?utm_campaign=1058&utm_source=git)** | Woodland, WA | On Site | Aug 03 |
+| **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6630ea4c8ad574ed183f2e35?utm_campaign=1058&utm_source=git)** | Alice, TX | On Site | Aug 03 |
+| ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/665026c0a84f87e434e098ce?utm_campaign=1058&utm_source=git)** | Woodland, WA | On Site | Aug 03 |
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6631cd1c85a9dfaed8f62446?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Aug 03 |
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/666451be085d8a72019c1c5a?utm_campaign=1058&utm_source=git)** | Battle Ground, WA | On Site | Aug 03 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Respiratory Care Tech - PRN](https://jobright.ai/jobs/info/6691b8cdcc90539b647635d4?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Aug 03 |
@@ -70,6 +71,7 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6676210b4b84ce845b7f1f64?utm_campaign=1058&utm_source=git)** | Troutdale, OR | On Site | Aug 03 |
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/66571b33ace48c3138bc1d24?utm_campaign=1058&utm_source=git)** | Happy Valley, OR | On Site | Aug 03 |
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/667608830f75793ae234d781?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Aug 03 |
+| **[Kimpton Hotel & Restaurant Group](https://www.kimptonhotels.com/)** | **[Trainee - Rooms J1-Kimpton Vero Beach Hotel + Spa](https://jobright.ai/jobs/info/6691b43acdd4fd0eb3caecde?utm_campaign=1058&utm_source=git)** | Vero Beach, FL | On Site | Aug 03 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Student - Rental Tech/Customer Service - OAC](https://jobright.ai/jobs/info/66ae0870367779177a8fc4a7?utm_campaign=1058&utm_source=git)** | Orem, UT | On Site | Aug 03 |
 | **[Baylor Scott & White Health](https://www.bswhealth.com/)** | **[Radiologic Tech Student](https://jobright.ai/jobs/info/66adb330d5d36ef7c67d2181?utm_campaign=1058&utm_source=git)** | Temple, TX | On Site | Aug 03 |
 | **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[Respiratory Aide II - Student Respiratory Therapist](https://jobright.ai/jobs/info/66ae6e561c4b6a6a07d32f5f?utm_campaign=1058&utm_source=git)** | Lima, OH | On Site | Aug 03 |
@@ -134,7 +136,7 @@ For a complete list, see the full spreadsheet below:
 | **[LandMark Implement, Inc](http://www.landmarkimp.com)** | **[IT Intern](https://jobright.ai/jobs/info/66ab6e9b5eb4cbb8497a70ec?utm_campaign=1058&utm_source=git)** | Holdrege, NE | On Site | Aug 01 |
 | **[Techworkers](http://techworkers.com)** | **[Bilingual Customer Service Representative - DIRECT HIRE](https://jobright.ai/jobs/info/66844387d074e25fefa98b07?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jul 31 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Learning Assistants/Tutoring Center](https://jobright.ai/jobs/info/66aadab1484bac8dba9c336a?utm_campaign=1058&utm_source=git)** | Richmond, KY | On Site | Jul 31 |
-| **[Baylor Scott & White Health](https://www.bswhealth.com/)** | **[Radiologic Tech Student](https://jobright.ai/jobs/info/66aac6451ad7fcf4d87d30ff?utm_campaign=1058&utm_source=git)** | Woodway, TX | On Site | Jul 31 |
+| **[Baylor Scott & White Health](https://www.bswhealth.com/)** | **[Radiologic Tech Student](https://jobright.ai/jobs/info/66aac6451ad7fcf4d87d3100?utm_campaign=1058&utm_source=git)** | Woodway, TX | On Site | Jul 31 |
 | **[Hy-Vee](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/66aad3594dc152d5eba49302?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Jul 31 |
 | **[AEG](http://www.aegworldwide.com)** | **[Fall Intern, Information Technology (LA Kings)](https://jobright.ai/jobs/info/66aabdb787fad65397f0131b?utm_campaign=1058&utm_source=git)** | El Segundo, CA | On Site | Jul 31 |
 | **[Southeastern University](http://www.seu.edu/)** | **[Student Worker - Testing Center Proctor](https://jobright.ai/jobs/info/66aadabb484bac8dba9c3495?utm_campaign=1058&utm_source=git)** | Lakeland, FL | On Site | Jul 31 |
@@ -199,8 +201,8 @@ For a complete list, see the full spreadsheet below:
 | **[Trinity Health](http://www.trinity-health.org)** | **[Medication Historian-Pharmacy Intern (First Year Pharmacy Student)](https://jobright.ai/jobs/info/66a830d66ea7ac216c511e24?utm_campaign=1058&utm_source=git)** | Grove City, OH | On Site | Jul 29 |
 | **[Freudenberg](http://www.freudenberg.com)** | **[IT Support Co-Op](https://jobright.ai/jobs/info/66a8206f1e7438f0feef9a1b?utm_campaign=1058&utm_source=git)** | Midland, MI | On Site | Jul 29 |
 | **[ShipHawk](http://shiphawk.com)** | **[Technical Support Intern I Fall 2024](https://jobright.ai/jobs/info/66a829bbb3e48a7ec3cfa513?utm_campaign=1058&utm_source=git)** | Santa Barbara, CA | On Site | Jul 29 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Claims Intern](https://jobright.ai/jobs/info/66a8b1eb943a176835674495?utm_campaign=1058&utm_source=git)** | La Crosse, WI | On Site | Jul 29 |
 | **[Mount Carmel Health System](https://www.mountcarmelhealth.com/)** | **[Medication Historian-Pharmacy Intern (First Year Pharmacy Student)](https://jobright.ai/jobs/info/66a81b10fa706e9dba460cd6?utm_campaign=1058&utm_source=git)** | Grove City, OH | On Site | Jul 29 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Claims Intern](https://jobright.ai/jobs/info/66a83fa3e33098cd6d425a68?utm_campaign=1058&utm_source=git)** | La Crosse, WI | On Site | Jul 29 |
 | **[Hy-Vee](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/66a8478c8dc9107130b08c69?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Jul 29 |
 | **[Piedmont Healthcare](http://www.piedmont.org/)** | **[Rad Tech Student](https://jobright.ai/jobs/info/66a829bbb3e48a7ec3cfa58e?utm_campaign=1058&utm_source=git)** | Columbus, GA | On Site | Jul 29 |
 | **[Berkley Technology Services](https://berkley-bts.com)** | **[Associate Support Analyst Intern](https://jobright.ai/jobs/info/66a8547f1710ca2725f67e1b?utm_campaign=1058&utm_source=git)** | Manassas, VA | On Site | Jul 29 |
