@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baylor Scott & White Health](https://www.bswhealth.com/)** | **[Radiologic Tech Student](https://jobright.ai/jobs/info/66adb330d5d36ef7c67d2181?utm_campaign=1058&utm_source=git)** | Temple, TX | On Site | Aug 03 |
 | **[Hy-Vee](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/66ad5f4d84dbce20c654c7bd?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | Aug 02 |
 | **[ARAMARK Refreshment Services](http://www.aramarkrefreshments.com/)** | **[Student Barista - Starbucks Student Center](https://jobright.ai/jobs/info/66ad38fee9d1c48af4f58351?utm_campaign=1058&utm_source=git)** | Tuscaloosa, AL | On Site | Aug 02 |
 | **[Action Behavior Centers](https://www.actionbehavior.com)** | **[INTERNAL ONLY - Clinic Admissions Associate](https://jobright.ai/jobs/info/66ad24910480bf22e41f847e?utm_campaign=1058&utm_source=git)** | Broomfield, CO | On Site | Aug 02 |
@@ -97,7 +98,7 @@ For a complete list, see the full spreadsheet below:
 | **[Opportunity Partners](https://www.opportunities.org)** | **[Help Desk Internship](https://jobright.ai/jobs/info/66abc2139ec74fd7699e0944?utm_campaign=1058&utm_source=git)** | Twin Cities Area | On Site | Aug 01 |
 | **[The Poole and Kent Corporation](https://www.poole-kent.com)** | **[IT Helpdesk Intern (On-Site)](https://jobright.ai/jobs/info/66abc601df6cc57ead19bcd4?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Aug 01 |
 | **[Hy-Vee](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/66abb297cdf3f5cef04078da?utm_campaign=1058&utm_source=git)** | West Des Moines, IA | On Site | Aug 01 |
-| **[PrimeFlight Aviation Services](http://primeflight.com)** | **[Customer Service Agent-Rochester International Airport (ROC)](https://jobright.ai/jobs/info/66abc620df6cc57ead19bf00?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | Aug 01 |
+| **[PrimeFlight Aviation Services](http://primeflight.com)** | **[Customer Service Agent-Rochester International Airport (ROC)](https://jobright.ai/jobs/info/66ab883662c33be23c696e12?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | Aug 01 |
 | ↳ | **[Customer Service Agent - Buffalo Niagara International Airport (BUF)](https://jobright.ai/jobs/info/66abcb761c56da80efd61072?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Aug 01 |
 | **[WuXi Biologics](https://www.wuxibiologics.com/)** | **[US IT Technical Support Intern](https://jobright.ai/jobs/info/668fe76685be61dbaa64a0f5?utm_campaign=1058&utm_source=git)** | Cranbury, NJ | On Site | Aug 01 |
 | **[Metro Los Angeles](https://www.metro.net)** | **[TEMPORARY SPECIAL EVENTS ASSISTANT](https://jobright.ai/jobs/info/66ab629aba7a250964cd7fe9?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 01 |
@@ -207,7 +208,7 @@ For a complete list, see the full spreadsheet below:
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/66a796a56d970a18cb34a421?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Jul 28 |
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6675746031f584ec4862611a?utm_campaign=1058&utm_source=git)** | Arnold, MO | On Site | Jul 28 |
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6689df3e561f55e570147f6a?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Jul 28 |
-| **[myGwork](https://www.mygwork.com/en/)** | **[Intern - Information Systems and Communication Technology](https://jobright.ai/jobs/info/66a5a126d32c7a7e9455f3df?utm_campaign=1058&utm_source=git)** | New York, United States | Hybrid | Jul 27 |
+| **[myGwork](https://www.mygwork.com/en/)** | **[Intern - Information Systems and Communication Technology](https://jobright.ai/jobs/info/66a678c50e9416a97df2df99?utm_campaign=1058&utm_source=git)** | New York, United States | Hybrid | Jul 27 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/66a4ee5f8041ed87196fc63c?utm_campaign=1058&utm_source=git)** | Cheyenne, WY | On Site | Jul 27 |
 | **[Hermès International](https://www.hermes.com/us/en/)** | **[IT Intern - Generation H](https://jobright.ai/jobs/info/66a48b00a640d8c2bb94e108?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
