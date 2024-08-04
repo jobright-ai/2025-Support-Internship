@@ -71,7 +71,7 @@ For a complete list, see the full spreadsheet below:
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/665ab56a7ebc9fed3966e76e?utm_campaign=1058&utm_source=git)** | Lebanon, MO | On Site | Aug 04 |
 | **[Hy-Vee](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/66aeaae5e1bacd87b2ef7183?utm_campaign=1058&utm_source=git)** | Altoona, IA | On Site | Aug 03 |
 | **[Nichols Career Center](https://www.jcschools.us/nichols)** | **[Technology Intern](https://jobright.ai/jobs/info/66aa841ed2279ae999f73dcc?utm_campaign=1058&utm_source=git)** | Jefferson City, MO | On Site | Aug 03 |
-| **[Northwestern Medical Center](https://www.northwesternmedicalcenter.org/)** | **[Diagnostic Imaging Aide ~ Per-Diem](https://jobright.ai/jobs/info/66ae42cf4c6836e9d73e185a?utm_campaign=1058&utm_source=git)** | Vermont, United States | On Site | Aug 03 |
+| **[Northwestern Medical Center](https://www.northwesternmedicalcenter.org/)** | **[Diagnostic Imaging Aide ~ Per-Diem](https://jobright.ai/jobs/info/66ae509868c5bb05bae47c62?utm_campaign=1058&utm_source=git)** | Vermont, United States | On Site | Aug 03 |
 | **[King's Daughters](https://www.kingsdaughtershealth.com)** | **[Rad Tech-Student](https://jobright.ai/jobs/info/66ae3cc2a8095743c7818314?utm_campaign=1058&utm_source=git)** | Kentucky, United States | On Site | Aug 03 |
 | **[City of New York](http://www1.nyc.gov)** | **[Applications Support College Aide](https://jobright.ai/jobs/info/66ae39f21a7287370e5a90bd?utm_campaign=1058&utm_source=git)** | All, MO | On Site | Aug 03 |
 | **[Token Metrics](http://tokenmetrics.com)** | **[Crypto/Web3 Technical Writer(Remote)](https://jobright.ai/jobs/info/66ae1aa647d782bc56401475?utm_campaign=1058&utm_source=git)** | Oregon, United States | On Site | Aug 03 |
@@ -249,6 +249,4 @@ For a complete list, see the full spreadsheet below:
 | **[NYU Grossman Long Island School of Medicine](https://medli.nyu.edu/)** | **[Magnetic Resonance Imaging Trainee](https://jobright.ai/jobs/info/66a80ddb72f6c23b69a46839?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jul 29 |
 | **[BCFS Health and Human Services](https://bcfs.net/)** | **[PAL TFSS (Transition Financial Support Services) Intern](https://jobright.ai/jobs/info/66a843f7e2b0be8f54cc9759?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Jul 29 |
 | **[Arkansas Center for Data Sciences](https://www.acds.co)** | **[IT Customer Support Intern](https://jobright.ai/jobs/info/66a838e987753f9476a7a520?utm_campaign=1058&utm_source=git)** | Fayetteville, AR | Hybrid | Jul 29 |
-| **[New York Institute of Technology](http://www.nyit.edu/)** | **[IT Support](https://jobright.ai/jobs/info/66a6cdc25f5874a8c176277e?utm_campaign=1058&utm_source=git)** | Jonesboro, AR | On Site | Jul 28 |
-| **[C York CPA](https://chrisyorkcpa.com/)** | **[IT Desktop Support / Admin (Part-Time)](https://jobright.ai/jobs/info/66a6d0b11500eb9a5a6aae3c?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
