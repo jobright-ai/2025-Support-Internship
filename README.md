@@ -57,9 +57,10 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/665ab56a7ebc9fed3966e76e?utm_campaign=1058&utm_source=git)** | Lebanon, MO | On Site | Aug 04 |
 | **[Hy-Vee](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/66aeaae5e1bacd87b2ef7183?utm_campaign=1058&utm_source=git)** | Altoona, IA | On Site | Aug 03 |
-| **[Nichols Career Center](https://www.jcschools.us/nichols)** | **[Technology Intern](https://jobright.ai/jobs/info/66aa841ed2279ae999f73dcc?utm_campaign=1058&utm_source=git)** | Jefferson City, MO | On Site | Aug 03 |
-| **[Northwestern Medical Center](https://www.northwesternmedicalcenter.org/)** | **[Diagnostic Imaging Aide ~ Per-Diem](https://jobright.ai/jobs/info/66ae42cf4c6836e9d73e185a?utm_campaign=1058&utm_source=git)** | Vermont, United States | On Site | Aug 03 |
+| **[Nichols Career Center](https://www.jcschools.us/nichols)** | **[Technology Intern](https://jobright.ai/jobs/info/66a208717494f4663db302b6?utm_campaign=1058&utm_source=git)** | Jefferson City, MO | On Site | Aug 03 |
+| **[Northwestern Medical Center](https://www.northwesternmedicalcenter.org/)** | **[Diagnostic Imaging Aide ~ Per-Diem](https://jobright.ai/jobs/info/66ae509868c5bb05bae47c62?utm_campaign=1058&utm_source=git)** | Vermont, United States | On Site | Aug 03 |
 | **[King's Daughters](https://www.kingsdaughtershealth.com)** | **[Rad Tech-Student](https://jobright.ai/jobs/info/66ae3cc2a8095743c7818314?utm_campaign=1058&utm_source=git)** | Kentucky, United States | On Site | Aug 03 |
 | **[City of New York](http://www1.nyc.gov)** | **[Applications Support College Aide](https://jobright.ai/jobs/info/66ae39f21a7287370e5a90bd?utm_campaign=1058&utm_source=git)** | All, MO | On Site | Aug 03 |
 | **[Token Metrics](http://tokenmetrics.com)** | **[Crypto/Web3 Technical Writer(Remote)](https://jobright.ai/jobs/info/66ae1aa647d782bc56401475?utm_campaign=1058&utm_source=git)** | Oregon, United States | On Site | Aug 03 |
@@ -216,8 +217,8 @@ For a complete list, see the full spreadsheet below:
 | **[Trinity Health](http://www.trinity-health.org)** | **[Medication Historian-Pharmacy Intern (First Year Pharmacy Student)](https://jobright.ai/jobs/info/66a830d66ea7ac216c511e24?utm_campaign=1058&utm_source=git)** | Grove City, OH | On Site | Jul 29 |
 | **[Freudenberg](http://www.freudenberg.com)** | **[IT Support Co-Op](https://jobright.ai/jobs/info/66a8206f1e7438f0feef9a1b?utm_campaign=1058&utm_source=git)** | Midland, MI | On Site | Jul 29 |
 | **[ShipHawk](http://shiphawk.com)** | **[Technical Support Intern I Fall 2024](https://jobright.ai/jobs/info/66a829bbb3e48a7ec3cfa513?utm_campaign=1058&utm_source=git)** | Santa Barbara, CA | On Site | Jul 29 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Claims Intern](https://jobright.ai/jobs/info/66a8b1eb943a176835674495?utm_campaign=1058&utm_source=git)** | La Crosse, WI | On Site | Jul 29 |
 | **[Mount Carmel Health System](https://www.mountcarmelhealth.com/)** | **[Medication Historian-Pharmacy Intern (First Year Pharmacy Student)](https://jobright.ai/jobs/info/66a81b10fa706e9dba460cd6?utm_campaign=1058&utm_source=git)** | Grove City, OH | On Site | Jul 29 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Claims Intern](https://jobright.ai/jobs/info/66a83fa3e33098cd6d425a68?utm_campaign=1058&utm_source=git)** | La Crosse, WI | On Site | Jul 29 |
 | **[Hy-Vee](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/66a8478c8dc9107130b08c69?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Jul 29 |
 | **[Piedmont Healthcare](http://www.piedmont.org/)** | **[Rad Tech Student](https://jobright.ai/jobs/info/66a829bbb3e48a7ec3cfa58e?utm_campaign=1058&utm_source=git)** | Columbus, GA | On Site | Jul 29 |
 | **[Berkley Technology Services](https://berkley-bts.com)** | **[Associate Support Analyst Intern](https://jobright.ai/jobs/info/66a8547f1710ca2725f67e1b?utm_campaign=1058&utm_source=git)** | Manassas, VA | On Site | Jul 29 |
@@ -239,6 +240,4 @@ For a complete list, see the full spreadsheet below:
 | **[C York CPA](https://chrisyorkcpa.com/)** | **[IT Desktop Support / Admin (Part-Time)](https://jobright.ai/jobs/info/66a6d0b11500eb9a5a6aae3c?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jul 28 |
 | **[Hops n Drops](http://www.hopsndrops.com)** | **[Host & Expos Wanted](https://jobright.ai/jobs/info/66a6b6e31d5a771f89f2b52a?utm_campaign=1058&utm_source=git)** | Maple Valley, WA | On Site | Jul 28 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/66a796a56d970a18cb34a421?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Jul 28 |
-| ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6675746031f584ec4862611a?utm_campaign=1058&utm_source=git)** | Arnold, MO | On Site | Jul 28 |
-| ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6689df3e561f55e570147f6a?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
