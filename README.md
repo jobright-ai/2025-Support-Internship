@@ -59,7 +59,7 @@ For a complete list, see the full spreadsheet below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Hy-Vee](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/66aeaae5e1bacd87b2ef7183?utm_campaign=1058&utm_source=git)** | Altoona, IA | On Site | Aug 03 |
 | **[Nichols Career Center](https://www.jcschools.us/nichols)** | **[Technology Intern](https://jobright.ai/jobs/info/66aa841ed2279ae999f73dcc?utm_campaign=1058&utm_source=git)** | Jefferson City, MO | On Site | Aug 03 |
-| **[Northwestern Medical Center](https://www.northwesternmedicalcenter.org/)** | **[Diagnostic Imaging Aide ~ Per-Diem](https://jobright.ai/jobs/info/66ae509868c5bb05bae47c62?utm_campaign=1058&utm_source=git)** | Vermont, United States | On Site | Aug 03 |
+| **[Northwestern Medical Center](https://www.northwesternmedicalcenter.org/)** | **[Diagnostic Imaging Aide ~ Per-Diem](https://jobright.ai/jobs/info/66ae42cf4c6836e9d73e185a?utm_campaign=1058&utm_source=git)** | Vermont, United States | On Site | Aug 03 |
 | **[King's Daughters](https://www.kingsdaughtershealth.com)** | **[Rad Tech-Student](https://jobright.ai/jobs/info/66ae3cc2a8095743c7818314?utm_campaign=1058&utm_source=git)** | Kentucky, United States | On Site | Aug 03 |
 | **[City of New York](http://www1.nyc.gov)** | **[Applications Support College Aide](https://jobright.ai/jobs/info/66ae39f21a7287370e5a90bd?utm_campaign=1058&utm_source=git)** | All, MO | On Site | Aug 03 |
 | **[Token Metrics](http://tokenmetrics.com)** | **[Crypto/Web3 Technical Writer(Remote)](https://jobright.ai/jobs/info/66ae1aa647d782bc56401475?utm_campaign=1058&utm_source=git)** | Oregon, United States | On Site | Aug 03 |
@@ -157,7 +157,6 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Content Delivery & Platform Support Intern](https://jobright.ai/jobs/info/66aa9bde2bcc3a8074e43fc2?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
 | **[PLUS Communications](https://pluspr.com)** | **[IT Intern (Fall 2024)](https://jobright.ai/jobs/info/66aa89d50a7f6fb66bb68537?utm_campaign=1058&utm_source=git)** | Arlington, VA | Hybrid | Jul 31 |
 | **[Zscaler](https://www.zscaler.com)** | **[Professional Services (SkillBridge)](https://jobright.ai/jobs/info/66aa7726aec3f71581ff36c9?utm_campaign=1058&utm_source=git)** | United States | Remote | Jul 31 |
-| **[HCA](http://hcahealthcare.com)** | **[Technical Analyst Intern -Memorial -Savannah GA](https://jobright.ai/jobs/info/66acf54579137b55f6a9621f?utm_campaign=1058&utm_source=git)** | Savannah, GA | On Site | Jul 31 |
 | **[Tyler Technologies](https://www.tylertech.com/)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/66aa7a6cceae514886167d75?utm_campaign=1058&utm_source=git)** | Bedford, NH | On Site | Jul 31 |
 | **[State of Indiana](https://www.in.gov)** | **[Customer Service Seasonal](https://jobright.ai/jobs/info/66aa460bebc234ee8baeba9d?utm_campaign=1058&utm_source=git)** | Greenfield, IN | On Site | Jul 31 |
 | **[Corona Del Sol High School](https://www.tempeunion.org)** | **[11 Month Attendance Student Data Specialist 1.0 FTE](https://jobright.ai/jobs/info/66acd498059db0c65b90c542?utm_campaign=1058&utm_source=git)** | Tempe, AZ | On Site | Jul 31 |
