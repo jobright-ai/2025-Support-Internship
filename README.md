@@ -58,8 +58,8 @@ For a complete list, see the full spreadsheet below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Hy-Vee](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/66aeaae5e1bacd87b2ef7183?utm_campaign=1058&utm_source=git)** | Altoona, IA | On Site | Aug 03 |
-| **[Nichols Career Center](https://www.jcschools.us/nichols)** | **[Technology Intern](https://jobright.ai/jobs/info/66a208717494f4663db302b6?utm_campaign=1058&utm_source=git)** | Jefferson City, MO | On Site | Aug 03 |
-| **[Northwestern Medical Center](https://www.northwesternmedicalcenter.org/)** | **[Diagnostic Imaging Aide ~ Per-Diem](https://jobright.ai/jobs/info/66ae509868c5bb05bae47c62?utm_campaign=1058&utm_source=git)** | Vermont, United States | On Site | Aug 03 |
+| **[Nichols Career Center](https://www.jcschools.us/nichols)** | **[Technology Intern](https://jobright.ai/jobs/info/66aa841ed2279ae999f73dcc?utm_campaign=1058&utm_source=git)** | Jefferson City, MO | On Site | Aug 03 |
+| **[Northwestern Medical Center](https://www.northwesternmedicalcenter.org/)** | **[Diagnostic Imaging Aide ~ Per-Diem](https://jobright.ai/jobs/info/66ae42cf4c6836e9d73e185a?utm_campaign=1058&utm_source=git)** | Vermont, United States | On Site | Aug 03 |
 | **[King's Daughters](https://www.kingsdaughtershealth.com)** | **[Rad Tech-Student](https://jobright.ai/jobs/info/66ae3cc2a8095743c7818314?utm_campaign=1058&utm_source=git)** | Kentucky, United States | On Site | Aug 03 |
 | **[City of New York](http://www1.nyc.gov)** | **[Applications Support College Aide](https://jobright.ai/jobs/info/66ae39f21a7287370e5a90bd?utm_campaign=1058&utm_source=git)** | All, MO | On Site | Aug 03 |
 | **[Token Metrics](http://tokenmetrics.com)** | **[Crypto/Web3 Technical Writer(Remote)](https://jobright.ai/jobs/info/66ae1aa647d782bc56401475?utm_campaign=1058&utm_source=git)** | Oregon, United States | On Site | Aug 03 |
@@ -87,6 +87,7 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/66571b33ace48c3138bc1d24?utm_campaign=1058&utm_source=git)** | Happy Valley, OR | On Site | Aug 03 |
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/667608830f75793ae234d781?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Aug 03 |
 | **[Kimpton Hotel & Restaurant Group](https://www.kimptonhotels.com/)** | **[Trainee - Rooms J1-Kimpton Vero Beach Hotel + Spa](https://jobright.ai/jobs/info/6691b43acdd4fd0eb3caecde?utm_campaign=1058&utm_source=git)** | Vero Beach, FL | On Site | Aug 03 |
+| **[Credit One Bank](http://creditonebank.com)** | **[Internal - Collections Representative I - S1](https://jobright.ai/jobs/info/66af4528bf7517e4384d84e0?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Aug 03 |
 | **[Baylor Scott & White Health](https://www.bswhealth.com/)** | **[Radiologic Tech Student](https://jobright.ai/jobs/info/66af333763a9ddab9056f6f5?utm_campaign=1058&utm_source=git)** | Killeen, TX | On Site | Aug 03 |
 | ↳ | **[Radiologic Tech Student](https://jobright.ai/jobs/info/66af333763a9ddab9056f6fb?utm_campaign=1058&utm_source=git)** | Belton, TX | On Site | Aug 03 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Student - Rental Tech/Customer Service - OAC](https://jobright.ai/jobs/info/66ae0870367779177a8fc4a7?utm_campaign=1058&utm_source=git)** | Orem, UT | On Site | Aug 03 |
@@ -136,7 +137,7 @@ For a complete list, see the full spreadsheet below:
 | **[Hy-Vee](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/66abb297cdf3f5cef04078da?utm_campaign=1058&utm_source=git)** | West Des Moines, IA | On Site | Aug 01 |
 | **[PrimeFlight Aviation Services](http://primeflight.com)** | **[Customer Service Agent - Buffalo Niagara International Airport (BUF)](https://jobright.ai/jobs/info/66ae3813d7502fa433d4bcd8?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Aug 01 |
 | ↳ | **[Customer Service Agent- Baltimore/Washington International Thurgood Marshall Airport ( BWI)](https://jobright.ai/jobs/info/66ae360b8ffbb48a1c6e863f?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Aug 01 |
-| ↳ | **[Customer Service Agent-Rochester International Airport (ROC)](https://jobright.ai/jobs/info/66abc620df6cc57ead19bf00?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | Aug 01 |
+| ↳ | **[Customer Service Agent-Rochester International Airport (ROC)](https://jobright.ai/jobs/info/66ab883662c33be23c696e12?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | Aug 01 |
 | **[WuXi Biologics](https://www.wuxibiologics.com/)** | **[US IT Technical Support Intern](https://jobright.ai/jobs/info/668fe76685be61dbaa64a0f5?utm_campaign=1058&utm_source=git)** | Cranbury, NJ | On Site | Aug 01 |
 | **[Metro Los Angeles](https://www.metro.net)** | **[TEMPORARY SPECIAL EVENTS ASSISTANT](https://jobright.ai/jobs/info/66ab629aba7a250964cd7fe9?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 01 |
 | **[Kendall College of Art and Design of Ferris State University](https://kcad.ferris.edu/)** | **[IT Solution Center Service Desk (Student Position)](https://jobright.ai/jobs/info/66ab67676349e6067d3703a4?utm_campaign=1058&utm_source=git)** | Big Rapids, MI | On Site | Aug 01 |
@@ -150,7 +151,7 @@ For a complete list, see the full spreadsheet below:
 | **[LandMark Implement, Inc](http://www.landmarkimp.com)** | **[IT Intern](https://jobright.ai/jobs/info/66ab6e9b5eb4cbb8497a70ec?utm_campaign=1058&utm_source=git)** | Holdrege, NE | On Site | Aug 01 |
 | **[Techworkers](http://techworkers.com)** | **[Bilingual Customer Service Representative - DIRECT HIRE](https://jobright.ai/jobs/info/66844387d074e25fefa98b07?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jul 31 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Learning Assistants/Tutoring Center](https://jobright.ai/jobs/info/66aadab1484bac8dba9c336a?utm_campaign=1058&utm_source=git)** | Richmond, KY | On Site | Jul 31 |
-| **[Baylor Scott & White Health](https://www.bswhealth.com/)** | **[Radiologic Tech Student](https://jobright.ai/jobs/info/66aac6451ad7fcf4d87d3100?utm_campaign=1058&utm_source=git)** | Woodway, TX | On Site | Jul 31 |
+| **[Baylor Scott & White Health](https://www.bswhealth.com/)** | **[Radiologic Tech Student](https://jobright.ai/jobs/info/66aac6451ad7fcf4d87d30ff?utm_campaign=1058&utm_source=git)** | Woodway, TX | On Site | Jul 31 |
 | **[Hy-Vee](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/66aad3594dc152d5eba49302?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Jul 31 |
 | **[AEG](http://www.aegworldwide.com)** | **[Fall Intern, Information Technology (LA Kings)](https://jobright.ai/jobs/info/66aabdb787fad65397f0131b?utm_campaign=1058&utm_source=git)** | El Segundo, CA | On Site | Jul 31 |
 | **[Southeastern University](http://www.seu.edu/)** | **[Student Worker - Testing Center Proctor](https://jobright.ai/jobs/info/66aadabb484bac8dba9c3495?utm_campaign=1058&utm_source=git)** | Lakeland, FL | On Site | Jul 31 |
