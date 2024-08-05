@@ -57,6 +57,11 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PrimeFlight Aviation Services](http://primeflight.com)** | **[Customer Service Agent - Buffalo Niagara International Airport (BUF)](https://jobright.ai/jobs/info/66b00bf071f0e1163ea00dd6?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Aug 04 |
+| ↳ | **[Baggage Service Office- Luis Munoz Marin International Airport (SJU)](https://jobright.ai/jobs/info/66b00bf071f0e1163ea00dda?utm_campaign=1058&utm_source=git)** | Carolina, NC | On Site | Aug 04 |
+| ↳ | **[Customer Service Agent- Baltimore/Washington International Thurgood Marshall Airport ( BWI)](https://jobright.ai/jobs/info/66b00bf071f0e1163ea00ddd?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Aug 04 |
+| ↳ | **[Customer Service Agent- Atlantic City International Airport (ACY)](https://jobright.ai/jobs/info/66b00bf071f0e1163ea00de1?utm_campaign=1058&utm_source=git)** | Egg Harbor, NJ | On Site | Aug 04 |
+| ↳ | **[Customer Service Agent-Rochester International Airport (ROC)](https://jobright.ai/jobs/info/66b00bf071f0e1163ea00de4?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | Aug 04 |
 | **[National Veterinary Associates](https://www.nva.com/)** | **[Client Service Coordinator](https://jobright.ai/jobs/info/6639780ba01862156e5403ba?utm_campaign=1058&utm_source=git)** | Kirkwood, MO | On Site | Aug 04 |
 | **[Imprivata](http://www.imprivata.com)** | **[IT Intern](https://jobright.ai/jobs/info/662c388f1d09d72887a189bc?utm_campaign=1058&utm_source=git)** | St Petersburg, FL | Hybrid | Aug 04 |
 | **[Trinity Health MI](https://bit.ly/3y0fhsr)** | **[MRI Imaging Extern Contingent](https://jobright.ai/jobs/info/66548512dc70ef329d81ff9d?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Aug 04 |
@@ -118,7 +123,6 @@ For a complete list, see the full spreadsheet below:
 | **[PrimeFlight Aviation Services](http://primeflight.com)** | **[Baggage Service Office- Luis Munoz Marin International Airport (SJU)](https://jobright.ai/jobs/info/66ae2fbfd31df0d6b51f7372?utm_campaign=1058&utm_source=git)** | Carolina, NC | On Site | Aug 02 |
 | ↳ | **[Customer Service Agent- Luis Munoz Marin International Airport (SJU)](https://jobright.ai/jobs/info/66af5e793f91257e0925726d?utm_campaign=1058&utm_source=git)** | Carolina, NC | On Site | Aug 02 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6690a7c044ba5bf941b3514a?utm_campaign=1058&utm_source=git)** | Springfield, MA | On Site | Aug 02 |
-| **[PrimeFlight Aviation Services](http://primeflight.com)** | **[Shuttle Bus Customer Service Agent- Boston Logan International Airport (BOS)](https://jobright.ai/jobs/info/66ad27b368a65b7a37706071?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Aug 02 |
 | **[Environmental Solutions Group](http://doveresg.com)** | **[IT Operations Intern, Chattanooga](https://jobright.ai/jobs/info/6690c90850a8322cf99b8434?utm_campaign=1058&utm_source=git)** | Chattanooga, TN | On Site | Aug 02 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6690a7b144ba5bf941b350be?utm_campaign=1058&utm_source=git)** | Troy, NY | On Site | Aug 02 |
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/66751b1a1345ca9e335e6f1e?utm_campaign=1058&utm_source=git)** | Amarillo, TX | On Site | Aug 02 |
@@ -245,8 +249,5 @@ For a complete list, see the full spreadsheet below:
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[IT Service Desk Associate](https://jobright.ai/jobs/info/66a7ca1dfe3ec3acdcd1f0e0?utm_campaign=1058&utm_source=git)** | Pooler, GA | On Site | Jul 29 |
 | **[Snap](https://www.snap.com)** | **[2024 Technical Writer, Research Intern](https://jobright.ai/jobs/info/665921b8dc30f127d7d70cc1?utm_campaign=1058&utm_source=git)** | Palo Alto, CA | On Site | Jul 29 |
 | **[ARA](https://www.ara.com)** | **[IT Support Assistant](https://jobright.ai/jobs/info/668b7b859f8be2511310f9c7?utm_campaign=1058&utm_source=git)** | Randolph, VT | On Site | Jul 29 |
-| **[One Community Bank](https://www.onecommunity.bank)** | **[Bank Teller](https://jobright.ai/jobs/info/66ab3c6f402dfe2594bb9a96?utm_campaign=1058&utm_source=git)** | Sun Prairie, WI | On Site | Jul 29 |
 | **[NYU Grossman Long Island School of Medicine](https://medli.nyu.edu/)** | **[Magnetic Resonance Imaging Trainee](https://jobright.ai/jobs/info/66a80ddb72f6c23b69a46839?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jul 29 |
-| **[BCFS Health and Human Services](https://bcfs.net/)** | **[PAL TFSS (Transition Financial Support Services) Intern](https://jobright.ai/jobs/info/66a843f7e2b0be8f54cc9759?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Jul 29 |
-| **[Arkansas Center for Data Sciences](https://www.acds.co)** | **[IT Customer Support Intern](https://jobright.ai/jobs/info/66a838e987753f9476a7a520?utm_campaign=1058&utm_source=git)** | Fayetteville, AR | Hybrid | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
