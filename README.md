@@ -57,7 +57,10 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SYNNEX](http://www.synnexcorp.com/)** | **[Internship / Technical Scholar Program / Greenville, SC](https://jobright.ai/jobs/info/66bf20fa8d2a8ce0552246af?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Aug 16 |
+| **[Lake Macquarie City Council](https://lakemac.com.au)** | **[PT CLERICAL ASSISTANT 12M_INTERNATIONAL STUDIE(1757100)](https://jobright.ai/jobs/info/66befb3a70bd3dcca2fc8ed2?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Aug 15 |
 | **[ProactiveRISK](http://www.proactiverisk.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/66bec2c878bd5b9046b5fe91?utm_campaign=1058&utm_source=git)** | Caldwell, NJ | Hybrid | Aug 15 |
+| **[Action Behavior Centers](https://www.actionbehavior.com)** | **[INTERNAL ONLY Clinic Admissions Associate](https://jobright.ai/jobs/info/66bece82252f927774ac6aa1?utm_campaign=1058&utm_source=git)** | Goodyear, AZ | On Site | Aug 15 |
 | **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[Corporate Services Internship - 2024](https://jobright.ai/jobs/info/66bea033ce050b02add3e847?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Aug 15 |
 | **[Chapters Health System](http://chaptershealth.org/)** | **[IT Support Intern](https://jobright.ai/jobs/info/66beac00f20fa2478415810a?utm_campaign=1058&utm_source=git)** | Falls Church, VA | On Site | Aug 15 |
 | **[Mediacom Communications](http://mediacomcable.com)** | **[Internet Tech Support Representative I - Position Starts October 21st, 2024](https://jobright.ai/jobs/info/66beb851fb38525ca8116751?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Aug 15 |
@@ -82,12 +85,6 @@ For a complete list, see the full spreadsheet below:
 | **[iVenture Solutions](https://www.iventuresolutions.com/)** | **[IT Internship - Fully On-Site](https://jobright.ai/jobs/info/6684d0c1722afc8d603ee546?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Aug 15 |
 | **[University of La Verne](http://laverne.edu)** | **[University Advancement-Data Entry and Clerical Support](https://jobright.ai/jobs/info/66bdbd0a73c0f1b075457f11?utm_campaign=1058&utm_source=git)** | La Verne, CA | On Site | Aug 14 |
 | **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Student Aide](https://jobright.ai/jobs/info/66bdb2b2c69507e7e13c1bfe?utm_campaign=1058&utm_source=git)** | Honolulu, HI | On Site | Aug 14 |
-| **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/66bd9fe2804f6c5ad150e45e?utm_campaign=1058&utm_source=git)** | Multi Location
-Searcy, AR
-Wood River, IL
-Tucson, AZ
-Sarasota, FL
-Slidell, LA | On Site | Aug 14 |
 | **[Tripoint Solutions](https://www.tripointsolutions.com/)** | **[HelpDesk Intern](https://jobright.ai/jobs/info/66bda99df3d424d34d7e27c3?utm_campaign=1058&utm_source=git)** | District of Columbia, United States | On Site | Aug 14 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[Receptionist (Clerical) - Academic Technology](https://jobright.ai/jobs/info/66bd8b4767d4cbdf168b6abc?utm_campaign=1058&utm_source=git)** | Edmond, OK | Hybrid | Aug 14 |
 | **[Wiley](http://www.wiley.com)** | **[zyBooks Content Employee](https://jobright.ai/jobs/info/66bd82675b239016a10dd0a9?utm_campaign=1058&utm_source=git)** | California, United States | On Site | Aug 14 |
@@ -97,27 +94,55 @@ Slidell, LA | On Site | Aug 14 |
 | **[Tech Data](http://www.techdata.com)** | **[Internship / Technical Scholar Program / Clearwater, FL](https://jobright.ai/jobs/info/66bea137bb58a1efa987f10b?utm_campaign=1058&utm_source=git)** | US-FL-Clearwater | On Site | Aug 14 |
 | ↳ | **[Internship / Technical Scholar Program / Greenville, SC](https://jobright.ai/jobs/info/66bea137bb58a1efa987f0f8?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Aug 14 |
 | **[CareNu](www.CareNu.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/66bea137bb58a1efa987f0c8?utm_campaign=1058&utm_source=git)** | Falls Church, VA | On Site | Aug 14 |
+| **[Southeastern University](http://www.seu.edu/)** | **[Student Worker - Information Technology Help Desk](https://jobright.ai/jobs/info/66bd537178845cb0e396da1a?utm_campaign=1058&utm_source=git)** | Lakeland, FL | On Site | Aug 14 |
+| **[HNTB](http://www.hntb.com/)** | **[IT Intern - Southeast Division (For current/previous HNTB Interns only) - Summer 2025](https://jobright.ai/jobs/info/66bd4b925b9a2f3b7f8267ff?utm_campaign=1058&utm_source=git)** | Multi Location
+Cutler Bay, FL
+Fort Myers, FL
+Green Cove Springs, FL
+Gainesville, FL
+Miami, FL
+Melbourne, FL
+Hudson, FL
+Boca Raton, FL
+Clearwater, FL
+Chipley, FL
+Bartow, FL
+West Palm Beach, FL
+Atlanta, GA
+Fort Lauderdale, FL
+Tampa, FL
+Pompano Beach, FL
+Nashville, TN
+Ocoee, FL
+Lake Mary, FL
+Kissimmee, FL
+Bradenton, FL
+Tallahassee, FL
+Jacksonville, FL
+Orlando, FL
+DeLand, FL | On Site | Aug 14 |
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Internal Temporary Traveler Operating Room Tech](https://jobright.ai/jobs/info/66bd2c5702d9cc7f59c9203f?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | Aug 14 |
-| **[Southeastern University](http://www.seu.edu/)** | **[Student Worker - Information Technology Help Desk](https://jobright.ai/jobs/info/66bd3ed296320f62d18262b3?utm_campaign=1058&utm_source=git)** | Lakeland, FL | On Site | Aug 14 |
-| **[Nichols Career Center](https://www.jcschools.us/nichols)** | **[Technology Intern](https://jobright.ai/jobs/info/66aa841ed2279ae999f73dcc?utm_campaign=1058&utm_source=git)** | Jefferson City, MO | On Site | Aug 14 |
+| **[Nichols Career Center](https://www.jcschools.us/nichols)** | **[Technology Intern](https://jobright.ai/jobs/info/66a208717494f4663db302b6?utm_campaign=1058&utm_source=git)** | Jefferson City, MO | On Site | Aug 14 |
 | **[Onsemi Intelligent Technology](http://www.onsemi.com)** | **[Fall 2024 IT Intern](https://jobright.ai/jobs/info/66be3498f5fa6e76e4301526?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Aug 14 |
 | **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Field Services Student Intern (9011)](https://jobright.ai/jobs/info/66bcfd4c1ed8e3821e574fa3?utm_campaign=1058&utm_source=git)** | Tampa, FL | Hybrid | Aug 14 |
 | **[AIDS Healthcare Foundation](http://www.aidshealth.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/66ac1715d38694918881f661?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, FL | On Site | Aug 14 |
 | **[TotalEnergies Ventures](https://ventures.totalenergies.com)** | **[IT-Technical Analyst and Communications Intern](https://jobright.ai/jobs/info/66bcfd4c1ed8e3821e575052?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Aug 14 |
 | **[Intermountain Health](http://intermountainhealthcare.org/Pages/home.aspx)** | **[Cassia Information Desk Volunteer](https://jobright.ai/jobs/info/66bceea53f38683a58e79f1e?utm_campaign=1058&utm_source=git)** | Burley, ID | On Site | Aug 14 |
+| **[Unisys](http://www.unisys.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/66bce88cd83f530fbf2d6d44?utm_campaign=1058&utm_source=git)** | Multi Location
+East Hartford, CT
+New London County, CT | On Site | Aug 14 |
 | **[WVU Medicine](https://wvumedicine.org/)** | **[Ultrasound Tech Extern](https://jobright.ai/jobs/info/66bcd3fb18484af555e524f7?utm_campaign=1058&utm_source=git)** | Wheeling, WV | On Site | Aug 14 |
 | **[Wheeling Hospital](https://www.wheelinghospital.org)** | **[Ultrasound Tech Extern](https://jobright.ai/jobs/info/66bcc282ac8a16ff1e47340a?utm_campaign=1058&utm_source=git)** | Wheeling, WV | On Site | Aug 14 |
 | **[OPmobility](https://www.opmobility.com/)** | **[SITE IS / IT APPRENTICE](https://jobright.ai/jobs/info/66a02133238b946e0a9fb6c5?utm_campaign=1058&utm_source=git)** | Greer, SC | On Site | Aug 14 |
 | **[Sportec Solutions](http://www.bundesliga-datenbank.de/)** | **[Technical Support VAR ﻿(m/f/d)﻿ as part-time](https://jobright.ai/jobs/info/66bdb2b2c69507e7e13c1c22?utm_campaign=1058&utm_source=git)** | Arlington, TX | On Site | Aug 14 |
 | **[TELUS International](https://www.telusinternational.com)** | **[Personalized Internet Assessor - Czech](https://jobright.ai/jobs/info/66bcac1975424e13684b9e50?utm_campaign=1058&utm_source=git)** | United States | Remote | Aug 14 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Technical Support Engineer Intern](https://jobright.ai/jobs/info/66a3b1d9cc8f335cd486c4f6?utm_campaign=1058&utm_source=git)** | Malvern, PA | On Site | Aug 14 |
-| **[Davenport University](http://www.davenport.edu/)** | **[(Student) IT Help Desk-Hope Network](https://jobright.ai/jobs/info/66bdf0ba183931a19459822c?utm_campaign=1058&utm_source=git)** | Michigan, United States | On Site | Aug 14 |
 | **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[Intern, Learning Management System support](https://jobright.ai/jobs/info/66bc68db0123fa0150c38fc0?utm_campaign=1058&utm_source=git)** | Nashville Metro | On Site | Aug 14 |
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6683926a12c00be519a72971?utm_campaign=1058&utm_source=git)** | Multi Location
 Fishers, IN
 Carmel, IN
-Arlington, TX
-Farragut, TN | On Site | Aug 14 |
+Farragut, TN
+Arlington, TX | On Site | Aug 14 |
 | **[Southeast Kentucky Community and Technical College, Cumberland](https://southeast.kctcs.edu/)** | **[Student Worker - Financial Aid & Business Office](https://jobright.ai/jobs/info/66bc85c324ec53218ed98421?utm_campaign=1058&utm_source=git)** | Bowling Green, KY | On Site | Aug 14 |
 | **[Aio-Jobs.com](Aio-Jobs.com)** | **[Hôte / Hôtesse d'accueil](https://jobright.ai/jobs/info/66be00b492dbcf1c1f9cd0a9?utm_campaign=1058&utm_source=git)** | Benoit, MS | On Site | Aug 14 |
 | **[Aio-Jobs.com](Aio-Jobs.com)** | **[Conseiller de vente en prêt-à-porter enfant en alternance (H/F)](https://jobright.ai/jobs/info/66be00b492dbcf1c1f9cd182?utm_campaign=1058&utm_source=git)** | Rochelle, IL | On Site | Aug 13 |
@@ -126,37 +151,11 @@ Farragut, TN | On Site | Aug 14 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Customer Service Representative (Part - time) - Work Based Learning (Calhoun, Georgia, United States, 30701)](https://jobright.ai/jobs/info/66bc34d26e6f5f1620b4a897?utm_campaign=1058&utm_source=git)** | Calhoun, GA | On Site | Aug 13 |
 | **[Action Behavior Centers](https://www.actionbehavior.com)** | **[Internal Only- Clinic Admissions Associate](https://jobright.ai/jobs/info/66bc0e40bd30ca840c52bf7b?utm_campaign=1058&utm_source=git)** | Multi Location
 Forney, TX
+Wylie, TX
 Coppell, TX
-Murphy, TX
-Wylie, TX | On Site | Aug 13 |
+Murphy, TX | On Site | Aug 13 |
 | **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2024 Internship, Fall - Information Technology](https://jobright.ai/jobs/info/66bbfd5e4476f2c09b77ccfe?utm_campaign=1058&utm_source=git)** | Harrison, NJ | On Site | Aug 13 |
 | **[McLeod Health](http://www.mcleodhealth.org/)** | **[Student Radiologic Tech (PRN) - Dillon](https://jobright.ai/jobs/info/66bc182c677b31f44273692f?utm_campaign=1058&utm_source=git)** | Dillon, SC | On Site | Aug 13 |
-| **[HNTB](http://www.hntb.com/)** | **[IT Intern - Southeast Division (For current/previous HNTB Interns only) - Summer 2025](https://jobright.ai/jobs/info/66bd3eea96320f62d1826725?utm_campaign=1058&utm_source=git)** | Multi Location
-DeLand, FL
-West Palm Beach, FL
-Atlanta, GA
-Fort Lauderdale, FL
-Tampa, FL
-Pompano Beach, FL
-Nashville, TN
-Ocoee, FL
-Kissimmee, FL
-Bradenton, FL
-Tallahassee, FL
-Jacksonville, FL
-Orlando, FL
-Cutler Bay, FL
-Fort Myers, FL
-Green Cove Springs, FL
-Hudson, FL
-Boca Raton, FL
-Clearwater, FL
-Gainesville, FL
-Miami, FL
-Melbourne, FL
-Lake Mary, FL
-Bartow, FL
-Chipley, FL | On Site | Aug 13 |
 | **[Acrisure](http://acrisure.com)** | **[Commercial Lines Intern](https://jobright.ai/jobs/info/66bd54400ed6919045ee0f11?utm_campaign=1058&utm_source=git)** | MARQUETTE, MI | Hybrid | Aug 13 |
 | **[Interco](https://intercotradingco.com/)** | **[Paid Internship - Information Technology (Fall '24)](https://jobright.ai/jobs/info/66bc0f1c23e05ad84709d954?utm_campaign=1058&utm_source=git)** | St Louis, MO | Hybrid | Aug 13 |
 | **[Mediacom Communications](http://mediacomcable.com)** | **[Internet Tech Support Representative I - Start date 10/21](https://jobright.ai/jobs/info/66bc0e40bd30ca840c52be13?utm_campaign=1058&utm_source=git)** | West Des Moines, IA | Hybrid | Aug 13 |
@@ -182,10 +181,61 @@ Westover Hills, TX | On Site | Aug 13 |
 | **[Onondaga Community College](http://www.sunyocc.edu/)** | **[IT Helpdesk Computer Assistant ( Federal Work Study ) - Onondaga Community College](https://jobright.ai/jobs/info/66bb819c6f395bada6384c20?utm_campaign=1058&utm_source=git)** | Syracuse, NY | On Site | Aug 13 |
 | **[Ohio Department of Developmental Disabilities](https://dodd.ohio.gov)** | **[IT College Intern (PN 20084855)](https://jobright.ai/jobs/info/66be00b492dbcf1c1f9cd325?utm_campaign=1058&utm_source=git)** | Batavia, OH | On Site | Aug 13 |
 | **[Suburban Inns](http://suburbaninns.com)** | **[Guest Service Representative](https://jobright.ai/jobs/info/66bb67f50b6031110eabf05f?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Aug 13 |
+| **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/669f3568513d45c522bb2636?utm_campaign=1058&utm_source=git)** | Multi Location
+Mobile, AL
+Phenix City, AL
+Olean, NY
+Jonesboro, AR
+Houston, TX
+Erwin, NC
+Nampa, ID
+Winnfield, LA
+Raleigh, NC
+St Louis, MO
+Sugar Land, TX
+New Orleans, LA
+Overland Park, KS
+Chalmette, LA
+Princeton, WV
+Palmyra, ME
+Elk City, OK
+Atlanta, GA
+Gresham, OR
+Lawrence, KS
+Skowhegan, ME
+Van Wert, OH
+Cheyenne, WY
+Orlando, FL
+Horn Lake, MS
+Fort Lauderdale, FL
+La Vista, NE
+Fuquay-Varina, NC
+Indian Trail, NC
+Phoenix, AZ
+New Caney, TX
+Boise, ID
+Methuen, MA
+Wichita, KS
+Omaha, NE
+Humble, TX
+Charlotte, NC
+Katy, TX
+St Peters, MO
+Newport, AR
+DeFuniak Springs, FL
+Clinton, TN
+Rio Rancho, NM
+Quincy, MA
+Somerset, PA
+Decatur, GA
+Madison, MS
+Holly Springs, NC
+Cleveland, TN
+Peoria, AZ | On Site | Aug 13 |
 | **[People 1st](https://ourpeople1st.com/)** | **[Closer Position](https://jobright.ai/jobs/info/66bb59e02481df94996c24a6?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Aug 13 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM #5343](https://jobright.ai/jobs/info/669f3568513d45c522bb262f?utm_campaign=1058&utm_source=git)** | Fredericksburg, VA | On Site | Aug 13 |
 | **[Avancez](https://www.avancezassembly.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/66b0d9b86cb9e4fbf704ca30?utm_campaign=1058&utm_source=git)** | Hazel Park, MI | On Site | Aug 13 |
-| **[Bryan Health](https://www.bryanhealth.com/)** | **[IT Desktop Intern](https://jobright.ai/jobs/info/66bad5c919df530760e61e3b?utm_campaign=1058&utm_source=git)** | Lincoln, NE | On Site | Aug 12 |
+| **[Bryan Health](https://www.bryanhealth.com/)** | **[IT Desktop Intern](https://jobright.ai/jobs/info/66bad59419df530760e612c2?utm_campaign=1058&utm_source=git)** | Lincoln, NE | On Site | Aug 12 |
 | **[Mount Auburn Hospital](http://www.mountauburnhospital.org)** | **[Internal Temporary Traveler Operating Room Tech](https://jobright.ai/jobs/info/66bbe9152286dc9102a00fa0?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | Aug 12 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Bachelor's Apprenticeship Program - End User Technology (January 2025)](https://jobright.ai/jobs/info/66baa37c7c5957dc2d20b6da?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | Hybrid | Aug 12 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - SAP Experience Center Showcase Support [Hudson Yards, NY]](https://jobright.ai/jobs/info/66baa45a947536a6754ffc5f?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
@@ -205,88 +255,78 @@ Westover Hills, TX | On Site | Aug 13 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[IT Operations Internship](https://jobright.ai/jobs/info/66bb4cd29f287a9dc45bcee7?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Aug 12 |
 | **[LifePoint Health](http://www.lifepointhealth.net)** | **[Rad Tech Student - PRN](https://jobright.ai/jobs/info/66ba4af13b670505be120fb0?utm_campaign=1058&utm_source=git)** | Danville, VA | On Site | Aug 12 |
 | **[Dow](https://www.dowchemical.com)** | **[Local College Co-op - Admin Support: Emulsions Organization](https://jobright.ai/jobs/info/66ba2830f5ecd9ffd4cbd6ba?utm_campaign=1058&utm_source=git)** | Midland, MI | On Site | Aug 12 |
-| **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/66759366bad9224db7bb720e?utm_campaign=1058&utm_source=git)** | Multi Location
-Auburn, ME
+| **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6663a6561fcd0b606a5b4bf1?utm_campaign=1058&utm_source=git)** | Multi Location
+Oxford, ME
 Windham, ME
-Oxford, ME | On Site | Aug 12 |
+Auburn, ME | On Site | Aug 12 |
 | **[Ohio Environmental Protection Agency](http://www.epa.state.oh.us)** | **[PAID College Internship- Information Technology, PN 20054023](https://jobright.ai/jobs/info/66b9d5ec780a21937994fc10?utm_campaign=1058&utm_source=git)** | Akron, OH | On Site | Aug 12 |
 | **[Lipscomb University](http://www.lipscomb.edu/)** | **[Film Gear Closet Student Worker](https://jobright.ai/jobs/info/66ba5dd684c0e8e5b985be28?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Aug 11 |
-| **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/66ad17dcf017c47c82075845?utm_campaign=1058&utm_source=git)** | Multi Location
-Monroe, WA
-Vancouver, WA
-Lynnwood, WA
-Battle Ground, WA
-Woodland, WA
-Bellevue, WA
-Lacey, WA
-Bellingham, WA
-Federal Way, WA
-Sequim, WA
-Everett, WA
-Port Orchard, WA | On Site | Aug 11 |
-| ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/66b0b1dd4a6f3c6d1938550c?utm_campaign=1058&utm_source=git)** | Multi Location
-Alcoa, TN
-Chesterfield, MO
-Rochester, MI
-Shawnee, KS
-Lumberton, NC
-Canal Winchester, OH
-Hammond, LA
-La Vergne, TN
-Paris, KY
-Raleigh, NC
-Springfield, OR
-Topeka, KS
-Erie, PA
-Pembroke, NC
-Ballwin, MO
-Houston, TX
-Portland, OR
-Dyersburg, TN
-West Linn, OR
-Alice, TX
-Abilene, TX
-Gresham, OR
-Troutdale, OR
-Charlotte, NC
-Wichita, KS
-Happy Valley, OR
-St Louis, MO
-Arnold, MO
-Monroe, MI
-Oklahoma City, OK
-Harvey, LA
-Gretna, NE
-Edinboro, PA
-West Helena, AR
-Smithville, TN
-Papillion, NE
-West Mifflin, PA
-Shawnee, OK
-Livonia, MI
-Harborcreek, PA
-Amarillo, TX
-Champaign, IL
-Kansas City, KS
-New Orleans, LA
-Littleton, NH
-Louisville, KY
-Sanford, NC
-Anchorage, AK
-Canton, MI
-El Reno, OK
-Overland Park, KS
-Memphis, TN | On Site | Aug 11 |
 | **[Oregon Health & Science University](http://www.ohsu.edu/)** | **[Flexible Use Space Non-OHSU Student Worker](https://jobright.ai/jobs/info/6677d6a15793f82273cb2f6c?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Aug 11 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[MRI Imaging Extern Contingent](https://jobright.ai/jobs/info/667f9ff868d5f108040adc13?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Aug 10 |
 | **[Credit One Bank](http://creditonebank.com)** | **[Collections Representative - Internal](https://jobright.ai/jobs/info/66bb43681bfb3407bdf1f983?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | Hybrid | Aug 10 |
 | **[Piedmont Healthcare](http://www.piedmont.org/)** | **[Rad Tech Student SPRN](https://jobright.ai/jobs/info/66bb43681bfb3407bdf1f989?utm_campaign=1058&utm_source=git)** | Snellville, GA | On Site | Aug 10 |
 | **[Seattle Children’s](https://www.seattlechildrens.org/)** | **[Student Helper, Research](https://jobright.ai/jobs/info/66b7487e97e0ed928278c847?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Aug 10 |
-| **[Akumin®](http://akumin.com)** | **[Technologist Trainee- Nuc Med to Cross Train in PET/CT](https://jobright.ai/jobs/info/66b7487e97e0ed928278cbe8?utm_campaign=1058&utm_source=git)** | Multi Location
-Berlin, NH
-Lancaster, NH
+| **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/667f4f513215408025c9e404?utm_campaign=1058&utm_source=git)** | Multi Location
+Lumberton, NC
+La Vergne, TN
+Canal Winchester, OH
+Overland Park, KS
+Kansas City, KS
+Arnold, MO
+New Orleans, LA
+Sanford, NC
+Alice, TX
+Topeka, KS
+Papillion, NE
+Houston, TX
+Canton, MI
+Troutdale, OR
+St Louis, MO
+Monroe, MI
+Shawnee, OK
+Raleigh, NC
+Springfield, OR
 Littleton, NH
-St Johnsbury, VT | On Site | Aug 10 |
+Gretna, NE
+Wichita, KS
+Pembroke, NC
+Memphis, TN
+Portland, OR
+Champaign, IL
+West Mifflin, PA
+Harborcreek, PA
+Anchorage, AK
+Happy Valley, OR
+Alcoa, TN
+Edinboro, PA
+Harvey, LA
+Smithville, TN
+Shawnee, KS
+Abilene, TX
+Oklahoma City, OK
+Paris, KY
+Dyersburg, TN
+Amarillo, TX
+Ballwin, MO
+Louisville, KY
+West Linn, OR
+Gresham, OR
+El Reno, OK
+Rochester, MI
+Hammond, LA
+Chesterfield, MO
+Erie, PA
+Livonia, MI
+Charlotte, NC
+West Helena, AR | On Site | Aug 10 |
+| **[BorgWarner](http://www.borgwarner.com)** | **[IT Co-op/Intern](https://jobright.ai/jobs/info/669afdc56857f87d380fcc32?utm_campaign=1058&utm_source=git)** | Multi Location
+Ithaca, NY
+Ithaca - New York - USA | On Site | Aug 10 |
+| **[Akumin®](http://akumin.com)** | **[Technologist Trainee- Nuc Med to Cross Train in PET/CT](https://jobright.ai/jobs/info/66b7487e97e0ed928278cbe9?utm_campaign=1058&utm_source=git)** | Multi Location
+St Johnsbury, VT
+Littleton, NH
+Lancaster, NH
+Berlin, NH | On Site | Aug 10 |
 | **[Wave Life Sciences](http://wavelifesciences.com)** | **[Lab Systems Support Co-op (Fall 2024)](https://jobright.ai/jobs/info/669ae07bceee32d833887c7d?utm_campaign=1058&utm_source=git)** | Lexington, MA | On Site | Aug 10 |
 | **[Nucor Corporation](http://www.nucor.com)** | **[IT Intern/Co-op (Spring/Summer 2025)](https://jobright.ai/jobs/info/669aa0e21550284ce0293430?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Aug 10 |
 | **[TELUS International](https://www.telusinternational.com)** | **[Personalized Internet Assessor - US (Spanish speakers)](https://jobright.ai/jobs/info/66ae27b0fc4053e165d31471?utm_campaign=1058&utm_source=git)** | United States | Remote | Aug 10 |
@@ -294,8 +334,5 @@ St Johnsbury, VT | On Site | Aug 10 |
 | **[Roers Companies](https://roerscompanies.com)** | **[IT Internship-Part-TIme](https://jobright.ai/jobs/info/66b73da936c429d21f4b3e35?utm_campaign=1058&utm_source=git)** | Plymouth, MN | On Site | Aug 10 |
 | **[Ketel Thorstenson, LLP](http://ktllp.com)** | **[Information Technology Services Intern](https://jobright.ai/jobs/info/66b70441224d40a8403ed59c?utm_campaign=1058&utm_source=git)** | Rapid City, SD | On Site | Aug 09 |
 | **[Lurie Children’s Hospital](https://www.luriechildrens.org)** | **[Moonlighter Fellow](https://jobright.ai/jobs/info/66b6c76968eb0fb02b8caba9?utm_campaign=1058&utm_source=git)** | Streeterville, IL | On Site | Aug 09 |
-| **[LifePoint Health](http://www.lifepointhealth.net)** | **[Rad Tech Extern PRN](https://jobright.ai/jobs/info/66b6b08c1315d207af0344d0?utm_campaign=1058&utm_source=git)** | Fort Mohave, AZ | Hybrid | Aug 09 |
 | **[Medical College of Virginia Foundation](https://www.mcvfoundation.org/)** | **[Finance IT Intern](https://jobright.ai/jobs/info/66b67f06c6d2678e7624e80b?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Aug 09 |
-| **[ABC Copy Co](https://www.abccopyco.com)** | **[Customer Service Representative](https://jobright.ai/jobs/info/66b63436f148981d7ff5f4c0?utm_campaign=1058&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Aug 09 |
-| ↳ | **[General Customer Service Helper](https://jobright.ai/jobs/info/66b63436f148981d7ff5f505?utm_campaign=1058&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Aug 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
