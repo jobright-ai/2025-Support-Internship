@@ -42,9 +42,9 @@
 <h4>
 Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
 <br>
-For a complete list, see the full spreadsheet below:
+For a complete list, click the following sortable link below:
 </h4>
-<a href="https://intern-list.com/?selectedKey=☎%EF%B8%8F%20Customer%20Service%20and%20Support&utm_source=&utm_campaign=Customer Service and Support">
+<a href="https://intern-list.com/?selectedKey=☎%EF%B8%8F%20Customer%20Service%20and%20Support&utm_source=1101&utm_campaign=Customer Service and Support">
     <img src="./static/img/airtable.png" alt="excel_icon", style="width: 40%; height: 40%;">
 </a>
 </div>
