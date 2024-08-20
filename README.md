@@ -46,7 +46,7 @@ For a complete list, see the full spreadsheet below:
 </h4>
 <a href="https://intern-list.com/?selectedKey={selectKey}&utm_source=&utm_campaign=Customer Service and Support">
 <a href="https://intern-list.com/?selectedKey=☎%EF%B8%8F%20Customer%20Service%20and%20Support&utm_source=&utm_campaign={utm_campaign_str}">
-    <img src="./static/img/airtable.pjg" alt="excel_icon", style="width: 20%; height: 20%;">
+    <img src="./static/img/airtable.jpg" alt="excel_icon", style="width: 20%; height: 20%;">
 </a>
 </div>
 
