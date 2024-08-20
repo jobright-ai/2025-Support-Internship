@@ -46,7 +46,7 @@ For a complete list, see the full spreadsheet below:
 </h4>
 <a href="https://intern-list.com/?selectedKey={selectKey}&utm_source=&utm_campaign=Customer Service and Support">
 <a href="https://intern-list.com/?selectedKey=☎%EF%B8%8F%20Customer%20Service%20and%20Support&utm_source=&utm_campaign={utm_campaign_str}">
-    <img src="./static/img/airtable.jpg" alt="excel_icon", style="width: 20%; height: 20%;">
+    <img src="./static/img/airtable.png" alt="excel_icon", style="width: 40%; height: 40%;">
 </a>
 </div>
 
@@ -61,7 +61,7 @@ For a complete list, see the full spreadsheet below:
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/66c3e303a7c48d391e1c8894?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Aug 19 |
 | **[American University](http://american.edu)** | **[AV Student Tech-Administrative Support (Student)](https://jobright.ai/jobs/info/66c3ee9d1ef31963b5e22712?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Aug 19 |
 | **[PrimeFlight Aviation Services](http://primeflight.com)** | **[Customer Service Agent- Atlantic City International Airport (ACY)](https://jobright.ai/jobs/info/66c3e303a7c48d391e1c8ac2?utm_campaign=1058&utm_source=git)** | Egg Harbor, NJ | On Site | Aug 19 |
-| ↳ | **[Customer Service Agent-Rochester International Airport (ROC)](https://jobright.ai/jobs/info/66c3e303a7c48d391e1c8ac7?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | Aug 19 |
+| ↳ | **[Customer Service Agent-Rochester International Airport (ROC)](https://jobright.ai/jobs/info/66c3e303a7c48d391e1c8ac9?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | Aug 19 |
 | ↳ | **[Customer Service Agent- Baltimore/Washington International Thurgood Marshall Airport ( BWI)](https://jobright.ai/jobs/info/66c3e303a7c48d391e1c8acc?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Aug 19 |
 | ↳ | **[Shuttle Bus Customer Service Agent- Boston Logan International Airport (BOS)](https://jobright.ai/jobs/info/66c3e303a7c48d391e1c8ad1?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Aug 19 |
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/66c3e2861472409566b9d443?utm_campaign=1058&utm_source=git)** | State College, PA | On Site | Aug 19 |
@@ -322,6 +322,4 @@ For a complete list, see the full spreadsheet below:
 | **[Action Behavior Centers](https://www.actionbehavior.com)** | **[INTERNAL ONLY - Clinic Admissions Associate](https://jobright.ai/jobs/info/66bbcbdd5981d04da4240887?utm_campaign=1058&utm_source=git)** | North Houston, TX | On Site | Aug 13 |
 | **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Field Services Student Intern (9032)](https://jobright.ai/jobs/info/66bba8b21b3b8a137c42ff00?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | Aug 13 |
 | **[Action Behavior Centers](https://www.actionbehavior.com)** | **[INTERNAL ONLY - Clinic Admissions Associate](https://jobright.ai/jobs/info/66bbcbdd5981d04da42408ab?utm_campaign=1058&utm_source=git)** | Humble, TX | On Site | Aug 13 |
-| ↳ | **[Internal Only- Clinic Admissions Associate ABC Academy](https://jobright.ai/jobs/info/66bbb78c5fe2cd2f90c90e55?utm_campaign=1058&utm_source=git)** | Westover Hills, TX | On Site | Aug 13 |
-| ↳ | **[Internal Only- Clinic Admissions Associate ABC Academy](https://jobright.ai/jobs/info/66bbb78c5fe2cd2f90c90e56?utm_campaign=1058&utm_source=git)** | Euless, TX | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
