@@ -57,8 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Worley](https://www.worley.com)** | **[IT Intern](https://jobright.ai/jobs/info/676da3a164c7b39ab8f03946?utm_campaign=1058&utm_source=git)** | USA-TX-Houston | On Site | Dec 26 |
+| **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Service Desk Technology Intern](https://jobright.ai/jobs/info/676d97327443e5ad7c38accd?utm_campaign=1058&utm_source=git)** | United States | Hybrid | Dec 26 |
+| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/676da0c19ea40e109a86f902?utm_campaign=1058&utm_source=git)** | Ankeny, IA | On Site | Dec 26 |
+| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/676d782cebebfa98936facbd?utm_campaign=1058&utm_source=git)** | Oxnard, CA | On Site | Dec 26 |
+| **[HIROTEC AMERICA, Inc.](http://www.hirotecamerica.com/)** | **[Information Systems Intern](https://jobright.ai/jobs/info/676d7dbd8bc6c21e8c9eb4a3?utm_campaign=1058&utm_source=git)** | Auburn Hills, MI | On Site | Dec 26 |
+| **[Weis Markets](https://jobs.weismarkets.com)** | **[Regional Pharmacy Intern](https://jobright.ai/jobs/info/676d75b0c03730940d317222?utm_campaign=1058&utm_source=git)** | Sunbury, PA | On Site | Dec 26 |
+| **[NetApp](http://netapp.com)** | **[Intern - Support & Services](https://jobright.ai/jobs/info/676d67a213113b026fd63e74?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Dec 26 |
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Grad Intern (Hrly)](https://jobright.ai/jobs/info/672ad34ccb95980972b57ff7?utm_campaign=1058&utm_source=git)** | Collinsville, IL | On Site | Dec 26 |
 | **[S&C Electric Company](https://www.sandc.com/en)** | **[Desktop Support Coordinator - Full-Time Intern (Spring 2025)](https://jobright.ai/jobs/info/676d331e93f44cdcf327497e?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Dec 26 |
+| **[Year Up United](http://yearup.org)** | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/676a7a0dd30087ebeab52a1a?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Dec 26 |
 | **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/676d15f4f7c9f7f29308e9cf?utm_campaign=1058&utm_source=git)** | Gig Harbor, WA | On Site | Dec 25 |
 | **[University of Utah](http://utah.edu)** | **[Pharmacy Internship](https://jobright.ai/jobs/info/676d1c880bc58620b63b7d71?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Dec 25 |
 | ↳ | **[Pharmacy Internship](https://jobright.ai/jobs/info/676d1c880bc58620b63b7d74?utm_campaign=1058&utm_source=git)** | Midvale, UT | On Site | Dec 25 |
@@ -71,9 +79,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NURSE INTERN](https://jobright.ai/jobs/info/676ce13254e9d9bf9e8ba0fc?utm_campaign=1058&utm_source=git)** | Kirtland, NM | On Site | Dec 25 |
 | ↳ | **[NURSE INTERN](https://jobright.ai/jobs/info/676ce13254e9d9bf9e8ba0fd?utm_campaign=1058&utm_source=git)** | Rio Rancho, NM | On Site | Dec 25 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/676ccd31b31281e4c42ec795?utm_campaign=1058&utm_source=git)** | Fargo, ND | On Site | Dec 25 |
-| **[Weis Markets](https://jobs.weismarkets.com)** | **[Regional Pharmacy Intern](https://jobright.ai/jobs/info/676cd4a1a8b6f25ed3852523?utm_campaign=1058&utm_source=git)** | Sunbury, PA | On Site | Dec 25 |
 | **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/676cbdc515a2625c35d64920?utm_campaign=1058&utm_source=git)** | Gig Harbor, WA | On Site | Dec 25 |
-| **[Sanford Health](http://www.sanfordhealth.org)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/676c7638b7c971b7e20b4e8f?utm_campaign=1058&utm_source=git)** | Fargo, ND | On Site | Dec 25 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/676c72ffb8341dd7645c9859?utm_campaign=1058&utm_source=git)** | Oxnard, CA | Hybrid | Dec 25 |
 | **[RITE AID](http://www.riteaid.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/676c7ad9423de8a04c52f49c?utm_campaign=1058&utm_source=git)** | Columbia, PA | On Site | Dec 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/676c7ad9423de8a04c52f49d?utm_campaign=1058&utm_source=git)** | Newtown, PA | On Site | Dec 25 |
@@ -81,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99622 Parking Assistant, Tahlequah](https://jobright.ai/jobs/info/676c2d0fe7114d0176f2a8d7?utm_campaign=1058&utm_source=git)** | Tahlequah, OK | On Site | Dec 25 |
 | **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/676c1b6dcccafa61a4f24f69?utm_campaign=1058&utm_source=git)** | Gig Harbor, WA | On Site | Dec 25 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/676c207e4f4336066abfbede?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Dec 25 |
-| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/676c15bac0172f780b933518?utm_campaign=1058&utm_source=git)** | Ocala, FL | On Site | Dec 25 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/676c15bac0172f780b933517?utm_campaign=1058&utm_source=git)** | Spring Hill, FL | On Site | Dec 25 |
+| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/676c15bac0172f780b933518?utm_campaign=1058&utm_source=git)** | Ocala, FL | On Site | Dec 25 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/676c1d5747d120b72d13ffad?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Dec 25 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/676c1d5747d120b72d13ffaf?utm_campaign=1058&utm_source=git)** | The Villages, FL | On Site | Dec 25 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/676c1d5747d120b72d13ffb3?utm_campaign=1058&utm_source=git)** | Crystal River, FL | On Site | Dec 25 |
@@ -102,24 +108,24 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Client Service Associate](https://jobright.ai/jobs/info/676b7431c9d901817cb2a74a?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Dec 24 |
 | **[Novant Health](https://www.novanthealth.org/)** | **[Surgical Technology Extern Hourly Pay & up to $3,000 Relocation](https://jobright.ai/jobs/info/676b80842c5d84a75d076d63?utm_campaign=1058&utm_source=git)** | Wilmington, NC | On Site | Dec 24 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACIST INTERN](https://jobright.ai/jobs/info/676b791e859997158aaf68d6?utm_campaign=1058&utm_source=git)** | Tigard, OR | On Site | Dec 24 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern](https://jobright.ai/jobs/info/676b5949ecbbebfeec966697?utm_campaign=1058&utm_source=git)** | Oshkosh, WI | On Site | Dec 24 |
 | **[Nicklaus Children's Health System](https://www.nicklaushealth.org)** | **[Pharmacy Intern (Per Diem/Pool, Flex shift)](https://jobright.ai/jobs/info/676b64a8a97e297ffa4e9c85?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Dec 24 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern](https://jobright.ai/jobs/info/676b543948c5c3eff4571f9f?utm_campaign=1058&utm_source=git)** | Oshkosh, WI | On Site | Dec 24 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/66c51ecb8dcc81aef57090b6?utm_campaign=1058&utm_source=git)** | Great Falls, MT | On Site | Dec 24 |
 | **[Columbus State University](http://www.columbusstate.edu/)** | **[Student Assistant- Front Desk Receptionist](https://jobright.ai/jobs/info/676b3cd112f26dc13af635ba?utm_campaign=1058&utm_source=git)** | Columbus, GA | On Site | Dec 24 |
 | **[Mercy Health](http://www.mercy.com/)** | **[Radiology Student Technologist - St. Rita's](https://jobright.ai/jobs/info/676b35168d1634165e965193?utm_campaign=1058&utm_source=git)** | Lima, OH | On Site | Dec 24 |
-| **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Information Technology Intern- End User Services](https://jobright.ai/jobs/info/676b3cd112f26dc13af63537?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Dec 24 |
+| **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Information Technology Intern- End User Services](https://jobright.ai/jobs/info/676b3cd112f26dc13af635c6?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Dec 24 |
 | **[Samaritan Health Services](https://www.samhealth.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/676b2f2ea343affdaa47080e?utm_campaign=1058&utm_source=git)** | Oregon, United States | On Site | Dec 24 |
 | **[The Port Authority of New York & New Jersey](https://panynj.gov/port-authority/en/index.html)** | **[Summer Intern, Concessions & Strategic Customer Experience](https://jobright.ai/jobs/info/676b3cd112f26dc13af63597?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Dec 24 |
 | **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Information Technology Intern- End User Services](https://jobright.ai/jobs/info/676b2cb1e5f7ec3aa4eb0b14?utm_campaign=1058&utm_source=git)** | White Plains, NY | Hybrid | Dec 24 |
 | **[Providence](https://www.psjhealth.org/)** | **[Clinical Student Intern - Surgical Tech Residency](https://jobright.ai/jobs/info/676b1e2800c8d402224d4ac5?utm_campaign=1058&utm_source=git)** | Spokane, WA, United States | On Site | Dec 24 |
-| **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/676b2869283503ed0682eb00?utm_campaign=1058&utm_source=git)** | Gig Harbor, WA | On Site | Dec 24 |
 | **[Phoebe Putney Health System](https://www.phoebehealth.com)** | **[Radiology Tech Extern](https://jobright.ai/jobs/info/676b1ebf089183105d2de6c7?utm_campaign=1058&utm_source=git)** | Albany, GA | On Site | Dec 24 |
 | **[Fairview Health Services](http://www.fairview.org/)** | **[Pharmacy Intern - Retail; 2nd Year](https://jobright.ai/jobs/info/676b0d70afd9ea87ce6f6599?utm_campaign=1058&utm_source=git)** | Burnsville, MN | On Site | Dec 24 |
 | **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[Radiology Student Technologist - St. Rita's](https://jobright.ai/jobs/info/676b05a1517b91c27f24bdd0?utm_campaign=1058&utm_source=git)** | Lima, OH | On Site | Dec 24 |
+| **[Atrium Health Wake Forest Baptist](http://www.wakehealth.edu/)** | **[MRI Technologist Trainee, weekends](https://jobright.ai/jobs/info/676755ac448491ce363800b5?utm_campaign=1058&utm_source=git)** | Advance, NC | On Site | Dec 24 |
 | **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Information Technology Intern- End User Services](https://jobright.ai/jobs/info/676af3c541e279f2a1d59be1?utm_campaign=1058&utm_source=git)** | Binghamton, NY | Hybrid | Dec 24 |
 | **[RITE AID](http://www.riteaid.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/66db5cbc6925cb4da0946468?utm_campaign=1058&utm_source=git)** | Lockport, NY | On Site | Dec 24 |
+| **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Information Technology Intern- End User Services](https://jobright.ai/jobs/info/676aec059d239cc658fbbf4b?utm_campaign=1058&utm_source=git)** | Melville, NY | On Site | Dec 24 |
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Perfusionist Intern - NYP-Columbia University Irving Medical Center (Rotating)](https://jobright.ai/jobs/info/676add84027cf06442deb046?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Dec 24 |
-| **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Information Technology Intern- User User End Services](https://jobright.ai/jobs/info/676aec059d239cc658fbbf4b?utm_campaign=1058&utm_source=git)** | Melville, NY | On Site | Dec 24 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/676bbd2ffbedd30344c0675f?utm_campaign=1058&utm_source=git)** | Paris, TX | On Site | Dec 24 |
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Perfusionist Intern - NYP-Columbia University Irving Medical Center (Rotating)](https://jobright.ai/jobs/info/676ae64f80b0a6d643a1be47?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Dec 24 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/676ae3ec555c323490da7448?utm_campaign=1058&utm_source=git)** | Evergreen Park, IL | On Site | Dec 24 |
@@ -132,7 +138,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/676ad1ccc216e7a5dd51e0b9?utm_campaign=1058&utm_source=git)** | Jersey City, NJ | On Site | Dec 24 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/676ad1ccc216e7a5dd51e0c6?utm_campaign=1058&utm_source=git)** | Parsippany, NJ | On Site | Dec 24 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/676ad1ccc216e7a5dd51e0cd?utm_campaign=1058&utm_source=git)** | Newark, NJ | On Site | Dec 24 |
-| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/676b7f6cd87222c6790e4627?utm_campaign=1058&utm_source=git)** | Bayonne, NJ | On Site | Dec 24 |
+| **[RITE AID](http://www.riteaid.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/66c524a693950544f36d9a59?utm_campaign=1058&utm_source=git)** | Centralia, WA | On Site | Dec 24 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/676b7f6cd87222c6790e4627?utm_campaign=1058&utm_source=git)** | Bayonne, NJ | On Site | Dec 24 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/676b7f6cd87222c6790e465b?utm_campaign=1058&utm_source=git)** | Hendersonville, NC | On Site | Dec 24 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/676b7f6cd87222c6790e4663?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Dec 24 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/676b7f6cd87222c6790e4673?utm_campaign=1058&utm_source=git)** | Coralville, IA | On Site | Dec 24 |
@@ -145,16 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Community College of Aurora](http://www.ccaurora.edu/)** | **[Call Center Work Study](https://jobright.ai/jobs/info/676a80728b4ee94e685c0030?utm_campaign=1058&utm_source=git)** | Aurora, CO | On Site | Dec 24 |
 | **[Backroads](https://www.backroads.com)** | **[Rooming Operations Intern](https://jobright.ai/jobs/info/676a747e177084a2b67486bb?utm_campaign=1058&utm_source=git)** | San Francisco Bay Area | On Site | Dec 24 |
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/676a733a52d73e109324ad53?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Dec 24 |
-| **[Year Up United](http://yearup.org)** | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/676a7a0dd30087ebeab52a1a?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Dec 24 |
 | **[Optum](https://www.optum.com/)** | **[Pharmacist Intern Behavioral Health](https://jobright.ai/jobs/info/676a7e22ac1c9843338cc6f8?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Dec 23 |
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Perfusionist Intern - NYP/Columbia University Irving Medical Center (Rotating)](https://jobright.ai/jobs/info/676ab4b6f7af214203512709?utm_campaign=1058&utm_source=git)** | NYP/Columbia University Irving Medical Center | On Site | Dec 23 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Language Assistance Intern (Spanish Only)](https://jobright.ai/jobs/info/676badb4ca22887d043e533e?utm_campaign=1058&utm_source=git)** | Paterson, NJ | On Site | Dec 23 |
 | **[USG](https://www.usg.com/)** | **[Deskside Support Intern](https://jobright.ai/jobs/info/676b35168d1634165e9652a3?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
 | **[Bon Secours](https://www.bonsecours.com/)** | **[Pharmacy Intern - Good Health Pharmacy Reynolds Crossing](https://jobright.ai/jobs/info/67518559143f378310a7ebf1?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Dec 23 |
-| **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern Team Member - PRN](https://jobright.ai/jobs/info/676a4c2ba5a83f4afb1e7e07?utm_campaign=1058&utm_source=git)** | Las Cruces, NM | On Site | Dec 23 |
-| **[Saint Luke's Health System](https://www.saintlukeskc.org)** | **[Neuro OR - Nurse Intern](https://jobright.ai/jobs/info/673dca957d65dce795212878?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Dec 23 |
-| **[Wentworth-Douglass Hospital](https://wdhospital.org)** | **[Respiratory Aide - Per Diem](https://jobright.ai/jobs/info/67537c845053b9520e0f4ecf?utm_campaign=1058&utm_source=git)** | Dover, NH | On Site | Dec 23 |
-| **[Saint Luke's Health System](https://www.saintlukeskc.org)** | **[Nursing Intern Intermediate Unit PRN](https://jobright.ai/jobs/info/67667229c41754d8933670f7?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Dec 23 |
-| **[IHG Hotels & Resorts](https://www.ihgplc.com/)** | **[J1 Intern Rooms](https://jobright.ai/jobs/info/676a433131119bbc5c867dd8?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Dec 23 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/676a3c8cce9d6b34d5d204c7?utm_campaign=1058&utm_source=git)** | Meridian, MS | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
