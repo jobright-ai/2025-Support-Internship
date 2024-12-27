@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/676a73478c069691d13b9550?utm_campaign=1058&utm_source=git)** | Fairbanks, AK | Hybrid | Dec 27 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/676e6e7ddac98c03ad1f5bde?utm_campaign=1058&utm_source=git)** | Oxnard, CA | On Site | Dec 27 |
 | **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/676e6b4e6bb0d426b1db6b0b?utm_campaign=1058&utm_source=git)** | Gig Harbor, WA | On Site | Dec 26 |
 | **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[MA Student Tech](https://jobright.ai/jobs/info/676e62cd1f8bd068fb76521d?utm_campaign=1058&utm_source=git)** | Rome, GA | On Site | Dec 26 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Housekeeping- Summer Internship](https://jobright.ai/jobs/info/676dd0a468382a3e6300e536?utm_campaign=1058&utm_source=git)** | Jackson Hole | On Site | Dec 26 |
 | **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern Team Member - PRN](https://jobright.ai/jobs/info/676dd1e5d6d0309e5f683c08?utm_campaign=1058&utm_source=git)** | Las Cruces, NM | On Site | Dec 26 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/676dc4af7b7e448e548516fa?utm_campaign=1058&utm_source=git)** | Santa Ana, CA | On Site | Dec 26 |
-| **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/676dbc6a0dead0adb07a2dbf?utm_campaign=1058&utm_source=git)** | Gig Harbor, WA | On Site | Dec 26 |
 | **[Sutter Health](http://www.sutterhealth.org)** | **[Surgical Technician Intern](https://jobright.ai/jobs/info/676db70323cbbceb515dd0bf?utm_campaign=1058&utm_source=git)** | Burlingame, CA | On Site | Dec 26 |
 | **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Radiography Technologist Extern - Per Diem - MRH](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dadc1?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | Dec 26 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/676dba0651e384ec62a5e217?utm_campaign=1058&utm_source=git)** | Northville, MI | On Site | Dec 26 |
@@ -87,11 +87,11 @@ For a complete list, click the following sortable link below:
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/676da0c19ea40e109a86f902?utm_campaign=1058&utm_source=git)** | Ankeny, IA | On Site | Dec 26 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/676d782cebebfa98936facbd?utm_campaign=1058&utm_source=git)** | Oxnard, CA | On Site | Dec 26 |
 | **[HIROTEC AMERICA, Inc.](http://www.hirotecamerica.com/)** | **[Information Systems Intern](https://jobright.ai/jobs/info/676d7dbd8bc6c21e8c9eb4a3?utm_campaign=1058&utm_source=git)** | Auburn Hills, MI | On Site | Dec 26 |
-| **[Weis Markets](https://jobs.weismarkets.com)** | **[Regional Pharmacy Intern](https://jobright.ai/jobs/info/676d75b0c03730940d317222?utm_campaign=1058&utm_source=git)** | Sunbury, PA | On Site | Dec 26 |
-| **[NetApp](http://netapp.com)** | **[Intern - Support & Services](https://jobright.ai/jobs/info/676d67a213113b026fd63e74?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Dec 26 |
+| **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/676d688d7c2731f08502f95f?utm_campaign=1058&utm_source=git)** | Gig Harbor, WA | On Site | Dec 26 |
 | **[PetVet Care Centers](http://www.petvetcarecenters.com/)** | **[Veterinary Internist](https://jobright.ai/jobs/info/66c5246e93950544f36d95d5?utm_campaign=1058&utm_source=git)** | Matthews, NC | On Site | Dec 26 |
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM ***2025 SIGN-ON BONUS***](https://jobright.ai/jobs/info/67433a2e7c99ec3c56133efa?utm_campaign=1058&utm_source=git)** | Medford, OR | On Site | Dec 26 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/675115765787c17a5367d5b2?utm_campaign=1058&utm_source=git)** | Sunnyvale, CA | Hybrid | Dec 26 |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[IT Partner Services Intern](https://jobright.ai/jobs/info/66c378853df2e299c0adc246?utm_campaign=1058&utm_source=git)** | Strongsville, OH | On Site | Dec 26 |
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Grad Intern (Hrly)](https://jobright.ai/jobs/info/672ad34ccb95980972b57ff7?utm_campaign=1058&utm_source=git)** | Collinsville, IL | On Site | Dec 26 |
 | **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Pharmacist Intern, Outpatient](https://jobright.ai/jobs/info/66f69164dc673fbac252dacd?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Dec 26 |
 | **[S&C Electric Company](https://www.sandc.com/en)** | **[Desktop Support Coordinator - Full-Time Intern (Spring 2025)](https://jobright.ai/jobs/info/676d331e93f44cdcf327497e?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Dec 26 |
@@ -105,6 +105,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NURSE INTERN](https://jobright.ai/jobs/info/676ce13254e9d9bf9e8ba0fc?utm_campaign=1058&utm_source=git)** | Kirtland, NM | On Site | Dec 25 |
 | ↳ | **[NURSE INTERN](https://jobright.ai/jobs/info/676ce13254e9d9bf9e8ba0fd?utm_campaign=1058&utm_source=git)** | Rio Rancho, NM | On Site | Dec 25 |
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern California - WM](https://jobright.ai/jobs/info/674ffbfd6523a6e3f8f86488?utm_campaign=1058&utm_source=git)** | Roseville, CA | On Site | Dec 25 |
+| **[Weis Markets](https://jobs.weismarkets.com)** | **[Regional Pharmacy Intern](https://jobright.ai/jobs/info/676cd4a1a8b6f25ed3852523?utm_campaign=1058&utm_source=git)** | Sunbury, PA | On Site | Dec 25 |
 | **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/676cbdc515a2625c35d64920?utm_campaign=1058&utm_source=git)** | Gig Harbor, WA | On Site | Dec 25 |
 | **[SGK](https://www.sgkinc.com)** | **[Client/Account Support Intern](https://jobright.ai/jobs/info/673275d605e1b3c27890b4ef?utm_campaign=1058&utm_source=git)** | Georgia, United States | On Site | Dec 25 |
 | **[Allina Health](https://account.allinahealth.org/)** | **[Surgical Technologist Apprentice](https://jobright.ai/jobs/info/676df6911069fe1ce10e4324?utm_campaign=1058&utm_source=git)** | St Paul, MN | Hybrid | Dec 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Information Technology Intern- End User Services](https://jobright.ai/jobs/info/676af3c541e279f2a1d59be1?utm_campaign=1058&utm_source=git)** | Binghamton, NY | Hybrid | Dec 24 |
 | **[RITE AID](http://www.riteaid.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/66db5cbc6925cb4da0946468?utm_campaign=1058&utm_source=git)** | Lockport, NY | On Site | Dec 24 |
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Perfusionist Intern - NYP-Columbia University Irving Medical Center (Rotating)](https://jobright.ai/jobs/info/676add84027cf06442deb046?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Dec 24 |
-| **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Information Technology Intern- User User End Services](https://jobright.ai/jobs/info/676aec059d239cc658fbbf4b?utm_campaign=1058&utm_source=git)** | Melville, NY | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
