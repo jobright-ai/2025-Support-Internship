@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/6775fd6ef55074a21f1906e7?utm_campaign=1058&utm_source=git)** | Springfield, OR | On Site | Jan 01 |
+| **[CHI](https://www.catholichealthinitiatives.org/)** | **[Surgical Tech Intern](https://jobright.ai/jobs/info/6776047865e5c456c02835e5?utm_campaign=1058&utm_source=git)** | Lincoln, NE | On Site | Jan 01 |
 | **[Liberty Hospital](https://www.libertyhospital.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6775c048f4bb8e7ab2060eb7?utm_campaign=1058&utm_source=git)** | Missouri, United States | On Site | Jan 01 |
 | **[Endeavor Air](http://www.endeavorair.com/)** | **[Ground Operations/ACS (Airport Customer Service) Intern](https://jobright.ai/jobs/info/6775d7aa5b9fb260398c3f4e?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Jan 01 |
 | **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/6775d9b6ed671faef92d1856?utm_campaign=1058&utm_source=git)** | Gig Harbor, WA | On Site | Jan 01 |
@@ -71,22 +73,21 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/677556b3df51a201aa0cb61d?utm_campaign=1058&utm_source=git)** | Florence, AL | On Site | Jan 01 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/677556b3df51a201aa0cb62b?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | Jan 01 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/677556b3df51a201aa0cb62e?utm_campaign=1058&utm_source=git)** | Cullman, AL | On Site | Jan 01 |
-| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/677556b3df51a201aa0cb638?utm_campaign=1058&utm_source=git)** | Katy, TX | On Site | Jan 01 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/677556b3df51a201aa0cb631?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 01 |
+| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/677556b3df51a201aa0cb638?utm_campaign=1058&utm_source=git)** | Katy, TX | On Site | Jan 01 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/677556b3df51a201aa0cb640?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 01 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/677556b3df51a201aa0cb649?utm_campaign=1058&utm_source=git)** | Albany, GA | On Site | Jan 01 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Medical Information](https://jobright.ai/jobs/info/67664547e968dd9dd4e3f798?utm_campaign=1058&utm_source=git)** | Parsippany, NJ | On Site | Jan 01 |
-| **[FM](https://www.fmglobal.com)** | **[Client Service Intern](https://jobright.ai/jobs/info/677578f1421c8b696e5fdad0?utm_campaign=1058&utm_source=git)** | Reston, VA | On Site | Jan 01 |
+| **[FM](https://www.fmglobal.com)** | **[Client Service Intern](https://jobright.ai/jobs/info/677578f1421c8b696e5fdb49?utm_campaign=1058&utm_source=git)** | Malvern, PA | On Site | Jan 01 |
+| ↳ | **[Client Service Intern](https://jobright.ai/jobs/info/677578f1421c8b696e5fdad0?utm_campaign=1058&utm_source=git)** | Reston, VA | On Site | Jan 01 |
 | ↳ | **[Client Service Intern - Seattle](https://jobright.ai/jobs/info/677569164d629c3af00a9b1d?utm_campaign=1058&utm_source=git)** | Bellevue, WA | On Site | Jan 01 |
 | **[Intermountain Health](http://intermountainhealthcare.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6775324f9f940c4f216ac09a?utm_campaign=1058&utm_source=git)** | Intermountain Health St Vincent Regional Hospital | On Site | Jan 01 |
 | **[FM](https://www.fmglobal.com)** | **[Client Service Intern](https://jobright.ai/jobs/info/67752dd1543e4924e7d242b5?utm_campaign=1058&utm_source=git)** | Parsippany, NJ | On Site | Jan 01 |
-| ↳ | **[Client Service Intern](https://jobright.ai/jobs/info/67752dd1543e4924e7d242ae?utm_campaign=1058&utm_source=git)** | Malvern, PA | On Site | Jan 01 |
 | **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Pharmacist Intern, Inpatient](https://jobright.ai/jobs/info/673c6ca91979097c79681502?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | **[PetVet Care Centers](http://www.petvetcarecenters.com/)** | **[Veterinary Internist](https://jobright.ai/jobs/info/66cc62fb3fe2acbf71031352?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | On Site | Jan 01 |
 | **[Evolv Technology](http://www.evolvtechnology.com)** | **[Internal Support Solutions Engineer Intern (Summer '25)](https://jobright.ai/jobs/info/6758874e2ff94a220e461ce8?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | Jan 01 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/66cb04c625f137b86b58aeef?utm_campaign=1058&utm_source=git)** | Minot, ND | On Site | Jan 01 |
 | **[Maricopa County](http://www.maricopa.gov)** | **[Intern](https://jobright.ai/jobs/info/67752cea248b5fcad08c0741?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Jan 01 |
-| **[Cox Enterprises](http://coxenterprises.com)** | **[ServiceNow Delivery Admin Intern - Summer 2025](https://jobright.ai/jobs/info/677118046b8644af9c44e09a?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jan 01 |
 | **[State of Missouri](http://mo.gov)** | **[ITSD IT Internship](https://jobright.ai/jobs/info/6775604665174e051f75a411?utm_campaign=1058&utm_source=git)** | Jefferson City, MO | On Site | Jan 01 |
 | **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/67752dd1543e4924e7d243a2?utm_campaign=1058&utm_source=git)** | Springfield, OR | On Site | Jan 01 |
 | **[Davenport University](http://www.davenport.edu/)** | **[(Student) Call Center Assistant](https://jobright.ai/jobs/info/67750c0e0375815823eb17d9?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Jan 01 |
@@ -106,9 +107,9 @@ For a complete list, click the following sortable link below:
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- IT Client Services](https://jobright.ai/jobs/info/6774e5c0830c36943c42e902?utm_campaign=1058&utm_source=git)** | Westbrook, ME | On Site | Dec 31 |
 | ↳ | **[Intern- IT Platform Services](https://jobright.ai/jobs/info/6774f7dbc6123312dd7e7781?utm_campaign=1058&utm_source=git)** | Westbrook, ME | On Site | Dec 31 |
 | **[UNIVERSITY OF NEW MEXICO HOSPITALS](https://www.linkedin.com/company/55957570)** | **[NURSE INTERN - OR](https://jobright.ai/jobs/info/67758e09d9859fd4b8d18580?utm_campaign=1058&utm_source=git)** | Algodones, NM | On Site | Dec 31 |
+| **[Linde Advanced Material Technologies](http://www.linde-amt.com)** | **[IT Intern](https://jobright.ai/jobs/info/67760003da1bed5e40ff93ea?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Dec 31 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Nursing Intern - Med Surg - PRN - Day Shift](https://jobright.ai/jobs/info/6774c646271b8d727d1512cd?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Dec 31 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/6774b0790f1156321bba893a?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | Hybrid | Dec 31 |
-| **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/6774a859ba023047c842d1b6?utm_campaign=1058&utm_source=git)** | Gig Harbor, WA | On Site | Dec 31 |
 | **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/6774beac113170e4989a5ed2?utm_campaign=1058&utm_source=git)** | Mesa, AZ | Hybrid | Dec 31 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/67751350b71cf6a7cda0d698?utm_campaign=1058&utm_source=git)** | Flagstaff, AZ | Hybrid | Dec 31 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6774a7814bf97c3817ed393b?utm_campaign=1058&utm_source=git)** | Santa Fe, NM | On Site | Dec 31 |
@@ -136,6 +137,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern 2](https://jobright.ai/jobs/info/677532c6f81313a2237ff825?utm_campaign=1058&utm_source=git)** | Royal Oak, MI | Hybrid | Dec 31 |
 | **[Rudolph Libbe Inc.](https://rlgbuilds.com/companies/rudolph-libbe-inc/#gref)** | **[Co-Op - Information Technology - Rudolph Libbe Group - Spring 2026](https://jobright.ai/jobs/info/6774774548709fc54968fda2?utm_campaign=1058&utm_source=git)** | Walbridge, OH | On Site | Dec 31 |
 | **[Mercyhealth Wisconsin and Illinois](https://mercyhealthsystem.org)** | **[Student Nurse Intern, Women & Children's Services](https://jobright.ai/jobs/info/6774a621d429719664704ec7?utm_campaign=1058&utm_source=git)** | Rockford, IL | On Site | Dec 31 |
+| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/67745db1d7015ba69950c4b9?utm_campaign=1058&utm_source=git)** | Oxnard, CA | On Site | Dec 31 |
 | **[Nemacolin](http://www.nemacolin.com)** | **[Food and Beverage Internship](https://jobright.ai/jobs/info/67748390066c140d0be0505f?utm_campaign=1058&utm_source=git)** | Farmington, PA | On Site | Dec 31 |
 | ↳ | **[Lodging Operations Hospitality Internship](https://jobright.ai/jobs/info/67748390066c140d0be05029?utm_campaign=1058&utm_source=git)** | Farmington, PA | On Site | Dec 31 |
 | **[Quorum Health](https://quorumhealth.com/)** | **[Nurse Intern Women's Services](https://jobright.ai/jobs/info/67746547badf0e1702a68362?utm_campaign=1058&utm_source=git)** | Forrest City, AR | On Site | Dec 31 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/677546087c08436d52249c17?utm_campaign=1058&utm_source=git)** | Auburn, AL | On Site | Dec 31 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6774ebf84b76b67a40e17a7e?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | Dec 31 |
 | **[Element Technologies, LLC](http://www.ele-ment.com)** | **[Help Desk Intern - parttime](https://jobright.ai/jobs/info/67743895ed0ca3b6a230a748?utm_campaign=1058&utm_source=git)** | Naples, FL | On Site | Dec 31 |
-| **[Capital Health (US)](http://www.capitalhealth.org)** | **[EMT Intern](https://jobright.ai/jobs/info/67746f37cd600d12a0e1b22a?utm_campaign=1058&utm_source=git)** | Pennington, NJ | On Site | Dec 31 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern/Tech - Neuro Trauma ICU](https://jobright.ai/jobs/info/677443fd5bf2f72a43dc4995?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Dec 31 |
 | **[Texas Roadhouse](http://www.texasroadhouse.com/)** | **[Support Center Summer Intern](https://jobright.ai/jobs/info/673e8db9a7474127dcb6ec12?utm_campaign=1058&utm_source=git)** | Louisville, KY | On Site | Dec 31 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern/Tech - Neuro Trauma ICU](https://jobright.ai/jobs/info/67753c8274c66a43a6126486?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Dec 31 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT8 (P)](https://jobright.ai/jobs/info/67748038b6368cde0bb4805f?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Dec 31 |
 | **[Capital Health (US)](http://www.capitalhealth.org)** | **[EMT Intern](https://jobright.ai/jobs/info/677455292816e493db1ce4e0?utm_campaign=1058&utm_source=git)** | Hopewell, NJ | On Site | Dec 31 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/677455292816e493db1ce4e2?utm_campaign=1058&utm_source=git)** | Redwood City, CA | On Site | Dec 31 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/677433b9c7ca8ddac25b55ef?utm_campaign=1058&utm_source=git)** | Oakland, CA | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
