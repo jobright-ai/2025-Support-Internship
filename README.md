@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/6779a736b2510a029c50f2e1?utm_campaign=1058&utm_source=git)** | Gig Harbor, WA | On Site | Jan 04 |
+| **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/6779ec62b8d09e7fbc2d76c3?utm_campaign=1058&utm_source=git)** | Gig Harbor, WA | On Site | Jan 04 |
+| ↳ | **[Internist](https://jobright.ai/jobs/info/6779ec62b8d09e7fbc2d76e6?utm_campaign=1058&utm_source=git)** | Springfield, OR | On Site | Jan 04 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/6779ddca49806b5a93063521?utm_campaign=1058&utm_source=git)** | Antioch, CA | Hybrid | Jan 04 |
+| **[Stevens Towing Company](https://www.stevens-towing.com)** | **[Warehouse & Data Entry](https://jobright.ai/jobs/info/6779d399ede449ee0ec48075?utm_campaign=1058&utm_source=git)** | Yonges Island, SC | On Site | Jan 04 |
 | **[RITE AID](http://www.riteaid.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/67799d01b6189005ae70bc32?utm_campaign=1058&utm_source=git)** | Exeter, NH | On Site | Jan 04 |
 | **[Optum](https://www.optum.com/)** | **[Pharmacist Intern Behavioral Health,](https://jobright.ai/jobs/info/67799d01b6189005ae70bc0e?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Jan 04 |
-| **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/67799d01b6189005ae70bc45?utm_campaign=1058&utm_source=git)** | Springfield, OR | On Site | Jan 04 |
 | **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern P3 Contingent Rotate](https://jobright.ai/jobs/info/67797d2262454453fba39854?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Jan 04 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT 8](https://jobright.ai/jobs/info/67797d2262454453fba39844?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jan 04 |
 | **[Geisinger](https://www.geisinger.org)** | **[fellow non standard](https://jobright.ai/jobs/info/67797ae3e7b77fd9c1c8955e?utm_campaign=1058&utm_source=git)** | Danville, PA | On Site | Jan 04 |
@@ -92,12 +94,14 @@ For a complete list, click the following sortable link below:
 | **[RITE AID](http://www.riteaid.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/66ec03dcec570585d86e486c?utm_campaign=1058&utm_source=git)** | St Marys, PA | On Site | Jan 04 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/66c9b57651cd69695df9a6f6?utm_campaign=1058&utm_source=git)** | Bell Gardens, CA | On Site | Jan 04 |
 | **[IDEMIA](https://www.idemia.com/)** | **[Information Technology Internship - Summer 2025](https://jobright.ai/jobs/info/677919ce18e9130dab3637b2?utm_campaign=1058&utm_source=git)** | Bedford, MA | On Site | Jan 04 |
+| **[United Surgical Partners International, Inc](http://www.uspi.com/)** | **[Ultrasound Tech FT](https://jobright.ai/jobs/info/675071dd15b1305b125cef65?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Jan 04 |
 | **[FlightSafety International](https://www.flightsafety.com/)** | **[2025 Summer Intern - Scheduling & Customer Service](https://jobright.ai/jobs/info/6779214f0ab81ffb08b1029a?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Jan 04 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Paid Intern (Burtonsville, Maryland)](https://jobright.ai/jobs/info/66f1ca503ba3a18e5590e5cc?utm_campaign=1058&utm_source=git)** | Millersville, MD | On Site | Jan 04 |
 | **[Aptiv](http://www.aptiv.com)** | **[CEE Intern](https://jobright.ai/jobs/info/67580f27cc640cdc9f0a7352?utm_campaign=1058&utm_source=git)** | Troy, MI | On Site | Jan 04 |
 | **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern Med/Surg PRN](https://jobright.ai/jobs/info/6779210358df82a4404d541c?utm_campaign=1058&utm_source=git)** | Statesboro, GA | On Site | Jan 04 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/6778fcfbc2aaba3d9808df28?utm_campaign=1058&utm_source=git)** | Santa Ana, CA | On Site | Jan 04 |
-| **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/6778ff6f78f595434e72ad00?utm_campaign=1058&utm_source=git)** | Springfield, OR | On Site | Jan 04 |
+| **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/6778ff6f78f595434e72acfd?utm_campaign=1058&utm_source=git)** | Gig Harbor, WA | On Site | Jan 04 |
+| ↳ | **[Internist](https://jobright.ai/jobs/info/6778ff6f78f595434e72ad00?utm_campaign=1058&utm_source=git)** | Springfield, OR | On Site | Jan 04 |
 | **[Bon Secours](https://www.bonsecours.com/)** | **[Certified Medical Assistant (CMA) - Internists of Churchland](https://jobright.ai/jobs/info/6778f6d82bbe67f65868f9f5?utm_campaign=1058&utm_source=git)** | Suffolk, VA | On Site | Jan 03 |
 | **[HCA Florida Aventura Hospital](https://aventurahospital.com)** | **[Surgical Technologist Extern](https://jobright.ai/jobs/info/6778eccfe359683b66b8d2aa?utm_campaign=1058&utm_source=git)** | Aventura, FL | On Site | Jan 03 |
 | **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[IT Support Intern](https://jobright.ai/jobs/info/6778eccfe359683b66b8d2d9?utm_campaign=1058&utm_source=git)** | Orem, UT | On Site | Jan 03 |
@@ -110,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](http://psu.edu)** | **[Part-Time Graders Spring 2025, CEE](https://jobright.ai/jobs/info/6778b498c2e5c24b56aa4216?utm_campaign=1058&utm_source=git)** | University Park, PA | On Site | Jan 03 |
 | ↳ | **[IT Support Staff - Part-Time (Student)](https://jobright.ai/jobs/info/6778b498c2e5c24b56aa422e?utm_campaign=1058&utm_source=git)** | University Park, PA | On Site | Jan 03 |
 | **[State of Michigan](http://www.michigan.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/6778aa384292c64f91397e47?utm_campaign=1058&utm_source=git)** | Kalamazoo, MI | On Site | Jan 03 |
+| **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/6778b0b0148c9c832dd72bad?utm_campaign=1058&utm_source=git)** | Springfield, OR | On Site | Jan 03 |
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6778af34f5af341966d790c9?utm_campaign=1058&utm_source=git)** | Avon, IN | On Site | Jan 03 |
 | ↳ | **[Pharmacy Pre-Grad Intern - WM NHM Hephzibah](https://jobright.ai/jobs/info/6778af34f5af341966d790c8?utm_campaign=1058&utm_source=git)** | Hephzibah, GA | On Site | Jan 03 |
 | ↳ | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6778af34f5af341966d790d9?utm_campaign=1058&utm_source=git)** | Brownsburg, IN | On Site | Jan 03 |
@@ -120,7 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Sam's Club](http://www.samsclub.com)** | **[(USA) Pre Grad Intern - Sam's](https://jobright.ai/jobs/info/6778b0b0148c9c832dd727a3?utm_campaign=1058&utm_source=git)** | Scarborough, ME | On Site | Jan 03 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Retail Banking Intern](https://jobright.ai/jobs/info/6778af34f5af341966d79087?utm_campaign=1058&utm_source=git)** | Plymouth, MA | On Site | Jan 03 |
 | ↳ | **[Retail Banking Intern](https://jobright.ai/jobs/info/6778af34f5af341966d7924b?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Jan 03 |
-| **[Newmark](https://www.nmrk.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/67789a094cf941b6c2448f13?utm_campaign=1058&utm_source=git)** | 500 W Monroe St, Chicago, IL, 60661, US | On Site | Jan 03 |
+| **[Newmark](https://www.nmrk.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/67789a094cf941b6c2448f07?utm_campaign=1058&utm_source=git)** | 125 Park Avenue, New York, NY, 10017, US | On Site | Jan 03 |
+| ↳ | **[Information Technology Intern](https://jobright.ai/jobs/info/67789a094cf941b6c2448f06?utm_campaign=1058&utm_source=git)** | 500 W Monroe St, Chicago, IL, 60661, US | On Site | Jan 03 |
 | **[Jewel-Osco](http://www.jewelosco.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/6778b5e5064732461cbcb564?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Jan 03 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6778af34f5af341966d7907c?utm_campaign=1058&utm_source=git)** | Springfield, OH | On Site | Jan 03 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6778af34f5af341966d791aa?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Jan 03 |
@@ -128,12 +134,14 @@ For a complete list, click the following sortable link below:
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/6778a265bcaf60756af292e5?utm_campaign=1058&utm_source=git)** | Novato, CA | Hybrid | Jan 03 |
 | **[Kennesaw State University](http://www.kennesaw.edu)** | **[Information Technology Apprenticeship](https://jobright.ai/jobs/info/67788d9ead060d4fa7bbd5a9?utm_campaign=1058&utm_source=git)** | Kennesaw, GA | On Site | Jan 03 |
 | **[3 Men Movers](http://3menmovers.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/67789bc07a863a9e00c726e9?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Jan 03 |
-| **[Jewel-Osco](http://www.jewelosco.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/67788d9ead060d4fa7bbd628?utm_campaign=1058&utm_source=git)** | Arlington Heights, IL | Hybrid | Jan 03 |
+| **[Jewel-Osco](http://www.jewelosco.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/67788d9ead060d4fa7bbd5a3?utm_campaign=1058&utm_source=git)** | Arlington Heights, IL | Hybrid | Jan 03 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/67788d9ead060d4fa7bbd76d?utm_campaign=1058&utm_source=git)** | El Dorado Hills, CA | Hybrid | Jan 03 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/67788d9ead060d4fa7bbd771?utm_campaign=1058&utm_source=git)** | Sonora, CA | Hybrid | Jan 03 |
 | **[Jewel-Osco](http://www.jewelosco.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/67788d9ead060d4fa7bbd822?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Jan 03 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/67788d9ead060d4fa7bbd777?utm_campaign=1058&utm_source=git)** | Jackson, CA | Hybrid | Jan 03 |
 | **[UPMC](https://www.upmc.com/)** | **[Anesthesia Tech Student](https://jobright.ai/jobs/info/677899b20e9fff4f796b375d?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Jan 03 |
+| **[Community Options, Inc.](https://www.comop.org/)** | **[Foster Care / Host Home Provider](https://jobright.ai/jobs/info/6704ad3f29f40e016cb13f9d?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Jan 03 |
+| **[PBMares, LLP](http://pbmares.com)** | **[2025 Information Systems Internship](https://jobright.ai/jobs/info/66fc58b0db3f2a235bb7af6a?utm_campaign=1058&utm_source=git)** | Newport News, VA | Hybrid | Jan 03 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Retail Banking Intern](https://jobright.ai/jobs/info/677881b38b79dddea992c5be?utm_campaign=1058&utm_source=git)** | 94 Court St, Plymouth, MA, 02360, US | On Site | Jan 03 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[IT Generalist Apprentice](https://jobright.ai/jobs/info/67788a82073d02ae89301c1b?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Jan 03 |
 | **[Fleet Response](http://fleetresponse.com)** | **[Summer Internship](https://jobright.ai/jobs/info/677887e0fd1a05058db57a26?utm_campaign=1058&utm_source=git)** | Hudson, OH | On Site | Jan 03 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern Team Member - PRN](https://jobright.ai/jobs/info/677876c2c270cafe1987bcee?utm_campaign=1058&utm_source=git)** | Las Cruces, NM | On Site | Jan 03 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[SkillBridge Intern - OM](https://jobright.ai/jobs/info/6778790a3435dca8bb3d3b92?utm_campaign=1058&utm_source=git)** | Ozark, AL | On Site | Jan 03 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/676a359e0550bf5cdea23daf?utm_campaign=1058&utm_source=git)** | Kirkland, WA | Hybrid | Jan 03 |
-| **[Allan Myers Inc.](http://www.allanmyers.com/)** | **[IT Generalist Internship 2025](https://jobright.ai/jobs/info/677859615a65b447a2306b1d?utm_campaign=1058&utm_source=git)** | Fallston, MD | On Site | Jan 03 |
-| **[RITE AID](http://www.riteaid.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6721609a953d297dc6fa5d04?utm_campaign=1058&utm_source=git)** | Gowanda, NY | On Site | Jan 03 |
-| **[ESL Federal Credit Union](https://www.esl.org/)** | **[Student Teller - Summer 2025](https://jobright.ai/jobs/info/677874d0e3f3cee275df199a?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | Jan 03 |
-| ↳ | **[Student Teller - Batavia Office / Brockport Office/ Geneseo Office - Summer 2025](https://jobright.ai/jobs/info/677874d0e3f3cee275df198d?utm_campaign=1058&utm_source=git)** | Batavia, NY | On Site | Jan 03 |
-| ↳ | **[Student Teller - Batavia Office / Brockport Office/ Geneseo Office - Summer 2025](https://jobright.ai/jobs/info/677874d0e3f3cee275df1c91?utm_campaign=1058&utm_source=git)** | Geneseo, NY | On Site | Jan 03 |
-| ↳ | **[Student Teller - Canandaigua Office/ Newark Office/ Victor Office - Summer 2025](https://jobright.ai/jobs/info/677874d0e3f3cee275df195e?utm_campaign=1058&utm_source=git)** | Canandaigua, NY | On Site | Jan 03 |
-| ↳ | **[Student Teller - Canandaigua Office/ Newark Office/ Victor Office - Summer 2025](https://jobright.ai/jobs/info/677874d0e3f3cee275df1c92?utm_campaign=1058&utm_source=git)** | Newark, NY | On Site | Jan 03 |
-| ↳ | **[Student Teller - Canandaigua Office/ Newark Office/ Victor Office - Summer 2025](https://jobright.ai/jobs/info/677874d0e3f3cee275df1c93?utm_campaign=1058&utm_source=git)** | Victor, NY | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
