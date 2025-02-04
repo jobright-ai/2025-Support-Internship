@@ -57,16 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHI](https://www.catholichealthinitiatives.org/)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/67a2128b64ed233b011226cf?utm_campaign=1058&utm_source=git)** | Conroe, TX | On Site | Feb 04 |
+| **[Year Up United](http://yearup.org)** | **[Customer Service Fundamentals Career Training Opportunity](https://jobright.ai/jobs/info/67a20a9d1dfe2c37a0a1ce10?utm_campaign=1058&utm_source=git)** | Providence, RI | On Site | Feb 04 |
+| **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern - UPMC Harrisburg](https://jobright.ai/jobs/info/66ff4ed318349108cb3b5cec?utm_campaign=1058&utm_source=git)** | Harrisburg, PA | Hybrid | Feb 04 |
+| **[Year Up United](http://yearup.org)** | **[Customer Service Fundamentals Job Training Program](https://jobright.ai/jobs/info/67a1ebb657efcaa01fad5ea6?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Feb 04 |
+| **[Encompass Health](http://encompasshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/67a20127fdf955b6ca036745?utm_campaign=1058&utm_source=git)** | Bryan, TX | On Site | Feb 04 |
+| **[Maricopa County](http://www.maricopa.gov)** | **[Intern](https://jobright.ai/jobs/info/67a1e6b7f5ab036257986d50?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Feb 04 |
+| **[Lovelace Health System](http://lovelace.com/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/67a1e6b7f5ab036257986bda?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Feb 04 |
+| ↳ | **[Radiology Intern](https://jobright.ai/jobs/info/67a1e6b7f5ab036257986be5?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Feb 04 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Pharmacy Intern (H)](https://jobright.ai/jobs/info/67a1d87b845e14224853f5a6?utm_campaign=1058&utm_source=git)** | Bridgeton, MO | On Site | Feb 03 |
 | **[BAYADA Home Health Care](http://www.bayada.com)** | **[Hospice Office Volunteer](https://jobright.ai/jobs/info/67a1c8bccabcda3393a7af86?utm_campaign=1058&utm_source=git)** | Toms River, NJ | On Site | Feb 03 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Paid Internship (New Braunfels ,TX)](https://jobright.ai/jobs/info/67a1c38b546af1fdfd307452?utm_campaign=1058&utm_source=git)** | New Braunfels, TX | On Site | Feb 03 |
+| **[Prisma Health](https://www.prismahealth.org)** | **[Surgical Technologist Extern, OR Richland, PRN Days](https://jobright.ai/jobs/info/679acbd650a0bd339ec8fcce?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Feb 03 |
 | **[GitHub](https://github.com)** | **[Support Team  Intern](https://jobright.ai/jobs/info/67a1a41aa2fee5109f7fff5e?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 03 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Pharmacist Intern Managed Care](https://jobright.ai/jobs/info/67a1b20b492672ea365ba5a3?utm_campaign=1058&utm_source=git)** | West Coon Rapids, MN | On Site | Feb 03 |
 | ↳ | **[Pharmacist Intern Managed Care](https://jobright.ai/jobs/info/67a1b20b492672ea365ba5a4?utm_campaign=1058&utm_source=git)** | South St Paul, MN | On Site | Feb 03 |
 | **[Year Up United](http://yearup.org)** | **[Customer Service Fundamentals Job Training Program](https://jobright.ai/jobs/info/67a1ab552981efcbb40699e7?utm_campaign=1058&utm_source=git)** | Jersey City, NJ | On Site | Feb 03 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Radiology Technologist Intern PRN Nights](https://jobright.ai/jobs/info/67a1ab552981efcbb4069b39?utm_campaign=1058&utm_source=git)** | Ocala, FL | On Site | Feb 03 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern , PRN](https://jobright.ai/jobs/info/67a1a41aa2fee5109f7fff8a?utm_campaign=1058&utm_source=git)** | Fort Smith, AR | On Site | Feb 03 |
-| **[Year Up United](http://yearup.org)** | **[Customer Service Fundamentals Job Training Program](https://jobright.ai/jobs/info/67a1a41aa2fee5109f800354?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Feb 03 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Pharmacist Intern Managed Care](https://jobright.ai/jobs/info/67a1a41aa2fee5109f8003a6?utm_campaign=1058&utm_source=git)** | Montrose, MN | On Site | Feb 03 |
 | ↳ | **[Pharmacist Intern Managed Care](https://jobright.ai/jobs/info/67a1a41aa2fee5109f8003a8?utm_campaign=1058&utm_source=git)** | Mound, MN | On Site | Feb 03 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Technical Account Management Intern - Summer 2025 (Remote)](https://jobright.ai/jobs/info/67a198840bef4c7e2ffde633?utm_campaign=1058&utm_source=git)** | Sunnyvale, CA | Remote | Feb 03 |
@@ -132,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Wave Life Sciences](http://wavelifesciences.com)** | **[IT Lab and GxP Systems Support Co-op (Fall 2025)](https://jobright.ai/jobs/info/67a158ea6ade5a22a8aeb8f5?utm_campaign=1058&utm_source=git)** | Lexington, MA | On Site | Feb 03 |
 | **[University of Mississippi](http://www.olemiss.edu/)** | **[Student Employee (Student Media Center)](https://jobright.ai/jobs/info/67a157d453e4f16b33c6b57e?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Feb 03 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Pharmacy Technician Intern (Class of 2029 Students)](https://jobright.ai/jobs/info/67a14c7bf6e5f993a30fd2f8?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | Hybrid | Feb 03 |
+| ↳ | **[Inpatient Pharmacy Intern (Class of 2027 or 2028 Students)](https://jobright.ai/jobs/info/67a14c7bf6e5f993a30fd2ff?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | Hybrid | Feb 03 |
 | **[VCA Animal Hospitals](https://www.vcacareers.com)** | **[2025-2026 Off-Cycle Intern](https://jobright.ai/jobs/info/67a1376e42238d0fb229148c?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Feb 03 |
-| **[Corewell Health](https://corewellhealth.org)** | **[Medication History Pharmacy Intern (for Class of 2026 Students)](https://jobright.ai/jobs/info/67a13558f6cdd99d3286b67b?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | Hybrid | Feb 03 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern/Respiratory Therapy Assistant](https://jobright.ai/jobs/info/67a14f5c575338b2d57b0978?utm_campaign=1058&utm_source=git)** | Rochester, MN | On Site | Feb 03 |
 | **[Veradigm®](https://veradigm.com)** | **[IT Specialist Intern](https://jobright.ai/jobs/info/67a13166419c768c1ec2fdbc?utm_campaign=1058&utm_source=git)** | Raleigh, NC | Hybrid | Feb 03 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Pretrial Services Intern (Hourly)](https://jobright.ai/jobs/info/679d3c79b94eb023502432bb?utm_campaign=1058&utm_source=git)** | Newark, NJ | Hybrid | Feb 03 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/67a11bc6c5ffe7045d4658fa?utm_campaign=1058&utm_source=git)** | Santa Ana, CA | On Site | Feb 03 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support](https://jobright.ai/jobs/info/67a128ce9507f7eb888beab2?utm_campaign=1058&utm_source=git)** | St. Petersburg, FL | On Site | Feb 03 |
 | **[BDO USA](https://www.bdo.com/)** | **[Information Technology Intern - Fall 2025 (Remote)](https://jobright.ai/jobs/info/67a12628bda97685d0723b52?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | Remote | Feb 03 |
-| ↳ | **[Information Technology Intern - Summer 2025 (Remote)](https://jobright.ai/jobs/info/67a12628bda97685d0723b57?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | Remote | Feb 03 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/67a1269eeb5985653a68967e?utm_campaign=1058&utm_source=git)** | Baton Rouge, LA | On Site | Feb 03 |
-| **[Lindsay Corporation](http://lindsay.com)** | **[Global Irrigation Product Support Intern](https://jobright.ai/jobs/info/67a117a4c45d57c290b162fa?utm_campaign=1058&utm_source=git)** | Omaha, NE | Hybrid | Feb 03 |
-| **[Hunt Oil Company](http://www.huntoil.com)** | **[Intern - IT Service Management](https://jobright.ai/jobs/info/67a1195ac321d88ba3f25ac7?utm_campaign=1058&utm_source=git)** | Dallas, TX | Hybrid | Feb 03 |
-| **[Ntrepid LLC](https://www.ntrepidcorp.com/)** | **[IT Support Specialist Intern (Summer 2025)](https://jobright.ai/jobs/info/67a11e93459a531c82e6b68b?utm_campaign=1058&utm_source=git)** | Herndon, VA | Hybrid | Feb 03 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/67a11cd2f1498b39ea2d00e8?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Feb 03 |
-| **[Qlik](https://www.qlik.com/)** | **[IT Community Intern](https://jobright.ai/jobs/info/67a120f0e104a7034699f55c?utm_campaign=1058&utm_source=git)** | King of Prussia, PA | On Site | Feb 03 |
-| **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[PAID ODOT College Intern, Office of Information Technology, PN 20052817](https://jobright.ai/jobs/info/67a11e93459a531c82e6b69d?utm_campaign=1058&utm_source=git)** | Marietta, OH | Hybrid | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
