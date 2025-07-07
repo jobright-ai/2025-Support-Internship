@@ -71,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist  PT16](https://jobright.ai/jobs/info/684dbce95aacc289c7e62f8c?utm_campaign=1058&utm_source=git)** | Claremont, CA | On Site | Jul 06 |
 | **[Detroit Medical Center](http://www.dmc.org/)** | **[Student Rad Tech Contingent Rotating Shifts](https://jobright.ai/jobs/info/684dd2ac2f994d4a5fc92e58?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Jul 06 |
 | **[Acme Markets](http://www.acmemarkets.com/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68311569f8436f88c9a99d39?utm_campaign=1058&utm_source=git)** | Bordentown, NJ | Hybrid | Jul 06 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/684cd59bb603b584bdcc5e32?utm_campaign=1058&utm_source=git)** | Tucson, AZ | Hybrid | Jul 06 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Pharmacy Intern - Inpatient](https://jobright.ai/jobs/info/686a2ce835584b6542ccd1f0?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Jul 06 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Technologist-Radiology Student](https://jobright.ai/jobs/info/684d4008c9c2e47f6e33ccaf?utm_campaign=1058&utm_source=git)** | Union City, TN | On Site | Jul 06 |
 | **[AccessHealth](https://www.accesshealthwv.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/686a1f4b35584b6542a642b1?utm_campaign=1058&utm_source=git)** | Colfax, LA | On Site | Jul 06 |
@@ -88,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[AccessHealth](https://www.accesshealthwv.com)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/68697a0435584b65429dd8e5?utm_campaign=1058&utm_source=git)** | Bentley, LA | On Site | Jul 05 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Technologist-Radiology Student PRN](https://jobright.ai/jobs/info/6813dd5c8c04b2cdb08e6145?utm_campaign=1058&utm_source=git)** | Meridian, MS | On Site | Jul 05 |
 | **[Medical City Healthcare](https://medicalcityhealthcare.com/)** | **[Radiology Tech Extern](https://jobright.ai/jobs/info/6813d3c0d0ebad15564678fc?utm_campaign=1058&utm_source=git)** | Plano, TX | On Site | Jul 05 |
+| **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Pharmacy Intern - PRN](https://jobright.ai/jobs/info/683109e3dd28a5559962954a?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Jul 05 |
 | **[University of Pennsylvania](http://www.upenn.edu)** | **[Test Posting for Training #6](https://jobright.ai/jobs/info/686932b235584b6542462a53?utm_campaign=1058&utm_source=git)** | Erie-Meadville Area | On Site | Jul 05 |
-| **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Pharmacy Intern - PRN](https://jobright.ai/jobs/info/6831157af8436f88c9a99dab?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Jul 05 |
 | **[Key Capture Energy](https://www.keycaptureenergy.com)** | **[IT Intern](https://jobright.ai/jobs/info/685b923fc739791581539f0c?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Jul 05 |
 | **[The University of Texas System](http://www.utsystem.edu/)** | **[Hourly - Client Services Student Associate](https://jobright.ai/jobs/info/684c80532add4b27c83cb873?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jul 05 |
 | **[Parkland Health Center](https://parklandhealthcenter.org)** | **[Student Radiology Technologist – Parkland](https://jobright.ai/jobs/info/684cbfe0e1cd87fdbb3c0366?utm_campaign=1058&utm_source=git)** | Farmington, MO | On Site | Jul 05 |
@@ -134,8 +135,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68680eea35584b6542df37ab?utm_campaign=1058&utm_source=git)** | Trenton, NJ | On Site | Jul 04 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68680ee835584b6542df303d?utm_campaign=1058&utm_source=git)** | Pennington, NJ | On Site | Jul 04 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6868a0e935584b6542a654fc?utm_campaign=1058&utm_source=git)** | Flemington, NJ | On Site | Jul 04 |
-| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6868a3b435584b6542bb3942?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jul 04 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6868a2cf35584b6542b3a93c?utm_campaign=1058&utm_source=git)** | Princeton Junction, NJ | On Site | Jul 04 |
+| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6868a3b435584b6542bb3942?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jul 04 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6868a0aa35584b6542a4b468?utm_campaign=1058&utm_source=git)** | Ewing, NJ | On Site | Jul 04 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6868a3f135584b6542bd6293?utm_campaign=1058&utm_source=git)** | Robbinsville, NJ | On Site | Jul 04 |
 | **[Nebraska Medicine](https://www.nebraskamed.com)** | **[CT Technologist Trainee](https://jobright.ai/jobs/info/66d822a0e99d6d5e6a0c32a3?utm_campaign=1058&utm_source=git)** | Omaha Metropolitan Area | On Site | Jul 04 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/68301114382c759fcdb2cdd5?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jul 04 |
 | **[St. Joseph Medical Center ](https://stjosephkc.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/684b2ad081ae94db83ea24c6?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Jul 04 |
 | **[BIGO](https://www.bigo.sg)** | **[Sales & Account Support Intern](https://jobright.ai/jobs/info/6842c96faca20282c5a12a43?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 04 |
-| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/68678e1c3500665014240ce0?utm_campaign=1058&utm_source=git)** | Sun City, AZ | Hybrid | Jul 04 |
-| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/68678e1c3500665014240ce3?utm_campaign=1058&utm_source=git)** | Surprise, AZ | Hybrid | Jul 04 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/68678e1c3500665014240ce3?utm_campaign=1058&utm_source=git)** | Surprise, AZ | Hybrid | Jul 04 |
 | ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/68678e1c3500665014240ce1?utm_campaign=1058&utm_source=git)** | Peoria, AZ | Hybrid | Jul 04 |
+| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/68678e1c3500665014240ce0?utm_campaign=1058&utm_source=git)** | Sun City, AZ | Hybrid | Jul 04 |
 | **[Wesley Healthcare](http://www.wesleymc.com)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/6849e2befef6a65076fe2074?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Jul 04 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Clinical Student Intern - Surgical Tech Residency](https://jobright.ai/jobs/info/686780ff4426d633665411a0?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Jul 04 |
 | **[RadNet](https://www.radnet.com)** | **[Mammography Tech Trainee](https://jobright.ai/jobs/info/68678027adff7dabb6af05ab?utm_campaign=1058&utm_source=git)** | Peoria, AZ | On Site | Jul 04 |
-| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/68677f444016c306b8c463e3?utm_campaign=1058&utm_source=git)** | Glendale, AZ | Hybrid | Jul 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
