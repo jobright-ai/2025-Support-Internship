@@ -86,14 +86,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6872b191a5ae807a59d06f94?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Jul 12 |
 | ↳ | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/6872b16706ad7073463cc983?utm_campaign=1058&utm_source=git)** | Council Bluffs, IA | On Site | Jul 12 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6872a025a5ae807a59d06da0?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Jul 12 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6872f04f06ad7073463cce97?utm_campaign=1058&utm_source=git)** | Mesa, AZ | On Site | Jul 12 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6872f06206ad7073463cceaa?utm_campaign=1058&utm_source=git)** | Spartanburg, SC | On Site | Jul 12 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6872f04f06ad7073463cce97?utm_campaign=1058&utm_source=git)** | Mesa, AZ | On Site | Jul 12 |
 | **[Providence Medical Center](http://www.providencekc.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/685607fda693913ab783dc68?utm_campaign=1058&utm_source=git)** | Kansas City, KS | On Site | Jul 12 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/683b1da0eaefbae49baba3e6?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Jul 12 |
 | **[RehabVisions](https://rehabvisions.com)** | **[Rehab Tech](https://jobright.ai/jobs/info/6855f09e3a8383185c04a258?utm_campaign=1058&utm_source=git)** | Dickinson, ND | On Site | Jul 12 |
 | **[America First Credit Union](http://www.americafirst.com)** | **[Student Trainee - Teller](https://jobright.ai/jobs/info/6855f995b0e8b59b0e9db4f8?utm_campaign=1058&utm_source=git)** | Kaysville, UT | On Site | Jul 12 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT 24 (P)](https://jobright.ai/jobs/info/6872620ba5ae807a59d06611?utm_campaign=1058&utm_source=git)** | Downey, CA | On Site | Jul 12 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, WBOY](https://jobright.ai/jobs/info/683a75b1a4c0f23f5b82559c?utm_campaign=1058&utm_source=git)** | Clarksburg, WV | On Site | Jul 12 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, WBOY](https://jobright.ai/jobs/info/683a5d46f9fff27ed90d53d2?utm_campaign=1058&utm_source=git)** | Clarksburg, WV | On Site | Jul 12 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT24](https://jobright.ai/jobs/info/6856a46dae0608f715a8a249?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jul 12 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/6855fcb8ea0302d17cb157cd?utm_campaign=1058&utm_source=git)** | Goodyear, AZ | Hybrid | Jul 12 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/681c9567ef06208b8a290cb5?utm_campaign=1058&utm_source=git)** | Firestone, CO | Hybrid | Jul 12 |
@@ -110,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Pharmacy Student Intern VII-PRN](https://jobright.ai/jobs/info/6871c778a5ae807a59d01a2b?utm_campaign=1058&utm_source=git)** | Washington, MO | On Site | Jul 11 |
 | **[DCI](http://diversifiedconveyors.com/)** | **[IT Helpdesk Internship](https://jobright.ai/jobs/info/6871c72206ad7073463c72c2?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Jul 11 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/685422b5b2c628d970be70d4?utm_campaign=1058&utm_source=git)** | Flagstaff, AZ | Hybrid | Jul 11 |
+| **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6871c2a9a5ae807a59d01880?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jul 11 |
 | **[Novant Health](https://www.novanthealth.org/)** | **[Surgical Technology Extern Hourly Pay & up to $3,000 Relocation](https://jobright.ai/jobs/info/68739ea84001e95011b180d0?utm_campaign=1058&utm_source=git)** | Wilmington, NC | On Site | Jul 11 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Resident](https://jobright.ai/jobs/info/6871bf3706ad7073463c704f?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jul 11 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Pharmacy Intern 1 - Investigational Drug Service](https://jobright.ai/jobs/info/6871bf1606ad7073463c7044?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Jul 11 |
@@ -119,8 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6871b4fe06ad7073463c6c64?utm_campaign=1058&utm_source=git)** | Norcross, GA | On Site | Jul 11 |
 | **[Cottage Health](http://www.cottagehealth.org)** | **[Pharmacist Intern PD](https://jobright.ai/jobs/info/6871b4c706ad7073463c6c48?utm_campaign=1058&utm_source=git)** | Santa Barbara, CA | On Site | Jul 11 |
 | **[Beth Israel Deaconess Medical Center](https://www.bidmc.org/)** | **[Lahey Outpatient Pharmacy Intern - Per-Diem](https://jobright.ai/jobs/info/6871b3c506ad7073463c6bda?utm_campaign=1058&utm_source=git)** | Burlington, MA | On Site | Jul 11 |
-| **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6873a1284001e95011b182ec?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jul 11 |
-| ↳ | **[Smilow Oncology Pharmacy Intern](https://jobright.ai/jobs/info/6871db5706ad7073463c8296?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jul 11 |
+| **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Smilow Oncology Pharmacy Intern](https://jobright.ai/jobs/info/6871db5706ad7073463c8296?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jul 11 |
 | **[Providence](https://www.psjhealth.org/)** | **[Pharmacist Intern - Credena Health](https://jobright.ai/jobs/info/687217dda5ae807a59d05bfe?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Jul 11 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Radiology Tech Intern- South Lake Hospital](https://jobright.ai/jobs/info/6871b035a96c881fdf355c3b?utm_campaign=1058&utm_source=git)** | CLERMONT, Florida | On Site | Jul 11 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Pharmacy Student Intern VII-PRN](https://jobright.ai/jobs/info/6871b035a96c881fdf355c91?utm_campaign=1058&utm_source=git)** | Washington, Missouri | On Site | Jul 11 |
@@ -141,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Meijer](https://www.meijer.com/)** | **[Store Detective Intern](https://jobright.ai/jobs/info/68718f2906ad7073463c5eaf?utm_campaign=1058&utm_source=git)** | Grand Rapids Metro | On Site | Jul 11 |
 | **[TriStar Summit Medical Center](https://tristarhealth.com/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/68718e09a5ae807a59d0064f?utm_campaign=1058&utm_source=git)** | Hermitage, TN | On Site | Jul 11 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[OR-Intern Nurse II](https://jobright.ai/jobs/info/68717cf006ad7073463c5681?utm_campaign=1058&utm_source=git)** | Columbus, MS | On Site | Jul 11 |
-| **[Providence](https://www.psjhealth.org/)** | **[Pharmacist Intern - Credena Health](https://jobright.ai/jobs/info/68717603ff9bcd850a7261bf?utm_campaign=1058&utm_source=git)** | Spokane, WA, United States | On Site | Jul 11 |
-| ↳ | **[Pharmacist Intern - Credena Health](https://jobright.ai/jobs/info/68717603ff9bcd850a7261b5?utm_campaign=1058&utm_source=git)** | Spokane, WA, United States | On Site | Jul 11 |
+| **[Providence](https://www.psjhealth.org/)** | **[Pharmacist Intern - Credena Health](https://jobright.ai/jobs/info/68717603ff9bcd850a7261b5?utm_campaign=1058&utm_source=git)** | Spokane, WA, United States | On Site | Jul 11 |
+| ↳ | **[Pharmacist Intern - Credena Health](https://jobright.ai/jobs/info/68717603ff9bcd850a7261bf?utm_campaign=1058&utm_source=git)** | Spokane, WA, United States | On Site | Jul 11 |
 | **[HCA Houston Healthcare](http://hcagulfcoast.com)** | **[Surgical Tech Extern PRN](https://jobright.ai/jobs/info/6871919ea5ae807a59d00849?utm_campaign=1058&utm_source=git)** | Pasadena, TX | On Site | Jul 11 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[Intern Pharmacist PRN Rotating](https://jobright.ai/jobs/info/6871744ea5ae807a59cffa88?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Jul 11 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/6871728ea5ae807a59cff9b1?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Jul 11 |
