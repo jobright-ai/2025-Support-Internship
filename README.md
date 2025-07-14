@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kansas State University](http://www.k-state.edu/)** | **[Laboratory Client Services Assistant](https://jobright.ai/jobs/info/6874c6a45cebcd1dd51bc319?utm_campaign=1058&utm_source=git)** | Manhattan, KS | On Site | Jul 14 |
 | **[Johnson Electric](https://www.johnsonelectric.com/)** | **[Logistic Intern](https://jobright.ai/jobs/info/68749ff75cebcd1dd51bb57a?utm_campaign=1058&utm_source=git)** | Plymouth, MI | On Site | Jul 13 |
-| ↳ | **[Logistic Intern](https://jobright.ai/jobs/info/687489f65cebcd1dd51bab28?utm_campaign=1058&utm_source=git)** | United States, Plymouth, MI | On Site | Jul 13 |
+| **[World Relief](https://worldrelief.org/)** | **[Vision & Call Intern - Limited Term](https://jobright.ai/jobs/info/686df595c2e288d4ae6028d6?utm_campaign=1058&utm_source=git)** | Kent, WA | Hybrid | Jul 13 |
+| **[Johnson Electric](https://www.johnsonelectric.com/)** | **[Logistic Intern](https://jobright.ai/jobs/info/687489f65cebcd1dd51bab28?utm_campaign=1058&utm_source=git)** | United States, Plymouth, MI | On Site | Jul 13 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Pharmacist Intern Summer On-Site Internship](https://jobright.ai/jobs/info/68746b945cebcd1dd51b92f6?utm_campaign=1058&utm_source=git)** | St Joseph, MI | Hybrid | Jul 13 |
 | **[Medical City Healthcare](https://medicalcityhealthcare.com/)** | **[Surgical Tech Extern PRN](https://jobright.ai/jobs/info/68746b23ae2f413e4a59c3c4?utm_campaign=1058&utm_source=git)** | Plano, TX | On Site | Jul 13 |
 | ↳ | **[Radiology Tech Extern PRN](https://jobright.ai/jobs/info/68746a3d299cbc74b874d493?utm_campaign=1058&utm_source=git)** | Decatur, TX | On Site | Jul 13 |
@@ -95,7 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Northshore Home Health Care](http://www.northshorehomehealth.com)** | **[Locum Nurse Practitioner (NP) - Internal Medicine in Massachusetts](https://jobright.ai/jobs/info/6873730c01889204ff8f5012?utm_campaign=1058&utm_source=git)** | Worcester, MA | On Site | Jul 12 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Pharmacy Intern - Inpatient](https://jobright.ai/jobs/info/68736fd927d5e6163cae6298?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Jul 12 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/6874a6eeae2f413e4a59e87b?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | Hybrid | Jul 12 |
-| **[AccessHealth](https://www.accesshealthwv.com)** | **[Locum Physician (MD/DO) - Internal Medicine in Colorado](https://jobright.ai/jobs/info/6872bc37a5ae807a59d070d0?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Jul 12 |
+| ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/6874c5d8ae2f413e4a5a0343?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | Hybrid | Jul 12 |
+| ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/6874cdc3ae2f413e4a5a06dd?utm_campaign=1058&utm_source=git)** | Fountain, CO | Hybrid | Jul 12 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/6872babaa5ae807a59d070b3?utm_campaign=1058&utm_source=git)** | Ankeny, IA | On Site | Jul 12 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6872b191a5ae807a59d06f94?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Jul 12 |
 | ↳ | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/6872b16706ad7073463cc983?utm_campaign=1058&utm_source=git)** | Council Bluffs, IA | On Site | Jul 12 |
@@ -103,11 +106,13 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6872a025a5ae807a59d06da0?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Jul 12 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6872f06206ad7073463cceaa?utm_campaign=1058&utm_source=git)** | Spartanburg, SC | On Site | Jul 12 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6872f04f06ad7073463cce97?utm_campaign=1058&utm_source=git)** | Mesa, AZ | On Site | Jul 12 |
+| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6874c309ae2f413e4a5a017b?utm_campaign=1058&utm_source=git)** | Greater Hartford | On Site | Jul 12 |
 | **[Providence Medical Center](http://www.providencekc.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/685607fda693913ab783dc68?utm_campaign=1058&utm_source=git)** | Kansas City, KS | On Site | Jul 12 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/683b1da0eaefbae49baba3e6?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Jul 12 |
 | **[RehabVisions](https://rehabvisions.com)** | **[Rehab Tech](https://jobright.ai/jobs/info/6855f09e3a8383185c04a258?utm_campaign=1058&utm_source=git)** | Dickinson, ND | On Site | Jul 12 |
 | **[America First Credit Union](http://www.americafirst.com)** | **[Student Trainee - Teller](https://jobright.ai/jobs/info/6855f995b0e8b59b0e9db4f8?utm_campaign=1058&utm_source=git)** | Kaysville, UT | On Site | Jul 12 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT 24 (P)](https://jobright.ai/jobs/info/6872620ba5ae807a59d06611?utm_campaign=1058&utm_source=git)** | Downey, CA | On Site | Jul 12 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Grad Intern - Long Term Care](https://jobright.ai/jobs/info/6874ccbcae2f413e4a5a0622?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Jul 12 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, WBOY](https://jobright.ai/jobs/info/683a75b1a4c0f23f5b82559c?utm_campaign=1058&utm_source=git)** | Clarksburg, WV | On Site | Jul 12 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II: Medical Oncology - New Grad Unlicensed Night Shift - Bonus Available](https://jobright.ai/jobs/info/685625e1bc541e6170c50432?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Jul 12 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT24](https://jobright.ai/jobs/info/6856a46dae0608f715a8a249?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jul 12 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ArcBest](http://www.arcb.com)** | **[Student Worker, Customer Service](https://jobright.ai/jobs/info/68739fb64001e95011b181bc?utm_campaign=1058&utm_source=git)** | Fayetteville, AR | On Site | Jul 11 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6871f0a406ad7073463c9316?utm_campaign=1058&utm_source=git)** | Garland, TX | On Site | Jul 11 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6871f1b5a5ae807a59d03a84?utm_campaign=1058&utm_source=git)** | Hendersonville, TN | On Site | Jul 11 |
-| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6871ef8806ad7073463c925c?utm_campaign=1058&utm_source=git)** | Lakewood, OH | On Site | Jul 11 |
-| **[The University of Georgia](http://www.ai.uga.edu)** | **[IT Professional Specialist](https://jobright.ai/jobs/info/6871c4ab06ad7073463c7179?utm_campaign=1058&utm_source=git)** | Athens, GA | On Site | Jul 11 |
-| **[AMETEK](http://www.ametek.com)** | **[IT Intern](https://jobright.ai/jobs/info/68375340a4a8b1b302203bfa?utm_campaign=1058&utm_source=git)** | Waterbury, CT | On Site | Jul 11 |
-| **[Meijer](https://www.meijer.com/)** | **[Store Detective Intern](https://jobright.ai/jobs/info/68718f2906ad7073463c5eaf?utm_campaign=1058&utm_source=git)** | Grand Rapids Metro | On Site | Jul 11 |
-| **[TriStar Summit Medical Center](https://tristarhealth.com/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/68718e09a5ae807a59d0064f?utm_campaign=1058&utm_source=git)** | Hermitage, TN | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
