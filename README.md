@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Corewell Health](https://corewellhealth.org)** | **[Student Technologist Radiology](https://jobright.ai/jobs/info/6875087cae2f413e4a5a3051?utm_campaign=1058&utm_source=git)** | Royal Oak, MI | Hybrid | Jul 14 |
+| **[Texas Health Resources](https://www.texashealth.org/)** | **[Pharmacy Tech Trainee- Full time](https://jobright.ai/jobs/info/6874f8a4299cbc74b87511e7?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jul 14 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Laboratory Client Services Assistant](https://jobright.ai/jobs/info/6874c6a45cebcd1dd51bc319?utm_campaign=1058&utm_source=git)** | Manhattan, KS | On Site | Jul 14 |
 | **[Johnson Electric](https://www.johnsonelectric.com/)** | **[Logistic Intern](https://jobright.ai/jobs/info/68749ff75cebcd1dd51bb57a?utm_campaign=1058&utm_source=git)** | Plymouth, MI | On Site | Jul 13 |
 | **[World Relief](https://worldrelief.org/)** | **[Vision & Call Intern - Limited Term](https://jobright.ai/jobs/info/686df595c2e288d4ae6028d6?utm_campaign=1058&utm_source=git)** | Kent, WA | Hybrid | Jul 13 |
@@ -113,13 +115,14 @@ For a complete list, click the following sortable link below:
 | **[RehabVisions](https://rehabvisions.com)** | **[Rehab Tech](https://jobright.ai/jobs/info/6855f09e3a8383185c04a258?utm_campaign=1058&utm_source=git)** | Dickinson, ND | On Site | Jul 12 |
 | **[America First Credit Union](http://www.americafirst.com)** | **[Student Trainee - Teller](https://jobright.ai/jobs/info/6855f995b0e8b59b0e9db4f8?utm_campaign=1058&utm_source=git)** | Kaysville, UT | On Site | Jul 12 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT 24 (P)](https://jobright.ai/jobs/info/6872620ba5ae807a59d06611?utm_campaign=1058&utm_source=git)** | Downey, CA | On Site | Jul 12 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, WBOY](https://jobright.ai/jobs/info/683a5d46f9fff27ed90d53d2?utm_campaign=1058&utm_source=git)** | Clarksburg, WV | On Site | Jul 12 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, WBOY](https://jobright.ai/jobs/info/683a75b1a4c0f23f5b82559c?utm_campaign=1058&utm_source=git)** | Clarksburg, WV | On Site | Jul 12 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II: Medical Oncology - New Grad Unlicensed Night Shift - Bonus Available](https://jobright.ai/jobs/info/685625e1bc541e6170c50432?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Jul 12 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT24](https://jobright.ai/jobs/info/6856a46dae0608f715a8a249?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jul 12 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/6855fcb8ea0302d17cb157cd?utm_campaign=1058&utm_source=git)** | Goodyear, AZ | Hybrid | Jul 12 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/681c9567ef06208b8a290cb5?utm_campaign=1058&utm_source=git)** | Firestone, CO | Hybrid | Jul 12 |
 | **[Legends](http://legends.net)** | **[Hospitality Intern - Huntington Bank Pavilion at Northerly Island](https://jobright.ai/jobs/info/67c31154f9b362d997903caa?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jul 12 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6838c2c853868704863daa0b?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jul 12 |
+| **[Allegheny Health Network](https://www.ahn.org)** | **[Surgical Technologist Extern](https://jobright.ai/jobs/info/67f9ea239e5d9871a054050f?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Jul 12 |
 | **[The University of Vermont Medical Center](http://www.UVMhealth.org/MedCenter)** | **[Pharmacy Tech Trainee IP](https://jobright.ai/jobs/info/6838661bc62f5ec8d8f74688?utm_campaign=1058&utm_source=git)** | Burlington, VT | On Site | Jul 12 |
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Surgical Technologist Extern - Forbes](https://jobright.ai/jobs/info/68730ba6a5ae807a59d07711?utm_campaign=1058&utm_source=git)** | Monroeville, PA | On Site | Jul 12 |
 | **[Regional Cancer Care Associates](http://www.regionalcancercare.org/)** | **[Intern](https://jobright.ai/jobs/info/6872435906ad7073463cbaed?utm_campaign=1058&utm_source=git)** | Hackensack, NJ | On Site | Jul 12 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Respiratory Stroke Intermediate Care](https://jobright.ai/jobs/info/6874dad5ae2f413e4a5a0f2d?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Jul 11 |
 | **[Jefferson Health](https://www.jeffersonhealth.org/index.html)** | **[Pharmacy Intern (Inpatient) - Per Diem - Jefferson Center City](https://jobright.ai/jobs/info/6871a418a5ae807a59d00e9e?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jul 11 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Radiology Tech Intern- South Lake Hospital](https://jobright.ai/jobs/info/6871c0bfa5ae807a59d0180a?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Jul 11 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Customer Stories, Communications, and Events](https://jobright.ai/jobs/info/6874f552ae2f413e4a5a2208?utm_campaign=1058&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 11 |
 | **[City of Newport Beach](http://www.newportbeachca.gov)** | **[INTERN - P/T](https://jobright.ai/jobs/info/6871d2dba5ae807a59d02295?utm_campaign=1058&utm_source=git)** | Newport Beach, CA | On Site | Jul 11 |
-| **[RTX](http://www.raytheon.com)** | **[Fall 2025 Co-Op - End User Support Intern](https://jobright.ai/jobs/info/6871a00ca5ae807a59d00d60?utm_campaign=1058&utm_source=git)** | Cambridge, MA | Hybrid | Jul 11 |
-| **[CHI](https://www.catholichealthinitiatives.org/)** | **[Intern Respiratory Care](https://jobright.ai/jobs/info/68719fdfa5ae807a59d00d4e?utm_campaign=1058&utm_source=git)** | London, KY | On Site | Jul 11 |
-| **[ArcBest](http://www.arcb.com)** | **[Student Worker, Customer Service](https://jobright.ai/jobs/info/68739fb64001e95011b181bc?utm_campaign=1058&utm_source=git)** | Fayetteville, AR | On Site | Jul 11 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6871f0a406ad7073463c9316?utm_campaign=1058&utm_source=git)** | Garland, TX | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
