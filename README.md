@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trinity Health](http://www.trinity-health.org)** | **[Community Pharmacy Intern](https://jobright.ai/jobs/info/68764dfbae2f413e4a5aeb64?utm_campaign=1058&utm_source=git)** | Mercy Health West Michigan Hospital Campus - Muskegon, Mi | On Site | Jul 15 |
 | **[Year Up United](http://yearup.org)** | **[Customer Service Fundamentals JOB Training Opportunity](https://jobright.ai/jobs/info/68760e8d5cebcd1dd51c63cf?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Jul 15 |
 | ↳ | **[Customer Service Fundamentals Career Training Opportunity](https://jobright.ai/jobs/info/68760d095cebcd1dd51c62ca?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Jul 15 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68760a885cebcd1dd51c60c4?utm_campaign=1058&utm_source=git)** | Nazareth, PA | On Site | Jul 15 |
@@ -78,39 +79,39 @@ For a complete list, click the following sortable link below:
 | **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, INFORMATION TECHNOLOGY SUPPORT](https://jobright.ai/jobs/info/6875df7f5cebcd1dd51c42dc?utm_campaign=1058&utm_source=git)** | Los Angeles County, CA | On Site | Jul 14 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875cb34299cbc74b8757aa2?utm_campaign=1058&utm_source=git)** | Granville, OH | On Site | Jul 14 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6875eeb4ae2f413e4a5ab2ee?utm_campaign=1058&utm_source=git)** | Montgomery, AL | On Site | Jul 14 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6875e7c75cebcd1dd51c4682?utm_campaign=1058&utm_source=git)** | Middletown, PA | On Site | Jul 14 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/687610f15cebcd1dd51c6541?utm_campaign=1058&utm_source=git)** | Bryan, TX | On Site | Jul 14 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6875e7c75cebcd1dd51c4682?utm_campaign=1058&utm_source=git)** | Middletown, PA | On Site | Jul 14 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6875d040299cbc74b8757cdc?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Jul 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875d8d45cebcd1dd51c4022?utm_campaign=1058&utm_source=git)** | York, PA | On Site | Jul 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875d4af5cebcd1dd51c3e27?utm_campaign=1058&utm_source=git)** | Ypsilanti, MI | On Site | Jul 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875ca06299cbc74b8757a1b?utm_campaign=1058&utm_source=git)** | Henderson, TX | On Site | Jul 14 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6875e4cbae2f413e4a5aae47?utm_campaign=1058&utm_source=git)** | Grenada, MS | On Site | Jul 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875d357299cbc74b8757e36?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, FL | On Site | Jul 14 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6875da20299cbc74b87580dd?utm_campaign=1058&utm_source=git)** | Texarkana, TX | On Site | Jul 14 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6875e2cf5cebcd1dd51c443e?utm_campaign=1058&utm_source=git)** | Hershey, PA | On Site | Jul 14 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6875ceb1299cbc74b8757c31?utm_campaign=1058&utm_source=git)** | Yazoo City, MS | On Site | Jul 14 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6875da20299cbc74b87580dd?utm_campaign=1058&utm_source=git)** | Texarkana, TX | On Site | Jul 14 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, OFFICE AND CLERICAL SUPPORT](https://jobright.ai/jobs/info/6875d3a65cebcd1dd51c3de0?utm_campaign=1058&utm_source=git)** | Los Angeles County, CA | On Site | Jul 14 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875dce15cebcd1dd51c41b0?utm_campaign=1058&utm_source=git)** | Mechanicsburg, PA | On Site | Jul 14 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875e0245cebcd1dd51c4328?utm_campaign=1058&utm_source=git)** | Clarion, PA | On Site | Jul 14 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875e0245cebcd1dd51c4328?utm_campaign=1058&utm_source=git)** | Clarion, PA | On Site | Jul 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875d4dc299cbc74b8757e87?utm_campaign=1058&utm_source=git)** | Middletown, NY | On Site | Jul 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875e5c85cebcd1dd51c459c?utm_campaign=1058&utm_source=git)** | Harrisburg, PA | On Site | Jul 14 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875c9bb299cbc74b8757a06?utm_campaign=1058&utm_source=git)** | Lebanon, PA | On Site | Jul 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875fcf0ae2f413e4a5abe53?utm_campaign=1058&utm_source=git)** | State College, PA | On Site | Jul 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875d682299cbc74b8757f07?utm_campaign=1058&utm_source=git)** | Clearfield, PA | On Site | Jul 14 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68761e56ae2f413e4a5ad0fe?utm_campaign=1058&utm_source=git)** | Mechanicsburg, PA | On Site | Jul 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875c6c5299cbc74b87578d0?utm_campaign=1058&utm_source=git)** | Philipsburg, PA | On Site | Jul 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875e35f5cebcd1dd51c44a2?utm_campaign=1058&utm_source=git)** | Hershey, PA | On Site | Jul 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875ec8bae2f413e4a5ab208?utm_campaign=1058&utm_source=git)** | Whitehouse, TX | On Site | Jul 14 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6875ea1dae2f413e4a5ab11f?utm_campaign=1058&utm_source=git)** | Greenwood, MS | On Site | Jul 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875dab45cebcd1dd51c40d8?utm_campaign=1058&utm_source=git)** | Salem, NH | On Site | Jul 14 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875d22d299cbc74b8757dab?utm_campaign=1058&utm_source=git)** | Northville, MI | On Site | Jul 14 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875e7255cebcd1dd51c4632?utm_campaign=1058&utm_source=git)** | Lebanon, PA | On Site | Jul 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875eba6ae2f413e4a5ab1ae?utm_campaign=1058&utm_source=git)** | Elizabethville, PA | On Site | Jul 14 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875d22d299cbc74b8757dab?utm_campaign=1058&utm_source=git)** | Northville, MI | On Site | Jul 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875d780299cbc74b8757f6f?utm_campaign=1058&utm_source=git)** | Burnham, PA | On Site | Jul 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875cad3299cbc74b8757a72?utm_campaign=1058&utm_source=git)** | Westland, MI | On Site | Jul 14 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6875eddaae2f413e4a5ab28a?utm_campaign=1058&utm_source=git)** | Waco, TX | On Site | Jul 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875cbe8299cbc74b8757aed?utm_campaign=1058&utm_source=git)** | Carlisle, PA | On Site | Jul 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875e1185cebcd1dd51c438e?utm_campaign=1058&utm_source=git)** | Macomb, MI | On Site | Jul 14 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6875ca2e299cbc74b8757a29?utm_campaign=1058&utm_source=git)** | Gettysburg, PA | On Site | Jul 14 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6875ebf5ae2f413e4a5ab1ce?utm_campaign=1058&utm_source=git)** | Carthage, MS | On Site | Jul 14 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6875ca2e299cbc74b8757a29?utm_campaign=1058&utm_source=git)** | Gettysburg, PA | On Site | Jul 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875dd365cebcd1dd51c41e2?utm_campaign=1058&utm_source=git)** | Lewistown, PA | On Site | Jul 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68762901ae2f413e4a5ad616?utm_campaign=1058&utm_source=git)** | Columbia, PA | On Site | Jul 14 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6875d81c299cbc74b8757fb5?utm_campaign=1058&utm_source=git)** | York, PA | On Site | Jul 14 |
@@ -118,8 +119,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875cc10299cbc74b8757afe?utm_campaign=1058&utm_source=git)** | Grove City, OH | On Site | Jul 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875e7015cebcd1dd51c461f?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Jul 14 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6875cedd299cbc74b8757c49?utm_campaign=1058&utm_source=git)** | Mount Pleasant, TX | On Site | Jul 14 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875d6175cebcd1dd51c3e9a?utm_campaign=1058&utm_source=git)** | Johnsonburg, PA | On Site | Jul 14 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6875d3a95cebcd1dd51c3de4?utm_campaign=1058&utm_source=git)** | Longview, TX | On Site | Jul 14 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875ede5ae2f413e4a5ab28d?utm_campaign=1058&utm_source=git)** | Johnsonburg, PA | On Site | Jul 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6875e2c4ae2f413e4a5aad48?utm_campaign=1058&utm_source=git)** | Bedford, PA | On Site | Jul 14 |
 | **[Supportiv](http://www.supportiv.com/)** | **[Support Operations Intern](https://jobright.ai/jobs/info/6875a93e5cebcd1dd51c2912?utm_campaign=1058&utm_source=git)** | Remote, California, United States | Remote | Jul 14 |
 | **[OCHIN, Inc.](https://ochin.org)** | **[HCAI - HEALTH INFORMATION AND ELECTRONIC RECORDS ANALYST TRAINING PROGRAM](https://jobright.ai/jobs/info/6875a81dae2f413e4a5a8cab?utm_campaign=1058&utm_source=git)** | Newport Beach, CA | Remote | Jul 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/68755a6b5cebcd1dd51bfdde?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Jul 14 |
 | **[Johnson Electric](https://www.johnsonelectric.com/)** | **[AR Intern](https://jobright.ai/jobs/info/68755771299cbc74b8753f44?utm_campaign=1058&utm_source=git)** | Plymouth, MI | On Site | Jul 14 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68761e065cebcd1dd51c6b7f?utm_campaign=1058&utm_source=git)** | The Villages, FL | On Site | Jul 14 |
-| **[Tenet Healthcare](http://tenethealth.com)** | **[Pharmacy Intern Extern PRN Rotating](https://jobright.ai/jobs/info/687556265cebcd1dd51bfadf?utm_campaign=1058&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
