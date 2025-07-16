@@ -58,7 +58,12 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Sentara Health](https://www.sentara.com/)** | **[Student Radiology Tech Extern](https://jobright.ai/jobs/info/6877a849ae2f413e4a5bc1ee?utm_campaign=1058&utm_source=git)** | Sentara Northern Virginia Medical Center | On Site | Jul 16 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Pharmacy Internship](https://jobright.ai/jobs/info/6877c5475cebcd1dd51d4f9b?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jul 16 |
+| ↳ | **[Pharmacy Internship](https://jobright.ai/jobs/info/6877c1415cebcd1dd51d4dc7?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Jul 16 |
+| ↳ | **[Pharmacy Internship](https://jobright.ai/jobs/info/6877c18cae2f413e4a5bcf12?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Jul 16 |
+| **[Sentara Health](https://www.sentara.com/)** | **[Student Radiology Tech Extern](https://jobright.ai/jobs/info/6877c01c866a435525ab3d74?utm_campaign=1058&utm_source=git)** | Woodbridge, VA | On Site | Jul 16 |
 | **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern - Students Encouraged to Apply!](https://jobright.ai/jobs/info/68779c205cebcd1dd51d3b76?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Jul 16 |
+| **[Michael Baker International](http://mbakerintl.com/)** | **[IT Support Desk Intern](https://jobright.ai/jobs/info/6847922ba9fa5005649cb531?utm_campaign=1058&utm_source=git)** | Moon, PA | On Site | Jul 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/687767acae2f413e4a5bad69?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Jul 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68776651ae2f413e4a5bac8e?utm_campaign=1058&utm_source=git)** | Hilliard, OH | On Site | Jul 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68775e1cae2f413e4a5ba7c6?utm_campaign=1058&utm_source=git)** | Newark, OH | On Site | Jul 16 |
@@ -89,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Grupo Kyly](https://loja.kyly.com.br)** | **[COSTUREIRO(A) APRENDIZ - 1° TURNO](https://jobright.ai/jobs/info/6876f1f2ae2f413e4a5b53ad?utm_campaign=1058&utm_source=git)** | South Carolina, United States | On Site | Jul 15 |
 | **[California Department of Insurance](https://www.insurance.ca.gov)** | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/6876bcb85cebcd1dd51cbe4d?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Jul 15 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Pharmacy Intern (H)](https://jobright.ai/jobs/info/6876bbcd5cebcd1dd51cbdd3?utm_campaign=1058&utm_source=git)** | Greater St. Louis | On Site | Jul 15 |
-| **[Baptist Health](http://baptisthealth.net/)** | **[Nurse Intern, Intensive Care Unit, Part Time, 7A-7:30P](https://jobright.ai/jobs/info/6876b913299cbc74b875ff15?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Jul 15 |
 | **[OU Health](https://www.ouhealth.com)** | **[Medication Reconciliation Pharmacy Intern PRN (Afternoons/Weekends)](https://jobright.ai/jobs/info/6876b562299cbc74b875fd41?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Jul 15 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Helpdesk Intern](https://jobright.ai/jobs/info/6876b4715cebcd1dd51cb99f?utm_campaign=1058&utm_source=git)** | Sunnyvale, CA | Hybrid | Jul 15 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/6876b3c5299cbc74b875fc40?utm_campaign=1058&utm_source=git)** | Manhattan, KS | On Site | Jul 15 |
@@ -106,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6877109b5cebcd1dd51cedbd?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | Jul 15 |
 | **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/6876a845ae2f413e4a5b2014?utm_campaign=1058&utm_source=git)** | Denver, CO | Hybrid | Jul 15 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/6876a67b299cbc74b875f1ab?utm_campaign=1058&utm_source=git)** | Douglas, WY | Hybrid | Jul 15 |
+| **[Proofpoint](http://www.proofpoint.com)** | **[Helpdesk Intern](https://jobright.ai/jobs/info/6876a628299cbc74b875f15f?utm_campaign=1058&utm_source=git)** | Draper, UT | Hybrid | Jul 15 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2025-2026 Yearlong Document Control and Creation Intern](https://jobright.ai/jobs/info/6876c8a6299cbc74b87609cb?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jul 15 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/6876a5db299cbc74b875f0f8?utm_campaign=1058&utm_source=git)** | Alexandria, VA | Hybrid | Jul 15 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/6876a531299cbc74b875f043?utm_campaign=1058&utm_source=git)** | Estes Park, CO | Hybrid | Jul 15 |
@@ -113,8 +118,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Store Detective Intern](https://jobright.ai/jobs/info/6876a4a25cebcd1dd51cac8c?utm_campaign=1058&utm_source=git)** | East Lansing, MI | On Site | Jul 15 |
 | **[Saint Joseph Mercy Health System](http://www.stjoeshealth.org)** | **[Community Pharmacy Intern](https://jobright.ai/jobs/info/6876a41a299cbc74b875eeed?utm_campaign=1058&utm_source=git)** | Muskegon, MI | On Site | Jul 15 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[Nurse Intern, Observation I, PT, 07A-7:30P](https://jobright.ai/jobs/info/6876bffa5cebcd1dd51cc04e?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Jul 15 |
-| **[TriHealth](http://www.trihealth.com)** | **[ACUTE CARE TECH RESIDENT](https://jobright.ai/jobs/info/6876cc42299cbc74b8760c56?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Jul 15 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[Helpdesk Intern](https://jobright.ai/jobs/info/6876cd4aae2f413e4a5b3d35?utm_campaign=1058&utm_source=git)** | Draper, UT | Hybrid | Jul 15 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Community Pharmacy Intern](https://jobright.ai/jobs/info/6876cfebae2f413e4a5b3ef1?utm_campaign=1058&utm_source=git)** | Muskegon, MI | On Site | Jul 15 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68769f5d299cbc74b875ebc8?utm_campaign=1058&utm_source=git)** | Cairo, GA | On Site | Jul 15 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68769e995cebcd1dd51ca863?utm_campaign=1058&utm_source=git)** | Piney Flats, TN | On Site | Jul 15 |
@@ -150,11 +153,8 @@ For a complete list, click the following sortable link below:
 | **[OU Health](https://www.ouhealth.com)** | **[Medication Reconciliation Pharmacy Intern PRN (Afternoons/Weekends)](https://jobright.ai/jobs/info/687665d35cebcd1dd51c8b93?utm_campaign=1058&utm_source=git)** | Oklahoma City | On Site | Jul 15 |
 | **[City of Sacramento](http://www.cityofsacramento.org)** | **[Information Technology Trainee (PSIT)](https://jobright.ai/jobs/info/6876620c5cebcd1dd51c89bf?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Jul 15 |
 | **[InComm Payments](https://www.incomm.com/)** | **[ERP Intern](https://jobright.ai/jobs/info/685999ee90e3e2ff27fa1d7a?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jul 15 |
+| **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Pharmacy Intern - Per Diem - Evenings - MRH](https://jobright.ai/jobs/info/683e07f6651e57c49c2f1970?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | Jul 15 |
 | **[Greenfield Global](http://www.greenfield.com/content/index.html)** | **[IT Support Intern](https://jobright.ai/jobs/info/68765c7a5cebcd1dd51c87e8?utm_campaign=1058&utm_source=git)** | Brookfield, CT | On Site | Jul 15 |
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Radiology Technologist Intern (Casual)](https://jobright.ai/jobs/info/687689cf299cbc74b875e027?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Jul 15 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Community Pharmacy Intern](https://jobright.ai/jobs/info/68764dfbae2f413e4a5aeb64?utm_campaign=1058&utm_source=git)** | Mercy Health West Michigan Hospital Campus - Muskegon, Mi | On Site | Jul 15 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT20](https://jobright.ai/jobs/info/68766c945cebcd1dd51c8e14?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jul 15 |
-| **[Pine Street Inn](https://www.pinestreetinn.org)** | **[IT Support Intern](https://jobright.ai/jobs/info/687675a25cebcd1dd51c91ed?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Jul 15 |
-| **[VCU Health](https://www.vcuhealth.org)** | **[Patient Access Representative - Internal Medicine - Adult Outpatient Pavilion](https://jobright.ai/jobs/info/685a4ad9a0b2587615a90679?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Jul 15 |
-| **[Year Up United](http://yearup.org)** | **[Customer Service Fundamentals JOB Training Opportunity](https://jobright.ai/jobs/info/68760e8d5cebcd1dd51c63cf?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
