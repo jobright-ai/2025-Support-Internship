@@ -57,17 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Philips](https://www.usa.philips.com)** | **[Intern Collection](https://jobright.ai/jobs/info/687a4bc3764c3d7411c2c5b4?utm_campaign=1058&utm_source=git)** | Greater Cheyenne Area | On Site | Jul 18 |
+| **[Jewel-Osco](http://www.jewelosco.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/687a536aed63844c944a26f8?utm_campaign=1058&utm_source=git)** | Naperville, IL | Hybrid | Jul 18 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/687a455fed63844c944a234d?utm_campaign=1058&utm_source=git)** | Page, AZ | Hybrid | Jul 18 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/687a3d91764c3d7411c2c15d?utm_campaign=1058&utm_source=git)** | Goodyear, AZ | Hybrid | Jul 18 |
 | ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/687a3c402097a271a897dda4?utm_campaign=1058&utm_source=git)** | Cottonwood, AZ | Hybrid | Jul 18 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/687a3aeb2097a271a897dd5a?utm_campaign=1058&utm_source=git)** | Lone Tree, CO | Hybrid | Jul 18 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/687a3ab92097a271a897dd51?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | Hybrid | Jul 18 |
 | **[SAIC](http://www.saic.com)** | **[Logistical Intern](https://jobright.ai/jobs/info/687a35af2097a271a897dc14?utm_campaign=1058&utm_source=git)** | Boyers, PA | On Site | Jul 18 |
+| **[Baylor Scott & White Health](https://www.bswhealth.com/)** | **[Inpatient Pharmacist Intern](https://jobright.ai/jobs/info/687a55eb764c3d7411c2c8a7?utm_campaign=1058&utm_source=git)** | Round Rock, TX | On Site | Jul 18 |
 | **[University of Arkansas System](https://www.uasys.edu)** | **[Graduate Assistant - CBHHS-1](https://jobright.ai/jobs/info/687a23ec764c3d7411c2b9ce?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Jul 18 |
 | **[Corewell Health](https://corewellhealth.org)** | **[CT Tech Apprentice](https://jobright.ai/jobs/info/687a21e42097a271a897d68f?utm_campaign=1058&utm_source=git)** | Farmington Hills, MI | Hybrid | Jul 18 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Veterinary Assistant-Triage Call Center](https://jobright.ai/jobs/info/687a155a2097a271a897d30d?utm_campaign=1058&utm_source=git)** | Manhattan, KS | On Site | Jul 18 |
-| **[Baylor Scott & White Health](https://www.bswhealth.com/)** | **[Inpatient Pharmacist Intern](https://jobright.ai/jobs/info/687a0a8da7fc8904e3968584?utm_campaign=1058&utm_source=git)** | Round Rock, TX | On Site | Jul 18 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[Nurse Intern, intensive Care Unit, PT, 7A-7:30P](https://jobright.ai/jobs/info/687a06752097a271a897cfde?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Jul 18 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/687a05f2ed63844c944a116b?utm_campaign=1058&utm_source=git)** | Dover, OH | On Site | Jul 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687a051ded63844c944a1110?utm_campaign=1058&utm_source=git)** | Westlake, OH | On Site | Jul 18 |
@@ -80,8 +80,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687a02132097a271a897cec3?utm_campaign=1058&utm_source=git)** | Pataskala, OH | On Site | Jul 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687a01c42097a271a897ce9c?utm_campaign=1058&utm_source=git)** | Powell, OH | On Site | Jul 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687a015d2097a271a897ce6f?utm_campaign=1058&utm_source=git)** | Johnstown, OH | On Site | Jul 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687a01002097a271a897ce41?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Jul 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687a00ec2097a271a897ce32?utm_campaign=1058&utm_source=git)** | North East, PA | On Site | Jul 18 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687a00b72097a271a897ce15?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Jul 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687a009ea7fc8904e3968191?utm_campaign=1058&utm_source=git)** | Oil City, PA | On Site | Jul 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687a00902097a271a897cde0?utm_campaign=1058&utm_source=git)** | Highlands, NJ | On Site | Jul 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687a0061a7fc8904e3968177?utm_campaign=1058&utm_source=git)** | Lima, OH | On Site | Jul 18 |
@@ -138,9 +138,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6879c92eed63844c9449e418?utm_campaign=1058&utm_source=git)** | Lake Murray of Richland, SC | On Site | Jul 17 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6879bcfda7fc8904e3965057?utm_campaign=1058&utm_source=git)** | San Quentin, CA | On Site | Jul 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6879c5a82097a271a897a0ad?utm_campaign=1058&utm_source=git)** | Davenport, IA | On Site | Jul 17 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6879c4352097a271a897a01a?utm_campaign=1058&utm_source=git)** | Surfside, FL | On Site | Jul 17 |
 | ↳ | **[Pharmacy Intern - Specialty Mail Order Pharmacy](https://jobright.ai/jobs/info/6879c25c2097a271a8979f10?utm_campaign=1058&utm_source=git)** | Pitcairn, PA | On Site | Jul 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6879bc15a7fc8904e3964fe7?utm_campaign=1058&utm_source=git)** | Carlisle, MA | On Site | Jul 17 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6879c4352097a271a897a01a?utm_campaign=1058&utm_source=git)** | Surfside, FL | On Site | Jul 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6879baf2a7fc8904e3964f55?utm_campaign=1058&utm_source=git)** | Cumberland Foreside, ME | On Site | Jul 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6879c3fd2097a271a8979ffc?utm_campaign=1058&utm_source=git)** | Arlington Heights, IL | On Site | Jul 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6879bb89a7fc8904e3964fa0?utm_campaign=1058&utm_source=git)** | Cobalt, CT | On Site | Jul 17 |
