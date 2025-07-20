@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Surgical Technologist Intern- Full Time- Mercy Springfield](https://jobright.ai/jobs/info/687bfcb0ed63844c944ac581?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Surgical Technologist Intern- Mercy Springfield - Full Time](https://jobright.ai/jobs/info/687bfe4eed63844c944ac597?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
+| ↳ | **[Surgical Technologist Intern- Full Time- Mercy Springfield](https://jobright.ai/jobs/info/687bfcb0ed63844c944ac581?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
 | ↳ | **[Surgical Technologist Intern - Full Time - Mercy Springfield](https://jobright.ai/jobs/info/687bfab6ed63844c944ac545?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
 | ↳ | **[Surgical Technologist Intern-Full Time- Mercy Springfield](https://jobright.ai/jobs/info/687bf9ce764c3d7411c362e5?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
 | ↳ | **[Radiology Intern II - CT Scan / Per Diem](https://jobright.ai/jobs/info/687bf964764c3d7411c362c2?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Jul 19 |
 | ↳ | **[Surgical Technologist Intern-Full Time - Mercy Springfield](https://jobright.ai/jobs/info/687bf955764c3d7411c362be?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
-| ↳ | **[Surgical Technologist Intern- Mercy Springfield - Full Time](https://jobright.ai/jobs/info/687bf7892097a271a898804a?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
 | **[Geisinger](https://www.geisinger.org)** | **[Radiologic Technologist Student](https://jobright.ai/jobs/info/687bf738ed63844c944ac492?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Jul 19 |
 | **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern P1 Contingent Days](https://jobright.ai/jobs/info/687bf54bed63844c944ac45c?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Jul 19 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/687be1b6764c3d7411c35dad?utm_campaign=1058&utm_source=git)** | Altoona, IA | On Site | Jul 19 |
@@ -85,8 +85,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DOD SkillBridge Internship – Service Coordinator](https://jobright.ai/jobs/info/687baf14ed63844c944aabc3?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Jul 19 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern II (Non-Exempt)](https://jobright.ai/jobs/info/67f128a2cafbc78152385ae6?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
 | **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Service Coordinator](https://jobright.ai/jobs/info/687bc2de2097a271a89872b1?utm_campaign=1058&utm_source=git)** | Miramar, FL | On Site | Jul 19 |
-| ↳ | **[DOD SkillBridge Internship – Client Service Manager](https://jobright.ai/jobs/info/687bc50d764c3d7411c356ce?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Jul 19 |
 | ↳ | **[DOD SkillBridge Internship – Client Service Manager](https://jobright.ai/jobs/info/687bbdd7ed63844c944ab420?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Jul 19 |
+| ↳ | **[DOD SkillBridge Internship – Client Service Manager](https://jobright.ai/jobs/info/687bc50d764c3d7411c356ce?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Jul 19 |
 | ↳ | **[DOD SkillBridge Internship – Client Service Manager](https://jobright.ai/jobs/info/687bc3ee2097a271a8987322?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Jul 19 |
 | ↳ | **[DOD SkillBridge Internship – Service Coordinator](https://jobright.ai/jobs/info/687bc83ced63844c944ab872?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Jul 19 |
 | ↳ | **[DOD SkillBridge Internship – Client Service Manager](https://jobright.ai/jobs/info/687bb789764c3d7411c35142?utm_campaign=1058&utm_source=git)** | Miramar, FL | On Site | Jul 19 |
@@ -127,6 +127,7 @@ For a complete list, click the following sortable link below:
 | **[UPMC](https://www.upmc.com/)** | **[Imaging Services Student Tech](https://jobright.ai/jobs/info/687b370d2097a271a8982b9d?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Jul 18 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Customer Service Representative (Part-time) - Work Based Learning (Calhoun, Georgia, United States, 30721)](https://jobright.ai/jobs/info/687b28fced63844c944a6c38?utm_campaign=1058&utm_source=git)** | Dalton, GA | On Site | Jul 18 |
 | **[Paystand](http://paystand.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/687b089a2097a271a8982482?utm_campaign=1058&utm_source=git)** | Santa Cruz, CA | On Site | Jul 18 |
+| **[Trinity Health](http://www.trinity-health.org)** | **[Rheumatologist](https://jobright.ai/jobs/info/6752668982dd40ab5ccecb71?utm_campaign=1058&utm_source=git)** | Waterloo, IA | On Site | Jul 18 |
 | **[Meijer](https://www.meijer.com/)** | **[Intern](https://jobright.ai/jobs/info/687ab468764c3d7411c2f45b?utm_campaign=1058&utm_source=git)** | Kokomo, IN | On Site | Jul 18 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Respiratory Stroke Intermediate Care](https://jobright.ai/jobs/info/687aa8ad764c3d7411c2f02b?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Jul 18 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern II - CT Scan / PRN](https://jobright.ai/jobs/info/687ae8ee764c3d7411c30019?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Jul 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/687a8a0bed63844c944a3b0a?utm_campaign=1058&utm_source=git)** | Sun City Center, FL | On Site | Jul 18 |
 | **[Mountain America Credit Union](https://www.macu.com/)** | **[Member Service Intern](https://jobright.ai/jobs/info/687a88f7ed63844c944a3a5c?utm_campaign=1058&utm_source=git)** | Rexburg, ID | On Site | Jul 18 |
 | **[Adams State University](http://www.adams.edu/)** | **[Data Entry Intern (TERM-LIMITED)](https://jobright.ai/jobs/info/687a88f7764c3d7411c2dbe5?utm_campaign=1058&utm_source=git)** | Alamosa, Colorado | On Site | Jul 18 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/687a86cb2097a271a897f78c?utm_campaign=1058&utm_source=git)** | Port St Lucie, FL | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
