@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Georgia Southwestern State University](http://www.gsw.edu/)** | **[Work Study Student Assistant / Accommodations and Access-Testing Center](https://jobright.ai/jobs/info/687c74e9764c3d7411c37b2d?utm_campaign=1058&utm_source=git)** | Americus, GA | On Site | Jul 19 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/687c528b764c3d7411c368cb?utm_campaign=1058&utm_source=git)** | Pittsburg, KY | On Site | Jul 19 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687c5117ed63844c944acb3a?utm_campaign=1058&utm_source=git)** | Tennessee, IL | On Site | Jul 19 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687c5113764c3d7411c368a2?utm_campaign=1058&utm_source=git)** | Scott AFB, IL | On Site | Jul 19 |
@@ -112,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern II (Non-Exempt)](https://jobright.ai/jobs/info/67f128a2cafbc78152385ae6?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
 | **[Tufts Medicine](https://www.tuftsmedicine.org)** | **[Pulmonary Hypertension Fellow](https://jobright.ai/jobs/info/6824eb2346e340d990dac861?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Jul 19 |
 | **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Service Coordinator](https://jobright.ai/jobs/info/687bc2de2097a271a89872b1?utm_campaign=1058&utm_source=git)** | Miramar, FL | On Site | Jul 19 |
-| ↳ | **[DOD SkillBridge Internship – Client Service Manager](https://jobright.ai/jobs/info/687bc50d764c3d7411c356ce?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Jul 19 |
 | ↳ | **[DOD SkillBridge Internship – Client Service Manager](https://jobright.ai/jobs/info/687bbdd7ed63844c944ab420?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Jul 19 |
+| ↳ | **[DOD SkillBridge Internship – Client Service Manager](https://jobright.ai/jobs/info/687bc50d764c3d7411c356ce?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Jul 19 |
 | ↳ | **[DOD SkillBridge Internship – Client Service Manager](https://jobright.ai/jobs/info/687bc3ee2097a271a8987322?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Jul 19 |
 | ↳ | **[DOD SkillBridge Internship – Service Coordinator](https://jobright.ai/jobs/info/687bc83ced63844c944ab872?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Jul 19 |
 | ↳ | **[DOD SkillBridge Internship – Client Service Manager](https://jobright.ai/jobs/info/687bb789764c3d7411c35142?utm_campaign=1058&utm_source=git)** | Miramar, FL | On Site | Jul 19 |
@@ -121,6 +122,7 @@ For a complete list, click the following sortable link below:
 | **[Acme Markets](http://www.acmemarkets.com/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/67d1ba5873a1c3e193965635?utm_campaign=1058&utm_source=git)** | Broomall, PA | Hybrid | Jul 19 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/67d28a28f5fe7efc2c548c47?utm_campaign=1058&utm_source=git)** | Arnold, MD | Hybrid | Jul 19 |
 | **[Providence](https://www.psjhealth.org/)** | **[Radiology Technologist Student](https://jobright.ai/jobs/info/687bb972ed63844c944ab21d?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Jul 19 |
+| **[Legends](http://legends.net)** | **[Intern, Hospitality - Jiffy Lube Live Bristow, VA](https://jobright.ai/jobs/info/67c98cde6e360d9ff36ef409?utm_campaign=1058&utm_source=git)** | Bristow, VA | On Site | Jul 19 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Respiratory Therapy Intern](https://jobright.ai/jobs/info/687b6c4ded63844c944a7b65?utm_campaign=1058&utm_source=git)** | Hinsdale, IL | On Site | Jul 19 |
 | **[Detroit Medical Center](http://www.dmc.org/)** | **[Student Rad Tech Contingent Days](https://jobright.ai/jobs/info/685eea3c9a02903ca7d6121a?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Jul 19 |
 | **[Samaritan's Purse](https://www.samaritanspurse.org/)** | **[Surge Technical Health Associate, International Health Unit](https://jobright.ai/jobs/info/685f51765c93d612182ee62f?utm_campaign=1058&utm_source=git)** | Boone, NC | On Site | Jul 19 |
@@ -128,6 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Hoskinson Health & Wellness Clinic](https://hoskinsonhealth.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/687ba8d5764c3d7411c349ce?utm_campaign=1058&utm_source=git)** | Bethany, LA | On Site | Jul 18 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Surgical Technologist Inter](https://jobright.ai/jobs/info/687b94012097a271a89859f8?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jul 18 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Service Operations Intern](https://jobright.ai/jobs/info/687b938a2097a271a898597c?utm_campaign=1058&utm_source=git)** | Cary, NC | On Site | Jul 18 |
+| **[UW Credit Union](http://uwcu.org/)** | **[Information Technology ( IT )  Internship - Infrastructure](https://jobright.ai/jobs/info/687c7b3b2097a271a8989e98?utm_campaign=1058&utm_source=git)** | Madison, WI | Hybrid | Jul 18 |
+| **[Philips](https://www.usa.philips.com)** | **[Intern Collection](https://jobright.ai/jobs/info/687c7ab1764c3d7411c38058?utm_campaign=1058&utm_source=git)** | Greater Cheyenne Area | On Site | Jul 18 |
 | **[Providence](https://www.psjhealth.org/)** | **[Pharmacist Intern - Providence Anchorage](https://jobright.ai/jobs/info/687b0c5a2097a271a898251d?utm_campaign=1058&utm_source=git)** | Anchorage, AK, United States | On Site | Jul 18 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern II - CT Scan / Per Diem](https://jobright.ai/jobs/info/687afa9aed63844c944a62db?utm_campaign=1058&utm_source=git)** | Oklahoma City, Oklahoma | On Site | Jul 18 |
 | **[CalRecycle](http://www.calrecycle.ca.gov)** | **[Client Services Support Assistant](https://jobright.ai/jobs/info/687b2d11ed63844c944a6cda?utm_campaign=1058&utm_source=git)** | Sacramento, CA | Hybrid | Jul 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the-johns-hopkins-hospital)** | **[PATIENT CARE TECH INTERN- Oncology (Eve 40)](https://jobright.ai/jobs/info/687b787aed63844c944a7ea5?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Jul 18 |
 | **[WellSpan Health](https://www.wellspan.org/)** | **[Internist](https://jobright.ai/jobs/info/670f1ded868e5873a017be99?utm_campaign=1058&utm_source=git)** | Ephrata, PA | On Site | Jul 18 |
 | **[Provident Behavioral Health](https://www.providentstl.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/687b43beed63844c944a7138?utm_campaign=1058&utm_source=git)** | Lena, LA | On Site | Jul 18 |
-| **[Northside Hospital](http://www.northside.com)** | **[Pharmacy Intern - Evenings, PRN](https://jobright.ai/jobs/info/687b4840ed63844c944a720b?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jul 18 |
-| **[UPMC](https://www.upmc.com/)** | **[Imaging Services Student Tech](https://jobright.ai/jobs/info/687b370d2097a271a8982b9d?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Jul 18 |
-| **[Corewell Health](https://corewellhealth.org)** | **[Respiratory Therapist Intern](https://jobright.ai/jobs/info/685dacf692471452f2c9ea73?utm_campaign=1058&utm_source=git)** | Ludington, MI | Hybrid | Jul 18 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Customer Service Representative (Part-time) - Work Based Learning (Calhoun, Georgia, United States, 30721)](https://jobright.ai/jobs/info/687b28fced63844c944a6c38?utm_campaign=1058&utm_source=git)** | Dalton, GA | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
