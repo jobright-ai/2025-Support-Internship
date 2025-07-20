@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern (On-Call)](https://jobright.ai/jobs/info/687cdf9ced63844c944b178f?utm_campaign=1058&utm_source=git)** | Modesto, CA | On Site | Jul 20 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician - Internal Medicine - Gastroenterology - Chicago (Oak Park)-14304](https://jobright.ai/jobs/info/673e79e95760227f21bd6ba9?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jul 20 |
 | **[University of Arkansas System](https://www.uasys.edu)** | **[Student Employee - Pharmacy Intern - Cancer Institute](https://jobright.ai/jobs/info/687cc09b2097a271a898d236?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Jul 20 |
+| **[H.I.G. Capital](https://hig.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/682ff814fc58871b83176e27?utm_campaign=1058&utm_source=git)** | New York, United States | On Site | Jul 20 |
 | **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/687ca181ed63844c944b042c?utm_campaign=1058&utm_source=git)** | Springfield, OR | On Site | Jul 20 |
 | **[Georgia Southwestern State University](http://www.gsw.edu/)** | **[Work Study Student Assistant / Accommodations and Access-Testing Center](https://jobright.ai/jobs/info/687c74e9764c3d7411c37b2d?utm_campaign=1058&utm_source=git)** | Americus, GA | On Site | Jul 19 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/687c528b764c3d7411c368cb?utm_campaign=1058&utm_source=git)** | Pittsburg, KY | On Site | Jul 19 |
@@ -79,12 +80,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687c4761764c3d7411c367a2?utm_campaign=1058&utm_source=git)** | Boulder, CO | On Site | Jul 19 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687c474f2097a271a89885c9?utm_campaign=1058&utm_source=git)** | St Peters, MO | On Site | Jul 19 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687c47062097a271a89885ae?utm_campaign=1058&utm_source=git)** | Richlands, VA | On Site | Jul 19 |
-| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Surgical Technologist Intern- Full Time- Mercy Springfield](https://jobright.ai/jobs/info/687bfcb0ed63844c944ac581?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Surgical Technologist Intern- Mercy Springfield - Full Time](https://jobright.ai/jobs/info/687bfe4eed63844c944ac597?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
+| ↳ | **[Surgical Technologist Intern- Full Time- Mercy Springfield](https://jobright.ai/jobs/info/687bfcb0ed63844c944ac581?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
 | ↳ | **[Surgical Technologist Intern - Full Time - Mercy Springfield](https://jobright.ai/jobs/info/687bfab6ed63844c944ac545?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
 | ↳ | **[Surgical Technologist Intern-Full Time- Mercy Springfield](https://jobright.ai/jobs/info/687bf9ce764c3d7411c362e5?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
 | ↳ | **[Radiology Intern II - CT Scan / Per Diem](https://jobright.ai/jobs/info/687bf964764c3d7411c362c2?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Jul 19 |
 | ↳ | **[Surgical Technologist Intern-Full Time - Mercy Springfield](https://jobright.ai/jobs/info/687bf955764c3d7411c362be?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
-| ↳ | **[Surgical Technologist Intern- Mercy Springfield - Full Time](https://jobright.ai/jobs/info/687bf7892097a271a898804a?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
 | **[Geisinger](https://www.geisinger.org)** | **[Radiologic Technologist Student](https://jobright.ai/jobs/info/687bf738ed63844c944ac492?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Jul 19 |
 | **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern P1 Contingent Days](https://jobright.ai/jobs/info/687bf54bed63844c944ac45c?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Jul 19 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/687be1b6764c3d7411c35dad?utm_campaign=1058&utm_source=git)** | Altoona, IA | On Site | Jul 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687b9740764c3d7411c33fde?utm_campaign=1058&utm_source=git)** | Rockaway, NJ | On Site | Jul 18 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b558fed63844c944a7587?utm_campaign=1058&utm_source=git)** | Ballwin, MO | On Site | Jul 18 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b7b9bed63844c944a7f4e?utm_campaign=1058&utm_source=git)** | Adelphia, NJ | On Site | Jul 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687baff9764c3d7411c34d3a?utm_campaign=1058&utm_source=git)** | Chester, NJ | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
