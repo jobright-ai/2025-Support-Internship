@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern (On-Call)](https://jobright.ai/jobs/info/687ce2ba764c3d7411c3bd97?utm_campaign=1058&utm_source=git)** | Stockton, CA | On Site | Jul 20 |
+| ↳ | **[Pharmacy Intern (On-Call)](https://jobright.ai/jobs/info/687cdf9ced63844c944b178f?utm_campaign=1058&utm_source=git)** | Modesto, CA | On Site | Jul 20 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician - Internal Medicine - Gastroenterology - Chicago (Oak Park)-14304](https://jobright.ai/jobs/info/673e79e95760227f21bd6ba9?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jul 20 |
 | **[University of Arkansas System](https://www.uasys.edu)** | **[Student Employee - Pharmacy Intern - Cancer Institute](https://jobright.ai/jobs/info/687cc09b2097a271a898d236?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Jul 20 |
 | **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/687ca181ed63844c944b042c?utm_campaign=1058&utm_source=git)** | Springfield, OR | On Site | Jul 20 |
@@ -77,12 +79,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687c4761764c3d7411c367a2?utm_campaign=1058&utm_source=git)** | Boulder, CO | On Site | Jul 19 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687c474f2097a271a89885c9?utm_campaign=1058&utm_source=git)** | St Peters, MO | On Site | Jul 19 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687c47062097a271a89885ae?utm_campaign=1058&utm_source=git)** | Richlands, VA | On Site | Jul 19 |
-| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Surgical Technologist Intern- Mercy Springfield - Full Time](https://jobright.ai/jobs/info/687bfe4eed63844c944ac597?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
-| ↳ | **[Surgical Technologist Intern- Full Time- Mercy Springfield](https://jobright.ai/jobs/info/687bfcb0ed63844c944ac581?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Surgical Technologist Intern- Full Time- Mercy Springfield](https://jobright.ai/jobs/info/687bfcb0ed63844c944ac581?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
 | ↳ | **[Surgical Technologist Intern - Full Time - Mercy Springfield](https://jobright.ai/jobs/info/687bfab6ed63844c944ac545?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
 | ↳ | **[Surgical Technologist Intern-Full Time- Mercy Springfield](https://jobright.ai/jobs/info/687bf9ce764c3d7411c362e5?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
 | ↳ | **[Radiology Intern II - CT Scan / Per Diem](https://jobright.ai/jobs/info/687bf964764c3d7411c362c2?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Jul 19 |
 | ↳ | **[Surgical Technologist Intern-Full Time - Mercy Springfield](https://jobright.ai/jobs/info/687bf955764c3d7411c362be?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
+| ↳ | **[Surgical Technologist Intern- Mercy Springfield - Full Time](https://jobright.ai/jobs/info/687bf7892097a271a898804a?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
 | **[Geisinger](https://www.geisinger.org)** | **[Radiologic Technologist Student](https://jobright.ai/jobs/info/687bf738ed63844c944ac492?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Jul 19 |
 | **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern P1 Contingent Days](https://jobright.ai/jobs/info/687bf54bed63844c944ac45c?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Jul 19 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/687be1b6764c3d7411c35dad?utm_campaign=1058&utm_source=git)** | Altoona, IA | On Site | Jul 19 |
@@ -117,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern II (Non-Exempt)](https://jobright.ai/jobs/info/67f128a2cafbc78152385ae6?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
 | **[Tufts Medicine](https://www.tuftsmedicine.org)** | **[Pulmonary Hypertension Fellow](https://jobright.ai/jobs/info/6824eb2346e340d990dac861?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Jul 19 |
 | **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Service Coordinator](https://jobright.ai/jobs/info/687bc2de2097a271a89872b1?utm_campaign=1058&utm_source=git)** | Miramar, FL | On Site | Jul 19 |
-| ↳ | **[DOD SkillBridge Internship – Client Service Manager](https://jobright.ai/jobs/info/687bbdd7ed63844c944ab420?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Jul 19 |
 | ↳ | **[DOD SkillBridge Internship – Client Service Manager](https://jobright.ai/jobs/info/687bc50d764c3d7411c356ce?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Jul 19 |
+| ↳ | **[DOD SkillBridge Internship – Client Service Manager](https://jobright.ai/jobs/info/687bbdd7ed63844c944ab420?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Jul 19 |
 | ↳ | **[DOD SkillBridge Internship – Client Service Manager](https://jobright.ai/jobs/info/687bc3ee2097a271a8987322?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Jul 19 |
 | ↳ | **[DOD SkillBridge Internship – Service Coordinator](https://jobright.ai/jobs/info/687bc83ced63844c944ab872?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Jul 19 |
 | ↳ | **[DOD SkillBridge Internship – Client Service Manager](https://jobright.ai/jobs/info/687bb789764c3d7411c35142?utm_campaign=1058&utm_source=git)** | Miramar, FL | On Site | Jul 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b558fed63844c944a7587?utm_campaign=1058&utm_source=git)** | Ballwin, MO | On Site | Jul 18 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b7b9bed63844c944a7f4e?utm_campaign=1058&utm_source=git)** | Adelphia, NJ | On Site | Jul 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687baff9764c3d7411c34d3a?utm_campaign=1058&utm_source=git)** | Chester, NJ | On Site | Jul 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687bac432097a271a8986788?utm_campaign=1058&utm_source=git)** | Burbank, CA | On Site | Jul 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687b104aed63844c944a681e?utm_campaign=1058&utm_source=git)** | Manhattan Beach, CA | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
