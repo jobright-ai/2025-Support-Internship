@@ -65,7 +65,8 @@ For a complete list, click the following sortable link below:
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Technologist-Radiology Student - CR Rad Diagnostics BMH Crittenden](https://jobright.ai/jobs/info/67d52716d19474209a8c1258?utm_campaign=1058&utm_source=git)** | West Memphis, AR | On Site | Jul 20 |
 | ↳ | **[Intern-Nurse I](https://jobright.ai/jobs/info/685ffa67eff520a5ac91f279?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Jul 20 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern (On-Call)](https://jobright.ai/jobs/info/687ce2ba764c3d7411c3bd97?utm_campaign=1058&utm_source=git)** | Stockton, CA | On Site | Jul 20 |
-| ↳ | **[Pharmacy Intern (On-Call)](https://jobright.ai/jobs/info/687cdf9ced63844c944b178f?utm_campaign=1058&utm_source=git)** | Modesto, CA | On Site | Jul 20 |
+| **[Baptist Health](http://baptisthealth.net/)** | **[Pharmacy Intern 2, Ambulatory Pharmacy Services, Per Diem, Varies](https://jobright.ai/jobs/info/68283bd5e670c1570e78e124?utm_campaign=1058&utm_source=git)** | Miami Lakes, FL | On Site | Jul 20 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern (On-Call)](https://jobright.ai/jobs/info/687cdf9ced63844c944b178f?utm_campaign=1058&utm_source=git)** | Modesto, CA | On Site | Jul 20 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician - Internal Medicine - Gastroenterology - Chicago (Oak Park)-14304](https://jobright.ai/jobs/info/673e79e95760227f21bd6ba9?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jul 20 |
 | **[WebFX](https://www.webfx.com)** | **[IT Support Internship](https://jobright.ai/jobs/info/67eec162357dc4681d864247?utm_campaign=1058&utm_source=git)** | Harrisburg, PA | On Site | Jul 20 |
 | **[University of Arkansas System](https://www.uasys.edu)** | **[Student Employee - Pharmacy Intern - Cancer Institute](https://jobright.ai/jobs/info/687cc09b2097a271a898d236?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Jul 20 |
@@ -89,12 +90,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687c4761764c3d7411c367a2?utm_campaign=1058&utm_source=git)** | Boulder, CO | On Site | Jul 19 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687c474f2097a271a89885c9?utm_campaign=1058&utm_source=git)** | St Peters, MO | On Site | Jul 19 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/687c47062097a271a89885ae?utm_campaign=1058&utm_source=git)** | Richlands, VA | On Site | Jul 19 |
-| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Surgical Technologist Intern- Full Time- Mercy Springfield](https://jobright.ai/jobs/info/687bfcb0ed63844c944ac581?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
+| **[WellSpan Health](https://www.wellspan.org/)** | **[Internist- Freedom Way](https://jobright.ai/jobs/info/68238d61d96d8ed861409b5a?utm_campaign=1058&utm_source=git)** | York, PA | On Site | Jul 19 |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Surgical Technologist Intern- Mercy Springfield - Full Time](https://jobright.ai/jobs/info/687bfe4eed63844c944ac597?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
+| ↳ | **[Surgical Technologist Intern- Full Time- Mercy Springfield](https://jobright.ai/jobs/info/687bfcb0ed63844c944ac581?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
 | ↳ | **[Surgical Technologist Intern - Full Time - Mercy Springfield](https://jobright.ai/jobs/info/687bfab6ed63844c944ac545?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
 | ↳ | **[Surgical Technologist Intern-Full Time- Mercy Springfield](https://jobright.ai/jobs/info/687bf9ce764c3d7411c362e5?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
 | ↳ | **[Radiology Intern II - CT Scan / Per Diem](https://jobright.ai/jobs/info/687bf964764c3d7411c362c2?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Jul 19 |
 | ↳ | **[Surgical Technologist Intern-Full Time - Mercy Springfield](https://jobright.ai/jobs/info/687bf955764c3d7411c362be?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
-| ↳ | **[Surgical Technologist Intern- Mercy Springfield - Full Time](https://jobright.ai/jobs/info/687bf7892097a271a898804a?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jul 19 |
 | **[Geisinger](https://www.geisinger.org)** | **[Radiologic Technologist Student](https://jobright.ai/jobs/info/687bf738ed63844c944ac492?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Jul 19 |
 | **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern P1 Contingent Days](https://jobright.ai/jobs/info/687bf54bed63844c944ac45c?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Jul 19 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/687be1b6764c3d7411c35dad?utm_campaign=1058&utm_source=git)** | Altoona, IA | On Site | Jul 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Providence Health & Services](https://www.providence.org/)** | **[Pharmacist Intern - Providence Anchorage](https://jobright.ai/jobs/info/687c91dd2097a271a898b1d2?utm_campaign=1058&utm_source=git)** | Anchorage, AK | On Site | Jul 18 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Surgical Technologist Inter](https://jobright.ai/jobs/info/687b94012097a271a89859f8?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jul 18 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Service Operations Intern](https://jobright.ai/jobs/info/687b938a2097a271a898597c?utm_campaign=1058&utm_source=git)** | Cary, NC | On Site | Jul 18 |
-| **[Geisinger](https://www.geisinger.org)** | **[Radiologic Technologist Student - GWV - Per Diem - Evenings](https://jobright.ai/jobs/info/67ec2ba765e3df62e3304c5c?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Jul 18 |
-| **[Midwestern Baptist Theological Seminary](http://www.mbts.edu/)** | **[Recreation Services Assistant - FWS](https://jobright.ai/jobs/info/687ca9da764c3d7411c3aec6?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
