@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oregon Health & Science University](http://www.ohsu.edu/)** | **[Radiologic Technologist- Student Flex](https://jobright.ai/jobs/info/6882c7a3b54cac0f1e732bb0?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Jul 24 |
+| **[EATS2SEATS](https://www.EATS2SEATS.com)** | **[Premium hospitality internship](https://jobright.ai/jobs/info/6882c484b54cac0f1e732a25?utm_campaign=1058&utm_source=git)** | Lawrence, KS | On Site | Jul 24 |
+| **[O'Connell Electric Company](http://oconnellelectric.com)** | **[Client Support Internship](https://jobright.ai/jobs/info/6882b791b54cac0f1e732576?utm_campaign=1058&utm_source=git)** | Victor, New York | On Site | Jul 24 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Generalist - Student Success - PAC - req12853 - T](https://jobright.ai/jobs/info/6882ad50835a903aa07effcc?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Jul 24 |
 | **[Carroll Electric Cooperative Corporation](https://www.carrollecc.com/)** | **[Line Services Intern](https://jobright.ai/jobs/info/6882abe36fcd973d15adb732?utm_campaign=1058&utm_source=git)** | Gravette, AR | On Site | Jul 24 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Scholars Lab Graduate Research Assistant](https://jobright.ai/jobs/info/68829e4b6fcd973d15adafd7?utm_campaign=1058&utm_source=git)** | UT MAIN CAMPUS | On Site | Jul 24 |
 | **[Tryon Medical Partners](https://www.tryonmed.com/)** | **[Medical Assistant Intern - Ballantyne Dermatology](https://jobright.ai/jobs/info/68829612b54cac0f1e7311fb?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jul 24 |
@@ -67,14 +71,16 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Technology & Engineer Fellow, Client Support](https://jobright.ai/jobs/info/688288afb54cac0f1e730538?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jul 24 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Student Radiology Tech - Second Year](https://jobright.ai/jobs/info/688288136fcd973d15ad9eb6?utm_campaign=1058&utm_source=git)** | Detroit, Michigan | On Site | Jul 24 |
 | **[FoodMe Global / Dine Palace ](http://www.DinePalace.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/688287c2835a903aa07ee54a?utm_campaign=1058&utm_source=git)** | Remote job | Hybrid | Jul 24 |
+| **[MyMichigan Health](https://www.mymichigan.org)** | **[Student College Intern IT](https://jobright.ai/jobs/info/678185f95deba7936229b8a7?utm_campaign=1058&utm_source=git)** | Midland, MI | On Site | Jul 24 |
 | **[Elekta](http://elekta.com/)** | **[Cancer Registry User & Communication Specialist (Intern)](https://jobright.ai/jobs/info/68828267b54cac0f1e72fff4?utm_campaign=1058&utm_source=git)** | Georgia, United States | Remote | Jul 24 |
 | **[Cascade Connections](https://cascadeconnections.org)** | **[Tech Intern](https://jobright.ai/jobs/info/68827edc835a903aa07ede26?utm_campaign=1058&utm_source=git)** | Ferndale, WA | On Site | Jul 24 |
 | **[Lutheran Health Network](http://www.lutheranhealth.net)** | **[Student Nursing Intern - Progressive Care Unit](https://jobright.ai/jobs/info/68829b23835a903aa07ef40c?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Jul 24 |
-| **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, CRAFTS SUPPORT](https://jobright.ai/jobs/info/688299186fcd973d15adac87?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
-| ↳ | **[VETERAN INTERN, INFORMATION TECHNOLOGY SUPPORT](https://jobright.ai/jobs/info/688299e26fcd973d15adacfb?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
+| **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, INFORMATION TECHNOLOGY SUPPORT](https://jobright.ai/jobs/info/688299e26fcd973d15adacfb?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
+| ↳ | **[VETERAN INTERN, CRAFTS SUPPORT](https://jobright.ai/jobs/info/688299186fcd973d15adac87?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
 | ↳ | **[VETERAN INTERN, HEAVY MAINTENANCE AND OPERATIONAL SUPPORT](https://jobright.ai/jobs/info/6882a3ec835a903aa07ef980?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
 | ↳ | **[VETERAN INTERN, OFFICE AND CLERICAL SUPPORT](https://jobright.ai/jobs/info/68829c5db54cac0f1e731496?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
 | **[Virtua Health](https://www.virtua.org/)** | **[IT Intern](https://jobright.ai/jobs/info/6882a06e6fcd973d15adb1ec?utm_campaign=1058&utm_source=git)** | Marlton, NJ | On Site | Jul 24 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist  PT 24](https://jobright.ai/jobs/info/686fdaaca5ae807a59cf4011?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/688295046fcd973d15adaa9a?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
 | **[Year Up United](http://yearup.org)** | **[Customer Service Fundamentals Career Training Opportunity](https://jobright.ai/jobs/info/688273a06fcd973d15ad934a?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jul 24 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[IT Assistant - Work-Based Learning (Part-time) (Georgia, United States)](https://jobright.ai/jobs/info/688270e0835a903aa07ed8e9?utm_campaign=1058&utm_source=git)** | Georgia, United States | On Site | Jul 24 |
@@ -101,8 +107,6 @@ For a complete list, click the following sortable link below:
 | **[UnitedMasters](https://unitedmasters.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6848f1ecbbc022898b202070?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | Hybrid | Jul 24 |
 | **[Fairview LLC](https://fairviewinvest.com)** | **[Corporate Logistics Office Intern](https://jobright.ai/jobs/info/688233ef835a903aa07ebb5b?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Jul 24 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Histotech Student](https://jobright.ai/jobs/info/688208706f7fae04979f7c58?utm_campaign=1058&utm_source=git)** | Royal Oak, MI | Hybrid | Jul 24 |
-| **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[IT College Graduate Intern](https://jobright.ai/jobs/info/688234df6fcd973d15ad7545?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | Jul 24 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Generalist - Student Success - PAC - req12853 - T](https://jobright.ai/jobs/info/6881fb81ee15177ae9719713?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Jul 24 |
 | **[North American Dental Group (NADG)](http://nadentalgroup.com/)** | **[IT Service Desk Analyst Intern](https://jobright.ai/jobs/info/6881efbc1321092fa006304e?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Jul 24 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern II - Med Surg](https://jobright.ai/jobs/info/6881e520ee15177ae9718b37?utm_campaign=1058&utm_source=git)** | Destin, FL | On Site | Jul 24 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6881dfd61321092fa0062571?utm_campaign=1058&utm_source=git)** | Midvale, UT | On Site | Jul 24 |
@@ -133,7 +137,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68819e7716ea5743a373a76e?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Jul 23 |
 | **[St. Peter's Health](https://www.stpetes.org)** | **[Information Systems Intern](https://jobright.ai/jobs/info/6881993116ea5743a373a36b?utm_campaign=1058&utm_source=git)** | Montana, United States | On Site | Jul 23 |
 | **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Guest Experience Intern](https://jobright.ai/jobs/info/6881977416ea5743a373a25e?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jul 23 |
-| **[United Supermarkets, LLC](http://www.unitedtexas.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6881969f29ad6b2744ae33a9?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Jul 23 |
+| **[United Supermarkets, LLC](http://www.unitedtexas.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68819586f4f06100f3a27ffa?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Jul 23 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[IT Intern](https://jobright.ai/jobs/info/688193aa16ea5743a373a11d?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Jul 23 |
 | **[Methodist Health System](http://jobs.methodisthealthsystem.org)** | **[Patient Care Intern- Neuro Critical Care](https://jobright.ai/jobs/info/68819280f4f06100f3a27f0e?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jul 23 |
 | **[Go Ahead London](https://www.goaheadlondon.com/)** | **[Garage Administrator - Internal](https://jobright.ai/jobs/info/68829c63b54cac0f1e73149e?utm_campaign=1058&utm_source=git)** | United States | Remote | Jul 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6881a44429ad6b2744ae3c19?utm_campaign=1058&utm_source=git)** | Holyoke, MA | On Site | Jul 23 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6881a523f4f06100f3a28931?utm_campaign=1058&utm_source=git)** | Somersworth, NH | On Site | Jul 23 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6881a53629ad6b2744ae3cbf?utm_campaign=1058&utm_source=git)** | Marco Island, FL | On Site | Jul 23 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6881a63429ad6b2744ae3d6e?utm_campaign=1058&utm_source=git)** | Bennington, VT | On Site | Jul 23 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6881a69c16ea5743a373ad76?utm_campaign=1058&utm_source=git)** | Brooklyn, CT | On Site | Jul 23 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6881a3e129ad6b2744ae3be2?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Jul 23 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6881ab05f4f06100f3a28d32?utm_campaign=1058&utm_source=git)** | Medford, MA | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
