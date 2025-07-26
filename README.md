@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clive Behavioral Health](https://clivebehavioral.com)** | **[Internship](https://jobright.ai/jobs/info/688546eeb651c92cb78ab889?utm_campaign=1058&utm_source=git)** | Clive, IA | On Site | Jul 26 |
+| **[Jobright.ai](https://jobright.ai)** | **[Transcriptionist (Hebrew), Internship, (Remote)](https://jobright.ai/jobs/info/688540e54174df41e0f966dd?utm_campaign=1058&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/688513b34174df41e0f96133?utm_campaign=1058&utm_source=git)** | Monroe, LA | On Site | Jul 26 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68851125b651c92cb78ab231?utm_campaign=1058&utm_source=git)** | Ocean City, NJ | On Site | Jul 26 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68850fe4fbbf032d0006be1f?utm_campaign=1058&utm_source=git)** | Laguna Niguel, CA | On Site | Jul 26 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[UNM Hospital](https://www.unmhjobs.com)** | **[NURSE INTERN](https://jobright.ai/jobs/info/6884f550fbbf032d0006b8c6?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Jul 26 |
 | ↳ | **[NURSE INTERN](https://jobright.ai/jobs/info/6884f376fbbf032d0006b7e5?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Jul 26 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Student Technologist Radiology](https://jobright.ai/jobs/info/6884f2d0fbbf032d0006b7a5?utm_campaign=1058&utm_source=git)** | Troy, MI | Hybrid | Jul 26 |
+| **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/67f4abe866d9897c28e900e1?utm_campaign=1058&utm_source=git)** | Nampa, ID | On Site | Jul 26 |
 | **[Full Circle Health Care](https://www.linkedin.com/company/107901731)** | **[Respiratory Tech, PRN, Days](https://jobright.ai/jobs/info/6884e790fbbf032d0006b5c0?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jul 26 |
 | **[Rock Health](https://rockhealth.com)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6884de39fbbf032d0006b3eb?utm_campaign=1058&utm_source=git)** | Longleaf, LA | On Site | Jul 26 |
 | **[Key Capture Energy](https://www.keycaptureenergy.com)** | **[IT Intern](https://jobright.ai/jobs/info/685b923fc739791581539f0c?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Jul 26 |
@@ -150,11 +153,8 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/688447a5b651c92cb78a5e7d?utm_campaign=1058&utm_source=git)** | The Village, OK | On Site | Jul 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6884471ab651c92cb78a5e0b?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Jul 25 |
 | **[Bryan Health](https://www.bryanhealth.com/)** | **[Student Radiologic Technologist](https://jobright.ai/jobs/info/6884462eb651c92cb78a5d6b?utm_campaign=1058&utm_source=git)** | Lincoln, NE | On Site | Jul 25 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/688445f2fbbf032d00066992?utm_campaign=1058&utm_source=git)** | Olathe, KS | On Site | Jul 25 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/688445e8fbbf032d0006698c?utm_campaign=1058&utm_source=git)** | Santa Rosa, CA | On Site | Jul 25 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/688445e8fbbf032d0006698c?utm_campaign=1058&utm_source=git)** | Santa Rosa, CA | On Site | Jul 25 |
 | **[Jobright.ai](https://jobright.ai)** | **[Part-time Flights Ops Support - Systems Analyst (Internship)](https://jobright.ai/jobs/info/6884458c4174df41e0f90b52?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jul 25 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6884454fb651c92cb78a5cc4?utm_campaign=1058&utm_source=git)** | Platte City, MO | On Site | Jul 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/688445254174df41e0f90b01?utm_campaign=1058&utm_source=git)** | Manchester, NH | On Site | Jul 25 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68844472fbbf032d00066859?utm_campaign=1058&utm_source=git)** | Paterson, NJ | On Site | Jul 25 |
-| **[St. David's HealthCare](https://stdavids.com/)** | **[Respiratory Tech Student PRN](https://jobright.ai/jobs/info/68844283b651c92cb78a5a80?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
