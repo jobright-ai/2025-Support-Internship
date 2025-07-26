@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nebraska Medicine](https://www.nebraskamed.com)** | **[EKG Technician - Heart Monitoring Unit Internship - Part Time Nights](https://jobright.ai/jobs/info/68842a86b54cac0f1e73c7d9?utm_campaign=1058&utm_source=git)** | Omaha Metropolitan Area | On Site | Jul 25 |
+| **[Metropolitan Transportation Authority](http://mta.info)** | **[Technology & Engineering Fellow , IT Service Desk](https://jobright.ai/jobs/info/688428496fcd973d15ae5f93?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jul 25 |
+| **[Nebraska Medicine](https://www.nebraskamed.com)** | **[EKG Technician - Heart Monitoring Unit Internship - Full Time Nights](https://jobright.ai/jobs/info/688421d06fcd973d15ae5b41?utm_campaign=1058&utm_source=git)** | Omaha Metropolitan Area | On Site | Jul 25 |
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Pharmacy Internship, UUH/HCH (Class of 2029)](https://jobright.ai/jobs/info/688416156fcd973d15ae58d7?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Jul 25 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Senior IT Specialist (Applications Software) FT – 6349](https://jobright.ai/jobs/info/68840eeb6fcd973d15ae5661?utm_campaign=1058&utm_source=git)** | Chesapeake, VA | On Site | Jul 25 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Student Financial Services Support Representative - BYU-Pathway Worldwide (Part-Time, Student Employee)](https://jobright.ai/jobs/info/688409976fcd973d15ae5427?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Jul 25 |
@@ -128,7 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Hartford HealthCare](https://hartfordhealthcare.org)** | **[Medication History Pharmacy Intern](https://jobright.ai/jobs/info/6882ec5eb54cac0f1e733934?utm_campaign=1058&utm_source=git)** | New Britain, CT | On Site | Jul 24 |
 | **[International Community Health Services](https://www.ichs.com)** | **[Dental Assistant Intern](https://jobright.ai/jobs/info/6882ea346fcd973d15add1fe?utm_campaign=1058&utm_source=git)** | Bellevue, WA | On Site | Jul 24 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Pharmacist - Student Intern](https://jobright.ai/jobs/info/6882e754b54cac0f1e73371c?utm_campaign=1058&utm_source=git)** | Abilene, TX | On Site | Jul 24 |
-| **[Covenant Health](http://www.covenanthealth.com)** | **[IMAGING TECH STUDENT](https://jobright.ai/jobs/info/6882e10e835a903aa07f14ff?utm_campaign=1058&utm_source=git)** | Morristown, TN | On Site | Jul 24 |
+| **[Covenant Health](http://www.covenanthealth.com)** | **[IMAGING TECH STUDENT](https://jobright.ai/jobs/info/6882e1abb54cac0f1e733591?utm_campaign=1058&utm_source=git)** | Morristown, TN | On Site | Jul 24 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Nurse Intern- ICU](https://jobright.ai/jobs/info/6882dfce6fcd973d15adce54?utm_campaign=1058&utm_source=git)** | Pontiac, MI | On Site | Jul 24 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Pharmacy Graduate Intern  - PRN](https://jobright.ai/jobs/info/6882d44c835a903aa07f1064?utm_campaign=1058&utm_source=git)** | Ardmore, Oklahoma | On Site | Jul 24 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Support Associate](https://jobright.ai/jobs/info/6882d1f7b54cac0f1e732e63?utm_campaign=1058&utm_source=git)** | Naperville, IL | Hybrid | Jul 24 |
@@ -137,6 +140,7 @@ For a complete list, click the following sortable link below:
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Student Assistant - FMD](https://jobright.ai/jobs/info/6882c90e835a903aa07f0b5c?utm_campaign=1058&utm_source=git)** | Athens, GA | On Site | Jul 24 |
 | **[Oregon Health & Science University](http://www.ohsu.edu/)** | **[Radiologic Technologist- Student Flex](https://jobright.ai/jobs/info/6882c7a3b54cac0f1e732bb0?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Jul 24 |
 | **[EATS2SEATS](https://www.EATS2SEATS.com)** | **[Premium hospitality internship](https://jobright.ai/jobs/info/6882c484b54cac0f1e732a25?utm_campaign=1058&utm_source=git)** | Lawrence, KS | On Site | Jul 24 |
+| **[University of New Hampshire](https://innovation.unh.edu/)** | **[Technician Intern](https://jobright.ai/jobs/info/682c61eb19d8247458247f16?utm_campaign=1058&utm_source=git)** | Durham, NH | On Site | Jul 24 |
 | **[O'Connell Electric Company](http://oconnellelectric.com)** | **[Client Support Internship](https://jobright.ai/jobs/info/6882b791b54cac0f1e732576?utm_campaign=1058&utm_source=git)** | Victor, New York | On Site | Jul 24 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Scholars Lab Graduate Research Assistant](https://jobright.ai/jobs/info/68829e4b6fcd973d15adafd7?utm_campaign=1058&utm_source=git)** | UT MAIN CAMPUS | On Site | Jul 24 |
 | **[Tryon Medical Partners](https://www.tryonmed.com/)** | **[Medical Assistant Intern - Ballantyne Dermatology](https://jobright.ai/jobs/info/68829612b54cac0f1e7311fb?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jul 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FoodMe Global / Dine Palace ](http://www.DinePalace.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/688287c2835a903aa07ee54a?utm_campaign=1058&utm_source=git)** | Remote job | Hybrid | Jul 24 |
 | **[MyMichigan Health](https://www.mymichigan.org)** | **[Student College Intern IT](https://jobright.ai/jobs/info/678185f95deba7936229b8a7?utm_campaign=1058&utm_source=git)** | Midland, MI | On Site | Jul 24 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Pharmacy Intern, PRN](https://jobright.ai/jobs/info/6826c573d05c08c3e3e7128e?utm_campaign=1058&utm_source=git)** | Greater St. Louis | On Site | Jul 24 |
-| **[Elekta](http://elekta.com/)** | **[Cancer Registry User & Communication Specialist (Intern)](https://jobright.ai/jobs/info/68828267b54cac0f1e72fff4?utm_campaign=1058&utm_source=git)** | Georgia, United States | Remote | Jul 24 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6882e7436fcd973d15add0a3?utm_campaign=1058&utm_source=git)** | Hoboken, NJ | On Site | Jul 24 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6882e6dd6fcd973d15add086?utm_campaign=1058&utm_source=git)** | Albany, NY | On Site | Jul 24 |
-| **[Cascade Connections](https://cascadeconnections.org)** | **[Tech Intern](https://jobright.ai/jobs/info/68827edc835a903aa07ede26?utm_campaign=1058&utm_source=git)** | Ferndale, WA | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
