@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mental Health Association of Rochester](https://www.annamarieresnikoffphd.com/)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6885c49bfbbf032d0006ed68?utm_campaign=1058&utm_source=git)** | Alexandria, LA | On Site | Jul 26 |
 | **[Puyallup School District](https://www.puyallupsd.org)** | **[KITCHEN HELPER (FOR ELIGIBLE INTERNAL BIDDERS ONLY)](https://jobright.ai/jobs/info/6885afc8b651c92cb78ad6d4?utm_campaign=1058&utm_source=git)** | Puyallup, WA | On Site | Jul 26 |
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Oncology Pharmacist Student Intern](https://jobright.ai/jobs/info/6885a998fbbf032d0006de41?utm_campaign=1058&utm_source=git)** | Northwest Georgia Oncology Centers Wellstar | On Site | Jul 26 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6885904dfbbf032d0006ce75?utm_campaign=1058&utm_source=git)** | Union, SC | On Site | Jul 26 |
@@ -157,5 +158,4 @@ Job ID : 261885](https://jobright.ai/jobs/info/68855b7efbbf032d0006c5f8?utm_camp
 | **[UNM Sandoval Regional Medical Center](http://goto.unm.edu/srmc)** | **[NURSE INTERN](https://jobright.ai/jobs/info/688486abfbbf032d0006a77c?utm_campaign=1058&utm_source=git)** | Rio Rancho, NM | On Site | Jul 26 |
 | ↳ | **[NURSE INTERN](https://jobright.ai/jobs/info/688486554174df41e0f94a3a?utm_campaign=1058&utm_source=git)** | Rio Rancho, NM | On Site | Jul 26 |
 | **[Prisma Health](https://www.prismahealth.org)** | **[Hospital Pharmacy Intern, PRN](https://jobright.ai/jobs/info/688482ddfbbf032d0006a348?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Jul 26 |
-| **[Smilow Cancer Hospital](https://www.ynhh.org/smilow.aspx)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/68847febfbbf032d0006a020?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
