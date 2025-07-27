@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[IT Systems Support Specialist FT – 6335](https://jobright.ai/jobs/info/688569444174df41e0f969dc?utm_campaign=1058&utm_source=git)** | Chesapeake, VA | On Site | Jul 26 |
+| **[Metropolitan Transportation Authority](http://mta.info)** | **[Technology & Engineering Fellow , IT Service Desk](https://jobright.ai/jobs/info/688428496fcd973d15ae5f93?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jul 26 |
+| **[Opulent Property Management](https://opulentproperty.com/)** | **[Personal Assistant](https://jobright.ai/jobs/info/68856396b651c92cb78aba49?utm_campaign=1058&utm_source=git)** | Jacksonville Beach, FL | On Site | Jul 26 |
+| **[Thompson Engineering](http://thompsonengineering.com)** | **[Intern](https://jobright.ai/jobs/info/688568cdfbbf032d0006c723?utm_campaign=1058&utm_source=git)** | Prairieville, LA | On Site | Jul 26 |
 | **[Clive Behavioral Health](https://clivebehavioral.com)** | **[Internship](https://jobright.ai/jobs/info/688546eeb651c92cb78ab889?utm_campaign=1058&utm_source=git)** | Clive, IA | On Site | Jul 26 |
 | **[Jobright.ai](https://jobright.ai)** | **[Transcriptionist (Hebrew), Internship, (Remote)](https://jobright.ai/jobs/info/688540e54174df41e0f966dd?utm_campaign=1058&utm_source=git)** | United States | Remote | Jul 26 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[DDR Programming Support Intern
+Job ID : 261885](https://jobright.ai/jobs/info/68855b7efbbf032d0006c5f8?utm_campaign=1058&utm_source=git)** | New York, United States | Hybrid | Jul 26 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/688513b34174df41e0f96133?utm_campaign=1058&utm_source=git)** | Monroe, LA | On Site | Jul 26 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68851125b651c92cb78ab231?utm_campaign=1058&utm_source=git)** | Ocean City, NJ | On Site | Jul 26 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68850fe4fbbf032d0006be1f?utm_campaign=1058&utm_source=git)** | Laguna Niguel, CA | On Site | Jul 26 |
@@ -123,7 +129,9 @@ For a complete list, click the following sortable link below:
 | **[Affinity Home Health Care Inc](http://www.affinityhomehealthcare.com/)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6884f613b651c92cb78aacb4?utm_campaign=1058&utm_source=git)** | Otis, LA | On Site | Jul 26 |
 | **[Health Care Administrators Association® (HCAA)](https://www.hcaa.org/)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6884f6c8b651c92cb78aacf5?utm_campaign=1058&utm_source=git)** | Benton, LA | On Site | Jul 26 |
 | **[Alpha Home Health and Hospice](https://alphahomehealthhospice.com/)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6884e534b651c92cb78aa9df?utm_campaign=1058&utm_source=git)** | Pollock, LA | On Site | Jul 26 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/684cd59bb603b584bdcc5e2b?utm_campaign=1058&utm_source=git)** | Petaluma, CA | Hybrid | Jul 26 |
 | **[Aura Health](https://aurahealth.io)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6884e789fbbf032d0006b5be?utm_campaign=1058&utm_source=git)** | Stonewall, LA | On Site | Jul 26 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/684cd59bb603b584bdcc5e3f?utm_campaign=1058&utm_source=git)** | San Francisco, CA | Hybrid | Jul 26 |
 | **[Mental Health Association of Rochester](https://www.annamarieresnikoffphd.com/)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6884e1e1fbbf032d0006b47a?utm_campaign=1058&utm_source=git)** | Keithville, LA | On Site | Jul 26 |
 | **[Cherry Hill Free Clinic](https://www.cherryhillfreeclinic.org/)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6884f6bdb651c92cb78aacf0?utm_campaign=1058&utm_source=git)** | Ruby, LA | On Site | Jul 26 |
 | **[Health Here](http://www.healthhere.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6884f59db651c92cb78aac85?utm_campaign=1058&utm_source=git)** | Jena, LA | On Site | Jul 26 |
@@ -150,11 +158,4 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/688448284174df41e0f90d49?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Jul 25 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6884480ffbbf032d00066b0d?utm_campaign=1058&utm_source=git)** | Cumberland, MD | On Site | Jul 25 |
 | **[Saint Luke's Health System](https://www.saintlukeskc.org)** | **[Surgical Intermediate Cardiac Care Nursing Intern, PRN Swing](https://jobright.ai/jobs/info/688447a8fbbf032d00066ac7?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Jul 25 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/688447a5b651c92cb78a5e7d?utm_campaign=1058&utm_source=git)** | The Village, OK | On Site | Jul 25 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6884471ab651c92cb78a5e0b?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Jul 25 |
-| **[Bryan Health](https://www.bryanhealth.com/)** | **[Student Radiologic Technologist](https://jobright.ai/jobs/info/6884462eb651c92cb78a5d6b?utm_campaign=1058&utm_source=git)** | Lincoln, NE | On Site | Jul 25 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/688445e8fbbf032d0006698c?utm_campaign=1058&utm_source=git)** | Santa Rosa, CA | On Site | Jul 25 |
-| **[Jobright.ai](https://jobright.ai)** | **[Part-time Flights Ops Support - Systems Analyst (Internship)](https://jobright.ai/jobs/info/6884458c4174df41e0f90b52?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jul 25 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6884454fb651c92cb78a5cc4?utm_campaign=1058&utm_source=git)** | Platte City, MO | On Site | Jul 25 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/688445254174df41e0f90b01?utm_campaign=1058&utm_source=git)** | Manchester, NH | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
