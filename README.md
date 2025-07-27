@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobright.ai](https://jobright.ai)** | **[Technology & Engineering Fellow, IT Service Desk (Internship)](https://jobright.ai/jobs/info/68856f54fbbf032d0006c7a7?utm_campaign=1058&utm_source=git)** | New York, United States | On Site | Jul 26 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[IT Systems Support Specialist FT – 6335](https://jobright.ai/jobs/info/688569444174df41e0f969dc?utm_campaign=1058&utm_source=git)** | Chesapeake, VA | On Site | Jul 26 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Technology & Engineering Fellow , IT Service Desk](https://jobright.ai/jobs/info/688428496fcd973d15ae5f93?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jul 26 |
 | **[Opulent Property Management](https://opulentproperty.com/)** | **[Personal Assistant](https://jobright.ai/jobs/info/68856396b651c92cb78aba49?utm_campaign=1058&utm_source=git)** | Jacksonville Beach, FL | On Site | Jul 26 |
@@ -75,6 +76,7 @@ Job ID : 261885](https://jobright.ai/jobs/info/68855b7efbbf032d0006c5f8?utm_camp
 | **[Corewell Health](https://corewellhealth.org)** | **[Student Technologist Radiology](https://jobright.ai/jobs/info/6884f2d0fbbf032d0006b7a5?utm_campaign=1058&utm_source=git)** | Troy, MI | Hybrid | Jul 26 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/67f4abe866d9897c28e900e1?utm_campaign=1058&utm_source=git)** | Nampa, ID | On Site | Jul 26 |
 | **[Full Circle Health Care](https://www.linkedin.com/company/107901731)** | **[Respiratory Tech, PRN, Days](https://jobright.ai/jobs/info/6884e790fbbf032d0006b5c0?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jul 26 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/66c9bc1809aa9320f5136123?utm_campaign=1058&utm_source=git)** | Breckenridge, MN | On Site | Jul 26 |
 | **[Rock Health](https://rockhealth.com)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6884de39fbbf032d0006b3eb?utm_campaign=1058&utm_source=git)** | Longleaf, LA | On Site | Jul 26 |
 | **[Key Capture Energy](https://www.keycaptureenergy.com)** | **[IT Intern](https://jobright.ai/jobs/info/685b923fc739791581539f0c?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Jul 26 |
 | **[Alpha Home Health and Hospice](https://alphahomehealthhospice.com/)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6884dae34174df41e0f95693?utm_campaign=1058&utm_source=git)** | Gardner, LA | On Site | Jul 26 |
@@ -137,6 +139,7 @@ Job ID : 261885](https://jobright.ai/jobs/info/68855b7efbbf032d0006c5f8?utm_camp
 | **[Health Here](http://www.healthhere.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6884f59db651c92cb78aac85?utm_campaign=1058&utm_source=git)** | Jena, LA | On Site | Jul 26 |
 | **[Jobright.ai](https://jobright.ai)** | **[Data Entry - Typist Part-Time - Remote - Internship](https://jobright.ai/jobs/info/6884afd6fbbf032d0006adbd?utm_campaign=1058&utm_source=git)** | United States | Remote | Jul 26 |
 | **[University of North Carolina Wilmington](https://uncw.edu/)** | **[Temporary Security Guard (Non-Student)](https://jobright.ai/jobs/info/6884ad6eb651c92cb78aa15e?utm_campaign=1058&utm_source=git)** | Wilmington, NC | On Site | Jul 26 |
+| **[CareerVillage.org](https://careervillage.org/)** | **[Volunteer: Diagnostic Related Technologist](https://jobright.ai/jobs/info/67c0260ef283c02615bf4719?utm_campaign=1058&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Tennessee Oncology](https://tnoncology.com/)** | **[Student Intern](https://jobright.ai/jobs/info/6884a73afbbf032d0006ad1c?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Jul 26 |
 | **[Oklahoma City Zoo and Botanical Garden](https://www.okczoo.org)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/6884a736fbbf032d0006ad1b?utm_campaign=1058&utm_source=git)** | Oklahoma, United States | On Site | Jul 26 |
 | **[Jobright.ai](https://jobright.ai)** | **[Remote Typist Data Entry Specialist (Internship)](https://jobright.ai/jobs/info/6884a2fcfbbf032d0006acc3?utm_campaign=1058&utm_source=git)** | United States | Remote | Jul 26 |
@@ -155,7 +158,4 @@ Job ID : 261885](https://jobright.ai/jobs/info/68855b7efbbf032d0006c5f8?utm_camp
 | **[Hanger, Inc.](https://corporate.hanger.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6883e8afb54cac0f1e73ac99?utm_campaign=1058&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Jul 25 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/688449a54174df41e0f90e4c?utm_campaign=1058&utm_source=git)** | Saugus, MA | On Site | Jul 25 |
 | **[Saint Luke's Health System](https://www.saintlukeskc.org)** | **[Pulmonary Nursing Intern, PRN](https://jobright.ai/jobs/info/688448a4fbbf032d00066b79?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Jul 25 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/688448284174df41e0f90d49?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Jul 25 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6884480ffbbf032d00066b0d?utm_campaign=1058&utm_source=git)** | Cumberland, MD | On Site | Jul 25 |
-| **[Saint Luke's Health System](https://www.saintlukeskc.org)** | **[Surgical Intermediate Cardiac Care Nursing Intern, PRN Swing](https://jobright.ai/jobs/info/688447a8fbbf032d00066ac7?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
