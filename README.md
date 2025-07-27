@@ -60,7 +60,8 @@ For a complete list, click the following sortable link below:
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/6886742bfbbf032d0007019a?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Jul 27 |
 | **[Jobright.ai](https://jobright.ai)** | **[Vietnamese Transcriber - Internship - (Remote)](https://jobright.ai/jobs/info/68864360b651c92cb78af159?utm_campaign=1058&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68155dd284bacfa9945487a1?utm_campaign=1058&utm_source=git)** | Petaluma, CA | Hybrid | Jul 27 |
-| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/684cd59bb603b584bdcc5e38?utm_campaign=1058&utm_source=git)** | Willits, CA | Hybrid | Jul 27 |
+| **[Acme Markets](http://www.acmemarkets.com/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68311dc8a88db23fc4e13226?utm_campaign=1058&utm_source=git)** | Randolph, NJ | Hybrid | Jul 27 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/684cd59bb603b584bdcc5e38?utm_campaign=1058&utm_source=git)** | Willits, CA | Hybrid | Jul 27 |
 | ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/684cd59bb603b584bdcc5e25?utm_campaign=1058&utm_source=git)** | Sonoma, CA | Hybrid | Jul 27 |
 | **[trabajito](https://www.trabajito.com.bo/)** | **[Pasante de Contabilidad](https://jobright.ai/jobs/info/68860578b651c92cb78aeb2c?utm_campaign=1058&utm_source=git)** | Santa Cruz, CA | On Site | Jul 27 |
 | **[Stormont Vail Health](http://www.stormontvail.org)** | **[Surgical Tech 1 - Intern - PT - Evenings](https://jobright.ai/jobs/info/6848f6ec4099bd957d88da3f?utm_campaign=1058&utm_source=git)** | Topeka, KS | On Site | Jul 27 |
@@ -83,7 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Jobright.ai](https://jobright.ai)** | **[Transcriptionist (Hebrew), Internship, (Remote)](https://jobright.ai/jobs/info/688540e54174df41e0f966dd?utm_campaign=1058&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[DDR Programming Support Intern
 Job ID : 261885](https://jobright.ai/jobs/info/68855b7efbbf032d0006c5f8?utm_campaign=1058&utm_source=git)** | New York, United States | Hybrid | Jul 26 |
-| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/684cc3c71e326d2b265eabe3?utm_campaign=1058&utm_source=git)** | Danville, CA | Hybrid | Jul 26 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/684cd59bb603b584bdcc5e1f?utm_campaign=1058&utm_source=git)** | Millbrae, CA | Hybrid | Jul 26 |
+| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/684cc3c71e326d2b265eabe3?utm_campaign=1058&utm_source=git)** | Danville, CA | Hybrid | Jul 26 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/688513b34174df41e0f96133?utm_campaign=1058&utm_source=git)** | Monroe, LA | On Site | Jul 26 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68851125b651c92cb78ab231?utm_campaign=1058&utm_source=git)** | Ocean City, NJ | On Site | Jul 26 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68850fe4fbbf032d0006be1f?utm_campaign=1058&utm_source=git)** | Laguna Niguel, CA | On Site | Jul 26 |
@@ -156,6 +158,4 @@ Job ID : 261885](https://jobright.ai/jobs/info/68855b7efbbf032d0006c5f8?utm_camp
 | **[The Clinic by Cleveland Clinic](https://www.clinicbyclevelandclinic.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6884f01f4174df41e0f959c7?utm_campaign=1058&utm_source=git)** | Dry Prong, LA | On Site | Jul 26 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68121771f2905846c5f7d218?utm_campaign=1058&utm_source=git)** | Placerville, CA | Hybrid | Jul 26 |
 | **[Apex Home Health & Hospice](http://apexhomehealth.com)** | **[Radiology Intern I (Non-Exempt)](https://jobright.ai/jobs/info/6884eebafbbf032d0006b67f?utm_campaign=1058&utm_source=git)** | Joplin, MO | On Site | Jul 26 |
-| **[Affinity Home Health Care Inc](http://www.affinityhomehealthcare.com/)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6884f613b651c92cb78aacb4?utm_campaign=1058&utm_source=git)** | Otis, LA | On Site | Jul 26 |
-| **[North American Dental Group (NADG)](http://nadentalgroup.com/)** | **[IT Service Desk Analyst Intern](https://jobright.ai/jobs/info/6881efbc1321092fa006304e?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
