@@ -110,6 +110,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6886e405b651c92cb78afe08?utm_campaign=1058&utm_source=git)** | Troy, OH | On Site | Jul 27 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6886e2e3fbbf032d00070a4c?utm_campaign=1058&utm_source=git)** | Circleville, OH | On Site | Jul 27 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6886e2cefbbf032d00070a44?utm_campaign=1058&utm_source=git)** | Jenkintown, PA | On Site | Jul 27 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6886e2aefbbf032d00070a37?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Jul 27 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6886df41b651c92cb78afdde?utm_campaign=1058&utm_source=git)** | Wood-Ridge, NJ | On Site | Jul 27 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6886df364174df41e0f9abe1?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Jul 27 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6886df364174df41e0f9abe0?utm_campaign=1058&utm_source=git)** | Evesham, NJ | On Site | Jul 27 |
@@ -119,7 +120,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6886defa4174df41e0f9abd0?utm_campaign=1058&utm_source=git)** | Olathe, KS | On Site | Jul 27 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6886dee14174df41e0f9abc5?utm_campaign=1058&utm_source=git)** | Fayetteville, WV | On Site | Jul 27 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6886dee14174df41e0f9abc6?utm_campaign=1058&utm_source=git)** | Brick, NJ | On Site | Jul 27 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6886dec8b651c92cb78afdb7?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Jul 27 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6886dea3fbbf032d00070a12?utm_campaign=1058&utm_source=git)** | Twinsburg, OH | On Site | Jul 27 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6886de914174df41e0f9abae?utm_campaign=1058&utm_source=git)** | Lowell, VT | On Site | Jul 27 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6886de89fbbf032d00070a0c?utm_campaign=1058&utm_source=git)** | Wheeling, WV | On Site | Jul 27 |
