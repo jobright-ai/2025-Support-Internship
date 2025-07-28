@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobright.ai](https://jobright.ai)** | **[IT Intern (Internship)](https://jobright.ai/jobs/info/6886ad8afbbf032d0007057b?utm_campaign=1058&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Jul 27 |
+| **[Hanger, Inc.](https://corporate.hanger.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6883e8afb54cac0f1e73ac99?utm_campaign=1058&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Jul 27 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/6886742bfbbf032d0007019a?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Jul 27 |
 | **[Jobright.ai](https://jobright.ai)** | **[Vietnamese Transcriber - Internship - (Remote)](https://jobright.ai/jobs/info/68864360b651c92cb78af159?utm_campaign=1058&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68155dd284bacfa9945487a1?utm_campaign=1058&utm_source=git)** | Petaluma, CA | Hybrid | Jul 27 |
@@ -107,7 +109,6 @@ Job ID : 261885](https://jobright.ai/jobs/info/68855b7efbbf032d0006c5f8?utm_camp
 | **[Key Capture Energy](https://www.keycaptureenergy.com)** | **[IT Intern](https://jobright.ai/jobs/info/685b923fc739791581539f0c?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Jul 26 |
 | **[Alpha Home Health and Hospice](https://alphahomehealthhospice.com/)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6884dae34174df41e0f95693?utm_campaign=1058&utm_source=git)** | Gardner, LA | On Site | Jul 26 |
 | ↳ | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6884d9dd4174df41e0f9564b?utm_campaign=1058&utm_source=git)** | Tioga, LA | On Site | Jul 26 |
-| **[Health Evolution](https://www.healthevolution.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6884d9794174df41e0f9562f?utm_campaign=1058&utm_source=git)** | Center Point, LA | On Site | Jul 26 |
 | **[The Clinic by Cleveland Clinic](https://www.clinicbyclevelandclinic.com)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6884d962fbbf032d0006b330?utm_campaign=1058&utm_source=git)** | Woodworth, LA | On Site | Jul 26 |
 | ↳ | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6884d8f2b651c92cb78aa78b?utm_campaign=1058&utm_source=git)** | Doyline, LA | On Site | Jul 26 |
 | **[Eden Health (Home Health, Hospice, Home Care)](https://www.eden-health.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6884d662fbbf032d0006b30f?utm_campaign=1058&utm_source=git)** | Bentley, LA | On Site | Jul 26 |
@@ -157,5 +158,4 @@ Job ID : 261885](https://jobright.ai/jobs/info/68855b7efbbf032d0006c5f8?utm_camp
 | **[Health Wealth Safe, Inc.](https://www.healthwealthsafe.com/)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6884f073fbbf032d0006b733?utm_campaign=1058&utm_source=git)** | Forest Hill, LA | On Site | Jul 26 |
 | **[The Clinic by Cleveland Clinic](https://www.clinicbyclevelandclinic.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6884f01f4174df41e0f959c7?utm_campaign=1058&utm_source=git)** | Dry Prong, LA | On Site | Jul 26 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68121771f2905846c5f7d218?utm_campaign=1058&utm_source=git)** | Placerville, CA | Hybrid | Jul 26 |
-| **[Apex Home Health & Hospice](http://apexhomehealth.com)** | **[Radiology Intern I (Non-Exempt)](https://jobright.ai/jobs/info/6884eebafbbf032d0006b67f?utm_campaign=1058&utm_source=git)** | Joplin, MO | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
