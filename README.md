@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Chicago](https://www.chicago.gov/city/en.html)** | **[STUDENT INTERN](https://jobright.ai/jobs/info/688877e027fa3c6292367b9f?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jul 29 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (IT Service Desk Support)](https://jobright.ai/jobs/info/68886ca38168d45fe878d0b6?utm_campaign=1058&utm_source=git)** | Pensacola, FL | Hybrid | Jul 28 |
 | **[Cooley Dickinson Hospital](https://www.cooleydickinson.org/)** | **[Radiologic Technologist Intern- per diem](https://jobright.ai/jobs/info/6888473673e3e13cbd943ab2?utm_campaign=1058&utm_source=git)** | Northampton, MA | On Site | Jul 28 |
 | **[Sutter Health](http://www.sutterhealth.org)** | **[Surgical Technician Intern](https://jobright.ai/jobs/info/6888455efbbf032d00079eca?utm_campaign=1058&utm_source=git)** | San Mateo, CA | On Site | Jul 28 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6888439573e3e13cbd9437e4?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Jul 28 |
@@ -117,9 +119,9 @@ For a complete list, click the following sortable link below:
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/6887e1a1fbbf032d000772d7?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Jul 28 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[PRN Pharmacy Intern](https://jobright.ai/jobs/info/6887e06bfbbf032d00077272?utm_campaign=1058&utm_source=git)** | TN-Knoxville-Fort Sanders Reg Med Ctr | Hybrid | Jul 28 |
 | **[HUB International](https://www.hubinternational.com)** | **[Courier](https://jobright.ai/jobs/info/6887e0444174df41e0fa145d?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Jul 28 |
+| **[MUSC Health](https://muschealth.org/locations/university-medical-center)** | **[Radiologic Technologist - Student-1](https://jobright.ai/jobs/info/6887dfec4174df41e0fa13ea?utm_campaign=1058&utm_source=git)** | Charleston | On Site | Jul 28 |
 | **[Community Health Systems](http://www.chs.net)** | **[Student Nurse Intern MED/SURG PRN Nights](https://jobright.ai/jobs/info/6887df9ffbbf032d00077188?utm_campaign=1058&utm_source=git)** | 1499 FAIR ROAD, STATESBORO, GA, 30458, US | On Site | Jul 28 |
-| **[MUSC Health](https://muschealth.org/locations/university-medical-center)** | **[Radiologic Technologist - Student-1](https://jobright.ai/jobs/info/6887df81fbbf032d00077163?utm_campaign=1058&utm_source=git)** | Charleston | On Site | Jul 28 |
-| **[Commonwealth Health](https://www.commonwealthhealth.net)** | **[Nurse Intern](https://jobright.ai/jobs/info/6887df60fbbf032d0007713f?utm_campaign=1058&utm_source=git)** | Scranton, PA | On Site | Jul 28 |
+| **[Commonwealth Health](https://www.commonwealthhealth.net)** | **[Nurse Intern](https://jobright.ai/jobs/info/6887da9873e3e13cbd940967?utm_campaign=1058&utm_source=git)** | Scranton, PA | On Site | Jul 28 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Pharmacy Intern - Inpatient](https://jobright.ai/jobs/info/6887d9c1fbbf032d00076f1b?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Jul 28 |
 | **[Arora Engineers](http://www.aroraengineers.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6887d6e64174df41e0fa1003?utm_campaign=1058&utm_source=git)** | Chadds Ford, PA | On Site | Jul 28 |
 | **[PANTHERx Rare Pharmacy](https://www.pantherxrare.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68828b9e835a903aa07eeab6?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | Jul 28 |
@@ -139,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Parish Tractor](https://www.parishtractor.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6887acf64174df41e0f9fba7?utm_campaign=1058&utm_source=git)** | Hattiesburg, MS | On Site | Jul 28 |
 | **[Community Health Systems](http://www.chs.net)** | **[Nursing Student Intern - Cardiovascular ICU](https://jobright.ai/jobs/info/6887ac2c4174df41e0f9fb5a?utm_campaign=1058&utm_source=git)** | 7950 WEST JEFFERSON BOULEVARD, FORT WAYNE, IN, 46804, US | On Site | Jul 28 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Cardio Invasive Intern](https://jobright.ai/jobs/info/6887abb1fbbf032d000757fc?utm_campaign=1058&utm_source=git)** | US-IL-Bolingbrook | On Site | Jul 28 |
-| ↳ | **[Cardio Invasive Intern](https://jobright.ai/jobs/info/6887ab2773e3e13cbd93f0b4?utm_campaign=1058&utm_source=git)** | ADVENTHEALTH BOLINGBROOK500 REMINGTON BLVD | On Site | Jul 28 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Transportation Year-Round Intern](https://jobright.ai/jobs/info/6887aa9e4174df41e0f9f916?utm_campaign=1058&utm_source=git)** | Springdale, AR Terminal Office - Springdale, Arkansas | On Site | Jul 28 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Transportation Year-Round Intern](https://jobright.ai/jobs/info/6887ababfbbf032d000757ec?utm_campaign=1058&utm_source=git)** | Springdale, AR Terminal Office - Springdale, Arkansas | On Site | Jul 28 |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[Cardio Invasive Intern](https://jobright.ai/jobs/info/6887ab2773e3e13cbd93f0b4?utm_campaign=1058&utm_source=git)** | ADVENTHEALTH BOLINGBROOK500 REMINGTON BLVD | On Site | Jul 28 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Pharmacy Intern (H)](https://jobright.ai/jobs/info/6887a5384174df41e0f9f63a?utm_campaign=1058&utm_source=git)** | Greater St. Louis | On Site | Jul 28 |
 | **[Novant Health](https://www.novanthealth.org/)** | **[Intern](https://jobright.ai/jobs/info/687e4fd3db19f31cf0d696ce?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jul 28 |
 | **[Intermountain Health](https://intermountainhealthcare.org/)** | **[Student Intern I-NonClinical](https://jobright.ai/jobs/info/688797f8fbbf032d00075014?utm_campaign=1058&utm_source=git)** | Intermountain Health Primary Childrens Hospital | On Site | Jul 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Reimagined Parking](https://reimaginedparking.com/)** | **[Parking Attendant Harrisburg International Airport](https://jobright.ai/jobs/info/6886f264fbbf032d00071682?utm_campaign=1058&utm_source=git)** | Middletown, PA | On Site | Jul 27 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6886ea924174df41e0f9b2f1?utm_campaign=1058&utm_source=git)** | North Anson, ME | On Site | Jul 27 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6886ea7cfbbf032d000710bf?utm_campaign=1058&utm_source=git)** | Lansdale, PA | On Site | Jul 27 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6886ea45fbbf032d0007108f?utm_campaign=1058&utm_source=git)** | Niles, OH | On Site | Jul 27 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6886e9f5b651c92cb78b04b2?utm_campaign=1058&utm_source=git)** | Piqua, OH | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
