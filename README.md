@@ -57,20 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision Castparts](http://precast.com)** | **[2025 Information Technology Student Co-Op](https://jobright.ai/jobs/info/68260c24d57fb3ccb3124e34?utm_campaign=1058&utm_source=git)** | Toronto, OH | On Site | Jul 31 |
+| **[RIVER VALLEY COUNSELING CENTER, INC](https://www.rvccinc.org/)** | **[Medical Assistant Intern](https://jobright.ai/jobs/info/688b560f906ac06e1d1caa4d?utm_campaign=1058&utm_source=git)** | Holyoke, MA | On Site | Jul 31 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/688b360c3a30793eb9639129?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[GenPark](https://genpark.ai)** | **[Information Technology Intern](https://jobright.ai/jobs/info/688b317c3a30793eb9639041?utm_campaign=1058&utm_source=git)** | San Francisco Bay Area | Hybrid | Jul 31 |
 | **[Mount Carmel Health System](https://www.mountcarmelhealth.com/)** | **[Pharmacy Intern - Contingent](https://jobright.ai/jobs/info/688b299e906ac06e1d1c9bcc?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Jul 31 |
 | ↳ | **[Pharmacy Intern I](https://jobright.ai/jobs/info/688b287a3a30793eb9638e45?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Jul 31 |
 | **[BayCare Health System](https://baycare.org/bmg)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/688b24d909808a6103e5539e?utm_campaign=1058&utm_source=git)** | Winter Haven, FL | On Site | Jul 31 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Respiratory Therapy Intern](https://jobright.ai/jobs/info/6888316c4174df41e0fa34ce?utm_campaign=1058&utm_source=git)** | Hoffman Estates, IL | On Site | Jul 31 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[CT Tech Student](https://jobright.ai/jobs/info/688b17e09f961617fe22186b?utm_campaign=1058&utm_source=git)** | Ontario, OR | On Site | Jul 31 |
 | **[Trinity Health Mid-Atlantic](https://www.trinityhealthma.org)** | **[Radiology Tech Student- PRN- Mercy Fitzgerald](https://jobright.ai/jobs/info/688b168b9f961617fe2217d7?utm_campaign=1058&utm_source=git)** | Darby, PA | On Site | Jul 31 |
 | **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern - UPMC Washington](https://jobright.ai/jobs/info/688b0fca9f961617fe221083?utm_campaign=1058&utm_source=git)** | Washington, PA | On Site | Jul 30 |
 | **[Mount Carmel Health System](https://www.mountcarmelhealth.com/)** | **[Pharmacy Intern (Medication History) - part time weekends](https://jobright.ai/jobs/info/688b2c95906ac06e1d1c9ccc?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Jul 30 |
 | **[Year Up United](http://yearup.org)** | **[Customer Service Fundamentals Career Training Opportunity](https://jobright.ai/jobs/info/688b09e99f961617fe220d4c?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Jul 30 |
 | ↳ | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/688b078baab47a17f670dc3e?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Jul 30 |
-| **[CHI](https://www.catholichealthinitiatives.org/)** | **[Student Radiologic Tech](https://jobright.ai/jobs/info/688b0233aab47a17f670d8f8?utm_campaign=1058&utm_source=git)** | Kearney, NE | On Site | Jul 30 |
-| **[CommonSpirit Health](https://www.commonspirit.org)** | **[Student Radiologic Tech](https://jobright.ai/jobs/info/688b240e09808a6103e55360?utm_campaign=1058&utm_source=git)** | Kearney, NE | On Site | Jul 30 |
+| **[CommonSpirit Health](https://www.commonspirit.org)** | **[Student Radiologic Tech](https://jobright.ai/jobs/info/688b2d60906ac06e1d1c9d16?utm_campaign=1058&utm_source=git)** | Kearney, NE | On Site | Jul 30 |
+| ↳ | **[Student Radiologic Tech](https://jobright.ai/jobs/info/688b240e09808a6103e55360?utm_campaign=1058&utm_source=git)** | Kearney, NE | On Site | Jul 30 |
 | **[ForTec Medical](http://www.fortecmedical.com)** | **[Help Desk Technician Intern Part-time](https://jobright.ai/jobs/info/688af2869f961617fe21fa84?utm_campaign=1058&utm_source=git)** | Hudson, OH | On Site | Jul 30 |
+| **[CHI](https://www.catholichealthinitiatives.org/)** | **[Student Radiologic Tech](https://jobright.ai/jobs/info/688b0deeaab47a17f670e1f2?utm_campaign=1058&utm_source=git)** | Kearney, NE | On Site | Jul 30 |
 | **[T. Rowe Price Singapore](https://www.troweprice.com/sg)** | **[2026 Client Services Internship](https://jobright.ai/jobs/info/688af0339f961617fe21f914?utm_campaign=1058&utm_source=git)** | Owings Mills, MD | Hybrid | Jul 30 |
 | ↳ | **[2026 Client Services Internship](https://jobright.ai/jobs/info/688af03109808a6103e52748?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | Hybrid | Jul 30 |
 | **[Gila River Resorts & Casinos](https://playatgila.com/)** | **[Self-Inspecting Room Attendant (Internal Only)](https://jobright.ai/jobs/info/688b118f9f961617fe22132c?utm_campaign=1058&utm_source=git)** | Chandler, AZ | On Site | Jul 30 |
@@ -84,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[United Supermarkets, LLC](http://www.unitedtexas.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/688af6a209808a6103e52e5f?utm_campaign=1058&utm_source=git)** | Lubbock, TX | On Site | Jul 30 |
 | **[WVU Hospitals — Ruby Memorial Hospital](http://www.wvumedicine.org)** | **[IR Tech Extern](https://jobright.ai/jobs/info/688ad48eaab47a17f670ba49?utm_campaign=1058&utm_source=git)** | Morgantown, WV | On Site | Jul 30 |
 | **[Thompson Engineering](http://thompsonengineering.com)** | **[Intern](https://jobright.ai/jobs/info/688ad46aaab47a17f670ba3a?utm_campaign=1058&utm_source=git)** | Prairieville, LA | On Site | Jul 30 |
+| **[MyMichigan Health](https://www.mymichigan.org)** | **[Student College Intern IT](https://jobright.ai/jobs/info/678185f95deba7936229b8a7?utm_campaign=1058&utm_source=git)** | Midland, MI | On Site | Jul 30 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Radiology Tech, Intern](https://jobright.ai/jobs/info/688ad3649f961617fe21e57d?utm_campaign=1058&utm_source=git)** | Orlando, Florida | On Site | Jul 30 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Server Assistant - J1 Intern](https://jobright.ai/jobs/info/688ad0839f961617fe21e4f0?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Jul 30 |
 | **[Mountain View Hospital, Payson, UT](http://www.mvhpayson.com)** | **[Surgical Tech Extern PRN](https://jobright.ai/jobs/info/688af65e09808a6103e52e35?utm_campaign=1058&utm_source=git)** | Payson, UT | On Site | Jul 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/688af311aab47a17f670ceb7?utm_campaign=1058&utm_source=git)** | Hendersonville, NC | On Site | Jul 30 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/688af86209808a6103e52f7c?utm_campaign=1058&utm_source=git)** | Jacksonville, NC | On Site | Jul 30 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/688af42e09808a6103e52cb9?utm_campaign=1058&utm_source=git)** | Venice, FL | On Site | Jul 30 |
-| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/688af71daab47a17f670d10c?utm_campaign=1058&utm_source=git)** | Hilton Head Island, SC | On Site | Jul 30 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Customer Help Desk Tech Inter](https://jobright.ai/jobs/info/688af4acaab47a17f670cf8f?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | Remote | Jul 30 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/688af8b709808a6103e52f9f?utm_campaign=1058&utm_source=git)** | Neptune City, NJ | On Site | Jul 30 |
-| **[Northeast Georgia Health System](http://www.nghs.com/)** | **[Radiologic Student Technologist PRN](https://jobright.ai/jobs/info/688af7759f961617fe21fd79?utm_campaign=1058&utm_source=git)** | Winder, GA | On Site | Jul 30 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/688af9e109808a6103e53015?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
