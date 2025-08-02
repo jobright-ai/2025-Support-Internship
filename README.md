@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Residential Services, Inc. (RSI)](http://www.rsi-nc.org)** | **[Paid Internship](https://jobright.ai/jobs/info/688e30066a4aac5783cd8a79?utm_campaign=1058&utm_source=git)** | Chapel Hill, NC | On Site | Aug 02 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Customer Stories, Communications, and Events](https://jobright.ai/jobs/info/6874f552ae2f413e4a5a2208?utm_campaign=1058&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 02 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68711f4a06ad7073463c3707?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Aug 02 |
 | **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/688e11ade5cead4afd45bacf?utm_campaign=1058&utm_source=git)** | Springfield, OR | On Site | Aug 02 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/688e0f57cdbd821a36640686?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Aug 02 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/688e0e616a4aac5783cd82ce?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Aug 02 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Pharmacist Intern - Credena Health](https://jobright.ai/jobs/info/687606c7ae2f413e4a5ac4dd?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Aug 02 |
 | **[ND Paper](https://us.ndpaper.com)** | **[IT Intern - Rumford](https://jobright.ai/jobs/info/688e005b6a4aac5783cd8039?utm_campaign=1058&utm_source=git)** | Rumford, ME | On Site | Aug 02 |
+| **[Flowers Hospital](https://www.flowershospital.com)** | **[Nurse Intern](https://jobright.ai/jobs/info/6871b201a5ae807a59d01353?utm_campaign=1058&utm_source=git)** | Dothan, AL | On Site | Aug 02 |
+| **[Providence Medical Center](http://www.providencekc.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/685607fda693913ab783dc68?utm_campaign=1058&utm_source=git)** | Kansas City, KS | On Site | Aug 02 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/688dc9bf6a4aac5783cd76a3?utm_campaign=1058&utm_source=git)** | Redwood City, CA | Hybrid | Aug 02 |
 | **[Apex Home Health & Hospice](http://apexhomehealth.com)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/688dc710e5cead4afd45aac0?utm_campaign=1058&utm_source=git)** | Deville, LA | On Site | Aug 02 |
 | **[CONSUMER DIRECTED SERVICES INC.](https://www.linkedin.com/company/61295339)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/688dc6dae5cead4afd45aaa1?utm_campaign=1058&utm_source=git)** | Colfax, LA | On Site | Aug 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Help Desk Intern or Co-op - Summer 2026](https://jobright.ai/jobs/info/688d590f1808534a89cc2bd7?utm_campaign=1058&utm_source=git)** | Parsippany, NJ | Hybrid | Aug 01 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Information Technology, Emerging Talent Intern](https://jobright.ai/jobs/info/688d8d28cdbd821a3663baa1?utm_campaign=1058&utm_source=git)** | Staten Island, NY | On Site | Aug 01 |
 | ↳ | **[Technology & Engineer Fellow, Client Support](https://jobright.ai/jobs/info/688d85e1e5cead4afd4565ac?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Aug 01 |
-| **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/688d579427f9022553c0adbf?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Aug 01 |
-| **[Exclusive Resorts](http://www.exclusiveresorts.com)** | **[Technical Support Intern](https://jobright.ai/jobs/info/688d56b227f9022553c0ad6c?utm_campaign=1058&utm_source=git)** | Denver, CO | Hybrid | Aug 01 |
-| **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Student Translator](https://jobright.ai/jobs/info/688d56051808534a89cc2aa3?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Aug 01 |
-| **[Southeast Hospital](https://www.sehealth.org/locations/southeast-hospital)** | **[Radiology Intern I (Non-Exempt) - PT, Evenings, Weekends](https://jobright.ai/jobs/info/688d521527f9022553c0abec?utm_campaign=1058&utm_source=git)** | Cape Girardeau, MO | On Site | Aug 01 |
-| **[SSM Health](https://www.ssmhealth.com/)** | **[Sonography Student Intern](https://jobright.ai/jobs/info/688d514f27f9022553c0ab5b?utm_campaign=1058&utm_source=git)** | MO-SSM Health St. Joseph Hospital - St. Charles | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
