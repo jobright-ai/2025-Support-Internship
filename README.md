@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/688e11ade5cead4afd45bacf?utm_campaign=1058&utm_source=git)** | Springfield, OR | On Site | Aug 02 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/688e0f57cdbd821a36640686?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Aug 02 |
+| **[Providence Health & Services](https://www.providence.org/)** | **[Pharmacist Intern - Credena Health](https://jobright.ai/jobs/info/687606c7ae2f413e4a5ac4dd?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Aug 02 |
+| **[ND Paper](https://us.ndpaper.com)** | **[IT Intern - Rumford](https://jobright.ai/jobs/info/688e005b6a4aac5783cd8039?utm_campaign=1058&utm_source=git)** | Rumford, ME | On Site | Aug 02 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/688dc9bf6a4aac5783cd76a3?utm_campaign=1058&utm_source=git)** | Redwood City, CA | Hybrid | Aug 02 |
 | **[Apex Home Health & Hospice](http://apexhomehealth.com)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/688dc710e5cead4afd45aac0?utm_campaign=1058&utm_source=git)** | Deville, LA | On Site | Aug 02 |
 | **[CONSUMER DIRECTED SERVICES INC.](https://www.linkedin.com/company/61295339)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/688dc6dae5cead4afd45aaa1?utm_campaign=1058&utm_source=git)** | Colfax, LA | On Site | Aug 02 |
@@ -136,11 +140,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern - Contingent - Henry Ford Warren](https://jobright.ai/jobs/info/688d644c27f9022553c0b245?utm_campaign=1058&utm_source=git)** | Warren, Michigan | On Site | Aug 01 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Radiology Student intern](https://jobright.ai/jobs/info/688d644727f9022553c0b236?utm_campaign=1058&utm_source=git)** | MO-SSM Health St. Joseph Hospital - Lake Saint Louis | On Site | Aug 01 |
 | **[ADMA Biologics, Inc.](https://www.admabiologics.com/)** | **[Intern, Medical Affairs](https://jobright.ai/jobs/info/688d80506a4aac5783cd2896?utm_campaign=1058&utm_source=git)** | Boca Raton, FL | On Site | Aug 01 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/688d628c27f9022553c0b07f?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Aug 01 |
-| ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/688d619127f9022553c0b039?utm_campaign=1058&utm_source=git)** | Issaquah, WA | On Site | Aug 01 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/688d619127f9022553c0b039?utm_campaign=1058&utm_source=git)** | Issaquah, WA | On Site | Aug 01 |
 | ↳ | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/688d61321808534a89cc2d79?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Aug 01 |
 | **[Rescue Mission Alliance of Syracuse, NY](https://rescuemissionalliance.org/)** | **[Summer Internship - Data Entry (Unpaid)](https://jobright.ai/jobs/info/688d607b3a30793eb964a799?utm_campaign=1058&utm_source=git)** | Syracuse, NY | On Site | Aug 01 |
 | **[Idaho Housing and Finance Association](https://idahohousing.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/688d600d27f9022553c0afc2?utm_campaign=1058&utm_source=git)** | Boise, ID | On Site | Aug 01 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/688d5ff53a30793eb964a769?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Aug 01 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Customer Feedback Analyst – Bus Location Information, Emerging Talent Intern](https://jobright.ai/jobs/info/688d808a6a4aac5783cd28b0?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/688d5f7d27f9022553c0af9a?utm_campaign=1058&utm_source=git)** | Littleton, CO | On Site | Aug 01 |
 | **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Athletic Equipment Room Aid (Student Position)](https://jobright.ai/jobs/info/688d5be927f9022553c0aeed?utm_campaign=1058&utm_source=git)** | Big Rapids, MI | On Site | Aug 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City Colleges of Chicago](http://www.ccc.edu/Pages/default.aspx)** | **[Student Translator](https://jobright.ai/jobs/info/688d56051808534a89cc2aa3?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Aug 01 |
 | **[Southeast Hospital](https://www.sehealth.org/locations/southeast-hospital)** | **[Radiology Intern I (Non-Exempt) - PT, Evenings, Weekends](https://jobright.ai/jobs/info/688d521527f9022553c0abec?utm_campaign=1058&utm_source=git)** | Cape Girardeau, MO | On Site | Aug 01 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Sonography Student Intern](https://jobright.ai/jobs/info/688d514f27f9022553c0ab5b?utm_campaign=1058&utm_source=git)** | MO-SSM Health St. Joseph Hospital - St. Charles | On Site | Aug 01 |
-| ↳ | **[Sonography Student Intern](https://jobright.ai/jobs/info/688d512d3a30793eb964a293?utm_campaign=1058&utm_source=git)** | MO-SSM Health St. Joseph Hospital - Lake Saint Louis | On Site | Aug 01 |
-| **[Providence](https://www.psjhealth.org/)** | **[Radiology Technologist Student](https://jobright.ai/jobs/info/688d4f9427f9022553c0aa67?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Aug 01 |
-| **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/688d883ee5cead4afd4568ef?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Aug 01 |
-| ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/688d89f1cdbd821a3663b602?utm_campaign=1058&utm_source=git)** | Issaquah, WA | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
