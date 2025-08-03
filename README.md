@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida](http://www.usf.edu)** | **[IAE Research Support Assistant (IT/Systems Admin) - Fall 2025](https://jobright.ai/jobs/info/687ed5bf2097a271a8998336?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Aug 02 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/688ea0a7cdbd821a36641d04?utm_campaign=1058&utm_source=git)** | Moundsville, WV | On Site | Aug 02 |
 | **[Balls Foods ](https://www.ballsfoods.com)** | **[Pharmacy Technician/Intern - Price Chopper 11](https://jobright.ai/jobs/info/688e9ff26a4aac5783cd9924?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Aug 02 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/688e9da4e5cead4afd45cf5c?utm_campaign=1058&utm_source=git)** | Moundsville, WV | On Site | Aug 02 |
@@ -64,12 +65,12 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/688e55656a4aac5783cd9058?utm_campaign=1058&utm_source=git)** | Dickson, TN | On Site | Aug 02 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/688e55206a4aac5783cd902f?utm_campaign=1058&utm_source=git)** | Dickson, TN | On Site | Aug 02 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/688e68f0cdbd821a3664187d?utm_campaign=1058&utm_source=git)** | Webster, NY | On Site | Aug 02 |
-| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/688e67efe5cead4afd45cb1b?utm_campaign=1058&utm_source=git)** | Alameda, CA | On Site | Aug 02 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/688e685fe5cead4afd45cb3f?utm_campaign=1058&utm_source=git)** | Carmel, IN | On Site | Aug 02 |
+| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/688e67efe5cead4afd45cb1b?utm_campaign=1058&utm_source=git)** | Alameda, CA | On Site | Aug 02 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/688e687de5cead4afd45cb46?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Aug 02 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/688e68c7e5cead4afd45cb5e?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Aug 02 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/688e6985cdbd821a366418a9?utm_campaign=1058&utm_source=git)** | Alameda, CA | On Site | Aug 02 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/688e69386a4aac5783cd9500?utm_campaign=1058&utm_source=git)** | Stillwater, OK | On Site | Aug 02 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/688e6985cdbd821a366418a9?utm_campaign=1058&utm_source=git)** | Alameda, CA | On Site | Aug 02 |
 | **[Residential Services, Inc. (RSI)](http://www.rsi-nc.org)** | **[Paid Internship](https://jobright.ai/jobs/info/688e30066a4aac5783cd8a79?utm_campaign=1058&utm_source=git)** | Chapel Hill, NC | On Site | Aug 02 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Customer Stories, Communications, and Events](https://jobright.ai/jobs/info/6874f552ae2f413e4a5a2208?utm_campaign=1058&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 02 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68711f4a06ad7073463c3707?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Aug 02 |
@@ -118,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Personal Touch Home Health Care Services Inc.](https://www.pthhc.com/)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/688dbbe8cdbd821a3663e903?utm_campaign=1058&utm_source=git)** | Benton, LA | On Site | Aug 02 |
 | **[Health Jeanie](http://jeanie.health)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/688dbb26e5cead4afd459a97?utm_campaign=1058&utm_source=git)** | Dry Prong, LA | On Site | Aug 02 |
 | **[Cherry Hill Free Clinic](https://www.cherryhillfreeclinic.org/)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/688dba3f6a4aac5783cd64c5?utm_campaign=1058&utm_source=git)** | Blanchard, LA | On Site | Aug 02 |
+| **[Marshall Medical Centers](https://mmcenters.com/)** | **[Imaging Tech Student](https://jobright.ai/jobs/info/688eb9dfcdbd821a36641f1a?utm_campaign=1058&utm_source=git)** | Boaz, AL | On Site | Aug 02 |
 | **[DayToDay Health](https://www.daytoday.health)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/688db9d26a4aac5783cd6485?utm_campaign=1058&utm_source=git)** | Keachi, LA | On Site | Aug 02 |
 | **[Black Women's Mental Health Institute](www.bwmhi.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/688db9d0cdbd821a3663e763?utm_campaign=1058&utm_source=git)** | Deville, LA | On Site | Aug 02 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/688db9a06a4aac5783cd6467?utm_campaign=1058&utm_source=git)** | San Mateo, CA | Hybrid | Aug 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/688d798ccdbd821a3663a624?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Aug 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/688d7923e5cead4afd455ae5?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Aug 01 |
 | **[Toledo Walleye](http://www.toledowalleye.com/)** | **[Box Office & Fanwear Internship](https://jobright.ai/jobs/info/688d7765e5cead4afd4559f3?utm_campaign=1058&utm_source=git)** | Toledo, OH | On Site | Aug 01 |
-| **[Metropolitan Transportation Authority](http://mta.info)** | **[Technology & Engineering Fellow , IT Service Desk](https://jobright.ai/jobs/info/688d77406a4aac5783cd22bc?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Aug 01 |
-| **[SSM Health](https://www.ssmhealth.com/)** | **[Pharmacy Intern PRN / Part Time](https://jobright.ai/jobs/info/688d95686a4aac5783cd4344?utm_campaign=1058&utm_source=git)** | Greater St. Louis | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
