@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/688ea0a7cdbd821a36641d04?utm_campaign=1058&utm_source=git)** | Moundsville, WV | On Site | Aug 02 |
+| **[Balls Foods ](https://www.ballsfoods.com)** | **[Pharmacy Technician/Intern - Price Chopper 11](https://jobright.ai/jobs/info/688e9ff26a4aac5783cd9924?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Aug 02 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/688e9da4e5cead4afd45cf5c?utm_campaign=1058&utm_source=git)** | Moundsville, WV | On Site | Aug 02 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Generalist - Student Success - PAC - req12853 - T](https://jobright.ai/jobs/info/688e7bc56a4aac5783cd96d7?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Aug 02 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/688e55656a4aac5783cd9058?utm_campaign=1058&utm_source=git)** | Dickson, TN | On Site | Aug 02 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/688e55206a4aac5783cd902f?utm_campaign=1058&utm_source=git)** | Dickson, TN | On Site | Aug 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Toledo Walleye](http://www.toledowalleye.com/)** | **[Box Office & Fanwear Internship](https://jobright.ai/jobs/info/688d7765e5cead4afd4559f3?utm_campaign=1058&utm_source=git)** | Toledo, OH | On Site | Aug 01 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Technology & Engineering Fellow , IT Service Desk](https://jobright.ai/jobs/info/688d77406a4aac5783cd22bc?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Pharmacy Intern PRN / Part Time](https://jobright.ai/jobs/info/688d95686a4aac5783cd4344?utm_campaign=1058&utm_source=git)** | Greater St. Louis | On Site | Aug 01 |
-| ↳ | **[Sonography Student Intern](https://jobright.ai/jobs/info/688da8bacdbd821a3663d843?utm_campaign=1058&utm_source=git)** | Lake St Louis, MO | On Site | Aug 01 |
-| ↳ | **[Radiology Student Intern](https://jobright.ai/jobs/info/688d93bee5cead4afd45780e?utm_campaign=1058&utm_source=git)** | Greater St. Louis | On Site | Aug 01 |
-| **[Centella](http://www.med-lab.com/)** | **[Co-Op Customer Service Engineer](https://jobright.ai/jobs/info/688d706c27f9022553c0b72c?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
