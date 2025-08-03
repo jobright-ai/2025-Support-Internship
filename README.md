@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mosaic Community Health](https://mosaicmedical.org)** | **[Student/Intern](https://jobright.ai/jobs/info/688f494acdbd821a36645628?utm_campaign=1058&utm_source=git)** | Redmond, OR | On Site | Aug 03 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[PHARMACIST INTERN](https://jobright.ai/jobs/info/688f1005cdbd821a36644f91?utm_campaign=1058&utm_source=git)** | Happy Valley, OR | On Site | Aug 03 |
 | ↳ | **[PHARMACY INTERN](https://jobright.ai/jobs/info/688f0ff56a4aac5783cdcbea?utm_campaign=1058&utm_source=git)** | Richland, WA | On Site | Aug 03 |
 | ↳ | **[PHARMACIST INTERN](https://jobright.ai/jobs/info/688f0ff4cdbd821a36644f73?utm_campaign=1058&utm_source=git)** | Boise, ID | On Site | Aug 03 |
 | **[Cantina Labs](https://www.cantina.com/)** | **[Creator Operations Intern – Botfluencer Support](https://jobright.ai/jobs/info/68829bc3b54cac0f1e731440?utm_campaign=1058&utm_source=git)** | United States | Remote | Aug 02 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/688edb586a4aac5783cda59b?utm_campaign=1058&utm_source=git)** | Cranston, RI | On Site | Aug 02 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/688ed9bccdbd821a36642913?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Aug 02 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/688ed988e5cead4afd45db9d?utm_campaign=1058&utm_source=git)** | Rocky Hill, CT | On Site | Aug 02 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/688ed95ce5cead4afd45db91?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Aug 02 |
 | **[New Season](https://newseason.com)** | **[Intern](https://jobright.ai/jobs/info/688ec75e6a4aac5783cd9cb0?utm_campaign=1058&utm_source=git)** | Burnsville, MN | On Site | Aug 02 |
 | **[MyMichigan Health](https://www.mymichigan.org)** | **[Student College Intern IT](https://jobright.ai/jobs/info/678185f95deba7936229b8a7?utm_campaign=1058&utm_source=git)** | Midland, MI | On Site | Aug 02 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/688ea0a7cdbd821a36641d04?utm_campaign=1058&utm_source=git)** | Moundsville, WV | On Site | Aug 02 |
@@ -74,12 +75,12 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/688e55656a4aac5783cd9058?utm_campaign=1058&utm_source=git)** | Dickson, TN | On Site | Aug 02 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/688e55206a4aac5783cd902f?utm_campaign=1058&utm_source=git)** | Dickson, TN | On Site | Aug 02 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/688e68f0cdbd821a3664187d?utm_campaign=1058&utm_source=git)** | Webster, NY | On Site | Aug 02 |
-| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/688e67efe5cead4afd45cb1b?utm_campaign=1058&utm_source=git)** | Alameda, CA | On Site | Aug 02 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/688e685fe5cead4afd45cb3f?utm_campaign=1058&utm_source=git)** | Carmel, IN | On Site | Aug 02 |
+| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/688e67efe5cead4afd45cb1b?utm_campaign=1058&utm_source=git)** | Alameda, CA | On Site | Aug 02 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/688e687de5cead4afd45cb46?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Aug 02 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/688e68c7e5cead4afd45cb5e?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Aug 02 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/688e6985cdbd821a366418a9?utm_campaign=1058&utm_source=git)** | Alameda, CA | On Site | Aug 02 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/688e69386a4aac5783cd9500?utm_campaign=1058&utm_source=git)** | Stillwater, OK | On Site | Aug 02 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/688e6985cdbd821a366418a9?utm_campaign=1058&utm_source=git)** | Alameda, CA | On Site | Aug 02 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/688ed47c6a4aac5783cda131?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Aug 02 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Surgical Care Unit](https://jobright.ai/jobs/info/688efc896a4aac5783cdbccf?utm_campaign=1058&utm_source=git)** | Rutland, VT | On Site | Aug 02 |
 | **[Residential Services, Inc. (RSI)](http://www.rsi-nc.org)** | **[Paid Internship](https://jobright.ai/jobs/info/688e30066a4aac5783cd8a79?utm_campaign=1058&utm_source=git)** | Chapel Hill, NC | On Site | Aug 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern-MV](https://jobright.ai/jobs/info/686ff5e7a5ae807a59cf49b6?utm_campaign=1058&utm_source=git)** | Moreno Valley, CA | On Site | Aug 01 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Operations Support, Emerging Talent Intern](https://jobright.ai/jobs/info/688ef636cdbd821a36643e30?utm_campaign=1058&utm_source=git)** | Staten Island, NY | On Site | Aug 01 |
 | **[Meijer](https://www.meijer.com/)** | **[Store Detective Intern](https://jobright.ai/jobs/info/688d97016a4aac5783cd4515?utm_campaign=1058&utm_source=git)** | Richmond Heights, OH | On Site | Aug 01 |
-| **[UMass Memorial Health](https://www.ummhealth.org)** | **[Pharmacy Technician Student Intern, Per Diem, Marlborough Hospital](https://jobright.ai/jobs/info/688d95bd6a4aac5783cd43bf?utm_campaign=1058&utm_source=git)** | Marlborough, MA | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
