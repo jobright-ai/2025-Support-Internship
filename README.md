@@ -64,6 +64,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Service Technician Intern - Ellsworth](https://jobright.ai/jobs/info/688fa081cdbd821a36645d16?utm_campaign=1058&utm_source=git)** | Ellsworth, KS | On Site | Aug 03 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/688fa064e5cead4afd460fc8?utm_campaign=1058&utm_source=git)** | Greenwood, AR | On Site | Aug 03 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/688f9900cdbd821a36645cb3?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | Aug 03 |
+| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/688f9603e5cead4afd460f64?utm_campaign=1058&utm_source=git)** | Alma, AR | On Site | Aug 03 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/688f95d26a4aac5783cdd816?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | Aug 03 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/688f95bf6a4aac5783cdd810?utm_campaign=1058&utm_source=git)** | Sapulpa, OK | On Site | Aug 03 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/688f95b9e5cead4afd460f4c?utm_campaign=1058&utm_source=git)** | Bartlesville, OK | On Site | Aug 03 |
@@ -87,10 +88,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PHARMACIST INTERN](https://jobright.ai/jobs/info/688f0ff4cdbd821a36644f73?utm_campaign=1058&utm_source=git)** | Boise, ID | On Site | Aug 03 |
 | **[Cantina Labs](https://www.cantina.com/)** | **[Creator Operations Intern – Botfluencer Support](https://jobright.ai/jobs/info/68829bc3b54cac0f1e731440?utm_campaign=1058&utm_source=git)** | United States | Remote | Aug 02 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/688edb586a4aac5783cda59b?utm_campaign=1058&utm_source=git)** | Cranston, RI | On Site | Aug 02 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/688ed9bccdbd821a36642913?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Aug 02 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/688ed988e5cead4afd45db9d?utm_campaign=1058&utm_source=git)** | Rocky Hill, CT | On Site | Aug 02 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/688ed95ce5cead4afd45db91?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Aug 02 |
 | **[New Season](https://newseason.com)** | **[Intern](https://jobright.ai/jobs/info/688ec75e6a4aac5783cd9cb0?utm_campaign=1058&utm_source=git)** | Burnsville, MN | On Site | Aug 02 |
 | **[MyMichigan Health](https://www.mymichigan.org)** | **[Student College Intern IT](https://jobright.ai/jobs/info/678185f95deba7936229b8a7?utm_campaign=1058&utm_source=git)** | Midland, MI | On Site | Aug 02 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/6874b1f2ae2f413e4a59f3ce?utm_campaign=1058&utm_source=git)** | Tucson, AZ | Hybrid | Aug 02 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/688ea0a7cdbd821a36641d04?utm_campaign=1058&utm_source=git)** | Moundsville, WV | On Site | Aug 02 |
 | **[Balls Foods ](https://www.ballsfoods.com)** | **[Pharmacy Technician/Intern - Price Chopper 11](https://jobright.ai/jobs/info/688e9ff26a4aac5783cd9924?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Aug 02 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/688e9da4e5cead4afd45cf5c?utm_campaign=1058&utm_source=git)** | Moundsville, WV | On Site | Aug 02 |
@@ -109,14 +111,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/688e69386a4aac5783cd9500?utm_campaign=1058&utm_source=git)** | Stillwater, OK | On Site | Aug 02 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/688ed47c6a4aac5783cda131?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Aug 02 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist  PT16](https://jobright.ai/jobs/info/68712366a5ae807a59cfe154?utm_campaign=1058&utm_source=git)** | Fontana, CA | On Site | Aug 02 |
-| **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Surgical Care Unit](https://jobright.ai/jobs/info/688efc896a4aac5783cdbccf?utm_campaign=1058&utm_source=git)** | Rutland, VT | On Site | Aug 02 |
 | **[Residential Services, Inc. (RSI)](http://www.rsi-nc.org)** | **[Paid Internship](https://jobright.ai/jobs/info/688e30066a4aac5783cd8a79?utm_campaign=1058&utm_source=git)** | Chapel Hill, NC | On Site | Aug 02 |
 | **[Year Up United](http://yearup.org)** | **[Customer Service Fundamentals Job Training Program](https://jobright.ai/jobs/info/687725ec299cbc74b87642a7?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Aug 02 |
 | **[LewisGale Regional Health System](http://lewisgale.com/)** | **[Surgical Technologist Extern PRN](https://jobright.ai/jobs/info/68773bccae2f413e4a5b8cd5?utm_campaign=1058&utm_source=git)** | Salem, VA | On Site | Aug 02 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Customer Stories, Communications, and Events](https://jobright.ai/jobs/info/6874f552ae2f413e4a5a2208?utm_campaign=1058&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 02 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68711f4a06ad7073463c3707?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Aug 02 |
 | **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/688e11ade5cead4afd45bacf?utm_campaign=1058&utm_source=git)** | Springfield, OR | On Site | Aug 02 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/688e0f57cdbd821a36640686?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Aug 02 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/688e0e616a4aac5783cd82ce?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Aug 02 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Pharmacist Intern - Credena Health](https://jobright.ai/jobs/info/687606c7ae2f413e4a5ac4dd?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Aug 02 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT16](https://jobright.ai/jobs/info/6874e7c1ae2f413e4a5a1993?utm_campaign=1058&utm_source=git)** | Ontario, CA | On Site | Aug 02 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - Days- ME Operating Room](https://jobright.ai/jobs/info/6873a10e4001e95011b182d9?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Aug 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AccessHealth](https://www.accesshealthwv.com)** | **[Nurse Intern UIW - Nursing Internship - PRN](https://jobright.ai/jobs/info/688dbee6cdbd821a3663eed7?utm_campaign=1058&utm_source=git)** | Kirby, TX | On Site | Aug 02 |
 | **[Mental Health Association of Rochester](https://www.annamarieresnikoffphd.com/)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/688dbeb6cdbd821a3663ee6a?utm_campaign=1058&utm_source=git)** | Gardner, LA | On Site | Aug 02 |
 | **[Atrinity Home Health](https://atrinityhomehealth.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/688dbe60cdbd821a3663edbf?utm_campaign=1058&utm_source=git)** | Alexandria, LA | On Site | Aug 02 |
-| **[MasVida Health Care Solutions](MasVidaHealth.com)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/688dbe05cdbd821a3663ed0e?utm_campaign=1058&utm_source=git)** | Colfax, LA | On Site | Aug 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
