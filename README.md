@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sectra](http://www.sectra.com)** | **[Technical Support Analyst (Part-time/Shelton, CT)](https://jobright.ai/jobs/info/6891bd5cf47efe21139589be?utm_campaign=1058&utm_source=git)** | Shelton, CT | On Site | Aug 05 |
 | **[ENGIE - International Supply & Energy Management](https://gems.engie.com)** | **[Intern, Customer Experience](https://jobright.ai/jobs/info/6891aef7f47efe2113958333?utm_campaign=1058&utm_source=git)** | Houston, TX | Hybrid | Aug 05 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6891a659f47efe2113957f08?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Aug 04 |
 | **[Inspire](https://inspirebrands.com)** | **[Client Relations Intern](https://jobright.ai/jobs/info/6891a19b4c7e851b90ad0f0f?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Aug 04 |
@@ -103,11 +104,11 @@ For a complete list, click the following sortable link below:
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Intern-University of Memphis Call Center (Fall 2025)](https://jobright.ai/jobs/info/68913b594c7e851b90acd1b4?utm_campaign=1058&utm_source=git)** | University of Memphis | On Site | Aug 04 |
 | **[Premier Health Partners](http://www.premierhealth.com)** | **[Patient Care Tech (PCT)  / Student PCT Float Pool](https://jobright.ai/jobs/info/6891348f4c7e851b90acce36?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Aug 04 |
 | **[Salvus TG now known as The Purple Guys, an Ntiva Company](https://salvustg.com/)** | **[Service Desk Intern](https://jobright.ai/jobs/info/68913260f47efe21139537ff?utm_campaign=1058&utm_source=git)** | Parkersburg, WV | On Site | Aug 04 |
+| **[Rapiscan Systems](http://www.rapiscansystems.com/)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/6891314b4c7e851b90accc83?utm_campaign=1058&utm_source=git)** | Torrance, CA | On Site | Aug 04 |
 | **[American Greetings](http://americangreetings.com)** | **[Intern - Student Worker](https://jobright.ai/jobs/info/68912cf8f47efe21139536f1?utm_campaign=1058&utm_source=git)** | Osceola, AR | On Site | Aug 04 |
 | **[Mercy Medical Center, Baltimore, MD](https://mdmercy.com)** | **[Physician Practice Intern](https://jobright.ai/jobs/info/68912bfdf47efe2113953663?utm_campaign=1058&utm_source=git)** | Ellicott City, MD | On Site | Aug 04 |
 | **[Ponce Bank](https://www.poncebank.com)** | **[Intern (Manhattan)](https://jobright.ai/jobs/info/6891961cf5ee707a15dc01be?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Aug 04 |
 | ↳ | **[Intern (Brooklyn)](https://jobright.ai/jobs/info/68918e004c7e851b90acfec0?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | On Site | Aug 04 |
-| **[Rapiscan Systems](http://www.rapiscansystems.com/)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/689129c7f5ee707a15dbca47?utm_campaign=1058&utm_source=git)** | Torrance, CA | On Site | Aug 04 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Intern- LeMoyne-Owen College Call Center(Fall 2025)](https://jobright.ai/jobs/info/689128bb4c7e851b90acc84e?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Aug 04 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Class Assistant (Grader)](https://jobright.ai/jobs/info/6891273af5ee707a15dbc860?utm_campaign=1058&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 04 |
 | ↳ | **[Computer Lab Assistant](https://jobright.ai/jobs/info/6891267df47efe2113953246?utm_campaign=1058&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 04 |
@@ -119,7 +120,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PHARMACY/PHARMCST-INTERN    (54)](https://jobright.ai/jobs/info/68911e53f5ee707a15dbc42e?utm_campaign=1058&utm_source=git)** | 800 NW 25th St, Topeka, KS, 66618, US | On Site | Aug 04 |
 | ↳ | **[PHARMACY/PHARMCST-INTERN   (37)](https://jobright.ai/jobs/info/68911e19f47efe2113952e64?utm_campaign=1058&utm_source=git)** | 6829 Sw 29Th St, Topeka, KS, 66614, US | On Site | Aug 04 |
 | ↳ | **[PHARMACY/PHARMCST-INTERN     (67)](https://jobright.ai/jobs/info/68911dedf5ee707a15dbc3de?utm_campaign=1058&utm_source=git)** | 2010 SE 29th St, Topeka, KS, 66605, US | On Site | Aug 04 |
-| **[Cadence](https://www.cadence.com)** | **[IT Internship (Techstop Support)](https://jobright.ai/jobs/info/68911b67f47efe2113952d04?utm_campaign=1058&utm_source=git)** | SAN JOSE | On Site | Aug 04 |
+| **[Cadence](https://www.cadence.com)** | **[IT Internship (Techstop Support)](https://jobright.ai/jobs/info/68911b60f5ee707a15dbc336?utm_campaign=1058&utm_source=git)** | SAN JOSE | On Site | Aug 04 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Information Technology Assistant (Level I) - ITS](https://jobright.ai/jobs/info/68911b57f5ee707a15dbc330?utm_campaign=1058&utm_source=git)** | Conway, SC | On Site | Aug 04 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Travel Paid Intern (6 to 12 months)](https://jobright.ai/jobs/info/68911a93f47efe2113952bb8?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 04 |
 | **[HeartShare Human Services of New York](https://www.heartshare.org/)** | **[Intern](https://jobright.ai/jobs/info/689117e0f5ee707a15dbc02f?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | On Site | Aug 04 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Surgical Intermediate Nursing Intern, PRN Swing](https://jobright.ai/jobs/info/68915088f47efe2113954435?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Aug 04 |
 | **[Shelter Insurance Companies](https://www.shelterinsurance.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/6890f14ef47efe21139517d6?utm_campaign=1058&utm_source=git)** | Columbia, MO - Corporate Office | On Site | Aug 04 |
 | **[OU Health](https://www.ouhealth.com)** | **[Radiology Student Intern PRN](https://jobright.ai/jobs/info/6890f064f5ee707a15dbaced?utm_campaign=1058&utm_source=git)** | Oklahoma City | On Site | Aug 04 |
-| **[Mission Health](https://missionhealth.org/)** | **[Student Radiology Tech PRN](https://jobright.ai/jobs/info/68746a9f5cebcd1dd51b9295?utm_campaign=1058&utm_source=git)** | Asheville, NC | On Site | Aug 04 |
 | **[Rutland Regional Medical Center](https://rrmccareers.hctsportals.com)** | **[RN New Graduate Internship Program - Surgical Care Unit](https://jobright.ai/jobs/info/6890e93af47efe211395147f?utm_campaign=1058&utm_source=git)** | Rutland, VT | On Site | Aug 04 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68910477f5ee707a15dbb45c?utm_campaign=1058&utm_source=git)** | Kingman, AZ | On Site | Aug 04 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Customer Solutions Internship - Summer 2026](https://jobright.ai/jobs/info/689102694c7e851b90acb261?utm_campaign=1058&utm_source=git)** | Lancaster, PA | On Site | Aug 04 |
 | ↳ | **[Customer Solutions Internship - Spring 2026](https://jobright.ai/jobs/info/689103bb4c7e851b90acb2fb?utm_campaign=1058&utm_source=git)** | Lancaster, PA | On Site | Aug 04 |
 | **[Frida](https://frida.com/)** | **[Ice Cream Taste Testers](https://jobright.ai/jobs/info/6890de78f47efe2113950fbf?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | On Site | Aug 04 |
 | **[International Beauty Institute](https://www.intlbeautyinstitute.com/)** | **[Assistant/Content](https://jobright.ai/jobs/info/6891a9e2f47efe21139580c3?utm_campaign=1058&utm_source=git)** | Burlington, VT | On Site | Aug 04 |
+| **[Mission Health](https://missionhealth.org/)** | **[Student Radiology Tech PRN](https://jobright.ai/jobs/info/68746ada5cebcd1dd51b92b1?utm_campaign=1058&utm_source=git)** | Asheville, NC | On Site | Aug 04 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Inpatient Pharmacy Intern](https://jobright.ai/jobs/info/6890d4e7f47efe2113950ba6?utm_campaign=1058&utm_source=git)** | Cambridge-MA | On Site | Aug 04 |
-| **[Saint Luke's Health System](https://www.saintlukeskc.org)** | **[Pulmonary Nursing Intern, PRN Swing](https://jobright.ai/jobs/info/6890d3cef5ee707a15db9ff8?utm_campaign=1058&utm_source=git)** | Saint Luke's Hospital   |   4401 Wornall Rd   |   Kansas City   |   MO | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
