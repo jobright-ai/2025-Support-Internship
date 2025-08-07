@@ -57,11 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Joliet Junior College](http://www.jjc.edu/)** | **[Student Employee, Math Department](https://jobright.ai/jobs/info/689476f78c6d6b4426771db4?utm_campaign=1058&utm_source=git)** | Joliet, IL | On Site | Aug 07 |
+| **[Advocate Health](https://www.advocatehealth.org/)** | **[Surgical Technologist Intern](https://jobright.ai/jobs/info/68946cf84ed2ea559ca4dc56?utm_campaign=1058&utm_source=git)** | Sturtevant, WI | On Site | Aug 07 |
+| **[Northern Kentucky University](http://www.nku.edu/)** | **[One Stop - Customer Service Student Assistant](https://jobright.ai/jobs/info/68946c7b73b3a600fe87f765?utm_campaign=1058&utm_source=git)** | Newport, KY | On Site | Aug 07 |
+| **[Kansas State University](http://www.k-state.edu/)** | **[Client Services Assistant](https://jobright.ai/jobs/info/68946c128c6d6b4426771b35?utm_campaign=1058&utm_source=git)** | Manhattan, KS | On Site | Aug 07 |
+| **[Meijer](https://www.meijer.com/)** | **[Pharmacy Intern Part Time WEEKENDS](https://jobright.ai/jobs/info/68946bb88c6d6b4426771b12?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Aug 07 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68945f8e4ed2ea559ca4d54f?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Aug 07 |
 | **[Swedish](http://www.swedish.org/)** | **[Pharmacist Intern - Credena Health Pharmacy](https://jobright.ai/jobs/info/689457464c7e851b90ae55cd?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Aug 07 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, CRAFTS SUPPORT](https://jobright.ai/jobs/info/68945635f47efe211396be6e?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Aug 07 |
 | **[UMass Memorial Health](https://www.ummhealth.org)** | **[Pharmacy Intern, Inpatient Pharmacy, Per Diem](https://jobright.ai/jobs/info/68945612f47efe211396be60?utm_campaign=1058&utm_source=git)** | Worcester, MA | On Site | Aug 07 |
 | **[Verkada](https://www.verkada.com)** | **[Technical Support Engineering Intern - Spring 2026](https://jobright.ai/jobs/info/6893c2bcf47efe2113966c95?utm_campaign=1058&utm_source=git)** | San Mateo, CA United States | On Site | Aug 06 |
 | **[Generac](https://www.generac.com/)** | **[Intern, Contract Support](https://jobright.ai/jobs/info/68944b56f47efe211396b6f6?utm_campaign=1058&utm_source=git)** | Pewaukee, WI | On Site | Aug 06 |
+| **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[Aide Trainee](https://jobright.ai/jobs/info/689466cf8c6d6b442677194d?utm_campaign=1058&utm_source=git)** | Allegheny County, PA | On Site | Aug 06 |
+| **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, OFFICE AND CLERICAL SUPPORT](https://jobright.ai/jobs/info/68945da78c6d6b4426771038?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Aug 06 |
+| ↳ | **[VETERAN INTERN, INFORMATION TECHNOLOGY SUPPORT](https://jobright.ai/jobs/info/689467708c6d6b44267719ac?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Aug 06 |
+| **[Year Up United](http://yearup.org)** | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/689462298c6d6b4426771493?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Aug 06 |
 | **[UMass Memorial Health](https://www.ummhealth.org)** | **[Pharmacy Intern, Inpatient Pharmacy, Per Diem](https://jobright.ai/jobs/info/68942d36f47efe211396a1be?utm_campaign=1058&utm_source=git)** | Worcester, MA University Campus | On Site | Aug 06 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/689416f8f47efe211396932b?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Aug 06 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/689416a44c7e851b90ae2a1a?utm_campaign=1058&utm_source=git)** | Warminster, PA | On Site | Aug 06 |
@@ -107,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6893e60bf47efe2113967b52?utm_campaign=1058&utm_source=git)** | Syracuse, UT | On Site | Aug 06 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6893e4d5f47efe2113967acf?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Aug 06 |
 | **[Fred Hutch](http://www.fredhutch.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6893e4aba9199876488e0da8?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Aug 06 |
-| **[Davenport University](http://www.davenport.edu/)** | **[(Student) Corporate Services Assistant](https://jobright.ai/jobs/info/6893ce9b4c7e851b90ae092c?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Aug 06 |
 | **[Cosm](https://www.cosm.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/6893c6b2f47efe2113966e4d?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 06 |
 | **[IEW Construction Group, Inc.](http://www.iewconstructiongroup.com)** | **[IT Internship/Co-op](https://jobright.ai/jobs/info/6893bef5a9199876488dfd98?utm_campaign=1058&utm_source=git)** | Trenton, NJ | On Site | Aug 06 |
 | **[Clausen Miller P.C.](http://clausen.com)** | **[IT Intern](https://jobright.ai/jobs/info/6893bd25f47efe2113966846?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Aug 06 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/689397454c7e851b90ade9ea?utm_campaign=1058&utm_source=git)** | Mount Juliet, TN | On Site | Aug 06 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/6893970e4c7e851b90ade9d4?utm_campaign=1058&utm_source=git)** | East Windsor, NJ | On Site | Aug 06 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/689395eef47efe21139652f0?utm_campaign=1058&utm_source=git)** | Pennington, NJ | On Site | Aug 06 |
-| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/689395eca9199876488de6f2?utm_campaign=1058&utm_source=git)** | Dripping Springs, TX | On Site | Aug 06 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/689395b7f47efe21139652d2?utm_campaign=1058&utm_source=git)** | Toms River, NJ | On Site | Aug 06 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/689395a3a9199876488de6d0?utm_campaign=1058&utm_source=git)** | Flemington, NJ | On Site | Aug 06 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68939533f47efe2113965299?utm_campaign=1058&utm_source=git)** | Atlantic City, NJ | On Site | Aug 06 |
-| **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Surgical Technologist Intern](https://jobright.ai/jobs/info/6893949ff47efe21139651fe?utm_campaign=1058&utm_source=git)** | Aurora Medical Center Mount Pleasant - 13250 Washington Ave | On Site | Aug 06 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6893936ca9199876488de5b6?utm_campaign=1058&utm_source=git)** | Freehold, NJ | On Site | Aug 06 |
-| **[Medtronic](https://www.medtronic.com)** | **[IT Intern Summer 2026](https://jobright.ai/jobs/info/6890c0f74c7e851b90ac94d6?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Aug 06 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/68939319f47efe2113965147?utm_campaign=1058&utm_source=git)** | Trenton, NJ | On Site | Aug 06 |
-| **[University of Central Oklahoma](http://www.uco.edu/)** | **[FWSP Library Assistant (Clerical) - Metadata & Cataloging](https://jobright.ai/jobs/info/68945596f47efe211396be0c?utm_campaign=1058&utm_source=git)** | Edmond, OK | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
