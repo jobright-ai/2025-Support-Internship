@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Continental](https://www.continental.com)** | **[Intern - IT Operations, Year-Round](https://jobright.ai/jobs/info/689695d91b9e81727f191bee?utm_campaign=1058&utm_source=git)** | Fort Mill, SC | On Site | Aug 08 |
+| **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Intern, IT Asset Management](https://jobright.ai/jobs/info/689690d573b3a600fe89033f?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Aug 08 |
+| **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern - UPMC Presbyterian IDS - Pharmacy Students Encouraged to Apply!](https://jobright.ai/jobs/info/6896908a73b3a600fe890316?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Aug 08 |
+| **[University of Utah Health](https://www.cs.utah.edu)** | **[Pharmacy Internship](https://jobright.ai/jobs/info/689690761b9e81727f19193e?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Aug 08 |
+| **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68968f1a1b9e81727f19189a?utm_campaign=1058&utm_source=git)** | Opelika, AL | On Site | Aug 08 |
+| ↳ | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/68968f171b9e81727f191898?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Aug 08 |
 | **[Allan Myers Inc.](http://www.allanmyers.com/)** | **[IT Generalist Internship 2025](https://jobright.ai/jobs/info/68968ca11b9e81727f19175a?utm_campaign=1058&utm_source=git)** | Hampton, VA | On Site | Aug 08 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Cardiovascular Sonographer Student Intern PT](https://jobright.ai/jobs/info/68968bce73b3a600fe890103?utm_campaign=1058&utm_source=git)** | Saint Agnes Medical Center - Fresno, California | On Site | Aug 08 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/689689be73b3a600fe89003e?utm_campaign=1058&utm_source=git)** | Savannah, GA | On Site | Aug 08 |
@@ -90,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Oceaneering](http://www.oceaneering.com/)** | **[Support Services Intern](https://jobright.ai/jobs/info/68964b8873b3a600fe88e1ac?utm_campaign=1058&utm_source=git)** | Hanover, MD | Hybrid | Aug 08 |
 | **[ENGIE - International Supply & Energy Management](https://gems.engie.com)** | **[Intern, IT/OT](https://jobright.ai/jobs/info/6896482f8c6d6b44267802e4?utm_campaign=1058&utm_source=git)** | Houston, TX | Hybrid | Aug 08 |
 | **[Parkview Health](http://www.parkview.com)** | **[Student Rad Tech Assistant](https://jobright.ai/jobs/info/689647cc8c6d6b44267802a8?utm_campaign=1058&utm_source=git)** | Greater Fort Wayne | On Site | Aug 08 |
-| **[Capital Region BOCES](https://www.capitalregionboces.org/)** | **[Student Administrative Systems Support Specialist](https://jobright.ai/jobs/info/68838948b54cac0f1e73827c?utm_campaign=1058&utm_source=git)** | Albany, NY | Hybrid | Aug 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6896386b8c6d6b442677fc32?utm_campaign=1058&utm_source=git)** | Bartlett, IL | On Site | Aug 08 |
 | **[Utah Tech University](https://utahtech.edu)** | **[Video Production Assistant](https://jobright.ai/jobs/info/689637ed8c6d6b442677fbf9?utm_campaign=1058&utm_source=git)** | St George, UT | On Site | Aug 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6896367a8c6d6b442677fa50?utm_campaign=1058&utm_source=git)** | Bartlett, IL | On Site | Aug 08 |
@@ -117,18 +122,11 @@ For a complete list, click the following sortable link below:
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[CALIBIR Student Intern](https://jobright.ai/jobs/info/68960f2f73b3a600fe88c63d?utm_campaign=1058&utm_source=git)** | Atrium Health Wake Forest Baptist - Medical Center Blvd, Winston Salem, NC | On Site | Aug 08 |
 | **[The Inn at Little Washington](http://theinnatlittlewashington.com)** | **[Intern/Extern](https://jobright.ai/jobs/info/68960f2e73b3a600fe88c63a?utm_campaign=1058&utm_source=git)** | Washington, VA | On Site | Aug 08 |
 | **[Saint Francis Healthcare System](https://www.sfmc.net/)** | **[Student Radiology Tech (Jackson)](https://jobright.ai/jobs/info/68960f188c6d6b442677ea73?utm_campaign=1058&utm_source=git)** | Jackson, MO | On Site | Aug 08 |
-| **[SAIC](http://www.saic.com)** | **[Logistical Intern](https://jobright.ai/jobs/info/687a35af2097a271a897dc14?utm_campaign=1058&utm_source=git)** | Boyers, PA | On Site | Aug 08 |
-| **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Research Assistant Graduate Student](https://jobright.ai/jobs/info/6885a6904174df41e0f97e00?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Aug 08 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Sonography Student Intern](https://jobright.ai/jobs/info/689606591b9e81727f18d832?utm_campaign=1058&utm_source=git)** | St Charles, MO | On Site | Aug 08 |
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Shared Platform Services), Ref# 9015](https://jobright.ai/jobs/info/6895fd628c6d6b442677e0e4?utm_campaign=1058&utm_source=git)** | Albany, NY | Hybrid | Aug 08 |
 | ↳ | **[Student Assistant Internship (Enterprise Network Services), Ref# 9040](https://jobright.ai/jobs/info/6895f91673b3a600fe88bb17?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Aug 08 |
 | ↳ | **[Student Assistant Internship (Shared Platform Services), Ref# 9015](https://jobright.ai/jobs/info/689610208c6d6b442677eb88?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Aug 08 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern (On-Call)](https://jobright.ai/jobs/info/6895f0eb73b3a600fe88b869?utm_campaign=1058&utm_source=git)** | Santa Rosa, CA | On Site | Aug 08 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/67b3fb019dd7453aedd491dc?utm_campaign=1058&utm_source=git)** | Greenville, NC | On Site | Aug 08 |
-| **[Albertsons Market](https://www.theunitedfamily.com/albertsons-market-careers/)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/67cd0ae17e0edf3f93cffa5b?utm_campaign=1058&utm_source=git)** | Ridgecrest, CA | Hybrid | Aug 08 |
-| **[Lutheran Health Network](http://www.lutheranhealth.net)** | **[Student Intern Neuro Spine Med Surg PRN](https://jobright.ai/jobs/info/68799469ed63844c9449c962?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Aug 08 |
-| **[MountainView Regional Medical Center](https://www.mountainviewregional.com/)** | **[Nurse Intern](https://jobright.ai/jobs/info/68796f6fa7fc8904e3962d80?utm_campaign=1058&utm_source=git)** | Las Cruces, NM | On Site | Aug 08 |
-| **[MathWorks](http://www.mathworks.com)** | **[Documentation Fall Intern - Graduate](https://jobright.ai/jobs/info/671a69ea75c42966c795f98e?utm_campaign=1058&utm_source=git)** | Natick, MA | Hybrid | Aug 08 |
 | **[Joliet Junior College](http://www.jjc.edu/)** | **[Student Employee, Registration & Records](https://jobright.ai/jobs/info/6895c4b28c6d6b442677d349?utm_campaign=1058&utm_source=git)** | Joliet, IL | On Site | Aug 08 |
 | **[PAR Electrical Contractors, LLC](https://www.parelectric.com/)** | **[Data Entry Administrator Intern](https://jobright.ai/jobs/info/6895c2188c6d6b442677d2f5?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Aug 08 |
 | **[Figure](https://www.figure.ai)** | **[IT Operations Intern (Fall 2025)New](https://jobright.ai/jobs/info/6895b99a4ed2ea559ca5922f?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Aug 08 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Radiology Technologist Intern (Casual) I AGH](https://jobright.ai/jobs/info/68955aa44ed2ea559ca55371?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Aug 07 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Document Specialist Intern](https://jobright.ai/jobs/info/689557288c6d6b44267790de?utm_campaign=1058&utm_source=git)** | Strongsville, OH | On Site | Aug 07 |
 | **[University of the Pacific](https://www.pacific.edu)** | **[Dispatcher Intern (Temporary)](https://jobright.ai/jobs/info/6895571c4ed2ea559ca551b4?utm_campaign=1058&utm_source=git)** | Stockton, CA | On Site | Aug 07 |
+| **[International Community Health Services](https://www.ichs.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/689556ce4ed2ea559ca5518b?utm_campaign=1058&utm_source=git)** | Bellevue, WA | On Site | Aug 07 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/689555ff8c6d6b4426779048?utm_campaign=1058&utm_source=git)** | Stockton, CA | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
