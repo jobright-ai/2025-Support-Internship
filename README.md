@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allan Myers Inc.](http://www.allanmyers.com/)** | **[IT Generalist Internship 2025](https://jobright.ai/jobs/info/68968ca11b9e81727f19175a?utm_campaign=1058&utm_source=git)** | Hampton, VA | On Site | Aug 08 |
+| **[Trinity Health](http://www.trinity-health.org)** | **[Cardiovascular Sonographer Student Intern PT](https://jobright.ai/jobs/info/68968bce73b3a600fe890103?utm_campaign=1058&utm_source=git)** | Saint Agnes Medical Center - Fresno, California | On Site | Aug 08 |
+| **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/689689be73b3a600fe89003e?utm_campaign=1058&utm_source=git)** | Savannah, GA | On Site | Aug 08 |
+| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Cook - J1 Intern/Trainee](https://jobright.ai/jobs/info/6896892273b3a600fe88fffc?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Aug 08 |
+| **[Picerne Group](http://picernegroup.com)** | **[Portfolio Support Intern](https://jobright.ai/jobs/info/6896771773b3a600fe88f9d3?utm_campaign=1058&utm_source=git)** | Newport Beach, CA | On Site | Aug 08 |
+| **[FusionTek](https://www.fusiontek.com)** | **[IT Support Internship](https://jobright.ai/jobs/info/6896749c8c6d6b4426781dac?utm_campaign=1058&utm_source=git)** | Federal Way, WA | On Site | Aug 08 |
 | **[Just For Teens](https://justforteens.biz/)** | **[Assistant](https://jobright.ai/jobs/info/689666988c6d6b4426781788?utm_campaign=1058&utm_source=git)** | Denver Metropolitan Area | On Site | Aug 08 |
 | **[HealthWell Foundation](https://www.healthwellfoundation.org/)** | **[IT Intern](https://jobright.ai/jobs/info/6896665f8c6d6b442678176a?utm_campaign=1058&utm_source=git)** | Frederick, MD | On Site | Aug 08 |
 | **[Park Nicollet Health Services](http://www.parknicollet.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/6896647a1b9e81727f190818?utm_campaign=1058&utm_source=git)** | Saint Louis Park, MN, United States | On Site | Aug 08 |
@@ -118,6 +124,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Assistant Internship (Enterprise Network Services), Ref# 9040](https://jobright.ai/jobs/info/6895f91673b3a600fe88bb17?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Aug 08 |
 | ↳ | **[Student Assistant Internship (Shared Platform Services), Ref# 9015](https://jobright.ai/jobs/info/689610208c6d6b442677eb88?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Aug 08 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern (On-Call)](https://jobright.ai/jobs/info/6895f0eb73b3a600fe88b869?utm_campaign=1058&utm_source=git)** | Santa Rosa, CA | On Site | Aug 08 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/67b3fb019dd7453aedd491dc?utm_campaign=1058&utm_source=git)** | Greenville, NC | On Site | Aug 08 |
 | **[Albertsons Market](https://www.theunitedfamily.com/albertsons-market-careers/)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/67cd0ae17e0edf3f93cffa5b?utm_campaign=1058&utm_source=git)** | Ridgecrest, CA | Hybrid | Aug 08 |
 | **[Lutheran Health Network](http://www.lutheranhealth.net)** | **[Student Intern Neuro Spine Med Surg PRN](https://jobright.ai/jobs/info/68799469ed63844c9449c962?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Aug 08 |
 | **[MountainView Regional Medical Center](https://www.mountainviewregional.com/)** | **[Nurse Intern](https://jobright.ai/jobs/info/68796f6fa7fc8904e3962d80?utm_campaign=1058&utm_source=git)** | Las Cruces, NM | On Site | Aug 08 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Radiology Technologist Intern (Casual) I AGH](https://jobright.ai/jobs/info/68955aa44ed2ea559ca55371?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Aug 07 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Document Specialist Intern](https://jobright.ai/jobs/info/689557288c6d6b44267790de?utm_campaign=1058&utm_source=git)** | Strongsville, OH | On Site | Aug 07 |
 | **[University of the Pacific](https://www.pacific.edu)** | **[Dispatcher Intern (Temporary)](https://jobright.ai/jobs/info/6895571c4ed2ea559ca551b4?utm_campaign=1058&utm_source=git)** | Stockton, CA | On Site | Aug 07 |
-| **[International Community Health Services](https://www.ichs.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/689556ce4ed2ea559ca5518b?utm_campaign=1058&utm_source=git)** | Bellevue, WA | On Site | Aug 07 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/689555ff8c6d6b4426779048?utm_campaign=1058&utm_source=git)** | Stockton, CA | On Site | Aug 07 |
-| **[Sacramento Kings](http://www.Kings.com)** | **[Technology Operations Intern](https://jobright.ai/jobs/info/689553bb8c6d6b4426778edb?utm_campaign=1058&utm_source=git)** | Sacramento, CA | Hybrid | Aug 07 |
-| **[CPS Energy](http://www.cpsenergy.com)** | **[Intern - Customer Resolutions & Solutions](https://jobright.ai/jobs/info/689550924ed2ea559ca54f2e?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Aug 07 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68956c888c6d6b4426779932?utm_campaign=1058&utm_source=git)** | Millburn, NJ | On Site | Aug 07 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68956c188c6d6b4426779912?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Aug 07 |
-| **[Sacramento Kings](http://www.Kings.com)** | **[Technology Operations Intern](https://jobright.ai/jobs/info/68954c9b73b3a600fe8867d7?utm_campaign=1058&utm_source=git)** | Sacramento Office | Hybrid | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
