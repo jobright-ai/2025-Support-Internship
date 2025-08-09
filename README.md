@@ -98,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Parkview Health](http://www.parkview.com)** | **[Student Rad Tech Assistant](https://jobright.ai/jobs/info/689647cc8c6d6b44267802a8?utm_campaign=1058&utm_source=git)** | Greater Fort Wayne | On Site | Aug 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6896386b8c6d6b442677fc32?utm_campaign=1058&utm_source=git)** | Bartlett, IL | On Site | Aug 08 |
 | **[Utah Tech University](https://utahtech.edu)** | **[Video Production Assistant](https://jobright.ai/jobs/info/689637ed8c6d6b442677fbf9?utm_campaign=1058&utm_source=git)** | St George, UT | On Site | Aug 08 |
+| **[Saint Francis Healthcare System](https://www.sfmc.net/)** | **[Student Radiology Tech (Jackson)](https://jobright.ai/jobs/info/6896584273b3a600fe88ea58?utm_campaign=1058&utm_source=git)** | Jackson, MO | On Site | Aug 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6896367a8c6d6b442677fa50?utm_campaign=1058&utm_source=git)** | Bartlett, IL | On Site | Aug 08 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/689636351b9e81727f18edc4?utm_campaign=1058&utm_source=git)** | Slidell, LA | On Site | Aug 08 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6896357f73b3a600fe88d622?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Aug 08 |
@@ -121,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Information Technology Internship](https://jobright.ai/jobs/info/68961ad473b3a600fe88cad7?utm_campaign=1058&utm_source=git)** | Scottsboro, AL | On Site | Aug 08 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[CALIBIR Student Intern](https://jobright.ai/jobs/info/68960f2f73b3a600fe88c63d?utm_campaign=1058&utm_source=git)** | Atrium Health Wake Forest Baptist - Medical Center Blvd, Winston Salem, NC | On Site | Aug 08 |
 | **[The Inn at Little Washington](http://theinnatlittlewashington.com)** | **[Intern/Extern](https://jobright.ai/jobs/info/68960f2e73b3a600fe88c63a?utm_campaign=1058&utm_source=git)** | Washington, VA | On Site | Aug 08 |
-| **[Saint Francis Healthcare System](https://www.sfmc.net/)** | **[Student Radiology Tech (Jackson)](https://jobright.ai/jobs/info/68960f188c6d6b442677ea73?utm_campaign=1058&utm_source=git)** | Jackson, MO | On Site | Aug 08 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Sonography Student Intern](https://jobright.ai/jobs/info/689606591b9e81727f18d832?utm_campaign=1058&utm_source=git)** | St Charles, MO | On Site | Aug 08 |
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Shared Platform Services), Ref# 9015](https://jobright.ai/jobs/info/6895fd628c6d6b442677e0e4?utm_campaign=1058&utm_source=git)** | Albany, NY | Hybrid | Aug 08 |
 | ↳ | **[Student Assistant Internship (Enterprise Network Services), Ref# 9040](https://jobright.ai/jobs/info/6895f91673b3a600fe88bb17?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Aug 08 |
