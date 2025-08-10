@@ -96,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Clinic Service Corporation](http://www.clinicservice.com/)** | **[Nurse Intern UIW - Nursing Internship - PRN](https://jobright.ai/jobs/info/6897e82573b3a600fe8a137d?utm_campaign=1058&utm_source=git)** | Grey Forest, TX | On Site | Aug 09 |
 | **[CARIN Alliance](https://www.carinalliance.com/)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6897d6548c6d6b4426792acf?utm_campaign=1058&utm_source=git)** | Gardner, LA | On Site | Aug 09 |
 | **[Health Care Administrators Association® (HCAA)](https://www.hcaa.org/)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6897e0421b9e81727f1a24c1?utm_campaign=1058&utm_source=git)** | Ball, LA | On Site | Aug 09 |
-| **[Health Jeanie](http://jeanie.health)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6897df981b9e81727f1a2403?utm_campaign=1058&utm_source=git)** | Center Point, LA | On Site | Aug 09 |
-| ↳ | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6897d61173b3a600fe8a000b?utm_campaign=1058&utm_source=git)** | Woodworth, LA | On Site | Aug 09 |
+| **[Health Jeanie](http://jeanie.health)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6897d61173b3a600fe8a000b?utm_campaign=1058&utm_source=git)** | Woodworth, LA | On Site | Aug 09 |
+| ↳ | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6897df981b9e81727f1a2403?utm_campaign=1058&utm_source=git)** | Center Point, LA | On Site | Aug 09 |
 | **[Hoskinson Health & Wellness Clinic](https://hoskinsonhealth.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6897d91c8c6d6b4426792db8?utm_campaign=1058&utm_source=git)** | Elmer, LA | On Site | Aug 09 |
 | **[Eden Health (Home Health, Hospice, Home Care)](https://www.eden-health.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6897db3d8c6d6b4426793006?utm_campaign=1058&utm_source=git)** | Forest Hill, LA | On Site | Aug 09 |
 | **[Preferred Home Health Care & Nursing Services](https://www.preferredcares.com)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6897ebcc73b3a600fe8a1823?utm_campaign=1058&utm_source=git)** | Alexandria, LA | On Site | Aug 09 |
@@ -112,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Bold Steps Behavioral Health](https://boldstepsbh.com/)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6897e34f1b9e81727f1a27f2?utm_campaign=1058&utm_source=git)** | Pollock, LA | On Site | Aug 09 |
 | **[Black Women's Mental Health Institute](www.bwmhi.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6897dd368c6d6b442679322c?utm_campaign=1058&utm_source=git)** | Ball, LA | On Site | Aug 09 |
 | **[AccessHealth](https://www.accesshealthwv.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6897dc2573b3a600fe8a06c6?utm_campaign=1058&utm_source=git)** | Waskom, TX | On Site | Aug 09 |
-| **[Black Women's Mental Health Institute](www.bwmhi.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6897db5173b3a600fe8a05be?utm_campaign=1058&utm_source=git)** | Glenmora, LA | On Site | Aug 09 |
-| ↳ | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6897dc388c6d6b442679311c?utm_campaign=1058&utm_source=git)** | Otis, LA | On Site | Aug 09 |
+| **[Black Women's Mental Health Institute](www.bwmhi.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6897dc388c6d6b442679311c?utm_campaign=1058&utm_source=git)** | Otis, LA | On Site | Aug 09 |
+| ↳ | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6897db5173b3a600fe8a05be?utm_campaign=1058&utm_source=git)** | Glenmora, LA | On Site | Aug 09 |
 | **[Fairview Hospital / Cleveland Clinic](http://fairviewhospital.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6897dceb1b9e81727f1a2136?utm_campaign=1058&utm_source=git)** | Woodworth, LA | On Site | Aug 09 |
 | **[Bold Steps Behavioral Health](https://boldstepsbh.com/)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6897de2973b3a600fe8a08db?utm_campaign=1058&utm_source=git)** | Pollock, LA | On Site | Aug 09 |
 | **[AccessHealth](https://www.accesshealthwv.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6897d50b1b9e81727f1a18cd?utm_campaign=1058&utm_source=git)** | Cheneyville, LA | On Site | Aug 09 |
@@ -137,8 +137,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6898044473b3a600fe8a1d76?utm_campaign=1058&utm_source=git)** | Barboursville, WV | On Site | Aug 09 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/689803728c6d6b4426794840?utm_campaign=1058&utm_source=git)** | Egg Harbor, NJ | On Site | Aug 09 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6898024b1b9e81727f1a364c?utm_campaign=1058&utm_source=git)** | Vancouver, WA | On Site | Aug 09 |
-| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6898059c1b9e81727f1a3786?utm_campaign=1058&utm_source=git)** | Northfield, NJ | On Site | Aug 09 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/689803101b9e81727f1a3696?utm_campaign=1058&utm_source=git)** | Maryville, TN | On Site | Aug 09 |
+| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6898059c1b9e81727f1a3786?utm_campaign=1058&utm_source=git)** | Northfield, NJ | On Site | Aug 09 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/6898029973b3a600fe8a1ccc?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Aug 09 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/689802b373b3a600fe8a1cda?utm_campaign=1058&utm_source=git)** | Bear, DE | On Site | Aug 09 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/689803f01b9e81727f1a36e7?utm_campaign=1058&utm_source=git)** | Jackson, TN | On Site | Aug 09 |
