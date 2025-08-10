@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern P3 Contingent Rotate](https://jobright.ai/jobs/info/6898eb33faa4e875e8250e1f?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Aug 10 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6898cece5574fd6bc0c7a9b0?utm_campaign=1058&utm_source=git)** | Brick, NJ | On Site | Aug 10 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6898cebf5574fd6bc0c7a99f?utm_campaign=1058&utm_source=git)** | Madera, CA | On Site | Aug 10 |
 | **[Stop & Shop](http://stopandshop.com)** | **[PT Pharmacy Intern - Pharmacy - 0893](https://jobright.ai/jobs/info/6898a7935574fd6bc0c7a578?utm_campaign=1058&utm_source=git)** | Morris Plains, NJ | On Site | Aug 10 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Northern Kentucky University](http://www.nku.edu/)** | **[Desk Assistant (Student Employment)](https://jobright.ai/jobs/info/6898685583d13d1f5b690318?utm_campaign=1058&utm_source=git)** | Newport, KY | On Site | Aug 10 |
 | **[Suburban Inns](http://suburbaninns.com)** | **[Night Auditor - Holiday Inn Express Grandville](https://jobright.ai/jobs/info/689864a5faa4e875e824fc6e?utm_campaign=1058&utm_source=git)** | Grandville, MI | On Site | Aug 10 |
 | **[VytlOne](http://www.maxor.com)** | **[Pharmacy Intern - Pittsburgh](https://jobright.ai/jobs/info/68439689740b84371217eacd?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 10 |
-| **[Louisville Metro Government](https://louisvilleky.gov/)** | **[Intern - Victim Services Unit](https://jobright.ai/jobs/info/689848e483d13d1f5b68cf94?utm_campaign=1058&utm_source=git)** | Louisville, KY | On Site | Aug 10 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/689864ccfaa4e875e824fcb2?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | Aug 09 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[PHARMACIST INTERN](https://jobright.ai/jobs/info/68985888faa4e875e824eba8?utm_campaign=1058&utm_source=git)** | Cornelius, OR | On Site | Aug 09 |
 | ↳ | **[PHARMACIST INTERN](https://jobright.ai/jobs/info/68989bdf83d13d1f5b69081a?utm_campaign=1058&utm_source=git)** | Kent, WA | On Site | Aug 09 |
@@ -134,15 +134,15 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6898030e73b3a600fe8a1cf9?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Aug 09 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6898018d8c6d6b4426794790?utm_campaign=1058&utm_source=git)** | Decatur, GA | On Site | Aug 09 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/689802db1b9e81727f1a3683?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Aug 09 |
-| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/689803e08c6d6b4426794873?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Aug 09 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6898055273b3a600fe8a1dcf?utm_campaign=1058&utm_source=git)** | Huntington, WV | On Site | Aug 09 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/689802478c6d6b44267947d3?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Aug 09 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/689803868c6d6b442679484a?utm_campaign=1058&utm_source=git)** | Atlantic City, NJ | On Site | Aug 09 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/689802ac1b9e81727f1a3671?utm_campaign=1058&utm_source=git)** | Colleyville, TX | On Site | Aug 09 |
+| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/689801ca73b3a600fe8a1c89?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Aug 09 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/689802d71b9e81727f1a3681?utm_campaign=1058&utm_source=git)** | Chubbuck, ID | On Site | Aug 09 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/689802851b9e81727f1a3661?utm_campaign=1058&utm_source=git)** | Oneida, TN | On Site | Aug 09 |
-| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6898044473b3a600fe8a1d76?utm_campaign=1058&utm_source=git)** | Barboursville, WV | On Site | Aug 09 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/689803728c6d6b4426794840?utm_campaign=1058&utm_source=git)** | Egg Harbor, NJ | On Site | Aug 09 |
+| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6898044473b3a600fe8a1d76?utm_campaign=1058&utm_source=git)** | Barboursville, WV | On Site | Aug 09 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6898024b1b9e81727f1a364c?utm_campaign=1058&utm_source=git)** | Vancouver, WA | On Site | Aug 09 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/689803101b9e81727f1a3696?utm_campaign=1058&utm_source=git)** | Maryville, TN | On Site | Aug 09 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6898059c1b9e81727f1a3786?utm_campaign=1058&utm_source=git)** | Northfield, NJ | On Site | Aug 09 |
