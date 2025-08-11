@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHI](https://www.catholichealthinitiatives.org/)** | **[Outpatient Pharmacy Intern](https://jobright.ai/jobs/info/6899724d5574fd6bc0c7c6ed?utm_campaign=1058&utm_source=git)** | Bismarck, ND | On Site | Aug 10 |
 | **[Sonesta International Hotels](http://www.sonesta.com)** | **[F&B Intern](https://jobright.ai/jobs/info/68993afc83d13d1f5b691780?utm_campaign=1058&utm_source=git)** | Hilton Head Island, SC | On Site | Aug 10 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68991fdc5574fd6bc0c7b03c?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Aug 10 |
 | ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68991fd55574fd6bc0c7b037?utm_campaign=1058&utm_source=git)** | Peoria, AZ | On Site | Aug 10 |
@@ -76,10 +77,11 @@ For a complete list, click the following sortable link below:
 | **[Northern Kentucky University](http://www.nku.edu/)** | **[Desk Assistant (Student Employment)](https://jobright.ai/jobs/info/6898685583d13d1f5b690318?utm_campaign=1058&utm_source=git)** | Newport, KY | On Site | Aug 10 |
 | **[Suburban Inns](http://suburbaninns.com)** | **[Night Auditor - Holiday Inn Express Grandville](https://jobright.ai/jobs/info/689864a5faa4e875e824fc6e?utm_campaign=1058&utm_source=git)** | Grandville, MI | On Site | Aug 10 |
 | **[VytlOne](http://www.maxor.com)** | **[Pharmacy Intern - Pittsburgh](https://jobright.ai/jobs/info/68439689740b84371217eacd?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 10 |
-| **[Louisville Metro Government](https://louisvilleky.gov/)** | **[Intern - Victim Services Unit](https://jobright.ai/jobs/info/689848e483d13d1f5b68cf94?utm_campaign=1058&utm_source=git)** | Louisville, KY | On Site | Aug 10 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/689864ccfaa4e875e824fcb2?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | Aug 09 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[PHARMACIST INTERN](https://jobright.ai/jobs/info/68985888faa4e875e824eba8?utm_campaign=1058&utm_source=git)** | Cornelius, OR | On Site | Aug 09 |
 | ↳ | **[PHARMACIST INTERN](https://jobright.ai/jobs/info/68989bdf83d13d1f5b69081a?utm_campaign=1058&utm_source=git)** | Kent, WA | On Site | Aug 09 |
+| **[Safeway](http://www.safeway.com)** | **[2026 Pharmacy Graduate Intern](https://jobright.ai/jobs/info/6899720e83d13d1f5b692c37?utm_campaign=1058&utm_source=git)** | Alliance, NE | Hybrid | Aug 09 |
+| **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Service Coordinator](https://jobright.ai/jobs/info/687baf14ed63844c944aabc3?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Aug 09 |
 | **[Meijer](https://www.meijer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/689814c51b9e81727f1a400b?utm_campaign=1058&utm_source=git)** | South Bend, IN | On Site | Aug 09 |
 | **[University of Arkansas System](https://www.uasys.edu)** | **[Extra Help/Trojan Works Procurement Administrative Assistant](https://jobright.ai/jobs/info/689966495574fd6bc0c7bef7?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Aug 09 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68996801faa4e875e825214e?utm_campaign=1058&utm_source=git)** | Charleston, WV | On Site | Aug 09 |
@@ -91,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[HCA Houston Healthcare](http://hcagulfcoast.com)** | **[Surgical Technologist Student Extern PRN](https://jobright.ai/jobs/info/6758fd9517082d9d21d44421?utm_campaign=1058&utm_source=git)** | Brownsville, TX | On Site | Aug 09 |
 | **[WellSpan Health](https://www.wellspan.org/)** | **[Internist](https://jobright.ai/jobs/info/67f07b5ec2d841b76fca23f2?utm_campaign=1058&utm_source=git)** | Dover, PA | On Site | Aug 09 |
 | **[Froedtert Health](http://www.froedtert.com)** | **[Inpatient Pharmacy Intern](https://jobright.ai/jobs/info/6897d4428c6d6b4426792889?utm_campaign=1058&utm_source=git)** | Menomonee Falls, WI | On Site | Aug 09 |
-| **[Brainwave Teen Psychology ](https://brainwaveteenpsych.wixsite.com)** | **[High School Intern](https://jobright.ai/jobs/info/6897e95b8c6d6b4426793f26?utm_campaign=1058&utm_source=git)** | United States | Remote | Aug 09 |
 | **[St. Mary's Medical Center](https://www.stmarysmc.com)** | **[Surgical Tech Extern Float Pool Per Diem Rotate](https://jobright.ai/jobs/info/6897e6a073b3a600fe8a11f3?utm_campaign=1058&utm_source=git)** | West Palm Beach, FL | On Site | Aug 09 |
 | **[Eden Health (Home Health, Hospice, Home Care)](https://www.eden-health.com)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/689831bd83d13d1f5b68b6fd?utm_campaign=1058&utm_source=git)** | Dry Prong, LA | On Site | Aug 09 |
 | **[CARIN Alliance](https://www.carinalliance.com/)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/68984702faa4e875e824cc9c?utm_campaign=1058&utm_source=git)** | Stonewall, LA | On Site | Aug 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/689803868c6d6b442679484a?utm_campaign=1058&utm_source=git)** | Atlantic City, NJ | On Site | Aug 09 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/689802ac1b9e81727f1a3671?utm_campaign=1058&utm_source=git)** | Colleyville, TX | On Site | Aug 09 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/689801ca73b3a600fe8a1c89?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Aug 09 |
-| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/689802d71b9e81727f1a3681?utm_campaign=1058&utm_source=git)** | Chubbuck, ID | On Site | Aug 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
