@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NBT Bank](http://www.nbtbank.com)** | **[IT Info - Internship](https://jobright.ai/jobs/info/6899d2ebfaa4e875e825422a?utm_campaign=1058&utm_source=git)** | Utica, New York | On Site | Aug 11 |
+| **[NBT Bank](http://www.nbtbank.com)** | **[IT Info - Internship](https://jobright.ai/jobs/info/6899f31783d13d1f5b69524d?utm_campaign=1058&utm_source=git)** | Norwich, NY | On Site | Aug 11 |
+| ↳ | **[IT Info - Internship](https://jobright.ai/jobs/info/6899d2ebfaa4e875e825422a?utm_campaign=1058&utm_source=git)** | Utica, New York | On Site | Aug 11 |
 | ↳ | **[IT Info - Internship](https://jobright.ai/jobs/info/6899d2e75574fd6bc0c7e0bd?utm_campaign=1058&utm_source=git)** | Syracuse, New York | On Site | Aug 11 |
 | ↳ | **[IT Info - Internship](https://jobright.ai/jobs/info/6899d2e083d13d1f5b69463d?utm_campaign=1058&utm_source=git)** | Binghamton, New York | On Site | Aug 11 |
 | ↳ | **[IT Info - Internship](https://jobright.ai/jobs/info/6899d2df5574fd6bc0c7e0b1?utm_campaign=1058&utm_source=git)** | Norwich, New York | On Site | Aug 11 |
@@ -88,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Northern Kentucky University](http://www.nku.edu/)** | **[Desk Assistant (Student Employment)](https://jobright.ai/jobs/info/6898685583d13d1f5b690318?utm_campaign=1058&utm_source=git)** | Newport, KY | On Site | Aug 10 |
 | **[Suburban Inns](http://suburbaninns.com)** | **[Night Auditor - Holiday Inn Express Grandville](https://jobright.ai/jobs/info/689864a5faa4e875e824fc6e?utm_campaign=1058&utm_source=git)** | Grandville, MI | On Site | Aug 10 |
 | **[VytlOne](http://www.maxor.com)** | **[Pharmacy Intern - Pittsburgh](https://jobright.ai/jobs/info/68439689740b84371217eacd?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 10 |
+| **[Louisville Metro Government](https://louisvilleky.gov/)** | **[Intern - Victim Services Unit](https://jobright.ai/jobs/info/689848e483d13d1f5b68cf94?utm_campaign=1058&utm_source=git)** | Louisville, KY | On Site | Aug 10 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/689864ccfaa4e875e824fcb2?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | Aug 09 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[PHARMACIST INTERN](https://jobright.ai/jobs/info/68985888faa4e875e824eba8?utm_campaign=1058&utm_source=git)** | Cornelius, OR | On Site | Aug 09 |
 | ↳ | **[PHARMACIST INTERN](https://jobright.ai/jobs/info/68989bdf83d13d1f5b69081a?utm_campaign=1058&utm_source=git)** | Kent, WA | On Site | Aug 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cherry Hill Free Clinic](https://www.cherryhillfreeclinic.org/)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6897d95e1b9e81727f1a1d78?utm_campaign=1058&utm_source=git)** | Hessmer, LA | On Site | Aug 09 |
 | **[Northshore Home Health Care](http://www.northshorehomehealth.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6897dc3b1b9e81727f1a208a?utm_campaign=1058&utm_source=git)** | Alexandria, LA | On Site | Aug 09 |
 | **[Health Wealth Safe, Inc.](https://www.healthwealthsafe.com/)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6897d64873b3a600fe8a0042?utm_campaign=1058&utm_source=git)** | Eastwood, LA | On Site | Aug 09 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6898030e73b3a600fe8a1cf9?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Aug 09 |
-| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/6898018d8c6d6b4426794790?utm_campaign=1058&utm_source=git)** | Decatur, GA | On Site | Aug 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
