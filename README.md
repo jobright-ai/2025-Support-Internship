@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Digitization Student Technical Assistant (open to work-study and non-work-study)](https://jobright.ai/jobs/info/689a0dbf5574fd6bc0c7f500?utm_campaign=1058&utm_source=git)** | UT MAIN CAMPUS | On Site | Aug 11 |
+| **[Progress Solutions ](https://www.psitcorp.com)** | **[Trainee](https://jobright.ai/jobs/info/689a091b83d13d1f5b69582c?utm_campaign=1058&utm_source=git)** | United States | Remote | Aug 11 |
+| **[Starr Insurance](https://starrcompanies.com/)** | **[2025 Interns ONLY -  Starr Associates Program - All Locations](https://jobright.ai/jobs/info/6899fe575574fd6bc0c7ef5f?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Aug 11 |
+| ↳ | **[2025 Interns ONLY -  Starr Associates Program - All Locations](https://jobright.ai/jobs/info/6899fe2dfaa4e875e82550a0?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Aug 11 |
+| ↳ | **[2025 Interns ONLY -  Starr Associates Program - All Locations](https://jobright.ai/jobs/info/6899fe0efaa4e875e8255079?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
+| **[NBT Bank](http://www.nbtbank.com)** | **[IT Info - Internship](https://jobright.ai/jobs/info/6899fdfb83d13d1f5b695494?utm_campaign=1058&utm_source=git)** | Syracuse, NY | On Site | Aug 11 |
+| ↳ | **[IT Info - Internship](https://jobright.ai/jobs/info/6899fd9883d13d1f5b695412?utm_campaign=1058&utm_source=git)** | Utica, NY | On Site | Aug 11 |
+| **[Starr Insurance](https://starrcompanies.com/)** | **[2025 Interns ONLY -  Starr Associates Program - All Locations](https://jobright.ai/jobs/info/6899fd885574fd6bc0c7ee43?utm_campaign=1058&utm_source=git)** | 399 Park Avenue-New York, NY | On Site | Aug 11 |
+| ↳ | **[2025 Interns ONLY -  Starr Associates Program - All Locations](https://jobright.ai/jobs/info/6899fd7e83d13d1f5b6953dc?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Aug 11 |
+| ↳ | **[2025 Interns ONLY -  Starr Associates Program - All Locations](https://jobright.ai/jobs/info/6899fd3a83d13d1f5b695373?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Aug 11 |
 | **[NBT Bank](http://www.nbtbank.com)** | **[IT Info - Internship](https://jobright.ai/jobs/info/6899f31783d13d1f5b69524d?utm_campaign=1058&utm_source=git)** | Norwich, NY | On Site | Aug 11 |
 | ↳ | **[IT Info - Internship](https://jobright.ai/jobs/info/6899d2ebfaa4e875e825422a?utm_campaign=1058&utm_source=git)** | Utica, New York | On Site | Aug 11 |
 | ↳ | **[IT Info - Internship](https://jobright.ai/jobs/info/6899d2e75574fd6bc0c7e0bd?utm_campaign=1058&utm_source=git)** | Syracuse, New York | On Site | Aug 11 |
@@ -86,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Legends](http://legends.net)** | **[Intern, Hospitality - Jiffy Lube Live Bristow, VA](https://jobright.ai/jobs/info/67c98cde6e360d9ff36ef409?utm_campaign=1058&utm_source=git)** | Bristow, VA | On Site | Aug 10 |
 | **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern P1 Contingent Days](https://jobright.ai/jobs/info/687bf54bed63844c944ac45c?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Aug 10 |
 | **[WebFX](https://www.webfx.com)** | **[IT Support Internship](https://jobright.ai/jobs/info/67eec162357dc4681d864247?utm_campaign=1058&utm_source=git)** | Harrisburg, PA | On Site | Aug 10 |
-| **[Northern Kentucky University](http://www.nku.edu/)** | **[Desk Assistant (Student Employment)](https://jobright.ai/jobs/info/6898685583d13d1f5b690318?utm_campaign=1058&utm_source=git)** | Newport, KY | On Site | Aug 10 |
 | **[Suburban Inns](http://suburbaninns.com)** | **[Night Auditor - Holiday Inn Express Grandville](https://jobright.ai/jobs/info/689864a5faa4e875e824fc6e?utm_campaign=1058&utm_source=git)** | Grandville, MI | On Site | Aug 10 |
 | **[VytlOne](http://www.maxor.com)** | **[Pharmacy Intern - Pittsburgh](https://jobright.ai/jobs/info/68439689740b84371217eacd?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 10 |
 | **[Louisville Metro Government](https://louisvilleky.gov/)** | **[Intern - Victim Services Unit](https://jobright.ai/jobs/info/689848e483d13d1f5b68cf94?utm_campaign=1058&utm_source=git)** | Louisville, KY | On Site | Aug 10 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bold Steps Behavioral Health](https://boldstepsbh.com/)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6897e63d73b3a600fe8a117f?utm_campaign=1058&utm_source=git)** | Boyce, LA | On Site | Aug 09 |
 | **[Health Here](http://www.healthhere.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6897dfbe8c6d6b442679350b?utm_campaign=1058&utm_source=git)** | Bentley, LA | On Site | Aug 09 |
 | **[Bold Steps Behavioral Health](https://boldstepsbh.com/)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6897e34f1b9e81727f1a27f2?utm_campaign=1058&utm_source=git)** | Pollock, LA | On Site | Aug 09 |
-| **[Black Women's Mental Health Institute](www.bwmhi.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6897dd368c6d6b442679322c?utm_campaign=1058&utm_source=git)** | Ball, LA | On Site | Aug 09 |
-| **[AccessHealth](https://www.accesshealthwv.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6897dc2573b3a600fe8a06c6?utm_campaign=1058&utm_source=git)** | Waskom, TX | On Site | Aug 09 |
-| **[Bold Steps Behavioral Health](https://boldstepsbh.com/)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6897de2973b3a600fe8a08db?utm_campaign=1058&utm_source=git)** | Pollock, LA | On Site | Aug 09 |
-| **[Health Here](http://www.healthhere.com)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6897d8b01b9e81727f1a1cc8?utm_campaign=1058&utm_source=git)** | Colfax, LA | On Site | Aug 09 |
-| **[Seacrest Behavioral Health](https://www.seacrestrecoverycenter.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6897e9021b9e81727f1a2dce?utm_campaign=1058&utm_source=git)** | Tioga, LA | On Site | Aug 09 |
-| **[Northshore Home Health Care](http://www.northshorehomehealth.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6897e92f1b9e81727f1a2df3?utm_campaign=1058&utm_source=git)** | Hineston, LA | On Site | Aug 09 |
-| **[Cherry Hill Free Clinic](https://www.cherryhillfreeclinic.org/)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6897d95e1b9e81727f1a1d78?utm_campaign=1058&utm_source=git)** | Hessmer, LA | On Site | Aug 09 |
-| **[Northshore Home Health Care](http://www.northshorehomehealth.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6897dc3b1b9e81727f1a208a?utm_campaign=1058&utm_source=git)** | Alexandria, LA | On Site | Aug 09 |
-| **[Health Wealth Safe, Inc.](https://www.healthwealthsafe.com/)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6897d64873b3a600fe8a0042?utm_campaign=1058&utm_source=git)** | Eastwood, LA | On Site | Aug 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
