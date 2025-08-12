@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/689adf7683d13d1f5b69d4f5?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Aug 11 |
 | **[Bonezzi Switzer Polito & Perry](https://www.bsphlaw.com/)** | **[IT Intern](https://jobright.ai/jobs/info/689ad38a5574fd6bc0c8672f?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Aug 11 |
 | **[Mat-Su Regional Medical Center](https://www.linkedin.com/company/54272864)** | **[PRN Student Pharmacy Intern](https://jobright.ai/jobs/info/689ab83a5574fd6bc0c855c2?utm_campaign=1058&utm_source=git)** | Palmer, AK | On Site | Aug 11 |
 | **[Meijer](https://www.meijer.com/)** | **[Intern, Pharmacy Undergrad - Year 4](https://jobright.ai/jobs/info/689ab3c783d13d1f5b69b76d?utm_campaign=1058&utm_source=git)** | West Lafayette, IN | On Site | Aug 11 |
@@ -86,12 +87,14 @@ For a complete list, click the following sortable link below:
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Client Services Intern (Summer 2026)](https://jobright.ai/jobs/info/689a8f7383d13d1f5b699d5f?utm_campaign=1058&utm_source=git)** | Tysons Corner, Virginia | On Site | Aug 11 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Pharmacy Intern - Contingent - Macomb](https://jobright.ai/jobs/info/689a8f2a83d13d1f5b699d06?utm_campaign=1058&utm_source=git)** | Clinton Township, Michigan | On Site | Aug 11 |
 | **[MyMichigan Health](https://www.mymichigan.org)** | **[Surgical Services College Intern](https://jobright.ai/jobs/info/689a8e2efaa4e875e8259969?utm_campaign=1058&utm_source=git)** | Saginaw, Michigan | On Site | Aug 11 |
+| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/689ad9a083d13d1f5b69d106?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Aug 11 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Pharmacy Intern - Contingent - Macomb](https://jobright.ai/jobs/info/689a8954faa4e875e82597fe?utm_campaign=1058&utm_source=git)** | Clinton, MI | On Site | Aug 11 |
 | **[City of Surprise](http://surpriseaz.gov)** | **[LIBRARY INTERN](https://jobright.ai/jobs/info/689a8866faa4e875e8259717?utm_campaign=1058&utm_source=git)** | Surprise, AZ | On Site | Aug 11 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2025 Intern - IT](https://jobright.ai/jobs/info/689a85e85574fd6bc0c83323?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Aug 11 |
 | **[Eisenhower Health](https://www.eisenhowerhealth.org)** | **[IT Apprentice](https://jobright.ai/jobs/info/689a82f4faa4e875e825948a?utm_campaign=1058&utm_source=git)** | Rancho Mirage, CA | On Site | Aug 11 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[KATY - IT Solutions, Internship](https://jobright.ai/jobs/info/689a82875574fd6bc0c83246?utm_campaign=1058&utm_source=git)** | Katy, TX | On Site | Aug 11 |
 | **[PeaceHealth](https://www.peacehealth.org)** | **[Radiology Technologist Student](https://jobright.ai/jobs/info/689a81a583d13d1f5b699614?utm_campaign=1058&utm_source=git)** | Vancouver, WA | On Site | Aug 11 |
+| **[Year Up United](http://yearup.org)** | **[Customer Service Fundamentals Career Training Opportunity](https://jobright.ai/jobs/info/689ae28a5574fd6bc0c871b0?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Aug 11 |
 | **[Winland Foods](https://winlandfoods.com)** | **[Customer Service and Fulfillment Intern](https://jobright.ai/jobs/info/689a806083d13d1f5b69953b?utm_campaign=1058&utm_source=git)** | WI Green Bay | Hybrid | Aug 11 |
 | ↳ | **[Customer Service and Fulfillment Intern](https://jobright.ai/jobs/info/689a7e4d83d13d1f5b69952a?utm_campaign=1058&utm_source=git)** | Green Bay, WI | Hybrid | Aug 11 |
 | **[Year Up United](http://yearup.org)** | **[Technical Support Job Training Opportunity](https://jobright.ai/jobs/info/689a7e41faa4e875e825925a?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Aug 11 |
@@ -112,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Cardiovascular Technologist Extern - FT - Days - MHW](https://jobright.ai/jobs/info/689a4b6cfaa4e875e82579d3?utm_campaign=1058&utm_source=git)** | Pembroke Pines, FL | On Site | Aug 11 |
 | **[Parish Tractor](https://www.parishtractor.com)** | **[IT Intern](https://jobright.ai/jobs/info/689abe975574fd6bc0c859ac?utm_campaign=1058&utm_source=git)** | Hattiesburg, MS | On Site | Aug 11 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Information Technology, Emerging Talent Intern](https://jobright.ai/jobs/info/689ac39683d13d1f5b69c147?utm_campaign=1058&utm_source=git)** | Staten Island, NY | On Site | Aug 11 |
-| **[Live Nation APAC](https://www.livenation.com.au/)** | **[Fall 2025 Intern - IT](https://jobright.ai/jobs/info/689a4770faa4e875e8257763?utm_campaign=1058&utm_source=git)** | New York, NY, USA | On Site | Aug 11 |
+| **[Live Nation APAC](https://www.livenation.com.au/)** | **[Fall 2025 Intern - IT](https://jobright.ai/jobs/info/689a4894faa4e875e8257846?utm_campaign=1058&utm_source=git)** | New York, NY, USA | On Site | Aug 11 |
 | **[Meijer](https://www.meijer.com/)** | **[Intern, Pharmacy Undergrad - Year 4](https://jobright.ai/jobs/info/689a46ee83d13d1f5b697a77?utm_campaign=1058&utm_source=git)** | West Lafayette, IN | On Site | Aug 11 |
 | **[Onco360 Oncology Pharmacy](http://onco360.com)** | **[Part-Time Pharmacy Intern](https://jobright.ai/jobs/info/689a4582faa4e875e8257595?utm_campaign=1058&utm_source=git)** | New Hyde Park, NY | On Site | Aug 11 |
 | **[Textron](http://textron.com)** | **[Fall Co-Op- Customer Support (Service Sales)](https://jobright.ai/jobs/info/689a44e083d13d1f5b69786f?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Aug 11 |
@@ -135,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Bobcat Company](https://www.bobcat.com)** | **[Information Technology Co op FRG (Jan-Aug)](https://jobright.ai/jobs/info/689a3e3e5574fd6bc0c80d24?utm_campaign=1058&utm_source=git)** | West Fargo, ND | On Site | Aug 11 |
 | ↳ | **[Information Technology Co op LFD(Jan-Aug)](https://jobright.ai/jobs/info/689a3e3583d13d1f5b697137?utm_campaign=1058&utm_source=git)** | Litchfield, CT | On Site | Aug 11 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/689ac1e383d13d1f5b69bf26?utm_campaign=1058&utm_source=git)** | Waterbury, CT | On Site | Aug 11 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/689abe4c5574fd6bc0c8595e?utm_campaign=1058&utm_source=git)** | Sumter, SC | On Site | Aug 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/689abea1faa4e875e825bd1a?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Aug 11 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/689abe4c5574fd6bc0c8595e?utm_campaign=1058&utm_source=git)** | Sumter, SC | On Site | Aug 11 |
 | **[Athena](https://athenapsych.com)** | **[IT Intern](https://jobright.ai/jobs/info/689a399bfaa4e875e8256d24?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | Aug 11 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/689491334ed2ea559ca4ea41?utm_campaign=1058&utm_source=git)** | Brookfield, WI | On Site | Aug 11 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Information Technology Assistant (Level I) - ITS (Student Employee)](https://jobright.ai/jobs/info/689a367083d13d1f5b696e1f?utm_campaign=1058&utm_source=git)** | Conway, SC | On Site | Aug 11 |
@@ -150,11 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/689ac76dfaa4e875e825c08e?utm_campaign=1058&utm_source=git)** | Marrero, LA | On Site | Aug 11 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/689ac97583d13d1f5b69c5bf?utm_campaign=1058&utm_source=git)** | Wildwood, NJ | On Site | Aug 11 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/689acaf4faa4e875e825c545?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Aug 11 |
+| **[DirectRx](https://www.directrx.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/689ae07983d13d1f5b69d60a?utm_campaign=1058&utm_source=git)** | Troy, MI | On Site | Aug 11 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[FRISCO - IT Solutions, Internship](https://jobright.ai/jobs/info/689a22025574fd6bc0c7ff7e?utm_campaign=1058&utm_source=git)** | 2595 Dallas Pkwy., Suite 101, Frisco, Texas 75034 | On Site | Aug 11 |
 | **[Oracle](https://www.oracle.com/)** | **[Undergrad Technical Intern - Return Internship, Summer 2025](https://jobright.ai/jobs/info/689a1ebdfaa4e875e8255f6a?utm_campaign=1058&utm_source=git)** | United States | Remote | Aug 11 |
 | ↳ | **[Advanced Degree Technical Intern - Return Internship, Summer 2025](https://jobright.ai/jobs/info/689a1e78faa4e875e8255f45?utm_campaign=1058&utm_source=git)** | United States | Remote | Aug 11 |
-| **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Cardiovascular Technologist Extern - FT - Days - MHW](https://jobright.ai/jobs/info/689a1c7c5574fd6bc0c7fcab?utm_campaign=1058&utm_source=git)** | Memorial Hospital West | On Site | Aug 11 |
-| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Work Study Proctor, UT Public Testing Center](https://jobright.ai/jobs/info/689a1bdf83d13d1f5b69627f?utm_campaign=1058&utm_source=git)** | UT MAIN CAMPUS | On Site | Aug 11 |
-| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Advanced Degree Technical Intern - Return Internship, Summer 2025](https://jobright.ai/jobs/info/689a1b4dfaa4e875e8255e97?utm_campaign=1058&utm_source=git)** | United States | Remote | Aug 11 |
-| **[Community Health Systems](http://www.chs.net)** | **[Internship Houghton Hospital-September 2025](https://jobright.ai/jobs/info/689a1acdfaa4e875e8255e05?utm_campaign=1058&utm_source=git)** | 2200 SOUTH HOUGHTON ROAD, TUCSON, AZ, 85748, US | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
