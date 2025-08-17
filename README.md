@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brazos River Authority](http://www.brazos.org)** | **[IT Technician Intern](https://jobright.ai/jobs/info/68a245a383d13d1f5b6d5ace?utm_campaign=1058&utm_source=git)** | Waco, TX | On Site | Aug 17 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68a22b2c83d13d1f5b6d592a?utm_campaign=1058&utm_source=git)** | Pottstown, PA | On Site | Aug 17 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68a22b2b83d13d1f5b6d5929?utm_campaign=1058&utm_source=git)** | Prescott, AZ | On Site | Aug 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a22b2b83d13d1f5b6d5928?utm_campaign=1058&utm_source=git)** | Laguna Niguel, CA | On Site | Aug 17 |
@@ -92,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Intern Respiratory Care](https://jobright.ai/jobs/info/68a1179dfaa4e875e8292066?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Aug 16 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Intern Respiratory Care](https://jobright.ai/jobs/info/68a1087ffaa4e875e8291f93?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Aug 16 |
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Information Technology Services - Student Assistant, Palm Desert Campus](https://jobright.ai/jobs/info/68a0f670cc9ee94dc9120d32?utm_campaign=1058&utm_source=git)** | San Bernardino, CA | On Site | Aug 16 |
+| **[Seattle Children's](https://www.seattlechildrens.org/)** | **[Radiology Technologist - Student](https://jobright.ai/jobs/info/6883c0b76fcd973d15ae2c7e?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Aug 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a0d9d4faa4e875e8291c82?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | Aug 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a0d9d1faa4e875e8291c81?utm_campaign=1058&utm_source=git)** | Columbia, MD | On Site | Aug 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a0d9d0cc9ee94dc9120abe?utm_campaign=1058&utm_source=git)** | Riverside, CA | On Site | Aug 16 |
@@ -109,8 +111,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a0b9a4cc9ee94dc9120324?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Aug 16 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a0b99acc9ee94dc91202fb?utm_campaign=1058&utm_source=git)** | Waukesha, WI | On Site | Aug 16 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68a0b998faa4e875e8291542?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Aug 16 |
-| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a0b98cfaa4e875e829150e?utm_campaign=1058&utm_source=git)** | Vestavia Hills, AL | On Site | Aug 16 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a0b98cfaa4e875e829150f?utm_campaign=1058&utm_source=git)** | Hoover, AL | On Site | Aug 16 |
+| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a0b98cfaa4e875e829150e?utm_campaign=1058&utm_source=git)** | Vestavia Hills, AL | On Site | Aug 16 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a0b97283d13d1f5b6d150a?utm_campaign=1058&utm_source=git)** | Katy, TX | On Site | Aug 16 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a0b70bcc9ee94dc91202ec?utm_campaign=1058&utm_source=git)** | North Las Vegas, NV | On Site | Aug 16 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a0b704cc9ee94dc91202d7?utm_campaign=1058&utm_source=git)** | Topeka, KS | On Site | Aug 16 |
@@ -147,8 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Northern Kentucky University](http://www.nku.edu/)** | **[Desk Assistant (Student Employment)](https://jobright.ai/jobs/info/68a14b1683d13d1f5b6d2ca3?utm_campaign=1058&utm_source=git)** | Newport, KY | On Site | Aug 16 |
 | **[Burrell Behavioral Health](https://www.burrellcenter.com/)** | **[Intern](https://jobright.ai/jobs/info/68a14bd0cc9ee94dc9121b8f?utm_campaign=1058&utm_source=git)** | Hannibal, MO | On Site | Aug 16 |
 | **[Northern Kentucky University](http://www.nku.edu/)** | **[One Stop - Customer Service Student Assistant](https://jobright.ai/jobs/info/68a03be3faa4e875e828fe04?utm_campaign=1058&utm_source=git)** | Newport, KY | On Site | Aug 16 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a033f2cc9ee94dc911e4b6?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Aug 16 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a033bdcc9ee94dc911e414?utm_campaign=1058&utm_source=git)** | Palmdale, CA | On Site | Aug 16 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a033bdcc9ee94dc911e414?utm_campaign=1058&utm_source=git)** | Palmdale, CA | On Site | Aug 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a032c3faa4e875e828f851?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Aug 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a0329cfaa4e875e828f7d9?utm_campaign=1058&utm_source=git)** | Santa Clarita, CA | On Site | Aug 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a0328883d13d1f5b6cf5ad?utm_campaign=1058&utm_source=git)** | Santa Clarita, CA | On Site | Aug 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quality customer Intern](https://jobright.ai/jobs/info/68a02c9e83d13d1f5b6cee7f?utm_campaign=1058&utm_source=git)** | Location, WV | On Site | Aug 16 |
 | **[St. Bernards Healthcare](https://stbernards.info)** | **[CT - MRI STUDENT RAD TECH](https://jobright.ai/jobs/info/68a14c82faa4e875e8292f42?utm_campaign=1058&utm_source=git)** | Jonesboro, AR | On Site | Aug 15 |
 | **[ABB](https://global.abb/group/en)** | **[Internship – IS Application Support & Implementation Trainee](https://jobright.ai/jobs/info/68a0295583d13d1f5b6cebcb?utm_campaign=1058&utm_source=git)** | Location, WV | On Site | Aug 15 |
-| **[HCA HealthONE](http://www.healthonecares.com/)** | **[Radiology Tech Extern PRN](https://jobright.ai/jobs/info/68a0283b83d13d1f5b6ce77d?utm_campaign=1058&utm_source=git)** | Englewood, CO | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
