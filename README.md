@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CommonSpirit Health](https://www.commonspirit.org)** | **[Intern Respiratory Care](https://jobright.ai/jobs/info/68a1179dfaa4e875e8292066?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Aug 16 |
+| **[CHI](https://www.catholichealthinitiatives.org/)** | **[Intern Respiratory Care](https://jobright.ai/jobs/info/68a1087ffaa4e875e8291f93?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Aug 16 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Veterinary Assistant-Triage Call Center](https://jobright.ai/jobs/info/68a0fe1783d13d1f5b6d1f73?utm_campaign=1058&utm_source=git)** | Manhattan, KS | On Site | Aug 16 |
 | **[CSU Careers](https://www.linkedin.com/company/81884531)** | **[Information Technology Services - Student Assistant, Palm Desert Campus](https://jobright.ai/jobs/info/68a0f670cc9ee94dc9120d32?utm_campaign=1058&utm_source=git)** | San Bernardino, CA | On Site | Aug 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a0d9d4faa4e875e8291c82?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | Aug 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a0d9d1faa4e875e8291c81?utm_campaign=1058&utm_source=git)** | Columbia, MD | On Site | Aug 16 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a0d9d0cc9ee94dc9120abe?utm_campaign=1058&utm_source=git)** | Riverside, CA | On Site | Aug 16 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68a0d9cccc9ee94dc9120abb?utm_campaign=1058&utm_source=git)** | Boone, NC | On Site | Aug 16 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a0d9cbcc9ee94dc9120ab8?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Aug 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a0d9cbcc9ee94dc9120ab7?utm_campaign=1058&utm_source=git)** | Glendale, CA | On Site | Aug 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a0d9c8faa4e875e8291c73?utm_campaign=1058&utm_source=git)** | Staten Island, NY | On Site | Aug 16 |
 | **[Geisinger](https://www.geisinger.org)** | **[Non-Clinical Co-Op - Information Technology](https://jobright.ai/jobs/info/68a0ca8483d13d1f5b6d1ab9?utm_campaign=1058&utm_source=git)** | Danville, PA | Remote | Aug 16 |
@@ -74,8 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a0b9afcc9ee94dc9120338?utm_campaign=1058&utm_source=git)** | Pensacola, FL | On Site | Aug 16 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a0b9a4cc9ee94dc9120327?utm_campaign=1058&utm_source=git)** | Crescent Springs, KY | On Site | Aug 16 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a0b9a4cc9ee94dc9120324?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Aug 16 |
-| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[client service intern](https://jobright.ai/jobs/info/68a0b99ecc9ee94dc912030f?utm_campaign=1058&utm_source=git)** | Denver, CO | Remote | Aug 16 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a0b99acc9ee94dc91202fb?utm_campaign=1058&utm_source=git)** | Waukesha, WI | On Site | Aug 16 |
+| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a0b99acc9ee94dc91202fb?utm_campaign=1058&utm_source=git)** | Waukesha, WI | On Site | Aug 16 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68a0b998faa4e875e8291542?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Aug 16 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a0b98cfaa4e875e829150f?utm_campaign=1058&utm_source=git)** | Hoover, AL | On Site | Aug 16 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a0b98cfaa4e875e829150e?utm_campaign=1058&utm_source=git)** | Vestavia Hills, AL | On Site | Aug 16 |
@@ -120,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Internship – IS Application Support & Implementation Trainee](https://jobright.ai/jobs/info/68a0295583d13d1f5b6cebcb?utm_campaign=1058&utm_source=git)** | Location, WV | On Site | Aug 15 |
 | **[HCA HealthONE](http://www.healthonecares.com/)** | **[Radiology Tech Extern PRN](https://jobright.ai/jobs/info/68a0283b83d13d1f5b6ce77d?utm_campaign=1058&utm_source=git)** | Englewood, CO | On Site | Aug 15 |
 | **[IEWC](http://iewc.com)** | **[Information Technology Intern - Summer 2025](https://jobright.ai/jobs/info/68a016f5cc9ee94dc911c4ea?utm_campaign=1058&utm_source=git)** | New Berlin, WI | On Site | Aug 15 |
-| **[Worth AI ](https://worth-ai.com/)** | **[IT Intern - Fall 2025](https://jobright.ai/jobs/info/689ffca383d13d1f5b6cc5bd?utm_campaign=1058&utm_source=git)** | Orlando, FL | Hybrid | Aug 15 |
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[College of Veterinary Medicine Development Office Intern](https://jobright.ai/jobs/info/68a0bed483d13d1f5b6d166e?utm_campaign=1058&utm_source=git)** | West Lafayette, IN | On Site | Aug 15 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/689feefcfaa4e875e828c222?utm_campaign=1058&utm_source=git)** | West Covina, CA | On Site | Aug 15 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/689feeeafaa4e875e828c1ea?utm_campaign=1058&utm_source=git)** | New Orleans, LA | On Site | Aug 15 |
@@ -133,8 +131,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/689fee4283d13d1f5b6cbf7c?utm_campaign=1058&utm_source=git)** | Slidell, LA | On Site | Aug 15 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/689fee3cfaa4e875e828bffe?utm_campaign=1058&utm_source=git)** | Colonial Heights, VA | On Site | Aug 15 |
 | **[Sonaca North America](www.aerojobs.us)** | **[IT Intern](https://jobright.ai/jobs/info/689fee2c83d13d1f5b6cbf1d?utm_campaign=1058&utm_source=git)** | St Charles, MO | On Site | Aug 15 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/689fee1c83d13d1f5b6cbef4?utm_campaign=1058&utm_source=git)** | Hillside, NJ | On Site | Aug 15 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/689fee1c83d13d1f5b6cbef8?utm_campaign=1058&utm_source=git)** | Clovis, CA | On Site | Aug 15 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/689fee1c83d13d1f5b6cbef8?utm_campaign=1058&utm_source=git)** | Clovis, CA | On Site | Aug 15 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/689fee1c83d13d1f5b6cbef4?utm_campaign=1058&utm_source=git)** | Hillside, NJ | On Site | Aug 15 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/689fee0ffaa4e875e828bf80?utm_campaign=1058&utm_source=git)** | Marietta, GA | On Site | Aug 15 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/689fee0cfaa4e875e828bf7c?utm_campaign=1058&utm_source=git)** | Choctaw, OK | On Site | Aug 15 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/689fedfe83d13d1f5b6cbeb2?utm_campaign=1058&utm_source=git)** | Lynn Haven, FL | On Site | Aug 15 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/689fed8fcc9ee94dc911ab34?utm_campaign=1058&utm_source=git)** | Lexington, SC | On Site | Aug 15 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/689fed8583d13d1f5b6cbd2c?utm_campaign=1058&utm_source=git)** | Gulfport, MS | On Site | Aug 15 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/689fed7bcc9ee94dc911aaeb?utm_campaign=1058&utm_source=git)** | Haslet, TX | On Site | Aug 15 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/689fed7acc9ee94dc911aaea?utm_campaign=1058&utm_source=git)** | Kenner, LA | On Site | Aug 15 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/689fed73cc9ee94dc911aaca?utm_campaign=1058&utm_source=git)** | Ossining, NY | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
