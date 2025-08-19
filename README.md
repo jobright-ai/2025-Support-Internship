@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sutter Health](http://www.sutterhealth.org)** | **[Surgical Technician Intern](https://jobright.ai/jobs/info/6888455efbbf032d00079eca?utm_campaign=1058&utm_source=git)** | San Mateo, CA | On Site | Aug 19 |
 | **[Meijer](https://www.meijer.com/)** | **[Store Detective Intern](https://jobright.ai/jobs/info/68a43d2a541cc3479840b228?utm_campaign=1058&utm_source=git)** | Jenison, MI | On Site | Aug 19 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a4258ae9f1c744da12113e?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Aug 19 |
 | **[InterDigital, Inc.](https://www.interdigital.com)** | **[Intern, Desktop Systems Specialist](https://jobright.ai/jobs/info/68a41bc72d2a252445cd5cd1?utm_campaign=1058&utm_source=git)** | Greater Philadelphia | Hybrid | Aug 18 |
@@ -84,11 +85,11 @@ For a complete list, click the following sortable link below:
 | **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[World Language Assistant](https://jobright.ai/jobs/info/68a3e5e8541cc3479840888f?utm_campaign=1058&utm_source=git)** | Ogden, UT | On Site | Aug 18 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68a3bfe437d3cc6b0d579437?utm_campaign=1058&utm_source=git)** | Jackson, TN | On Site | Aug 18 |
 | **[Cascadia Global Security / Cascadia Off-Duty](https://www.cascadiaglobalsecurity.com)** | **[Security Operations Support-Paid Internship](https://jobright.ai/jobs/info/68a3bba0403ad4363b1c3519?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Aug 18 |
+| **[Chime](https://www.chime.com)** | **[IT Helpdesk Intern (Fall 2025)](https://jobright.ai/jobs/info/68a3b74d37d3cc6b0d578fac?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Aug 18 |
 | **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[Customer Experience & Engagement Summer Intern](https://jobright.ai/jobs/info/68a3b6ec403ad4363b1c31e8?utm_campaign=1058&utm_source=git)** | Overland Park, KS | Hybrid | Aug 18 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/68a3b35a403ad4363b1c3062?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Aug 18 |
 | **[QEP Co., Inc.](https://www.qepcorporate.com)** | **[Test Requisition - Do Not Use](https://jobright.ai/jobs/info/68a41212541cc3479840a461?utm_campaign=1058&utm_source=git)** | Boca Raton, FL | On Site | Aug 18 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Intern (Multiple Divisions & Locations)](https://jobright.ai/jobs/info/68a3b0a837d3cc6b0d578d55?utm_campaign=1058&utm_source=git)** | Cape May, NJ | Hybrid | Aug 18 |
-| **[Chime](https://www.chime.com)** | **[IT Helpdesk Intern (Fall 2025)](https://jobright.ai/jobs/info/68a3af25403ad4363b1c2ecd?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Aug 18 |
 | **[Hightower Advisors](http://www.hightoweradvisors.com)** | **[Client Service Associate Intern - LRG Wealth Advisors](https://jobright.ai/jobs/info/68a3aef31ab5f8579e8a7755?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Aug 18 |
 | **[Kaseya Center](https://www.ftxarena.com)** | **[Intern, Premium Client Service](https://jobright.ai/jobs/info/68a39cf91ab5f8579e8a731a?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Aug 18 |
 | **[Salvus TG now known as The Purple Guys, an Ntiva Company](https://salvustg.com/)** | **[Service Desk Intern](https://jobright.ai/jobs/info/68a39ca41ab5f8579e8a72cf?utm_campaign=1058&utm_source=git)** | Parkersburg, WV | On Site | Aug 18 |
@@ -121,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Nursing Intern – Orthopedics - Contingent- Rotating](https://jobright.ai/jobs/info/68a378d31ab5f8579e8a611e?utm_campaign=1058&utm_source=git)** | Warren, Michigan | On Site | Aug 18 |
 | **[Midmark Corporation](http://www.midmark.com/)** | **[Intern,IT Support Technician](https://jobright.ai/jobs/info/68a378121ab5f8579e8a5f36?utm_campaign=1058&utm_source=git)** | Versailles, OH | On Site | Aug 18 |
 | **[QEP Co., Inc.](https://www.qepcorporate.com)** | **[Test Requisition - Do Not Use](https://jobright.ai/jobs/info/68a3780a403ad4363b1c1529?utm_campaign=1058&utm_source=git)** | Boca Raton, FL | On Site | Aug 18 |
-| **[The University of Kansas Health System](https://www.kansashealthsystem.com)** | **[Patient Care Assistant/CNA Intern - Gold Standard Program, Full time Nights & DAYs - November program](https://jobright.ai/jobs/info/68a377eb1ab5f8579e8a5ecd?utm_campaign=1058&utm_source=git)** | Kansas City, KS | On Site | Aug 18 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[InfoLink Tech Support Co-Op - Fall 2025](https://jobright.ai/jobs/info/68a373691ab5f8579e8a5a7a?utm_campaign=1058&utm_source=git)** | New Bremen, OH | On Site | Aug 18 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[Nurse Intern, Intensive Care Unit, Per Diem, 7P-7:30A](https://jobright.ai/jobs/info/68a372fe1ab5f8579e8a59fd?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Aug 18 |
 | **[The Rockefeller University](http://rockefeller.edu)** | **[Library Intern / Library](https://jobright.ai/jobs/info/68a370c537d3cc6b0d576d97?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Aug 18 |
@@ -138,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Miami HEAT](http://HEAT.com)** | **[Intern, Premium Client Service](https://jobright.ai/jobs/info/68a35d9f403ad4363b1c06ac?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Aug 18 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Practice Support Intern (Year-round) - New York](https://jobright.ai/jobs/info/68a35d7237d3cc6b0d5763e1?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Aug 18 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a35cb61ab5f8579e8a4f36?utm_campaign=1058&utm_source=git)** | Clarence, NY | On Site | Aug 18 |
+| **[The University of Kansas Health System](https://www.kansashealthsystem.com)** | **[Patient Care Assistant/CNA Intern - Gold Standard Program, Full time Nights & DAYs - November program](https://jobright.ai/jobs/info/68a354c51ab5f8579e8a4afc?utm_campaign=1058&utm_source=git)** | Kansas City, KS | On Site | Aug 18 |
 | **[Intermountain Health](https://intermountainhealthcare.org/)** | **[Student Intern DTS](https://jobright.ai/jobs/info/68a354b31ab5f8579e8a4ad8?utm_campaign=1058&utm_source=git)** | Intermountain Health Cedar City Hospital | On Site | Aug 18 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68a3547b1ab5f8579e8a4a6a?utm_campaign=1058&utm_source=git)** | Intermountain Health McKay-Dee Hospital | On Site | Aug 18 |
 | **[Luminis Health](http://www.luminishealth.org)** | **[Patient Care Technician (CNA) Trainee - FT - D/N](https://jobright.ai/jobs/info/68a353de1ab5f8579e8a4a1c?utm_campaign=1058&utm_source=git)** | Annapolis, MD | On Site | Aug 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/684cc3c71e326d2b265eabe5?utm_campaign=1058&utm_source=git)** | San Jose, CA | Hybrid | Aug 18 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Respiratory Care Intern Assistant](https://jobright.ai/jobs/info/686b279f35584b6542eaf6a8?utm_campaign=1058&utm_source=git)** | St Joseph, MI | Hybrid | Aug 18 |
 | **[Suburban Inns](http://suburbaninns.com)** | **[Night Auditor - Holiday Inn Midland](https://jobright.ai/jobs/info/68a2e379ff570d7ffd65e5ae?utm_campaign=1058&utm_source=git)** | Midland, MI | On Site | Aug 18 |
-| **[Davenport University](http://www.davenport.edu/)** | **[(Student) Corporate Services Assistant](https://jobright.ai/jobs/info/68a2e322da4b7a7e73074436?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
