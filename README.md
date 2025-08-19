@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nebraska Medicine](https://www.nebraskamed.com)** | **[EKG Technician - Heart Monitoring Unit Internship - Full Time Days](https://jobright.ai/jobs/info/68a4b82ce9f1c744da1238d6?utm_campaign=1058&utm_source=git)** | Omaha Metropolitan Area | On Site | Aug 19 |
+| **[Year Up United](http://yearup.org)** | **[Customer Service Fundamentals Career Training Opportunity](https://jobright.ai/jobs/info/68a4b7cbe9f1c744da12387c?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Aug 19 |
+| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Pharmacy Intern - Ambulatory Pharmacy](https://jobright.ai/jobs/info/68a4a8f22d2a252445cd82f3?utm_campaign=1058&utm_source=git)** | Main Campus, Columbus, OH | On Site | Aug 19 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/6836213083626c2d15e074eb?utm_campaign=1058&utm_source=git)** | Round Rock, TX | On Site | Aug 19 |
 | **[Nuveen, a TIAA company](http://www.nuveen.com)** | **[TEST REQUISITION DO NOT APPLY](https://jobright.ai/jobs/info/68a497ff541cc3479840c7f4?utm_campaign=1058&utm_source=git)** | Charlotte, NC, USA | On Site | Aug 19 |
 | **[Lufthansa Technik Component Services](http://ltcs.com)** | **[Internship Customer Service and Account Management](https://jobright.ai/jobs/info/68a48c822d2a252445cd7729?utm_campaign=1058&utm_source=git)** | Hialeah, FL | On Site | Aug 19 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Pharmacy Intern (H)](https://jobright.ai/jobs/info/68a47f3ee9f1c744da122209?utm_campaign=1058&utm_source=git)** | OKC Metro Area | On Site | Aug 19 |
@@ -64,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[University of Houston](https://www.uh.edu)** | **[Non-College Workstudy-User Support Services](https://jobright.ai/jobs/info/68a46af3e9f1c744da121c5c?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Aug 19 |
 | **[Sutter Health](http://www.sutterhealth.org)** | **[Surgical Technician Intern](https://jobright.ai/jobs/info/6888455efbbf032d00079eca?utm_campaign=1058&utm_source=git)** | San Mateo, CA | On Site | Aug 19 |
 | **[Meijer](https://www.meijer.com/)** | **[Store Detective Intern](https://jobright.ai/jobs/info/68a43d2a541cc3479840b228?utm_campaign=1058&utm_source=git)** | Jenison, MI | On Site | Aug 19 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a4258ae9f1c744da12113e?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Aug 19 |
 | **[InterDigital, Inc.](https://www.interdigital.com)** | **[Intern, Desktop Systems Specialist](https://jobright.ai/jobs/info/68a41bc72d2a252445cd5cd1?utm_campaign=1058&utm_source=git)** | Greater Philadelphia | Hybrid | Aug 18 |
 | **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern - Poison Center](https://jobright.ai/jobs/info/68a4081c541cc34798409ba3?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Aug 18 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a3e7212d2a252445cd412f?utm_campaign=1058&utm_source=git)** | Carmel, IN | On Site | Aug 18 |
@@ -114,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Cantex](https://www.cantexcc.com)** | **[Patient Advocate Intern (ProCare) (18876)](https://jobright.ai/jobs/info/68a37e5337d3cc6b0d577846?utm_campaign=1058&utm_source=git)** | Carrollton, TX | On Site | Aug 18 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a3f9b3541cc347984094a5?utm_campaign=1058&utm_source=git)** | Athens, GA | On Site | Aug 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a37dd237d3cc6b0d5777bb?utm_campaign=1058&utm_source=git)** | Plainfield, NJ | On Site | Aug 18 |
+| **[Valley Health](https://www.valleyhealthlink.com/)** | **[IS Intern](https://jobright.ai/jobs/info/68a37d4b37d3cc6b0d577714?utm_campaign=1058&utm_source=git)** | Winchester, VA | On Site | Aug 18 |
 | **[UnityPoint Health](http://www.unitypoint.org/)** | **[Intern - Technical Support](https://jobright.ai/jobs/info/68a37d41403ad4363b1c19d9?utm_campaign=1058&utm_source=git)** | Waterloo, IA | On Site | Aug 18 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a37cae1ab5f8579e8a63f2?utm_campaign=1058&utm_source=git)** | Kissimmee, FL | On Site | Aug 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a37c9c1ab5f8579e8a63d8?utm_campaign=1058&utm_source=git)** | Plano, TX | On Site | Aug 18 |
@@ -150,11 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Corewell Health](https://corewellhealth.org)** | **[Intern](https://jobright.ai/jobs/info/68a348cc37d3cc6b0d5759f0?utm_campaign=1058&utm_source=git)** | Benton Harbor, MI | Hybrid | Aug 18 |
 | **[Phillips Edison & Company](http://phillipsedison.com)** | **[Customer Experience Intern (Summer 2026)](https://jobright.ai/jobs/info/68a344c8403ad4363b1bfae1?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Aug 18 |
 | ↳ | **[Information Technology Intern (Summer 2026 - Operations & Infrastructure)](https://jobright.ai/jobs/info/68a340171ab5f8579e8a4186?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Aug 18 |
-| **[Valley Health](https://www.valleyhealthlink.com/)** | **[IS Intern](https://jobright.ai/jobs/info/68a33ba337d3cc6b0d5751ab?utm_campaign=1058&utm_source=git)** | Winchester, VA | On Site | Aug 18 |
 | **[Midmark Corporation](http://www.midmark.com/)** | **[Intern,IT Support Technician](https://jobright.ai/jobs/info/68a33b8037d3cc6b0d575174?utm_campaign=1058&utm_source=git)** | 60 Vista Dr, Versailles, OH, 45380, US | On Site | Aug 18 |
 | **[Nebraska Methodist Health System](https://bestcare.org/)** | **[Pharmacy Intern - Casual/PRN - Evenings/Weekends](https://jobright.ai/jobs/info/683f8533e2d083e320055795?utm_campaign=1058&utm_source=git)** | Council Bluffs, IA | On Site | Aug 18 |
 | **[Baptist Health - Central Alabama](https://www.baptistfirst.org/baptist-health-neurosurgery-clinic-and-baptist-health-physical-medicine-rehabilitation-clinic/)** | **[Radiologic Technologist Student Radiology PRN, As Needed](https://jobright.ai/jobs/info/689f8c7dfaa4e875e8289b30?utm_campaign=1058&utm_source=git)** | Montgomery, AL | On Site | Aug 18 |
-| **[OPmobility](https://www.opmobility.com)** | **[IT Intern](https://jobright.ai/jobs/info/68a32d9537d3cc6b0d574c92?utm_campaign=1058&utm_source=git)** | New Boston, MI | On Site | Aug 18 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a32ae21ab5f8579e8a37ac?utm_campaign=1058&utm_source=git)** | Richardson, TX | On Site | Aug 18 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68a32aaa1ab5f8579e8a376f?utm_campaign=1058&utm_source=git)** | Franklin, WI | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
