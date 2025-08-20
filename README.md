@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Fortrea](https://www.fortrea.com)** | **[Technologist Trainee](https://jobright.ai/jobs/info/68a4f0d6758f2e4ac3fdae94?utm_campaign=1058&utm_source=git)** | Durham NC | On Site | Aug 19 |
 | **[Alliance One](http://www.aointl.com/)** | **[Intern](https://jobright.ai/jobs/info/68a4e1e4b6a3617d7fa6d39e?utm_campaign=1058&utm_source=git)** | NC, United States | On Site | Aug 19 |
 | **[AAON, Inc.](https://www.aaon.com)** | **[High School Intern](https://jobright.ai/jobs/info/68a4d5b2bdd80e69391be37f?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | Aug 19 |
+| **[Garver](https://garverusa.com/)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/68a4d594bdd80e69391be361?utm_campaign=1058&utm_source=git)** | North Little Rock, AR | On Site | Aug 19 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a4d039bdd80e69391bdef8?utm_campaign=1058&utm_source=git)** | Chantilly, VA | On Site | Aug 19 |
 | **[Lehigh Valley Health Network](http://www.lvhn.org)** | **[Diagnostic Technologist - Student](https://jobright.ai/jobs/info/68a4cf73e9f1c744da1249c5?utm_campaign=1058&utm_source=git)** | Bethlehem, PA | On Site | Aug 19 |
 | **[MyMichigan Health](https://www.mymichigan.org)** | **[Student College Intern IT](https://jobright.ai/jobs/info/68a4cee8e9f1c744da1248c8?utm_campaign=1058&utm_source=git)** | Midland, MI | On Site | Aug 19 |
@@ -86,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern - Poison Center](https://jobright.ai/jobs/info/68a4081c541cc34798409ba3?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Aug 18 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a3e712541cc34798408c4c?utm_campaign=1058&utm_source=git)** | Caldwell, NJ | On Site | Aug 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a3e634541cc347984089c7?utm_campaign=1058&utm_source=git)** | Summerville, SC | On Site | Aug 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a3e5cc2d2a252445cd3ced?utm_campaign=1058&utm_source=git)** | Doylestown, PA | On Site | Aug 18 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68a3e5cc2d2a252445cd3cf0?utm_campaign=1058&utm_source=git)** | East Meadow, NY | On Site | Aug 18 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a3e5cc2d2a252445cd3ced?utm_campaign=1058&utm_source=git)** | Doylestown, PA | On Site | Aug 18 |
 | **[Meijer](https://www.meijer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a3e5b12d2a252445cd3c9f?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Aug 18 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a3e5ac541cc347984087be?utm_campaign=1058&utm_source=git)** | Princeton, NJ | On Site | Aug 18 |
 | **[InterDigital, Inc.](https://www.interdigital.com)** | **[Intern, Desktop Systems Specialist](https://jobright.ai/jobs/info/68a3e377541cc3479840874e?utm_campaign=1058&utm_source=git)** | Conshohocken, PA | On Site | Aug 18 |
@@ -103,13 +104,11 @@ For a complete list, click the following sortable link below:
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Dietitian – Intern](https://jobright.ai/jobs/info/68a3c9bf1ab5f8579e8a83ca?utm_campaign=1058&utm_source=git)** | Manhattan, KS | On Site | Aug 18 |
 | ↳ | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/68a3c4b5403ad4363b1c3989?utm_campaign=1058&utm_source=git)** | Des Moines Metro | On Site | Aug 18 |
 | **[Covenant Health](http://www.covenanthealth.com)** | **[IMAGING TECH STUDENT](https://jobright.ai/jobs/info/68a3c3d81ab5f8579e8a819f?utm_campaign=1058&utm_source=git)** | Oak Ridge, TN | On Site | Aug 18 |
-| **[Garver](https://garverusa.com/)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/68a4c851541cc3479840dce9?utm_campaign=1058&utm_source=git)** | North Little Rock, AR | On Site | Aug 18 |
 | **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[World Language Assistant](https://jobright.ai/jobs/info/68a3e5e8541cc3479840888f?utm_campaign=1058&utm_source=git)** | Ogden, UT | On Site | Aug 18 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68a3bfe437d3cc6b0d579437?utm_campaign=1058&utm_source=git)** | Jackson, TN | On Site | Aug 18 |
 | **[Cascadia Global Security / Cascadia Off-Duty](https://www.cascadiaglobalsecurity.com)** | **[Security Operations Support-Paid Internship](https://jobright.ai/jobs/info/68a3bba0403ad4363b1c3519?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Aug 18 |
 | **[Chime](https://www.chime.com)** | **[IT Helpdesk Intern (Fall 2025)](https://jobright.ai/jobs/info/68a3b74d37d3cc6b0d578fac?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Aug 18 |
 | **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[Customer Experience & Engagement Summer Intern](https://jobright.ai/jobs/info/68a3b6ec403ad4363b1c31e8?utm_campaign=1058&utm_source=git)** | Overland Park, KS | Hybrid | Aug 18 |
-| **[The Beck Group](http://www.beckgroup.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/68a3b35a403ad4363b1c3062?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Aug 18 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Intern (Multiple Divisions & Locations)](https://jobright.ai/jobs/info/68a3b0a837d3cc6b0d578d55?utm_campaign=1058&utm_source=git)** | Cape May, NJ | Hybrid | Aug 18 |
 | **[Chime](https://www.chime.com)** | **[IT Helpdesk Intern (Fall 2025)](https://jobright.ai/jobs/info/68a3af25403ad4363b1c2ecd?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Aug 18 |
 | **[Hightower Advisors](http://www.hightoweradvisors.com)** | **[Client Service Associate Intern - LRG Wealth Advisors](https://jobright.ai/jobs/info/68a3aef31ab5f8579e8a7755?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Aug 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[WakeMed](http://wakemed.org/)** | **[Scholar, CV Testing](https://jobright.ai/jobs/info/68a360d137d3cc6b0d576525?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Aug 18 |
 | **[Miami HEAT](http://HEAT.com)** | **[Intern, Premium Client Service](https://jobright.ai/jobs/info/68a35d9f403ad4363b1c06ac?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Aug 18 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Practice Support Intern (Year-round) - New York](https://jobright.ai/jobs/info/68a35d7237d3cc6b0d5763e1?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Aug 18 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a35cb61ab5f8579e8a4f36?utm_campaign=1058&utm_source=git)** | Clarence, NY | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
