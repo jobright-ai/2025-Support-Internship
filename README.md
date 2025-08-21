@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[FGS Global](https://fgsglobal.com)** | **[Intern, Technology Operations](https://jobright.ai/jobs/info/688a7aa809808a6103e4f20b?utm_campaign=1058&utm_source=git)** | New York, United States | On Site | Aug 21 |
+| **[Davenport University](http://www.davenport.edu/)** | **[(Student) Corporate Services Assistant](https://jobright.ai/jobs/info/68a6fa43d627244576e29168?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Aug 21 |
 | **[California Department of Insurance](https://www.insurance.ca.gov)** | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/68a6d005758f2e4ac3fe8438?utm_campaign=1058&utm_source=git)** | Glendale, CA | On Site | Aug 21 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Hourly - KFRTI Office Assistant](https://jobright.ai/jobs/info/68a6ca8c758f2e4ac3fe82ff?utm_campaign=1058&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 21 |
 | **[Ohio Department of Developmental Disabilities](https://dodd.ohio.gov)** | **[College Intern (PN 20101708)](https://jobright.ai/jobs/info/68a6c8f4b6a3617d7fa7a9f7?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Aug 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Albertsons Market](https://www.theunitedfamily.com/albertsons-market-careers/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68897cca09808a6103e47e6c?utm_campaign=1058&utm_source=git)** | Aurora, CO | Hybrid | Aug 20 |
 | **[Adolfson & Peterson Construction](http://www.a-p.com)** | **[Intern](https://jobright.ai/jobs/info/687c6f17ed63844c944ad7be?utm_campaign=1058&utm_source=git)** | Aurora, CO | On Site | Aug 20 |
 | **[Guidepoint](http://www.guidepoint.com)** | **[2024 Tech Intern Pool](https://jobright.ai/jobs/info/667713ec3ab189f6697e9413?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Aug 20 |
-| **[Legends](http://legends.net)** | **[Intern, Hospitality - Northwell Health at Jones Beach Theater Wantagh, NY](https://jobright.ai/jobs/info/67dbfc940cef34f474898114?utm_campaign=1058&utm_source=git)** | Wantagh, NY | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
