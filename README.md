@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of New Hampshire](https://innovation.unh.edu/)** | **[Recreation Intern](https://jobright.ai/jobs/info/68a73cdf33dd7158bbca5680?utm_campaign=1058&utm_source=git)** | Plymouth State University | On Site | Aug 21 |
+| ↳ | **[Junior Salesforce Admin Intern](https://jobright.ai/jobs/info/68a72f21d627244576e2a3e7?utm_campaign=1058&utm_source=git)** | University System Of New Hampshire - System Office | On Site | Aug 21 |
+| **[Aurubis Richmond](http://www.aurubis.com/richmond)** | **[IT Intern](https://jobright.ai/jobs/info/68a72a44758f2e4ac3fe9e5b?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Aug 21 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Tech Intern](https://jobright.ai/jobs/info/68a721e233dd7158bbca4b9c?utm_campaign=1058&utm_source=git)** | Spring, TX | Hybrid | Aug 21 |
 | ↳ | **[Tech Intern](https://jobright.ai/jobs/info/68a7157bd627244576e297c2?utm_campaign=1058&utm_source=git)** | Spring, Texas, United States of America | Hybrid | Aug 21 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Records College Aide](https://jobright.ai/jobs/info/68a734e7758f2e4ac3fea29a?utm_campaign=1058&utm_source=git)** | All, MO | On Site | Aug 21 |
 | **[FGS Global](https://fgsglobal.com)** | **[Intern, Technology Operations](https://jobright.ai/jobs/info/688a7aa809808a6103e4f20b?utm_campaign=1058&utm_source=git)** | New York, United States | On Site | Aug 21 |
 | **[Davenport University](http://www.davenport.edu/)** | **[(Student) Corporate Services Assistant](https://jobright.ai/jobs/info/68a6fa43d627244576e29168?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Aug 21 |
 | **[California Department of Insurance](https://www.insurance.ca.gov)** | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/68a6d005758f2e4ac3fe8438?utm_campaign=1058&utm_source=git)** | Glendale, CA | On Site | Aug 21 |
@@ -69,10 +73,10 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Voice Infrastructure)](https://jobright.ai/jobs/info/68a6b9eb758f2e4ac3fe72c5?utm_campaign=1058&utm_source=git)** | Pensacola, FL | Hybrid | Aug 20 |
 | **[State of Ohio](http://ohio.gov/)** | **[College Intern (PN 20101708)](https://jobright.ai/jobs/info/68a6a25d758f2e4ac3fe62d0?utm_campaign=1058&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Aug 20 |
 | ↳ | **[College Intern (PN 20101708)](https://jobright.ai/jobs/info/68a6a1c3b6a3617d7fa78da3?utm_campaign=1058&utm_source=git)** | James A Rhodes Office Tower 1330 East Broad Street | On Site | Aug 20 |
-| **[HIROTEC AMERICA, Inc.](http://www.hirotecamerica.com/)** | **[Information Systems Intern](https://jobright.ai/jobs/info/68a695c9b6a3617d7fa7857e?utm_campaign=1058&utm_source=git)** | Auburn Hills, MI | On Site | Aug 20 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Asc IT Application Analyst - Intern/Co-op conversion (Foore)](https://jobright.ai/jobs/info/68a695bb33dd7158bbca0f1a?utm_campaign=1058&utm_source=git)** | Charlotte, NC | Hybrid | Aug 20 |
 | ↳ | **[Asc IT Application Analyst - Intern/Co-op conversion (Mills)](https://jobright.ai/jobs/info/68a69453b6a3617d7fa78477?utm_campaign=1058&utm_source=git)** | Charlotte, NC | Hybrid | Aug 20 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Lion's Pantry Intern](https://jobright.ai/jobs/info/68a68c90758f2e4ac3fe5614?utm_campaign=1058&utm_source=git)** | University Park, PA | On Site | Aug 20 |
+| **[Republic Airways](http://www.rjet.com)** | **[Information Technology Intern - Fall 2025](https://jobright.ai/jobs/info/6891143cf47efe211395294b?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Aug 20 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a68ef6758f2e4ac3fe58dd?utm_campaign=1058&utm_source=git)** | Kannapolis, NC | On Site | Aug 20 |
 | **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Kendall- IT Tech Assistant (Student Position)](https://jobright.ai/jobs/info/68a66cac758f2e4ac3fe4c8b?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Aug 20 |
 | **[American University](http://american.edu)** | **[IRW Student Intern (Student)](https://jobright.ai/jobs/info/68a6665133dd7158bbc9fc15?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Aug 20 |
@@ -88,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68a6575db6a3617d7fa76f9e?utm_campaign=1058&utm_source=git)** | Glendale, AZ | On Site | Aug 20 |
 | **[Generac](https://www.generac.com/)** | **[Workforce Management Intern - Customer Experience](https://jobright.ai/jobs/info/68a65668b6a3617d7fa76f0a?utm_campaign=1058&utm_source=git)** | Pewaukee, WI | On Site | Aug 20 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/68a6542d758f2e4ac3fe448c?utm_campaign=1058&utm_source=git)** | Grand Junction, CO | On Site | Aug 20 |
-| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a65410758f2e4ac3fe446e?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Aug 20 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a653e4758f2e4ac3fe444f?utm_campaign=1058&utm_source=git)** | Huntington Park, CA | On Site | Aug 20 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/68a65395758f2e4ac3fe4405?utm_campaign=1058&utm_source=git)** | Avon, CO | On Site | Aug 20 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a65395758f2e4ac3fe4406?utm_campaign=1058&utm_source=git)** | Crosby, TX | On Site | Aug 20 |
@@ -105,7 +108,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68a652e2758f2e4ac3fe4350?utm_campaign=1058&utm_source=git)** | Wheat Ridge, CO | On Site | Aug 20 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a652a5758f2e4ac3fe432f?utm_campaign=1058&utm_source=git)** | Coralville, IA | On Site | Aug 20 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a6529ab6a3617d7fa76de1?utm_campaign=1058&utm_source=git)** | Lexington, SC | On Site | Aug 20 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68a65284b6a3617d7fa76dcd?utm_campaign=1058&utm_source=git)** | Moorhead, MN | On Site | Aug 20 |
+| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a6529a33dd7158bbc9f598?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Aug 20 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68a65284b6a3617d7fa76dcc?utm_campaign=1058&utm_source=git)** | Moorhead, MN | On Site | Aug 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68a65237b6a3617d7fa76d9a?utm_campaign=1058&utm_source=git)** | Valdosta, GA | On Site | Aug 20 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a65230b6a3617d7fa76d8f?utm_campaign=1058&utm_source=git)** | Alexandria, MN | On Site | Aug 20 |
 | **[Generac](https://www.generac.com/)** | **[Workforce Management Intern - Customer Experience](https://jobright.ai/jobs/info/68a64d9f33dd7158bbc9f400?utm_campaign=1058&utm_source=git)** | Pewaukee, WI - USA | On Site | Aug 20 |
@@ -144,7 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Service Coordinator](https://jobright.ai/jobs/info/68a5d46d758f2e4ac3fe0c81?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Aug 20 |
 | ↳ | **[DOD SkillBridge Internship – Service Coordinator](https://jobright.ai/jobs/info/68a5d3e7758f2e4ac3fe0bfc?utm_campaign=1058&utm_source=git)** | Miramar, FL | On Site | Aug 20 |
 | ↳ | **[DOD SkillBridge Internship – Service Coordinator](https://jobright.ai/jobs/info/68a5d26c33dd7158bbc9be24?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Aug 20 |
-| ↳ | **[DOD SkillBridge Internship – Service Coordinator](https://jobright.ai/jobs/info/68a5d1db33dd7158bbc9bd90?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Aug 20 |
+| **[BluePearl Pet Hospital](http://bluepearlvet.com/)** | **[Veterinarian - Internist](https://jobright.ai/jobs/info/6889c1c59f961617fe218294?utm_campaign=1058&utm_source=git)** | Fort Myers, FL | Hybrid | Aug 20 |
+| **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Service Coordinator](https://jobright.ai/jobs/info/68a5d1db33dd7158bbc9bd90?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Aug 20 |
 | ↳ | **[DOD SkillBridge Internship – Service Coordinator](https://jobright.ai/jobs/info/68a5d1b0b6a3617d7fa73576?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Aug 20 |
 | ↳ | **[DOD SkillBridge Internship – Service Coordinator](https://jobright.ai/jobs/info/68a5d159b6a3617d7fa7353e?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Aug 20 |
 | ↳ | **[DOD SkillBridge Internship – Service Coordinator](https://jobright.ai/jobs/info/68a6c941758f2e4ac3fe8233?utm_campaign=1058&utm_source=git)** | Durham, NC | On Site | Aug 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DOD SkillBridge Internship – Service Coordinator](https://jobright.ai/jobs/info/68a6c8ad758f2e4ac3fe819c?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Aug 20 |
 | ↳ | **[DOD SkillBridge Internship – Service Coordinator](https://jobright.ai/jobs/info/68a6ca7f758f2e4ac3fe82f4?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Aug 20 |
 | ↳ | **[DOD SkillBridge Internship – Service Coordinator](https://jobright.ai/jobs/info/68a5cdbe33dd7158bbc9bc8e?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Aug 20 |
-| ↳ | **[DOD SkillBridge Internship – Service Coordinator](https://jobright.ai/jobs/info/68a5cbefb6a3617d7fa73301?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Aug 20 |
-| **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[IS Intern](https://jobright.ai/jobs/info/68a5cb87b6a3617d7fa732b5?utm_campaign=1058&utm_source=git)** | Orem, UT | On Site | Aug 20 |
-| **[Bozeman Health](https://www.bozemanhealth.org/)** | **[Pharmacy Intern- Outpatient- Highland Park (Casual Call, Day Shift)](https://jobright.ai/jobs/info/688960c19f961617fe213e77?utm_campaign=1058&utm_source=git)** | Bozeman, MT | On Site | Aug 20 |
-| **[Baptist Health](http://baptisthealth.net/)** | **[Pharmacy Intern 2, Ambulatory Pharmacy Services, Per Diem, Varies](https://jobright.ai/jobs/info/6888dbcfaab47a17f66fd334?utm_campaign=1058&utm_source=git)** | Miami Lakes, FL | On Site | Aug 20 |
-| **[Community Health Systems](http://www.chs.net)** | **[Student Nurse Intern- MedSurg](https://jobright.ai/jobs/info/68423747ffd6c5989410b9e0?utm_campaign=1058&utm_source=git)** | Warsaw, IN | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
