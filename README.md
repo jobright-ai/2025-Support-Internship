@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/688c15d03a30793eb963fd74?utm_campaign=1058&utm_source=git)** | Glendale, AZ | Hybrid | Aug 22 |
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Intern - Housekeeping Full Time](https://jobright.ai/jobs/info/68a8182e33dd7158bbcabd6b?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Aug 22 |
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Intern - Housekeeping (Part Time)](https://jobright.ai/jobs/info/68a8120733dd7158bbcaba21?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Aug 21 |
 | **[NEW U THERAPY CENTER & FAMILY SERVICES](https://newutherapy.com)** | **[Medical Billing Intern](https://jobright.ai/jobs/info/68a81013d627244576e30a52?utm_campaign=1058&utm_source=git)** | United States | Remote | Aug 21 |
@@ -98,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Customer Service & Administrative Internship (Ophthalmology)](https://jobright.ai/jobs/info/68a775e833dd7158bbca75f2?utm_campaign=1058&utm_source=git)** | Boston, MA | Hybrid | Aug 21 |
 | **[Harper College](https://www.harpercollege.edu/index.php)** | **[Student Aide - Wojcik Conference Center Events Office](https://jobright.ai/jobs/info/68a77570d627244576e2caf7?utm_campaign=1058&utm_source=git)** | Palatine, IL | On Site | Aug 21 |
 | **[Boudreaux's New Drug Store](https://www.boudreauxsnewdrug.com)** | **[Compounding Pharmacist Intern](https://jobright.ai/jobs/info/68a8091b758f2e4ac3ff02c6?utm_campaign=1058&utm_source=git)** | Lake Charles, LA | On Site | Aug 21 |
-| **[California Department of Insurance](https://www.insurance.ca.gov)** | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/68a8026533dd7158bbcab006?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Aug 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68a80640d627244576e3038b?utm_campaign=1058&utm_source=git)** | Ballwin, MO | On Site | Aug 21 |
+| **[California Department of Insurance](https://www.insurance.ca.gov)** | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/68a774ab758f2e4ac3fec4d3?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Aug 21 |
 | **[American Red Cross](http://redcross.org)** | **[Data Support Coordinator Intern](https://jobright.ai/jobs/info/68a774a5d627244576e2ca1c?utm_campaign=1058&utm_source=git)** | Rockville, MD | On Site | Aug 21 |
 | **[American Red Cross Northern California Coastal Region](http://www.redcross.org/norcalcoastal)** | **[Data Support Coordinator Intern](https://jobright.ai/jobs/info/68a77418d627244576e2c8f9?utm_campaign=1058&utm_source=git)** | Rockville, MD | On Site | Aug 21 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a770cf33dd7158bbca7315?utm_campaign=1058&utm_source=git)** | IC-Cedar Rapids Area | On Site | Aug 21 |
@@ -114,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[The Christ Hospital Health Network](https://www.thechristhospital.com/)** | **[Intern](https://jobright.ai/jobs/info/68a7618833dd7158bbca6a0c?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Aug 21 |
 | **[State Bank of Cross Plains](https://www.sbcp.bank/)** | **[Student Client Service Associate Youth](https://jobright.ai/jobs/info/68a75557758f2e4ac3feb3cd?utm_campaign=1058&utm_source=git)** | Sun Prairie, WI | On Site | Aug 21 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68a753f1d627244576e2b77d?utm_campaign=1058&utm_source=git)** | Brandon, MS | On Site | Aug 21 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a752a5d627244576e2b614?utm_campaign=1058&utm_source=git)** | Placentia, CA | On Site | Aug 21 |
-| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a752a5d627244576e2b613?utm_campaign=1058&utm_source=git)** | Jersey City, NJ | On Site | Aug 21 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a752a5d627244576e2b613?utm_campaign=1058&utm_source=git)** | Jersey City, NJ | On Site | Aug 21 |
+| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a752a5d627244576e2b614?utm_campaign=1058&utm_source=git)** | Placentia, CA | On Site | Aug 21 |
 | **[PROJXON](www.projxon.com)** | **[Customer Relations Management Specialist Intern (HubSpot)](https://jobright.ai/jobs/info/68a751c7758f2e4ac3feb1e9?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | Remote | Aug 21 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a751b5758f2e4ac3feb1cb?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Aug 21 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Intern (Family Division)](https://jobright.ai/jobs/info/68a75194758f2e4ac3feb194?utm_campaign=1058&utm_source=git)** | Morristown, NJ | Hybrid | Aug 21 |
@@ -138,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT24](https://jobright.ai/jobs/info/6893845ea9199876488ddd22?utm_campaign=1058&utm_source=git)** | Pasadena, CA | On Site | Aug 21 |
 | **[Shaw’s and Star Market](https://www.shaws.com)** | **[2025 Pharmacy Graduate Intern - Shaws](https://jobright.ai/jobs/info/688a1e13aab47a17f6706abe?utm_campaign=1058&utm_source=git)** | Lewiston, ME | Hybrid | Aug 21 |
 | ↳ | **[2025 Pharmacy Graduate Intern - Shaws](https://jobright.ai/jobs/info/688a1b9509808a6103e4c97c?utm_campaign=1058&utm_source=git)** | Bangor, ME | Hybrid | Aug 21 |
+| ↳ | **[2025 Pharmacy Graduate Intern - Shaws](https://jobright.ai/jobs/info/688a1f109f961617fe2197a3?utm_campaign=1058&utm_source=git)** | Freeport, ME | Hybrid | Aug 21 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[JMU Athletics Ticket Office Student Assistant  - IE](https://jobright.ai/jobs/info/68a7ffd8d627244576e300b5?utm_campaign=1058&utm_source=git)** | Harrisonburg, VA | On Site | Aug 21 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Computer Help Desk/Resnet Asst](https://jobright.ai/jobs/info/68a80143758f2e4ac3fefdf0?utm_campaign=1058&utm_source=git)** | Lynchburg, VA | On Site | Aug 21 |
 | **[FGS Global](https://fgsglobal.com)** | **[Intern, Technology Operations](https://jobright.ai/jobs/info/688a7aa809808a6103e4f20b?utm_campaign=1058&utm_source=git)** | New York, United States | On Site | Aug 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Loop Capital](http://www.loopcapital.com)** | **[Information Technology 2026 Summer Intern - Loop Capital](https://jobright.ai/jobs/info/68a7f66e33dd7158bbcaa9ab?utm_campaign=1058&utm_source=git)** | New York, United States | On Site | Aug 20 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Asc IT Application Analyst - Intern/Co-op conversion (Foore)](https://jobright.ai/jobs/info/68a695bb33dd7158bbca0f1a?utm_campaign=1058&utm_source=git)** | Charlotte, NC | Hybrid | Aug 20 |
 | ↳ | **[Asc IT Application Analyst - Intern/Co-op conversion (Mills)](https://jobright.ai/jobs/info/68a69453b6a3617d7fa78477?utm_campaign=1058&utm_source=git)** | Charlotte, NC | Hybrid | Aug 20 |
-| **[Penn State University](http://psu.edu)** | **[Part-Time Lion's Pantry Intern](https://jobright.ai/jobs/info/68a68c90758f2e4ac3fe5614?utm_campaign=1058&utm_source=git)** | University Park, PA | On Site | Aug 20 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a68ef6758f2e4ac3fe58dd?utm_campaign=1058&utm_source=git)** | Kannapolis, NC | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
