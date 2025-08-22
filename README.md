@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intermountain Health](https://intermountainhealthcare.org)** | **[Cook - Internship](https://jobright.ai/jobs/info/68a7ae87758f2e4ac3fedb27?utm_campaign=1058&utm_source=git)** | Intermountain Health Utah Valley Hospital | On Site | Aug 21 |
+| **[South Texas Health System](https://www.southtexashealthsystem.com/)** | **[Radiology Tech Student - PRN](https://jobright.ai/jobs/info/68a7aaa733dd7158bbca8a5a?utm_campaign=1058&utm_source=git)** | Edinburg, TX | On Site | Aug 21 |
+| **[SouthEast Alaska Regional Health Consortium (SEARHC)](http://searhc.org/)** | **[Intern - MSO and HIM](https://jobright.ai/jobs/info/68a7a852758f2e4ac3fed844?utm_campaign=1058&utm_source=git)** | Juneau, AK | Hybrid | Aug 21 |
+| ↳ | **[Intern - MSO and HIM](https://jobright.ai/jobs/info/68a7a286d627244576e2daba?utm_campaign=1058&utm_source=git)** | AK - Juneau | On Site | Aug 21 |
+| **[Community of Christ](https://cofchrist.org/)** | **[Happy Valley Intern in California, USA](https://jobright.ai/jobs/info/68a79c19d627244576e2d8c5?utm_campaign=1058&utm_source=git)** | Independence, MO | On Site | Aug 21 |
+| **[Canadian Solar Inc.](https://www.canadiansolar.com)** | **[intern](https://jobright.ai/jobs/info/68a77b6733dd7158bbca7910?utm_campaign=1058&utm_source=git)** | Mesquite, TX | On Site | Aug 21 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[IT Servicing NGS Product Summer Intern](https://jobright.ai/jobs/info/68a78f94d627244576e2d6ac?utm_campaign=1058&utm_source=git)** | Greensboro, NC United States of America | Hybrid | Aug 21 |
 | **[Davenport University](http://www.davenport.edu/)** | **[(Student) Call Center Assistant](https://jobright.ai/jobs/info/68a78aa8758f2e4ac3fed076?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Aug 21 |
 | **[Centene Corporation](http://www.centene.com)** | **[Intern (Pharmacy)](https://jobright.ai/jobs/info/68a78679d627244576e2d313?utm_campaign=1058&utm_source=git)** | Remote-IL | Remote | Aug 21 |
 | **[Research Innovations Incorporated](https://www.researchinnovations.com/)** | **[EW/SIGINT Field Support Skillbridge Internship](https://jobright.ai/jobs/info/68a7853cd627244576e2d01a?utm_campaign=1058&utm_source=git)** | United States | Hybrid | Aug 21 |
-| **[Canadian Solar Inc.](https://www.canadiansolar.com)** | **[intern](https://jobright.ai/jobs/info/68a77b6733dd7158bbca7910?utm_campaign=1058&utm_source=git)** | Mesquite, TX | On Site | Aug 21 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/68a779fad627244576e2cca4?utm_campaign=1058&utm_source=git)** | Southaven, MS | On Site | Aug 21 |
 | **[California Department of Insurance](https://www.insurance.ca.gov)** | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/68a7780833dd7158bbca7834?utm_campaign=1058&utm_source=git)** | Long Beach, CA | On Site | Aug 21 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Customer Service & Administrative Internship (Ophthalmology)](https://jobright.ai/jobs/info/68a775e833dd7158bbca75f2?utm_campaign=1058&utm_source=git)** | Boston, MA | Hybrid | Aug 21 |
@@ -117,9 +122,9 @@ For a complete list, click the following sortable link below:
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Asc IT Application Analyst - Intern/Co-op conversion (Foore)](https://jobright.ai/jobs/info/68a695bb33dd7158bbca0f1a?utm_campaign=1058&utm_source=git)** | Charlotte, NC | Hybrid | Aug 20 |
 | ↳ | **[Asc IT Application Analyst - Intern/Co-op conversion (Mills)](https://jobright.ai/jobs/info/68a69453b6a3617d7fa78477?utm_campaign=1058&utm_source=git)** | Charlotte, NC | Hybrid | Aug 20 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Lion's Pantry Intern](https://jobright.ai/jobs/info/68a68c90758f2e4ac3fe5614?utm_campaign=1058&utm_source=git)** | University Park, PA | On Site | Aug 20 |
-| **[Republic Airways](http://www.rjet.com)** | **[Information Technology Intern - Fall 2025](https://jobright.ai/jobs/info/6891143cf47efe211395294b?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Aug 20 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a68ef6758f2e4ac3fe58dd?utm_campaign=1058&utm_source=git)** | Kannapolis, NC | On Site | Aug 20 |
 | **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Kendall- IT Tech Assistant (Student Position)](https://jobright.ai/jobs/info/68a66cac758f2e4ac3fe4c8b?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Aug 20 |
+| **[Trew](https://www.trewautomation.com/)** | **[Spring 2026 IT Co-Op](https://jobright.ai/jobs/info/68a7a0ccd627244576e2da20?utm_campaign=1058&utm_source=git)** | West Chester, OH | On Site | Aug 20 |
 | **[American University](http://american.edu)** | **[IRW Student Intern (Student)](https://jobright.ai/jobs/info/68a6665133dd7158bbc9fc15?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Aug 20 |
 | **[Southwestern Michigan College](http://www.swmich.edu/)** | **[Student- eSports Assistant](https://jobright.ai/jobs/info/68a665dbb6a3617d7fa7738a?utm_campaign=1058&utm_source=git)** | Dowagiac, MI | On Site | Aug 20 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Pharmacist Graduate Intern](https://jobright.ai/jobs/info/68a68cf6758f2e4ac3fe56b2?utm_campaign=1058&utm_source=git)** | Fishers, IN | On Site | Aug 20 |
@@ -145,16 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a6530433dd7158bbc9f606?utm_campaign=1058&utm_source=git)** | Matawan, NJ | On Site | Aug 20 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a652f0b6a3617d7fa76e36?utm_campaign=1058&utm_source=git)** | Spring, TX | On Site | Aug 20 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/68a652ee758f2e4ac3fe4359?utm_campaign=1058&utm_source=git)** | Durango, CO | On Site | Aug 20 |
-| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a652e233dd7158bbc9f5cc?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Aug 20 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a652e233dd7158bbc9f5cd?utm_campaign=1058&utm_source=git)** | Moorhead, MN | On Site | Aug 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68a652e2758f2e4ac3fe4350?utm_campaign=1058&utm_source=git)** | Wheat Ridge, CO | On Site | Aug 20 |
+| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a652e233dd7158bbc9f5cc?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Aug 20 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a652a5758f2e4ac3fe432f?utm_campaign=1058&utm_source=git)** | Coralville, IA | On Site | Aug 20 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a6529ab6a3617d7fa76de1?utm_campaign=1058&utm_source=git)** | Lexington, SC | On Site | Aug 20 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68a65284b6a3617d7fa76dcd?utm_campaign=1058&utm_source=git)** | Moorhead, MN | On Site | Aug 20 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68a65284b6a3617d7fa76dcc?utm_campaign=1058&utm_source=git)** | Moorhead, MN | On Site | Aug 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68a65237b6a3617d7fa76d9a?utm_campaign=1058&utm_source=git)** | Valdosta, GA | On Site | Aug 20 |
-| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a65230b6a3617d7fa76d8f?utm_campaign=1058&utm_source=git)** | Alexandria, MN | On Site | Aug 20 |
-| **[Generac](https://www.generac.com/)** | **[Workforce Management Intern - Customer Experience](https://jobright.ai/jobs/info/68a64d9f33dd7158bbc9f400?utm_campaign=1058&utm_source=git)** | Pewaukee, WI - USA | On Site | Aug 20 |
-| **[Summit Agricultural Group](http://summitag.com/)** | **[IT Technician Internship](https://jobright.ai/jobs/info/68a64a24758f2e4ac3fe4068?utm_campaign=1058&utm_source=git)** | Alden, IA | On Site | Aug 20 |
-| **[Tencent Americas](http://www.exploretencent.com/careers/)** | **[IT Engineer Intern](https://jobright.ai/jobs/info/68a649ef758f2e4ac3fe403f?utm_campaign=1058&utm_source=git)** | Palo Alto, CA | On Site | Aug 20 |
-| **[Mount St. Joseph University](http://www.msj.edu)** | **[cITe Support Scholar](https://jobright.ai/jobs/info/68a6414ab6a3617d7fa768f5?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
