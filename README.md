@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blackberry Farm](http://www.blackberryfarm.com/)** | **[Hospitality Internship](https://jobright.ai/jobs/info/68a7e64c758f2e4ac3fef185?utm_campaign=1058&utm_source=git)** | Cashiers, NC | On Site | Aug 21 |
+| **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Radiology Tech Extern II](https://jobright.ai/jobs/info/68a7da51758f2e4ac3feeda8?utm_campaign=1058&utm_source=git)** | Byron, GA | On Site | Aug 21 |
+| **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Pharmacy Intern I](https://jobright.ai/jobs/info/68a7d8c1d627244576e2f1a2?utm_campaign=1058&utm_source=git)** | Atrium Health Wake Forest Baptist - Medical Center Blvd, Winston Salem, NC | On Site | Aug 21 |
+| **[Bryan Health](https://www.bryanhealth.com/)** | **[Student Radiologic Technologist](https://jobright.ai/jobs/info/68a7d7a3d627244576e2f090?utm_campaign=1058&utm_source=git)** | Lincoln, NE | On Site | Aug 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68a7c71c33dd7158bbca9981?utm_campaign=1058&utm_source=git)** | Morgantown, WV | On Site | Aug 21 |
 | **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[IT Servicing NGS Product Summer Intern](https://jobright.ai/jobs/info/68a7c71133dd7158bbca996e?utm_campaign=1058&utm_source=git)** | Triad Area | Hybrid | Aug 21 |
 | **[St. Mary's Medical Center](https://www.stmaryskc.com/)** | **[Pharmacy Intern - SMAMO Pharmacy](https://jobright.ai/jobs/info/68a7c66c758f2e4ac3fee70a?utm_campaign=1058&utm_source=git)** | Blue Springs, MO | On Site | Aug 21 |
@@ -100,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[The Christ Hospital Health Network](https://www.thechristhospital.com/)** | **[Intern](https://jobright.ai/jobs/info/68a7618833dd7158bbca6a0c?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Aug 21 |
 | **[State Bank of Cross Plains](https://www.sbcp.bank/)** | **[Student Client Service Associate Youth](https://jobright.ai/jobs/info/68a75557758f2e4ac3feb3cd?utm_campaign=1058&utm_source=git)** | Sun Prairie, WI | On Site | Aug 21 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68a753f1d627244576e2b77d?utm_campaign=1058&utm_source=git)** | Brandon, MS | On Site | Aug 21 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a752a5d627244576e2b613?utm_campaign=1058&utm_source=git)** | Jersey City, NJ | On Site | Aug 21 |
-| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a752a5d627244576e2b614?utm_campaign=1058&utm_source=git)** | Placentia, CA | On Site | Aug 21 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a752a5d627244576e2b614?utm_campaign=1058&utm_source=git)** | Placentia, CA | On Site | Aug 21 |
+| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a752a5d627244576e2b613?utm_campaign=1058&utm_source=git)** | Jersey City, NJ | On Site | Aug 21 |
 | **[PROJXON](www.projxon.com)** | **[Customer Relations Management Specialist Intern (HubSpot)](https://jobright.ai/jobs/info/68a751c7758f2e4ac3feb1e9?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | Remote | Aug 21 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a751b5758f2e4ac3feb1cb?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Aug 21 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Intern (Family Division)](https://jobright.ai/jobs/info/68a75194758f2e4ac3feb194?utm_campaign=1058&utm_source=git)** | Morristown, NJ | Hybrid | Aug 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Alumni Front Desk and Office Assistant - FWS](https://jobright.ai/jobs/info/68a68d6333dd7158bbca099d?utm_campaign=1058&utm_source=git)** | Harrisonburg, VA | On Site | Aug 20 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68a6575db6a3617d7fa76f9e?utm_campaign=1058&utm_source=git)** | Glendale, AZ | On Site | Aug 20 |
 | **[Kamehameha Schools](http://www.ksbe.edu/)** | **[Student Aide](https://jobright.ai/jobs/info/68a09e8bcc9ee94dc911fd4d?utm_campaign=1058&utm_source=git)** | Honolulu, HI | On Site | Aug 20 |
-| **[Generac](https://www.generac.com/)** | **[Workforce Management Intern - Customer Experience](https://jobright.ai/jobs/info/68a65668b6a3617d7fa76f0a?utm_campaign=1058&utm_source=git)** | Pewaukee, WI | On Site | Aug 20 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/68a6542d758f2e4ac3fe448c?utm_campaign=1058&utm_source=git)** | Grand Junction, CO | On Site | Aug 20 |
-| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a65410758f2e4ac3fe446e?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Aug 20 |
-| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68a653e4758f2e4ac3fe444f?utm_campaign=1058&utm_source=git)** | Huntington Park, CA | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
