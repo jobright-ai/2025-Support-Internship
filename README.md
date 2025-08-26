@@ -107,11 +107,11 @@ For a complete list, click the following sortable link below:
 | **[GOSVEA Inc](http://gosvea.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/68aca143758f2e4ac30072e9?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Aug 25 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Services Internship, Price Modeling (Summer 2026)](https://jobright.ai/jobs/info/68aca0f5daf1431824c96a91?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Aug 25 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Customer Solutions Internship - Summer 2026](https://jobright.ai/jobs/info/68aca0db758f2e4ac3007254?utm_campaign=1058&utm_source=git)** | Lancaster, PA | On Site | Aug 25 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68ac9c96daf1431824c96765?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | On Site | Aug 25 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ac9c48daf1431824c966f5?utm_campaign=1058&utm_source=git)** | Salisbury, NC | On Site | Aug 25 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ac9c48daf1431824c966f5?utm_campaign=1058&utm_source=git)** | Salisbury, NC | On Site | Aug 25 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68ac9bfe758f2e4ac3006f0e?utm_campaign=1058&utm_source=git)** | Lexington, NC | On Site | Aug 25 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68ac9b94758f2e4ac3006ea4?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | On Site | Aug 25 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ac9b47758f2e4ac3006e64?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | On Site | Aug 25 |
+| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68ac9b17758f2e4ac3006e29?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | On Site | Aug 25 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ac9b16d627244576e473df?utm_campaign=1058&utm_source=git)** | Clemmons, NC | On Site | Aug 25 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68ac9a8e758f2e4ac3006d8d?utm_campaign=1058&utm_source=git)** | Salisbury, NC | On Site | Aug 25 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ac9a71758f2e4ac3006d7a?utm_campaign=1058&utm_source=git)** | Statesville, NC | On Site | Aug 25 |
@@ -139,7 +139,9 @@ For a complete list, click the following sortable link below:
 | **[Allegheny County](http://www.alleghenycounty.us/dhs)** | **[Software Intern - IT](https://jobright.ai/jobs/info/68ac5899d627244576e453db?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Aug 25 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/6874c5d8ae2f413e4a5a0343?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | Hybrid | Aug 25 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Service Desk Analyst Intern](https://jobright.ai/jobs/info/68ac4a64daf1431824c944f4?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Aug 25 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/687350aea5ae807a59d09674?utm_campaign=1058&utm_source=git)** | Pueblo, CO | Hybrid | Aug 25 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Data Center Operations](https://jobright.ai/jobs/info/68ac456ed627244576e44f32?utm_campaign=1058&utm_source=git)** | Tempe, AZ | Hybrid | Aug 25 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/6874cdc3ae2f413e4a5a06dd?utm_campaign=1058&utm_source=git)** | Fountain, CO | Hybrid | Aug 25 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Service Desk Analyst Intern](https://jobright.ai/jobs/info/68ac3afa758f2e4ac3004915?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Aug 25 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Associate Technical Account Manager](https://jobright.ai/jobs/info/68ac2157d627244576e4499c?utm_campaign=1058&utm_source=git)** | New York | On Site | Aug 25 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 Technical Support Rep paid intern (Jan and May hires)](https://jobright.ai/jobs/info/68ac213f758f2e4ac3004584?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mississippi Votes](msvotes.org)** | **[2025 Fall Internship (Gulfport)](https://jobright.ai/jobs/info/68ab82b5758f2e4ac3fff8a6?utm_campaign=1058&utm_source=git)** | Gulfport, MS | On Site | Aug 24 |
 | **[Gateway Regional Medical Center](http://www.gatewayregional.net)** | **[Radiology Tech Student](https://jobright.ai/jobs/info/68ab7cb4758f2e4ac3fff84f?utm_campaign=1058&utm_source=git)** | Granite City, IL | On Site | Aug 24 |
 | **[AdventHealth Central Florida](http://www.adventhealth.com)** | **[Student Worker, General Office, AHU PRN](https://jobright.ai/jobs/info/68ab7301d627244576e3fa79?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Aug 24 |
-| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/68ab5827daf1431824c8ec37?utm_campaign=1058&utm_source=git)** | West Des Moines, IA | On Site | Aug 24 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ab454ed627244576e3f6ef?utm_campaign=1058&utm_source=git)** | Lincolnton, NC | On Site | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
