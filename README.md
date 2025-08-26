@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Colorado](https://cjlc.colorado.gov/)** | **[Lottery Underage Operative (Temporary).](https://jobright.ai/jobs/info/68adabc2d627244576e4e43d?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Aug 26 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, IT Service Desk](https://jobright.ai/jobs/info/685844407499d606fa24a06d?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Aug 26 |
+| **[Kama'aina Kids](https://www.kamaainakids.com)** | **[After School Aides](https://jobright.ai/jobs/info/68adb13b758f2e4ac300e156?utm_campaign=1058&utm_source=git)** | Makawao, HI | On Site | Aug 26 |
+| ↳ | **[After School Aides](https://jobright.ai/jobs/info/68adaf21daf1431824c9d6d2?utm_campaign=1058&utm_source=git)** | Honolulu, HI | On Site | Aug 26 |
 | **[BlinkRx](https://blinkhealth.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68919197f47efe2113956b61?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Aug 26 |
 | **[Modern Sciences and Arts University](https://msa.edu.eg/msauniversity)** | **[Translator](https://jobright.ai/jobs/info/68ad7fa6d627244576e4dec3?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Aug 26 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee - Psychological Services Center](https://jobright.ai/jobs/info/68ad7bea758f2e4ac300d96a?utm_campaign=1058&utm_source=git)** | Huntsville, TX | On Site | Aug 26 |
@@ -71,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Hyatt Regency San Francisco Downtown SoMa](https://www.hyatt.com/en-US/hotel/california/hyatt-regency-san-francisco-downtown-soma/sford?msclkid=162dcb75badd11ec98c88c952a5a1447)** | **[Intern - Housekeeping](https://jobright.ai/jobs/info/68ad2148d627244576e4b68b?utm_campaign=1058&utm_source=git)** | San Francisco Bay Area | On Site | Aug 25 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/68ad168cdaf1431824c9a61a?utm_campaign=1058&utm_source=git)** | West Des Moines, IA | On Site | Aug 25 |
 | **[Lakeview Hospital](http://lakeviewhospital.com)** | **[Imaging Technologist Extern PRN](https://jobright.ai/jobs/info/68ad1654758f2e4ac300adf7?utm_campaign=1058&utm_source=git)** | Bountiful, UT | On Site | Aug 25 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Tech Intern](https://jobright.ai/jobs/info/68a721e233dd7158bbca4b9c?utm_campaign=1058&utm_source=git)** | Spring, TX | Hybrid | Aug 25 |
 | **[Gladwell Orthodontics](https://gladwellorthodontics.com/)** | **[Barista/Front Office Staff Intern](https://jobright.ai/jobs/info/68ad126cdaf1431824c9a3e8?utm_campaign=1058&utm_source=git)** | US-NC-Wake Forest | On Site | Aug 25 |
 | **[Medpace](http://www.medpace.com)** | **[Patient Concierge Services Internship- Spring 2026](https://jobright.ai/jobs/info/68ad10c6d627244576e4afdd?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 25 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ad0f7f758f2e4ac300aa92?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Aug 25 |
@@ -88,7 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the-johns-hopkins-hospital)** | **[Patient Care Tech Intern Telemetry (Day 36)](https://jobright.ai/jobs/info/68ad04d8daf1431824c99c13?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Aug 25 |
 | **[Verkada](https://www.verkada.com)** | **[Technical Support Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68ad048adaf1431824c99b84?utm_campaign=1058&utm_source=git)** | San Mateo, CA United States | On Site | Aug 25 |
 | **[Enable Injections, Inc.](http://www.enableinjections.com)** | **[Intern, IT](https://jobright.ai/jobs/info/68a3d88537d3cc6b0d57a19c?utm_campaign=1058&utm_source=git)** | Cincinnati Metro | On Site | Aug 25 |
-| **[State of Colorado](https://dpo.colorado.gov/Medical)** | **[Lottery Underage Operative (Temporary)](https://jobright.ai/jobs/info/68ad7cd7758f2e4ac300d9b1?utm_campaign=1058&utm_source=git)** | Larimer County, CO | On Site | Aug 25 |
+| **[State of Colorado](https://cjlc.colorado.gov/)** | **[Lottery Underage Operative (Temporary)](https://jobright.ai/jobs/info/68ad7cd7758f2e4ac300d9b1?utm_campaign=1058&utm_source=git)** | Larimer County, CO | On Site | Aug 25 |
 | **[Affinity Group, Sales & Marketing Agency](http://www.affinitysales.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68acfb6dd627244576e4a54e?utm_campaign=1058&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Express Scripts Pharmacy Benefit Services](http://www.express-scripts.com/)** | **[Express Scripts Summer Intern - 2026](https://jobright.ai/jobs/info/68acef59daf1431824c99348?utm_campaign=1058&utm_source=git)** | St Louis, MO | Remote | Aug 25 |
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Pharmacy Internship, University Hospital Inpatient & Huntsman Outpatient (Class of 2029)](https://jobright.ai/jobs/info/68ad1fc8758f2e4ac300b0c1?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Aug 25 |
@@ -106,21 +110,22 @@ For a complete list, click the following sortable link below:
 | **[Armstrong World Industries](https://www.armstrongceilings.com)** | **[IT Internship (Summer 2026) Job](https://jobright.ai/jobs/info/68acb956d627244576e48822?utm_campaign=1058&utm_source=git)** | Lancaster, PA | On Site | Aug 25 |
 | **[CTBK](https://www.ctbk.com/)** | **[L.E.A.D. Summit](https://jobright.ai/jobs/info/68acb4d4d627244576e484f2?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Aug 25 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Customer Solutions Internship - Spring 2026](https://jobright.ai/jobs/info/68acb312758f2e4ac3007dd7?utm_campaign=1058&utm_source=git)** | Lancaster, PA | On Site | Aug 25 |
+| **[Markel](https://www.markel.com)** | **[2026 IT Internship Program](https://jobright.ai/jobs/info/68acafaf758f2e4ac3007ad2?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Aug 25 |
 | **[Year Up United](http://yearup.org)** | **[Customer Service Fundamentals Career Training Opportunity](https://jobright.ai/jobs/info/68acac89daf1431824c96fa6?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Aug 25 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/68acabf2d627244576e47cde?utm_campaign=1058&utm_source=git)** | Altoona, IA | On Site | Aug 25 |
 | **[The Christ Hospital Health Network](https://www.thechristhospital.com/)** | **[Cardiac Cath Lab Radiology Technology Student - Main Cardiac Cath Lab - PRN - Days](https://jobright.ai/jobs/info/68aca804daf1431824c96ea5?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Aug 25 |
+| **[City of West Covina](http://www.westcovina.org)** | **[IT Intern (Paid) Promo Only](https://jobright.ai/jobs/info/68acb258d627244576e48044?utm_campaign=1058&utm_source=git)** | West Covina, CA | On Site | Aug 25 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Services Internship, CX Designer (Summer 2026)](https://jobright.ai/jobs/info/68aca4aed627244576e47908?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Aug 25 |
 | ↳ | **[Service Operations Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca46fd627244576e478d1?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Aug 25 |
-| **[City of West Covina](http://www.westcovina.org)** | **[Intern (Paid) Promo Only](https://jobright.ai/jobs/info/68acb258d627244576e48044?utm_campaign=1058&utm_source=git)** | West Covina, CA | On Site | Aug 25 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Services Internship, Business Modeling & Forecasting (Summer 2026)](https://jobright.ai/jobs/info/68aca302daf1431824c96cce?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Aug 25 |
+| ↳ | **[Services Internship, Business Modeling & Forecasting (Summer 2026)](https://jobright.ai/jobs/info/68aca302daf1431824c96cce?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Aug 25 |
 | ↳ | **[Services Internship, Competitive Analysis & Benchmarking (Summer 2026)](https://jobright.ai/jobs/info/68aca273daf1431824c96c39?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Aug 25 |
 | **[GOSVEA Inc](http://gosvea.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/68aca143758f2e4ac30072e9?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Aug 25 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Services Internship, Price Modeling (Summer 2026)](https://jobright.ai/jobs/info/68aca0f5daf1431824c96a91?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Aug 25 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Customer Solutions Internship - Summer 2026](https://jobright.ai/jobs/info/68aca0db758f2e4ac3007254?utm_campaign=1058&utm_source=git)** | Lancaster, PA | On Site | Aug 25 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ac9c48daf1431824c966f5?utm_campaign=1058&utm_source=git)** | Salisbury, NC | On Site | Aug 25 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ac9c2a758f2e4ac3006f3b?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | On Site | Aug 25 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68ac9bfe758f2e4ac3006f0e?utm_campaign=1058&utm_source=git)** | Lexington, NC | On Site | Aug 25 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68ac9b94758f2e4ac3006ea4?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | On Site | Aug 25 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ac9b47758f2e4ac3006e64?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | On Site | Aug 25 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68ac9b17758f2e4ac3006e29?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | On Site | Aug 25 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ac9b16d627244576e473df?utm_campaign=1058&utm_source=git)** | Clemmons, NC | On Site | Aug 25 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68ac9a8e758f2e4ac3006d8d?utm_campaign=1058&utm_source=git)** | Salisbury, NC | On Site | Aug 25 |
@@ -135,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Luther Seminary](http://www.luthersem.edu)** | **[Operations Student Worker (Service Desk and Maintenance teams) Internal Student Only](https://jobright.ai/jobs/info/68ac90eed627244576e46d06?utm_campaign=1058&utm_source=git)** | Saint Paul, MN | On Site | Aug 25 |
 | **[Michigan Health Information Network Shared Services (MiHIN)](http://mihin.org)** | **[JIRA Service Desk Administrator Intern](https://jobright.ai/jobs/info/68ac9067daf1431824c9608e?utm_campaign=1058&utm_source=git)** | Michigan, United States | Hybrid | Aug 25 |
 | **[Penn Highlands Healthcare](https://www.phhealthcare.org/)** | **[Student Radiology Technologist - 13998](https://jobright.ai/jobs/info/68ac888fd627244576e468e1?utm_campaign=1058&utm_source=git)** | Du Bois, PA | On Site | Aug 25 |
-| **[Markel](https://www.markel.com)** | **[2026 IT Internship Program](https://jobright.ai/jobs/info/68ac866c758f2e4ac300639d?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Aug 25 |
 | **[Cencora](http://www.cencora.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ac84b9d627244576e466c8?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Aug 25 |
 | **[HCA Florida Aventura Hospital](https://aventurahospital.com)** | **[Surgical Technologist Extern PRN](https://jobright.ai/jobs/info/687459a4ae2f413e4a59c0bc?utm_campaign=1058&utm_source=git)** | Aventura, FL | On Site | Aug 25 |
 | **[Year Up United](http://yearup.org)** | **[Desktop Management Job Training Program](https://jobright.ai/jobs/info/68acaeff758f2e4ac3007a29?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Aug 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Data Center Operations](https://jobright.ai/jobs/info/68ac456ed627244576e44f32?utm_campaign=1058&utm_source=git)** | Tempe, AZ | Hybrid | Aug 25 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/6874cdc3ae2f413e4a5a06dd?utm_campaign=1058&utm_source=git)** | Fountain, CO | Hybrid | Aug 25 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Service Desk Analyst Intern](https://jobright.ai/jobs/info/68ac3afa758f2e4ac3004915?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Aug 25 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Associate Technical Account Manager](https://jobright.ai/jobs/info/68ac2157d627244576e4499c?utm_campaign=1058&utm_source=git)** | New York | On Site | Aug 25 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 Technical Support Rep paid intern (Jan and May hires)](https://jobright.ai/jobs/info/68ac213f758f2e4ac3004584?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 25 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Associate Technical Account Manager](https://jobright.ai/jobs/info/68ac2132daf1431824c93d9b?utm_campaign=1058&utm_source=git)** | Seattle | On Site | Aug 25 |
-| ↳ | **[2026 Intern - Associate Technical Account Manager](https://jobright.ai/jobs/info/68ac212fd627244576e4497e?utm_campaign=1058&utm_source=git)** | San Jose | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
