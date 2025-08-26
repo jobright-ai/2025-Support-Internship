@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[IT Intern](https://jobright.ai/jobs/info/68ae281d758f2e4ac3011c89?utm_campaign=1058&utm_source=git)** | Arden Hills, MN (USA) | On Site | Aug 26 |
+| **[OSF Saint Francis Medical Center](https://www.osfhealthcare.org)** | **[Respiratory Therapy Student Intern](https://jobright.ai/jobs/info/68ae260d758f2e4ac3011b5f?utm_campaign=1058&utm_source=git)** | Peoria, IL | On Site | Aug 26 |
+| **[Cadence Education](http://www.cadence-education.com/)** | **[Enrollment and Acquisitions Intern](https://jobright.ai/jobs/info/68ae247adaf1431824ca1240?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Aug 26 |
+| **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2025 Fall Food, Beverage, and Events Intern (onsite)](https://jobright.ai/jobs/info/68ae23acdaf1431824ca118e?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Aug 26 |
+| **[Hartford HealthCare](https://hartfordhealthcare.org)** | **[Student Intern / IS Operations](https://jobright.ai/jobs/info/68ae1eb7daf1431824ca0fa5?utm_campaign=1058&utm_source=git)** | Farmington, CT | On Site | Aug 26 |
+| **[Google](https://www.google.com)** | **[Information Technology (IT) Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68ae1710daf1431824ca0b00?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Aug 26 |
+| ↳ | **[Information Technology (IT) Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68ae1575758f2e4ac30112fb?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Aug 26 |
+| **[Packaging Corporation of America](http://packagingcorp.com)** | **[IT Intern (Summer 2026)](https://jobright.ai/jobs/info/68ae1552758f2e4ac30112cf?utm_campaign=1058&utm_source=git)** | International Falls, MN | On Site | Aug 26 |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Servicing Intern](https://jobright.ai/jobs/info/68ae132ddaf1431824ca09ea?utm_campaign=1058&utm_source=git)** | Strongsville, OH | On Site | Aug 26 |
+| **[Android Industries](http://www.android-ind.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68ae12ddd627244576e516cb?utm_campaign=1058&utm_source=git)** | Arlington Plant, Arlington, Texas, United States of America | On Site | Aug 26 |
+| **[Packaging Corporation of America](http://packagingcorp.com)** | **[IT Co-op (May to December 2026)](https://jobright.ai/jobs/info/68ae11f6d627244576e515e2?utm_campaign=1058&utm_source=git)** | International Falls, MN | On Site | Aug 26 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Claims Summer Intern](https://jobright.ai/jobs/info/68ae113cd627244576e5150b?utm_campaign=1058&utm_source=git)** | Jersey City, NJ | Hybrid | Aug 26 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Operations Support Services Apprentice](https://jobright.ai/jobs/info/68ae10d3d627244576e51471?utm_campaign=1058&utm_source=git)** | Morristown, NY | Hybrid | Aug 26 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[IT Co-op (January to August 2026)](https://jobright.ai/jobs/info/68ae10b8d627244576e51453?utm_campaign=1058&utm_source=git)** | International Falls, MN | On Site | Aug 26 |
@@ -89,10 +100,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68adec57758f2e4ac300f951?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Aug 26 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68adec4ed627244576e4fe17?utm_campaign=1058&utm_source=git)** | Greeneville, TN | On Site | Aug 26 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68adec1ddaf1431824c9ef55?utm_campaign=1058&utm_source=git)** | New Tazewell, TN | On Site | Aug 26 |
-| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68adec19d627244576e4fdea?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Aug 26 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68adebebdaf1431824c9ef32?utm_campaign=1058&utm_source=git)** | Boynton Beach, FL | On Site | Aug 26 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68adebd2d627244576e4fd91?utm_campaign=1058&utm_source=git)** | Wildwood, NJ | On Site | Aug 26 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68adebcd758f2e4ac300f8df?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Aug 26 |
+| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68adebb0daf1431824c9ef06?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Aug 26 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68adeb7c758f2e4ac300f881?utm_campaign=1058&utm_source=git)** | Jackson, NJ | On Site | Aug 26 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68adeb20daf1431824c9eebf?utm_campaign=1058&utm_source=git)** | West Palm Beach, FL | On Site | Aug 26 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Data Center Operations](https://jobright.ai/jobs/info/68adeb1f758f2e4ac300f83a?utm_campaign=1058&utm_source=git)** | Tempe, AZ | Hybrid | Aug 26 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the-johns-hopkins-hospital)** | **[Patient Care Tech Intern Telemetry (Day 36)](https://jobright.ai/jobs/info/68ad04d8daf1431824c99c13?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Aug 25 |
 | **[Verkada](https://www.verkada.com)** | **[Technical Support Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68ad048adaf1431824c99b84?utm_campaign=1058&utm_source=git)** | San Mateo, CA United States | On Site | Aug 25 |
 | **[Enable Injections, Inc.](http://www.enableinjections.com)** | **[Intern, IT](https://jobright.ai/jobs/info/68a3d88537d3cc6b0d57a19c?utm_campaign=1058&utm_source=git)** | Cincinnati Metro | On Site | Aug 25 |
-| **[Necco](https://www.necco.org)** | **[Internship - Necco Center](https://jobright.ai/jobs/info/68add655daf1431824c9e57e?utm_campaign=1058&utm_source=git)** | Pedro, OH | On Site | Aug 25 |
-| **[Affinity Group, Sales & Marketing Agency](http://www.affinitysales.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68acfb6dd627244576e4a54e?utm_campaign=1058&utm_source=git)** | United States | Remote | Aug 25 |
-| **[Express Scripts Pharmacy Benefit Services](http://www.express-scripts.com/)** | **[Express Scripts Summer Intern - 2026](https://jobright.ai/jobs/info/68acef59daf1431824c99348?utm_campaign=1058&utm_source=git)** | St Louis, MO | Remote | Aug 25 |
-| **[University of Utah Health](https://www.cs.utah.edu)** | **[Pharmacy Internship, University Hospital Inpatient & Huntsman Outpatient (Class of 2029)](https://jobright.ai/jobs/info/68ad1fc8758f2e4ac300b0c1?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Aug 25 |
-| **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Customer Care & Support](https://jobright.ai/jobs/info/68acee93daf1431824c992ad?utm_campaign=1058&utm_source=git)** | Omaha, NE | Hybrid | Aug 25 |
-| **[UChicago Medicine](https://www.uchicagomedicine.org/)** | **[Student Pharmacy Intern, Meds 2 Beds, Days](https://jobright.ai/jobs/info/68acedd3758f2e4ac30099c1?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
-| **[Porsche Cars North America](http://www.porscheusa.com)** | **[IT Services Intern](https://jobright.ai/jobs/info/68acec42d627244576e49e94?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Aug 25 |
-| **[Stuller, Inc.](http://stuller.com)** | **[IT Intern](https://jobright.ai/jobs/info/68acebf8d627244576e49e46?utm_campaign=1058&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Aug 25 |
-| **[Summit (formerly Deft)](http://www.servercentral.com)** | **[IT Technician Internship](https://jobright.ai/jobs/info/68accc0cd627244576e49304?utm_campaign=1058&utm_source=git)** | Alden, IA | On Site | Aug 25 |
-| **[United Supermarkets, LLC](https://www.unitedsupermarkets.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68acc42ddaf1431824c981e2?utm_campaign=1058&utm_source=git)** | Amarillo, TX | On Site | Aug 25 |
-| **[MRIGlobal](http://www.mriglobal.org)** | **[Part-Time Intern Technical Support - Pharmaceutical Analysis](https://jobright.ai/jobs/info/68984e1383d13d1f5b68db6f?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
