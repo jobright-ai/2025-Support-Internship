@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Master ConcessionAir, LLC](http://mcawwc.com)** | **[Crew members - Newark Liberty International Airport](https://jobright.ai/jobs/info/68af7e4f962903596357d3c9?utm_campaign=1058&utm_source=git)** | Newark, NJ | On Site | Aug 27 |
+| **[Wabash General Hospital](https://wabashgeneral.com/)** | **[Student Application](https://jobright.ai/jobs/info/68af7d2f2daaba398441eb7c?utm_campaign=1058&utm_source=git)** | Mount Carmel, IL | On Site | Aug 27 |
+| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Office of Admissions-Transcript Data Entry Associate (remote)](https://jobright.ai/jobs/info/68af7a9f2daaba398441ea2b?utm_campaign=1058&utm_source=git)** | UT MAIN CAMPUS | Remote | Aug 27 |
+| **[Luther Seminary](http://www.luthersem.edu)** | **[OT Helpdesk Student Assistant-Internal Hire](https://jobright.ai/jobs/info/68af6cfd1f0a2a568a0618cd?utm_campaign=1058&utm_source=git)** | Saint Paul, MN | On Site | Aug 27 |
+| **[Capital Caring Health](https://www.capitalcaring.org/)** | **[IT Support Intern](https://jobright.ai/jobs/info/68af6c5e1f0a2a568a061817?utm_campaign=1058&utm_source=git)** | Falls Church, VA | On Site | Aug 27 |
+| **[Post University](http://www.post.edu/)** | **[FWS - Esports Lab Assistant](https://jobright.ai/jobs/info/68af6487962903596357c63f?utm_campaign=1058&utm_source=git)** | Waterbury, CT | On Site | Aug 27 |
 | **[Burns Engineering, Inc.](http://burns-group.com)** | **[IT Co-op](https://jobright.ai/jobs/info/68af608c1f0a2a568a0612de?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Aug 27 |
 | **[FM](https://www.fmglobal.com)** | **[Client Service Intern](https://jobright.ai/jobs/info/68af5fbb2daaba398441db7d?utm_campaign=1058&utm_source=git)** | Reston, VA | On Site | Aug 27 |
 | ↳ | **[Client Service Intern](https://jobright.ai/jobs/info/68af5e421f0a2a568a060fb6?utm_campaign=1058&utm_source=git)** | Parsippany, NJ | On Site | Aug 27 |
@@ -66,8 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Marriott International](http://travel-brilliantly.marriott.com)** | **[HQ Fellowship-Undergraduate Degree](https://jobright.ai/jobs/info/68af58551f0a2a568a060d56?utm_campaign=1058&utm_source=git)** | Bethesda, MD | On Site | Aug 27 |
 | **[Harford Mutual Insurance Group](http://harfordmutual.com)** | **[Claims Intern](https://jobright.ai/jobs/info/68af58161f0a2a568a060cf7?utm_campaign=1058&utm_source=git)** | Bel Air, MD, USA | On Site | Aug 27 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[IT Intern](https://jobright.ai/jobs/info/68af57172daaba398441d5f7?utm_campaign=1058&utm_source=git)** | Oak Park Heights, MN | On Site | Aug 27 |
-| **[NJM Insurance Group](https://www.njm.com)** | **[I.T. Workstation Support Intern](https://jobright.ai/jobs/info/68af551d2daaba398441d523?utm_campaign=1058&utm_source=git)** | NJM - Trenton | On Site | Aug 27 |
-| ↳ | **[I.T. Workstation Support Winter Intern](https://jobright.ai/jobs/info/68af5505962903596357ba5d?utm_campaign=1058&utm_source=git)** | NJM - Trenton | On Site | Aug 27 |
+| **[NJM Insurance Group](https://www.njm.com)** | **[I.T. Workstation Support Winter Intern](https://jobright.ai/jobs/info/68af5505962903596357ba5d?utm_campaign=1058&utm_source=git)** | NJM - Trenton | On Site | Aug 27 |
 | **[Extreme Engineering Solutions](https://www.xes-inc.com/)** | **[IT Services Co-Op/Intern](https://jobright.ai/jobs/info/68af531b2daaba398441d2dd?utm_campaign=1058&utm_source=git)** | Verona, WI | On Site | Aug 27 |
 | **[Marriott International](http://travel-brilliantly.marriott.com)** | **[HQ Fellowship-MBA](https://jobright.ai/jobs/info/68af51ce1f0a2a568a0607de?utm_campaign=1058&utm_source=git)** | Bethesda, MD | On Site | Aug 27 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68af50af7bcb7608b3d2c69b?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | Aug 27 |
@@ -102,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Columbus State University](http://www.columbusstate.edu/)** | **[Student Assistant -UITS Help Desk RiverPark](https://jobright.ai/jobs/info/68af33362daaba398441c071?utm_campaign=1058&utm_source=git)** | Columbus, GA | On Site | Aug 27 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Desktop Support)](https://jobright.ai/jobs/info/68af1bef2daaba398441ba7c?utm_campaign=1058&utm_source=git)** | 5510 Heritage Oaks Drive, Pensacola, FL, 32526, US | On Site | Aug 27 |
 | **[University of Nebraska at Omaha](http://www.unomaha.edu/)** | **[Student Success Technologies Intern](https://jobright.ai/jobs/info/68af3e891f0a2a568a05feed?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Aug 27 |
-| **[Year Up United](http://yearup.org)** | **[Customer Service Fundamentals Career Training Opportunity](https://jobright.ai/jobs/info/68af3ac41f0a2a568a05fe2a?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Aug 27 |
-| ↳ | **[Customer Service Fundamentals Job Training](https://jobright.ai/jobs/info/689209984c7e851b90ad2e67?utm_campaign=1058&utm_source=git)** | Newark, NJ | On Site | Aug 27 |
+| **[Year Up United](http://yearup.org)** | **[Customer Service Fundamentals Job Training](https://jobright.ai/jobs/info/689209984c7e851b90ad2e67?utm_campaign=1058&utm_source=git)** | Newark, NJ | On Site | Aug 27 |
+| ↳ | **[Customer Service Fundamentals Career Training Opportunity](https://jobright.ai/jobs/info/68af3ac41f0a2a568a05fe2a?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | ↳ | **[Customer Service Fundamentals Job Training Program](https://jobright.ai/jobs/info/68921eb2f5ee707a15dc341a?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Aug 27 |
 | **[CoxHealth](https://www.coxhealth.com/)** | **[Internal Agency XRay Tech - Internal Agency Radiology](https://jobright.ai/jobs/info/6855896057dcdd626471d49b?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Aug 27 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN (070)](https://jobright.ai/jobs/info/68af06e97bcb7608b3d2a940?utm_campaign=1058&utm_source=git)** | Lawrence, KS | On Site | Aug 27 |
@@ -111,7 +116,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68aef2d07bcb7608b3d2a367?utm_campaign=1058&utm_source=git)** | Anchorage, AK | On Site | Aug 27 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/6876b971ae2f413e4a5b2e47?utm_campaign=1058&utm_source=git)** | Aurora, CO | Hybrid | Aug 27 |
 | **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Pharmacy Intern - PRN - University Hospital](https://jobright.ai/jobs/info/6892c8374c7e851b90ad86b6?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Aug 27 |
-| **[Year Up United](http://yearup.org)** | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/68aece737bcb7608b3d29ad9?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Aug 27 |
 | **[Carebridge EAP](https://www.carebridge.com/)** | **[Customer Care Intern](https://jobright.ai/jobs/info/68af02b41f0a2a568a05ea53?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 27 |
 | **[University of Arkansas System](https://www.uasys.edu)** | **[Diagnostic Student Employee](https://jobright.ai/jobs/info/68aee7a07bcb7608b3d2a140?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Aug 27 |
 | **[NewDealDesign](http://newdealdesign.com/)** | **[ID Intern Winter 2025](https://jobright.ai/jobs/info/68aeb95e7bcb7608b3d29101?utm_campaign=1058&utm_source=git)** | San Francisco, California, United States | On Site | Aug 27 |
@@ -119,8 +123,7 @@ For a complete list, click the following sortable link below:
 | **[PCI Energy Solutions](https://www.pcienergysolutions.com)** | **[Intern / Transmission](https://jobright.ai/jobs/info/68aee01c1f0a2a568a05e1d7?utm_campaign=1058&utm_source=git)** | Norman, OK | Hybrid | Aug 27 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[Nurse Intern, Intensive Care Unit, Per Diem, 7P-7:30A](https://jobright.ai/jobs/info/68aeac2203c5f15c2fd8af89?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Aug 26 |
 | **[City Of Pico Rivera](https://www.pico-rivera.org/)** | **[Intern](https://jobright.ai/jobs/info/68aeceb903c5f15c2fd8bc69?utm_campaign=1058&utm_source=git)** | Pico Rivera, CA | On Site | Aug 26 |
-| **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, OFFICE AND CLERICAL SUPPORT](https://jobright.ai/jobs/info/68aedd432daaba398441a975?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Aug 26 |
-| ↳ | **[STUDENT WORKER, INFORMATION TECHNOLOGY](https://jobright.ai/jobs/info/68aedd962daaba398441a99e?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Aug 26 |
+| **[County of Los Angeles](https://lacounty.gov/)** | **[STUDENT WORKER, INFORMATION TECHNOLOGY](https://jobright.ai/jobs/info/68aedd962daaba398441a99e?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Aug 26 |
 | **[University of Utah](http://utah.edu)** | **[AV Technical Support Staff](https://jobright.ai/jobs/info/68aea4012daaba398441941f?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Aug 26 |
 | **[Leidos](https://www.leidos.com/)** | **[Exercise Creator Intern](https://jobright.ai/jobs/info/68aef0d01f0a2a568a05e5b3?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Aug 26 |
 | **[Phipps Neighborhoods](https://www.phippsny.org)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/68ae9504369b8a08e25b02f6?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Aug 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Claims Summer Intern](https://jobright.ai/jobs/info/68ae113cd627244576e5150b?utm_campaign=1058&utm_source=git)** | Jersey City, NJ | Hybrid | Aug 26 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Operations Support Services Apprentice](https://jobright.ai/jobs/info/68ae10d3d627244576e51471?utm_campaign=1058&utm_source=git)** | Morristown, NY | Hybrid | Aug 26 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[IT Co-op (January to August 2026)](https://jobright.ai/jobs/info/68ae10b8d627244576e51453?utm_campaign=1058&utm_source=git)** | International Falls, MN | On Site | Aug 26 |
-| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Claims Summer Intern](https://jobright.ai/jobs/info/68ae0f7fdaf1431824ca05a9?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Aug 26 |
-| ↳ | **[Claims Summer Intern](https://jobright.ai/jobs/info/68ae0f5c758f2e4ac3010f96?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Aug 26 |
-| ↳ | **[Claims Summer Intern](https://jobright.ai/jobs/info/68ae0e4a758f2e4ac3010e58?utm_campaign=1058&utm_source=git)** | Jersey City, NJ United States of America | Hybrid | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
