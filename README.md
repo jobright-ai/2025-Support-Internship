@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Year Up United](http://yearup.org)** | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/68aece737bcb7608b3d29ad9?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Aug 27 |
 | **[NewDealDesign](http://newdealdesign.com/)** | **[ID Intern Winter 2025](https://jobright.ai/jobs/info/68aeb95e7bcb7608b3d29101?utm_campaign=1058&utm_source=git)** | San Francisco, California, United States | On Site | Aug 27 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, INFORMATION TECHNOLOGY SUPPORT](https://jobright.ai/jobs/info/68aeb78e2daaba3984419a1e?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Aug 27 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[Nurse Intern, Intensive Care Unit, Per Diem, 7P-7:30A](https://jobright.ai/jobs/info/68aeac2203c5f15c2fd8af89?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Aug 26 |
+| **[City Of Pico Rivera](https://www.pico-rivera.org/)** | **[Intern](https://jobright.ai/jobs/info/68aeceb903c5f15c2fd8bc69?utm_campaign=1058&utm_source=git)** | Pico Rivera, CA | On Site | Aug 26 |
 | **[University of Utah](http://utah.edu)** | **[AV Technical Support Staff](https://jobright.ai/jobs/info/68aea4012daaba398441941f?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Aug 26 |
 | **[Phipps Neighborhoods](https://www.phippsny.org)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/68ae9504369b8a08e25b02f6?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Aug 26 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[SPD Support Tech Generalist - Paid Intern (Full-Time) - JSMB](https://jobright.ai/jobs/info/68ae76bfd627244576e540c1?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Aug 26 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ae751f758f2e4ac3013baa?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Aug 26 |
 | **[Safeway](http://www.safeway.com)** | **[2025 Pharmacy Graduate Intern](https://jobright.ai/jobs/info/68ae6bddd627244576e53b77?utm_campaign=1058&utm_source=git)** | Medford, OR | Hybrid | Aug 26 |
-| **[Leidos](https://www.leidos.com/)** | **[Exercise Creator Intern](https://jobright.ai/jobs/info/68ae87c3d627244576e54acb?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Aug 26 |
 | **[California Department of Health Care Services](https://www.dhcs.ca.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/68ae5de5d627244576e53704?utm_campaign=1058&utm_source=git)** | Sacramento, CA | Hybrid | Aug 26 |
 | ↳ | **[Student Assistant](https://jobright.ai/jobs/info/68ae59d8daf1431824ca27e7?utm_campaign=1058&utm_source=git)** | Sacramento, CA | Hybrid | Aug 26 |
 | **[Deltek](http://www.deltek.com)** | **[Deltek Professional Services Intern](https://jobright.ai/jobs/info/68ae574dd627244576e533f8?utm_campaign=1058&utm_source=git)** | US Herndon, VA | On Site | Aug 26 |
@@ -113,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[FIRST](https://firstagency.com/)** | **[Event Technology Intern](https://jobright.ai/jobs/info/68ae035a758f2e4ac301034d?utm_campaign=1058&utm_source=git)** | GS - Jersey City | On Site | Aug 26 |
 | **[Newport Mental Health ](http://www.newportmentalhealth.org/)** | **[Intern](https://jobright.ai/jobs/info/68ae028ad627244576e508f9?utm_campaign=1058&utm_source=git)** | Middletown, RI | On Site | Aug 26 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/68adff38daf1431824c9f990?utm_campaign=1058&utm_source=git)** | Ankeny, IA | On Site | Aug 26 |
-| **[Town of Marana](https://www.maranaaz.gov/)** | **[Technology Support Specialist Intern](https://jobright.ai/jobs/info/68adff13daf1431824c9f964?utm_campaign=1058&utm_source=git)** | Marana, AZ | On Site | Aug 26 |
 | **[Management & Training Corporation](https://www.mtctrains.com)** | **[Student Intern, Food Services](https://jobright.ai/jobs/info/68adf5d1daf1431824c9f41e?utm_campaign=1058&utm_source=git)** | Makawao, HI | On Site | Aug 26 |
 | **[Nebraska Medicine](https://www.nebraskamed.com)** | **[EKG Technician - Heart Monitoring Unit Internship - Full Time Nights](https://jobright.ai/jobs/info/68adef7e758f2e4ac300f999?utm_campaign=1058&utm_source=git)** | Omaha Metropolitan Area | On Site | Aug 26 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68adee1bd627244576e4ffa9?utm_campaign=1058&utm_source=git)** | Flemington, NJ | On Site | Aug 26 |
