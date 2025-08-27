@@ -58,10 +58,16 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Year Up United](http://yearup.org)** | **[Desktop Support Job Training Program](https://jobright.ai/jobs/info/68aece737bcb7608b3d29ad9?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Aug 27 |
+| **[Carebridge EAP](https://www.carebridge.com/)** | **[Customer Care Intern](https://jobright.ai/jobs/info/68aeebf11f0a2a568a05e4be?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 27 |
+| **[University of Arkansas System](https://www.uasys.edu)** | **[Diagnostic Student Employee](https://jobright.ai/jobs/info/68aee7a07bcb7608b3d2a140?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Aug 27 |
 | **[NewDealDesign](http://newdealdesign.com/)** | **[ID Intern Winter 2025](https://jobright.ai/jobs/info/68aeb95e7bcb7608b3d29101?utm_campaign=1058&utm_source=git)** | San Francisco, California, United States | On Site | Aug 27 |
+| **[Year Up United](http://yearup.org)** | **[Customer Service Fundamentals Career Training Opportunity](https://jobright.ai/jobs/info/68aee4d52daaba398441aacc?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Aug 27 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, INFORMATION TECHNOLOGY SUPPORT](https://jobright.ai/jobs/info/68aeb78e2daaba3984419a1e?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Aug 27 |
+| **[PCI Energy Solutions](https://www.pcienergysolutions.com)** | **[Intern / Transmission](https://jobright.ai/jobs/info/68aee01c1f0a2a568a05e1d7?utm_campaign=1058&utm_source=git)** | Norman, OK | Hybrid | Aug 27 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[Nurse Intern, Intensive Care Unit, Per Diem, 7P-7:30A](https://jobright.ai/jobs/info/68aeac2203c5f15c2fd8af89?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Aug 26 |
 | **[City Of Pico Rivera](https://www.pico-rivera.org/)** | **[Intern](https://jobright.ai/jobs/info/68aeceb903c5f15c2fd8bc69?utm_campaign=1058&utm_source=git)** | Pico Rivera, CA | On Site | Aug 26 |
+| **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, OFFICE AND CLERICAL SUPPORT](https://jobright.ai/jobs/info/68aedd432daaba398441a975?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Aug 26 |
+| ↳ | **[STUDENT WORKER, INFORMATION TECHNOLOGY](https://jobright.ai/jobs/info/68aedd962daaba398441a99e?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Aug 26 |
 | **[University of Utah](http://utah.edu)** | **[AV Technical Support Staff](https://jobright.ai/jobs/info/68aea4012daaba398441941f?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Aug 26 |
 | **[Phipps Neighborhoods](https://www.phippsny.org)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/68ae9504369b8a08e25b02f6?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Aug 26 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[SPD Support Tech Generalist - Paid Intern (Full-Time) - JSMB](https://jobright.ai/jobs/info/68ae76bfd627244576e540c1?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Aug 26 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Inpatient Pharmacy Intern](https://jobright.ai/jobs/info/689c0a82faa4e875e8265289?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | Aug 26 |
 | **[Ignition Technology](https://www.ignition-technology.com/)** | **[Technology Operations Apprentice](https://jobright.ai/jobs/info/688221ad89987b37105b1919?utm_campaign=1058&utm_source=git)** | Hampshire, IL | On Site | Aug 26 |
 | **[State of Colorado](https://cjlc.colorado.gov/)** | **[Lottery Underage Operative (Temporary).](https://jobright.ai/jobs/info/68adabc2d627244576e4e43d?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Aug 26 |
-| **[Rapiscan Systems](http://www.rapiscansystems.com/)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/689129c7f5ee707a15dbca47?utm_campaign=1058&utm_source=git)** | Torrance, CA | On Site | Aug 26 |
-| **[Spot Freight](https://spotinc.com)** | **[IT Support Intern (Fall 2025)](https://jobright.ai/jobs/info/68755f82ae2f413e4a5a64ad?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Aug 26 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, IT Service Desk](https://jobright.ai/jobs/info/685844407499d606fa24a06d?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Aug 26 |
-| **[Kama'aina Kids](https://www.kamaainakids.com)** | **[After School Aides](https://jobright.ai/jobs/info/68adb13b758f2e4ac300e156?utm_campaign=1058&utm_source=git)** | Makawao, HI | On Site | Aug 26 |
-| ↳ | **[After School Aides](https://jobright.ai/jobs/info/68adaf21daf1431824c9d6d2?utm_campaign=1058&utm_source=git)** | Honolulu, HI | On Site | Aug 26 |
-| **[BlinkRx](https://blinkhealth.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68919197f47efe2113956b61?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
