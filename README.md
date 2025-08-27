@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Desktop Support)](https://jobright.ai/jobs/info/68af1bef2daaba398441ba7c?utm_campaign=1058&utm_source=git)** | 5510 Heritage Oaks Drive, Pensacola, FL, 32526, US | On Site | Aug 27 |
 | **[CoxHealth](https://www.coxhealth.com/)** | **[Internal Agency XRay Tech - Internal Agency Radiology](https://jobright.ai/jobs/info/6855896057dcdd626471d49b?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Aug 27 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN (070)](https://jobright.ai/jobs/info/68af06e97bcb7608b3d2a940?utm_campaign=1058&utm_source=git)** | Lawrence, KS | On Site | Aug 27 |
 | ↳ | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/68af01c52daaba398441b2c2?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Aug 27 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[University of Arkansas System](https://www.uasys.edu)** | **[Diagnostic Student Employee](https://jobright.ai/jobs/info/68aee7a07bcb7608b3d2a140?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Aug 27 |
 | **[NewDealDesign](http://newdealdesign.com/)** | **[ID Intern Winter 2025](https://jobright.ai/jobs/info/68aeb95e7bcb7608b3d29101?utm_campaign=1058&utm_source=git)** | San Francisco, California, United States | On Site | Aug 27 |
 | **[Year Up United](http://yearup.org)** | **[Customer Service Fundamentals Career Training Opportunity](https://jobright.ai/jobs/info/68aee4d52daaba398441aacc?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Aug 27 |
-| **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, INFORMATION TECHNOLOGY SUPPORT](https://jobright.ai/jobs/info/68aeb78e2daaba3984419a1e?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Aug 27 |
 | **[PCI Energy Solutions](https://www.pcienergysolutions.com)** | **[Intern / Transmission](https://jobright.ai/jobs/info/68aee01c1f0a2a568a05e1d7?utm_campaign=1058&utm_source=git)** | Norman, OK | Hybrid | Aug 27 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[Nurse Intern, Intensive Care Unit, Per Diem, 7P-7:30A](https://jobright.ai/jobs/info/68aeac2203c5f15c2fd8af89?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Aug 26 |
 | **[City Of Pico Rivera](https://www.pico-rivera.org/)** | **[Intern](https://jobright.ai/jobs/info/68aeceb903c5f15c2fd8bc69?utm_campaign=1058&utm_source=git)** | Pico Rivera, CA | On Site | Aug 26 |
@@ -81,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[California Department of Health Care Services](https://www.dhcs.ca.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/68ae5de5d627244576e53704?utm_campaign=1058&utm_source=git)** | Sacramento, CA | Hybrid | Aug 26 |
 | ↳ | **[Student Assistant](https://jobright.ai/jobs/info/68ae59d8daf1431824ca27e7?utm_campaign=1058&utm_source=git)** | Sacramento, CA | Hybrid | Aug 26 |
 | **[Deltek](http://www.deltek.com)** | **[Deltek Professional Services Intern](https://jobright.ai/jobs/info/68ae574dd627244576e533f8?utm_campaign=1058&utm_source=git)** | US Herndon, VA | On Site | Aug 26 |
-| **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Exchange Visitor Internship](https://jobright.ai/jobs/info/68ae5524758f2e4ac3012d33?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Aug 26 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[SPD Support Tech Generalist - Paid Intern (Full-Time) - JSMB](https://jobright.ai/jobs/info/68ae74de758f2e4ac3013b56?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Aug 26 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/68ae810ad627244576e5479b?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Aug 26 |
 | **[St. Joseph Medical Center ](https://stjosephkc.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ae6caadaf1431824ca2e88?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Aug 26 |
@@ -151,7 +150,8 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN       (070)](https://jobright.ai/jobs/info/68ade685758f2e4ac300f643?utm_campaign=1058&utm_source=git)** | 1015 W 23Rd St, Lawrence, KS, 66046, US | On Site | Aug 26 |
 | **[Cottingham & Butler](https://www.cottinghambutler.com/)** | **[2026 Summer Client Service Intern](https://jobright.ai/jobs/info/68ade66fdaf1431824c9ecf7?utm_campaign=1058&utm_source=git)** | Dubuque, Iowa, United States | On Site | Aug 26 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ade623daf1431824c9ec99?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Aug 26 |
-| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/68ade508daf1431824c9ebc0?utm_campaign=1058&utm_source=git)** | Gilroy, CA | On Site | Aug 26 |
+| **[DERMATOPATHOLOGY CONSULTATIONS LLC](https://www.linkedin.com/company/60406788)** | **[Lab Assistant Internship](https://jobright.ai/jobs/info/68af02641f0a2a568a05ea00?utm_campaign=1058&utm_source=git)** | Needham Heights, MA | On Site | Aug 26 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/68ade508daf1431824c9ebc0?utm_campaign=1058&utm_source=git)** | Gilroy, CA | On Site | Aug 26 |
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2025 Fall Food, Beverage, and Events Intern (onsite)](https://jobright.ai/jobs/info/68ade4ed758f2e4ac300f55a?utm_campaign=1058&utm_source=git)** | Clinton Presidential Center | On Site | Aug 26 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68ae87dcd627244576e54ae0?utm_campaign=1058&utm_source=git)** | St Peters, MO | On Site | Aug 26 |
 | **[Make-A-Wish Metro New York and Western New York](http://metrony.wish.org)** | **[Mission Delivery Intern](https://jobright.ai/jobs/info/68add537758f2e4ac300ee0a?utm_campaign=1058&utm_source=git)** | Manhattan, NY | Hybrid | Aug 26 |
