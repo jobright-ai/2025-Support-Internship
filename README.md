@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Louisiana Legislative Auditor](http://www.lla.la.gov/)** | **[Recovery Assistance Services Intern](https://jobright.ai/jobs/info/68b0203cb47fb001d688fb09?utm_campaign=1058&utm_source=git)** | Baton Rouge, LA | On Site | Aug 28 |
+| **[Luther Seminary](http://www.luthersem.edu)** | **[OT Helpdesk Student Assistant-Internal Hire](https://jobright.ai/jobs/info/68b00a8fe723db6c9b7b5a53?utm_campaign=1058&utm_source=git)** | Minneapolis–Saint Paul, WI | On Site | Aug 28 |
 | **[Marriott International](http://travel-brilliantly.marriott.com)** | **[HQ Fellowship-MBA](https://jobright.ai/jobs/info/68af51ce1f0a2a568a0607de?utm_campaign=1058&utm_source=git)** | Bethesda, MD | On Site | Aug 27 |
 | ↳ | **[HQ Fellowship-Graduate Degree](https://jobright.ai/jobs/info/68af4f047bcb7608b3d2c580?utm_campaign=1058&utm_source=git)** | Bethesda, MD | On Site | Aug 27 |
 | ↳ | **[HQ Fellowship-Undergraduate Degree](https://jobright.ai/jobs/info/68af58551f0a2a568a060d56?utm_campaign=1058&utm_source=git)** | Bethesda, MD | On Site | Aug 27 |
+| **[University of Utah](http://utah.edu)** | **[Data Entry Spec Intern](https://jobright.ai/jobs/info/68b00dac13563e782a9f3474?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Aug 27 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Digital Svc & CX Analyst](https://jobright.ai/jobs/info/68afe44ee723db6c9b7b4965?utm_campaign=1058&utm_source=git)** | Stamford, CT | On Site | Aug 27 |
 | **[Scene Health](https://www.scene.health/)** | **[Pharmacy Technician Intern](https://jobright.ai/jobs/info/68b002b7b47fb001d688f074?utm_campaign=1058&utm_source=git)** | Baltimore, MD | Remote | Aug 27 |
 | **[Aflac](http://www.aflac.com)** | **[IT Co-Op](https://jobright.ai/jobs/info/68afd5ffb47fb001d688dda6?utm_campaign=1058&utm_source=git)** | Georgia, United States | Hybrid | Aug 27 |
@@ -75,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68afd2dae723db6c9b7b3e25?utm_campaign=1058&utm_source=git)** | Valatie, NY | On Site | Aug 27 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68afad7d4e6a6a711484e9f2?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Aug 27 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Resident](https://jobright.ai/jobs/info/68afa94f1f0a2a568a06322c?utm_campaign=1058&utm_source=git)** | Ogden, UT | On Site | Aug 27 |
+| **[MasTec Clean Energy & Infrastructure](http://www.mastec.com)** | **[Intern - IT](https://jobright.ai/jobs/info/68b014a6e723db6c9b7b5bff?utm_campaign=1058&utm_source=git)** | US-IN-Clinton | On Site | Aug 27 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68afa3da2daaba398441f884?utm_campaign=1058&utm_source=git)** | Gilbert, AZ | On Site | Aug 27 |
 | ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68afa3d32daaba398441f881?utm_campaign=1058&utm_source=git)** | Conway, AR | On Site | Aug 27 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[Regular Student Clerical - IT](https://jobright.ai/jobs/info/68afa3c62daaba398441f879?utm_campaign=1058&utm_source=git)** | Edmond, OK | On Site | Aug 27 |
@@ -115,12 +119,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68af41522daaba398441cafc?utm_campaign=1058&utm_source=git)** | Okemos, MI | On Site | Aug 27 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68af40ff1f0a2a568a0601c6?utm_campaign=1058&utm_source=git)** | Amherst, NY | On Site | Aug 27 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68af405c1f0a2a568a06009f?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Aug 27 |
+| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68af3fa91f0a2a568a05ffe0?utm_campaign=1058&utm_source=git)** | Boca Raton, FL | On Site | Aug 27 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68af3f912daaba398441c8cb?utm_campaign=1058&utm_source=git)** | Manalapan, NJ | On Site | Aug 27 |
 | **[LJA](https://www.lja.com/)** | **[Intern - IT](https://jobright.ai/jobs/info/68af3f6d7bcb7608b3d2bdb8?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Aug 27 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68af3f591f0a2a568a05ff9b?utm_campaign=1058&utm_source=git)** | Edina, MN | On Site | Aug 27 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68af3f351f0a2a568a05ff7a?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Aug 27 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68af3f2f1f0a2a568a05ff70?utm_campaign=1058&utm_source=git)** | Manhasset, NY | On Site | Aug 27 |
-| ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68af3ed17bcb7608b3d2bd45?utm_campaign=1058&utm_source=git)** | Boca Raton, FL | On Site | Aug 27 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68af3e717bcb7608b3d2bd01?utm_campaign=1058&utm_source=git)** | Hickory Hills, IL | On Site | Aug 27 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68af3e187bcb7608b3d2bcbe?utm_campaign=1058&utm_source=git)** | Gulfport, MS | On Site | Aug 27 |
 | **[Momentive](https://www.momentive.com/)** | **[Summer 2026 IT Communication and Translation Intern](https://jobright.ai/jobs/info/68af3e027bcb7608b3d2bca1?utm_campaign=1058&utm_source=git)** | Niskayuna, NY | On Site | Aug 27 |
@@ -145,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT16](https://jobright.ai/jobs/info/689389d54c7e851b90ade3b2?utm_campaign=1058&utm_source=git)** | Garden Grove, CA | On Site | Aug 27 |
 | **[Providence Medical Center](http://www.providencekc.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/689260c64c7e851b90ad53ba?utm_campaign=1058&utm_source=git)** | Kansas City, KS | On Site | Aug 27 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/6876b971ae2f413e4a5b2e47?utm_campaign=1058&utm_source=git)** | Aurora, CO | Hybrid | Aug 27 |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6892b61ff5ee707a15dc7c42?utm_campaign=1058&utm_source=git)** | Alexandria, LA | On Site | Aug 27 |
 | **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Pharmacy Intern - PRN - University Hospital](https://jobright.ai/jobs/info/6892c8374c7e851b90ad86b6?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Aug 27 |
 | **[Carebridge EAP](https://www.carebridge.com/)** | **[Customer Care Intern](https://jobright.ai/jobs/info/68aeebf11f0a2a568a05e4be?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | Hybrid | Aug 27 |
 | **[University of Arkansas System](https://www.uasys.edu)** | **[Diagnostic Student Employee](https://jobright.ai/jobs/info/68aee7a07bcb7608b3d2a140?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Aug 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PCI Energy Solutions](https://www.pcienergysolutions.com)** | **[Intern / Transmission](https://jobright.ai/jobs/info/68aee01c1f0a2a568a05e1d7?utm_campaign=1058&utm_source=git)** | Norman, OK | Hybrid | Aug 27 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[Nurse Intern, Intensive Care Unit, Per Diem, 7P-7:30A](https://jobright.ai/jobs/info/68aeac2203c5f15c2fd8af89?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Aug 26 |
 | **[University of Utah](http://utah.edu)** | **[AV Technical Support Staff](https://jobright.ai/jobs/info/68aea4012daaba398441941f?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Aug 26 |
-| **[Leidos](https://www.leidos.com/)** | **[Exercise Creator Intern](https://jobright.ai/jobs/info/68aef0d01f0a2a568a05e5b3?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Aug 26 |
-| **[Phipps Neighborhoods](https://www.phippsny.org)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/68ae9504369b8a08e25b02f6?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Aug 26 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[SPD Support Tech Generalist - Paid Intern (Full-Time) - JSMB](https://jobright.ai/jobs/info/68ae76bfd627244576e540c1?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Aug 26 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ae751f758f2e4ac3013baa?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Aug 26 |
-| **[California Department of Health Care Services](https://www.dhcs.ca.gov)** | **[Student Assistant](https://jobright.ai/jobs/info/68ae5de5d627244576e53704?utm_campaign=1058&utm_source=git)** | Sacramento, CA | Hybrid | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
