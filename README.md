@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Puyallup School District](https://www.puyallupsd.org)** | **[CASHIER (FOR ELIGIBLE INTERNAL BIDDERS ONLY)](https://jobright.ai/jobs/info/68b36a0d1ade4306aa63b3ec?utm_campaign=1058&utm_source=git)** | Puyallup, WA | On Site | Aug 30 |
+| **[Columbus Crew](https://www.columbuscrew.com/)** | **[2026 IT Intern](https://jobright.ai/jobs/info/68b35854f4e41a61efd89149?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Aug 30 |
 | **[Children's Hospital of Michigan](http://childrensdmc.org)** | **[Pharmacy Intern P3 Contingent Days](https://jobright.ai/jobs/info/68b3514ef4e41a61efd88fcd?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Aug 30 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b334cf1ade4306aa63aed8?utm_campaign=1058&utm_source=git)** | Alpena, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b33485bc187f64e1bdfe66?utm_campaign=1058&utm_source=git)** | Mount Pleasant, MI | On Site | Aug 30 |
@@ -129,7 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Community Bank, N.A.](https://cbna.com/locations/naples)** | **[Tech Support Intern](https://jobright.ai/jobs/info/68b228f9bc187f64e1bd998a?utm_campaign=1058&utm_source=git)** | East Syracuse, NY | On Site | Aug 29 |
 | **[Thrifty White Pharmacy](http://thriftywhite.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b26d68bc187f64e1bdb406?utm_campaign=1058&utm_source=git)** | West Fargo, ND | On Site | Aug 29 |
 | **[Infirmary Health](http://www.infirmaryhealth.org)** | **[Student Radiologic Technologist](https://jobright.ai/jobs/info/68b21a91bc187f64e1bd95db?utm_campaign=1058&utm_source=git)** | Mobile, AL | On Site | Aug 29 |
-| **[Meijer](https://www.meijer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b2163abc187f64e1bd94a3?utm_campaign=1058&utm_source=git)** | Louisville, KY | On Site | Aug 29 |
+| **[Meijer](https://www.meijer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b218331ade4306aa634655?utm_campaign=1058&utm_source=git)** | Louisville, KY | On Site | Aug 29 |
 | **[East Tennessee Children's Hospital](https://www.etch.com/)** | **[IT Intern-  6 Month Temporary Role, No Benefits](https://jobright.ai/jobs/info/68b2e700bc187f64e1bdf4d2?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Aug 29 |
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Information Technology Internship](https://jobright.ai/jobs/info/68b214f8bc187f64e1bd93a3?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Aug 29 |
 | **[Brazos River Authority](http://www.brazos.org)** | **[IT Technician Intern](https://jobright.ai/jobs/info/68b213791ade4306aa634478?utm_campaign=1058&utm_source=git)** | Waco, TX | On Site | Aug 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AgriVision Equipment Group](https://www.agrivisionequipment.com/)** | **[2026 AVE Student Tech Program](https://jobright.ai/jobs/info/68b270e41ade4306aa63673f?utm_campaign=1058&utm_source=git)** | Iowa, United States | On Site | Aug 29 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Technology Support Intern](https://jobright.ai/jobs/info/68b1f8261ade4306aa6332d8?utm_campaign=1058&utm_source=git)** | Dublin, OH | On Site | Aug 29 |
 | **[Red Hat](http://www.redhat.com)** | **[Technical Support Engineer Intern](https://jobright.ai/jobs/info/68b1e3a0f4e41a61efd806aa?utm_campaign=1058&utm_source=git)** | Raleigh, NC | Remote | Aug 29 |
-| **[Midland Memorial Hospital](https://www.midlandhealth.org)** | **[Radiology Intern (Cath Lab)](https://jobright.ai/jobs/info/68b2cdd4f4e41a61efd880a1?utm_campaign=1058&utm_source=git)** | Midland, TX | On Site | Aug 29 |
-| ↳ | **[Radiology Intern (Radiology Support)](https://jobright.ai/jobs/info/68b2d986f4e41a61efd88204?utm_campaign=1058&utm_source=git)** | Midland, TX | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
