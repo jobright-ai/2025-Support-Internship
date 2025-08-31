@@ -97,8 +97,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32c9cbc187f64e1bdfd42?utm_campaign=1058&utm_source=git)** | Muskegon, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32c92bc187f64e1bdfd3b?utm_campaign=1058&utm_source=git)** | Traverse City, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32c85bc187f64e1bdfd36?utm_campaign=1058&utm_source=git)** | Franklin Square, NY | On Site | Aug 30 |
+| **[Nebraska Methodist Health System](https://bestcare.org/)** | **[Student Rad Tech - Casual/PRN](https://jobright.ai/jobs/info/687a92e32097a271a897fc37?utm_campaign=1058&utm_source=git)** | Fremont, NE | On Site | Aug 30 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/68983e595574fd6bc0c76648?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Aug 30 |
 | **[Empower Pharmacy](http://empowerpharmacy.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/688ee4e56a4aac5783cdafce?utm_campaign=1058&utm_source=git)** | Houston, TX | Hybrid | Aug 30 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68b2e3be1ade4306aa63a51d?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Aug 30 |
+| **[Safeway](http://www.safeway.com)** | **[2026 Pharmacy Graduate Intern](https://jobright.ai/jobs/info/689821d683d13d1f5b68adfa?utm_campaign=1058&utm_source=git)** | Englewood, CO | Hybrid | Aug 30 |
 | **[Roswell Park Comprehensive Cancer Center](https://www.RoswellPark.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b3199dbc187f64e1bdfbae?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Aug 30 |
 | **[Hopewell Valley Regional School District](https://www.hvrsd.org/)** | **[Technology Intern](https://jobright.ai/jobs/info/68b2c822bc187f64e1bdf0c1?utm_campaign=1058&utm_source=git)** | Pennington, NJ | On Site | Aug 30 |
 | **[Geisinger](https://www.geisinger.org)** | **[Radiologic Technologist Student - GSWB - Per Diem - Rotation](https://jobright.ai/jobs/info/67f5ab18ded92873c288c6bd?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Aug 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern-Imaging](https://jobright.ai/jobs/info/68b1fc1abc187f64e1bd871d?utm_campaign=1058&utm_source=git)** | Cedar Park, TX | On Site | Aug 29 |
 | **[Osceola County School District](http://www.osceolaschools.net/)** | **[Support Staff-Substitute-College Student Intern-Technology Services](https://jobright.ai/jobs/info/68b1fbd41ade4306aa63392f?utm_campaign=1058&utm_source=git)** | Kissimmee | On Site | Aug 29 |
 | **[International Foundation of Employee Benefit Plans (IFEBP)](http://www.ifebp.org/)** | **[Fall 2025 Internship: Information Technologies (Onsite)](https://jobright.ai/jobs/info/68b1fac9bc187f64e1bd8590?utm_campaign=1058&utm_source=git)** | Headquarters (Brookfield, WI) | On Site | Aug 29 |
-| **[AgriVision Equipment Group](https://www.agrivisionequipment.com/)** | **[2026 AVE Student Tech Program](https://jobright.ai/jobs/info/68b270e41ade4306aa63673f?utm_campaign=1058&utm_source=git)** | Iowa, United States | On Site | Aug 29 |
-| **[IGS Energy](http://www.igsenergy.com)** | **[Technology Support Intern](https://jobright.ai/jobs/info/68b1f8261ade4306aa6332d8?utm_campaign=1058&utm_source=git)** | Dublin, OH | On Site | Aug 29 |
-| **[Red Hat](http://www.redhat.com)** | **[Technical Support Engineer Intern](https://jobright.ai/jobs/info/68b1e3a0f4e41a61efd806aa?utm_campaign=1058&utm_source=git)** | Raleigh, NC | Remote | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
