@@ -84,8 +84,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/68b32d481ade4306aa63adcc?utm_campaign=1058&utm_source=git)** | Jackson, NY | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32d42f4e41a61efd88c23?utm_campaign=1058&utm_source=git)** | Fremont, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32d3ef4e41a61efd88c1f?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | Aug 30 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32d311ade4306aa63adc0?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32d31bc187f64e1bdfd9e?utm_campaign=1058&utm_source=git)** | Gaylord, MI | On Site | Aug 30 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32d311ade4306aa63adc0?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32d29f4e41a61efd88c14?utm_campaign=1058&utm_source=git)** | Walker, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32d20bc187f64e1bdfd93?utm_campaign=1058&utm_source=git)** | Big Rapids, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32d1e1ade4306aa63adb4?utm_campaign=1058&utm_source=git)** | Escanaba, MI | On Site | Aug 30 |
@@ -96,8 +96,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32ce01ade4306aa63ad96?utm_campaign=1058&utm_source=git)** | Whitehall, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cdaf4e41a61efd88be3?utm_campaign=1058&utm_source=git)** | Marquette, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cdabc187f64e1bdfd64?utm_campaign=1058&utm_source=git)** | Cadillac, MI | On Site | Aug 30 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cd0f4e41a61efd88bd6?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cd0f4e41a61efd88bd7?utm_campaign=1058&utm_source=git)** | Prudenville, MI | On Site | Aug 30 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cd0f4e41a61efd88bd6?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cc21ade4306aa63ad89?utm_campaign=1058&utm_source=git)** | Ludington, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cc2bc187f64e1bdfd5a?utm_campaign=1058&utm_source=git)** | Ironwood, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cb6bc187f64e1bdfd51?utm_campaign=1058&utm_source=git)** | Grayling, MI | On Site | Aug 30 |
@@ -109,6 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Nebraska Methodist Health System](https://bestcare.org/)** | **[Student Rad Tech - Casual/PRN](https://jobright.ai/jobs/info/687a92e32097a271a897fc37?utm_campaign=1058&utm_source=git)** | Fremont, NE | On Site | Aug 30 |
 | **[Trident Medical Center](http://tridenthealthsystem.com)** | **[Student Radiology Tech](https://jobright.ai/jobs/info/67eba372c2995224cfb103eb?utm_campaign=1058&utm_source=git)** | Summerville, SC | On Site | Aug 30 |
 | **[TriStar Summit Medical Center](https://tristarhealth.com/)** | **[Surgical Technologist Extern PRN](https://jobright.ai/jobs/info/68075085440b517b1425bf20?utm_campaign=1058&utm_source=git)** | Hermitage, TN | On Site | Aug 30 |
+| **[Safeway](http://www.safeway.com)** | **[2026 Pharmacy Graduate Intern](https://jobright.ai/jobs/info/68980b9b8c6d6b4426794c4b?utm_campaign=1058&utm_source=git)** | Durango, CO | Hybrid | Aug 30 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern (On-Call)](https://jobright.ai/jobs/info/68b146826fab621da7b0bf51?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Aug 30 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/68983e595574fd6bc0c76648?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Aug 30 |
 | ↳ | **[Intern-Nurse II - Med Surg 9T](https://jobright.ai/jobs/info/67eb75eef602ac9cec7f9d90?utm_campaign=1058&utm_source=git)** | Southaven, MS | On Site | Aug 30 |
 | **[WellSpan Health](https://www.wellspan.org/)** | **[Paramedic Intern - EMS Operations - Days](https://jobright.ai/jobs/info/6843447e0cf5aeb76600c25d?utm_campaign=1058&utm_source=git)** | Lewisburg, PA | On Site | Aug 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Withum](http://www.withum.com)** | **[Providence, RI Information Technology Support Intern](https://jobright.ai/jobs/info/68b24397f4e41a61efd83064?utm_campaign=1058&utm_source=git)** | Providence, RI | On Site | Aug 29 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Pharmacist Intern #495](https://jobright.ai/jobs/info/68b23fce1ade4306aa63526b?utm_campaign=1058&utm_source=git)** | West Jordan, UT | On Site | Aug 29 |
 | **[Northwest Texas Healthcare System](https://www.nwths.com)** | **[Student Surgical Tech / Intern / Surgery / PRN / Days](https://jobright.ai/jobs/info/68b2b1d2bc187f64e1bdecf4?utm_campaign=1058&utm_source=git)** | Amarillo, TX | On Site | Aug 29 |
-| **[Transcard](http://www.transcard.com)** | **[2026 - Customer Service Intern](https://jobright.ai/jobs/info/68b23f2c1ade4306aa635217?utm_campaign=1058&utm_source=git)** | Chattanooga, TN | Hybrid | Aug 29 |
-| **[Inotiv](https://www.inotiv.com/)** | **[Part-Time Archiving Assistant (College Student Opportunity)](https://jobright.ai/jobs/info/68b23bf61ade4306aa6351c4?utm_campaign=1058&utm_source=git)** | Mount Vernon, IN | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
