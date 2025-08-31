@@ -59,8 +59,10 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[University of La Verne](http://laverne.edu)** | **[NFWS - OIT Service Desk (25/26)](https://jobright.ai/jobs/info/68b4a6ebf4e41a61efd8c90c?utm_campaign=1058&utm_source=git)** | La Verne, CA | On Site | Aug 31 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/68b48dbabc187f64e1be381b?utm_campaign=1058&utm_source=git)** | Grimes, IA | On Site | Aug 31 |
+| **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/68253c7360c3bcb6ba73e2a8?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Aug 31 |
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68b445a41ade4306aa63e292?utm_campaign=1058&utm_source=git)** | Sheboygan, WI | On Site | Aug 31 |
 | **[Acme Markets](http://www.acmemarkets.com/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/67d1ab8947453bfa6b75d4f2?utm_campaign=1058&utm_source=git)** | Newtown, PA | Hybrid | Aug 31 |
+| **[St. Mary's Medical Center](https://www.stmarysmc.com)** | **[Surgical Tech Extern Float Pool Per Diem Rotate](https://jobright.ai/jobs/info/6897e6a073b3a600fe8a11f3?utm_campaign=1058&utm_source=git)** | West Palm Beach, FL | On Site | Aug 31 |
 | **[MathWorks](http://www.mathworks.com)** | **[Technical Documentation Intern - Undergraduate](https://jobright.ai/jobs/info/671a69ea75c42966c795f978?utm_campaign=1058&utm_source=git)** | Natick, MA | Hybrid | Aug 31 |
 | **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/68b412701ade4306aa63defe?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, FL | On Site | Aug 31 |
 | **[Henkel](http://www.henkel.com)** | **[CX Activation & Support Intern – Summer / Fall 2026](https://jobright.ai/jobs/info/68b3db21f4e41a61efd8ad6b?utm_campaign=1058&utm_source=git)** | Bridgewater, NJ | Hybrid | Aug 30 |
@@ -68,6 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[CX Activation & Support Intern – Summer / Fall 2026](https://jobright.ai/jobs/info/68b39b3dbc187f64e1be05c6?utm_campaign=1058&utm_source=git)** | Bridgewater, None, US | On Site | Aug 30 |
 | **[Puyallup School District](https://www.puyallupsd.org)** | **[CASHIER (FOR ELIGIBLE INTERNAL BIDDERS ONLY)](https://jobright.ai/jobs/info/68b36a0d1ade4306aa63b3ec?utm_campaign=1058&utm_source=git)** | Puyallup, WA | On Site | Aug 30 |
 | **[Children's Hospital of Michigan](http://childrensdmc.org)** | **[Pharmacy Intern P3 Contingent Days](https://jobright.ai/jobs/info/68b3514ef4e41a61efd88fcd?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Aug 30 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist  PT16](https://jobright.ai/jobs/info/689385d5a9199876488ddec3?utm_campaign=1058&utm_source=git)** | Fontana, CA | On Site | Aug 30 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/680da16b660234ea4d9785b2?utm_campaign=1058&utm_source=git)** | Kindred, ND | On Site | Aug 30 |
 | **[Grand Hyatt](https://www.hyatt.com/brands/grand-hyatt)** | **[Temporary Front Office Host Internship (December 2025 - 6 month)](https://jobright.ai/jobs/info/68b3b97ef4e41a61efd899be?utm_campaign=1058&utm_source=git)** | Washington, DC | Hybrid | Aug 30 |
 | **[Safeway](http://www.safeway.com)** | **[2026 Pharmacy Graduate Intern](https://jobright.ai/jobs/info/6897453d73b3a600fe895e6e?utm_campaign=1058&utm_source=git)** | Alamosa, CO | Hybrid | Aug 30 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b334cf1ade4306aa63aed8?utm_campaign=1058&utm_source=git)** | Alpena, MI | On Site | Aug 30 |
@@ -99,10 +103,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32ce01ade4306aa63ad96?utm_campaign=1058&utm_source=git)** | Whitehall, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cdaf4e41a61efd88be3?utm_campaign=1058&utm_source=git)** | Marquette, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cdabc187f64e1bdfd64?utm_campaign=1058&utm_source=git)** | Cadillac, MI | On Site | Aug 30 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cd0f4e41a61efd88bd6?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cd0f4e41a61efd88bd7?utm_campaign=1058&utm_source=git)** | Prudenville, MI | On Site | Aug 30 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cc21ade4306aa63ad89?utm_campaign=1058&utm_source=git)** | Ludington, MI | On Site | Aug 30 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cd0f4e41a61efd88bd6?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cc2bc187f64e1bdfd5a?utm_campaign=1058&utm_source=git)** | Ironwood, MI | On Site | Aug 30 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cc21ade4306aa63ad89?utm_campaign=1058&utm_source=git)** | Ludington, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cb6bc187f64e1bdfd51?utm_campaign=1058&utm_source=git)** | Grayling, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32c9ebc187f64e1bdfd45?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32c9cbc187f64e1bdfd42?utm_campaign=1058&utm_source=git)** | Muskegon, MI | On Site | Aug 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b2506fbc187f64e1bda7de?utm_campaign=1058&utm_source=git)** | Bridgewater, NJ | On Site | Aug 29 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68b24ff91ade4306aa635915?utm_campaign=1058&utm_source=git)** | Denver, CO | Hybrid | Aug 29 |
 | **[Duchesne Academy Of The Sacred Heart](https://www.duchesne.org/)** | **[Data Entry Intern](https://jobright.ai/jobs/info/68b24e1bbc187f64e1bda765?utm_campaign=1058&utm_source=git)** | Lake Worth, Texas, United States | Hybrid | Aug 29 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – Customer Service Excellence Intern](https://jobright.ai/jobs/info/68b246c2bc187f64e1bda32f?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
-| **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Student Opportunities - Desktop Support Internships - Spring 2026 (Onsite)](https://jobright.ai/jobs/info/68b24597f4e41a61efd831ee?utm_campaign=1058&utm_source=git)** | Fairfield, OH | On Site | Aug 29 |
-| **[Parkview Health](http://www.parkview.com)** | **[Medication Reconciliation Pharmacy Intern](https://jobright.ai/jobs/info/68b24530f4e41a61efd831a1?utm_campaign=1058&utm_source=git)** | Greater Fort Wayne | On Site | Aug 29 |
-| **[Withum](http://www.withum.com)** | **[East Brunswick, NJ Information Technology Support Intern](https://jobright.ai/jobs/info/68b24490f4e41a61efd83125?utm_campaign=1058&utm_source=git)** | East Brunswick, NJ | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
