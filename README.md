@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Venture Starters](https://venturestarters.com/)** | **[Student Intern](https://jobright.ai/jobs/info/68b3a3d3f4e41a61efd89558?utm_campaign=1058&utm_source=git)** | United States | Remote | Aug 30 |
+| **[Henkel](http://www.henkel.com)** | **[CX Activation & Support Intern – Summer / Fall 2026](https://jobright.ai/jobs/info/68b39b3dbc187f64e1be05c6?utm_campaign=1058&utm_source=git)** | Bridgewater, None, US | On Site | Aug 30 |
 | **[Puyallup School District](https://www.puyallupsd.org)** | **[CASHIER (FOR ELIGIBLE INTERNAL BIDDERS ONLY)](https://jobright.ai/jobs/info/68b36a0d1ade4306aa63b3ec?utm_campaign=1058&utm_source=git)** | Puyallup, WA | On Site | Aug 30 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[2026 IT Intern](https://jobright.ai/jobs/info/68b35854f4e41a61efd89149?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Aug 30 |
 | **[Children's Hospital of Michigan](http://childrensdmc.org)** | **[Pharmacy Intern P3 Contingent Days](https://jobright.ai/jobs/info/68b3514ef4e41a61efd88fcd?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Aug 30 |
@@ -107,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Geisinger](https://www.geisinger.org)** | **[Radiologic Technologist Student - GSWB - Per Diem - Rotation](https://jobright.ai/jobs/info/67f5ab18ded92873c288c6bd?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Aug 30 |
 | **[ABB](https://global.abb/group/en)** | **[Intern](https://jobright.ai/jobs/info/68b2ad53f4e41a61efd87b2e?utm_campaign=1058&utm_source=git)** | Location, WV | On Site | Aug 30 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68b28b2fbc187f64e1bdcfc1?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Aug 29 |
-| **[Venture Starters](https://venturestarters.com/)** | **[Student Intern](https://jobright.ai/jobs/info/68b26cf8bc187f64e1bdb33a?utm_campaign=1058&utm_source=git)** | United States | Remote | Aug 29 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68b26916bc187f64e1bdb178?utm_campaign=1058&utm_source=git)** | Charleston, SC | On Site | Aug 29 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68b268babc187f64e1bdb0ec?utm_campaign=1058&utm_source=git)** | Walterboro, SC | On Site | Aug 29 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68b26885bc187f64e1bdb09c?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Aug 29 |
@@ -134,7 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Community Bank, N.A.](https://cbna.com/locations/naples)** | **[Tech Support Intern](https://jobright.ai/jobs/info/68b228f9bc187f64e1bd998a?utm_campaign=1058&utm_source=git)** | East Syracuse, NY | On Site | Aug 29 |
 | **[Thrifty White Pharmacy](http://thriftywhite.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b26d68bc187f64e1bdb406?utm_campaign=1058&utm_source=git)** | West Fargo, ND | On Site | Aug 29 |
 | **[Infirmary Health](http://www.infirmaryhealth.org)** | **[Student Radiologic Technologist](https://jobright.ai/jobs/info/68b21a91bc187f64e1bd95db?utm_campaign=1058&utm_source=git)** | Mobile, AL | On Site | Aug 29 |
-| **[Meijer](https://www.meijer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b218331ade4306aa634655?utm_campaign=1058&utm_source=git)** | Louisville, KY | On Site | Aug 29 |
+| **[Meijer](https://www.meijer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b2163abc187f64e1bd94a3?utm_campaign=1058&utm_source=git)** | Louisville, KY | On Site | Aug 29 |
 | **[East Tennessee Children's Hospital](https://www.etch.com/)** | **[IT Intern-  6 Month Temporary Role, No Benefits](https://jobright.ai/jobs/info/68b2e700bc187f64e1bdf4d2?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Aug 29 |
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Information Technology Internship](https://jobright.ai/jobs/info/68b214f8bc187f64e1bd93a3?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Aug 29 |
 | **[Brazos River Authority](http://www.brazos.org)** | **[IT Technician Intern](https://jobright.ai/jobs/info/68b213791ade4306aa634478?utm_campaign=1058&utm_source=git)** | Waco, TX | On Site | Aug 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68b279821ade4306aa6371bb?utm_campaign=1058&utm_source=git)** | Aiken, SC | On Site | Aug 29 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern-Imaging](https://jobright.ai/jobs/info/68b1fc1abc187f64e1bd871d?utm_campaign=1058&utm_source=git)** | Cedar Park, TX | On Site | Aug 29 |
 | **[Osceola County School District](http://www.osceolaschools.net/)** | **[Support Staff-Substitute-College Student Intern-Technology Services](https://jobright.ai/jobs/info/68b1fbd41ade4306aa63392f?utm_campaign=1058&utm_source=git)** | Kissimmee | On Site | Aug 29 |
-| **[International Foundation of Employee Benefit Plans (IFEBP)](http://www.ifebp.org/)** | **[Fall 2025 Internship: Information Technologies (Onsite)](https://jobright.ai/jobs/info/68b1fac9bc187f64e1bd8590?utm_campaign=1058&utm_source=git)** | Headquarters (Brookfield, WI) | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
