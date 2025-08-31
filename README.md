@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of La Verne](http://laverne.edu)** | **[NFWS - OIT Service Desk (25/26)](https://jobright.ai/jobs/info/68b4a6ebf4e41a61efd8c90c?utm_campaign=1058&utm_source=git)** | La Verne, CA | On Site | Aug 31 |
+| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/68b48dbabc187f64e1be381b?utm_campaign=1058&utm_source=git)** | Grimes, IA | On Site | Aug 31 |
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68b445a41ade4306aa63e292?utm_campaign=1058&utm_source=git)** | Sheboygan, WI | On Site | Aug 31 |
 | **[Acme Markets](http://www.acmemarkets.com/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/67d1ab8947453bfa6b75d4f2?utm_campaign=1058&utm_source=git)** | Newtown, PA | Hybrid | Aug 31 |
 | **[MathWorks](http://www.mathworks.com)** | **[Technical Documentation Intern - Undergraduate](https://jobright.ai/jobs/info/671a69ea75c42966c795f978?utm_campaign=1058&utm_source=git)** | Natick, MA | Hybrid | Aug 31 |
@@ -67,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Puyallup School District](https://www.puyallupsd.org)** | **[CASHIER (FOR ELIGIBLE INTERNAL BIDDERS ONLY)](https://jobright.ai/jobs/info/68b36a0d1ade4306aa63b3ec?utm_campaign=1058&utm_source=git)** | Puyallup, WA | On Site | Aug 30 |
 | **[Children's Hospital of Michigan](http://childrensdmc.org)** | **[Pharmacy Intern P3 Contingent Days](https://jobright.ai/jobs/info/68b3514ef4e41a61efd88fcd?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Aug 30 |
 | **[Grand Hyatt](https://www.hyatt.com/brands/grand-hyatt)** | **[Temporary Front Office Host Internship (December 2025 - 6 month)](https://jobright.ai/jobs/info/68b3b97ef4e41a61efd899be?utm_campaign=1058&utm_source=git)** | Washington, DC | Hybrid | Aug 30 |
+| **[Safeway](http://www.safeway.com)** | **[2026 Pharmacy Graduate Intern](https://jobright.ai/jobs/info/6897453d73b3a600fe895e6e?utm_campaign=1058&utm_source=git)** | Alamosa, CO | Hybrid | Aug 30 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b334cf1ade4306aa63aed8?utm_campaign=1058&utm_source=git)** | Alpena, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b33485bc187f64e1bdfe66?utm_campaign=1058&utm_source=git)** | Mount Pleasant, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b330d2f4e41a61efd88c7d?utm_campaign=1058&utm_source=git)** | Iron Mountain, MI | On Site | Aug 30 |
@@ -90,14 +93,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32d20bc187f64e1bdfd93?utm_campaign=1058&utm_source=git)** | Big Rapids, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32d1e1ade4306aa63adb4?utm_campaign=1058&utm_source=git)** | Escanaba, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32d17bc187f64e1bdfd8c?utm_campaign=1058&utm_source=git)** | Clare, MI | On Site | Aug 30 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cf1f4e41a61efd88bee?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cf1f4e41a61efd88bed?utm_campaign=1058&utm_source=git)** | Lombard, IL | On Site | Aug 30 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cf1f4e41a61efd88bee?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cf0f4e41a61efd88beb?utm_campaign=1058&utm_source=git)** | Houghton, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32ce01ade4306aa63ad96?utm_campaign=1058&utm_source=git)** | Whitehall, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cdaf4e41a61efd88be3?utm_campaign=1058&utm_source=git)** | Marquette, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cdabc187f64e1bdfd64?utm_campaign=1058&utm_source=git)** | Cadillac, MI | On Site | Aug 30 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cd0f4e41a61efd88bd7?utm_campaign=1058&utm_source=git)** | Prudenville, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cd0f4e41a61efd88bd6?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Aug 30 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cd0f4e41a61efd88bd7?utm_campaign=1058&utm_source=git)** | Prudenville, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cc21ade4306aa63ad89?utm_campaign=1058&utm_source=git)** | Ludington, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cc2bc187f64e1bdfd5a?utm_campaign=1058&utm_source=git)** | Ironwood, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cb6bc187f64e1bdfd51?utm_campaign=1058&utm_source=git)** | Grayling, MI | On Site | Aug 30 |
@@ -105,6 +108,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32c9cbc187f64e1bdfd42?utm_campaign=1058&utm_source=git)** | Muskegon, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32c92bc187f64e1bdfd3b?utm_campaign=1058&utm_source=git)** | Traverse City, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32c85bc187f64e1bdfd36?utm_campaign=1058&utm_source=git)** | Franklin Square, NY | On Site | Aug 30 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist  PT 24](https://jobright.ai/jobs/info/6893819af47efe21139648d8?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Aug 30 |
 | **[HCA Houston Healthcare](http://hcagulfcoast.com)** | **[Surgical Tech Extern PRN](https://jobright.ai/jobs/info/67d0eb551335ab668dc710d4?utm_campaign=1058&utm_source=git)** | Conroe, TX | On Site | Aug 30 |
 | **[Nebraska Methodist Health System](https://bestcare.org/)** | **[Student Rad Tech - Casual/PRN](https://jobright.ai/jobs/info/687a92e32097a271a897fc37?utm_campaign=1058&utm_source=git)** | Fremont, NE | On Site | Aug 30 |
 | **[Trident Medical Center](http://tridenthealthsystem.com)** | **[Student Radiology Tech](https://jobright.ai/jobs/info/67eba372c2995224cfb103eb?utm_campaign=1058&utm_source=git)** | Summerville, SC | On Site | Aug 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Student Opportunities - Desktop Support Internships - Spring 2026 (Onsite)](https://jobright.ai/jobs/info/68b24597f4e41a61efd831ee?utm_campaign=1058&utm_source=git)** | Fairfield, OH | On Site | Aug 29 |
 | **[Parkview Health](http://www.parkview.com)** | **[Medication Reconciliation Pharmacy Intern](https://jobright.ai/jobs/info/68b24530f4e41a61efd831a1?utm_campaign=1058&utm_source=git)** | Greater Fort Wayne | On Site | Aug 29 |
 | **[Withum](http://www.withum.com)** | **[East Brunswick, NJ Information Technology Support Intern](https://jobright.ai/jobs/info/68b24490f4e41a61efd83125?utm_campaign=1058&utm_source=git)** | East Brunswick, NJ | On Site | Aug 29 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68b243e61ade4306aa635355?utm_campaign=1058&utm_source=git)** | Chandler, AZ | On Site | Aug 29 |
-| **[Withum](http://www.withum.com)** | **[Providence, RI Information Technology Support Intern](https://jobright.ai/jobs/info/68b24397f4e41a61efd83064?utm_campaign=1058&utm_source=git)** | Providence, RI | On Site | Aug 29 |
-| **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Pharmacist Intern #495](https://jobright.ai/jobs/info/68b23fce1ade4306aa63526b?utm_campaign=1058&utm_source=git)** | West Jordan, UT | On Site | Aug 29 |
-| **[Northwest Texas Healthcare System](https://www.nwths.com)** | **[Student Surgical Tech / Intern / Surgery / PRN / Days](https://jobright.ai/jobs/info/68b2b1d2bc187f64e1bdecf4?utm_campaign=1058&utm_source=git)** | Amarillo, TX | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
