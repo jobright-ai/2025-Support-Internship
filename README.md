@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68b445a41ade4306aa63e292?utm_campaign=1058&utm_source=git)** | Sheboygan, WI | On Site | Aug 31 |
+| **[Acme Markets](http://www.acmemarkets.com/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/67d1ab8947453bfa6b75d4f2?utm_campaign=1058&utm_source=git)** | Newtown, PA | Hybrid | Aug 31 |
 | **[MathWorks](http://www.mathworks.com)** | **[Technical Documentation Intern - Undergraduate](https://jobright.ai/jobs/info/671a69ea75c42966c795f978?utm_campaign=1058&utm_source=git)** | Natick, MA | Hybrid | Aug 31 |
 | **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/68b412701ade4306aa63defe?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, FL | On Site | Aug 31 |
 | **[Henkel](http://www.henkel.com)** | **[CX Activation & Support Intern – Summer / Fall 2026](https://jobright.ai/jobs/info/68b3db21f4e41a61efd8ad6b?utm_campaign=1058&utm_source=git)** | Bridgewater, NJ | Hybrid | Aug 30 |
@@ -89,16 +90,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32d20bc187f64e1bdfd93?utm_campaign=1058&utm_source=git)** | Big Rapids, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32d1e1ade4306aa63adb4?utm_campaign=1058&utm_source=git)** | Escanaba, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32d17bc187f64e1bdfd8c?utm_campaign=1058&utm_source=git)** | Clare, MI | On Site | Aug 30 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cf1f4e41a61efd88bed?utm_campaign=1058&utm_source=git)** | Lombard, IL | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cf1f4e41a61efd88bee?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Aug 30 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cf1f4e41a61efd88bed?utm_campaign=1058&utm_source=git)** | Lombard, IL | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cf0f4e41a61efd88beb?utm_campaign=1058&utm_source=git)** | Houghton, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32ce01ade4306aa63ad96?utm_campaign=1058&utm_source=git)** | Whitehall, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cdaf4e41a61efd88be3?utm_campaign=1058&utm_source=git)** | Marquette, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cdabc187f64e1bdfd64?utm_campaign=1058&utm_source=git)** | Cadillac, MI | On Site | Aug 30 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cd0f4e41a61efd88bd7?utm_campaign=1058&utm_source=git)** | Prudenville, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cd0f4e41a61efd88bd6?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Aug 30 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cc2bc187f64e1bdfd5a?utm_campaign=1058&utm_source=git)** | Ironwood, MI | On Site | Aug 30 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cd0f4e41a61efd88bd7?utm_campaign=1058&utm_source=git)** | Prudenville, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cc21ade4306aa63ad89?utm_campaign=1058&utm_source=git)** | Ludington, MI | On Site | Aug 30 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cc2bc187f64e1bdfd5a?utm_campaign=1058&utm_source=git)** | Ironwood, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32cb6bc187f64e1bdfd51?utm_campaign=1058&utm_source=git)** | Grayling, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32c9ebc187f64e1bdfd45?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32c9cbc187f64e1bdfd42?utm_campaign=1058&utm_source=git)** | Muskegon, MI | On Site | Aug 30 |
@@ -111,7 +112,10 @@ For a complete list, click the following sortable link below:
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/68983e595574fd6bc0c76648?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Aug 30 |
 | ↳ | **[Intern-Nurse II - Med Surg 9T](https://jobright.ai/jobs/info/67eb75eef602ac9cec7f9d90?utm_campaign=1058&utm_source=git)** | Southaven, MS | On Site | Aug 30 |
 | **[WellSpan Health](https://www.wellspan.org/)** | **[Paramedic Intern - EMS Operations - Days](https://jobright.ai/jobs/info/6843447e0cf5aeb76600c25d?utm_campaign=1058&utm_source=git)** | Lewisburg, PA | On Site | Aug 30 |
-| ↳ | **[Internist- Freedom Way](https://jobright.ai/jobs/info/68238d61d96d8ed861409b5a?utm_campaign=1058&utm_source=git)** | York, PA | On Site | Aug 30 |
+| **[PIH Health](https://www.pihhealth.org)** | **[Registered Nurse (RN), Telemetry Part-Time, 7pm-7:30am, (Internal Candidates Only)](https://jobright.ai/jobs/info/685dacf692471452f2c9eb70?utm_campaign=1058&utm_source=git)** | Whittier, CA | On Site | Aug 30 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern](https://jobright.ai/jobs/info/67b3fb019dd7453aedd491dc?utm_campaign=1058&utm_source=git)** | Greenville, NC | On Site | Aug 30 |
+| **[Albertsons Market](https://www.theunitedfamily.com/albertsons-market-careers/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68983b5e5574fd6bc0c761a0?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 30 |
+| **[WellSpan Health](https://www.wellspan.org/)** | **[Internist- Freedom Way](https://jobright.ai/jobs/info/68238d61d96d8ed861409b5a?utm_campaign=1058&utm_source=git)** | York, PA | On Site | Aug 30 |
 | **[Safeway](http://www.safeway.com)** | **[2026 Pharmacy Graduate Intern](https://jobright.ai/jobs/info/689860725574fd6bc0c796ea?utm_campaign=1058&utm_source=git)** | Ogallala, NE | Hybrid | Aug 30 |
 | **[Empower Pharmacy](http://empowerpharmacy.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/688ee4e56a4aac5783cdafce?utm_campaign=1058&utm_source=git)** | Houston, TX | Hybrid | Aug 30 |
 | **[Safeway](http://www.safeway.com)** | **[2026 Pharmacy Graduate Intern](https://jobright.ai/jobs/info/68983173faa4e875e824b66d?utm_campaign=1058&utm_source=git)** | Erie, CO | Hybrid | Aug 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northwest Texas Healthcare System](https://www.nwths.com)** | **[Student Surgical Tech / Intern / Surgery / PRN / Days](https://jobright.ai/jobs/info/68b2b1d2bc187f64e1bdecf4?utm_campaign=1058&utm_source=git)** | Amarillo, TX | On Site | Aug 29 |
 | **[Transcard](http://www.transcard.com)** | **[2026 - Customer Service Intern](https://jobright.ai/jobs/info/68b23f2c1ade4306aa635217?utm_campaign=1058&utm_source=git)** | Chattanooga, TN | Hybrid | Aug 29 |
 | **[Inotiv](https://www.inotiv.com/)** | **[Part-Time Archiving Assistant (College Student Opportunity)](https://jobright.ai/jobs/info/68b23bf61ade4306aa6351c4?utm_campaign=1058&utm_source=git)** | Mount Vernon, IN | On Site | Aug 29 |
-| **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[IT Digital Solutions Intern](https://jobright.ai/jobs/info/68b236dff4e41a61efd82c76?utm_campaign=1058&utm_source=git)** | Oshkosh, WI | On Site | Aug 29 |
-| **[Houston Methodist](http://www.houstonmethodist.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b284d3f4e41a61efd858f9?utm_campaign=1058&utm_source=git)** | Sugar Land, TX | On Site | Aug 29 |
-| **[BBI Logistics](https://www.bbilogistics.com/)** | **[IT Support Intern](https://jobright.ai/jobs/info/68b23279bc187f64e1bd9bfc?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Aug 29 |
-| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY - Clinic Admissions Associate](https://jobright.ai/jobs/info/68b230debc187f64e1bd9b72?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
