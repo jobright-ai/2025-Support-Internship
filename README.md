@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Finni Health (YC W23)](https://www.finnihealth.com/)** | **[Paid BCBA Intern](https://jobright.ai/jobs/info/685b5a6c5c940c71bad1da4b?utm_campaign=1058&utm_source=git)** | Santa Fe, NM | On Site | Sep 01 |
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68b598d8f4e41a61efd90656?utm_campaign=1058&utm_source=git)** | Carpentersville, IL | On Site | Sep 01 |
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Client Service Internship - Summer 2026 (Denver, CO)](https://jobright.ai/jobs/info/68b58bcbbc187f64e1be71ad?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Sep 01 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68b58216f4e41a61efd8ff77?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Sep 01 |
+| **[Legends](http://legends.net)** | **[Intern, Hospitality - Jiffy Lube Live Bristow, VA](https://jobright.ai/jobs/info/67c98cde6e360d9ff36ef409?utm_campaign=1058&utm_source=git)** | Bristow, VA | On Site | Sep 01 |
+| **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern P3 Contingent Rotate](https://jobright.ai/jobs/info/6898eb33faa4e875e8250e1f?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Sep 01 |
+| **[Guthrie](http://www.guthrie.org)** | **[Pharmacy Intern - Pharmacy - Retail - Per Diem](https://jobright.ai/jobs/info/679a80bd2d00ff727930c896?utm_campaign=1058&utm_source=git)** | Binghamton, NY | On Site | Sep 01 |
+| **[H.I.G. Capital](https://hig.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/682ff814fc58871b83176e27?utm_campaign=1058&utm_source=git)** | New York, United States | On Site | Sep 01 |
 | **[Palm Beach County](https://discover.pbcgov.org/Pages/default.aspx)** | **[Student Employee](https://jobright.ai/jobs/info/68b566e5bc187f64e1be694c?utm_campaign=1058&utm_source=git)** | Palm Beach, FL | On Site | Sep 01 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Agriculture Product Technical Support Specialist Intern](https://jobright.ai/jobs/info/68b562e5bc187f64e1be68f8?utm_campaign=1058&utm_source=git)** | New Holland, PA | Hybrid | Sep 01 |
 | **[VytlOne](http://www.maxor.com)** | **[Pharmacy Intern - East Liberty Family HC Center Pharmacy](https://jobright.ai/jobs/info/68439689740b84371217eacd?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 01 |
@@ -94,14 +99,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Client Service Internship - Summer 2026 (Sioux Falls, SD)](https://jobright.ai/jobs/info/68b5374cf4e41a61efd8eb34?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | Aug 31 |
 | ↳ | **[Client Service Internship - Summer 2026 (Cedar Rapids, IA)](https://jobright.ai/jobs/info/68b5371af4e41a61efd8eb24?utm_campaign=1058&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 31 |
 | ↳ | **[Client Service Internship - Summer 2026 (Waukee, IA)](https://jobright.ai/jobs/info/68b5354cbc187f64e1be5b47?utm_campaign=1058&utm_source=git)** | Waukee, IA | On Site | Aug 31 |
-| **[Mountaire Farms](http://www.mountaire.com)** | **[Vet Services Intern](https://jobright.ai/jobs/info/68b53189bc187f64e1be5b06?utm_campaign=1058&utm_source=git)** | Millsboro, DE | On Site | Aug 31 |
-| **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Client Service Internship - Summer 2026 (Waukee, IA)](https://jobright.ai/jobs/info/68b53054f4e41a61efd8ea5b?utm_campaign=1058&utm_source=git)** | Waukee | On Site | Aug 31 |
+| ↳ | **[Client Service Internship - Summer 2026 (Waukee, IA)](https://jobright.ai/jobs/info/68b53054f4e41a61efd8ea5b?utm_campaign=1058&utm_source=git)** | Waukee | On Site | Aug 31 |
 | ↳ | **[Client Service Internship - Summer 2026 (Sioux Falls, SD)](https://jobright.ai/jobs/info/68b5304af4e41a61efd8ea56?utm_campaign=1058&utm_source=git)** | Sioux Falls | On Site | Aug 31 |
 | ↳ | **[Client Service Internship - Summer 2026 (Dallas, TX)](https://jobright.ai/jobs/info/68b53027bc187f64e1be5aac?utm_campaign=1058&utm_source=git)** | Dallas | On Site | Aug 31 |
 | ↳ | **[Client Service Internship - Summer 2026 (Cedar Rapids, IA)](https://jobright.ai/jobs/info/68b52fbebc187f64e1be5a84?utm_campaign=1058&utm_source=git)** | Cedar Rapids | On Site | Aug 31 |
 | **[Textron](http://textron.com)** | **[2026 Technical Writer Intern](https://jobright.ai/jobs/info/68b527fff4e41a61efd8e919?utm_campaign=1058&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
 | ↳ | **[2026 Digital Services Intern](https://jobright.ai/jobs/info/68b526c91ade4306aa640626?utm_campaign=1058&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
-| **[Mountaire Farms](http://www.mountaire.com)** | **[Vet Services Intern](https://jobright.ai/jobs/info/68b52698f4e41a61efd8e6e2?utm_campaign=1058&utm_source=git)** | North Carolina, United States | On Site | Aug 31 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Digital Services Intern](https://jobright.ai/jobs/info/68b526811ade4306aa640599?utm_campaign=1058&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
 | ↳ | **[2026 Technical Writer Intern](https://jobright.ai/jobs/info/68b5267abc187f64e1be5596?utm_campaign=1058&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
 | ↳ | **[2026 Salesforce Intern](https://jobright.ai/jobs/info/68b5266bbc187f64e1be5590?utm_campaign=1058&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32d8e1ade4306aa63adfc?utm_campaign=1058&utm_source=git)** | Grand Haven, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32d771ade4306aa63adef?utm_campaign=1058&utm_source=git)** | Midland, MI | On Site | Aug 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32d6e1ade4306aa63adea?utm_campaign=1058&utm_source=git)** | Franklin Square, NY | On Site | Aug 30 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32d661ade4306aa63ade5?utm_campaign=1058&utm_source=git)** | Cheboygan, MI | On Site | Aug 30 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b32d5f1ade4306aa63adde?utm_campaign=1058&utm_source=git)** | Charlevoix, MI | On Site | Aug 30 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68b32d58bc187f64e1bdfdb3?utm_campaign=1058&utm_source=git)** | Goodyear, AZ | On Site | Aug 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
