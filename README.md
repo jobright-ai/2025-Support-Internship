@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Mountaire Farms](http://www.mountaire.com)** | **[Vet Services Intern](https://jobright.ai/jobs/info/68b4f177bc187f64e1be3e39?utm_campaign=1058&utm_source=git)** | 203 Morris Farm Rd, Candor, NC, 27229, US | On Site | Aug 31 |
 | **[Venture Starters](https://venturestarters.com/)** | **[Student Intern](https://jobright.ai/jobs/info/68b4eeb8bc187f64e1be3e06?utm_campaign=1058&utm_source=git)** | United States | Remote | Aug 31 |
+| **[The GEO Group, Inc.](http://www.geogroup.com)** | **[P/T INTERN, COC](https://jobright.ai/jobs/info/68b51430f4e41a61efd8d756?utm_campaign=1058&utm_source=git)** | Boca Raton, FL | On Site | Aug 31 |
 | **[University of La Verne](http://laverne.edu)** | **[NFWS - OIT Service Desk (25/26)](https://jobright.ai/jobs/info/68b4a6ebf4e41a61efd8c90c?utm_campaign=1058&utm_source=git)** | La Verne, CA | On Site | Aug 31 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/68b48dbabc187f64e1be381b?utm_campaign=1058&utm_source=git)** | Grimes, IA | On Site | Aug 31 |
 | **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/68253c7360c3bcb6ba73e2a8?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Aug 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/68b3db2ebc187f64e1be1ece?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | Aug 29 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68b26916bc187f64e1bdb178?utm_campaign=1058&utm_source=git)** | Charleston, SC | On Site | Aug 29 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68b268babc187f64e1bdb0ec?utm_campaign=1058&utm_source=git)** | Walterboro, SC | On Site | Aug 29 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68b26885bc187f64e1bdb09c?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
