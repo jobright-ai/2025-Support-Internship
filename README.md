@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Saint Xavier University](http://www.sxu.edu/)** | **[Student Web Support Assistant - Student Employment](https://jobright.ai/jobs/info/68b60e30f4e41a61efd91c6f?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Sep 01 |
+| **[Nemacolin](http://www.nemacolin.com)** | **[Lodging Hospitality Internship - Summer 2026](https://jobright.ai/jobs/info/68b607aff4e41a61efd91bea?utm_campaign=1058&utm_source=git)** | Farmington, PA | On Site | Sep 01 |
 | **[ Pilot Company](http://www.pilotflyingj.com)** | **[Guest Support Analyst Intern](https://jobright.ai/jobs/info/68b5ef69bc187f64e1be88fc?utm_campaign=1058&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Sep 01 |
 | ↳ | **[Salesforce Intern](https://jobright.ai/jobs/info/68b5eed41ade4306aa64392d?utm_campaign=1058&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | Hybrid | Sep 01 |
 | ↳ | **[Service Desk Intern](https://jobright.ai/jobs/info/68b5eecabc187f64e1be88d1?utm_campaign=1058&utm_source=git)** | 9016 Cross Park Drive, Knoxville, TN | On Site | Sep 01 |
 | **[Fulcrum Digital Inc](https://fulcrumdigital.com/)** | **[Infrastructure Analyst](https://jobright.ai/jobs/info/68b5ec811ade4306aa6438c2?utm_campaign=1058&utm_source=git)** | NYC Metro Area | On Site | Sep 01 |
+| **[Residential Services, Inc. (RSI)](http://www.rsi-nc.org)** | **[Paid Internship](https://jobright.ai/jobs/info/68b60450bc187f64e1be8b82?utm_campaign=1058&utm_source=git)** | Chapel Hill,NC,US | On Site | Sep 01 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Guest Support Analyst Intern](https://jobright.ai/jobs/info/68b5e0fe1ade4306aa643738?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Sep 01 |
 | **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Extra Help - Reimbursement Coding Representative - Surgery](https://jobright.ai/jobs/info/68b5e0f2bc187f64e1be86a6?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Sep 01 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/68b5dfbff4e41a61efd91673?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Sep 01 |
@@ -92,9 +95,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d1d21ade4306aa643537?utm_campaign=1058&utm_source=git)** | Warsaw, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d1d21ade4306aa643538?utm_campaign=1058&utm_source=git)** | Franklin, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d1c11ade4306aa643531?utm_campaign=1058&utm_source=git)** | Exmore, VA | On Site | Sep 01 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d1bd1ade4306aa64352f?utm_campaign=1058&utm_source=git)** | Bowling Green, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d1bd1ade4306aa64352e?utm_campaign=1058&utm_source=git)** | Hampton, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68b5d1bdf4e41a61efd914e2?utm_campaign=1058&utm_source=git)** | Chesapeake, VA | On Site | Sep 01 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d1bd1ade4306aa64352f?utm_campaign=1058&utm_source=git)** | Bowling Green, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d1b2f4e41a61efd914db?utm_campaign=1058&utm_source=git)** | Suffolk, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68b5d1a7f4e41a61efd914d5?utm_campaign=1058&utm_source=git)** | Franklin, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d19cf4e41a61efd914ce?utm_campaign=1058&utm_source=git)** | Kilmarnock, VA | On Site | Sep 01 |
@@ -131,13 +134,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Digital Services Intern](https://jobright.ai/jobs/info/68b54e62bc187f64e1be6591?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Salesforce Intern](https://jobright.ai/jobs/info/68b54973bc187f64e1be5f22?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Internship - Customer Accounts (Independence, KS)](https://jobright.ai/jobs/info/68b548bcbc187f64e1be5eb9?utm_campaign=1058&utm_source=git)** | Independence, KS | On Site | Sep 01 |
-| ↳ | **[2026 Internship - Customer Support](https://jobright.ai/jobs/info/68b5465cf4e41a61efd8ee4c?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
 | ↳ | **[2026 Internship - Customer Experience (Events Associate)](https://jobright.ai/jobs/info/68b545f6f4e41a61efd8ee27?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
 | ↳ | **[2026 Internship - Customer Support (Engagement)](https://jobright.ai/jobs/info/68b5456cf4e41a61efd8edfb?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Sep 01 |
 | ↳ | **[2026 Internship - Customer Accounts](https://jobright.ai/jobs/info/68b54522bc187f64e1be5e94?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
 | ↳ | **[2026 Internship - Customer Support (Customer Service Relations)](https://jobright.ai/jobs/info/68b544ebbc187f64e1be5e81?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
 | ↳ | **[2026 Technical Writer Intern](https://jobright.ai/jobs/info/68b544a7bc187f64e1be5e66?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
-| **[Textron](http://textron.com)** | **[2026 Salesforce Intern](https://jobright.ai/jobs/info/68b543a8bc187f64e1be5e02?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Aug 31 |
+| **[Textron](http://textron.com)** | **[2026 Internship - Customer Support](https://jobright.ai/jobs/info/68b544311ade4306aa640def?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Aug 31 |
+| ↳ | **[2026 Salesforce Intern](https://jobright.ai/jobs/info/68b543a8bc187f64e1be5e02?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Aug 31 |
 | ↳ | **[2026 Internship - Customer Support (Indianapolis, IN)](https://jobright.ai/jobs/info/68b54306bc187f64e1be5db6?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Aug 31 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[IT Intern](https://jobright.ai/jobs/info/68b56bf3f4e41a61efd8fa74?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Aug 31 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/68b540451ade4306aa640d50?utm_campaign=1058&utm_source=git)** | Denver, CO, 80205 | On Site | Aug 31 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Client Service Internship - Summer 2026 (Dallas, TX)](https://jobright.ai/jobs/info/68b53027bc187f64e1be5aac?utm_campaign=1058&utm_source=git)** | Dallas | On Site | Aug 31 |
 | ↳ | **[Client Service Internship - Summer 2026 (Cedar Rapids, IA)](https://jobright.ai/jobs/info/68b52fbebc187f64e1be5a84?utm_campaign=1058&utm_source=git)** | Cedar Rapids | On Site | Aug 31 |
 | **[Mountaire Farms](http://www.mountaire.com)** | **[Vet Services Intern](https://jobright.ai/jobs/info/68b5d9aabc187f64e1be860b?utm_campaign=1058&utm_source=git)** | Millsboro, DE | On Site | Aug 31 |
-| **[Textron](http://textron.com)** | **[2026 Technical Writer Intern](https://jobright.ai/jobs/info/68b527fff4e41a61efd8e919?utm_campaign=1058&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
-| ↳ | **[2026 Digital Services Intern](https://jobright.ai/jobs/info/68b526c91ade4306aa640626?utm_campaign=1058&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
-| **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Digital Services Intern](https://jobright.ai/jobs/info/68b526811ade4306aa640599?utm_campaign=1058&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
-| ↳ | **[2026 Technical Writer Intern](https://jobright.ai/jobs/info/68b5267abc187f64e1be5596?utm_campaign=1058&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
-| ↳ | **[2026 Salesforce Intern](https://jobright.ai/jobs/info/68b5266bbc187f64e1be5590?utm_campaign=1058&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
+| **[Textron](http://textron.com)** | **[2026 Digital Services Intern](https://jobright.ai/jobs/info/68b529dd1ade4306aa640978?utm_campaign=1058&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
+| ↳ | **[2026 Technical Writer Intern](https://jobright.ai/jobs/info/68b527fff4e41a61efd8e919?utm_campaign=1058&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
