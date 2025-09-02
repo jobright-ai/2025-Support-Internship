@@ -74,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Extra Help - Reimbursement Coding Representative - Surgery](https://jobright.ai/jobs/info/68b5e0f2bc187f64e1be86a6?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Sep 01 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/68b5dfbff4e41a61efd91673?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Sep 01 |
 | **[Wayne Memorial Hospital Honesdale, Pa](http://www.wmh.org)** | **[WMH Student Imaging Aide](https://jobright.ai/jobs/info/68b5dd36bc187f64e1be864c?utm_campaign=1058&utm_source=git)** | Honesdale, PA | On Site | Sep 01 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68b5d2a3bc187f64e1be8520?utm_campaign=1058&utm_source=git)** | Culpeper, VA | On Site | Sep 01 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68b5d2a3bc187f64e1be851f?utm_campaign=1058&utm_source=git)** | Newport News, VA | On Site | Sep 01 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68b5d2a3bc187f64e1be851f?utm_campaign=1058&utm_source=git)** | Newport News, VA | On Site | Sep 01 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68b5d2a3bc187f64e1be8520?utm_campaign=1058&utm_source=git)** | Culpeper, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d28fbc187f64e1be851a?utm_campaign=1058&utm_source=git)** | Providence Forge, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d2881ade4306aa64357a?utm_campaign=1058&utm_source=git)** | Warrenton, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d286bc187f64e1be8515?utm_campaign=1058&utm_source=git)** | Williamsburg, VA | On Site | Sep 01 |
@@ -96,10 +96,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68b5d205bc187f64e1be84da?utm_campaign=1058&utm_source=git)** | Montross, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68b5d1e4f4e41a61efd914f2?utm_campaign=1058&utm_source=git)** | Suffolk, VA | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Internship - Customer Support  (Engagement)](https://jobright.ai/jobs/info/68b5d1d71ade4306aa643539?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Sep 01 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d1d5bc187f64e1be84c4?utm_campaign=1058&utm_source=git)** | West Point, VA | On Site | Sep 01 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68b5d1d5bc187f64e1be84c5?utm_campaign=1058&utm_source=git)** | Providence Forge, VA | On Site | Sep 01 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d1d21ade4306aa643538?utm_campaign=1058&utm_source=git)** | Franklin, VA | On Site | Sep 01 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68b5d1d5bc187f64e1be84c5?utm_campaign=1058&utm_source=git)** | Providence Forge, VA | On Site | Sep 01 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d1d5bc187f64e1be84c4?utm_campaign=1058&utm_source=git)** | West Point, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d1d21ade4306aa643537?utm_campaign=1058&utm_source=git)** | Warsaw, VA | On Site | Sep 01 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d1d21ade4306aa643538?utm_campaign=1058&utm_source=git)** | Franklin, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d1c11ade4306aa643531?utm_campaign=1058&utm_source=git)** | Exmore, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d1bd1ade4306aa64352f?utm_campaign=1058&utm_source=git)** | Bowling Green, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d1bd1ade4306aa64352e?utm_campaign=1058&utm_source=git)** | Hampton, VA | On Site | Sep 01 |
@@ -119,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68b598d8f4e41a61efd90656?utm_campaign=1058&utm_source=git)** | Carpentersville, IL | On Site | Sep 01 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Technologist-Radiology Student - CR Rad Diagnostics BMH Crittenden](https://jobright.ai/jobs/info/67d52716d19474209a8c1258?utm_campaign=1058&utm_source=git)** | West Memphis, AR | On Site | Sep 01 |
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Client Service Internship - Summer 2026 (Denver, CO)](https://jobright.ai/jobs/info/68b58bcbbc187f64e1be71ad?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Sep 01 |
+| **[Sappi](http://sappi.com)** | **[Desktop Support - Summer Intern](https://jobright.ai/jobs/info/68b67210bc187f64e1be9ee3?utm_campaign=1058&utm_source=git)** | Cloquet, MN | On Site | Sep 01 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68b58216f4e41a61efd8ff77?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Sep 01 |
 | **[Legends](http://legends.net)** | **[Intern, Hospitality - Jiffy Lube Live Bristow, VA](https://jobright.ai/jobs/info/67c98cde6e360d9ff36ef409?utm_campaign=1058&utm_source=git)** | Bristow, VA | On Site | Sep 01 |
 | **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern P3 Contingent Rotate](https://jobright.ai/jobs/info/6898eb33faa4e875e8250e1f?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Sep 01 |
@@ -137,24 +138,23 @@ For a complete list, click the following sortable link below:
 | **[Benedictine University](http://www.ben.edu/)** | **[Undergrad Student Employee - Athletics (Football)](https://jobright.ai/jobs/info/68b59017f4e41a61efd90335?utm_campaign=1058&utm_source=git)** | Lisle, IL | On Site | Sep 01 |
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Technical Writer Intern](https://jobright.ai/jobs/info/68b5593b1ade4306aa64183e?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
 | **[Lycoming Engines](http://www.lycoming.com/)** | **[2026 Intern - Product Support (Lycoming) - Williamsport, PA](https://jobright.ai/jobs/info/68b5557c1ade4306aa6417e5?utm_campaign=1058&utm_source=git)** | Williamsport, PA | Hybrid | Sep 01 |
+| **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Technical Writer Intern](https://jobright.ai/jobs/info/68b676fdbc187f64e1bea3f3?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
+| **[Davenport University](http://www.davenport.edu/)** | **[(Student) Corporate Services Assistant](https://jobright.ai/jobs/info/68b681531ade4306aa645744?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Sep 01 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/68b5500ef4e41a61efd8f5ca?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Sep 01 |
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Digital Services Intern](https://jobright.ai/jobs/info/68b55001f4e41a61efd8f5c7?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Internship - Customer Support (Aftermarket Warranty and Program Support Specialist)](https://jobright.ai/jobs/info/68b54eae1ade4306aa6415c5?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
 | ↳ | **[2026 Digital Services Intern](https://jobright.ai/jobs/info/68b54e62bc187f64e1be6591?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Salesforce Intern](https://jobright.ai/jobs/info/68b54973bc187f64e1be5f22?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Internship - Customer Accounts (Independence, KS)](https://jobright.ai/jobs/info/68b548bcbc187f64e1be5eb9?utm_campaign=1058&utm_source=git)** | Independence, KS | On Site | Sep 01 |
-| ↳ | **[2026 Internship - Customer Support](https://jobright.ai/jobs/info/68b5465cf4e41a61efd8ee4c?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
 | ↳ | **[2026 Internship - Customer Experience (Events Associate)](https://jobright.ai/jobs/info/68b545f6f4e41a61efd8ee27?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
 | ↳ | **[2026 Internship - Customer Support (Engagement)](https://jobright.ai/jobs/info/68b5456cf4e41a61efd8edfb?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Sep 01 |
 | ↳ | **[2026 Internship - Customer Accounts](https://jobright.ai/jobs/info/68b54522bc187f64e1be5e94?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
 | ↳ | **[2026 Internship - Customer Support (Customer Service Relations)](https://jobright.ai/jobs/info/68b544ebbc187f64e1be5e81?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
 | ↳ | **[2026 Technical Writer Intern](https://jobright.ai/jobs/info/68b544a7bc187f64e1be5e66?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
-| **[Textron](http://textron.com)** | **[2026 Salesforce Intern](https://jobright.ai/jobs/info/68b543a8bc187f64e1be5e02?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Aug 31 |
+| **[Textron](http://textron.com)** | **[2026 Internship - Customer Support](https://jobright.ai/jobs/info/68b544311ade4306aa640def?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Aug 31 |
+| ↳ | **[2026 Salesforce Intern](https://jobright.ai/jobs/info/68b543a8bc187f64e1be5e02?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Aug 31 |
 | ↳ | **[2026 Internship - Customer Support (Indianapolis, IN)](https://jobright.ai/jobs/info/68b54306bc187f64e1be5db6?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Aug 31 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[IT Intern](https://jobright.ai/jobs/info/68b56bf3f4e41a61efd8fa74?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Aug 31 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/68b540451ade4306aa640d50?utm_campaign=1058&utm_source=git)** | Denver, CO, 80205 | On Site | Aug 31 |
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Client Service Internship - Summer 2026 (Denver, CO)](https://jobright.ai/jobs/info/68b53ff5bc187f64e1be5d8b?utm_campaign=1058&utm_source=git)** | Denver | On Site | Aug 31 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/68b53fc2f4e41a61efd8ec8c?utm_campaign=1058&utm_source=git)** | Denver, CO, 80205 | Hybrid | Aug 31 |
-| **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Client Service Internship - Summer 2026 (Dallas, TX)](https://jobright.ai/jobs/info/68b53a75bc187f64e1be5c19?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Aug 31 |
-| ↳ | **[Client Service Internship - Summer 2026 (Sioux Falls, SD)](https://jobright.ai/jobs/info/68b5374cf4e41a61efd8eb34?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | Aug 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
