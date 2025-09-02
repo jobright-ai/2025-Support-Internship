@@ -70,7 +70,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68b69d831ade4306aa645cbc?utm_campaign=1058&utm_source=git)** | Durham, NC | On Site | Sep 02 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68b69d48bc187f64e1beac8f?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Sep 02 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68b69d08bc187f64e1beac7c?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Sep 02 |
-| **[Costco Wholesale](https://www.costco.com/)** | **[RX Grad Intern](https://jobright.ai/jobs/info/68b6a260bc187f64e1beb046?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Sep 01 |
+| **[KBR, Inc.](https://www.kbr.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68b0f91fe815524ae11fa358?utm_campaign=1058&utm_source=git)** | Houston, TX | Hybrid | Sep 01 |
+| **[Costco Wholesale](https://www.costco.com/)** | **[RX Grad Intern](https://jobright.ai/jobs/info/68b6a7def4e41a61efd94084?utm_campaign=1058&utm_source=git)** | Santa Clara, CA | On Site | Sep 01 |
+| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68b6a260bc187f64e1beb046?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Sep 01 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68b6a2a4f4e41a61efd94037?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Sep 01 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Site IT (Summer 2026)](https://jobright.ai/jobs/info/68b65bda1ade4306aa64454b?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Sep 01 |
 | ↳ | **[Intern - Site IT (Summer 2026)](https://jobright.ai/jobs/info/68b65bb71ade4306aa644531?utm_campaign=1058&utm_source=git)** | Neenah, WI | On Site | Sep 01 |
@@ -91,9 +93,11 @@ For a complete list, click the following sortable link below:
 | **[Wayne Memorial Hospital Honesdale, Pa](http://www.wmh.org)** | **[WMH Student Imaging Aide](https://jobright.ai/jobs/info/68b5dd36bc187f64e1be864c?utm_campaign=1058&utm_source=git)** | Honesdale, PA | On Site | Sep 01 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68b5d2a3bc187f64e1be8520?utm_campaign=1058&utm_source=git)** | Culpeper, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68b5d2a3bc187f64e1be851f?utm_campaign=1058&utm_source=git)** | Newport News, VA | On Site | Sep 01 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d29e1ade4306aa643585?utm_campaign=1058&utm_source=git)** | Virginia Beach, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d28fbc187f64e1be851a?utm_campaign=1058&utm_source=git)** | Providence Forge, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d2881ade4306aa64357a?utm_campaign=1058&utm_source=git)** | Warrenton, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d286bc187f64e1be8515?utm_campaign=1058&utm_source=git)** | Williamsburg, VA | On Site | Sep 01 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d2801ade4306aa643573?utm_campaign=1058&utm_source=git)** | Virginia Beach, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68b5d276bc187f64e1be850d?utm_campaign=1058&utm_source=git)** | Williamsburg, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d274bc187f64e1be850a?utm_campaign=1058&utm_source=git)** | Culpeper, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68b5d2711ade4306aa643570?utm_campaign=1058&utm_source=git)** | Virginia Beach, VA | On Site | Sep 01 |
@@ -110,15 +114,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68b5d205bc187f64e1be84da?utm_campaign=1058&utm_source=git)** | Montross, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68b5d1e4f4e41a61efd914f2?utm_campaign=1058&utm_source=git)** | Suffolk, VA | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Internship - Customer Support  (Engagement)](https://jobright.ai/jobs/info/68b5d1d71ade4306aa643539?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Sep 01 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d1d5bc187f64e1be84c4?utm_campaign=1058&utm_source=git)** | West Point, VA | On Site | Sep 01 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68b5d1d5bc187f64e1be84c5?utm_campaign=1058&utm_source=git)** | Providence Forge, VA | On Site | Sep 01 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68b5d1d5bc187f64e1be84c5?utm_campaign=1058&utm_source=git)** | Providence Forge, VA | On Site | Sep 01 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d1d5bc187f64e1be84c4?utm_campaign=1058&utm_source=git)** | West Point, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d1d21ade4306aa643537?utm_campaign=1058&utm_source=git)** | Warsaw, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d1d21ade4306aa643538?utm_campaign=1058&utm_source=git)** | Franklin, VA | On Site | Sep 01 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d1ce1ade4306aa643535?utm_campaign=1058&utm_source=git)** | Virginia Beach, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d1c11ade4306aa643531?utm_campaign=1058&utm_source=git)** | Exmore, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d1bd1ade4306aa64352e?utm_campaign=1058&utm_source=git)** | Hampton, VA | On Site | Sep 01 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d1bd1ade4306aa64352f?utm_campaign=1058&utm_source=git)** | Bowling Green, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68b5d1bdf4e41a61efd914e2?utm_campaign=1058&utm_source=git)** | Chesapeake, VA | On Site | Sep 01 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d1bd1ade4306aa64352f?utm_campaign=1058&utm_source=git)** | Bowling Green, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d1b2f4e41a61efd914db?utm_campaign=1058&utm_source=git)** | Suffolk, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68b5d1a7f4e41a61efd914d5?utm_campaign=1058&utm_source=git)** | Franklin, VA | On Site | Sep 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b5d19cf4e41a61efd914ce?utm_campaign=1058&utm_source=git)** | Kilmarnock, VA | On Site | Sep 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Technical Writer Intern](https://jobright.ai/jobs/info/68b5593b1ade4306aa64183e?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
 | **[Lycoming Engines](http://www.lycoming.com/)** | **[2026 Intern - Product Support (Lycoming) - Williamsport, PA](https://jobright.ai/jobs/info/68b5557c1ade4306aa6417e5?utm_campaign=1058&utm_source=git)** | Williamsport, PA | Hybrid | Sep 01 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Technical Writer Intern](https://jobright.ai/jobs/info/68b676fdbc187f64e1bea3f3?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
-| **[Davenport University](http://www.davenport.edu/)** | **[(Student) Call Center Assistant](https://jobright.ai/jobs/info/68b68d1cf4e41a61efd9393b?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Sep 01 |
-| ↳ | **[(Student) Corporate Services Assistant](https://jobright.ai/jobs/info/68b681531ade4306aa645744?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Sep 01 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/68b5500ef4e41a61efd8f5ca?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
