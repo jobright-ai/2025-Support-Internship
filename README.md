@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PPI - Precision Pulley & Idler](https://www.ppi-global.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68b909d907090163b6ba7137?utm_campaign=1058&utm_source=git)** | Pella, IA | On Site | Sep 03 |
+| **[Meijer](https://www.meijer.com/)** | **[Store Detective Intern](https://jobright.ai/jobs/info/68b904acea901c0d269fb82a?utm_campaign=1058&utm_source=git)** | Louisville, KY | On Site | Sep 03 |
+| **[Center for Internet Security](http://cisecurity.org/)** | **[IT Intern - Albany, NY](https://jobright.ai/jobs/info/68b8ff8b07090163b6ba6bcc?utm_campaign=1058&utm_source=git)** | East Greenbush, NY | On Site | Sep 03 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b8f31cea901c0d269faf80?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Sep 03 |
+| **[Grand Strand Medical Center – HCA](https://mygrandstrandhealth.com)** | **[Radiology Tech Student](https://jobright.ai/jobs/info/68b8f28fea901c0d269faefb?utm_campaign=1058&utm_source=git)** | Myrtle Beach, SC | On Site | Sep 03 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/68b8eb375b42bc456282904d?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Sep 03 |
 | **[Utah Transit Authority](http://www.rideuta.com/)** | **[Customer Experience and Service Planning Intern (Part Time)](https://jobright.ai/jobs/info/68b8e5425b42bc4562828cd9?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Sep 03 |
 | **[Markel](https://www.markel.com)** | **[2026 IT Internship Program](https://jobright.ai/jobs/info/68b8e427ea901c0d269fa760?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Sep 03 |
@@ -67,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/68b8e23907090163b6ba5b03?utm_campaign=1058&utm_source=git)** | Des Moines, Iowa | On Site | Sep 03 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[IT Intern](https://jobright.ai/jobs/info/68b8dc6b5b42bc4562828482?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Sep 03 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68b8dbf507090163b6ba56ff?utm_campaign=1058&utm_source=git)** | Mesa, AZ | Hybrid | Sep 03 |
+| **[Auburn University](https://www.auburn.edu/)** | **[Student Lab Assistant](https://jobright.ai/jobs/info/68b9006e07090163b6ba6cf0?utm_campaign=1058&utm_source=git)** | Auburn, AL | On Site | Sep 03 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH ASST I (TEMP)](https://jobright.ai/jobs/info/68b8d462ea901c0d269f9c70?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Sep 03 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Right-of-Entry (ROE) Specialist Intern](https://jobright.ai/jobs/info/68b8d42d5b42bc4562828019?utm_campaign=1058&utm_source=git)** | United States | Remote | Sep 03 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/68b8d00207090163b6ba528d?utm_campaign=1058&utm_source=git)** | New York, United States | On Site | Sep 03 |
@@ -75,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68b8e4675b42bc4562828bdd?utm_campaign=1058&utm_source=git)** | Great Bend, KS | On Site | Sep 03 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Sa Technology II - Help Desk](https://jobright.ai/jobs/info/68b8c3af5b42bc4562827896?utm_campaign=1058&utm_source=git)** | Superior, WI | On Site | Sep 03 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[IT Support Intern - Summer 2026](https://jobright.ai/jobs/info/68b89f72ea901c0d269f82db?utm_campaign=1058&utm_source=git)** | Detroit, 12701  Southfield Road, Detroit, Michigan, United States of America | On Site | Sep 03 |
-| **[Saint Xavier University](http://www.sxu.edu/)** | **[Student Web Support Assistant - Student Employment](https://jobright.ai/jobs/info/68b8b6f4ea901c0d269f904d?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Sep 03 |
 | **[Center for Internet Security](http://cisecurity.org/)** | **[IT Intern - Albany, NY](https://jobright.ai/jobs/info/68b8b5b4ea901c0d269f8ec2?utm_campaign=1058&utm_source=git)** | East Greenbush Headquarters | On Site | Sep 03 |
 | **[Mastercard](http://www.mastercard.com)** | **[Customer and Product Delivery Intern, Summer 2026 - United States](https://jobright.ai/jobs/info/68b8a99cea901c0d269f8834?utm_campaign=1058&utm_source=git)** | O'Fallon, Missouri | On Site | Sep 03 |
 | **[Geisinger](https://www.geisinger.org)** | **[Pharmacy Intern Technician- Flex](https://jobright.ai/jobs/info/68b8a7e207090163b6ba3f26?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Sep 03 |
@@ -96,7 +101,7 @@ For a complete list, click the following sortable link below:
 | **[TomTom](http://www.tomtom.com/?Lid=4)** | **[IT Support Intern](https://jobright.ai/jobs/info/68b88e6fea901c0d269f72e9?utm_campaign=1058&utm_source=git)** | Farmington Hills, MI | Hybrid | Sep 03 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/68b88c4dea901c0d269f70cc?utm_campaign=1058&utm_source=git)** | New York | On Site | Sep 03 |
 | **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Extra Help - Reimbursement Coding Representative - Surgery](https://jobright.ai/jobs/info/68b888925b42bc45628254a1?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Sep 03 |
-| **[University of Kentucky](https://ukhealthcare.uky.edu/markey-cancer-center)** | **[Student: Customer Service Agent](https://jobright.ai/jobs/info/68b8a00407090163b6ba3b6a?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Sep 03 |
+| **[University of Kentucky](https://www.ca.uky.edu)** | **[Student: Customer Service Agent](https://jobright.ai/jobs/info/68b8a00407090163b6ba3b6a?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Sep 03 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY - Clinic Admissions Associate](https://jobright.ai/jobs/info/68b87fd05b42bc456282500b?utm_campaign=1058&utm_source=git)** | Mesquite, TX | On Site | Sep 03 |
 | **[Newrez LLC](https://www.newrez.com)** | **[IT Support - Intern](https://jobright.ai/jobs/info/68b87cd55b42bc4562824ed9?utm_campaign=1058&utm_source=git)** | CA, Sherman Oaks | On Site | Sep 03 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b87b3f5b42bc4562824e00?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Sep 03 |
@@ -131,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Rehab Associates of Central Virginia](https://racva.com)** | **[Physical Therapy Tech](https://jobright.ai/jobs/info/68b883a3ea901c0d269f6c8f?utm_campaign=1058&utm_source=git)** | Mansfield, TX | On Site | Sep 03 |
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68b83e8607090163b6ba06c9?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Sep 03 |
 | ↳ | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68b83e5607090163b6ba06b4?utm_campaign=1058&utm_source=git)** | Washington, PA | On Site | Sep 03 |
-| **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68b83ddcea901c0d269f4eb9?utm_campaign=1058&utm_source=git)** | Glendale, AZ | On Site | Sep 03 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I - CL Med/Surg 3 North BMH Collierville](https://jobright.ai/jobs/info/67d52716d19474209a8c1250?utm_campaign=1058&utm_source=git)** | Collierville, TN | On Site | Sep 03 |
 | **[Center for Disability & Elder Law](https://www.cdelaw.org)** | **[Fall 2025 PILI Intern](https://jobright.ai/jobs/info/68b838e85b42bc456282315c?utm_campaign=1058&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Sep 03 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68b836cf5b42bc456282303d?utm_campaign=1058&utm_source=git)** | Wentzville, MO | On Site | Sep 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68b81e983dd50f6e92b89994?utm_campaign=1058&utm_source=git)** | The Villages, FL | On Site | Sep 02 |
 | ↳ | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68b7edb85e55be5e2604f651?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Sep 02 |
 | ↳ | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68b829ec1e16661ab7201b42?utm_campaign=1058&utm_source=git)** | Middleburg, FL | On Site | Sep 02 |
-| **[Blackberry Farm](http://www.blackberryfarm.com/)** | **[Hospitality Intern](https://jobright.ai/jobs/info/68b7b574195d032a0960afa5?utm_campaign=1058&utm_source=git)** | Cashiers, NC | On Site | Sep 02 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b7b144195d032a0960aca9?utm_campaign=1058&utm_source=git)** | Monroe, NJ | On Site | Sep 02 |
-| **[Meijer](https://www.meijer.com/)** | **[Store Detective Intern](https://jobright.ai/jobs/info/68b7af09effbb9793f7b6a3a?utm_campaign=1058&utm_source=git)** | Grand Rapids Metro | On Site | Sep 02 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b7aefeeffbb9793f7b6a2c?utm_campaign=1058&utm_source=git)** | Montclair, NJ | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
