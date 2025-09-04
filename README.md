@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[IT College Graduate Intern](https://jobright.ai/jobs/info/68b9742a8043103d4f2176fd?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | Sep 04 |
 | **[Meijer](https://www.meijer.com/)** | **[Pre-Pharmacy Tech or Intern](https://jobright.ai/jobs/info/68b95fc15f3832749185d75b?utm_campaign=1058&utm_source=git)** | Franklin, IN | On Site | Sep 04 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Generalist - Student Success - PAC - req12988 - T](https://jobright.ai/jobs/info/68b95ce98043103d4f216ee5?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Sep 04 |
 | **[Gladwell Orthodontics](https://gladwellorthodontics.com/)** | **[Barista/Front Office Staff Intern](https://jobright.ai/jobs/info/68b958d207090163b6baa087?utm_campaign=1058&utm_source=git)** | Wake Forest, NC | On Site | Sep 04 |
@@ -65,8 +66,10 @@ For a complete list, click the following sortable link below:
 | **[Sabathani Community Center ](https://sabathani.org/)** | **[***Volunteer*** Part time Receptionist](https://jobright.ai/jobs/info/68b941e1ea901c0d269fe1b7?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Sep 04 |
 | **[Maharishi International University](https://www.miu.edu/)** | **[FWS Rec Center Customer Representative- Fall 2025](https://jobright.ai/jobs/info/68b95f065f3832749185d6f8?utm_campaign=1058&utm_source=git)** | Fairfield, IA | On Site | Sep 04 |
 | **[Gladwell Orthodontics](https://gladwellorthodontics.com/)** | **[Barista/Front Office Staff Intern](https://jobright.ai/jobs/info/68b93a9f07090163b6ba929b?utm_campaign=1058&utm_source=git)** | US-NC-Wake Forest | On Site | Sep 04 |
+| **[Utah Transit Authority](http://www.rideuta.com/)** | **[Customer Experience and Service Planning Intern (Part Time)](https://jobright.ai/jobs/info/68b939ae5b42bc456282bece?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Sep 04 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68b937035b42bc456282bb30?utm_campaign=1058&utm_source=git)** | Pleasant Hill, CA | Hybrid | Sep 03 |
 | **[Central Maine Healthcare](http://www.cmhc.org/)** | **[Respiratory Therapist Assistant - Pathway to Respiratory Therapist](https://jobright.ai/jobs/info/68b9316d5b42bc456282b843?utm_campaign=1058&utm_source=git)** | Lewiston, ME | On Site | Sep 03 |
+| **[NEW U THERAPY CENTER & FAMILY SERVICES](https://newutherapy.com)** | **[Medical Billing Intern](https://jobright.ai/jobs/info/68b9705b5f3832749185de30?utm_campaign=1058&utm_source=git)** | United States | Remote | Sep 03 |
 | **[Great Plains Manufacturing, Inc.](http://www.greatplainsmfg.com/)** | **[Information Technology Intern Summer 2026](https://jobright.ai/jobs/info/68b929c25b42bc456282b286?utm_campaign=1058&utm_source=git)** | Salina, KS | On Site | Sep 03 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/68b9567907090163b6ba9fdf?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Sep 03 |
 | **[The University of Toledo](https://utmc.utoledo.edu/)** | **[Radiology Tech Asst - 499759](https://jobright.ai/jobs/info/68b94f5eea901c0d269fe733?utm_campaign=1058&utm_source=git)** | Toledo, OH | On Site | Sep 03 |
@@ -81,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b8f31cea901c0d269faf80?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Sep 03 |
 | **[Grand Strand Medical Center – HCA](https://mygrandstrandhealth.com)** | **[Radiology Tech Student](https://jobright.ai/jobs/info/68b8f28fea901c0d269faefb?utm_campaign=1058&utm_source=git)** | Myrtle Beach, SC | On Site | Sep 03 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/68b8eb375b42bc456282904d?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Sep 03 |
-| **[Utah Transit Authority](http://www.rideuta.com/)** | **[Customer Experience and Service Planning Intern (Part Time)](https://jobright.ai/jobs/info/68b8e5425b42bc4562828cd9?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Sep 03 |
 | **[Markel](https://www.markel.com)** | **[2026 IT Internship Program](https://jobright.ai/jobs/info/68b8e427ea901c0d269fa760?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Sep 03 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[Service Technician Intern](https://jobright.ai/jobs/info/68b8e3f507090163b6ba5e04?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Sep 03 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68b8e3a0ea901c0d269fa62f?utm_campaign=1058&utm_source=git)** | Tucson, AZ | Hybrid | Sep 03 |
@@ -142,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Thrifty White Pharmacy](http://thriftywhite.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b86650ea901c0d269f5f21?utm_campaign=1058&utm_source=git)** | West Fargo, ND | On Site | Sep 03 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68b86535ea901c0d269f5e41?utm_campaign=1058&utm_source=git)** | Fargo, ND | On Site | Sep 03 |
 | **[Bora Bora Smoothie Cafe](https://boraborausa.com/)** | **[Associate (Intern) Information Technology Department](https://jobright.ai/jobs/info/68b860e15b42bc45628240a6?utm_campaign=1058&utm_source=git)** | Dearborn, MI | On Site | Sep 03 |
+| **[Year Up United](http://yearup.org)** | **[Customer Service Fundamentals Job Training Program](https://jobright.ai/jobs/info/68b66b62f4e41a61efd92d26?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Sep 03 |
 | **[Meijer](https://www.meijer.com/)** | **[Information Technology Intern- Summer 2026](https://jobright.ai/jobs/info/68b85f18ea901c0d269f5a33?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Sep 03 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Resident](https://jobright.ai/jobs/info/689be1c283d13d1f5b6a427d?utm_campaign=1058&utm_source=git)** | Independence, MO | On Site | Sep 03 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacy Intern I - Mount Carmel East](https://jobright.ai/jobs/info/689c01e383d13d1f5b6a50a3?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Sep 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AlixPartners](http://www.alixpartners.com)** | **[IT Operations Support Intern](https://jobright.ai/jobs/info/68b8531407090163b6ba0e3b?utm_campaign=1058&utm_source=git)** | Detroit | Hybrid | Sep 03 |
 | **[Year Up United](http://yearup.org)** | **[Customer Service Job Training Program](https://jobright.ai/jobs/info/688778b4fbbf032d000744d9?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Sep 03 |
 | **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Pharmacy Intern - Per Diem - Evenings - MHW](https://jobright.ai/jobs/info/68623fe6832becb317b0d0d7?utm_campaign=1058&utm_source=git)** | Pembroke Pines, FL | On Site | Sep 03 |
-| **[NYC Department of Finance](http://www.nyc.gov/html/dof/html/home/home.shtml)** | **[Call Center Aide](https://jobright.ai/jobs/info/68b84c4c07090163b6ba0bab?utm_campaign=1058&utm_source=git)** | Manhattan, NY | On Site | Sep 03 |
-| **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68b8434aea901c0d269f4fb5?utm_campaign=1058&utm_source=git)** | Tarpon Springs, FL | On Site | Sep 03 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II BMH-GT MED/SURG 3RD FLOOR PT](https://jobright.ai/jobs/info/67d52716d19474209a8c121e?utm_campaign=1058&utm_source=git)** | Columbus, MS | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
