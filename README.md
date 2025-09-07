@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[IT Support Intern - Summer 2026](https://jobright.ai/jobs/info/68bdf429e57feb02eb0ac828?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Sep 07 |
 | **[Stellar](http://stellarindustries.com)** | **[IT Infrastructure Support Intern - Summer 2026](https://jobright.ai/jobs/info/68bdc217c4c5904ff60041fd?utm_campaign=1058&utm_source=git)** | Garner, IA | On Site | Sep 07 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68bdb8e6e57feb02eb0ac3c1?utm_campaign=1058&utm_source=git)** | Tamarac, FL | On Site | Sep 07 |
 | **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[Tech Support Intern](https://jobright.ai/jobs/info/68bdcefbe57feb02eb0ac57f?utm_campaign=1058&utm_source=git)** | East Syracuse, NY | On Site | Sep 07 |
@@ -85,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Arrive, LLC](http://www.arriveresidential.com)** | **[Intern/Assistant, Home Orientations - Condominium Services](https://jobright.ai/jobs/info/68bd1dfe3bf9eb44f8326c5c?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Sep 06 |
 | **[HealtheTile](https://healthetile.io)** | **[Inventory & Support Coordinator (Intern / Volunteer)](https://jobright.ai/jobs/info/68bc9d1168300c452ca15e29?utm_campaign=1058&utm_source=git)** | San Francisco Bay Area | Hybrid | Sep 06 |
 | **[Albuquerque Public Schools](https://www.aps.edu/)** | **[CEC General WBL Intern](https://jobright.ai/jobs/info/68bc9ce53bf9eb44f8324549?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Sep 06 |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Pharmacy Student Intern IV (Non-Exempt)](https://jobright.ai/jobs/info/689fe3e2faa4e875e828bd61?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Sep 06 |
 | **[CenterPoint Energy](http://centerpointenergy.com)** | **[LCL340 Service Technician Intern](https://jobright.ai/jobs/info/68bc84273bf9eb44f83242cd?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 06 |
 | **[NextGen Federal Systems](https://www.nextgenfed.com/)** | **[IT Administration Intern](https://jobright.ai/jobs/info/68bc7c28ae79610dacddbb78?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Sep 06 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68bc687e3bf9eb44f8323f92?utm_campaign=1058&utm_source=git)** | Green Valley, AZ | On Site | Sep 06 |
@@ -117,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/68118e2bc296d359eccc9f22?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Sep 06 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68bc2b466105227d118ac121?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Sep 06 |
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68bc23128043103d4f22e6ab?utm_campaign=1058&utm_source=git)** | Crawfordsville, IN | On Site | Sep 06 |
+| **[University of South Florida](http://www.usf.edu)** | **[Student Assistant - FWS](https://jobright.ai/jobs/info/68bc198e5f38327491874fe7?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Sep 06 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern](https://jobright.ai/jobs/info/689fcde383d13d1f5b6cb15d?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Sep 06 |
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68bc4abcae79610dacddb4ea?utm_campaign=1058&utm_source=git)** | Gibsonia, PA | On Site | Sep 06 |
 | ↳ | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68bc408c68300c452ca15256?utm_campaign=1058&utm_source=git)** | Kearney, NE | On Site | Sep 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SPX Technologies](http://www.spx.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/68bb816c8043103d4f2291a7?utm_campaign=1058&utm_source=git)** | Brentwood, MO | Hybrid | Sep 05 |
 | **[Wheels Up](http://wheelsup.com/)** | **[Member Services SkillBridge Intern](https://jobright.ai/jobs/info/68bb81006105227d118a679a?utm_campaign=1058&utm_source=git)** | Chamblee, GA | On Site | Sep 05 |
 | **[SPX Technologies](http://www.spx.com)** | **[IT Intern](https://jobright.ai/jobs/info/68bb80fa6105227d118a6793?utm_campaign=1058&utm_source=git)** | Brentwood, MO | Hybrid | Sep 05 |
-| **[Shure Incorporated](http://www.shure.com)** | **[Desktop Support Analyst Intern](https://jobright.ai/jobs/info/68bb7de25f3832749186f823?utm_campaign=1058&utm_source=git)** | Niles, IL | Hybrid | Sep 05 |
-| ↳ | **[Customer Experience Intern](https://jobright.ai/jobs/info/68bb7bd58043103d4f228fa4?utm_campaign=1058&utm_source=git)** | Skokie, IL | Hybrid | Sep 05 |
-| **[LEWIS & CLARK BEHAVIORAL HEALTH SERVICES, INC.](https://lewisclarkb.yankton.multisiteadmin.com)** | **[Security Officer - Student Intern](https://jobright.ai/jobs/info/68bb7a478043103d4f228e55?utm_campaign=1058&utm_source=git)** | Yankton, SD | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
