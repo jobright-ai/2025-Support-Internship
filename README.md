@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Augusta National Golf Club](https://www.masters.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68bedd698e65e77df55b4f06?utm_campaign=1058&utm_source=git)** | Augusta Office | On Site | Sep 08 |
+| **[Joinrs](http://www.tutored.me)** | **[Spontaneous Application to Joinrs (Tech, HR, Marketing, Finance, Design, Sales)](https://jobright.ai/jobs/info/68becbff702aa35207aa073e?utm_campaign=1058&utm_source=git)** | United States | Remote | Sep 08 |
 | **[Williams](https://www.williams.com)** | **[Summer 2026 Information Technology Internship - General](https://jobright.ai/jobs/info/68bebe58702aa35207aa0161?utm_campaign=1058&utm_source=git)** | Tulsa, OK | Hybrid | Sep 08 |
 | **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2026 Summer Internship – Information Technology](https://jobright.ai/jobs/info/68be9c56c4c5904ff6007293?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Sep 08 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[DDR Programming Support Intern
@@ -64,10 +66,10 @@ Job ID : 263893](https://jobright.ai/jobs/info/68be987f3d31ec76b7e8b177?utm_camp
 | **[Lehigh Valley Health Network](http://www.lvhn.org)** | **[Experienced Registered Nurse - OR Internship **Winter 2025-2026**](https://jobright.ai/jobs/info/68be92eec4c5904ff60071d0?utm_campaign=1058&utm_source=git)** | Allentown, PA | On Site | Sep 08 |
 | **[Anne Arundel County Public Schools](https://www.aacps.org/)** | **[Internship: Student - Central Office](https://jobright.ai/jobs/info/68be8db3e57feb02eb0af336?utm_campaign=1058&utm_source=git)** | Annapolis, MD | On Site | Sep 08 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[IT Engineer Intern](https://jobright.ai/jobs/info/68bb87345f3832749186fe0e?utm_campaign=1058&utm_source=git)** | Santa Rosa, CA | On Site | Sep 07 |
-| ↳ | **[IT Engineer Intern](https://jobright.ai/jobs/info/68bb84915f3832749186fb66?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Sep 07 |
+| **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Vendor Services Intern](https://jobright.ai/jobs/info/68be7d22e57feb02eb0aee62?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Sep 07 |
+| **[Keysight Technologies](https://www.keysight.com)** | **[IT Engineer Intern](https://jobright.ai/jobs/info/68bb84915f3832749186fb66?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Sep 07 |
 | **[Williams](https://www.williams.com)** | **[Summer 2026 Information Technology Internship - General](https://jobright.ai/jobs/info/68be69253d31ec76b7e8a2c7?utm_campaign=1058&utm_source=git)** | OK Tulsa - Headquarters | Hybrid | Sep 07 |
-| **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Vendor Services Intern](https://jobright.ai/jobs/info/68be68f9e57feb02eb0ae47b?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Sep 07 |
-| **[Williams](https://www.williams.com)** | **[Summer 2026 Information Technology Internship - General](https://jobright.ai/jobs/info/68be68e5e57feb02eb0ae461?utm_campaign=1058&utm_source=git)** | TX Houston - Sequent | Hybrid | Sep 07 |
+| ↳ | **[Summer 2026 Information Technology Internship - General](https://jobright.ai/jobs/info/68be68e5e57feb02eb0ae461?utm_campaign=1058&utm_source=git)** | TX Houston - Sequent | Hybrid | Sep 07 |
 | ↳ | **[Summer 2026 Information Technology Internship - General](https://jobright.ai/jobs/info/68be68b8c4c5904ff6006313?utm_campaign=1058&utm_source=git)** | TX Houston - Tower | Hybrid | Sep 07 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[End User Computing (EUC) Intern](https://jobright.ai/jobs/info/68be66543d31ec76b7e8a225?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
 | ↳ | **[Operations Support Center (OSC) Intern](https://jobright.ai/jobs/info/68be655de57feb02eb0ae3da?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
@@ -84,10 +86,9 @@ Job ID : 263893](https://jobright.ai/jobs/info/68be987f3d31ec76b7e8b177?utm_camp
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68bdb8e6e57feb02eb0ac3c1?utm_campaign=1058&utm_source=git)** | Tamarac, FL | On Site | Sep 07 |
 | **[Community Financial System, Inc.](https://ir.communitybanksystem.com/)** | **[Tech Support Intern](https://jobright.ai/jobs/info/68bdcefbe57feb02eb0ac57f?utm_campaign=1058&utm_source=git)** | East Syracuse, NY | On Site | Sep 07 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Generalist - Student Success - PAC - req12988 - T](https://jobright.ai/jobs/info/68bd9b39c4c5904ff6003edd?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Sep 07 |
-| **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Per Diem Pharmacy Intern](https://jobright.ai/jobs/info/68bd9446df5eec448f63d0a8?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Sep 07 |
+| **[NewYork-Presbyterian Hospital](http://www.nypventures.org/)** | **[Per Diem Pharmacy Intern](https://jobright.ai/jobs/info/68bd9446df5eec448f63d0a8?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Sep 07 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/66c9bc1809aa9320f5136123?utm_campaign=1058&utm_source=git)** | Breckenridge, MN | On Site | Sep 07 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/684cd59bb603b584bdcc5e26?utm_campaign=1058&utm_source=git)** | Oakland, CA | Hybrid | Sep 07 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Pharmacy Intern- Forbes Hospital](https://jobright.ai/jobs/info/6881a7b1f4f06100f3a28ae5?utm_campaign=1058&utm_source=git)** | Monroeville, PA | On Site | Sep 07 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Veterinary Assistant-Triage Call Center](https://jobright.ai/jobs/info/68bd49eb3bf9eb44f832793c?utm_campaign=1058&utm_source=git)** | Manhattan, KS | On Site | Sep 07 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[IT Intern](https://jobright.ai/jobs/info/68af57172daaba398441d5f7?utm_campaign=1058&utm_source=git)** | Oak Park Heights, MN | On Site | Sep 07 |
 | **[Butterball, LLC](http://www.butterball.com/)** | **[2026 Summer Customer Service Intern](https://jobright.ai/jobs/info/68ba41746105227d1189c6a5?utm_campaign=1058&utm_source=git)** | Garner, NC | On Site | Sep 07 |
@@ -119,8 +120,8 @@ Job ID : 263893](https://jobright.ai/jobs/info/68be987f3d31ec76b7e8b177?utm_camp
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68bc682b68300c452ca158ab?utm_campaign=1058&utm_source=git)** | Gilbert, AZ | On Site | Sep 06 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68bc682368300c452ca158a3?utm_campaign=1058&utm_source=git)** | Kearny, NJ | On Site | Sep 06 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68bc67ce3bf9eb44f8323f3b?utm_campaign=1058&utm_source=git)** | Morristown, NJ | On Site | Sep 06 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68bc67cbae79610dacddb941?utm_campaign=1058&utm_source=git)** | Manhattan Beach, CA | On Site | Sep 06 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68bc67cbae79610dacddb940?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Sep 06 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68bc67cbae79610dacddb941?utm_campaign=1058&utm_source=git)** | Manhattan Beach, CA | On Site | Sep 06 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68bc67a7ae79610dacddb923?utm_campaign=1058&utm_source=git)** | Chandler, AZ | On Site | Sep 06 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68bc6757ae79610dacddb8f8?utm_campaign=1058&utm_source=git)** | Cranberry Township, PA | On Site | Sep 06 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Internship (Multiple)](https://jobright.ai/jobs/info/68b094102d46f6396cae6a94?utm_campaign=1058&utm_source=git)** | Jersey City, NJ | On Site | Sep 06 |
@@ -151,11 +152,10 @@ Job ID : 263893](https://jobright.ai/jobs/info/68be987f3d31ec76b7e8b177?utm_camp
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68bd61a5e57feb02eb0ab9fa?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Sep 06 |
 | **[Colorado State University](http://www.colostate.edu/)** | **[Patient Access Generalist](https://jobright.ai/jobs/info/68bc0b695f38327491874dcb?utm_campaign=1058&utm_source=git)** | Fort Collins, CO | On Site | Sep 06 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Pharmacy Intern 2](https://jobright.ai/jobs/info/684a5752e9dbf48f4669b2a8?utm_campaign=1058&utm_source=git)** | Royal Oak, MI | Hybrid | Sep 06 |
+| **[University of South Florida](http://www.usf.edu)** | **[Student Assistant - FWS](https://jobright.ai/jobs/info/68bc198e5f38327491874fe7?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Sep 06 |
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Pharmacy Intern- Inpatient- Allegheny General Hospital](https://jobright.ai/jobs/info/688c29ff3a30793eb9640723?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Sep 06 |
 | ↳ | **[Pharmacy Intern- Inpatient- Allegheny General Hospital](https://jobright.ai/jobs/info/689f0d7479a9f966625545e9?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Sep 06 |
 | **[Northern Kentucky University](http://www.nku.edu/)** | **[Student Employee (Federal Work Study)](https://jobright.ai/jobs/info/68bc1ec85f383274918750ca?utm_campaign=1058&utm_source=git)** | Newport, KY | On Site | Sep 06 |
 | **[North Central College](http://www.northcentralcollege.edu/)** | **[WAC Information Desk Attendant](https://jobright.ai/jobs/info/68bbfb9a5f3832749187480a?utm_campaign=1058&utm_source=git)** | Naperville, IL | On Site | Sep 06 |
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Pharmacy Intern - Inpatient - St. Vincent Hospital](https://jobright.ai/jobs/info/689ebc9383d13d1f5b6c0507?utm_campaign=1058&utm_source=git)** | Erie, PA | On Site | Sep 06 |
-| **[HCA Houston Healthcare](http://hcagulfcoast.com)** | **[Surgical Tech Extern PRN](https://jobright.ai/jobs/info/689e8468faa4e875e827d549?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Sep 06 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Technologist-Radiology Student](https://jobright.ai/jobs/info/68bbf5938043103d4f22dc4b?utm_campaign=1058&utm_source=git)** | Jonesboro, AR | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
