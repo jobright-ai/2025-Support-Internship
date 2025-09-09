@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SGK](http://www.Sgkinc.com)** | **[Client Coordinator Intern](https://jobright.ai/jobs/info/68bfb32b8e65e77df55bc9ae?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Sep 08 |
 | **[Meijer](https://www.meijer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68bf9a595c5d5f14f46d8420?utm_campaign=1058&utm_source=git)** | McCordsville, IN | On Site | Sep 08 |
 | **[Harvest Group Tunisia](http://harvestgroup.com)** | **[Summer 2026 / Client Services Internship](https://jobright.ai/jobs/info/68bf97558e65e77df55bb94d?utm_campaign=1058&utm_source=git)** | Rogers, AR | On Site | Sep 08 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68bf97188e65e77df55bb8f1?utm_campaign=1058&utm_source=git)** | Rahway, NJ | On Site | Sep 08 |
@@ -73,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[HMH](https://hmhw.com/)** | **[Global Services Intern](https://jobright.ai/jobs/info/68bf82b75c5d5f14f46d7961?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Sep 08 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Clinical Analyst Intern](https://jobright.ai/jobs/info/68bf8226702aa35207aa6f9e?utm_campaign=1058&utm_source=git)** | Thousand Oaks, CA | On Site | Sep 08 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/68bf8199702aa35207aa6f1d?utm_campaign=1058&utm_source=git)** | West Des Moines, IA | On Site | Sep 08 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68bfb8468e65e77df55bcb4a?utm_campaign=1058&utm_source=git)** | West Orange, NJ | On Site | Sep 08 |
 | **[AAR](http://aarcorp.com)** | **[Intern, BD](https://jobright.ai/jobs/info/68bf7e2e8e65e77df55bad39?utm_campaign=1058&utm_source=git)** | Grand Prairie, TX | On Site | Sep 08 |
 | **[La Palma Intercommunity Hospital](https://www.lapalmaintercommunityhospital.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68bf7a7c702aa35207aa6900?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Sep 08 |
 | **[Mosaic Life Care](https://www.mymlc.com/)** | **[Rural Immersion Intern](https://jobright.ai/jobs/info/68bf781b8e65e77df55ba7a8?utm_campaign=1058&utm_source=git)** | Albany, MO | On Site | Sep 08 |
@@ -83,7 +85,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Client Services Internship (Summer 2026)](https://jobright.ai/jobs/info/68bf72b55c5d5f14f46d6ebf?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Sep 08 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern – IT Operations Intern (OIG)](https://jobright.ai/jobs/info/68bf71bf702aa35207aa6529?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Sep 08 |
 | **[Covenant Health](http://www.covenanthealth.com)** | **[IMAGING TECH STUDENT](https://jobright.ai/jobs/info/68bf6f938e65e77df55ba34b?utm_campaign=1058&utm_source=git)** | Tazewell, TN | On Site | Sep 08 |
-| **[SGK](https://www.sgkinc.com)** | **[Client Coordinator Intern](https://jobright.ai/jobs/info/68bf6f7c8e65e77df55ba332?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Sep 08 |
 | **[Tyne Metropolitan College](http://www.tynemet.ac.uk)** | **[Marine Customer Service Officer](https://jobright.ai/jobs/info/68bf6e1f702aa35207aa6468?utm_campaign=1058&utm_source=git)** | Marine, IL | On Site | Sep 08 |
 | **[Jefferson Health](https://www.jeffersonhealth.org/index.html)** | **[Honors Student Research Assistant](https://jobright.ai/jobs/info/68bf6dfe702aa35207aa6451?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Sep 08 |
 | **[Management & Training Corporation](https://www.mtctrains.com)** | **[Student Intern, Food Services](https://jobright.ai/jobs/info/68bf6d2d5c5d5f14f46d6c39?utm_campaign=1058&utm_source=git)** | Edison, NJ | On Site | Sep 08 |
@@ -104,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[American Fidelity](http://www.americanfidelity.com)** | **[IT Internship](https://jobright.ai/jobs/info/68bf489d5c5d5f14f46d5b15?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Sep 08 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/68bf4875702aa35207aa5163?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Sep 08 |
 | ↳ | **[IT Technical Intern (TX)](https://jobright.ai/jobs/info/68bf4806702aa35207aa50e3?utm_campaign=1058&utm_source=git)** | Amarillo, TX | On Site | Sep 08 |
+| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[retail Pharmacy Intern](https://jobright.ai/jobs/info/68bfb476702aa35207aa8b11?utm_campaign=1058&utm_source=git)** | Brookings,  22nd Ave S., Brookings, SD | On Site | Sep 08 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern – IT Operations Intern (OIG)](https://jobright.ai/jobs/info/68bf454f5c5d5f14f46d58c3?utm_campaign=1058&utm_source=git)** | DC-Washington | On Site | Sep 08 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Hardware Support Internship- Summer 2026](https://jobright.ai/jobs/info/68bf43b88e65e77df55b8cf1?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Sep 08 |
 | **[AAR](http://aarcorp.com)** | **[Intern, BD](https://jobright.ai/jobs/info/68bf41c45c5d5f14f46d5778?utm_campaign=1058&utm_source=git)** | United States-Texas-Grand Prairie-Triumph Accessory Services | On Site | Sep 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68bf10df702aa35207aa2c33?utm_campaign=1058&utm_source=git)** | Ooltewah, TN | On Site | Sep 08 |
 | **[Atos](http://atos.net)** | **[Mail Clerk- Intern](https://jobright.ai/jobs/info/68bf0fa2702aa35207aa2b25?utm_campaign=1058&utm_source=git)** | Plano, TX | Hybrid | Sep 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68bf0f595c5d5f14f46d3498?utm_campaign=1058&utm_source=git)** | Auburn, AL | On Site | Sep 08 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – Service Desk (Year-Round)](https://jobright.ai/jobs/info/68bf0f135c5d5f14f46d3458?utm_campaign=1058&utm_source=git)** | Louisville, KY | Hybrid | Sep 08 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Pharmacy Intern - Inpatient Hospital Pharmacy](https://jobright.ai/jobs/info/68bf08e88e65e77df55b660a?utm_campaign=1058&utm_source=git)** | Middleborough-MA | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
