@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cantex](https://www.cantexcc.com)** | **[Patient Advocate Intern (ProCare) - Unpaid (18876)](https://jobright.ai/jobs/info/68a37e5337d3cc6b0d577846?utm_campaign=1058&utm_source=git)** | Carrollton, TX | On Site | Sep 09 |
+| **[Lifepoint Health®](http://www.lifepointhealth.net)** | **[Surgical Tech Intern Surgical Services](https://jobright.ai/jobs/info/68bfefc55c5d5f14f46dada6?utm_campaign=1058&utm_source=git)** | New Mexico-Las Cruces | On Site | Sep 09 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Intern, Pharmacy Services, Clinical Research Pharmacist](https://jobright.ai/jobs/info/68bfda125c5d5f14f46da3ce?utm_campaign=1058&utm_source=git)** | Princeton, NJ | Hybrid | Sep 09 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68bfd3055c5d5f14f46d9f4d?utm_campaign=1058&utm_source=git)** | Rocklin, CA | Hybrid | Sep 09 |
 | **[Molson Coors Beverage Company](http://www.molsoncoors.com/en/)** | **[Technical Services Intern](https://jobright.ai/jobs/info/68bfd2d45c5d5f14f46d9f2a?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Sep 09 |
@@ -65,6 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68bfcc0c8e65e77df55bd2ac?utm_campaign=1058&utm_source=git)** | Folsom, CA | Hybrid | Sep 08 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68bfcb438e65e77df55bd1f4?utm_campaign=1058&utm_source=git)** | Fair Oaks, CA | Hybrid | Sep 08 |
 | **[Geisinger](https://www.geisinger.org)** | **[MRI Tech](https://jobright.ai/jobs/info/68bfcb235c5d5f14f46d9c3a?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Sep 08 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68bfe29b5c5d5f14f46dab5c?utm_campaign=1058&utm_source=git)** | Lincoln, CA | Hybrid | Sep 08 |
+| **[SGK](http://www.Sgkinc.com)** | **[Client Coordinator Intern](https://jobright.ai/jobs/info/68bfb32b8e65e77df55bc9ae?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Sep 08 |
 | **[Meijer](https://www.meijer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68bf9a595c5d5f14f46d8420?utm_campaign=1058&utm_source=git)** | McCordsville, IN | On Site | Sep 08 |
 | **[Harvest Group Tunisia](http://harvestgroup.com)** | **[Summer 2026 / Client Services Internship](https://jobright.ai/jobs/info/68bf97558e65e77df55bb94d?utm_campaign=1058&utm_source=git)** | Rogers, AR | On Site | Sep 08 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68bf97188e65e77df55bb8f1?utm_campaign=1058&utm_source=git)** | Rahway, NJ | On Site | Sep 08 |
@@ -77,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[WVU Medicine](https://wvumedicine.org/)** | **[IT Intern (Summer 2026)](https://jobright.ai/jobs/info/68bf87805c5d5f14f46d7b9a?utm_campaign=1058&utm_source=git)** | Morgantown, WV | On Site | Sep 08 |
 | **[Reyes Fleet Management](https://reyesholdings.com/what-we-do/reyes-fleet-management)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/68bf83a18e65e77df55baf86?utm_campaign=1058&utm_source=git)** | Rosemont, Illinois | On Site | Sep 08 |
 | **[CJW Medical Center](http://chippenhammed.com)** | **[Surgical Technologist Extern](https://jobright.ai/jobs/info/68bf838e8e65e77df55baf6d?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Sep 08 |
-| **[County of Los Angeles](https://lacounty.gov/)** | **[STUDENT WORKER, INFORMATION TECHNOLOGY](https://jobright.ai/jobs/info/68bf82f75c5d5f14f46d79a7?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Sep 08 |
 | **[HMH](https://hmhw.com/)** | **[Global Services Intern](https://jobright.ai/jobs/info/68bf82b75c5d5f14f46d7961?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Sep 08 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Clinical Analyst Intern](https://jobright.ai/jobs/info/68bf8226702aa35207aa6f9e?utm_campaign=1058&utm_source=git)** | Thousand Oaks, CA | On Site | Sep 08 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/68bf8199702aa35207aa6f1d?utm_campaign=1058&utm_source=git)** | West Des Moines, IA | On Site | Sep 08 |
@@ -92,11 +95,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Client Services Internship (Summer 2026)](https://jobright.ai/jobs/info/68bf72b55c5d5f14f46d6ebf?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Sep 08 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern – IT Operations Intern (OIG)](https://jobright.ai/jobs/info/68bf71bf702aa35207aa6529?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Sep 08 |
 | **[Covenant Health](http://www.covenanthealth.com)** | **[IMAGING TECH STUDENT](https://jobright.ai/jobs/info/68bf6f938e65e77df55ba34b?utm_campaign=1058&utm_source=git)** | Tazewell, TN | On Site | Sep 08 |
-| **[SGK](https://www.sgkinc.com)** | **[Client Coordinator Intern](https://jobright.ai/jobs/info/68bf6f7c8e65e77df55ba332?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Sep 08 |
 | **[Tyne Metropolitan College](http://www.tynemet.ac.uk)** | **[Marine Customer Service Officer](https://jobright.ai/jobs/info/68bf6e1f702aa35207aa6468?utm_campaign=1058&utm_source=git)** | Marine, IL | On Site | Sep 08 |
 | **[Jefferson Health](https://www.jeffersonhealth.org/index.html)** | **[Honors Student Research Assistant](https://jobright.ai/jobs/info/68bf6dfe702aa35207aa6451?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Sep 08 |
 | **[Management & Training Corporation](https://www.mtctrains.com)** | **[Student Intern, Food Services](https://jobright.ai/jobs/info/68bf6d2d5c5d5f14f46d6c39?utm_campaign=1058&utm_source=git)** | Edison, NJ | On Site | Sep 08 |
-| **[Texas Health Resources](https://www.texashealth.org/)** | **[Computed Tomography Imaging (CT) Tech Apprentice](https://jobright.ai/jobs/info/68bf9e418e65e77df55bbf87?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Sep 08 |
+| **[Texas Health Resources](https://www.texashealth.org/)** | **[Computed Tomography Imaging (CT) Tech Apprentice](https://jobright.ai/jobs/info/68bfe8675c5d5f14f46dabbf?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Sep 08 |
 | **[UF Health](https://ufhealth.org/)** | **[Student MRI Technol](https://jobright.ai/jobs/info/68bf673c5c5d5f14f46d6924?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Sep 08 |
 | **[CoBank](http://www.cobank.com/)** | **[Customer Service Intern (Denver)](https://jobright.ai/jobs/info/68bf65708e65e77df55b9e58?utm_campaign=1058&utm_source=git)** | Greenwood Village, CO | Hybrid | Sep 08 |
 | **[CNA Corporation](https://www.cna.org)** | **[IT Service Desk Intern - Summer 2026](https://jobright.ai/jobs/info/68bf62e45c5d5f14f46d67c7?utm_campaign=1058&utm_source=git)** | Arlington, VA | On Site | Sep 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Internship - Montage Palmetto Bluff](https://jobright.ai/jobs/info/68bf26df5c5d5f14f46d4201?utm_campaign=1058&utm_source=git)** | USA – SC – Bluffton | On Site | Sep 08 |
 | **[City Bank](https://www.city.bank/)** | **[Deposit Operations Intern](https://jobright.ai/jobs/info/68bf26ba8e65e77df55b7707?utm_campaign=1058&utm_source=git)** | Lubbock, TX, USA | On Site | Sep 08 |
 | **[Veeam Software](http://www.veeam.com)** | **[Service Desk Intern - Summer 2026](https://jobright.ai/jobs/info/68bf23b68e65e77df55b73f3?utm_campaign=1058&utm_source=git)** | Alpharetta, GA, USA | On Site | Sep 08 |
-| **[University of Central Oklahoma](http://www.uco.edu/)** | **[FWSP Student Technical - LX Studio](https://jobright.ai/jobs/info/68bf1f29702aa35207aa3466?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Sep 08 |
-| **[IBM](http://www.ibm.com)** | **[IMS Software Technical Support Professional Intern: 2026](https://jobright.ai/jobs/info/68bf17088e65e77df55b6e84?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
