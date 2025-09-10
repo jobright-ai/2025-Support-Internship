@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Centralized Customer Experience Team Intern](https://jobright.ai/jobs/info/68c135124d652f0447756a8c?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Sep 10 |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Technical Information Services](https://jobright.ai/jobs/info/68c1487b3fd8b059a20ef40b?utm_campaign=1058&utm_source=git)** | Garland, TX | On Site | Sep 10 |
 | **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/68c12038233c7d3e64d0001e?utm_campaign=1058&utm_source=git)** | Springfield, OR | On Site | Sep 09 |
 | **[Live Oak Bank](https://www.liveoakbank.com)** | **[Summer 2026 Information Technology Intern](https://jobright.ai/jobs/info/68c12036233c7d3e64d00019?utm_campaign=1058&utm_source=git)** | Greater Wilmington Area | On Site | Sep 09 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[RX Grad Intern](https://jobright.ai/jobs/info/68c119f68e65e77df55c765a?utm_campaign=1058&utm_source=git)** | Frisco, TX | On Site | Sep 09 |
@@ -66,7 +68,8 @@ For a complete list, click the following sortable link below:
 | **[TruStage](https://www.trustage.com/)** | **[IT Infrastructure & Operations Intern (Hybrid)](https://jobright.ai/jobs/info/68c116975c5d5f14f46e3e35?utm_campaign=1058&utm_source=git)** | Madison, WI | Hybrid | Sep 09 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[RX Grad Intern](https://jobright.ai/jobs/info/68c1168e5c5d5f14f46e3e2b?utm_campaign=1058&utm_source=git)** | Clifton, NJ | On Site | Sep 09 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c116885c5d5f14f46e3e21?utm_campaign=1058&utm_source=git)** | Middleton, WI | On Site | Sep 09 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c116035c5d5f14f46e3ddf?utm_campaign=1058&utm_source=git)** | Kalamazoo, MI | On Site | Sep 09 |
+| **[Ingalls Shipbuilding, a Division of HII](https://hii.com/)** | **[2026 COLLEGE SUMMER INTERN- INFO TECH](https://jobright.ai/jobs/info/68c133a23fd8b059a20eedfb?utm_campaign=1058&utm_source=git)** | Pascagoula, MS | On Site | Sep 09 |
+| **[Costco Wholesale](https://www.costco.com/)** | **[RX Grad Intern](https://jobright.ai/jobs/info/68c116035c5d5f14f46e3ddf?utm_campaign=1058&utm_source=git)** | Kalamazoo, MI | On Site | Sep 09 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c1159e5c5d5f14f46e3d82?utm_campaign=1058&utm_source=git)** | Clovis, CA | On Site | Sep 09 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c1154c5c5d5f14f46e3d44?utm_campaign=1058&utm_source=git)** | Rancho Cordova, CA | On Site | Sep 09 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c12d743fd8b059a20eec4c?utm_campaign=1058&utm_source=git)** | Bridgewater, NJ | On Site | Sep 09 |
@@ -136,7 +139,7 @@ For a complete list, click the following sortable link below:
 | **[University of South Florida](http://www.usf.edu)** | **[Student Asst - FWS](https://jobright.ai/jobs/info/68c0b75f8e65e77df55c3c8c?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Sep 09 |
 | **[Activision](https://www.activision.com/)** | **[2026 US Summer Internships - Desktop IT](https://jobright.ai/jobs/info/68c0b37d5c5d5f14f46e0516?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Sep 09 |
 | **[Zscaler](https://www.zscaler.com)** | **[Technical Support Engineer - SkillBridge Intern](https://jobright.ai/jobs/info/68c0b1e58e65e77df55c3a74?utm_campaign=1058&utm_source=git)** | Remote - USA | Hybrid | Sep 09 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c0dcd4702aa35207ab12ca?utm_campaign=1058&utm_source=git)** | Morgantown, WV | On Site | Sep 09 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c0dbaa8e65e77df55c5128?utm_campaign=1058&utm_source=git)** | Morgantown, WV | On Site | Sep 09 |
 | **[Sam's Club](http://www.samsclub.com)** | **[Pre Grad Intern - Sam's Pharmacy](https://jobright.ai/jobs/info/68c0d65a702aa35207ab0f27?utm_campaign=1058&utm_source=git)** | Gilbert, AZ | On Site | Sep 09 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Grad Intern (Hrly) #1010](https://jobright.ai/jobs/info/68c0f3295c5d5f14f46e28ab?utm_campaign=1058&utm_source=git)** | Rockingham, NC | On Site | Sep 09 |
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM (Store 1845)](https://jobright.ai/jobs/info/68c0d639702aa35207ab0f09?utm_campaign=1058&utm_source=git)** | Cooper City, FL | On Site | Sep 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Children's National Hospital](http://childrensnational.org)** | **[Pharmacy Intern (PRN / As Needed)](https://jobright.ai/jobs/info/68c0ae035c5d5f14f46e025a?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Sep 09 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c089f5702aa35207aae731?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Sep 09 |
 | **[Geisinger](https://www.geisinger.org)** | **[Nonclinical Co-Op Information Technology](https://jobright.ai/jobs/info/68c088ba702aa35207aae5d7?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Sep 09 |
-| **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern P3 Contingent Rotate](https://jobright.ai/jobs/info/68c08890702aa35207aae5a9?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Sep 09 |
-| **[Rochester Regional Health](https://www.rochesterregional.org)** | **[Specimen Management Tech - MLS Student](https://jobright.ai/jobs/info/68c088735c5d5f14f46deeb2?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | Sep 09 |
-| **[Nemours](http://www.nemours.org)** | **[Intern-Pharmacy](https://jobright.ai/jobs/info/68c087ae8e65e77df55c24c3?utm_campaign=1058&utm_source=git)** | 1600 Rockland Road, Wilmington, DE, 19803, US | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
