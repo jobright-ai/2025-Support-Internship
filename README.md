@@ -57,8 +57,28 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[IT Intern](https://jobright.ai/jobs/info/68c1f1c333864f172f9bbe87?utm_campaign=1058&utm_source=git)** | NY, New York | On Site | Sep 10 |
+| ↳ | **[IT Intern (PT)](https://jobright.ai/jobs/info/68c1f11633864f172f9bbda2?utm_campaign=1058&utm_source=git)** | NY, New York | On Site | Sep 10 |
+| **[Vistra Corp.](https://www.vistracorp.com/)** | **[Cristo Rey Intern-3](https://jobright.ai/jobs/info/68c1f05a63b706703e1106e1?utm_campaign=1058&utm_source=git)** | Irving, Texas | On Site | Sep 10 |
+| **[Covenant HealthCare](https://www.covenanthealthcare.com/)** | **[RAD TECH STUDENT](https://jobright.ai/jobs/info/68c1efe833864f172f9bbc19?utm_campaign=1058&utm_source=git)** | Saginaw, MI | On Site | Sep 10 |
+| **[Central Park Conservancy](http://www.centralparknyc.org/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68c1ef5133864f172f9bbb6f?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Sep 10 |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Desk Clerk FT 6306](https://jobright.ai/jobs/info/68c1ef2e63b706703e110550?utm_campaign=1058&utm_source=git)** | Buzzards Bay, MA | On Site | Sep 10 |
+| **[Maricopa County](http://www.maricopa.gov)** | **[Intern](https://jobright.ai/jobs/info/68c1ee9363b706703e1104cd?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Sep 10 |
+| **[NISC](http://www.nisc.coop/)** | **[Intern - Technical Support (Help Desk)](https://jobright.ai/jobs/info/68c1e65a3fd8b059a20f3d73?utm_campaign=1058&utm_source=git)** | Cedar Rapids, IA | Hybrid | Sep 10 |
+| **[Western Governors University](http://www.wgu.edu/)** | **[Intern - Technical](https://jobright.ai/jobs/info/68c1e5ce233c7d3e64d05b7f?utm_campaign=1058&utm_source=git)** | SLC Metro Area | On Site | Sep 10 |
+| **[NISC](http://www.nisc.coop/)** | **[Intern - Technical Support](https://jobright.ai/jobs/info/68c1e5813fd8b059a20f3c90?utm_campaign=1058&utm_source=git)** | Bismarck, ND | On Site | Sep 10 |
+| **[Kessler Collection](http://www.kesslercollection.com)** | **[Rooms Intern](https://jobright.ai/jobs/info/68c1e4b9233c7d3e64d05a91?utm_campaign=1058&utm_source=git)** | Mountain Brook, AL | On Site | Sep 10 |
+| **[NISC](http://www.nisc.coop/)** | **[Intern - Technical Support (Help Desk)](https://jobright.ai/jobs/info/68c1e3dd3fd8b059a20f3b42?utm_campaign=1058&utm_source=git)** | Iowa City, IA | On Site | Sep 10 |
+| **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Apprentice - IT Helpdesk Campus Support](https://jobright.ai/jobs/info/68c1e3193fd8b059a20f3a71?utm_campaign=1058&utm_source=git)** | Lynchburg, VA | On Site | Sep 10 |
+| **[Los Angeles County Department of Human Resources](https://www.fire.lacounty.gov/)** | **[STUDENT WORKER, INFORMATION TECHNOLOGY](https://jobright.ai/jobs/info/67ddaca3b8576d461976c5f5?utm_campaign=1058&utm_source=git)** | Los Angeles County, CA | On Site | Sep 10 |
+| ↳ | **[STUDENT PROFESSIONAL WORKER, INFORMATION TECHNOLOGY](https://jobright.ai/jobs/info/67ddaca3b8576d461976c5f4?utm_campaign=1058&utm_source=git)** | Los Angeles County, CA | On Site | Sep 10 |
+| **[Michelin](http://www.michelin.com/)** | **[2026 Summer IT Intern Greenville, SC](https://jobright.ai/jobs/info/68c1dcc24d652f044775b22e?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Sep 10 |
+| **[Selective Insurance](https://www.selective.com/)** | **[IT Claims Application Delivery Summer Internship – Charlotte, NC (Hybrid)](https://jobright.ai/jobs/info/68c1dbb54d652f044775b127?utm_campaign=1058&utm_source=git)** | Charlotte, NC | Hybrid | Sep 10 |
+| ↳ | **[IT Customer Experience Summer Internship - Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/68c1dbb23fd8b059a20f360f?utm_campaign=1058&utm_source=git)** | Branchville, NJ | Hybrid | Sep 10 |
+| **[Emerson](http://www.emerson.com)** | **[Digital Customer Experience Intern](https://jobright.ai/jobs/info/68c1dabe3fd8b059a20f353e?utm_campaign=1058&utm_source=git)** | Shakopee, MN | On Site | Sep 10 |
+| **[Main Line Health](https://www.mainlinehealth.org/locations/bryn-mawr-hospital)** | **[Radiology Tech Extern](https://jobright.ai/jobs/info/68c1d8ad233c7d3e64d05160?utm_campaign=1058&utm_source=git)** | Wynnewood, PA | On Site | Sep 10 |
+| **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Vendor Services Intern: Starts March 2026](https://jobright.ai/jobs/info/68be7d22e57feb02eb0aee62?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Sep 10 |
 | **[Stonebridge ](http://www.sbcos.com)** | **[Dimond Fellow Internship](https://jobright.ai/jobs/info/68c1d5714d652f044775ad6a?utm_campaign=1058&utm_source=git)** | The Jacquard Hotel & Rooftop - Cherry Creek | On Site | Sep 10 |
-| **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Apprentice - IT Helpdesk Campus Support](https://jobright.ai/jobs/info/68c1d42a233c7d3e64d04f43?utm_campaign=1058&utm_source=git)** | Lynchburg, VA | On Site | Sep 10 |
 | **[University of Maryland Medical System](http://www.umms.org)** | **[MS IT Helpdesk Specialist Intern](https://jobright.ai/jobs/info/68c1d3a73fd8b059a20f304e?utm_campaign=1058&utm_source=git)** | Columbia, MD | On Site | Sep 10 |
 | ↳ | **[MS IT Helpdesk Specialist Intern](https://jobright.ai/jobs/info/68c1d2bc233c7d3e64d04d20?utm_campaign=1058&utm_source=git)** | Columbia, MD | On Site | Sep 10 |
 | **[Huntsman Corporation](https://www.huntsman.com)** | **[IT - Infrastructure Internship](https://jobright.ai/jobs/info/68c1d0693fd8b059a20f2ccc?utm_campaign=1058&utm_source=git)** | The Woodlands, TX | On Site | Sep 10 |
@@ -72,13 +92,13 @@ For a complete list, click the following sortable link below:
 | **[Grand Bohemian Mountain Brook](https://www.kesslercollection.com/bohemian-mountain-brook/)** | **[Rooms Intern](https://jobright.ai/jobs/info/68c1cce33fd8b059a20f282b?utm_campaign=1058&utm_source=git)** | US-AL-Mountain Brook | On Site | Sep 10 |
 | **[eSimplicity](https://esimplicity.com)** | **[Intern](https://jobright.ai/jobs/info/68c1ccb94d652f044775a2b9?utm_campaign=1058&utm_source=git)** | Columbia, MD | Hybrid | Sep 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68c1cb8b3fd8b059a20f271a?utm_campaign=1058&utm_source=git)** | Hybrid Remote | Hybrid | Sep 10 |
+| **[NISC](http://www.nisc.coop/)** | **[Intern - Technical Support (Help Desk)](https://jobright.ai/jobs/info/68c1cb614d652f044775a19b?utm_campaign=1058&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 10 |
+| **[St. Luke's Hospital](https://www.stlukes-stl.com/)** | **[Student Radiology Technologist - PRN](https://jobright.ai/jobs/info/68c1ca9d233c7d3e64d04402?utm_campaign=1058&utm_source=git)** | Chesterfield, MO | On Site | Sep 10 |
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/68c1ca6e4d652f044775a06e?utm_campaign=1058&utm_source=git)** | Appleton, WI | On Site | Sep 10 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[IT Delivery Analyst Intern](https://jobright.ai/jobs/info/68c1ca33233c7d3e64d0438c?utm_campaign=1058&utm_source=git)** | Zeeland, MI | On Site | Sep 10 |
 | **[Berkley Technology Services](https://berkley-bts.com)** | **[Associate Support Analyst Intern](https://jobright.ai/jobs/info/68c1c8ae233c7d3e64d04232?utm_campaign=1058&utm_source=git)** | Wilmington, DE | On Site | Sep 10 |
-| **[NISC](http://www.nisc.coop/)** | **[Intern - Technical Support (Help Desk)](https://jobright.ai/jobs/info/68c1c7f03fd8b059a20f240f?utm_campaign=1058&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 10 |
-| ↳ | **[Intern - Technical Support](https://jobright.ai/jobs/info/68c1c6f74d652f0447759dbb?utm_campaign=1058&utm_source=git)** | Mandan, ND | On Site | Sep 10 |
+| **[NISC](http://www.nisc.coop/)** | **[Intern - Technical Support](https://jobright.ai/jobs/info/68c1c6f74d652f0447759dbb?utm_campaign=1058&utm_source=git)** | Mandan, ND | On Site | Sep 10 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Customer Support Service Desk Internship- Summer 2026](https://jobright.ai/jobs/info/68c1c61e233c7d3e64d0404c?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Sep 10 |
-| **[St. Luke's Hospital](https://www.stlukes-stl.com/)** | **[Student Radiology Technologist - PRN](https://jobright.ai/jobs/info/68c1c602233c7d3e64d04037?utm_campaign=1058&utm_source=git)** | Chesterfield, MO | On Site | Sep 10 |
 | **[PeaceHealth](https://www.peacehealth.org)** | **[Radiology Technologist Student](https://jobright.ai/jobs/info/68c1c5744d652f0447759ca1?utm_campaign=1058&utm_source=git)** | Ketchikan, AK | On Site | Sep 10 |
 | **[LCS](https://www.lcsnet.com/)** | **[Service Desk Intern](https://jobright.ai/jobs/info/68c1c5714d652f0447759c9f?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Sep 10 |
 | **[Rodeo Austin](http://www.RodeoAustin.com)** | **[Ticketing Internship](https://jobright.ai/jobs/info/68c1c0424d652f0447759c45?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Sep 10 |
@@ -137,24 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wabash General Hospital](https://wabashgeneral.com/)** | **[Student Application](https://jobright.ai/jobs/info/68c159b5233c7d3e64d0167b?utm_campaign=1058&utm_source=git)** | Mount Carmel, IL | On Site | Sep 10 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Centralized Customer Experience Team Intern](https://jobright.ai/jobs/info/68c135124d652f0447756a8c?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Sep 10 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Technical Information Services](https://jobright.ai/jobs/info/68c1487b3fd8b059a20ef40b?utm_campaign=1058&utm_source=git)** | Garland, TX | On Site | Sep 10 |
-| **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/68c12038233c7d3e64d0001e?utm_campaign=1058&utm_source=git)** | Springfield, OR | On Site | Sep 09 |
-| **[Live Oak Bank](https://www.liveoakbank.com)** | **[Summer 2026 Information Technology Intern](https://jobright.ai/jobs/info/68c12036233c7d3e64d00019?utm_campaign=1058&utm_source=git)** | Greater Wilmington Area | On Site | Sep 09 |
-| **[Costco Wholesale](https://www.costco.com/)** | **[RX Grad Intern](https://jobright.ai/jobs/info/68c119f68e65e77df55c765a?utm_campaign=1058&utm_source=git)** | Frisco, TX | On Site | Sep 09 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c119f68e65e77df55c765c?utm_campaign=1058&utm_source=git)** | Fredericksburg, VA | On Site | Sep 09 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c1182b8e65e77df55c74df?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Sep 09 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c1181c8e65e77df55c74cd?utm_campaign=1058&utm_source=git)** | Richmond, CA | On Site | Sep 09 |
-| **[TruStage](https://www.trustage.com/)** | **[IT Infrastructure & Operations Intern (Hybrid)](https://jobright.ai/jobs/info/68c116975c5d5f14f46e3e35?utm_campaign=1058&utm_source=git)** | Madison, WI | Hybrid | Sep 09 |
-| **[Costco Wholesale](https://www.costco.com/)** | **[RX Grad Intern](https://jobright.ai/jobs/info/68c1168e5c5d5f14f46e3e2b?utm_campaign=1058&utm_source=git)** | Clifton, NJ | On Site | Sep 09 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c116885c5d5f14f46e3e21?utm_campaign=1058&utm_source=git)** | Middleton, WI | On Site | Sep 09 |
-| **[Ingalls Shipbuilding, a Division of HII](https://hii.com/)** | **[2026 COLLEGE SUMMER INTERN- INFO TECH](https://jobright.ai/jobs/info/68c133a23fd8b059a20eedfb?utm_campaign=1058&utm_source=git)** | Pascagoula, MS | On Site | Sep 09 |
-| **[Costco Wholesale](https://www.costco.com/)** | **[RX Grad Intern](https://jobright.ai/jobs/info/68c116035c5d5f14f46e3ddf?utm_campaign=1058&utm_source=git)** | Kalamazoo, MI | On Site | Sep 09 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c1159e5c5d5f14f46e3d82?utm_campaign=1058&utm_source=git)** | Clovis, CA | On Site | Sep 09 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c1154c5c5d5f14f46e3d44?utm_campaign=1058&utm_source=git)** | Rancho Cordova, CA | On Site | Sep 09 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c12d743fd8b059a20eec4c?utm_campaign=1058&utm_source=git)** | Bridgewater, NJ | On Site | Sep 09 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c12298233c7d3e64d00234?utm_campaign=1058&utm_source=git)** | Coralville, IA | On Site | Sep 09 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c121f03fd8b059a20ee293?utm_campaign=1058&utm_source=git)** | Alhambra, CA | On Site | Sep 09 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c12a3f3fd8b059a20ee8f3?utm_campaign=1058&utm_source=git)** | Huntington Beach, CA | On Site | Sep 09 |
-| **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/68c0e7bf5c5d5f14f46e2225?utm_campaign=1058&utm_source=git)** | Pleasant Prairie, WI | On Site | Sep 09 |
-| ↳ | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/68c0e7205c5d5f14f46e216b?utm_campaign=1058&utm_source=git)** | Eau Claire, WI | On Site | Sep 09 |
-| ↳ | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/68c0e7b35c5d5f14f46e221a?utm_campaign=1058&utm_source=git)** | Kenosha, WI | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
