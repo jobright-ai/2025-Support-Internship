@@ -57,11 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Utah Transit Authority](http://www.rideuta.com/)** | **[Customer Experience and Service Planning Intern (Part Time)](https://jobright.ai/jobs/info/68c181b63fd8b059a20f03cf?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Sep 10 |
-| **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c176bd3fd8b059a20effcf?utm_campaign=1058&utm_source=git)** | Morgantown, WV | On Site | Sep 10 |
+| **[Momentive](https://www.momentive.com/)** | **[Summer 2026 Information Technology (IT) Intern - End User Computing](https://jobright.ai/jobs/info/68c19d373fd8b059a20f1039?utm_campaign=1058&utm_source=git)** | US NY Niskayuna | On Site | Sep 10 |
+| **[Huntsman Corporation](https://www.huntsman.com)** | **[IT - Infrastructure Internship](https://jobright.ai/jobs/info/68c19cde4d652f04477588bf?utm_campaign=1058&utm_source=git)** | USA - Texas - Houston - The Woodlands - Corporate Office | On Site | Sep 10 |
+| **[NISC](http://www.nisc.coop/)** | **[Intern - Operations Support](https://jobright.ai/jobs/info/68c19ab84d652f04477585f5?utm_campaign=1058&utm_source=git)** | Lake St Louis, MO | On Site | Sep 10 |
+| **[MANN+HUMMEL](https://www.mann-hummel.com/)** | **[IT Intern](https://jobright.ai/jobs/info/68c1989b233c7d3e64d0284b?utm_campaign=1058&utm_source=git)** | Portage, MI | On Site | Sep 10 |
+| **[NISC](http://www.nisc.coop/)** | **[Intern - Broadband Support](https://jobright.ai/jobs/info/68c19877233c7d3e64d02812?utm_campaign=1058&utm_source=git)** | Mandan, ND | On Site | Sep 10 |
+| **[Emerson](http://www.emerson.com)** | **[Digital Customer Experience Intern](https://jobright.ai/jobs/info/68c194804d652f04477583b0?utm_campaign=1058&utm_source=git)** | 6021 Innovation Boulevard, Shakopee, MN, 55379, US | On Site | Sep 10 |
+| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Year-Round Intern - Member Services](https://jobright.ai/jobs/info/68c1936f3fd8b059a20f0967?utm_campaign=1058&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Sep 10 |
+| **[NISC](http://www.nisc.coop/)** | **[Intern - Broadband Support](https://jobright.ai/jobs/info/68c19321233c7d3e64d026cd?utm_campaign=1058&utm_source=git)** | Lake Saint Louis, MO | On Site | Sep 10 |
+| **[Utah Transit Authority](http://www.rideuta.com/)** | **[Customer Experience and Service Planning Intern (Part Time)](https://jobright.ai/jobs/info/68c191553fd8b059a20f0742?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Sep 10 |
+| **[American University](http://american.edu)** | **[Tech Services Assistant (Student) (FWS)](https://jobright.ai/jobs/info/68c190af4d652f04477581d3?utm_campaign=1058&utm_source=git)** | Main Campus (Washington, DC) | On Site | Sep 10 |
+| **[NISC](http://www.nisc.coop/)** | **[Intern - Operations Support](https://jobright.ai/jobs/info/68c1908a233c7d3e64d0244c?utm_campaign=1058&utm_source=git)** | Lake Saint Louis, MO | On Site | Sep 10 |
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68c1766c233c7d3e64d01d25?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Sep 10 |
 | ↳ | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68c174db3fd8b059a20efea1?utm_campaign=1058&utm_source=git)** | Bedford, IN | On Site | Sep 10 |
 | ↳ | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68c174044d652f044775785b?utm_campaign=1058&utm_source=git)** | Johnson City, TN | On Site | Sep 10 |
+| ↳ | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68c182bd233c7d3e64d02215?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Sep 10 |
+| ↳ | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68c18966233c7d3e64d02356?utm_campaign=1058&utm_source=git)** | Cobleskill, NY | On Site | Sep 10 |
+| **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c180484d652f0447757d8e?utm_campaign=1058&utm_source=git)** | Morgantown, WV | On Site | Sep 10 |
 | **[City of Livonia](https://livonia.gov)** | **[Student Page](https://jobright.ai/jobs/info/68c1540b3fd8b059a20ef7b9?utm_campaign=1058&utm_source=git)** | Livonia, MI | On Site | Sep 10 |
 | **[Benedictine University](http://www.ben.edu/)** | **[Undergrad Student Employee - #Coffee and Catering](https://jobright.ai/jobs/info/68c152a13fd8b059a20ef706?utm_campaign=1058&utm_source=git)** | Lisle, IL | On Site | Sep 10 |
 | **[Wabash General Hospital](https://wabashgeneral.com/)** | **[Student Application](https://jobright.ai/jobs/info/68c159b5233c7d3e64d0167b?utm_campaign=1058&utm_source=git)** | Mount Carmel, IL | On Site | Sep 10 |
@@ -134,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[ARTIDIS](https://www.artidis.com/)** | **[Application Support Intern](https://jobright.ai/jobs/info/68c0cdf78e65e77df55c49d8?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Sep 09 |
 | **[Shaw Industries](https://shawinc.com)** | **[Information Technology Co-op/Internship Summer 2026](https://jobright.ai/jobs/info/68c0cdc9702aa35207ab08be?utm_campaign=1058&utm_source=git)** | Shaw Plant 72, 900 VD Parrot Parkway, Dalton, GA 30721 USA | Hybrid | Sep 09 |
 | **[Federated Insurance](https://www.federatedinsurance.com/)** | **[IT-Intern (Summer of 2026)](https://jobright.ai/jobs/info/68c0c9975c5d5f14f46e0ff8?utm_campaign=1058&utm_source=git)** | Owatonna, MN | On Site | Sep 09 |
-| **[Santee Cooper](http://www.santeecooper.com)** | **[Lifeguard-Summer Intern](https://jobright.ai/jobs/info/68c0c98a702aa35207ab073b?utm_campaign=1058&utm_source=git)** | Moncks Corner, SC | On Site | Sep 09 |
 | **[American University](http://american.edu)** | **[Student Engagement Commons Front Desk Assistant (Student) (FWS)](https://jobright.ai/jobs/info/68c0c7f05c5d5f14f46e0e8f?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Sep 09 |
 | **[University of Illinois Urbana-Champaign](http://www.business.illinois.edu/)** | **[Office Support Specialist-International Student and Scholar Services (Hybrid)](https://jobright.ai/jobs/info/68c0c7345c5d5f14f46e0ded?utm_campaign=1058&utm_source=git)** | Urbana, IL | Hybrid | Sep 09 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad- International Pharmacy Intern](https://jobright.ai/jobs/info/68c0f63d8e65e77df55c6166?utm_campaign=1058&utm_source=git)** | NV - Sparks | On Site | Sep 09 |
@@ -144,17 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Stonebridge ](http://www.sbcos.com)** | **[Hotel Intern](https://jobright.ai/jobs/info/68c0b9ff5c5d5f14f46e084b?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Sep 09 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Intern - Word Processing](https://jobright.ai/jobs/info/68c0b89b8e65e77df55c3da5?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Sep 09 |
 | **[Sunbelt Rentals, Inc.](https://www.sunbeltrentals.com)** | **[Field Intern](https://jobright.ai/jobs/info/68c0b88c702aa35207aafe01?utm_campaign=1058&utm_source=git)** | San Jose CA 95116 | On Site | Sep 09 |
-| **[University of South Florida](http://www.usf.edu)** | **[Student Asst - FWS](https://jobright.ai/jobs/info/68c0b75f8e65e77df55c3c8c?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Sep 09 |
 | **[Activision](https://www.activision.com/)** | **[2026 US Summer Internships - Desktop IT](https://jobright.ai/jobs/info/68c0b37d5c5d5f14f46e0516?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Sep 09 |
 | **[Zscaler](https://www.zscaler.com)** | **[Technical Support Engineer - SkillBridge Intern](https://jobright.ai/jobs/info/68c0b1e58e65e77df55c3a74?utm_campaign=1058&utm_source=git)** | Remote - USA | Hybrid | Sep 09 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c0dbaa8e65e77df55c5128?utm_campaign=1058&utm_source=git)** | Morgantown, WV | On Site | Sep 09 |
-| **[Sam's Club](http://www.samsclub.com)** | **[Pre Grad Intern - Sam's Pharmacy](https://jobright.ai/jobs/info/68c0d65a702aa35207ab0f27?utm_campaign=1058&utm_source=git)** | Gilbert, AZ | On Site | Sep 09 |
-| **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Grad Intern (Hrly) #1010](https://jobright.ai/jobs/info/68c0f3295c5d5f14f46e28ab?utm_campaign=1058&utm_source=git)** | Rockingham, NC | On Site | Sep 09 |
-| ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM (Store 1845)](https://jobright.ai/jobs/info/68c0d639702aa35207ab0f09?utm_campaign=1058&utm_source=git)** | Cooper City, FL | On Site | Sep 09 |
-| **[UF Health](https://ufhealth.org/)** | **[Radiology Technologist Intern / Diagnostic Imaging / PRN Variable](https://jobright.ai/jobs/info/68c0e3138e65e77df55c544d?utm_campaign=1058&utm_source=git)** | Lady Lake, FL | On Site | Sep 09 |
-| **[NISC](http://www.nisc.coop/)** | **[Intern - Customer Care & Billing Implementations](https://jobright.ai/jobs/info/68c0ad435c5d5f14f46e0194?utm_campaign=1058&utm_source=git)** | Mandan, ND | On Site | Sep 09 |
-| **[University of Arkansas System](https://www.uasys.edu)** | **[Extra Help/Trojan Works Procurement Administrative Assistant](https://jobright.ai/jobs/info/68c0a1cd702aa35207aaf5f7?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Sep 09 |
-| **[Agilent Technologies](http://www.agilent.com)** | **[Channel Support Intern](https://jobright.ai/jobs/info/68c0a00f5c5d5f14f46dfcc6?utm_campaign=1058&utm_source=git)** | US-DE-Wilmington | On Site | Sep 09 |
-| ↳ | **[Channel Support Intern](https://jobright.ai/jobs/info/68c09e87702aa35207aaf3f5?utm_campaign=1058&utm_source=git)** | US-CA-Santa Clara | On Site | Sep 09 |
-| **[VEGA Americas, Inc.](http://www.vega.com)** | **[IT Co-Op - Spring 2026](https://jobright.ai/jobs/info/68c09b295c5d5f14f46dfa8e?utm_campaign=1058&utm_source=git)** | Mason, OH | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
