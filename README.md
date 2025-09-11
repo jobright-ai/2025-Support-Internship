@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Research Services Administrator](https://jobright.ai/jobs/info/68c26c384d652f044776086d?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Sep 10 |
+| **[Caltech](http://www.caltech.edu)** | **[General Computing Intern](https://jobright.ai/jobs/info/68c26bff33864f172f9c08a1?utm_campaign=1058&utm_source=git)** | Hanford, WA | On Site | Sep 10 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[RX Grad Intern](https://jobright.ai/jobs/info/68c25fbe63b706703e114909?utm_campaign=1058&utm_source=git)** | Kirkland, WA | On Site | Sep 10 |
 | **[LifeBridge Health](http://www.lifebridgehealth.org/)** | **[Surgical Tech Apprentice](https://jobright.ai/jobs/info/68c25d424d652f044775ff6f?utm_campaign=1058&utm_source=git)** | Randallstown, MD | On Site | Sep 10 |
 | **[Mastercard](http://www.mastercard.com)** | **[Customer Experience and Design Intern, Summer 2026 - St. Louis, MO](https://jobright.ai/jobs/info/68c2549a33864f172f9bf673?utm_campaign=1058&utm_source=git)** | O'Fallon, Missouri | On Site | Sep 10 |
@@ -103,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[NISC](http://www.nisc.coop/)** | **[Intern - Technical Support](https://jobright.ai/jobs/info/68c1e5813fd8b059a20f3c90?utm_campaign=1058&utm_source=git)** | Bismarck, ND | On Site | Sep 10 |
 | **[Kessler Collection](http://www.kesslercollection.com)** | **[Rooms Intern](https://jobright.ai/jobs/info/68c1e4b9233c7d3e64d05a91?utm_campaign=1058&utm_source=git)** | Mountain Brook, AL | On Site | Sep 10 |
 | **[NISC](http://www.nisc.coop/)** | **[Intern - Technical Support (Help Desk)](https://jobright.ai/jobs/info/68c1e3dd3fd8b059a20f3b42?utm_campaign=1058&utm_source=git)** | Iowa City, IA | On Site | Sep 10 |
+| **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Apprentice - IT Helpdesk Campus Support](https://jobright.ai/jobs/info/68c1e3193fd8b059a20f3a71?utm_campaign=1058&utm_source=git)** | Lynchburg, VA | On Site | Sep 10 |
 | **[Los Angeles County Department of Human Resources](https://www.fire.lacounty.gov/)** | **[STUDENT WORKER, INFORMATION TECHNOLOGY](https://jobright.ai/jobs/info/67ddaca3b8576d461976c5f5?utm_campaign=1058&utm_source=git)** | Los Angeles County, CA | On Site | Sep 10 |
 | ↳ | **[STUDENT PROFESSIONAL WORKER, INFORMATION TECHNOLOGY](https://jobright.ai/jobs/info/67ddaca3b8576d461976c5f4?utm_campaign=1058&utm_source=git)** | Los Angeles County, CA | On Site | Sep 10 |
 | **[Michelin](http://www.michelin.com/)** | **[2026 Summer IT Intern Greenville, SC](https://jobright.ai/jobs/info/68c1dcc24d652f044775b22e?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Sep 10 |
@@ -111,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Emerson](http://www.emerson.com)** | **[Digital Customer Experience Intern](https://jobright.ai/jobs/info/68c1dabe3fd8b059a20f353e?utm_campaign=1058&utm_source=git)** | Shakopee, MN | On Site | Sep 10 |
 | **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Vendor Services Intern: Starts March 2026](https://jobright.ai/jobs/info/68be7d22e57feb02eb0aee62?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Sep 10 |
 | **[Stonebridge ](http://www.sbcos.com)** | **[Dimond Fellow Internship](https://jobright.ai/jobs/info/68c1d5714d652f044775ad6a?utm_campaign=1058&utm_source=git)** | The Jacquard Hotel & Rooftop - Cherry Creek | On Site | Sep 10 |
-| **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Apprentice - IT Helpdesk Campus Support](https://jobright.ai/jobs/info/68c1d42a233c7d3e64d04f43?utm_campaign=1058&utm_source=git)** | Lynchburg, VA | On Site | Sep 10 |
 | **[University of Maryland Medical System](http://www.umms.org)** | **[MS IT Helpdesk Specialist Intern](https://jobright.ai/jobs/info/68c1d3a73fd8b059a20f304e?utm_campaign=1058&utm_source=git)** | Columbia, MD | On Site | Sep 10 |
 | ↳ | **[MS IT Helpdesk Specialist Intern](https://jobright.ai/jobs/info/68c1d2bc233c7d3e64d04d20?utm_campaign=1058&utm_source=git)** | Columbia, MD | On Site | Sep 10 |
 | **[Huntsman Corporation](https://www.huntsman.com)** | **[IT - Infrastructure Internship](https://jobright.ai/jobs/info/68c1d0693fd8b059a20f2ccc?utm_campaign=1058&utm_source=git)** | The Woodlands, TX | On Site | Sep 10 |
@@ -125,36 +127,34 @@ For a complete list, click the following sortable link below:
 | **[Grand Bohemian Mountain Brook](https://www.kesslercollection.com/bohemian-mountain-brook/)** | **[Rooms Intern](https://jobright.ai/jobs/info/68c1cce33fd8b059a20f282b?utm_campaign=1058&utm_source=git)** | US-AL-Mountain Brook | On Site | Sep 10 |
 | **[eSimplicity](https://esimplicity.com)** | **[Intern](https://jobright.ai/jobs/info/68c1ccb94d652f044775a2b9?utm_campaign=1058&utm_source=git)** | Columbia, MD | Hybrid | Sep 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68c1cb8b3fd8b059a20f271a?utm_campaign=1058&utm_source=git)** | Hybrid Remote | Hybrid | Sep 10 |
+| **[NISC](http://www.nisc.coop/)** | **[Intern - Technical Support (Help Desk)](https://jobright.ai/jobs/info/68c1cb614d652f044775a19b?utm_campaign=1058&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 10 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Radiology Technologist Intern / Casual / Canonsburg Hospital](https://jobright.ai/jobs/info/68c2189833864f172f9bcea3?utm_campaign=1058&utm_source=git)** | Canonsburg PA, 15317, 100 Medical Blvd | On Site | Sep 10 |
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/68c1ca6e4d652f044775a06e?utm_campaign=1058&utm_source=git)** | Appleton, WI | On Site | Sep 10 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[IT Delivery Analyst Intern](https://jobright.ai/jobs/info/68c1ca33233c7d3e64d0438c?utm_campaign=1058&utm_source=git)** | Zeeland, MI | On Site | Sep 10 |
 | **[PeaceHealth](https://www.peacehealth.org)** | **[Radiology Technologist Student](https://jobright.ai/jobs/info/68c1c9d33fd8b059a20f2598?utm_campaign=1058&utm_source=git)** | Ketchikan, AK | On Site | Sep 10 |
 | **[Berkley Technology Services](https://berkley-bts.com)** | **[Associate Support Analyst Intern](https://jobright.ai/jobs/info/68c1c8ae233c7d3e64d04232?utm_campaign=1058&utm_source=git)** | Wilmington, DE | On Site | Sep 10 |
-| **[NISC](http://www.nisc.coop/)** | **[Intern - Technical Support (Help Desk)](https://jobright.ai/jobs/info/68c1c7f03fd8b059a20f240f?utm_campaign=1058&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 10 |
-| ↳ | **[Intern - Technical Support](https://jobright.ai/jobs/info/68c1c6f74d652f0447759dbb?utm_campaign=1058&utm_source=git)** | Mandan, ND | On Site | Sep 10 |
+| **[NISC](http://www.nisc.coop/)** | **[Intern - Technical Support](https://jobright.ai/jobs/info/68c1c6f74d652f0447759dbb?utm_campaign=1058&utm_source=git)** | Mandan, ND | On Site | Sep 10 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Customer Support Service Desk Internship- Summer 2026](https://jobright.ai/jobs/info/68c1c61e233c7d3e64d0404c?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Sep 10 |
 | **[St. Luke's Hospital](https://www.stlukes-stl.com/)** | **[Student Radiology Technologist - PRN](https://jobright.ai/jobs/info/68c1c602233c7d3e64d04037?utm_campaign=1058&utm_source=git)** | Chesterfield, MO | On Site | Sep 10 |
 | **[PeaceHealth](https://www.peacehealth.org)** | **[Radiology Technologist Student](https://jobright.ai/jobs/info/68c1c5744d652f0447759ca1?utm_campaign=1058&utm_source=git)** | Ketchikan, AK | On Site | Sep 10 |
 | **[LCS](https://www.lcsnet.com/)** | **[Service Desk Intern](https://jobright.ai/jobs/info/68c1c5714d652f0447759c9f?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Sep 10 |
 | **[Rodeo Austin](http://www.RodeoAustin.com)** | **[Ticketing Internship](https://jobright.ai/jobs/info/68c1c0424d652f0447759c45?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Sep 10 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c1c0283fd8b059a20f2206?utm_campaign=1058&utm_source=git)** | Malden, MA | On Site | Sep 10 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c1bfe23fd8b059a20f21d3?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Sep 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c1bf604d652f0447759bbc?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Sep 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c1be444d652f0447759b0e?utm_campaign=1058&utm_source=git)** | Clifton, NJ | On Site | Sep 10 |
 | **[Cyclyx](https://www.cyclyx.com)** | **[IT Intern](https://jobright.ai/jobs/info/68c1be304d652f0447759afc?utm_campaign=1058&utm_source=git)** | Spring, TX | On Site | Sep 10 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/68c1bd7a3fd8b059a20f202e?utm_campaign=1058&utm_source=git)** | Lawrenceville, GA | On Site | Sep 10 |
 | **[Care New England](http://www.carenewengland.org)** | **[Surgical Technologist Resident](https://jobright.ai/jobs/info/68c1bd374d652f0447759a26?utm_campaign=1058&utm_source=git)** | Warwick, RI | On Site | Sep 10 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68c1bc7a233c7d3e64d03cbf?utm_campaign=1058&utm_source=git)** | Lincoln, NE | On Site | Sep 10 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c1bb7d4d652f0447759901?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Sep 10 |
 | **[Sparton](http://www.sparton.com)** | **[IT Internship](https://jobright.ai/jobs/info/68c1bb663fd8b059a20f1ec0?utm_campaign=1058&utm_source=git)** | De Leon Springs, FL | On Site | Sep 10 |
 | **[Maricopa County](http://www.maricopa.gov)** | **[Intern](https://jobright.ai/jobs/info/68c1bae74d652f04477598d9?utm_campaign=1058&utm_source=git)** | 222 N Central Ave, Phoenix, AZ 85004 | On Site | Sep 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68c1ba94233c7d3e64d03c04?utm_campaign=1058&utm_source=git)** | 175 W Madison St, Phoenix, AZ 85003 | On Site | Sep 10 |
 | **[Sunbelt Rentals, Inc.](https://www.sunbeltrentals.com)** | **[Field Intern](https://jobright.ai/jobs/info/68c1b843233c7d3e64d03a4d?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Sep 10 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c1b7b34d652f04477596d6?utm_campaign=1058&utm_source=git)** | Elmwood Park, NJ | On Site | Sep 10 |
+| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Internship (Multiple)](https://jobright.ai/jobs/info/68b094102d46f6396cae6a94?utm_campaign=1058&utm_source=git)** | Jersey City, NJ | On Site | Sep 10 |
 | **[Momentive](https://www.momentive.com/)** | **[Summer 2026 Information Technology (IT) Intern - End User Computing](https://jobright.ai/jobs/info/68c1b558233c7d3e64d038bc?utm_campaign=1058&utm_source=git)** | Niskayuna, NY | On Site | Sep 10 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c1b4ed4d652f044775950c?utm_campaign=1058&utm_source=git)** | Paterson, NJ | On Site | Sep 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c1b4a93fd8b059a20f1aa3?utm_campaign=1058&utm_source=git)** | Methuen, MA | On Site | Sep 10 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68c1b4404d652f0447759478?utm_campaign=1058&utm_source=git)** | Lincoln, NE | On Site | Sep 10 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Rooms/ Summer 2026](https://jobright.ai/jobs/info/68c1b2f9233c7d3e64d03720?utm_campaign=1058&utm_source=git)** | Bretton Woods, NH | On Site | Sep 10 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68c1b2d5233c7d3e64d03707?utm_campaign=1058&utm_source=git)** | Kearney, NE | On Site | Sep 10 |
-| **[LCS](https://www.lcsnet.com/)** | **[Service Desk Intern](https://jobright.ai/jobs/info/68c1b17b233c7d3e64d0369f?utm_campaign=1058&utm_source=git)** | 400 Locust Street, Des Moines, IA, 50309, US | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
