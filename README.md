@@ -57,9 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Greystone](https://www.greystone.com)** | **[Summer 2026: Information Technology Internship](https://jobright.ai/jobs/info/68c2edd363829b0a8a4fe184?utm_campaign=1058&utm_source=git)** | Warrenton, VA | On Site | Sep 11 |
+| **[Trinity Health MI](https://bit.ly/3y0fhsr)** | **[Imaging Services Extern - Surgical Services](https://jobright.ai/jobs/info/68c2ecc163829b0a8a4fe04f?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Sep 11 |
+| **[Saint Joseph Mercy Health System](http://www.stjoeshealth.org)** | **[Imaging Services Extern - Surgical Services](https://jobright.ai/jobs/info/68c2e3d55001f8077bf5f0de?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Sep 11 |
+| **[Brooks Rehabilitation](https://brooksrehab.org)** | **[Service Desk Student Intern, IT Department, Full-time, Temporary](https://jobright.ai/jobs/info/68c2e31263829b0a8a4fda7b?utm_campaign=1058&utm_source=git)** | 3599 University Blvd., South, Jacksonville, FL, 32216, US | On Site | Sep 11 |
+| **[Dow](https://www.dowchemical.com)** | **[Local College Co-op - Customer Service](https://jobright.ai/jobs/info/68c2e2795adaee6c9bda4f49?utm_campaign=1058&utm_source=git)** | Midland (MI, USA) | On Site | Sep 11 |
+| **[Trinity Health](http://www.trinity-health.org)** | **[Imaging Services Extern - Surgical Services](https://jobright.ai/jobs/info/68c2e24563829b0a8a4fd936?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Sep 11 |
+| **[Cooley Dickinson Hospital](https://www.cooleydickinson.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/68c2e18f5adaee6c9bda4e55?utm_campaign=1058&utm_source=git)** | Northampton, MA | On Site | Sep 11 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT16](https://jobright.ai/jobs/info/68c2d3ce5adaee6c9bda48ff?utm_campaign=1058&utm_source=git)** | Ontario, CA | On Site | Sep 11 |
+| **[Brown University Health](https://www.brownhealth.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/68c2ef265001f8077bf5f870?utm_campaign=1058&utm_source=git)** | East Providence, RI | On Site | Sep 11 |
 | **[Kadlec](http://www.kadlec.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/68c2ca9e5001f8077bf5e11d?utm_campaign=1058&utm_source=git)** | Richland, WA | On Site | Sep 11 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT16](https://jobright.ai/jobs/info/68c2ca0463829b0a8a4fcc01?utm_campaign=1058&utm_source=git)** | Rancho Cucamonga, CA | On Site | Sep 11 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68c2d13763829b0a8a4fd084?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Sep 11 |
+| **[United Supermarkets, LLC](https://www.unitedsupermarkets.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/688af6a209808a6103e52e5f?utm_campaign=1058&utm_source=git)** | Lubbock, TX | On Site | Sep 11 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/68c2a79c5001f8077bf5ce4e?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Sep 11 |
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Pharmacy Intern - Inpatient - West Penn Hospital](https://jobright.ai/jobs/info/68c2a73a5001f8077bf5cd99?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Sep 11 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/6889e431aab47a17f6706148?utm_campaign=1058&utm_source=git)** | Arden, CA | On Site | Sep 11 |
@@ -77,7 +87,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Support Technician Intern - Summer 2026](https://jobright.ai/jobs/info/68c2436563b706703e1130a6?utm_campaign=1058&utm_source=git)** | Sparks, NV | On Site | Sep 10 |
 | **[Lehigh Valley Health Network](http://www.lvhn.org)** | **[Diagnostic Technologist - Student](https://jobright.ai/jobs/info/68c241df4d652f044775e830?utm_campaign=1058&utm_source=git)** | Allentown, PA | On Site | Sep 10 |
 | **[Resort & Spa](https://www.linkedin.com/company/2120788)** | **[Rooms Intern](https://jobright.ai/jobs/info/68c25a1d33864f172f9bfb45?utm_campaign=1058&utm_source=git)** | Montauk, NY | On Site | Sep 10 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Generalist - Student Success - PAC - req12988 - T](https://jobright.ai/jobs/info/68c23ccf63b706703e112bf8?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Sep 10 |
 | **[Holcim Costa Rica](https://www.holcim.cr/)** | **[Pasante Recursos Humanos - San José](https://jobright.ai/jobs/info/68c238f34d652f044775df7d?utm_campaign=1058&utm_source=git)** | San José Metropolitan Area | On Site | Sep 10 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Private Client Intern – Private Client Services](https://jobright.ai/jobs/info/68c232374d652f044775dc4c?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Sep 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c230114d652f044775dacb?utm_campaign=1058&utm_source=git)** | Morrisville, PA | On Site | Sep 10 |
@@ -141,20 +150,11 @@ For a complete list, click the following sortable link below:
 | **[NISC](http://www.nisc.coop/)** | **[Intern - Technical Support](https://jobright.ai/jobs/info/68c1e5813fd8b059a20f3c90?utm_campaign=1058&utm_source=git)** | Bismarck, ND | On Site | Sep 10 |
 | **[Kessler Collection](http://www.kesslercollection.com)** | **[Rooms Intern](https://jobright.ai/jobs/info/68c1e4b9233c7d3e64d05a91?utm_campaign=1058&utm_source=git)** | Mountain Brook, AL | On Site | Sep 10 |
 | **[NISC](http://www.nisc.coop/)** | **[Intern - Technical Support (Help Desk)](https://jobright.ai/jobs/info/68c1e3dd3fd8b059a20f3b42?utm_campaign=1058&utm_source=git)** | Iowa City, IA | On Site | Sep 10 |
+| **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Apprentice - IT Helpdesk Campus Support](https://jobright.ai/jobs/info/68c1e3193fd8b059a20f3a71?utm_campaign=1058&utm_source=git)** | Lynchburg, VA | On Site | Sep 10 |
 | **[Los Angeles County Department of Human Resources](https://www.fire.lacounty.gov/)** | **[STUDENT WORKER, INFORMATION TECHNOLOGY](https://jobright.ai/jobs/info/67ddaca3b8576d461976c5f5?utm_campaign=1058&utm_source=git)** | Los Angeles County, CA | On Site | Sep 10 |
 | ↳ | **[STUDENT PROFESSIONAL WORKER, INFORMATION TECHNOLOGY](https://jobright.ai/jobs/info/67ddaca3b8576d461976c5f4?utm_campaign=1058&utm_source=git)** | Los Angeles County, CA | On Site | Sep 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c292c0b535a221b153ce48?utm_campaign=1058&utm_source=git)** | North East, PA | On Site | Sep 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c2915ab535a221b153c941?utm_campaign=1058&utm_source=git)** | Du Bois, PA | On Site | Sep 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c297a603b99f6b34296d30?utm_campaign=1058&utm_source=git)** | Hummelstown, PA | On Site | Sep 10 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[PRN Radiology Intern](https://jobright.ai/jobs/info/68c2878e8753a565272fa01a?utm_campaign=1058&utm_source=git)** | Joplin, MO | On Site | Sep 10 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c29c4b8753a565272fc81e?utm_campaign=1058&utm_source=git)** | Monroeville, PA | On Site | Sep 10 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c29c1a03b99f6b34297470?utm_campaign=1058&utm_source=git)** | Meadville, PA | On Site | Sep 10 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c297fe03b99f6b34296d9d?utm_campaign=1058&utm_source=git)** | Dover, PA | On Site | Sep 10 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c2a2268753a565272fca47?utm_campaign=1058&utm_source=git)** | Natrona Heights, PA | On Site | Sep 10 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c29b4c8753a565272fc642?utm_campaign=1058&utm_source=git)** | Edinboro, PA | On Site | Sep 10 |
-| **[Michelin](http://www.michelin.com/)** | **[2026 Summer IT Intern Greenville, SC](https://jobright.ai/jobs/info/68c1dcc24d652f044775b22e?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Sep 10 |
-| **[Selective Insurance](https://www.selective.com/)** | **[IT Claims Application Delivery Summer Internship – Charlotte, NC (Hybrid)](https://jobright.ai/jobs/info/68c1dbb54d652f044775b127?utm_campaign=1058&utm_source=git)** | Charlotte, NC | Hybrid | Sep 10 |
-| ↳ | **[IT Customer Experience Summer Internship - Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/68c1dbb23fd8b059a20f360f?utm_campaign=1058&utm_source=git)** | Branchville, NJ | Hybrid | Sep 10 |
-| **[Emerson](http://www.emerson.com)** | **[Digital Customer Experience Intern](https://jobright.ai/jobs/info/68c1dabe3fd8b059a20f353e?utm_campaign=1058&utm_source=git)** | Shakopee, MN | On Site | Sep 10 |
-| **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Vendor Services Intern: Starts March 2026](https://jobright.ai/jobs/info/68be7d22e57feb02eb0aee62?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
