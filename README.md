@@ -87,15 +87,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c65901c96a22563eced869?utm_campaign=1058&utm_source=git)** | Olympia, WA | On Site | Sep 13 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c65892c96a22563eced80b?utm_campaign=1058&utm_source=git)** | Kennesaw, GA | On Site | Sep 13 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Student Radiology Tech - Second Year - Interventional Radiology](https://jobright.ai/jobs/info/68bc0fd75f38327491874e73?utm_campaign=1058&utm_source=git)** | Clinton, MI | On Site | Sep 13 |
-| **[Costco Wholesale](https://www.costco.com/)** | **[RX Grad Intern](https://jobright.ai/jobs/info/68c671417d0db4114273a228?utm_campaign=1058&utm_source=git)** | Wharton, NJ | On Site | Sep 13 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c67174c96a22563eceedaf?utm_campaign=1058&utm_source=git)** | Loomis, CA | On Site | Sep 13 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c6708f7d0db4114273a1b7?utm_campaign=1058&utm_source=git)** | Bozeman, MT | On Site | Sep 13 |
+| **[Costco Wholesale](https://www.costco.com/)** | **[RX Grad Intern](https://jobright.ai/jobs/info/68c67174c96a22563eceedaf?utm_campaign=1058&utm_source=git)** | Loomis, CA | On Site | Sep 13 |
+| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c671417d0db4114273a228?utm_campaign=1058&utm_source=git)** | Wharton, NJ | On Site | Sep 13 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c670f6c96a22563eceed4d?utm_campaign=1058&utm_source=git)** | Flint, MI | On Site | Sep 13 |
+| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c6708f7d0db4114273a1b7?utm_campaign=1058&utm_source=git)** | Bozeman, MT | On Site | Sep 13 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c67136db52c07d28848b89?utm_campaign=1058&utm_source=git)** | East Hanover, NJ | On Site | Sep 13 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c67152c96a22563eceed9a?utm_campaign=1058&utm_source=git)** | Issaquah, WA | On Site | Sep 13 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c67186db52c07d28848bb5?utm_campaign=1058&utm_source=git)** | Vallejo, CA | On Site | Sep 13 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist pt24](https://jobright.ai/jobs/info/68c64bc37d0db41142738166?utm_campaign=1058&utm_source=git)** | California-Baldwin Park-Baldwin Park Medical Offices | On Site | Sep 13 |
-| **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Internship - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/68c64641c96a22563ecec579?utm_campaign=1058&utm_source=git)** | Monroe, MI | Hybrid | Sep 13 |
 | **[VEIT](http://veitusa.com)** | **[2026 IT Support Desk Intern](https://jobright.ai/jobs/info/68c641b87d0db411427374cd?utm_campaign=1058&utm_source=git)** | Rogers, MN | On Site | Sep 13 |
 | **[Meijer](https://www.meijer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/68c636abc96a22563eceb555?utm_campaign=1058&utm_source=git)** | South Bend, IN | On Site | Sep 13 |
 | **[Novant Health Provider Recruitment ](https://www.novanthealth.org/careers/career-choices/physicians.aspx)** | **[Internist in the Heart of Wake Forest University](https://jobright.ai/jobs/info/684d75c528e086217b95b841?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | On Site | Sep 13 |
@@ -130,6 +129,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68c638eec96a22563eceb84a?utm_campaign=1058&utm_source=git)** | Talladega, AL | On Site | Sep 13 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c5a3ee7d0db41142734ba8?utm_campaign=1058&utm_source=git)** | Webster Groves, MO | On Site | Sep 13 |
 | **[Orange and Rockland Utilities, Inc.](http://oru.com)** | **[Computer Aide Temp Coops - College Students (IT Majors)](https://jobright.ai/jobs/info/68c5a0887d0db41142734aef?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Sep 13 |
+| **[Labcorp](https://www.labcorp.com)** | **[Intern - Lab Assistant](https://jobright.ai/jobs/info/68c68f3cc96a22563ecef863?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Sep 13 |
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68c58e1ec96a22563ece94e0?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | On Site | Sep 13 |
 | ↳ | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68c58419db52c07d2884317a?utm_campaign=1058&utm_source=git)** | Roanoke, VA | On Site | Sep 13 |
 | ↳ | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68c583a07d0db4114273454f?utm_campaign=1058&utm_source=git)** | Burnsville, MN | On Site | Sep 13 |
