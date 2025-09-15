@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Enterprise IT Support](https://jobright.ai/jobs/info/68c751397d0db4114273be4e?utm_campaign=1058&utm_source=git)** | Ashburn, VA | On Site | Sep 14 |
+| **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/68c7618ac96a22563ecf0be5?utm_campaign=1058&utm_source=git)** | Springfield, OR | On Site | Sep 14 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Enterprise IT Support](https://jobright.ai/jobs/info/68c75a737d0db4114273bec3?utm_campaign=1058&utm_source=git)** | Ashburn, VA | On Site | Sep 14 |
+| ↳ | **[Summer 2026 Internship: Enterprise IT Support](https://jobright.ai/jobs/info/68c75438db52c07d2884a852?utm_campaign=1058&utm_source=git)** | Ashburn, VA | On Site | Sep 14 |
 | ↳ | **[Summer 2026 Internship: Enterprise IT Support](https://jobright.ai/jobs/info/68c75015db52c07d2884a7f0?utm_campaign=1058&utm_source=git)** | US VA Ashburn 1 DC1 | On Site | Sep 14 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[IT Support Intern - Summer 2026](https://jobright.ai/jobs/info/68c73fa7db52c07d2884a6ec?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Sep 14 |
 | **[AdventHealth Central Florida](http://www.adventhealth.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c735ebc96a22563ecf0922?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Sep 14 |
@@ -112,8 +114,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c6646ec96a22563ecee37a?utm_campaign=1058&utm_source=git)** | Grandville, MI | On Site | Sep 13 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c663e7db52c07d2884829d?utm_campaign=1058&utm_source=git)** | Lake in the Hills, IL | On Site | Sep 13 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c663d47d0db411427396fa?utm_campaign=1058&utm_source=git)** | Mooresville, NC | On Site | Sep 13 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c6631edb52c07d28848090?utm_campaign=1058&utm_source=git)** | Brighton, MI | On Site | Sep 13 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c6631edb52c07d28848091?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Sep 13 |
+| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c6631edb52c07d28848090?utm_campaign=1058&utm_source=git)** | Brighton, MI | On Site | Sep 13 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c65f11db52c07d28847e8f?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Sep 13 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c65ef17d0db411427392cc?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | Sep 13 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c65ed77d0db4114273928f?utm_campaign=1058&utm_source=git)** | Chula Vista, CA | On Site | Sep 13 |
@@ -135,26 +137,24 @@ For a complete list, click the following sortable link below:
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c65901c96a22563eced869?utm_campaign=1058&utm_source=git)** | Olympia, WA | On Site | Sep 13 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c65892c96a22563eced80b?utm_campaign=1058&utm_source=git)** | Kennesaw, GA | On Site | Sep 13 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Student Radiology Tech - Second Year - Interventional Radiology](https://jobright.ai/jobs/info/68bc0fd75f38327491874e73?utm_campaign=1058&utm_source=git)** | Clinton, MI | On Site | Sep 13 |
-| **[Costco Wholesale](https://www.costco.com/)** | **[RX Grad Intern](https://jobright.ai/jobs/info/68c671417d0db4114273a228?utm_campaign=1058&utm_source=git)** | Wharton, NJ | On Site | Sep 13 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c67174c96a22563eceedaf?utm_campaign=1058&utm_source=git)** | Loomis, CA | On Site | Sep 13 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c670f6c96a22563eceed4d?utm_campaign=1058&utm_source=git)** | Flint, MI | On Site | Sep 13 |
+| **[Costco Wholesale](https://www.costco.com/)** | **[RX Grad Intern](https://jobright.ai/jobs/info/68c67174c96a22563eceedaf?utm_campaign=1058&utm_source=git)** | Loomis, CA | On Site | Sep 13 |
+| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c671417d0db4114273a228?utm_campaign=1058&utm_source=git)** | Wharton, NJ | On Site | Sep 13 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c6708f7d0db4114273a1b7?utm_campaign=1058&utm_source=git)** | Bozeman, MT | On Site | Sep 13 |
+| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c670f6c96a22563eceed4d?utm_campaign=1058&utm_source=git)** | Flint, MI | On Site | Sep 13 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c67186db52c07d28848bb5?utm_campaign=1058&utm_source=git)** | Vallejo, CA | On Site | Sep 13 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c67152c96a22563eceed9a?utm_campaign=1058&utm_source=git)** | Issaquah, WA | On Site | Sep 13 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c67136db52c07d28848b89?utm_campaign=1058&utm_source=git)** | East Hanover, NJ | On Site | Sep 13 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist pt24](https://jobright.ai/jobs/info/68c64bc37d0db41142738166?utm_campaign=1058&utm_source=git)** | California-Baldwin Park-Baldwin Park Medical Offices | On Site | Sep 13 |
+| **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Internship - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/68c64641c96a22563ecec579?utm_campaign=1058&utm_source=git)** | Monroe, MI | Hybrid | Sep 13 |
 | **[VEIT](http://veitusa.com)** | **[2026 IT Support Desk Intern](https://jobright.ai/jobs/info/68c641b87d0db411427374cd?utm_campaign=1058&utm_source=git)** | Rogers, MN | On Site | Sep 13 |
 | **[Meijer](https://www.meijer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/68c636abc96a22563eceb555?utm_campaign=1058&utm_source=git)** | South Bend, IN | On Site | Sep 13 |
 | **[Novant Health Provider Recruitment ](https://www.novanthealth.org/careers/career-choices/physicians.aspx)** | **[Internist in the Heart of Wake Forest University](https://jobright.ai/jobs/info/684d75c528e086217b95b841?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | On Site | Sep 13 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Dietitian – Intern](https://jobright.ai/jobs/info/68c611127d0db41142735969?utm_campaign=1058&utm_source=git)** | Manhattan, KS | On Site | Sep 13 |
 | **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Student Opportunities - Desktop Support Internships - Summer 2026 (Onsite)](https://jobright.ai/jobs/info/68c60982db52c07d2884449c?utm_campaign=1058&utm_source=git)** | Fairfield, OH | On Site | Sep 13 |
+| **[St. Joseph's Health](https://www.sjhsyr.org)** | **[Surgical Technologist Intern](https://jobright.ai/jobs/info/688bfdd41808534a89cb7a5e?utm_campaign=1058&utm_source=git)** | Syracuse, NY | On Site | Sep 13 |
 | **[Bish's RV, Inc.](https://www.bishs.com/)** | **[Intern](https://jobright.ai/jobs/info/68c5f017c96a22563ecea326?utm_campaign=1058&utm_source=git)** | Meridian, ID | On Site | Sep 13 |
 | **[Point Blank Enterprises, Inc.](http://www.pointblankenterprises.com/)** | **[Internship - IT](https://jobright.ai/jobs/info/68c5e6d7c96a22563ecea178?utm_campaign=1058&utm_source=git)** | Pompano Beach, FL | On Site | Sep 13 |
 | **[The Hotel at Auburn University](http://www.auhcc.com)** | **[Housekeeping-International Intern Room Attendant](https://jobright.ai/jobs/info/68c5e674db52c07d28844072?utm_campaign=1058&utm_source=git)** | Auburn, AL | On Site | Sep 13 |
 | **[Persistent Technology, Inc.](https://perstechinc.com)** | **[Technical Documentation Specialist Intern](https://jobright.ai/jobs/info/68c5e387c96a22563ecea136?utm_campaign=1058&utm_source=git)** | Washington, DC | Hybrid | Sep 13 |
 | **[AdventHealth Central Florida](http://www.adventhealth.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c5e37dc96a22563ecea12f?utm_campaign=1058&utm_source=git)** | Winter Garden, FL | On Site | Sep 13 |
-| ↳ | **[Student Worker, General Office, AHU PRN](https://jobright.ai/jobs/info/68c5e372db52c07d28844051?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Sep 13 |
-| **[Persistent Technology, Inc.](https://perstechinc.com)** | **[Internship Opportunity: IT Support Intern](https://jobright.ai/jobs/info/68c5e2d27d0db4114273536b?utm_campaign=1058&utm_source=git)** | Washington, DC | Hybrid | Sep 13 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026: IT Service Now Internship](https://jobright.ai/jobs/info/68bd17b23bf9eb44f832698a?utm_campaign=1058&utm_source=git)** | Suwanee, GA | On Site | Sep 13 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern / AAU](https://jobright.ai/jobs/info/68956f0f8c6d6b4426779c6d?utm_campaign=1058&utm_source=git)** | Mequon, WI | On Site | Sep 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
