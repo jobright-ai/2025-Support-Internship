@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Newport News](https://nnva.gov)** | **[CITY INTERN– VET ASSISTANT (PRAS)](https://jobright.ai/jobs/info/68c93b62f9c6ff7aedf18d67?utm_campaign=1058&utm_source=git)** | Newport News, VA | On Site | Sep 16 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Generalist - Student Success - PAC - req12988 - T](https://jobright.ai/jobs/info/68c9304695f5211cd2cef49a?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Sep 16 |
 | **[University of Arkansas System](https://www.uasys.edu)** | **[Work-Study /ASK Desk Customer Service Representative (Multiple Open Positions)](https://jobright.ai/jobs/info/68c92f59a0c52d598ea3643e?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Sep 16 |
 | **[Novant Health Provider Recruitment ](https://www.novanthealth.org/careers/career-choices/physicians.aspx)** | **[Intern](https://jobright.ai/jobs/info/68c920ac95f5211cd2cef14a?utm_campaign=1058&utm_source=git)** | Charlotte, North Carolina | On Site | Sep 16 |
@@ -102,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Optum](https://www.optum.com/)** | **[Primary Care Physician - Family Medicine or Internal Medicine - Northern Washington State](https://jobright.ai/jobs/info/68c8facd95f5211cd2cec85c?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Sep 15 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[RX Grad Intern](https://jobright.ai/jobs/info/68c8f88895f5211cd2cec334?utm_campaign=1058&utm_source=git)** | Honolulu, HI | On Site | Sep 15 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Per Diem Pharmacy Intern; Mount Sinai Morningside](https://jobright.ai/jobs/info/68c46c50e471ef3ce16d5feb?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Sep 15 |
-| **[Costco Wholesale](https://www.costco.com/)** | **[RX Grad Intern](https://jobright.ai/jobs/info/68c9107f95f5211cd2cee1f7?utm_campaign=1058&utm_source=git)** | Gig Harbor, WA | On Site | Sep 15 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c913eca0c52d598ea351a6?utm_campaign=1058&utm_source=git)** | Leesburg, VA | On Site | Sep 15 |
+| **[Costco Wholesale](https://www.costco.com/)** | **[RX Grad Intern](https://jobright.ai/jobs/info/68c913eca0c52d598ea351a6?utm_campaign=1058&utm_source=git)** | Leesburg, VA | On Site | Sep 15 |
+| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c9107f95f5211cd2cee1f7?utm_campaign=1058&utm_source=git)** | Gig Harbor, WA | On Site | Sep 15 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c90fabf9c6ff7aedf1723b?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Sep 15 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c911b7f9c6ff7aedf17614?utm_campaign=1058&utm_source=git)** | Moreno Valley, CA | On Site | Sep 15 |
 | **[Optum](https://www.optum.com/)** | **[Primary Care Physician - Family Medicine or Internal Medicine - Northern Washington State](https://jobright.ai/jobs/info/68c90e43f9c6ff7aedf16ebe?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Sep 15 |
@@ -114,13 +115,13 @@ For a complete list, click the following sortable link below:
 | **[Costco Wholesale](https://www.costco.com/)** | **[RX Grad Intern](https://jobright.ai/jobs/info/68c909f6983e6768bc555fea?utm_campaign=1058&utm_source=git)** | Rancho Cucamonga, CA | On Site | Sep 15 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c91177f9c6ff7aedf17598?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Sep 15 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c91b5ef9c6ff7aedf18372?utm_campaign=1058&utm_source=git)** | Coeur d'Alene, ID | On Site | Sep 15 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c90d2995f5211cd2cedb88?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Sep 15 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c911c2f9c6ff7aedf17630?utm_campaign=1058&utm_source=git)** | Riverside, IL | On Site | Sep 15 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c911f2f9c6ff7aedf17741?utm_campaign=1058&utm_source=git)** | Melville, NY | On Site | Sep 15 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c90983983e6768bc555ec2?utm_campaign=1058&utm_source=git)** | Richmond, TX | On Site | Sep 15 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c91184f9c6ff7aedf175b4?utm_campaign=1058&utm_source=git)** | Asbury Park, NJ | On Site | Sep 15 |
+| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c90d2995f5211cd2cedb88?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Sep 15 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c909b3983e6768bc555f52?utm_campaign=1058&utm_source=git)** | Sugar Land, TX | On Site | Sep 15 |
+| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c90983983e6768bc555ec2?utm_campaign=1058&utm_source=git)** | Richmond, TX | On Site | Sep 15 |
+| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c911f2f9c6ff7aedf17741?utm_campaign=1058&utm_source=git)** | Melville, NY | On Site | Sep 15 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c90935983e6768bc555dc8?utm_campaign=1058&utm_source=git)** | East Lansing, MI | On Site | Sep 15 |
+| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c91184f9c6ff7aedf175b4?utm_campaign=1058&utm_source=git)** | Asbury Park, NJ | On Site | Sep 15 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c90f5b95f5211cd2cedff8?utm_campaign=1058&utm_source=git)** | Nashua, NH | On Site | Sep 15 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c908c8983e6768bc555c8e?utm_campaign=1058&utm_source=git)** | Livonia, MI | On Site | Sep 15 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c90997983e6768bc555f09?utm_campaign=1058&utm_source=git)** | Harrisburg, PA | On Site | Sep 15 |
@@ -129,15 +130,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c9107f95f5211cd2cee1f6?utm_campaign=1058&utm_source=git)** | Herriman, UT | On Site | Sep 15 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c90ee3f9c6ff7aedf17022?utm_campaign=1058&utm_source=git)** | Santa Maria, CA | On Site | Sep 15 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c90f6495f5211cd2cee013?utm_campaign=1058&utm_source=git)** | Eureka, CA | On Site | Sep 15 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c912cff9c6ff7aedf178cb?utm_campaign=1058&utm_source=git)** | Long Lake, MN | On Site | Sep 15 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c908f9983e6768bc555d26?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Sep 15 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c90c4a95f5211cd2ceda3a?utm_campaign=1058&utm_source=git)** | Nampa, ID | On Site | Sep 15 |
+| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c912cff9c6ff7aedf178cb?utm_campaign=1058&utm_source=git)** | Long Lake, MN | On Site | Sep 15 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c91413a0c52d598ea3520a?utm_campaign=1058&utm_source=git)** | Lubbock, TX | On Site | Sep 15 |
+| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68c908f9983e6768bc555d26?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Sep 15 |
 | **[National Museum of Women in the Arts](https://nmwa.org/)** | **[Library and Research Center Intern](https://jobright.ai/jobs/info/68c9164a95f5211cd2cee5e5?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Sep 15 |
 | **[Novant Health](https://www.novanthealth.org/)** | **[Intern](https://jobright.ai/jobs/info/68c8def6f9c6ff7aedf13a46?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Sep 15 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c8dc8c983e6768bc5528db?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Sep 15 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c8da03983e6768bc552346?utm_campaign=1058&utm_source=git)** | Wayne, NJ | On Site | Sep 15 |
-| **[Midland Memorial Hospital](https://www.midlandhealth.org)** | **[LVN Internship](https://jobright.ai/jobs/info/68c8d8b495f5211cd2ce9f6d?utm_campaign=1058&utm_source=git)** | Midland, TX | On Site | Sep 15 |
 | **[Jamf](http://jamf.com)** | **[Renewal Operations Intern](https://jobright.ai/jobs/info/68c8d7a9983e6768bc551db5?utm_campaign=1058&utm_source=git)** | Eau Claire, WI | On Site | Sep 15 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Pharmacy Intern (H)](https://jobright.ai/jobs/info/68c8d6ba95f5211cd2ce9b64?utm_campaign=1058&utm_source=git)** | St Charles, MO | On Site | Sep 15 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c8d3e2f9c6ff7aedf12e6d?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Sep 15 |
