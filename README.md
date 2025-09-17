@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Costco Wholesale](https://www.costco.com/)** | **[RX Grad Intern](https://jobright.ai/jobs/info/68ca498346caff4db51fc92a?utm_campaign=1058&utm_source=git)** | Tustin, CA | On Site | Sep 16 |
+| **[Intermountain Health](https://intermountainhealthcare.org)** | **[CT Tech Student PRN](https://jobright.ai/jobs/info/68ca44960456a931db29693b?utm_campaign=1058&utm_source=git)** | Layton, UT | On Site | Sep 16 |
+| **[Cogir Senior Living](https://www.cogirseniorliving.com)** | **[IT Helpdesk Analyst Intern](https://jobright.ai/jobs/info/68ca400cf61c922772a75e60?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Sep 16 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Microsoft Solutions Analyst - Minneapolis, MN](https://jobright.ai/jobs/info/68ca3f50f61c922772a75bfe?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Sep 16 |
+| ↳ | **[IT Service Management Intern - MN or CO](https://jobright.ai/jobs/info/68ca396ed4187c55157a84b0?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Sep 16 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Virtual Services Intern](https://jobright.ai/jobs/info/68ca38c8f16e3266d28254e3?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Sep 16 |
+| **[ASM Global](https://asmglobal.com/)** | **[Box Office Intern](https://jobright.ai/jobs/info/68ca3639f16e3266d2824d8e?utm_campaign=1058&utm_source=git)** | North Charleston, SC | On Site | Sep 16 |
 | **[O'Connell Electric Company](http://oconnellelectric.com)** | **[Client Support Intern](https://jobright.ai/jobs/info/68ca2938f61c922772a73894?utm_campaign=1058&utm_source=git)** | Victor, NY | On Site | Sep 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68ca27d5f16e3266d28234f0?utm_campaign=1058&utm_source=git)** | Cypress, TX | On Site | Sep 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ca264bf61c922772a735a9?utm_campaign=1058&utm_source=git)** | Staten Island, NY | On Site | Sep 16 |
@@ -74,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[GlobalFoundries](https://gf.com/)** | **[Customer Service Intern (Summer 2026)](https://jobright.ai/jobs/info/68ca10b4f61c922772a726e0?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Sep 16 |
 | **[Superior](http://superiorgroup.net)** | **[Information Technology Internship for Students - Fall 2025 (Full-Time/Part-Time)](https://jobright.ai/jobs/info/68ca0a85d4187c55157a593d?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Sep 16 |
 | **[Saint Joseph Mercy Health System](http://www.stjoeshealth.org)** | **[MRI Imaging Extern - Contingent](https://jobright.ai/jobs/info/68ca0a01d4187c55157a5863?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Sep 16 |
+| **[Trinity Health](http://www.trinity-health.org)** | **[MRI Imaging Extern - Contingent](https://jobright.ai/jobs/info/68ca3c3bd4187c55157a8b4f?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Sep 16 |
 | **[PanAgora Asset Management](http://www.panagora.com)** | **[Summer 2026 Intern – Client Services](https://jobright.ai/jobs/info/68ca079df16e3266d2821f65?utm_campaign=1058&utm_source=git)** | CO Greenwood Village | Hybrid | Sep 16 |
 | **[Cogir Senior Living](https://www.cogirseniorliving.com)** | **[IT Helpdesk Analyst Intern](https://jobright.ai/jobs/info/68ca06d2f16e3266d2821d81?utm_campaign=1058&utm_source=git)** | Scottsdale Corporate Office | On Site | Sep 16 |
 | **[Saint Francis Healthcare System](https://www.sfmc.net/)** | **[Intern- Nursing](https://jobright.ai/jobs/info/68ca0425d4187c55157a5364?utm_campaign=1058&utm_source=git)** | Cape Girardeau, MO | On Site | Sep 16 |
@@ -109,7 +117,7 @@ For a complete list, click the following sortable link below:
 | **[South Jersey Industries](https://www.sjindustries.com)** | **[Customer Experience Operations Intern](https://jobright.ai/jobs/info/68c9cf08a0c52d598ea3b8a6?utm_campaign=1058&utm_source=git)** | Atlantic City, NJ | Hybrid | Sep 16 |
 | **[Cox Enterprises](http://coxenterprises.com)** | **[TechHelp Enterprise Services Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68c9cbbc95f5211cd2cf4560?utm_campaign=1058&utm_source=git)** | Atlanta GA | Hybrid | Sep 16 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Microsoft Solutions Analyst - Minneapolis, MN](https://jobright.ai/jobs/info/68c9cba495f5211cd2cf4526?utm_campaign=1058&utm_source=git)** | Minneapolis, MN, 55401 | On Site | Sep 16 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68ca2eddf16e3266d2823de9?utm_campaign=1058&utm_source=git)** | Durant, OK | On Site | Sep 16 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68ca05cff61c922772a71f45?utm_campaign=1058&utm_source=git)** | Durant, OK | On Site | Sep 16 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68ca0443d4187c55157a537d?utm_campaign=1058&utm_source=git)** | Enid, OK | On Site | Sep 16 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68ca0468d4187c55157a53a2?utm_campaign=1058&utm_source=git)** | Stillwater, OK | On Site | Sep 16 |
 | **[California Department of Developmental Services](https://www.dds.ca.gov)** | **[STUDENT ASSISTANT](https://jobright.ai/jobs/info/68c9c52795f5211cd2cf40b5?utm_campaign=1058&utm_source=git)** | Tulare County, CA | On Site | Sep 16 |
@@ -145,16 +153,8 @@ For a complete list, click the following sortable link below:
 | **[City of Somerville](http://www.somervillema.gov)** | **[FabVille Lab Assistant](https://jobright.ai/jobs/info/68c99fcb95f5211cd2cf22c0?utm_campaign=1058&utm_source=git)** | Somerville, MA | On Site | Sep 16 |
 | **[Community First Credit Union - Appleton Wisconsin](https://cfparks.com/)** | **[IT Intern](https://jobright.ai/jobs/info/68c99f8aa0c52d598ea39045?utm_campaign=1058&utm_source=git)** | Neenah, WI | On Site | Sep 16 |
 | **[Meijer](https://www.meijer.com/)** | **[Pharmacy Intern - Year 1](https://jobright.ai/jobs/info/68c9ea4af9c6ff7aedf1f1e4?utm_campaign=1058&utm_source=git)** | Ohio, United States | On Site | Sep 16 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68c99bd3f9c6ff7aedf1b7df?utm_campaign=1058&utm_source=git)** | Missoula, MT | On Site | Sep 16 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c99b16a0c52d598ea38fe6?utm_campaign=1058&utm_source=git)** | Pinellas Park, FL | On Site | Sep 16 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c99b16a0c52d598ea38fe6?utm_campaign=1058&utm_source=git)** | Pinellas Park, FL | On Site | Sep 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c99af8f9c6ff7aedf1b655?utm_campaign=1058&utm_source=git)** | Duluth, MN | On Site | Sep 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c99ab7f9c6ff7aedf1b5cf?utm_campaign=1058&utm_source=git)** | Oradell, NJ | On Site | Sep 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c99a7ff9c6ff7aedf1b561?utm_campaign=1058&utm_source=git)** | St. Petersburg, FL | On Site | Sep 16 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68c99a4fa0c52d598ea38f15?utm_campaign=1058&utm_source=git)** | Jackson, NJ | On Site | Sep 16 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c999da95f5211cd2cf1fec?utm_campaign=1058&utm_source=git)** | Palm Harbor, FL | On Site | Sep 16 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68c999bba0c52d598ea38e7e?utm_campaign=1058&utm_source=git)** | Lakeville, MN | On Site | Sep 16 |
-| **[Authentic Brands Group](https://authentic.com)** | **[IT Support Fall Intern](https://jobright.ai/jobs/info/68c99956a0c52d598ea38e02?utm_campaign=1058&utm_source=git)** | New York, New York | Hybrid | Sep 16 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c99953a0c52d598ea38dfd?utm_campaign=1058&utm_source=git)** | St. Petersburg, FL | On Site | Sep 16 |
-| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/68c998fda0c52d598ea38d81?utm_campaign=1058&utm_source=git)** | Princeton, NJ | On Site | Sep 16 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68c998b295f5211cd2cf1e90?utm_campaign=1058&utm_source=git)** | Abilene, TX | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
