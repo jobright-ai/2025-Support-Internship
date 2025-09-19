@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Internship Food & Beverage/ Summer 2026](https://jobright.ai/jobs/info/68cd59da1ad6b16f028983f1?utm_campaign=1058&utm_source=git)** | US-NH-Bretton Woods | On Site | Sep 19 |
+| **[SSM Health](https://www.ssmhealth.com/)** | **[CT Student Intern](https://jobright.ai/jobs/info/68cd5906b2a74e1837ed5874?utm_campaign=1058&utm_source=git)** | Greater Madison Area | On Site | Sep 19 |
+| **[Lutron Electronics](http://www.lutron.com/)** | **[Summer 2026 - Information Technology Application Specialist Intern - Lehigh Valley (PA)](https://jobright.ai/jobs/info/68cd5330b2a74e1837ed5476?utm_campaign=1058&utm_source=git)** | US-PA-Coopersburg | On Site | Sep 19 |
+| **[ACHIEVE](https://www.achieveny.org)** | **[Intern / Volunteer](https://jobright.ai/jobs/info/68cd4ae5e23def7af55b7dc5?utm_campaign=1058&utm_source=git)** | Binghamton, NY | On Site | Sep 19 |
 | **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Respiratory Supply Intern / Le Bonheur / PRN / Day](https://jobright.ai/jobs/info/68cd426c1ad6b16f02897238?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Sep 19 |
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Radiology Technologist Intern (Casual) I AGH](https://jobright.ai/jobs/info/68cd388de23def7af55b6d1c?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Sep 19 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68cd37d7b2a74e1837ed3eb2?utm_campaign=1058&utm_source=git)** | Murray, UT | On Site | Sep 19 |
@@ -103,8 +107,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ccef86d11b445e0bee48e7?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Sep 18 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ccef785954791a1d701472?utm_campaign=1058&utm_source=git)** | Temecula, CA | On Site | Sep 18 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ccef3277add66568abc2d2?utm_campaign=1058&utm_source=git)** | Puyallup, WA | On Site | Sep 18 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ccef075954791a1d70138a?utm_campaign=1058&utm_source=git)** | Vancouver, WA | On Site | Sep 18 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ccef075954791a1d70138b?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Sep 18 |
+| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ccef075954791a1d70138a?utm_campaign=1058&utm_source=git)** | Vancouver, WA | On Site | Sep 18 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cceec877add66568abc1c6?utm_campaign=1058&utm_source=git)** | Federal Way, WA | On Site | Sep 18 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ccee9377add66568abc161?utm_campaign=1058&utm_source=git)** | Lawrence, NJ | On Site | Sep 18 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ccee2777add66568abc07c?utm_campaign=1058&utm_source=git)** | Roseville, MI | On Site | Sep 18 |
@@ -126,10 +130,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cd1a4db2a74e1837ed26c4?utm_campaign=1058&utm_source=git)** | Davenport, IA | On Site | Sep 18 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cd1cb91ad6b16f0289534e?utm_campaign=1058&utm_source=git)** | Los Alamitos, CA | On Site | Sep 18 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cd0bf61ad6b16f02893f87?utm_campaign=1058&utm_source=git)** | Marysville, CA | On Site | Sep 18 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ccff9b77add66568abd7bb?utm_campaign=1058&utm_source=git)** | San Dimas, CA | On Site | Sep 18 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ccfdfe5954791a1d70268d?utm_campaign=1058&utm_source=git)** | St Cloud, MN | On Site | Sep 18 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cd0961b2a74e1837ed1016?utm_campaign=1058&utm_source=git)** | Bellingham, WA | On Site | Sep 18 |
+| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ccff9b77add66568abd7bb?utm_campaign=1058&utm_source=git)** | San Dimas, CA | On Site | Sep 18 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ccffb1d11b445e0bee5de8?utm_campaign=1058&utm_source=git)** | Pharr, TX | On Site | Sep 18 |
+| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cd0961b2a74e1837ed1016?utm_campaign=1058&utm_source=git)** | Bellingham, WA | On Site | Sep 18 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ccff5977add66568abd74b?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Sep 18 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[I.T. Workstation Support Intern - Summer 2026](https://jobright.ai/jobs/info/68ccc1cea77e5d7d744f4da4?utm_campaign=1058&utm_source=git)** | Trenton, NJ | On Site | Sep 18 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Pharmacy Intern (H)](https://jobright.ai/jobs/info/689fdc3383d13d1f5b6cb8b6?utm_campaign=1058&utm_source=git)** | Greater St. Louis | On Site | Sep 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68cca312128dc347fd9279fc?utm_campaign=1058&utm_source=git)** | Hewitt, TX | On Site | Sep 18 |
 | **[Phillips Edison & Company](http://phillipsedison.com)** | **[Customer Experience Intern (Spring 2026)](https://jobright.ai/jobs/info/68cca26216d00d2beeb2245d?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Sep 18 |
 | **[Gallup](http://www.gallup.com)** | **[IT Help Desk/End-User Support Specialist Intern — Summer 2026](https://jobright.ai/jobs/info/68cca14b16d00d2beeb22390?utm_campaign=1058&utm_source=git)** | Omaha Riverfront | On Site | Sep 18 |
-| **[Suburban Inns](http://suburbaninns.com)** | **[Guest Service Representative](https://jobright.ai/jobs/info/68cc9c7c16d00d2beeb22064?utm_campaign=1058&utm_source=git)** | Midland, MI | On Site | Sep 18 |
-| **[Trustmark Bank](https://www.trustmark.com/)** | **[Co-Op Associate - IT; June 2026](https://jobright.ai/jobs/info/68ccc35cd99309000e5a2da6?utm_campaign=1058&utm_source=git)** | Ridgeland, MS | On Site | Sep 18 |
-| **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Grad Intern (Hrly)](https://jobright.ai/jobs/info/68cc9903128dc347fd92732e?utm_campaign=1058&utm_source=git)** | Emporia, KS | On Site | Sep 18 |
-| **[Gallup](http://www.gallup.com)** | **[IT Help Desk/End-User Support Specialist Intern — Summer 2026](https://jobright.ai/jobs/info/68cc965b16d00d2beeb21c29?utm_campaign=1058&utm_source=git)** | Omaha, NE | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
