@@ -77,8 +77,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68cedd7cfb49c96ca6ea3fca?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68cedd54fb49c96ca6ea3f87?utm_campaign=1058&utm_source=git)** | Baton Rouge, LA | On Site | Sep 20 |
 | ↳ | **[Duane Reade Pharmacy Intern](https://jobright.ai/jobs/info/68cedd40846f0b04af67d845?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Sep 20 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68cedd3dfb49c96ca6ea3f5b?utm_campaign=1058&utm_source=git)** | Woodruff, WI | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68cedd3dfb49c96ca6ea3f5c?utm_campaign=1058&utm_source=git)** | Monroe, LA | On Site | Sep 20 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68cedd3dfb49c96ca6ea3f5b?utm_campaign=1058&utm_source=git)** | Woodruff, WI | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68cedd29fb49c96ca6ea3f37?utm_campaign=1058&utm_source=git)** | New Orleans, LA | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68cedcf7dbd9fb154ede3551?utm_campaign=1058&utm_source=git)** | Covington, LA | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68cedcdc846f0b04af67d798?utm_campaign=1058&utm_source=git)** | Edina, MN | On Site | Sep 20 |
@@ -116,9 +116,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68cea12afb49c96ca6ea2345?utm_campaign=1058&utm_source=git)** | Pittsburg, CA | Hybrid | Sep 20 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68ce9fe5846f0b04af67b990?utm_campaign=1058&utm_source=git)** | San Mateo, CA | Hybrid | Sep 20 |
 | **[MyMichigan Health](https://www.mymichigan.org)** | **[Surgical Services College Intern](https://jobright.ai/jobs/info/68ced080fb49c96ca6ea3b47?utm_campaign=1058&utm_source=git)** | Saginaw, MI | On Site | Sep 20 |
+| **[Alta Equipment Company](https://www.altaequipment.com/)** | **[Service Technical Internship](https://jobright.ai/jobs/info/683919a7f9983f52ad0ef829?utm_campaign=1058&utm_source=git)** | Tallahassee, FL | On Site | Sep 20 |
 | **[WellSpan Health](https://www.wellspan.org/)** | **[Internist](https://jobright.ai/jobs/info/67f07b5ec2d841b76fca23f2?utm_campaign=1058&utm_source=git)** | Dover, PA | On Site | Sep 20 |
 | **[Safeway](http://www.safeway.com)** | **[2026 Pharmacy Graduate Intern](https://jobright.ai/jobs/info/689830cb83d13d1f5b68b597?utm_campaign=1058&utm_source=git)** | Boulder, CO | Hybrid | Sep 20 |
 | ↳ | **[2026 Pharmacy Graduate Intern](https://jobright.ai/jobs/info/68985a59faa4e875e824ef22?utm_campaign=1058&utm_source=git)** | Fort Lupton, CO | Hybrid | Sep 20 |
+| ↳ | **[2026 Pharmacy Graduate Intern](https://jobright.ai/jobs/info/68cd209a1ad6b16f0289552c?utm_campaign=1058&utm_source=git)** | Elizabeth, CO | Hybrid | Sep 20 |
 | ↳ | **[2026 Pharmacy Graduate Intern](https://jobright.ai/jobs/info/68cbc56fba798c1a501d51fe?utm_campaign=1058&utm_source=git)** | Ogallala, NE | Hybrid | Sep 20 |
 | **[MicroPrecision LLC](https://micro-precision.com)** | **[Customer Service Rep](https://jobright.ai/jobs/info/68ce91f3dbd9fb154ede0eb1?utm_campaign=1058&utm_source=git)** | Delavan, WI | On Site | Sep 20 |
 | **[H.I.G. Capital](https://hig.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/68b207dcbc187f64e1bd8e16?utm_campaign=1058&utm_source=git)** | Coral Gables, FL | On Site | Sep 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ce480b846f0b04af677c89?utm_campaign=1058&utm_source=git)** | Tracy, CA | On Site | Sep 19 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ce3f0c24dd5209002f0e32?utm_campaign=1058&utm_source=git)** | Perrysburg, OH | On Site | Sep 19 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ce3f0724dd5209002f0e2f?utm_campaign=1058&utm_source=git)** | East Peoria, IL | On Site | Sep 19 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ce3e6924dd5209002f0d99?utm_campaign=1058&utm_source=git)** | Merrillville, IN | On Site | Sep 19 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ce3e4124dd5209002f0d6d?utm_campaign=1058&utm_source=git)** | Azusa, CA | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
