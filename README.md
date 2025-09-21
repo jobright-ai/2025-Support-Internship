@@ -57,12 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Holcim Costa Rica](https://www.holcim.cr/)** | **[Pasante Recursos Humanos - San José](https://jobright.ai/jobs/info/68cf6acf846f0b04af681e41?utm_campaign=1058&utm_source=git)** | San José Metropolitan Area | On Site | Sep 20 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68cf5872fb49c96ca6ea7e12?utm_campaign=1058&utm_source=git)** | Lake City, SC | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68cf5457dbd9fb154ede6bd7?utm_campaign=1058&utm_source=git)** | Killeen, TX | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68cf5431dbd9fb154ede6b48?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Sep 20 |
-| **[Sidney Federal Credit Union](http://www.sfcuonline.org)** | **[Student MSR-I (Member Service Representative) Market Street](https://jobright.ai/jobs/info/68cf0ccedbd9fb154ede4c6c?utm_campaign=1058&utm_source=git)** | Oneonta, NY | On Site | Sep 20 |
-| ↳ | **[Student MSR-I (Member Service Representative) Amsterdam](https://jobright.ai/jobs/info/68cf0954fb49c96ca6ea56e2?utm_campaign=1058&utm_source=git)** | Amsterdam, NY | On Site | Sep 20 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68cf0465fb49c96ca6ea51cc?utm_campaign=1058&utm_source=git)** | McAlester, OK | On Site | Sep 20 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68cf0465fb49c96ca6ea51cc?utm_campaign=1058&utm_source=git)** | McAlester, OK | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68cf0459846f0b04af67ea84?utm_campaign=1058&utm_source=git)** | Myrtle Beach, SC | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68cf0397fb49c96ca6ea5030?utm_campaign=1058&utm_source=git)** | Little River, SC | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68cf034cdbd9fb154ede4590?utm_campaign=1058&utm_source=git)** | West Lafayette, IN | On Site | Sep 20 |
@@ -80,8 +79,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68cedd7cfb49c96ca6ea3fca?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68cedd54fb49c96ca6ea3f87?utm_campaign=1058&utm_source=git)** | Baton Rouge, LA | On Site | Sep 20 |
 | ↳ | **[Duane Reade Pharmacy Intern](https://jobright.ai/jobs/info/68cedd40846f0b04af67d845?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Sep 20 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68cedd3dfb49c96ca6ea3f5b?utm_campaign=1058&utm_source=git)** | Woodruff, WI | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68cedd3dfb49c96ca6ea3f5c?utm_campaign=1058&utm_source=git)** | Monroe, LA | On Site | Sep 20 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68cedd3dfb49c96ca6ea3f5b?utm_campaign=1058&utm_source=git)** | Woodruff, WI | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68cedd29fb49c96ca6ea3f37?utm_campaign=1058&utm_source=git)** | New Orleans, LA | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68cedcf7dbd9fb154ede3551?utm_campaign=1058&utm_source=git)** | Covington, LA | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68cedcdc846f0b04af67d798?utm_campaign=1058&utm_source=git)** | Edina, MN | On Site | Sep 20 |
@@ -141,8 +140,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ce4a26dbd9fb154edddb7d?utm_campaign=1058&utm_source=git)** | Lake Forest, IL | On Site | Sep 19 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ce4a11fb49c96ca6e9e7d3?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Sep 19 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ce4a01846f0b04af677f8c?utm_campaign=1058&utm_source=git)** | Waipahu, HI | On Site | Sep 19 |
-| **[HEICO](http://www.heico.com)** | **[IT Internship – Aviation Industry (Summer 2026)](https://jobright.ai/jobs/info/68ce49c4846f0b04af677f2f?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | Sep 19 |
-| **[Costco Wholesale](https://www.costco.com/)** | **[RX Grad Intern](https://jobright.ai/jobs/info/68ce49c1fb49c96ca6e9e76b?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Sep 19 |
+| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ce49c1fb49c96ca6e9e76b?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Sep 19 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ce49b5846f0b04af677f12?utm_campaign=1058&utm_source=git)** | Central Point, OR | On Site | Sep 19 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ce4997dbd9fb154edddaad?utm_campaign=1058&utm_source=git)** | Thousand Oaks, CA | On Site | Sep 19 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ce4978846f0b04af677ed2?utm_campaign=1058&utm_source=git)** | Granger, IN | On Site | Sep 19 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ce485bdbd9fb154eddd871?utm_campaign=1058&utm_source=git)** | Olympia, WA | On Site | Sep 19 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ce484b846f0b04af677ce8?utm_campaign=1058&utm_source=git)** | Menomonee Falls, WI | On Site | Sep 19 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ce483e846f0b04af677cdb?utm_campaign=1058&utm_source=git)** | Arlington, VA | On Site | Sep 19 |
+| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ce483d846f0b04af677cd6?utm_campaign=1058&utm_source=git)** | Livermore, CA | On Site | Sep 19 |
+| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68ce480b846f0b04af677c89?utm_campaign=1058&utm_source=git)** | Tracy, CA | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
