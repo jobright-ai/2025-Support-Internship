@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Medical Information](https://jobright.ai/jobs/info/68cfe7ca846f0b04af6860bd?utm_campaign=1058&utm_source=git)** | Bridgewater, NJ | Hybrid | Sep 21 |
+| **[AgriVision Equipment Group](https://www.agrivisionequipment.com/)** | **[2026 AVE Student Tech Program](https://jobright.ai/jobs/info/68cfe351846f0b04af685e22?utm_campaign=1058&utm_source=git)** | Iowa, United States | On Site | Sep 21 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Student Web Support Assistant - Student Employment](https://jobright.ai/jobs/info/68cfc012dbd9fb154edea979?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Sep 21 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[RX Grad Intern](https://jobright.ai/jobs/info/68cfa89f846f0b04af683b35?utm_campaign=1058&utm_source=git)** | Glen Mills, PA | On Site | Sep 21 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cfa46e846f0b04af6838e9?utm_campaign=1058&utm_source=git)** | South San Francisco, CA | On Site | Sep 21 |
@@ -127,8 +129,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68cedd7cfb49c96ca6ea3fca?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68cedd54fb49c96ca6ea3f87?utm_campaign=1058&utm_source=git)** | Baton Rouge, LA | On Site | Sep 20 |
 | ↳ | **[Duane Reade Pharmacy Intern](https://jobright.ai/jobs/info/68cedd40846f0b04af67d845?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Sep 20 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68cedd3dfb49c96ca6ea3f5b?utm_campaign=1058&utm_source=git)** | Woodruff, WI | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68cedd3dfb49c96ca6ea3f5c?utm_campaign=1058&utm_source=git)** | Monroe, LA | On Site | Sep 20 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68cedd3dfb49c96ca6ea3f5b?utm_campaign=1058&utm_source=git)** | Woodruff, WI | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68cedd29fb49c96ca6ea3f37?utm_campaign=1058&utm_source=git)** | New Orleans, LA | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68cedcf7dbd9fb154ede3551?utm_campaign=1058&utm_source=git)** | Covington, LA | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68cedcdc846f0b04af67d798?utm_campaign=1058&utm_source=git)** | Edina, MN | On Site | Sep 20 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/68cf0818dbd9fb154ede4890?utm_campaign=1058&utm_source=git)** | Lake Havasu City, AZ | On Site | Sep 20 |
 | **[Thrifty White Pharmacy](http://thriftywhite.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ceec76dbd9fb154ede3a31?utm_campaign=1058&utm_source=git)** | Cloquet, MN | On Site | Sep 20 |
 | **[TriStar Summit Medical Center](https://tristarhealth.com/)** | **[Surgical Technologist Extern PRN](https://jobright.ai/jobs/info/68075085440b517b1425bf20?utm_campaign=1058&utm_source=git)** | Hermitage, TN | On Site | Sep 20 |
+| **[Nebraska Methodist Health System](https://bestcare.org/)** | **[Student Rad Tech - Casual/PRN](https://jobright.ai/jobs/info/687a92e32097a271a897fc37?utm_campaign=1058&utm_source=git)** | Fremont, NE | On Site | Sep 20 |
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68ceaf83846f0b04af67c475?utm_campaign=1058&utm_source=git)** | Katy, TX | On Site | Sep 20 |
-| **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68ceac0cfb49c96ca6ea2c30?utm_campaign=1058&utm_source=git)** | Daly City, CA | Hybrid | Sep 20 |
-| **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - Wm](https://jobright.ai/jobs/info/68ceaaf1846f0b04af67c337?utm_campaign=1058&utm_source=git)** | Alexander City, AL | On Site | Sep 20 |
-| **[Wurth Elektronik](https://www.we-ics.com)** | **[Warehouse Intern](https://jobright.ai/jobs/info/68784dbd5cebcd1dd51d93f6?utm_campaign=1058&utm_source=git)** | Watertown, SD | On Site | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
