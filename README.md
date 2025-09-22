@@ -73,7 +73,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cf9f61fb49c96ca6ea9ed4?utm_campaign=1058&utm_source=git)** | Everett, MA | On Site | Sep 20 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cf9ed4fb49c96ca6ea9dd0?utm_campaign=1058&utm_source=git)** | Auburn Hills, MI | On Site | Sep 20 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cf9e67fb49c96ca6ea9d2c?utm_campaign=1058&utm_source=git)** | Waterbury, CT | On Site | Sep 20 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cf9e2bfb49c96ca6ea9cda?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Sep 20 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cf9d12846f0b04af6834cc?utm_campaign=1058&utm_source=git)** | Napa, CA | On Site | Sep 20 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cf9a31fb49c96ca6ea9b3d?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Sep 20 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cf9a0adbd9fb154ede907f?utm_campaign=1058&utm_source=git)** | South Windsor, CT | On Site | Sep 20 |
@@ -82,8 +81,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cf9824846f0b04af6832c3?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Sep 20 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cf96fadbd9fb154ede9060?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | Sep 20 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cf96d1dbd9fb154ede9033?utm_campaign=1058&utm_source=git)** | Inglewood, CA | On Site | Sep 20 |
-| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cf96cadbd9fb154ede9020?utm_campaign=1058&utm_source=git)** | Farragut, TN | On Site | Sep 20 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cf96cadbd9fb154ede9021?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | Sep 20 |
+| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cf96cadbd9fb154ede9020?utm_campaign=1058&utm_source=git)** | Farragut, TN | On Site | Sep 20 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cf9685dbd9fb154ede8fc9?utm_campaign=1058&utm_source=git)** | New Britain, CT | On Site | Sep 20 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cf9637dbd9fb154ede8f56?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Sep 20 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cf962edbd9fb154ede8f40?utm_campaign=1058&utm_source=git)** | Lake Stevens, WA | On Site | Sep 20 |
@@ -102,6 +101,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cf925fdbd9fb154ede8e25?utm_campaign=1058&utm_source=git)** | Allen, TX | On Site | Sep 20 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cf9216dbd9fb154ede8dc3?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Sep 20 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cf91e5dbd9fb154ede8d94?utm_campaign=1058&utm_source=git)** | Chula Vista, CA | On Site | Sep 20 |
+| ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cf90dcfb49c96ca6ea978a?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Sep 20 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cf908a846f0b04af682fff?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Sep 20 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cf9040846f0b04af682fae?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Sep 20 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68cf8f68846f0b04af682eac?utm_campaign=1058&utm_source=git)** | Sharpsburg, GA | On Site | Sep 20 |
@@ -119,7 +119,10 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68cf5872fb49c96ca6ea7e12?utm_campaign=1058&utm_source=git)** | Lake City, SC | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68cf5457dbd9fb154ede6bd7?utm_campaign=1058&utm_source=git)** | Killeen, TX | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68cf5431dbd9fb154ede6b48?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Sep 20 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68cf0465fb49c96ca6ea51cc?utm_campaign=1058&utm_source=git)** | McAlester, OK | On Site | Sep 20 |
+| **[Sam's Club](http://www.samsclub.com)** | **[Pre Grad Intern - Sam's part-time hourly](https://jobright.ai/jobs/info/68b0ec3db47fb001d689677c?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Sep 20 |
+| **[Albertsons Market](https://www.theunitedfamily.com/albertsons-market-careers/)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/67cd0ae17e0edf3f93cffa5b?utm_campaign=1058&utm_source=git)** | Ridgecrest, CA | Hybrid | Sep 20 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/689757e673b3a600fe897450?utm_campaign=1058&utm_source=git)** | Renton, WA | Hybrid | Sep 20 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68cf0465fb49c96ca6ea51cc?utm_campaign=1058&utm_source=git)** | McAlester, OK | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68cf0459846f0b04af67ea84?utm_campaign=1058&utm_source=git)** | Myrtle Beach, SC | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68cf0397fb49c96ca6ea5030?utm_campaign=1058&utm_source=git)** | Little River, SC | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68cf034cdbd9fb154ede4590?utm_campaign=1058&utm_source=git)** | West Lafayette, IN | On Site | Sep 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68cedc3edbd9fb154ede340c?utm_campaign=1058&utm_source=git)** | Grand Prairie, TX | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68cedc35846f0b04af67d67b?utm_campaign=1058&utm_source=git)** | Weston, FL | On Site | Sep 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68cedc28dbd9fb154ede33f2?utm_campaign=1058&utm_source=git)** | Grand Prairie, TX | On Site | Sep 20 |
-| **[Virginia Mason Franciscan Health](https://www.virginiamason.org)** | **[Student Radiologic Tech](https://jobright.ai/jobs/info/68cedc02846f0b04af67d609?utm_campaign=1058&utm_source=git)** | Silverdale, WA | On Site | Sep 20 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68cedbfddbd9fb154ede33a9?utm_campaign=1058&utm_source=git)** | Amherst, NY | On Site | Sep 20 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68cedbee846f0b04af67d5e7?utm_campaign=1058&utm_source=git)** | Sugar Land, TX | On Site | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
