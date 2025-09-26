@@ -57,7 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[University of Maryland Medical System](http://www.umms.org)** | **[MS IT Helpdesk Specialist Intern](https://jobright.ai/jobs/info/68d6eb77894705799a2eec2e?utm_campaign=1058&utm_source=git)** | Columbia Data Center | On Site | Sep 26 |
+| **[AbbVie](https://www.abbvie.com)** | **[2026 Supply Chain Customer Service Intern](https://jobright.ai/jobs/info/68d707fc894705799a2efef7?utm_campaign=1058&utm_source=git)** | North Chicago, IL | On Site | Sep 26 |
+| **[Detroit Medical Center](http://www.dmc.org/)** | **[Student Rad Tech Contingent Rotate](https://jobright.ai/jobs/info/68d707f945853d0e39ccc408?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Sep 26 |
+| **[Freeport-McMoRan](https://fcx.com)** | **[2025 School Year Internship - Corporate Services - Facilities](https://jobright.ai/jobs/info/68d7062345853d0e39ccc22e?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Sep 26 |
+| **[Ibotta](https://home.ibotta.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68d6ff40d3fe025a3015dd2e?utm_campaign=1058&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
+| **[Spotlight | Analyst Relations](https://spotlightar.com/)** | **[Client Team Intern — Summer '26](https://jobright.ai/jobs/info/68d6fe27894705799a2ef6b3?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Sep 26 |
+| **[David Weekley Homes](http://www.davidweekleyhomes.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/68d6f9b745853d0e39ccb6ff?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Sep 26 |
+| **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68d6f80b45853d0e39ccb469?utm_campaign=1058&utm_source=git)** | Griffin, GA | On Site | Sep 26 |
+| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Intern Summer 2026 - Front Desk Agent](https://jobright.ai/jobs/info/68d6f755d3fe025a3015d77e?utm_campaign=1058&utm_source=git)** | Carlsbad, CA | On Site | Sep 26 |
+| **[DirectRx](https://www.directrx.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68d6f2e645853d0e39ccb365?utm_campaign=1058&utm_source=git)** | Troy, MI | On Site | Sep 26 |
+| **[ConnectFor](https://connectfor.org)** | **[Documentation and Data Entry Volunteer](https://jobright.ai/jobs/info/68d6f26945853d0e39ccb2ee?utm_campaign=1058&utm_source=git)** | Delhi, IA | On Site | Sep 26 |
+| **[Prisma Health](https://www.prismahealth.org)** | **[Pharmacy Intern: Childrens Hospital (PRN, Richland Campus)](https://jobright.ai/jobs/info/68d6f11245853d0e39ccb26d?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Sep 26 |
+| **[University of Maryland Medical System](http://www.umms.org)** | **[MS IT Helpdesk Specialist Intern](https://jobright.ai/jobs/info/68d6ee63894705799a2eede9?utm_campaign=1058&utm_source=git)** | Columbia, MD | On Site | Sep 26 |
+| ↳ | **[MS IT Helpdesk Specialist Intern](https://jobright.ai/jobs/info/68d6eb77894705799a2eec2e?utm_campaign=1058&utm_source=git)** | Columbia Data Center | On Site | Sep 26 |
 | **[PeakMade Real Estate](https://peakmade.com)** | **[Guest Service Intern (76630)](https://jobright.ai/jobs/info/68d6ea4f894705799a2eeb18?utm_campaign=1058&utm_source=git)** | Chicago, IL, USA | On Site | Sep 26 |
 | **[Amica Center for Immigrant Rights](https://www.caircoalition.org)** | **[Undergraduate Internship- Detention Hotline](https://jobright.ai/jobs/info/68d6e460d3fe025a3015ce31?utm_campaign=1058&utm_source=git)** | Washington, DC | Remote | Sep 26 |
 | **[Arconic](https://www.arconic.com)** | **[IT Intern](https://jobright.ai/jobs/info/68d6e37c894705799a2ee6a5?utm_campaign=1058&utm_source=git)** | 201 Isabella Street, Pittsburgh, PA, 15212, US | On Site | Sep 26 |
@@ -108,16 +120,15 @@ For a complete list, click the following sortable link below:
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68d63affebcef82ef5cf802f?utm_campaign=1058&utm_source=git)** | North Bend, WA | On Site | Sep 25 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68d67c64d3fe025a3015a14a?utm_campaign=1058&utm_source=git)** | Buffalo, MN | On Site | Sep 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68d67e4f45853d0e39cc7fe5?utm_campaign=1058&utm_source=git)** | Rogers, MN | On Site | Sep 25 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68d67e5f45853d0e39cc7feb?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Sep 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68d67fce894705799a2ebdf1?utm_campaign=1058&utm_source=git)** | White Bear Lake, MN | On Site | Sep 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68d67dcd894705799a2ebdd5?utm_campaign=1058&utm_source=git)** | Maple Grove, MN | On Site | Sep 25 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68d67eb045853d0e39cc8003?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Sep 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68d67ce6d3fe025a3015a174?utm_campaign=1058&utm_source=git)** | Chanhassen, MN | On Site | Sep 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68d67e7445853d0e39cc7ff2?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Sep 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68d67e5e45853d0e39cc7fea?utm_campaign=1058&utm_source=git)** | Stillwater, MN | On Site | Sep 25 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Undergraduate IT Support](https://jobright.ai/jobs/info/68d616d763d77d6f6f3f5213?utm_campaign=1058&utm_source=git)** | Auburn, AL | On Site | Sep 25 |
 | **[Corning Incorporated](https://www.corning.com/)** | **[IT Intern, ServiceNow Platform - Summer 2026](https://jobright.ai/jobs/info/68d614df63d77d6f6f3f48e9?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Sep 25 |
 | **[University of Arkansas System](https://www.uasys.edu)** | **[Graduate Assistant - CBHHS-1](https://jobright.ai/jobs/info/68d6141763d77d6f6f3f46e7?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Sep 25 |
-| **[Rochester Regional Health](https://www.rochesterregional.org)** | **[P1 Pharmacy Intern](https://jobright.ai/jobs/info/68d63b6d894705799a2e91c3?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | Sep 25 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern, End-User Engagement](https://jobright.ai/jobs/info/68d19fe8cece431f8b586027?utm_campaign=1058&utm_source=git)** | United States | Remote | Sep 25 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Paid Internship (College Station, TX)](https://jobright.ai/jobs/info/68d62f65894705799a2e87a9?utm_campaign=1058&utm_source=git)** | College Station, TX | On Site | Sep 25 |
 | ↳ | **[Paid Internship (Spring, TX)](https://jobright.ai/jobs/info/68d63442894705799a2e8941?utm_campaign=1058&utm_source=git)** | Spring, TX | On Site | Sep 25 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Radiology Tech - Student](https://jobright.ai/jobs/info/68d64127ebcef82ef5cf8a17?utm_campaign=1058&utm_source=git)** | Ogden, UT | On Site | Sep 25 |
 | **[Savannah Ghost Pirates](http://ghostpirateshockey.com)** | **[Fan Services Game Day Intern](https://jobright.ai/jobs/info/68d6e932d3fe025a3015cf9d?utm_campaign=1058&utm_source=git)** | Savannah, GA | On Site | Sep 25 |
 | **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Intern- IT](https://jobright.ai/jobs/info/68d5d6d52116ff37ee090a51?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Sep 25 |
-| **[City of New York](http://www1.nyc.gov)** | **[College Aide](https://jobright.ai/jobs/info/68d5d4b163d77d6f6f3f2a09?utm_campaign=1058&utm_source=git)** | Manhattan, NY | On Site | Sep 25 |
-| **[Bernalillo County](https://www.bernco.gov/)** | **[IT Intern (This is NOT a remote position)](https://jobright.ai/jobs/info/68d5d3b51f7fb2169ab1409c?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | Hybrid | Sep 25 |
-| **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Information & Technology Post Bachelor's Student Internship](https://jobright.ai/jobs/info/68d5f1331f7fb2169ab14d89?utm_campaign=1058&utm_source=git)** | Los Alamos, NM | On Site | Sep 25 |
-| **[AT Home Care](https://athomecareandhospice.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68d5d2f063d77d6f6f3f2871?utm_campaign=1058&utm_source=git)** | US-CO-ENGLEWOOD | On Site | Sep 25 |
-| **[DMI](http://dminc.com)** | **[Intern](https://jobright.ai/jobs/info/68d5d26063d77d6f6f3f2825?utm_campaign=1058&utm_source=git)** | US-VA-McLean | Hybrid | Sep 25 |
-| **[WGI](https://wginc.com/)** | **[Intern - Technical Writing Summer 2026](https://jobright.ai/jobs/info/68d5c9fe1f7fb2169ab13b8c?utm_campaign=1058&utm_source=git)** | US-FL-Winter Springs | On Site | Sep 25 |
-| **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Information Services Apprentice](https://jobright.ai/jobs/info/68d5c75563d77d6f6f3f23b4?utm_campaign=1058&utm_source=git)** | United States | Remote | Sep 25 |
-| **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Intern](https://jobright.ai/jobs/info/68d5c6871f7fb2169ab13b16?utm_campaign=1058&utm_source=git)** | California - Los Angeles | On Site | Sep 25 |
-| **[Boston Public Schools](https://madisonpark.bostonpublicschools.org/)** | **[Student Intern SY25-26](https://jobright.ai/jobs/info/68d5c5ef2116ff37ee090235?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Sep 25 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68d63b86894705799a2e91f3?utm_campaign=1058&utm_source=git)** | Canton, GA | On Site | Sep 25 |
-| **[Sompo](https://www.sompo-intl.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68d5c52c1f7fb2169ab139a0?utm_campaign=1058&utm_source=git)** | Purchase, NY | Hybrid | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
