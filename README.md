@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Livonia](https://livonia.gov)** | **[Student Page](https://jobright.ai/jobs/info/68d857fb295f8e37655e70b7?utm_campaign=1058&utm_source=git)** | Livonia, MI | On Site | Sep 27 |
+| **[Gladwell Orthodontics](https://gladwellorthodontics.com/)** | **[Barista/Front Office Staff Intern](https://jobright.ai/jobs/info/68d857a47796a83635f10a9e?utm_campaign=1058&utm_source=git)** | Wake Forest, NC | On Site | Sep 27 |
 | **[Brazos River Authority](http://www.brazos.org)** | **[IT Technician Intern](https://jobright.ai/jobs/info/68d821e6295f8e37655e5a0d?utm_campaign=1058&utm_source=git)** | Waco, TX | On Site | Sep 27 |
 | **[JSOC IT, Inc](https://www.jsocit.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68d820137a37c712687d8666?utm_campaign=1058&utm_source=git)** | NYC Metro Area | Hybrid | Sep 27 |
 | **[Mercyhealth Wisconsin and Illinois](https://mercyhealthsystem.org)** | **[Student Nurse Intern, Medical Surgical](https://jobright.ai/jobs/info/68d80c4f7a37c712687d7fc4?utm_campaign=1058&utm_source=git)** | IL-Rockford | Hybrid | Sep 27 |
@@ -72,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[HCA Houston Healthcare](http://hcagulfcoast.com)** | **[Surgical Tech Extern PRN](https://jobright.ai/jobs/info/689e8468faa4e875e827d549?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Sep 27 |
 | **[Plymouth Physical Therapy Specialists](https://www.plymouthpts.com)** | **[Physical Therapy Tech](https://jobright.ai/jobs/info/68d7ef7a295f8e37655e419e?utm_campaign=1058&utm_source=git)** | Fernandina Beach, FL | On Site | Sep 27 |
 | ↳ | **[Physical Therapy Tech](https://jobright.ai/jobs/info/68d7ee477a37c712687d7234?utm_campaign=1058&utm_source=git)** | Mansfield, TX | On Site | Sep 27 |
+| **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68d45765ffc1276de3fd9d6a?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Sep 27 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68d7ebf6295f8e37655e3f03?utm_campaign=1058&utm_source=git)** | Loudonville, NY | On Site | Sep 27 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Desktop Support Analyst Intern](https://jobright.ai/jobs/info/68bb7de25f3832749186f823?utm_campaign=1058&utm_source=git)** | Niles, IL | Hybrid | Sep 27 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68d7eaa67a37c712687d6fb3?utm_campaign=1058&utm_source=git)** | Brewer, ME | On Site | Sep 27 |
@@ -137,9 +140,9 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern (CT)](https://jobright.ai/jobs/info/68d73a1945853d0e39ccdae7?utm_campaign=1058&utm_source=git)** | US-WI-Brookfield | On Site | Sep 26 |
 | **[Virginia Mason Franciscan Health](https://www.virginiamason.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68d756b07a37c712687c9172?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Sep 26 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68d7574c295f8e37655d53d2?utm_campaign=1058&utm_source=git)** | Hyattsville, MD | Hybrid | Sep 26 |
-| ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68d757f561a175619f8c9283?utm_campaign=1058&utm_source=git)** | Oxon Hill, MD | Hybrid | Sep 26 |
-| ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68d758f261a175619f8c98d3?utm_campaign=1058&utm_source=git)** | Greenbelt, MD | Hybrid | Sep 26 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68d757a661a175619f8c8e38?utm_campaign=1058&utm_source=git)** | Bethesda, MD | Hybrid | Sep 26 |
+| ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68d758f261a175619f8c98d3?utm_campaign=1058&utm_source=git)** | Greenbelt, MD | Hybrid | Sep 26 |
+| ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68d757f561a175619f8c9283?utm_campaign=1058&utm_source=git)** | Oxon Hill, MD | Hybrid | Sep 26 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68d75594295f8e37655d48c8?utm_campaign=1058&utm_source=git)** | Tucson, AZ | Hybrid | Sep 26 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68d75687295f8e37655d4e88?utm_campaign=1058&utm_source=git)** | Ellicott City, MD | Hybrid | Sep 26 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68d75545295f8e37655d4511?utm_campaign=1058&utm_source=git)** | Arnold, MD | Hybrid | Sep 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ebenezer](https://www.ebenezercares.org/)** | **[Pharmacy Intern - Inpatient; 1st Year](https://jobright.ai/jobs/info/68d7549261a175619f8c85be?utm_campaign=1058&utm_source=git)** | Edina, Minnesota | On Site | Sep 26 |
 | **[Computershare](https://www.computershare.com/)** | **[Internship - Client Administrator](https://jobright.ai/jobs/info/68d7193b45853d0e39cccd89?utm_campaign=1058&utm_source=git)** | 1325 Remington Blvd, Bolingbrook, IL, 60490, US | Hybrid | Sep 26 |
 | **[Brevard Public Schools](http://www.brevardschools.org)** | **[INTERN-F&N SERVICES](https://jobright.ai/jobs/info/68d7154145853d0e39ccccb2?utm_campaign=1058&utm_source=git)** | Jamieson, OR | On Site | Sep 26 |
-| **[Gordon Food Service](https://www.gfs.com)** | **[Technology Data & Support Internship](https://jobright.ai/jobs/info/68d7129d45853d0e39cccacf?utm_campaign=1058&utm_source=git)** | Wyoming, Michigan | On Site | Sep 26 |
-| **[Computershare Canada](http://www.computershare.com/ca/en)** | **[Internship - Client Administrator](https://jobright.ai/jobs/info/68d711f045853d0e39ccca44?utm_campaign=1058&utm_source=git)** | 1325 Remington Blvd, Bolingbrook, IL, 60490, US | Hybrid | Sep 26 |
-| **[Willis Knighton Health](https://wkhs.com/)** | **[Surgical Technologist - Student](https://jobright.ai/jobs/info/68d74955f9dbe42bf62c1250?utm_campaign=1058&utm_source=git)** | Louisiana, United States | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
