@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wellstar Health System](https://www.wellstar.org)** | **[Pharmacy Tech Intern - Inpatient - Augusta, GA](https://jobright.ai/jobs/info/68d9f5469a8e451a446a5a60?utm_campaign=1058&utm_source=git)** | Wellstar MCG Health | On Site | Sep 28 |
 | **[Lakefield Veterinary Group](https://www.lakefieldvet.com/)** | **[Internist](https://jobright.ai/jobs/info/68d981b6061b716fa295a605?utm_campaign=1058&utm_source=git)** | Springfield, OR | On Site | Sep 28 |
 | **[Oregon Health & Science University](http://www.ohsu.edu/)** | **[Radiologic Technologist - Student Flex](https://jobright.ai/jobs/info/68d7588861a175619f8c962c?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Sep 28 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68d94a4f022fc803b4877006?utm_campaign=1058&utm_source=git)** | Niles, IL | On Site | Sep 28 |
@@ -94,7 +95,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68d89c4422308b3db35ea4f0?utm_campaign=1058&utm_source=git)** | Clarkston, WA | On Site | Sep 27 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68d89c3c6c1d856b1b93ae78?utm_campaign=1058&utm_source=git)** | Hialeah, FL | On Site | Sep 27 |
 | ↳ | **[RX Grad Intern](https://jobright.ai/jobs/info/68d89c2e22308b3db35ea4c6?utm_campaign=1058&utm_source=git)** | North Wales, PA | On Site | Sep 27 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/68d8997722308b3db35ea3f5?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Sep 27 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/68d893bf22308b3db35ea250?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Sep 27 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pharmacy Intern (On-Call)](https://jobright.ai/jobs/info/68d8865ac9952514e1e95b59?utm_campaign=1058&utm_source=git)** | Stockton, CA | On Site | Sep 27 |
 | **[St. Christopher's Hospital for Children](https://towerhealth.org/locations/st-christophers-hospital-children)** | **[Nurse Intern II - PICU](https://jobright.ai/jobs/info/68d77707295f8e37655da973?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Sep 27 |
 | **[Brazos River Authority](http://www.brazos.org)** | **[IT Technician Intern](https://jobright.ai/jobs/info/68d821e6295f8e37655e5a0d?utm_campaign=1058&utm_source=git)** | Waco, TX | On Site | Sep 27 |
@@ -137,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Physical Therapy Specialists](https://www.plymouthpts.com)** | **[Physical Therapy Tech](https://jobright.ai/jobs/info/68d7ef7a295f8e37655e419e?utm_campaign=1058&utm_source=git)** | Fernandina Beach, FL | On Site | Sep 27 |
 | **[Hatch](https://www.hatch.com)** | **[IT Service Desk Technician Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb40025f3832749186daf3?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 27 |
 | **[Plymouth Physical Therapy Specialists](https://www.plymouthpts.com)** | **[Physical Therapy Tech](https://jobright.ai/jobs/info/68d7ee477a37c712687d7234?utm_campaign=1058&utm_source=git)** | Mansfield, TX | On Site | Sep 27 |
+| **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68d45765ffc1276de3fd9d6a?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Sep 27 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68d7ebf6295f8e37655e3f03?utm_campaign=1058&utm_source=git)** | Loudonville, NY | On Site | Sep 27 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Desktop Support Analyst Intern](https://jobright.ai/jobs/info/68bb7de25f3832749186f823?utm_campaign=1058&utm_source=git)** | Niles, IL | Hybrid | Sep 27 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68d8aaa6eed6e340d9e1c4e6?utm_campaign=1058&utm_source=git)** | Richland, WA | On Site | Sep 27 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68d7e6277796a83635f0d0ef?utm_campaign=1058&utm_source=git)** | Roscoe, IL | On Site | Sep 27 |
 | **[Dexter](https://www.dexteraxle.com/)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/68cd6f2ab2a74e1837ed6dec?utm_campaign=1058&utm_source=git)** | Elkhart, IN | On Site | Sep 27 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68d7e31b7a37c712687d6747?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Sep 27 |
-| ↳ | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68d45c6d8c62e63bc7fe8b0d?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Sep 27 |
 | **[Northshore Home Health Care](http://www.northshorehomehealth.com)** | **[Locum Internist](https://jobright.ai/jobs/info/68d7e2967a37c712687d6552?utm_campaign=1058&utm_source=git)** | California, United States | On Site | Sep 27 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68bd61a5e57feb02eb0ab9fa?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Sep 27 |
 | ↳ | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68d7df0e295f8e37655e327f?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Sep 27 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68d7dc6b7796a83635f0c7c4?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Sep 27 |
-| **[Swedish](http://www.swedish.org/)** | **[Radiology Technologist Student](https://jobright.ai/jobs/info/68d7d8b77796a83635f0c5e7?utm_campaign=1058&utm_source=git)** | Edmonds, WA | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
