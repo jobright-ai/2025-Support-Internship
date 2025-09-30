@@ -57,7 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Customer Experience Strategy](https://jobright.ai/jobs/info/68dc165797329f2f773228b6?utm_campaign=1058&utm_source=git)** | Elmira, NY | On Site | Sep 30 |
+| **[Albertsons Market](https://www.theunitedfamily.com/albertsons-market-careers/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68dc324966059a42a715c6d0?utm_campaign=1058&utm_source=git)** | Denver, CO | Hybrid | Sep 30 |
+| **[Losey](https://www.loseyinsurance.com)** | **[Internship](https://jobright.ai/jobs/info/68dc2e2997329f2f77323463?utm_campaign=1058&utm_source=git)** | Baton Rouge, LA | On Site | Sep 30 |
+| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/68dc2e1466059a42a715c5c5?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Sep 30 |
+| **[Lutheran Health Network](http://www.lutheranhealth.net)** | **[Nurse Intern](https://jobright.ai/jobs/info/68dc2a5c97329f2f773232c2?utm_campaign=1058&utm_source=git)** | Warsaw, IN | On Site | Sep 30 |
+| **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Hospitality Intern - Culinary](https://jobright.ai/jobs/info/68dc29ff66059a42a715c3bd?utm_campaign=1058&utm_source=git)** | Williamsburg, VA | On Site | Sep 30 |
+| **[Lumicera Health Services](https://www.lumicera.com/)** | **[Clinical Intern, Specialty Pharmacy](https://jobright.ai/jobs/info/68dc29b066059a42a715c2b9?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Sep 30 |
+| **[WellSpan Health](https://www.wellspan.org/)** | **[Imaging Intern - Computed Tomography - Rotating](https://jobright.ai/jobs/info/68dc1da897329f2f77322bf2?utm_campaign=1058&utm_source=git)** | Lebanon, PA | On Site | Sep 30 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Customer Care Internship](https://jobright.ai/jobs/info/68dc1d8697329f2f77322bc3?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | Hybrid | Sep 30 |
+| **[State of Missouri](http://mo.gov)** | **[2026 Summer Intern - Springfield Information Systems](https://jobright.ai/jobs/info/68dc1c6166059a42a715bb87?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Sep 30 |
+| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Customer Experience Strategy](https://jobright.ai/jobs/info/68dc18cfd6470e72cf4d8a6b?utm_campaign=1058&utm_source=git)** | Binghamton, NY | On Site | Sep 30 |
+| ↳ | **[College Intern I - Summer 2026 - Customer Experience Strategy](https://jobright.ai/jobs/info/68dc18c5d6470e72cf4d8a5b?utm_campaign=1058&utm_source=git)** | DeWitt, NY | On Site | Sep 30 |
+| ↳ | **[College Intern I - Summer 2026 - Customer Experience Strategy](https://jobright.ai/jobs/info/68dc165797329f2f773228b6?utm_campaign=1058&utm_source=git)** | Elmira, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Customer Experience Strategy](https://jobright.ai/jobs/info/68dc16386f6c5c3fadf36621?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | Sep 30 |
 | ↳ | **[College Intern I - Summer 2026 - Customer Experience Strategy](https://jobright.ai/jobs/info/68dc15e597329f2f773227f5?utm_campaign=1058&utm_source=git)** | Utica, NY | On Site | Sep 30 |
 | **[Kessler Collection](http://www.kesslercollection.com)** | **[Food & Beverage Intern](https://jobright.ai/jobs/info/68dc124c97329f2f77322743?utm_campaign=1058&utm_source=git)** | Mountain Brook, AL | On Site | Sep 30 |
