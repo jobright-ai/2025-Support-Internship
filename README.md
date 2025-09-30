@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Albertsons Market](https://www.theunitedfamily.com/albertsons-market-careers/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68dc324966059a42a715c6d0?utm_campaign=1058&utm_source=git)** | Denver, CO | Hybrid | Sep 30 |
+| **[Clarios](https://www.clarios.com/)** | **[IT Infrastructure Intern (Summer 2026)](https://jobright.ai/jobs/info/68dc469aaccfd24b67e53c3f?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Sep 30 |
+| **[Baptist Health](http://baptisthealth.net/)** | **[Nurse Intern, Nursing Unit - 3 North, Per Diem, 07P-7:30A](https://jobright.ai/jobs/info/68dc4580ddc10244dd67383e?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Sep 30 |
+| **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[Field Procurement Support Summer Intern](https://jobright.ai/jobs/info/68dc4533ddc10244dd6737b5?utm_campaign=1058&utm_source=git)** | Aiken, SC | On Site | Sep 30 |
+| **[Navitus Health Solutions](https://www.navitus.com/)** | **[Clinical Intern, Specialty Pharmacy](https://jobright.ai/jobs/info/68dc3ee9a125e75c4229ea2a?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Sep 30 |
+| **[Crescent Hotels & Resorts](http://www.chrco.com)** | **[Hospitality Intern - Culinary](https://jobright.ai/jobs/info/68dc38a6b32491561896252f?utm_campaign=1058&utm_source=git)** | Williamsburg, VA | On Site | Sep 30 |
+| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Unpaid Division Intern](https://jobright.ai/jobs/info/68dc37f7a271e745b8a7cc7b?utm_campaign=1058&utm_source=git)** | Gloucester, NJ | Hybrid | Sep 30 |
 | **[Losey](https://www.loseyinsurance.com)** | **[Internship](https://jobright.ai/jobs/info/68dc2e2997329f2f77323463?utm_campaign=1058&utm_source=git)** | Baton Rouge, LA | On Site | Sep 30 |
+| **[Albertsons Market](https://www.theunitedfamily.com/albertsons-market-careers/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68dc324966059a42a715c6d0?utm_campaign=1058&utm_source=git)** | Denver, CO | Hybrid | Sep 30 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/68dc2e1466059a42a715c5c5?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Sep 30 |
 | **[Lutheran Health Network](http://www.lutheranhealth.net)** | **[Nurse Intern](https://jobright.ai/jobs/info/68dc2a5c97329f2f773232c2?utm_campaign=1058&utm_source=git)** | Warsaw, IN | On Site | Sep 30 |
 | **[Colonial Williamsburg Foundation](https://www.colonialwilliamsburg.org/)** | **[Hospitality Intern - Culinary](https://jobright.ai/jobs/info/68dc29ff66059a42a715c3bd?utm_campaign=1058&utm_source=git)** | Williamsburg, VA | On Site | Sep 30 |
