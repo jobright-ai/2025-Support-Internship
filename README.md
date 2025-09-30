@@ -63,7 +63,7 @@ For a complete list, click the following sortable link below:
 | **[MVP Health Care](https://www.mvphealthcare.com)** | **[Desktop Support Services, Internship](https://jobright.ai/jobs/info/68db8e8ae19b9e63ba20e368?utm_campaign=1058&utm_source=git)** | Schenectady, NY | On Site | Sep 30 |
 | **[Crescent Hotels & Resorts](http://www.chrco.com)** | **[Hospitality Intern - Food & Beverage](https://jobright.ai/jobs/info/68db8a30e19b9e63ba20d43d?utm_campaign=1058&utm_source=git)** | Williamsburg, VA | On Site | Sep 30 |
 | **[Saint Joseph Mercy Health System](http://www.stjoeshealth.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68db7596e19b9e63ba20c4c0?utm_campaign=1058&utm_source=git)** | Muskegon, MI | On Site | Sep 29 |
-| **[Giant Eagle, Inc.](https://www.gianteagle.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68db749434f2c406da6d84f3?utm_campaign=1058&utm_source=git)** | McDonald, PA | On Site | Sep 29 |
+| **[Giant Eagle, Inc.](https://www.gianteagle.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68db72fb9f13662d20e4b7a9?utm_campaign=1058&utm_source=git)** | McDonald, PA | On Site | Sep 29 |
 | **[MassMedia Marketing, Advertising, PR](https://www.massmediacc.com/)** | **[Client Services Intern (12 Week)](https://jobright.ai/jobs/info/68db698e34f2c406da6d7c9e?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Sep 29 |
 | **[Alaska Native Tribal Health Consortium (ANTHC)](http://anthc.org/)** | **[ANMC Pharmacist Intern: DOE](https://jobright.ai/jobs/info/68db60f59f13662d20e4aa60?utm_campaign=1058&utm_source=git)** | Anchorage, AK | On Site | Sep 29 |
 | **[VCA Animal Hospitals](https://www.vcacareers.com)** | **[Locum/Relief Internist](https://jobright.ai/jobs/info/68db60e79f13662d20e4aa22?utm_campaign=1058&utm_source=git)** | Warrensville Heights, OH | On Site | Sep 29 |
@@ -103,6 +103,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68db106ae9b48513789b199e?utm_campaign=1058&utm_source=git)** | Suwanee, GA | On Site | Sep 29 |
 | **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Optometry IT Assistant (Student Position)](https://jobright.ai/jobs/info/68db0f7c0dffed6f83d2c52b?utm_campaign=1058&utm_source=git)** | Big Rapids, MI | On Site | Sep 29 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 IT Undergraduate Internship, NY](https://jobright.ai/jobs/info/68db0f720dffed6f83d2c511?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Sep 29 |
+| ↳ | **[Spring 2026 IT Undergraduate Internship, DC](https://jobright.ai/jobs/info/68db0f3c0dffed6f83d2c477?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Sep 29 |
 | **[VEG ER for Pets](https://veterinaryemergencygroup.com)** | **[Veterinary Technician Student Externship - Fort Lauderdale, FL](https://jobright.ai/jobs/info/68db07ffe9b48513789b149d?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, Florida, United States | On Site | Sep 29 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68db079d0dffed6f83d2bfbd?utm_campaign=1058&utm_source=git)** | San Gabriel, CA | On Site | Sep 29 |
 | ↳ | **[Pharmacy Intern - Specialty Mail Order Pharmacy](https://jobright.ai/jobs/info/68db0782e9b48513789b13e8?utm_campaign=1058&utm_source=git)** | Lenexa, KS | On Site | Sep 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern-Respiratory Therapy](https://jobright.ai/jobs/info/68dac9836df7b8311bb124d3?utm_campaign=1058&utm_source=git)** | US-WI-Milwaukee | On Site | Sep 29 |
 | **[St. Luke's Health System](https://www.stlukesonline.org)** | **[Surgical Technologist Apprentice- Treasure Valley](https://jobright.ai/jobs/info/68dac6960b832179ca4b0bf7?utm_campaign=1058&utm_source=git)** | 720 E Park Blvd, Boise, St Luke's Central Plaza | On Site | Sep 29 |
 | ↳ | **[Surgical Technologist Apprentice- Treasure Valley](https://jobright.ai/jobs/info/68dac68307c157682e56d618?utm_campaign=1058&utm_source=git)** | US-ID-Boise | On Site | Sep 29 |
-| ↳ | **[Surgical Technologist Apprentice- Treasure Valley](https://jobright.ai/jobs/info/68dac67d6df7b8311bb11f87?utm_campaign=1058&utm_source=git)** | Boise | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
