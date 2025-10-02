@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PLATTSBURGH CITY SCHOOL DISTRICT](http://plattscsd.org)** | **[Substitute Student Aide](https://jobright.ai/jobs/info/68deb6ff44d32141e0c01c02?utm_campaign=1058&utm_source=git)** | Plattsburgh, NY | On Site | Oct 02 |
+| **[MFS Investment Management](https://www.mfs.com)** | **[Global Client Service Summer Intern](https://jobright.ai/jobs/info/68deb3e309bda65a4b62d078?utm_campaign=1058&utm_source=git)** | Boston, MA | Hybrid | Oct 02 |
+| ↳ | **[Service Center Summer Intern](https://jobright.ai/jobs/info/68deb32c09bda65a4b62cf98?utm_campaign=1058&utm_source=git)** | Boston, MA | Hybrid | Oct 02 |
+| **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern MedSurg](https://jobright.ai/jobs/info/68dead6909bda65a4b62cc1d?utm_campaign=1058&utm_source=git)** | 151 E REDSTONE AVE, CRESTVIEW, FL, 32539, US | On Site | Oct 02 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II-Neurology](https://jobright.ai/jobs/info/68dead3009bda65a4b62cbb9?utm_campaign=1058&utm_source=git)** | 6019 Walnut Grove Road, Memphis, TN, 38120, US | On Site | Oct 02 |
+| **[Atlantic Health](http://www.atlantichealth.org)** | **[Lab Information Systems Analyst Intern](https://jobright.ai/jobs/info/68deac9f09bda65a4b62ca6f?utm_campaign=1058&utm_source=git)** | 465 South Street, Morristown, NJ, 07960, US | On Site | Oct 02 |
+| **[Interstates](http://interstates.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/68deac7ca125e75c422b5ab9?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | Oct 02 |
+| **[MFS Investment Management](https://www.mfs.com)** | **[Information Management Summer Intern](https://jobright.ai/jobs/info/68dea8b0a125e75c422b5820?utm_campaign=1058&utm_source=git)** | Boston, MA | Hybrid | Oct 02 |
+| **[Milestone Technologies, Inc.](http://www.milestonepowered.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/68dea04744d32141e0c01260?utm_campaign=1058&utm_source=git)** | Pleasanton, CA | On Site | Oct 02 |
 | **[CSS Farms, LLC](https://cssfarms.com/)** | **[Intern - IT Operations](https://jobright.ai/jobs/info/68de9e3a09bda65a4b62c304?utm_campaign=1058&utm_source=git)** | Kearney, NE | On Site | Oct 02 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Pharmacy Intern- Inpatient - Allegheny General Hospital](https://jobright.ai/jobs/info/68de9bfb09bda65a4b62bd49?utm_campaign=1058&utm_source=git)** | Pittsburgh PA, 15212, 320 E N Ave. | On Site | Oct 02 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68de964809bda65a4b62b8c4?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Oct 02 |
@@ -80,6 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Wild Dunes Resort](https://www.hyatt.com/destination-by-hyatt/wilddunes-charleston-island-resort)** | **[Food and Beverage Internship](https://jobright.ai/jobs/info/68de82b244d32141e0c00643?utm_campaign=1058&utm_source=git)** | Isle of Palms, SC | On Site | Oct 02 |
 | **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68de7f35a125e75c422b4878?utm_campaign=1058&utm_source=git)** | Powhatan, VA | On Site | Oct 02 |
 | ↳ | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68de7f3244d32141e0c00502?utm_campaign=1058&utm_source=git)** | Hays, KS | On Site | Oct 02 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68dea36f09bda65a4b62c6ba?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Oct 02 |
+| **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68dea3aa09bda65a4b62c73d?utm_campaign=1058&utm_source=git)** | New Orleans, LA | On Site | Oct 02 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Help Desk Intern](https://jobright.ai/jobs/info/68de742309bda65a4b62aefa?utm_campaign=1058&utm_source=git)** | Dayton | On Site | Oct 02 |
 | ↳ | **[Help Desk Intern](https://jobright.ai/jobs/info/68de73c9a125e75c422b44f1?utm_campaign=1058&utm_source=git)** | US-OH-Dayton | On Site | Oct 02 |
 | ↳ | **[Help Desk Intern](https://jobright.ai/jobs/info/68de738109bda65a4b62ad8c?utm_campaign=1058&utm_source=git)** | Ohio | On Site | Oct 02 |
@@ -134,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Clinton Foundation](https://www.clintonfoundation.org/)** | **[2026 Spring  Food, Beverage, and Events Intern (onsite)](https://jobright.ai/jobs/info/68ddc2c409bda65a4b62454f?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Oct 01 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/68ddc25eddc10244dd683873?utm_campaign=1058&utm_source=git)** | Farmington, CT | On Site | Oct 01 |
 | **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[Student Technology Support Specialist (NKU Students)](https://jobright.ai/jobs/info/68ddc24fddc10244dd68384d?utm_campaign=1058&utm_source=git)** | Newport, KY | On Site | Oct 01 |
+| **[Adams 12 Five Star Schools](http://www.adams12.org)** | **[Student Aide](https://jobright.ai/jobs/info/68deb34c09bda65a4b62cfb8?utm_campaign=1058&utm_source=git)** | Thornton, CO | On Site | Oct 01 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68ddba64a125e75c422ae9c5?utm_campaign=1058&utm_source=git)** | AAO Oak Brook - 2025 Windsor Dr | Remote | Oct 01 |
 | **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/68ddba3244d32141e0bfa939?utm_campaign=1058&utm_source=git)** | Arlington, TX | On Site | Oct 01 |
 | **[OCHIN, Inc.](https://ochin.org)** | **[HCAI - HEALTH INFORMATION AND ELECTRONIC RECORDS ANALYST TRAINING PROGRAM (EHR SUPPORT INTERNSHIP)](https://jobright.ai/jobs/info/68ddb8e4ddc10244dd68348c?utm_campaign=1058&utm_source=git)** | California, United States | Remote | Oct 01 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Saint Luke's Health System](https://www.saintlukeskc.org)** | **[Med/Surg Nursing Intern, PRN](https://jobright.ai/jobs/info/68ddeefa09bda65a4b624c03?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Oct 01 |
 | **[Ntiva, Inc.](http://www.ntiva.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/68dda440a125e75c422adc05?utm_campaign=1058&utm_source=git)** | Parkersburg, WV | On Site | Oct 01 |
 | **[Carhartt](http://www.carhartt.com)** | **[Intern Account Services](https://jobright.ai/jobs/info/68dd9cabddc10244dd681ff8?utm_campaign=1058&utm_source=git)** | Dearborn, MI | Remote | Oct 01 |
-| **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/68dd974dddc10244dd6818a8?utm_campaign=1058&utm_source=git)** | TX-Arlington | On Site | Oct 01 |
-| **[BBYO](https://www.bbyo.org)** | **[Jewish Enrichment Intern](https://jobright.ai/jobs/info/68dd9685ddc10244dd681661?utm_campaign=1058&utm_source=git)** | United States | Remote | Oct 01 |
-| **[Independence Health System](https://www.excelahealth.org)** | **[HIGH SCHOOL INTERN, FOOD SERVICE ASSOCIATE](https://jobright.ai/jobs/info/68dd966844d32141e0bf8a06?utm_campaign=1058&utm_source=git)** | Butler, PA | On Site | Oct 01 |
-| **[Wegmans Food Markets](http://www.wegmans.com)** | **[Pharmacy Intern P1](https://jobright.ai/jobs/info/68dd9441ddc10244dd68121e?utm_campaign=1058&utm_source=git)** | Westwood | On Site | Oct 01 |
-| **[TRUMPF](https://www.trumpf.com/de_DE/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/68dd93e0ddc10244dd6810cc?utm_campaign=1058&utm_source=git)** | Farmington, CT | On Site | Oct 01 |
-| **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[2026 Pharmacy Graduate Intern - ACME](https://jobright.ai/jobs/info/68dd91bf44d32141e0bf8399?utm_campaign=1058&utm_source=git)** | 75 VALLEY STREAM PARKWAY, Malvern, PA, 19355, US | Hybrid | Oct 01 |
-| **[Enterprise Bank & Trust](https://www.enterprisebank.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/68dd8c7a44d32141e0bf8025?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Oct 01 |
-| **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Client Enablement Intern](https://jobright.ai/jobs/info/68dd8752ddc10244dd68056c?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Oct 01 |
-| **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[Respiratory Intern - Southside Medical Center](https://jobright.ai/jobs/info/68dd835344d32141e0bf75cd?utm_campaign=1058&utm_source=git)** | Petersburg, VA | On Site | Oct 01 |
-| **[Shaw’s and Star Market](https://www.shaws.com)** | **[2026 Pharmacy Graduate Intern - Shaws](https://jobright.ai/jobs/info/68dd800844d32141e0bf7577?utm_campaign=1058&utm_source=git)** | Portland, ME | Hybrid | Oct 01 |
-| ↳ | **[2026 Pharmacy Graduate Intern - Shaws](https://jobright.ai/jobs/info/68dd7f0addc10244dd67fee5?utm_campaign=1058&utm_source=git)** | Boston, MA | Hybrid | Oct 01 |
-| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/68dd7edca125e75c422ab44c?utm_campaign=1058&utm_source=git)** | West Des Moines, IA | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
