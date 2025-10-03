@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II-Neurology](https://jobright.ai/jobs/info/68dfb7f15ab4977c2e956fbe?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Oct 03 |
+| **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern  P1 Contingent Rotate](https://jobright.ai/jobs/info/68dfaec35ab4977c2e956dec?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Oct 03 |
+| **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[IT Servicing NGS Product Summer Intern](https://jobright.ai/jobs/info/68dfaca9fe896042b0b7d29b?utm_campaign=1058&utm_source=git)** | Triad Area | Hybrid | Oct 03 |
+| **[Tenet Healthcare](http://tenethealth.com)** | **[Intern Pharmacist PRN Rotating](https://jobright.ai/jobs/info/68c31dbd5adaee6c9bda7276?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Oct 03 |
 | **[Providence](https://www.psjhealth.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/68df8e886be63b6ec9971595?utm_campaign=1058&utm_source=git)** | Richland, WA | On Site | Oct 03 |
-| **[Parkview Health](http://www.parkview.com)** | **[Student Radiology Tech](https://jobright.ai/jobs/info/68df84defe896042b0b7bc4f?utm_campaign=1058&utm_source=git)** | Greater Fort Wayne | On Site | Oct 03 |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/68df8508fe896042b0b7bc7e?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Oct 03 |
 | **[ADT](http://www.adt.com)** | **[IT Collaboration Services Intern](https://jobright.ai/jobs/info/68df84645ab4977c2e9556f7?utm_campaign=1058&utm_source=git)** | Boca Raton, FL | On Site | Oct 03 |
-| ↳ | **[Customer Experience Strategic Programs Specialist Intern](https://jobright.ai/jobs/info/68df83a1fe896042b0b7bae7?utm_campaign=1058&utm_source=git)** | Boca Raton, FL | On Site | Oct 03 |
-| **[CHRISTUS Health](http://www.christushealth.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/68df835b6be63b6ec9970d9c?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Oct 03 |
+| **[Parkview Health](http://www.parkview.com)** | **[Student Radiology Tech](https://jobright.ai/jobs/info/68df83e66be63b6ec9970e3b?utm_campaign=1058&utm_source=git)** | Greater Fort Wayne | On Site | Oct 03 |
+| **[ADT](http://www.adt.com)** | **[Customer Experience Strategic Programs Specialist Intern](https://jobright.ai/jobs/info/68df83a1fe896042b0b7bae7?utm_campaign=1058&utm_source=git)** | Boca Raton, FL | On Site | Oct 03 |
 | **[Cone Health](http://www.conehealth.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68df7f636be63b6ec9970b16?utm_campaign=1058&utm_source=git)** | Burlington, NC | On Site | Oct 03 |
 | **[Labcorp](https://www.labcorp.com)** | **[IT Intern](https://jobright.ai/jobs/info/68df7f566be63b6ec9970afd?utm_campaign=1058&utm_source=git)** | Durham, NC | On Site | Oct 03 |
 | **[City of Coronado](https://www.coronado.ca.us)** | **[Library Intern](https://jobright.ai/jobs/info/68df76396be63b6ec997023d?utm_campaign=1058&utm_source=git)** | Coronado, CA | On Site | Oct 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68dec90544d32141e0c0227d?utm_campaign=1058&utm_source=git)** | Woodlawn, MD | On Site | Oct 02 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - Alpine TX](https://jobright.ai/jobs/info/68dec90144d32141e0c02275?utm_campaign=1058&utm_source=git)** | Alpine, TX | Hybrid | Oct 02 |
 | ↳ | **[Intern Support Technician - Presidio TX](https://jobright.ai/jobs/info/68dec8f344d32141e0c0224f?utm_campaign=1058&utm_source=git)** | Presidio, TX | Hybrid | Oct 02 |
-| **[Atlantic Health](http://www.atlantichealth.org)** | **[Lab Information Systems Analyst Intern](https://jobright.ai/jobs/info/68dec0c244d32141e0c0205c?utm_campaign=1058&utm_source=git)** | Morristown, NJ | On Site | Oct 02 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern - Technical Support - IT](https://jobright.ai/jobs/info/68dec0ae44d32141e0c0204a?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Oct 02 |
-| **[PLATTSBURGH CITY SCHOOL DISTRICT](http://plattscsd.org)** | **[Substitute Student Aide](https://jobright.ai/jobs/info/68deb6ff44d32141e0c01c02?utm_campaign=1058&utm_source=git)** | Plattsburgh, NY | On Site | Oct 02 |
-| **[MFS Investment Management](https://www.mfs.com)** | **[Global Client Service Summer Intern](https://jobright.ai/jobs/info/68deb3e309bda65a4b62d078?utm_campaign=1058&utm_source=git)** | Boston, MA | Hybrid | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
