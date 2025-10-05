@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Electra](https://www.electra.earth)** | **[Remote Appointment Setter / Virtual Assistant Internship](https://jobright.ai/jobs/info/68e1cefaf758fe1f97e55f79?utm_campaign=1058&utm_source=git)** | Boulder, CO | Remote | Oct 04 |
+| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/68e1c7521852e62f007f37d7?utm_campaign=1058&utm_source=git)** | Council Bluffs, IA | On Site | Oct 04 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68e19e38b99ec3563b0d7cb1?utm_campaign=1058&utm_source=git)** | Goodyear, AZ | On Site | Oct 04 |
 | **[Providence](https://www.psjhealth.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/68e187ccb99ec3563b0d7818?utm_campaign=1058&utm_source=git)** | Richland, WA | On Site | Oct 04 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68e182edb99ec3563b0d76df?utm_campaign=1058&utm_source=git)** | Goodyear, AZ | On Site | Oct 04 |
@@ -126,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[The IRONMAN Group](https://www.ironman.com/)** | **[Athlete Services / Operations Internship](https://jobright.ai/jobs/info/68e07fbe1852e62f007eb705?utm_campaign=1058&utm_source=git)** | Louisville, CO | On Site | Oct 03 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Access Systems Support Intern](https://jobright.ai/jobs/info/68e07157f758fe1f97e4d41e?utm_campaign=1058&utm_source=git)** | Pennsylvania, United States | On Site | Oct 03 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern - Information Systems Help Desk](https://jobright.ai/jobs/info/68e06a74b99ec3563b0cf303?utm_campaign=1058&utm_source=git)** | Jefferson City, MO | On Site | Oct 03 |
+| **[City of Coronado](https://www.coronado.ca.us)** | **[Library Intern](https://jobright.ai/jobs/info/68e1c02cb99ec3563b0d7fc8?utm_campaign=1058&utm_source=git)** | Coronado, CA | On Site | Oct 03 |
 | **[Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the-johns-hopkins-hospital)** | **[Patient Care Tech Intern- Telemetry Meyer 9 (Rot 36)](https://jobright.ai/jobs/info/68e06679f758fe1f97e4ce59?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Oct 03 |
 | ↳ | **[Patient Care Tech Intern- Meyer 9 (Day 36)](https://jobright.ai/jobs/info/68e065e9f758fe1f97e4cdf8?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Oct 03 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Radiology Student Intern](https://jobright.ai/jobs/info/68e053c41852e62f007ea2af?utm_campaign=1058&utm_source=git)** | Greater Madison Area | On Site | Oct 03 |
@@ -143,7 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern / ICU](https://jobright.ai/jobs/info/68e03be3b99ec3563b0cdb2b?utm_campaign=1058&utm_source=git)** | Mequon, WI | On Site | Oct 03 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Cook III - J1 Intern/Trainee](https://jobright.ai/jobs/info/68e03b01b99ec3563b0cd9f2?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Oct 03 |
 | **[JFK Johnson Rehabilitation Institute ](http://JFKJohnson.org)** | **[IT APPLICATIONS ANALYST III - WORKDAY STUDENT SYSTEM-DIGITAL TECHNOLOGY SERVICES](https://jobright.ai/jobs/info/68e03a00f758fe1f97e4b37b?utm_campaign=1058&utm_source=git)** | Edison, NJ | On Site | Oct 03 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68e033f7b99ec3563b0cd2f3?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Oct 03 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e03585f758fe1f97e4b0c9?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Oct 03 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68e033f7b99ec3563b0cd2f3?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Oct 03 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68e0328db99ec3563b0ccf97?utm_campaign=1058&utm_source=git)** | Brick, NJ | On Site | Oct 03 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e08fcaf758fe1f97e4e6b4?utm_campaign=1058&utm_source=git)** | Lambertville, MI | On Site | Oct 03 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/68e08fa3b99ec3563b0d0ae4?utm_campaign=1058&utm_source=git)** | The Villages, FL | On Site | Oct 03 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68e08ffdf758fe1f97e4e6fe?utm_campaign=1058&utm_source=git)** | Northfield, NJ | On Site | Oct 03 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/68e08fd2b99ec3563b0d0b32?utm_campaign=1058&utm_source=git)** | Princeton, NJ | On Site | Oct 03 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e08dfeb99ec3563b0d0860?utm_campaign=1058&utm_source=git)** | Oneida, TN | On Site | Oct 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e02e62f758fe1f97e4a9ea?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Oct 03 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/68e02e511852e62f007e8469?utm_campaign=1058&utm_source=git)** | Inverness, FL | On Site | Oct 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e02e241852e62f007e843c?utm_campaign=1058&utm_source=git)** | Jackson, TN | On Site | Oct 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e02e01f758fe1f97e4a96c?utm_campaign=1058&utm_source=git)** | Shorewood, IL | On Site | Oct 03 |
-| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/68e02dfeb99ec3563b0cce8b?utm_campaign=1058&utm_source=git)** | Ocala, FL | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
