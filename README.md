@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orlando Health](https://www.orlandohealth.com/)** | **[Pharmacist, Intern II - Orlando Health Institute](https://jobright.ai/jobs/info/68e3c4011852e62f007fdd43?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Oct 06 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern](https://jobright.ai/jobs/info/688dc7d3e5cead4afd45ab4b?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Oct 06 |
+| **[Concurrent Technologies Corporation](http://www.ctc.com)** | **[IT Support Analyst Intern](https://jobright.ai/jobs/info/68e3bc221852e62f007fd90b?utm_campaign=1058&utm_source=git)** | Johnstown, PA | On Site | Oct 06 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - IT Communication Systems](https://jobright.ai/jobs/info/68e3a3401852e62f007fd1f4?utm_campaign=1058&utm_source=git)** | Tempe, AZ | Hybrid | Oct 06 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68e3a3181852e62f007fd1e4?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Oct 06 |
 | **[Crothall Healthcare](https://www.crothall.com)** | **[Patient Transportation Intern (SUMMER) / Crothall Healthcare, Novant Presbyterian Hospital](https://jobright.ai/jobs/info/68e39ed11852e62f007fd10a?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Oct 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e228e3b99ec3563b0db298?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Oct 05 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e228c91852e62f007f69cb?utm_campaign=1058&utm_source=git)** | Manistee, MI | On Site | Oct 05 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68e228ba1852e62f007f69b2?utm_campaign=1058&utm_source=git)** | Lowell, MA | On Site | Oct 05 |
-| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/68e228abf758fe1f97e58f97?utm_campaign=1058&utm_source=git)** | Ocean City, NJ | On Site | Oct 05 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e228a01852e62f007f6971?utm_campaign=1058&utm_source=git)** | Cheboygan, MI | On Site | Oct 05 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e228841852e62f007f6931?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
