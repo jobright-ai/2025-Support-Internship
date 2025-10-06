@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - IT Communication Systems](https://jobright.ai/jobs/info/68e3a3401852e62f007fd1f4?utm_campaign=1058&utm_source=git)** | Tempe, AZ | Hybrid | Oct 06 |
+| **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68e3a3181852e62f007fd1e4?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Oct 06 |
+| **[Crothall Healthcare](https://www.crothall.com)** | **[Patient Transportation Intern (SUMMER) / Crothall Healthcare, Novant Presbyterian Hospital](https://jobright.ai/jobs/info/68e39ed11852e62f007fd10a?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Oct 06 |
+| ↳ | **[Patient Transportation Intern (SUMMER) / Crothall Healthcare, UChicago Medicine](https://jobright.ai/jobs/info/68e391f51852e62f007fcd18?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Oct 06 |
+| **[OU Health](https://www.ouhealth.com)** | **[Student Nurse Technician - Intern - PRN - Health Professionals (UCO May 2026 Nursing Student Graduates)](https://jobright.ai/jobs/info/68e3908db99ec3563b0e1695?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Oct 06 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e39051f758fe1f97e5f4b9?utm_campaign=1058&utm_source=git)** | Savannah, GA | On Site | Oct 06 |
 | **[Crothall Healthcare](https://www.crothall.com)** | **[Patient Transportation Intern (SUMMER) / Crothall Healthcare, University of Kentucky Hospital](https://jobright.ai/jobs/info/68e38fd7b99ec3563b0e15b9?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Oct 06 |
 | ↳ | **[Patient Transportation Intern (SUMMER) / Crothall Healthcare, Long Beach Medical Center](https://jobright.ai/jobs/info/68e38fd0b99ec3563b0e15a2?utm_campaign=1058&utm_source=git)** | Vernon, CA | On Site | Oct 06 |
@@ -77,7 +82,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37a1a1852e62f007fc1d7?utm_campaign=1058&utm_source=git)** | Wilmington, NC | On Site | Oct 06 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e379e61852e62f007fc1b4?utm_campaign=1058&utm_source=git)** | Pleasanton, CA | On Site | Oct 06 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68e3688ef758fe1f97e5d816?utm_campaign=1058&utm_source=git)** | Mills, WY | On Site | Oct 05 |
-| **[Temple Health – Temple University Health System](https://www.templehealth.org/)** | **[PHARMACY INTERN (PT; 8hrs/wk) - Temple Health/Jeanes Hospital](https://jobright.ai/jobs/info/68e381d7f758fe1f97e5eba2?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Oct 05 |
 | **[Venture Starters](https://venturestarters.com/)** | **[Student Intern](https://jobright.ai/jobs/info/68e30a88f758fe1f97e5b2bf?utm_campaign=1058&utm_source=git)** | United States | Remote | Oct 05 |
 | **[Valley Baptist Health System](https://www.valleybaptist.net)** | **[Student Intern Surgery Per Diem Days](https://jobright.ai/jobs/info/68e2d6fdf758fe1f97e5aed7?utm_campaign=1058&utm_source=git)** | Brownsville, TX | On Site | Oct 05 |
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68e2cffe1852e62f007f8800?utm_campaign=1058&utm_source=git)** | Fayetteville, AR | On Site | Oct 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/68e228abf758fe1f97e58f97?utm_campaign=1058&utm_source=git)** | Ocean City, NJ | On Site | Oct 05 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e228a01852e62f007f6971?utm_campaign=1058&utm_source=git)** | Cheboygan, MI | On Site | Oct 05 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e228841852e62f007f6931?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Oct 05 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e2287ef758fe1f97e58f36?utm_campaign=1058&utm_source=git)** | Alpena, MI | On Site | Oct 05 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e22829b99ec3563b0db0bd?utm_campaign=1058&utm_source=git)** | Ludington, MI | On Site | Oct 05 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68e227c3f758fe1f97e58d76?utm_campaign=1058&utm_source=git)** | Framingham, MA | On Site | Oct 05 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68e22791b99ec3563b0daf1c?utm_campaign=1058&utm_source=git)** | Medway, MA | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
