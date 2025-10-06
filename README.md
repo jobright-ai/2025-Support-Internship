@@ -146,6 +146,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e2273ef758fe1f97e58c53?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Oct 05 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e2272f1852e62f007f65df?utm_campaign=1058&utm_source=git)** | Cadillac, MI | On Site | Oct 05 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e2272b1852e62f007f65d4?utm_campaign=1058&utm_source=git)** | Winchester, VA | On Site | Oct 05 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e336f4b99ec3563b0ddfc3?utm_campaign=1058&utm_source=git)** | Teaneck, NJ | On Site | Oct 05 |
 | **[ADM](http://www.adm.com)** | **[Global Technology Support Analyst Intern](https://jobright.ai/jobs/info/68e1d48df758fe1f97e56021?utm_campaign=1058&utm_source=git)** | Erlanger, KY | On Site | Oct 04 |
 | **[Electra](https://www.electra.earth)** | **[Remote Appointment Setter / Virtual Assistant Internship](https://jobright.ai/jobs/info/68e1cefaf758fe1f97e55f79?utm_campaign=1058&utm_source=git)** | Boulder, CO | Remote | Oct 04 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/68e1c7521852e62f007f37d7?utm_campaign=1058&utm_source=git)** | Council Bluffs, IA | On Site | Oct 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68e148f6b99ec3563b0d6ff7?utm_campaign=1058&utm_source=git)** | Fredericksburg, VA | On Site | Oct 04 |
 | ↳ | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68e146081852e62f007f2611?utm_campaign=1058&utm_source=git)** | Spearfish, SD | On Site | Oct 04 |
 | ↳ | **[Pharmacy Pre-Grad Intern - WM ***2025 SIGN-ON BONUS***](https://jobright.ai/jobs/info/68e1455ff758fe1f97e54d0c?utm_campaign=1058&utm_source=git)** | Quincy, IL | On Site | Oct 04 |
-| ↳ | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68e145551852e62f007f25b3?utm_campaign=1058&utm_source=git)** | Happy Valley, OR | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
