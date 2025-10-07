@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lutheran Health Network](http://www.lutheranhealth.net)** | **[Student Intern Neuro Spine Med Surg PRN](https://jobright.ai/jobs/info/68c86595f9c6ff7aedf0dcb8?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Oct 07 |
+| **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[Pediatric Outpatient Pharmacy Intern](https://jobright.ai/jobs/info/68e4f707b99ec3563b0ef898?utm_campaign=1058&utm_source=git)** | Nashville Metro | On Site | Oct 07 |
+| ↳ | **[Pediatric Inpatient Pharmacy Intern](https://jobright.ai/jobs/info/68e4f54b1852e62f0080b0d4?utm_campaign=1058&utm_source=git)** | Nashville Metro | On Site | Oct 07 |
+| **[Integrity](https://www.integritymarketing.com)** | **[Intern](https://jobright.ai/jobs/info/68e4f1b7b99ec3563b0ef6dc?utm_campaign=1058&utm_source=git)** | Decatur, IL | On Site | Oct 07 |
+| **[OU Health](https://www.ouhealth.com)** | **[Student Nurse Technician - Intern - PRN - Health Professionals (OU Traditional Program May 2026 Nursing Student Graduates)](https://jobright.ai/jobs/info/68e4e789b99ec3563b0ef476?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Oct 07 |
 | **[Fairmont Hotels & Resorts](http://www.fairmont.com/)** | **[Gold Floor Attendant (Internship)](https://jobright.ai/jobs/info/68e4e105b99ec3563b0ef1b7?utm_campaign=1058&utm_source=git)** | Hawaii, United States | On Site | Oct 07 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Business Systems Analyst Internship](https://jobright.ai/jobs/info/68e4df9cb99ec3563b0ef0ba?utm_campaign=1058&utm_source=git)** | La Crosse, WI | On Site | Oct 07 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e4dadeb99ec3563b0eef15?utm_campaign=1058&utm_source=git)** | Coppell, TX | On Site | Oct 07 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68e4dad31852e62f0080a89d?utm_campaign=1058&utm_source=git)** | St Joseph, MO | On Site | Oct 07 |
 | **[Hilti Asia IT Services](https://careers.hilti.group/en/what-we-do/digital/)** | **[Information Technology Intern - Tulsa, OK - Summer 2026](https://jobright.ai/jobs/info/68e4d611b99ec3563b0eec58?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | Oct 07 |
@@ -147,14 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Panasonic Energy Corporation of North America](https://na.panasonic.com/panasonic-energy)** | **[IT Intern](https://jobright.ai/jobs/info/68dc060f6f6c5c3fadf35e1d?utm_campaign=1058&utm_source=git)** | Sparks, NV | On Site | Oct 06 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - ME Neuro ICU Stepdown Baptist Memphis](https://jobright.ai/jobs/info/68e446c81852e62f00803edf?utm_campaign=1058&utm_source=git)** | 6019 Walnut Grove Road, Memphis, TN, 38120, US | On Site | Oct 06 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[IT Intern](https://jobright.ai/jobs/info/68e446591852e62f00803d80?utm_campaign=1058&utm_source=git)** | Bellwood, IL | On Site | Oct 06 |
+| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Patient Affordability Intern](https://jobright.ai/jobs/info/68e4f0b91852e62f0080af35?utm_campaign=1058&utm_source=git)** | Ridgefield, CT | Hybrid | Oct 06 |
 | **[Community Health Systems](http://www.chs.net)** | **[Emergency Department Nurse Intern](https://jobright.ai/jobs/info/68e4a8e4ae2b894b1d7075be?utm_campaign=1058&utm_source=git)** | 400 N EDWARDS ST, ENTERPRISE, AL, 36330, US | On Site | Oct 06 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[F&B Intern](https://jobright.ai/jobs/info/68e439721852e62f00803420?utm_campaign=1058&utm_source=git)** | Kimpton Sylvan Hotel - Atlanta, GA | On Site | Oct 06 |
 | **[CDLAN](https://www.cdlan.it)** | **[Customer Operations - Intern](https://jobright.ai/jobs/info/68e43431f758fe1f97e656e0?utm_campaign=1058&utm_source=git)** | Milano, TX | On Site | Oct 06 |
 | **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[P1 Rx Intern](https://jobright.ai/jobs/info/68e432e7f758fe1f97e6547d?utm_campaign=1058&utm_source=git)** | Schenectady, NY | On Site | Oct 06 |
 | **[Sam's Club](http://www.samsclub.com)** | **[Pre Grad Intern - Sam's](https://jobright.ai/jobs/info/68e4313cf758fe1f97e651dc?utm_campaign=1058&utm_source=git)** | Longmont, CO | On Site | Oct 06 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68e430e81852e62f00802b96?utm_campaign=1058&utm_source=git)** | Spring, TX | On Site | Oct 06 |
-| ↳ | **[PHARMACY/PHARMCST-INTERN     (012)](https://jobright.ai/jobs/info/68e43097b99ec3563b0e73b3?utm_campaign=1058&utm_source=git)** | 9450 E Harry St, Wichita, KS, 67207, US | On Site | Oct 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern](https://jobright.ai/jobs/info/68e430001852e62f008029d1?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Oct 06 |
-| **[Duke Department of Population Health Sciences](https://populationhealth.duke.edu/)** | **[Registered Nurse (CNII) - Sage Road Internal Medicine](https://jobright.ai/jobs/info/68e44f661852e62f00804a7e?utm_campaign=1058&utm_source=git)** | Chapel Hill, NC | On Site | Oct 06 |
-| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e42cdcf758fe1f97e65044?utm_campaign=1058&utm_source=git)** | Boston, MA | Hybrid | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
