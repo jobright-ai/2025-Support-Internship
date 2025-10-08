@@ -57,13 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Customer Care Technology Summer Internship](https://jobright.ai/jobs/info/68e687811852e62f0081bd0b?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Oct 08 |
+| **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e68209e8daec61499abc22?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Oct 08 |
+| **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68e67ef51852e62f0081b856?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Oct 08 |
+| ↳ | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68e67984ae2b894b1d71a990?utm_campaign=1058&utm_source=git)** | Council Bluffs, IA | On Site | Oct 08 |
+| ↳ | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68e66f71e8daec61499ab29f?utm_campaign=1058&utm_source=git)** | Papillion, NE | On Site | Oct 08 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Service Desk Co-op (January through June)](https://jobright.ai/jobs/info/68cc65827342c7623ae6422a?utm_campaign=1058&utm_source=git)** | Needham, MA | On Site | Oct 08 |
 | **[Parkview Health](http://www.parkview.com)** | **[IS Technology & Corp Solutions Summer Non-Clinical Intern](https://jobright.ai/jobs/info/68e66848ae2b894b1d71a26b?utm_campaign=1058&utm_source=git)** | Greater Fort Wayne | On Site | Oct 08 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Pharmacy Intern MGH](https://jobright.ai/jobs/info/68e68005ae2b894b1d71acb9?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Oct 08 |
 | **[Arm](http://www.arm.com)** | **[Intern Technical Writer](https://jobright.ai/jobs/info/68e657c6e8daec61499aab6a?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | Oct 08 |
 | **[Roswell Park Comprehensive Cancer Center](https://www.RoswellPark.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68cbf0af16d00d2beeb172b9?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Oct 08 |
 | **[St. Elizabeth Healthcare](http://www.stelizabeth.com/)** | **[Inpatient Pharmacy Intern](https://jobright.ai/jobs/info/68e64e4b1852e62f0081a6ae?utm_campaign=1058&utm_source=git)** | Fort Thomas, KY | On Site | Oct 08 |
 | **[Martin Brower](http://martinbrower.com)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/68e650eae8daec61499aa981?utm_campaign=1058&utm_source=git)** | Rosemont, IL | On Site | Oct 08 |
 | **[UNM Medical Group, Inc.](https://unmhealth.org/locations/medical-group/)** | **[Medical Coding Intern - Fully Remote - Must have a NM Residence](https://jobright.ai/jobs/info/68e62908ae2b894b1d7189ff?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | Remote | Oct 08 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY ABC Academy Clinic Admissions Associate - Clinic Setting](https://jobright.ai/jobs/info/68e620951852e62f008192e5?utm_campaign=1058&utm_source=git)** | Spring, TX | On Site | Oct 08 |
+| ↳ | **[INTERNAL ONLY ABC Academy Clinic Admissions Associate - Clinic Setting](https://jobright.ai/jobs/info/68e61ac11852e62f00818c98?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Oct 08 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e5ebd8ae2b894b1d7156ad?utm_campaign=1058&utm_source=git)** | Orange, CA | On Site | Oct 07 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68e5ebd0ae2b894b1d7156a6?utm_campaign=1058&utm_source=git)** | Wareham, MA | On Site | Oct 07 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e5eb71e8daec61499a650e?utm_campaign=1058&utm_source=git)** | Chesapeake, VA | On Site | Oct 07 |
@@ -90,21 +98,16 @@ For a complete list, click the following sortable link below:
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68e5ca2bae2b894b1d713763?utm_campaign=1058&utm_source=git)** | Waco, TX | On Site | Oct 07 |
 | **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Wish Coordinating Intern, Experience](https://jobright.ai/jobs/info/68e5c9b11852e62f008145b6?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68e5c9371852e62f00814516?utm_campaign=1058&utm_source=git)** | Mobile, AL | On Site | Oct 07 |
-| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Intern, Multifamily](https://jobright.ai/jobs/info/68e5c4f11852e62f008143e7?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Oct 07 |
 | **[Parkview Health](http://www.parkview.com)** | **[IPRMC IS Technology & Corp Solutions Summer Non-Clinical Intern](https://jobright.ai/jobs/info/68e5c4ddae2b894b1d713574?utm_campaign=1058&utm_source=git)** | Greater Fort Wayne | On Site | Oct 07 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[IT Operations Intern](https://jobright.ai/jobs/info/68e5c48ee8daec61499a453b?utm_campaign=1058&utm_source=git)** | Carmel, IN | On Site | Oct 07 |
-| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Intern, Multifamily](https://jobright.ai/jobs/info/68e62a54ae2b894b1d718bf7?utm_campaign=1058&utm_source=git)** | Northlake, TX | On Site | Oct 07 |
 | **[FlightSafety International](https://www.flightsafety.com/)** | **[Customer Support Intern - Summer 2026](https://jobright.ai/jobs/info/68e5bf11ae2b894b1d71325c?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Oct 07 |
 | **[Harbor Group Management Company](http://harborgroupint.com)** | **[Intern, Multifamily](https://jobright.ai/jobs/info/68e5bce5e8daec61499a40c9?utm_campaign=1058&utm_source=git)** | Sereno Canyon Falls, 12000 FM 1171, Northlake, Texas, United States of America | On Site | Oct 07 |
-| ↳ | **[Intern, Multifamily](https://jobright.ai/jobs/info/68e603cee8daec61499a7707?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Oct 07 |
-| ↳ | **[Intern, Multifamily](https://jobright.ai/jobs/info/68e5fc8c1852e62f00816fbb?utm_campaign=1058&utm_source=git)** | Needham, MA | On Site | Oct 07 |
 | ↳ | **[Intern, Multifamily](https://jobright.ai/jobs/info/68e5babc1852e62f00813e45?utm_campaign=1058&utm_source=git)** | The Kendrick, 275 Second Ave, Needham, Massachusetts, United States of America | On Site | Oct 07 |
 | ↳ | **[Intern, Multifamily](https://jobright.ai/jobs/info/68e5b877e8daec61499a3e44?utm_campaign=1058&utm_source=git)** | MIRO BRICKELL, 255 SW 11th Street, Miami, Florida, United States of America | On Site | Oct 07 |
 | ↳ | **[Intern, Multifamily](https://jobright.ai/jobs/info/68e5b841ae2b894b1d712f53?utm_campaign=1058&utm_source=git)** | Nari, 3150 Wilshire Blvd, Los Angeles, California, United States of America | On Site | Oct 07 |
 | **[Canadian Solar Inc.](https://www.canadiansolar.com)** | **[intern](https://jobright.ai/jobs/info/68e5b6951852e62f00813a6a?utm_campaign=1058&utm_source=git)** | Mesquite, TX | On Site | Oct 07 |
 | **[Munson Healthcare](https://www.munsonhealthcare.org)** | **[Intern Radiology](https://jobright.ai/jobs/info/68e5b5d6ae2b894b1d712bb2?utm_campaign=1058&utm_source=git)** | Grayling, Michigan | On Site | Oct 07 |
-| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY ABC Academy Clinic Admissions Associate - Clinic Setting](https://jobright.ai/jobs/info/68e6163c1852e62f0081878c?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Oct 07 |
-| ↳ | **[INTERNAL ONLY Clinic Admissions Associate - Clinic Setting](https://jobright.ai/jobs/info/68e635171852e62f0081a08c?utm_campaign=1058&utm_source=git)** | Frisco, TX | On Site | Oct 07 |
+| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY Clinic Admissions Associate - Clinic Setting](https://jobright.ai/jobs/info/68e635171852e62f0081a08c?utm_campaign=1058&utm_source=git)** | Frisco, TX | On Site | Oct 07 |
 | **[FlightSafety International](https://www.flightsafety.com/)** | **[Customer Support Intern - Summer 2026](https://jobright.ai/jobs/info/68e5accce8daec61499a38cb?utm_campaign=1058&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 07 |
 | **[SMS Clinical Research LLC](https://smsclinicalresearch.com)** | **[Medical Internship](https://jobright.ai/jobs/info/68e6464de8daec61499aa668?utm_campaign=1058&utm_source=git)** | Mesquite, TX | On Site | Oct 07 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e5a750ae2b894b1d7126d4?utm_campaign=1058&utm_source=git)** | Uniontown, PA | On Site | Oct 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Pharmacy Intern - Contingent - Bingham Farms](https://jobright.ai/jobs/info/68e59e37ae2b894b1d711e74?utm_campaign=1058&utm_source=git)** | Bingham Farms, MI | On Site | Oct 07 |
 | **[H&R Block](https://www.hrblock.com)** | **[Embark Intern - Info Management Systems](https://jobright.ai/jobs/info/68e57374ae2b894b1d70f44b?utm_campaign=1058&utm_source=git)** | KANSAS CITY, Missouri | On Site | Oct 07 |
 | **[edc.org](http://www.edc.org)** | **[Intern, The Massachusetts Center of Excellence on Problem Gambling Prevention Technical Assistance Center](https://jobright.ai/jobs/info/68e57051b99ec3563b0f476d?utm_campaign=1058&utm_source=git)** | Waltham, MA | Remote | Oct 07 |
-| **[Albertsons Market](https://www.theunitedfamily.com/albertsons-market-careers/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68e56fb3ae2b894b1d70ee78?utm_campaign=1058&utm_source=git)** | Peoria, AZ | Hybrid | Oct 07 |
-| **[H&R Block](https://www.hrblock.com)** | **[Embark Intern - Info Management Systems](https://jobright.ai/jobs/info/68e56fb0b99ec3563b0f463d?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Oct 07 |
-| **[UNC Health Blue Ridge](https://www.unchealthblueridge.org)** | **[CNAI Intern PRN](https://jobright.ai/jobs/info/68e59be11852e62f008129ef?utm_campaign=1058&utm_source=git)** | Morganton, NC | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
