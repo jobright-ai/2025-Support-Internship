@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jewel-Osco](http://www.jewelosco.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e8ae10c72beb74cb321543?utm_campaign=1058&utm_source=git)** | Rolling Meadows, IL | Hybrid | Oct 09 |
+| **[Albertsons Market](https://www.theunitedfamily.com/albertsons-market-careers/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e8ad7ec72beb74cb321387?utm_campaign=1058&utm_source=git)** | Pocatello, ID | Hybrid | Oct 09 |
+| **[Tenova LLC](https://tenovallc.com)** | **[SkillBridge - Revenue Operations Intern](https://jobright.ai/jobs/info/68e8ad5409580a2fe57fa304?utm_campaign=1058&utm_source=git)** | United States | Remote | Oct 09 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e8a25cc72beb74cb320c35?utm_campaign=1058&utm_source=git)** | Queen Creek, AZ | On Site | Oct 09 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Pharmacy Intern - Inpatient / Bemidji - PRN](https://jobright.ai/jobs/info/68e8945809580a2fe57f95c6?utm_campaign=1058&utm_source=git)** | Bemidji, MN | On Site | Oct 09 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e89457c72beb74cb320560?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Oct 09 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e892b409580a2fe57f938d?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Oct 09 |
@@ -83,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Schneider Electric](https://www.se.com)** | **[Field Service Intern](https://jobright.ai/jobs/info/68e8669709580a2fe57f7508?utm_campaign=1058&utm_source=git)** | New City, New York | On Site | Oct 09 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/68e862abcc49a84b7e105b18?utm_campaign=1058&utm_source=git)** | Port Huron, MI | On Site | Oct 09 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68e861d709580a2fe57f735a?utm_campaign=1058&utm_source=git)** | Denver, CO | Hybrid | Oct 09 |
-| **[Banner Health](https://www.bannerhealth.com)** | **[IT Intern](https://jobright.ai/jobs/info/68e8936ac72beb74cb320425?utm_campaign=1058&utm_source=git)** | Colorado, United States | On Site | Oct 09 |
 | **[SCA Health](http://scasurgery.com)** | **[Intern, Pool - Surgery Center of Des Moines - West](https://jobright.ai/jobs/info/68e86145c72beb74cb31e344?utm_campaign=1058&utm_source=git)** | West Des Moines, IA | On Site | Oct 09 |
 | **[tms](https://themarketingstore.com)** | **[CMS Support Specialist Intern](https://jobright.ai/jobs/info/68e86132c72beb74cb31e33c?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Oct 09 |
 | **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - IT Applications](https://jobright.ai/jobs/info/68e8612809580a2fe57f72e3?utm_campaign=1058&utm_source=git)** | Renton, WA | Hybrid | Oct 09 |
@@ -133,9 +136,9 @@ For a complete list, click the following sortable link below:
 | **[Saint Luke's Health System](https://www.saintlukeskc.org)** | **[Progressive Care Unit Nursing Intern, PRN Nights](https://jobright.ai/jobs/info/68e884cbcc49a84b7e1072a4?utm_campaign=1058&utm_source=git)** | Lees Summit, MO | On Site | Oct 09 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Clearwater](https://jobright.ai/jobs/info/68e82694cc49a84b7e102d4d?utm_campaign=1058&utm_source=git)** | Clearwater, FL | On Site | Oct 09 |
 | **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Summer 2026 Intern - Customer Experience](https://jobright.ai/jobs/info/68e82554cc49a84b7e102a96?utm_campaign=1058&utm_source=git)** | Detroit, MI | Hybrid | Oct 09 |
-| **[Mitsui E&P USA LLC](https://www.mitsui-ep.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68e80670cc49a84b7e100b4c?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Oct 09 |
 | **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern P3 Contingent Rotate](https://jobright.ai/jobs/info/68e81ceecc49a84b7e10223b?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Oct 09 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/68e81774cc49a84b7e1020ca?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Oct 09 |
+| **[Mitsui E&P USA LLC](https://www.mitsui-ep.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68e83585cc49a84b7e103a89?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Oct 09 |
 | **[Saint Luke's Health System](https://www.saintlukeskc.org)** | **[East 7 Intermediate Nursing Intern, PRN Days](https://jobright.ai/jobs/info/68e8124b09580a2fe57f332e?utm_campaign=1058&utm_source=git)** | Saint Luke's Hospital   |   4401 Wornall Rd   |   Kansas City   |   MO | On Site | Oct 09 |
 | **[Apple Bank](https://www.applebank.com)** | **[2026 Summer Intern- Information Technology](https://jobright.ai/jobs/info/68e81233c4895107182c1e93?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Oct 09 |
 | **[UNHCR, the UN Refugee Agency](http://www.unhcr.org/)** | **[ICT Admin Intern](https://jobright.ai/jobs/info/68e81151cc49a84b7e101b28?utm_campaign=1058&utm_source=git)** | Washington, United States of America | On Site | Oct 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trees Atlanta](https://treesatlanta.org)** | **[Volunteer Coordination Intern](https://jobright.ai/jobs/info/68e805b2c4895107182c0c34?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Oct 09 |
 | **[St. Luke's Hospital](https://www.stlukes-stl.com/)** | **[Student Radiology Technologist - Interventional Radiology - PRN](https://jobright.ai/jobs/info/68e8008ec4895107182c09b1?utm_campaign=1058&utm_source=git)** | Chesterfield, MO | On Site | Oct 09 |
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Rad Tech Intern](https://jobright.ai/jobs/info/68e7fd78c4895107182c06f5?utm_campaign=1058&utm_source=git)** | Hiram, GA | On Site | Oct 09 |
-| **[Saint Luke's Health System](https://www.saintlukeskc.org)** | **[Progressive Care Unit Nursing Intern, PRN Nights](https://jobright.ai/jobs/info/68e7f4f609580a2fe57f16f6?utm_campaign=1058&utm_source=git)** | Saint Luke's East Hospital   |   100 NE Saint Lukes Blvd   |   Lees Summit   |   MO | On Site | Oct 09 |
-| **[Lionhart Injury Law](www.lionhartlaw.com)** | **[College Intern](https://jobright.ai/jobs/info/68e7ef4009580a2fe57f12da?utm_campaign=1058&utm_source=git)** | Atlanta Metro | Hybrid | Oct 09 |
-| **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[Nurse Intern- Adult Medical/ Telemetry](https://jobright.ai/jobs/info/68e7ee0acc49a84b7e0ff815?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
