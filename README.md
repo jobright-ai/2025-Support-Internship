@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Miro Health](https://www.mirohealth.com)** | **[Nurse Extern I - Internship](https://jobright.ai/jobs/info/68ea028acfc08e4908914738?utm_campaign=1058&utm_source=git)** | Tyler, TX | On Site | Oct 11 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Radiology Intern](https://jobright.ai/jobs/info/68e9e5a854fbf903f6a7f5b2?utm_campaign=1058&utm_source=git)** | Bismarck, ND | On Site | Oct 10 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/68e9c86ecfc08e4908912f42?utm_campaign=1058&utm_source=git)** | Greenwood Village, CO | On Site | Oct 10 |
 | **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68e9c7e1cdf8d94b293a2501?utm_campaign=1058&utm_source=git)** | Auburn, AL | On Site | Oct 10 |
 | **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, INFORMATION TECHNOLOGY SUPPORT](https://jobright.ai/jobs/info/68e9c346cdf8d94b293a2315?utm_campaign=1058&utm_source=git)** | Los Angeles County, CA | On Site | Oct 10 |
 | ↳ | **[VETERAN INTERN, OFFICE AND CLERICAL SUPPORT](https://jobright.ai/jobs/info/68e9c30554fbf903f6a7ea1b?utm_campaign=1058&utm_source=git)** | Los Angeles County, CA | On Site | Oct 10 |
 | **[Better Collective](http://bettercollective.com/)** | **[Customer Support Intern](https://jobright.ai/jobs/info/68e9c0b6cfc08e4908912a2f?utm_campaign=1058&utm_source=git)** | United States | Remote | Oct 10 |
+| **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68e9f722cdf8d94b293a370f?utm_campaign=1058&utm_source=git)** | Port Orange, FL | On Site | Oct 10 |
+| **[Sam's Club](http://www.samsclub.com)** | **[Pre Grad Intern - Sam's Pharmacy](https://jobright.ai/jobs/info/68ea0139cdf8d94b293a3c11?utm_campaign=1058&utm_source=git)** | Timonium, MD | On Site | Oct 10 |
 | **[University of Miami](http://miami.edu)** | **[Respiratory Therapy Intern, Per Diem](https://jobright.ai/jobs/info/68e9b9e30930fe0bc46288dd?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Oct 10 |
 | **[Venture Starters](https://venturestarters.com/)** | **[Student Intern](https://jobright.ai/jobs/info/68e9b656feeb0006c1a56cbb?utm_campaign=1058&utm_source=git)** | United States | Remote | Oct 10 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Intern Pharmacist PT16](https://jobright.ai/jobs/info/68e9b654feeb0006c1a56cb5?utm_campaign=1058&utm_source=git)** | Victorville, CA | On Site | Oct 10 |
@@ -145,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e917c19020b95add6a3e35?utm_campaign=1058&utm_source=git)** | Fernandina Beach, FL | On Site | Oct 10 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68e917a29020b95add6a3e1c?utm_campaign=1058&utm_source=git)** | Fairmont, WV | On Site | Oct 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e9174f9020b95add6a3dd8?utm_campaign=1058&utm_source=git)** | Anchorage, AK | On Site | Oct 10 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e916fe65768b6412b1882f?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Oct 10 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68e916df0930fe0bc462233a?utm_campaign=1058&utm_source=git)** | Tracy, CA | On Site | Oct 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e9169365768b6412b187f8?utm_campaign=1058&utm_source=git)** | Alton, IL | On Site | Oct 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e9162465768b6412b187b8?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | On Site | Oct 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/68e9152a9020b95add6a3cc0?utm_campaign=1058&utm_source=git)** | Clinton Township, NJ | On Site | Oct 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e9146065768b6412b186cf?utm_campaign=1058&utm_source=git)** | Le Roy, NY | On Site | Oct 10 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/68e914450930fe0bc46221d7?utm_campaign=1058&utm_source=git)** | Carlstadt, NJ | On Site | Oct 10 |
-| **[Sompo](https://www.sompo-intl.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68e935e365768b6412b1964a?utm_campaign=1058&utm_source=git)** | Charlotte, NC | Hybrid | Oct 10 |
-| **[Turning Stone Enterprises](https://www.turningstoneenterprises.com/)** | **[OIG IT Intern - Summer 2026](https://jobright.ai/jobs/info/68e9107565768b6412b18661?utm_campaign=1058&utm_source=git)** | Verona, NY | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
