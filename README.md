@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/68eaac702f64880ca0b53cea?utm_campaign=1058&utm_source=git)** | Des Moines Metro | On Site | Oct 11 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ea71ff8369791ef7821f98?utm_campaign=1058&utm_source=git)** | Glenshaw, PA | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ea71102f64880ca0b53123?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ea6f672f64880ca0b52f63?utm_campaign=1058&utm_source=git)** | Boca Raton, FL | On Site | Oct 11 |
@@ -144,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Service Design and Customer Experience](https://jobright.ai/jobs/info/68e93bd39020b95add6a4fce?utm_campaign=1058&utm_source=git)** | 733 St. Antoine St., Detroit, MI, 48226, US | On Site | Oct 10 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Outpatient Pharmacy Intern lll (P3)](https://jobright.ai/jobs/info/68e937530930fe0bc4623293?utm_campaign=1058&utm_source=git)** | Main Campus - Pavilion L - 660 Bannock St, Denver, CO 80204 | On Site | Oct 10 |
 | **[Community Health Systems](http://www.chs.net)** | **[Pharmacy Intern I](https://jobright.ai/jobs/info/68e936d19020b95add6a4d7e?utm_campaign=1058&utm_source=git)** | 6101 PINE RIDGE ROAD, NAPLES, FL, 34119, US | On Site | Oct 10 |
+| **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[Pediatric Inpatient Pharmacy Intern](https://jobright.ai/jobs/info/68e4f54b1852e62f0080b0d4?utm_campaign=1058&utm_source=git)** | Nashville Metro | On Site | Oct 10 |
 | **[Saint Luke's Health System](https://www.saintlukeskc.org)** | **[Medical Intermediate Cardiac Care Nursing Intern, PRN](https://jobright.ai/jobs/info/68e9820b65768b6412b1cff2?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Oct 10 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[IT Field Manager Intern](https://jobright.ai/jobs/info/68e915e79020b95add6a3d30?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Oct 10 |
 | **[Saint Luke's Health System](https://www.saintlukeskc.org)** | **[Neuro Oncology Nursing Intern, PRN](https://jobright.ai/jobs/info/68e9281865768b6412b19007?utm_campaign=1058&utm_source=git)** | Saint Luke's Hospital   |   4401 Wornall Rd   |   Kansas City   |   MO | On Site | Oct 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68e924e00930fe0bc4622844?utm_campaign=1058&utm_source=git)** | St Augustine, FL | On Site | Oct 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e924c765768b6412b18ceb?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Oct 10 |
 | **[Sompo](https://www.sompo-intl.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68e9249c65768b6412b18cbd?utm_campaign=1058&utm_source=git)** | Purchase, NY | Hybrid | Oct 10 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68e9245e9020b95add6a41a1?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Oct 10 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68e923a50930fe0bc4622745?utm_campaign=1058&utm_source=git)** | Lubbock, TX | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
