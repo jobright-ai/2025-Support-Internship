@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WEGMANS FOOD MARKET, INC](https://www.linkedin.com/company/55870983)** | **[Pharmacy Intern P1](https://jobright.ai/jobs/info/68eacd2c2f64880ca0b543f2?utm_campaign=1058&utm_source=git)** | Westwood, MA | On Site | Oct 11 |
+| **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern  P1 Contingent Rotate](https://jobright.ai/jobs/info/68eacc128369791ef782317a?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Oct 11 |
+| **[JSOC IT, Inc](https://www.jsocit.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68eaca468369791ef782308a?utm_campaign=1058&utm_source=git)** | United States | Remote | Oct 11 |
+| **[Tenet Healthcare](http://tenethealth.com)** | **[Intern Pharmacist PRN Rotating](https://jobright.ai/jobs/info/68eac2312f64880ca0b5414f?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Oct 11 |
+| **[Fort Washington Investment Advisors, Inc.](http://www.fortwashington.com)** | **[Sales Desk Intern (Touchstone Investments) (Spring, Summer or Fall 2026)](https://jobright.ai/jobs/info/68eac14a2f64880ca0b540e4?utm_campaign=1058&utm_source=git)** | US-OH-CINCINNATI | On Site | Oct 11 |
+| **[Valley Baptist Health System](https://www.valleybaptist.net)** | **[Student Intern Surgery Per Diem Days](https://jobright.ai/jobs/info/68eabdb42f64880ca0b540b6?utm_campaign=1058&utm_source=git)** | Brownsville, TX | On Site | Oct 11 |
+| **[Saia Inc.](https://saia.com)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/68eabc6a76a1db7c5985c0d5?utm_campaign=1058&utm_source=git)** | Johns Creek, GA | On Site | Oct 11 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/68eaac702f64880ca0b53cea?utm_campaign=1058&utm_source=git)** | Des Moines Metro | On Site | Oct 11 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ea71ff8369791ef7821f98?utm_campaign=1058&utm_source=git)** | Glenshaw, PA | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ea71102f64880ca0b53123?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Oct 11 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[7-Eleven](http://www.7-eleven.com)** | **[IT Field Manager Intern](https://jobright.ai/jobs/info/68e915e79020b95add6a3d30?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Oct 10 |
 | **[Saint Luke's Health System](https://www.saintlukeskc.org)** | **[Neuro Oncology Nursing Intern, PRN](https://jobright.ai/jobs/info/68e9281865768b6412b19007?utm_campaign=1058&utm_source=git)** | Saint Luke's Hospital   |   4401 Wornall Rd   |   Kansas City   |   MO | On Site | Oct 10 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68e926170930fe0bc46229ad?utm_campaign=1058&utm_source=git)** | Clifton, NJ | On Site | Oct 10 |
-| **[Sompo](https://www.sompo-intl.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68e925d80930fe0bc4622960?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | Hybrid | Oct 10 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68e925cd9020b95add6a434f?utm_campaign=1058&utm_source=git)** | Martinsburg, WV | On Site | Oct 10 |
-| **[Saint Luke's Health System](https://www.saintlukeskc.org)** | **[Medical Intermediate Cardiac Care Nursing Intern, PRN](https://jobright.ai/jobs/info/68e925869020b95add6a42f8?utm_campaign=1058&utm_source=git)** | Saint Luke's Hospital   |   4401 Wornall Rd   |   Kansas City   |   MO | On Site | Oct 10 |
-| **[Sompo](https://www.sompo-intl.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68e924e19020b95add6a421d?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Oct 10 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68e924e00930fe0bc4622844?utm_campaign=1058&utm_source=git)** | St Augustine, FL | On Site | Oct 10 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e924c765768b6412b18ceb?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Oct 10 |
-| **[Sompo](https://www.sompo-intl.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68e9249c65768b6412b18cbd?utm_campaign=1058&utm_source=git)** | Purchase, NY | Hybrid | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
