@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Intern Pharmacist PT16](https://jobright.ai/jobs/info/68eafd998369791ef7823558?utm_campaign=1058&utm_source=git)** | Fontana, CA | On Site | Oct 11 |
+| **[Venture Starters](https://venturestarters.com/)** | **[Student Intern](https://jobright.ai/jobs/info/68eafa818369791ef78234b4?utm_campaign=1058&utm_source=git)** | United States | Remote | Oct 11 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Veterinary Assistant-Triage Call Center](https://jobright.ai/jobs/info/68ead6c42f64880ca0b54492?utm_campaign=1058&utm_source=git)** | Manhattan, KS | On Site | Oct 11 |
 | **[WEGMANS FOOD MARKET, INC](https://www.linkedin.com/company/55870983)** | **[Pharmacy Intern P1](https://jobright.ai/jobs/info/68ead3762f64880ca0b5445f?utm_campaign=1058&utm_source=git)** | Burlington, MA | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern P1](https://jobright.ai/jobs/info/68eacd2c2f64880ca0b543f2?utm_campaign=1058&utm_source=git)** | Westwood, MA | On Site | Oct 11 |
@@ -75,8 +77,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ea6b2b76a1db7c5985ae90?utm_campaign=1058&utm_source=git)** | Beckley, WV | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ea6af476a1db7c5985ae5c?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ea6a5e76a1db7c5985ade3?utm_campaign=1058&utm_source=git)** | Charleston, WV | On Site | Oct 11 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ea6a1076a1db7c5985adaa?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ea6a108369791ef7821c54?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Oct 11 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ea6a1076a1db7c5985adaa?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ea69ac76a1db7c5985ad59?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Oct 11 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ea683b2f64880ca0b52caf?utm_campaign=1058&utm_source=git)** | Renton, WA | On Site | Oct 11 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ea68312f64880ca0b52ca7?utm_campaign=1058&utm_source=git)** | Highlands Ranch, CO | On Site | Oct 11 |
@@ -97,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Citadel Care Centers](https://citadelcarecenters.com/)** | **[Radiologic Technologist Student I](https://jobright.ai/jobs/info/68eadaa52f64880ca0b544ee?utm_campaign=1058&utm_source=git)** | Danville, PA | On Site | Oct 10 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Radiology Intern](https://jobright.ai/jobs/info/68e9e5a854fbf903f6a7f5b2?utm_campaign=1058&utm_source=git)** | Bismarck, ND | On Site | Oct 10 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/68e9c86ecfc08e4908912f42?utm_campaign=1058&utm_source=git)** | Greenwood Village, CO | On Site | Oct 10 |
-| **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, INFORMATION TECHNOLOGY SUPPORT](https://jobright.ai/jobs/info/68e9c346cdf8d94b293a2315?utm_campaign=1058&utm_source=git)** | Los Angeles County, CA | On Site | Oct 10 |
 | **[Better Collective](http://bettercollective.com/)** | **[Customer Support Intern](https://jobright.ai/jobs/info/68e9c0b6cfc08e4908912a2f?utm_campaign=1058&utm_source=git)** | United States | Remote | Oct 10 |
 | **[University of Miami](http://miami.edu)** | **[Respiratory Therapy Intern, Per Diem](https://jobright.ai/jobs/info/68e9b9e30930fe0bc46288dd?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Oct 10 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Intern Pharmacist PT16](https://jobright.ai/jobs/info/68e9b654feeb0006c1a56cb5?utm_campaign=1058&utm_source=git)** | Victorville, CA | On Site | Oct 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Saint Luke's Health System](https://www.saintlukeskc.org)** | **[South Float Nursing Intern, PRN](https://jobright.ai/jobs/info/68e9469165768b6412b1a17e?utm_campaign=1058&utm_source=git)** | Saint Luke's South Hospital   |   12300 Metcalf Ave   |   Overland Park   |   KS | On Site | Oct 10 |
 | **[Parnall Law Firm - Hurt? Call Bert](https://www.hurtcallbert.com)** | **[Intern/Mail Clerk](https://jobright.ai/jobs/info/68e944d79020b95add6a54b4?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Oct 10 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Technical Writing Intern - Editing & Publication](https://jobright.ai/jobs/info/68e93be89020b95add6a4feb?utm_campaign=1058&utm_source=git)** | Strongsville, OH | On Site | Oct 10 |
-| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Service Design and Customer Experience](https://jobright.ai/jobs/info/68e93bd39020b95add6a4fce?utm_campaign=1058&utm_source=git)** | 733 St. Antoine St., Detroit, MI, 48226, US | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
