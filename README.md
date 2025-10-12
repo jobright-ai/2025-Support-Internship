@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Crest Vale](crestvale.us)** | **[Client Services Intern](https://jobright.ai/jobs/info/68ebc0112f64880ca0b595dc?utm_campaign=1058&utm_source=git)** | Denver, CO | Remote | Oct 12 |
-| **[UNM Hospital](https://www.unmhjobs.com)** | **[PHARMACY INTERN](https://jobright.ai/jobs/info/68ebba888369791ef782825f?utm_campaign=1058&utm_source=git)** | Rio Rancho, NM | On Site | Oct 12 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ebb70c2f64880ca0b59473?utm_campaign=1058&utm_source=git)** | Rosedale, MD | On Site | Oct 12 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ebb2fb2f64880ca0b59401?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Oct 12 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ebb2b52f64880ca0b593f2?utm_campaign=1058&utm_source=git)** | Lutherville-Timonium, MD | On Site | Oct 12 |
@@ -93,8 +92,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ea6b2b76a1db7c5985ae90?utm_campaign=1058&utm_source=git)** | Beckley, WV | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ea6af476a1db7c5985ae5c?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ea6a5e76a1db7c5985ade3?utm_campaign=1058&utm_source=git)** | Charleston, WV | On Site | Oct 11 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ea6a108369791ef7821c54?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ea6a1076a1db7c5985adaa?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Oct 11 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ea6a108369791ef7821c54?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ea69ac76a1db7c5985ad59?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ea68312f64880ca0b52ca7?utm_campaign=1058&utm_source=git)** | Highlands Ranch, CO | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68eb1ef42f64880ca0b55057?utm_campaign=1058&utm_source=git)** | Cuyahoga Falls, OH | On Site | Oct 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Denver Health](http://www.denverhealth.org)** | **[Outpatient Pharmacy Intern lll (P3)](https://jobright.ai/jobs/info/68e9661b0930fe0bc462558c?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Oct 10 |
 | **[Cirrus](http://cirrusaircraft.com)** | **[IT Client Technology Intern](https://jobright.ai/jobs/info/68e953019020b95add6a5cbc?utm_campaign=1058&utm_source=git)** | Duluth, MN | On Site | Oct 10 |
 | **[ScionHealth](http://www.scionhealth.com/)** | **[Radiology Tech Student](https://jobright.ai/jobs/info/68e95f58f195760c354a850f?utm_campaign=1058&utm_source=git)** | Hartsville, SC | Hybrid | Oct 10 |
+| **[Commonwealth Health](https://www.commonwealthhealth.net)** | **[Nurse Intern / Extern Telemetry](https://jobright.ai/jobs/info/68e95eec65768b6412b1b43c?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
