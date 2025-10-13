@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2025 IT Operations Internship](https://jobright.ai/jobs/info/68ec250b8369791ef7828d2a?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Oct 12 |
 | **[Crest Vale](crestvale.us)** | **[Client Services Intern](https://jobright.ai/jobs/info/68ebc0112f64880ca0b595dc?utm_campaign=1058&utm_source=git)** | Denver, CO | Remote | Oct 12 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ebb70c2f64880ca0b59473?utm_campaign=1058&utm_source=git)** | Rosedale, MD | On Site | Oct 12 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ebb2fb2f64880ca0b59401?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Oct 12 |
@@ -74,10 +75,10 @@ For a complete list, click the following sortable link below:
 | **[Aston Health Consulting Services](https://astonhealthcare.com)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/68eb4c3a8369791ef7825703?utm_campaign=1058&utm_source=git)** | Lena, LA | On Site | Oct 11 |
 | ↳ | **[Nurse Extern I - Nursing Internship](https://jobright.ai/jobs/info/68eb4a088369791ef78254fc?utm_campaign=1058&utm_source=git)** | Shadybrook, TX | On Site | Oct 11 |
 | **[Venture Starters](https://venturestarters.com/)** | **[Student Intern](https://jobright.ai/jobs/info/68eafa818369791ef78234b4?utm_campaign=1058&utm_source=git)** | United States | Remote | Oct 11 |
+| **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern  P1 Contingent Rotate](https://jobright.ai/jobs/info/68ead72f2f64880ca0b544c7?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Oct 11 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Veterinary Assistant-Triage Call Center](https://jobright.ai/jobs/info/68ead6c42f64880ca0b54492?utm_campaign=1058&utm_source=git)** | Manhattan, KS | On Site | Oct 11 |
 | **[WEGMANS FOOD MARKET, INC](https://www.linkedin.com/company/55870983)** | **[Pharmacy Intern P1](https://jobright.ai/jobs/info/68ead3762f64880ca0b5445f?utm_campaign=1058&utm_source=git)** | Burlington, MA | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern P1](https://jobright.ai/jobs/info/68eacd2c2f64880ca0b543f2?utm_campaign=1058&utm_source=git)** | Westwood, MA | On Site | Oct 11 |
-| **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern  P1 Contingent Rotate](https://jobright.ai/jobs/info/68eacc128369791ef782317a?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Oct 11 |
 | **[JSOC IT, Inc](https://www.jsocit.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68eaca468369791ef782308a?utm_campaign=1058&utm_source=git)** | United States | Remote | Oct 11 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[Intern Pharmacist PRN Rotating](https://jobright.ai/jobs/info/68eac2312f64880ca0b5414f?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Oct 11 |
 | **[Fort Washington Investment Advisors, Inc.](http://www.fortwashington.com)** | **[Sales Desk Intern (Touchstone Investments) (Spring, Summer or Fall 2026)](https://jobright.ai/jobs/info/68eac14a2f64880ca0b540e4?utm_campaign=1058&utm_source=git)** | US-OH-CINCINNATI | On Site | Oct 11 |
@@ -92,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ea6b2b76a1db7c5985ae90?utm_campaign=1058&utm_source=git)** | Beckley, WV | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ea6af476a1db7c5985ae5c?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ea6a5e76a1db7c5985ade3?utm_campaign=1058&utm_source=git)** | Charleston, WV | On Site | Oct 11 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ea6a1076a1db7c5985adaa?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ea6a108369791ef7821c54?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Oct 11 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ea6a1076a1db7c5985adaa?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ea69ac76a1db7c5985ad59?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ea68312f64880ca0b52ca7?utm_campaign=1058&utm_source=git)** | Highlands Ranch, CO | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68eb1ef42f64880ca0b55057?utm_campaign=1058&utm_source=git)** | Cuyahoga Falls, OH | On Site | Oct 11 |
@@ -126,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Delfina](https://www.delfina.com/)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/68e9a9fb65768b6412b1e593?utm_campaign=1058&utm_source=git)** | Greenwood, LA | On Site | Oct 10 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/68e9a3ce65768b6412b1e3cf?utm_campaign=1058&utm_source=git)** | Englewood, CO | On Site | Oct 10 |
 | **[Parkhurst Dining](https://www.parkhurstdining.com)** | **[Hospitality Management Intern](https://jobright.ai/jobs/info/68e99f690930fe0bc4627d03?utm_campaign=1058&utm_source=git)** | Latrobe, PA | On Site | Oct 10 |
-| **[SSM Health](https://www.ssmhealth.com/)** | **[Pharmacy Intern (H)](https://jobright.ai/jobs/info/68e998d00930fe0bc46279b4?utm_campaign=1058&utm_source=git)** | Fenton, MO | On Site | Oct 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e993c165768b6412b1dbee?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Oct 10 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Parmacist Intern #207](https://jobright.ai/jobs/info/68e992670930fe0bc462749b?utm_campaign=1058&utm_source=git)** | Saratoga Springs, UT | On Site | Oct 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68e990fcf195760c354aac25?utm_campaign=1058&utm_source=git)** | Fallon, MT | On Site | Oct 10 |
