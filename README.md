@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68eca407c26b9574506f5ccf?utm_campaign=1058&utm_source=git)** | Anchorage, AK | On Site | Oct 13 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Intern - Launch Team New Hospital](https://jobright.ai/jobs/info/68ec41862f64880ca0b5a1c3?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Oct 12 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2025 IT Operations Internship](https://jobright.ai/jobs/info/68ec250b8369791ef7828d2a?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Oct 12 |
 | **[Crest Vale](crestvale.us)** | **[Client Services Intern](https://jobright.ai/jobs/info/68ebc0112f64880ca0b595dc?utm_campaign=1058&utm_source=git)** | Denver, CO | Remote | Oct 12 |
@@ -72,9 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Florida Hospital Association](https://www.fha.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/68eb5c328369791ef782651e?utm_campaign=1058&utm_source=git)** | Belcher, LA | On Site | Oct 12 |
 | **[Indiana Health Care Association](http://www.ihca.org)** | **[Nurse Extern I - Internship](https://jobright.ai/jobs/info/68eb5c022f64880ca0b57693?utm_campaign=1058&utm_source=git)** | Troup, TX | On Site | Oct 12 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Parmacist Intern #207](https://jobright.ai/jobs/info/68eb55c62f64880ca0b56d98?utm_campaign=1058&utm_source=git)** | Eagle Mountain, UT | On Site | Oct 12 |
-| **[Ventricle Health](https://www.ventriclehealth.com)** | **[Nurse Extern I - Internship](https://jobright.ai/jobs/info/68eb556d2f64880ca0b56d52?utm_campaign=1058&utm_source=git)** | Flint, TX | On Site | Oct 12 |
-| **[Aston Health Consulting Services](https://astonhealthcare.com)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/68eb4c3a8369791ef7825703?utm_campaign=1058&utm_source=git)** | Lena, LA | On Site | Oct 11 |
-| ↳ | **[Nurse Extern I - Nursing Internship](https://jobright.ai/jobs/info/68eb4a088369791ef78254fc?utm_campaign=1058&utm_source=git)** | Shadybrook, TX | On Site | Oct 11 |
+| **[Aston Health Consulting Services](https://astonhealthcare.com)** | **[Nurse Extern I - Nursing Internship](https://jobright.ai/jobs/info/68eb4a088369791ef78254fc?utm_campaign=1058&utm_source=git)** | Shadybrook, TX | On Site | Oct 11 |
 | **[Lightpath](https://lightpathfiber.com/)** | **[Intern - IT Operations Support](https://jobright.ai/jobs/info/68ec784cc26b9574506f236d?utm_campaign=1058&utm_source=git)** | Bethpage, NY | On Site | Oct 11 |
 | ↳ | **[Intern - Customer Care](https://jobright.ai/jobs/info/68ec80cc1eecd439f43f9654?utm_campaign=1058&utm_source=git)** | Bethpage, NY | On Site | Oct 11 |
 | ↳ | **[Intern - Desktop Support](https://jobright.ai/jobs/info/68ec7910c26b9574506f2438?utm_campaign=1058&utm_source=git)** | Bethpage, NY | On Site | Oct 11 |
@@ -97,8 +96,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ea6b2b76a1db7c5985ae90?utm_campaign=1058&utm_source=git)** | Beckley, WV | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ea6af476a1db7c5985ae5c?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ea6a5e76a1db7c5985ade3?utm_campaign=1058&utm_source=git)** | Charleston, WV | On Site | Oct 11 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ea6a108369791ef7821c54?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ea6a1076a1db7c5985adaa?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Oct 11 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68ea6a108369791ef7821c54?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ea69ac76a1db7c5985ad59?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68ea68312f64880ca0b52ca7?utm_campaign=1058&utm_source=git)** | Highlands Ranch, CO | On Site | Oct 11 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68eb1ef42f64880ca0b55057?utm_campaign=1058&utm_source=git)** | Cuyahoga Falls, OH | On Site | Oct 11 |
@@ -118,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Kins](https://www.kins.com/)** | **[Nurse Extern I - Nursing Internship](https://jobright.ai/jobs/info/68eadbfa76a1db7c5985c5e6?utm_campaign=1058&utm_source=git)** | Bullard, TX | On Site | Oct 10 |
 | **[Creative Health Care Management (CHCM)](https://www.chcm.com)** | **[Nurse Extern I - Internship](https://jobright.ai/jobs/info/68eada9f2f64880ca0b544eb?utm_campaign=1058&utm_source=git)** | Jacksonville, TX | On Site | Oct 10 |
 | **[Citadel Care Centers](https://citadelcarecenters.com/)** | **[Radiologic Technologist Student I](https://jobright.ai/jobs/info/68eadaa52f64880ca0b544ee?utm_campaign=1058&utm_source=git)** | Danville, PA | On Site | Oct 10 |
+| **[Walmart](http://www.walmart.com)** | **[(USA)Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68ec9bc51eecd439f43fb604?utm_campaign=1058&utm_source=git)** | Clinton, NC | On Site | Oct 10 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Radiology Intern](https://jobright.ai/jobs/info/68e9e5a854fbf903f6a7f5b2?utm_campaign=1058&utm_source=git)** | Bismarck, ND | On Site | Oct 10 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMACIST-INTERN](https://jobright.ai/jobs/info/68e9c86ecfc08e4908912f42?utm_campaign=1058&utm_source=git)** | Greenwood Village, CO | On Site | Oct 10 |
 | **[Better Collective](http://bettercollective.com/)** | **[Customer Support Intern](https://jobright.ai/jobs/info/68e9c0b6cfc08e4908912a2f?utm_campaign=1058&utm_source=git)** | United States | Remote | Oct 10 |
