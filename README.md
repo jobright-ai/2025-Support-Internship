@@ -57,16 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spring Branch ISD](https://www.springbranchisd.com)** | **[Student Intern - Technology Services (Part-Time) (CLEAR Funded) - School Year 2025-2026](https://jobright.ai/jobs/info/68ee087e81fdd1626d3a1f0d?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Oct 14 |
+| **[Pflugerville ISD](https://www.pfisd.net/)** | **[Intern/Observer, Fall. 2025](https://jobright.ai/jobs/info/68ee040781fdd1626d3a1c63?utm_campaign=1058&utm_source=git)** | Pflugerville, TX | On Site | Oct 14 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Surg Tech Intern](https://jobright.ai/jobs/info/68edff6a70b66e2345d43104?utm_campaign=1058&utm_source=git)** | Grand Island, NE | On Site | Oct 14 |
 | **[Cone Health](http://www.conehealth.com)** | **[Student Ultrasound Assistant](https://jobright.ai/jobs/info/68edfc1881fdd1626d3a1773?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Oct 14 |
 | **[Albertsons Market](https://www.theunitedfamily.com/albertsons-market-careers/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68edfb7970b66e2345d42edd?utm_campaign=1058&utm_source=git)** | Cheyenne, WY | Hybrid | Oct 14 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68edf43081fdd1626d3a0faf?utm_campaign=1058&utm_source=git)** | Fountain, CO | Hybrid | Oct 13 |
-| ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68edf3f370b66e2345d427c8?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | Hybrid | Oct 13 |
-| ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68edf36d70b66e2345d426fe?utm_campaign=1058&utm_source=git)** | Pueblo, CO | Hybrid | Oct 13 |
+| ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68edf41481fdd1626d3a0f57?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | Hybrid | Oct 13 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68edf36670b66e2345d426f2?utm_campaign=1058&utm_source=git)** | Estes Park, CO | Hybrid | Oct 13 |
-| ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68edf35881fdd1626d3a0d1e?utm_campaign=1058&utm_source=git)** | Douglas, WY | Hybrid | Oct 13 |
-| **[Jewel-Osco](http://www.jewelosco.com)** | **[Pharmacy Summer Intern](https://jobright.ai/jobs/info/68edf2df6335d3323612d427?utm_campaign=1058&utm_source=git)** | Orland Park, IL | Hybrid | Oct 13 |
-| **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68edf2d581fdd1626d3a0c12?utm_campaign=1058&utm_source=git)** | Lakewood, CO | Hybrid | Oct 13 |
+| ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/68edf2d581fdd1626d3a0c12?utm_campaign=1058&utm_source=git)** | Lakewood, CO | Hybrid | Oct 13 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/68edef9981fdd1626d3a0be4?utm_campaign=1058&utm_source=git)** | Burbank, CA | On Site | Oct 13 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Archives Technician Intern](https://jobright.ai/jobs/info/68edc35d70b66e2345d409d7?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Oct 13 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Surg Tech Intern](https://jobright.ai/jobs/info/68edc02181fdd1626d39eee1?utm_campaign=1058&utm_source=git)** | Grand Island, NE | On Site | Oct 13 |
@@ -85,9 +84,9 @@ For a complete list, click the following sortable link below:
 | **[City of Kenosha](http://www.kenosha.org)** | **[Municipal Court Clerical Intern](https://jobright.ai/jobs/info/68ed9cf96335d3323612a3db?utm_campaign=1058&utm_source=git)** | Kenosha, WI | On Site | Oct 13 |
 | **[Fresenius Medical Care](https://www.freseniusmedicalcare.com)** | **[Student Intern](https://jobright.ai/jobs/info/68ed999481fdd1626d39db14?utm_campaign=1058&utm_source=git)** | Lawrence, MA | On Site | Oct 13 |
 | **[Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the-johns-hopkins-hospital)** | **[Patient Care Tech Intern - PCT- Medical Acute Care (Day 36)](https://jobright.ai/jobs/info/68ed99656335d3323612a2e6?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Oct 13 |
+| **[Providence](http://www.providence.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/68ee0a3270b66e2345d438a1?utm_campaign=1058&utm_source=git)** | Burbank, CA | On Site | Oct 13 |
 | **[Racine Art Museum](https://www.ramart.org/)** | **[Collections Intern](https://jobright.ai/jobs/info/68ed91b470b66e2345d3f24d?utm_campaign=1058&utm_source=git)** | Racine, WI | Hybrid | Oct 13 |
-| **[Corewell Health](https://corewellhealth.org)** | **[Clinical Application Support Internship Summer 2026](https://jobright.ai/jobs/info/68ed8e0381fdd1626d39d7b0?utm_campaign=1058&utm_source=git)** | Southfield, MI | Hybrid | Oct 13 |
-| ↳ | **[Service Response and Asset Management Internship Summer 2026](https://jobright.ai/jobs/info/68ed8d8c6335d33236129fa2?utm_campaign=1058&utm_source=git)** | St Joseph, MI | Hybrid | Oct 13 |
+| **[Corewell Health](https://corewellhealth.org)** | **[Service Response and Asset Management Internship Summer 2026](https://jobright.ai/jobs/info/68ed8d8c6335d33236129fa2?utm_campaign=1058&utm_source=git)** | St Joseph, MI | Hybrid | Oct 13 |
 | **[Sutter Health](http://www.sutterhealth.org)** | **[Intern, Clinical Pharmacist](https://jobright.ai/jobs/info/68ed8d8b81fdd1626d39d716?utm_campaign=1058&utm_source=git)** | Vallejo, CA | On Site | Oct 13 |
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[2026 Digital Document Management Intern](https://jobright.ai/jobs/info/68ed87306335d33236129dd2?utm_campaign=1058&utm_source=git)** | 7030 Gentry Road, Calipatria, CA, 92233, US | On Site | Oct 13 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/68ed83146335d33236129c71?utm_campaign=1058&utm_source=git)** | Florence, OR | On Site | Oct 13 |
@@ -121,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Corewell Health](https://corewellhealth.org)** | **[Clinical Application Support Internship Summer 2026](https://jobright.ai/jobs/info/68ed4e3f81fdd1626d39ab64?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | Hybrid | Oct 13 |
 | ↳ | **[Service Response and Asset Management Internship Summer 2026](https://jobright.ai/jobs/info/68ed4d7570b66e2345d3c4fa?utm_campaign=1058&utm_source=git)** | Southfield, MI | Hybrid | Oct 13 |
 | ↳ | **[Technical Field Services Internship Summer 2026](https://jobright.ai/jobs/info/68ed4d2870b66e2345d3c446?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | Hybrid | Oct 13 |
+| ↳ | **[Clinical Application Support Internship Summer 2026](https://jobright.ai/jobs/info/68ed4cec70b66e2345d3c3cf?utm_campaign=1058&utm_source=git)** | Southfield, MI | Hybrid | Oct 13 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician](https://jobright.ai/jobs/info/68ed4af170b66e2345d3c352?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | Oct 13 |
 | **[Phelps Health](https://phelpshealth.org/)** | **[Surg Tech Intern - EWYL / IPT](https://jobright.ai/jobs/info/68ed4a9e70b66e2345d3c2cd?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Oct 13 |
 | **[Comcast](https://corporate.comcast.com)** | **[Premium Hospitality Intern](https://jobright.ai/jobs/info/68ed499881fdd1626d39a957?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Oct 13 |
