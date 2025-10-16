@@ -57,11 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, INFORMATION TECHNOLOGY SUPPORT](https://jobright.ai/jobs/info/68f09b7a1f624a7ec1cf4947?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Oct 16 |
+| **[Safeway](http://www.safeway.com)** | **[2026 Pharmacy Graduate Intern - WSU](https://jobright.ai/jobs/info/68f09b04eb273a32d976a0f0?utm_campaign=1058&utm_source=git)** | Grand Coulee, WA | Hybrid | Oct 16 |
+| ↳ | **[2026 Pharmacy Graduate Intern - WSU](https://jobright.ai/jobs/info/68f09ae21f624a7ec1cf488c?utm_campaign=1058&utm_source=git)** | Spokane, WA | Hybrid | Oct 16 |
+| **[OGP – Optical Gaging Products](https://ogpnet.com)** | **[OGP Services Admin - Intern](https://jobright.ai/jobs/info/68f09a921f624a7ec1cf4825?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | Oct 16 |
+| **[Safeway](http://www.safeway.com)** | **[2026 Pharmacy Graduate Intern - WSU](https://jobright.ai/jobs/info/68f09a65a6b9004b5e321f01?utm_campaign=1058&utm_source=git)** | Yakima, WA | Hybrid | Oct 16 |
+| ↳ | **[2026 Pharmacy Graduate Intern - WSU](https://jobright.ai/jobs/info/68f09a3ca6b9004b5e321ecc?utm_campaign=1058&utm_source=git)** | Wenatchee, WA | Hybrid | Oct 16 |
+| ↳ | **[2026 Pharmacy Graduate Intern - WSU](https://jobright.ai/jobs/info/68f099b2eb273a32d9769f08?utm_campaign=1058&utm_source=git)** | Kennewick, WA | Hybrid | Oct 16 |
+| **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, OFFICE AND CLERICAL SUPPORT](https://jobright.ai/jobs/info/68f09971eb273a32d9769ebd?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Oct 16 |
+| **[Safeway](http://www.safeway.com)** | **[2026 Pharmacy Graduate Intern - WSU](https://jobright.ai/jobs/info/68f098fea6b9004b5e321d4e?utm_campaign=1058&utm_source=git)** | Bellingham, WA | Hybrid | Oct 16 |
+| **[University of Alabama at Birmingham](http://www.uab.edu/)** | **[IT- Intern (Temp)](https://jobright.ai/jobs/info/68f085c51f624a7ec1cf39a3?utm_campaign=1058&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Oct 15 |
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Service Technician](https://jobright.ai/jobs/info/68f075f3a6b9004b5e320839?utm_campaign=1058&utm_source=git)** | Tonawanda, NY | On Site | Oct 15 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f074c1a6b9004b5e3206e8?utm_campaign=1058&utm_source=git)** | Lathrop, CA | On Site | Oct 15 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Intern Respiratory Care](https://jobright.ai/jobs/info/68f06275569e752a99d4b1bb?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Oct 15 |
 | **[Empower Aesthetics](https://www.empower.spa)** | **[Aesthetic Medical Assistant Intern](https://jobright.ai/jobs/info/68f06254569e752a99d4b160?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Oct 15 |
-| **[HCA Healthcare](https://hcahealthcare.com/)** | **[ITG IDEAL Intern](https://jobright.ai/jobs/info/68f0621f569e752a99d4b0e7?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Oct 15 |
 | **[UF Health](https://ufhealth.org/)** | **[Intern Pharmacy](https://jobright.ai/jobs/info/68f061e6569e752a99d4b077?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Oct 15 |
 | **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Claims Internship Summer 2026 – El Paso, TX](https://jobright.ai/jobs/info/68f058bc23b5702fba8ca303?utm_campaign=1058&utm_source=git)** | El Paso, TX | Hybrid | Oct 15 |
 | ↳ | **[Claims Internship Summer 2026 - Stevens Point, WI](https://jobright.ai/jobs/info/68f057a599530851ee6ecab4?utm_campaign=1058&utm_source=git)** | Stevens Point, WI | Hybrid | Oct 15 |
@@ -84,8 +93,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f02fd99821486c423ca1f6?utm_campaign=1058&utm_source=git)** | Versailles, KY | On Site | Oct 15 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f02f7c9821486c423ca0ea?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | Oct 15 |
 | **[New Season](https://newseason.com)** | **[Intern Paid](https://jobright.ai/jobs/info/68f02f42de50091dbfa5315f?utm_campaign=1058&utm_source=git)** | Hagerstown, MD | On Site | Oct 15 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f02f1578ba1621431e33bf?utm_campaign=1058&utm_source=git)** | O'Fallon, MO | On Site | Oct 15 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68f02ee79821486c423c9fc9?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Oct 15 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68f02ee79821486c423c9fc9?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Oct 15 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f02ea3de50091dbfa52fce?utm_campaign=1058&utm_source=git)** | Paducah, KY | On Site | Oct 15 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f02e489821486c423c9e85?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Oct 15 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f02e03de50091dbfa52e13?utm_campaign=1058&utm_source=git)** | Columbia, MO | On Site | Oct 15 |
@@ -104,7 +112,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f0375278ba1621431e3b97?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Oct 15 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f034f2de50091dbfa5351b?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | Oct 15 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f036669821486c423ca7f4?utm_campaign=1058&utm_source=git)** | Blue Springs, MO | On Site | Oct 15 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f0374078ba1621431e3b67?utm_campaign=1058&utm_source=git)** | Olathe, KS | On Site | Oct 15 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f0347a78ba1621431e36fc?utm_campaign=1058&utm_source=git)** | Shelbyville, KY | On Site | Oct 15 |
 | **[University of Illinois College of Medicine](http://www.medicine.uic.edu)** | **[Clinic Nurse - Academic Internal Medicine and Geriatrics, College of Medicine](https://jobright.ai/jobs/info/68f035c59821486c423ca69e?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Oct 15 |
 | **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Student Job Intern](https://jobright.ai/jobs/info/68f035a69821486c423ca661?utm_campaign=1058&utm_source=git)** | Olive Branch, MS | On Site | Oct 15 |
@@ -129,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68efcdd978ba1621431e080d?utm_campaign=1058&utm_source=git)** | Frisco, TX | On Site | Oct 15 |
 | **[Modern Woodmen of America](https://www.modernwoodmen.org)** | **[PC Services Technical Support Intern](https://jobright.ai/jobs/info/68efcdcd9821486c423c7753?utm_campaign=1058&utm_source=git)** | Rock Island, IL | On Site | Oct 15 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[IT Technical Writer Intern (Summer 2026)](https://jobright.ai/jobs/info/68efcdb578ba1621431e07e2?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Oct 15 |
+| **[MyMichigan Health](https://www.mymichigan.org)** | **[Surgical Services College Intern](https://jobright.ai/jobs/info/68efccea9821486c423c7687?utm_campaign=1058&utm_source=git)** | Saginaw, MI | On Site | Oct 15 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Specialty Mail Order Pharmacy](https://jobright.ai/jobs/info/68efcbe678ba1621431e05ce?utm_campaign=1058&utm_source=git)** | Monroeville, PA | On Site | Oct 15 |
-| **[MyMichigan Health](https://www.mymichigan.org)** | **[Surgical Services College Intern](https://jobright.ai/jobs/info/68efcbbc78ba1621431e05a5?utm_campaign=1058&utm_source=git)** | Saginaw, MI | On Site | Oct 15 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Guest Services Intern](https://jobright.ai/jobs/info/68efc13d9821486c423c715c?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Oct 15 |
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Intern](https://jobright.ai/jobs/info/68efb5d29821486c423c6d64?utm_campaign=1058&utm_source=git)** | San Marino, CA | On Site | Oct 15 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Organization, Membership, & Support Services Intern](https://jobright.ai/jobs/info/68efaf739821486c423c6c15?utm_campaign=1058&utm_source=git)** | Louisville, KY | On Site | Oct 15 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68efadcdde50091dbfa4f94d?utm_campaign=1058&utm_source=git)** | River Vale, NJ | On Site | Oct 15 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68efadaf78ba1621431dfb90?utm_campaign=1058&utm_source=git)** | Teaneck, NJ | On Site | Oct 15 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68f06eaaa6b9004b5e3202c2?utm_campaign=1058&utm_source=git)** | Berkeley Heights, NJ | On Site | Oct 15 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68efad789821486c423c6a55?utm_campaign=1058&utm_source=git)** | Perth Amboy, NJ | On Site | Oct 15 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68efad36de50091dbfa4f8c5?utm_campaign=1058&utm_source=git)** | Grapevine, TX | On Site | Oct 15 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68efad2e78ba1621431dfb0a?utm_campaign=1058&utm_source=git)** | Schererville, IN | On Site | Oct 15 |
-| **[Lazard](http://www.lazard.com)** | **[2026 Client Services Summer Internship](https://jobright.ai/jobs/info/68efa77978ba1621431df930?utm_campaign=1058&utm_source=git)** | New York, United States | Hybrid | Oct 15 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68f0757d1f624a7ec1cf313f?utm_campaign=1058&utm_source=git)** | New Brunswick, NJ | On Site | Oct 15 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f07518eb273a32d97688b9?utm_campaign=1058&utm_source=git)** | Bergenfield, NJ | On Site | Oct 15 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f07675eb273a32d9768a5f?utm_campaign=1058&utm_source=git)** | Englewood, NJ | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
