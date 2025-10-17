@@ -91,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Main Street Dermatology](mainstreetdermatology.com)** | **[Main Street Dermatology Part-Time Internship](https://jobright.ai/jobs/info/68f178acf462172a5a7d8f62?utm_campaign=1058&utm_source=git)** | Metro Detroit, MI | Hybrid | Oct 16 |
 | **[VEIT](http://veitusa.com)** | **[2026 IT Support Desk Intern](https://jobright.ai/jobs/info/68f1786ef462172a5a7d8eff?utm_campaign=1058&utm_source=git)** | Rogers, MN | On Site | Oct 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f176fae6870116b1f596b0?utm_campaign=1058&utm_source=git)** | Hackettstown, NJ | On Site | Oct 16 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f1752ce6870116b1f5944a?utm_campaign=1058&utm_source=git)** | New Providence, NJ | On Site | Oct 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f1746cef766b3f0fd0e46c?utm_campaign=1058&utm_source=git)** | Alachua, FL | On Site | Oct 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f173baef766b3f0fd0e3a9?utm_campaign=1058&utm_source=git)** | East Hanover, NJ | On Site | Oct 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f17163f462172a5a7d8972?utm_campaign=1058&utm_source=git)** | Virginia Beach, VA | On Site | Oct 16 |
@@ -103,6 +102,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f16dd1ef766b3f0fd0dfb0?utm_campaign=1058&utm_source=git)** | Chatham, NJ | On Site | Oct 16 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68f16d61ef766b3f0fd0dee8?utm_campaign=1058&utm_source=git)** | South Plainfield, NJ | On Site | Oct 16 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Technical Project Managed Services Intern](https://jobright.ai/jobs/info/68e88f2609580a2fe57f9247?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | Hybrid | Oct 16 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f16ca0ef766b3f0fd0dcdb?utm_campaign=1058&utm_source=git)** | New Providence, NJ | On Site | Oct 16 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Warehouse Associate (Seasonal)](https://jobright.ai/jobs/info/68f169a8e6870116b1f58a25?utm_campaign=1058&utm_source=git)** | US-FL-MIAMI | On Site | Oct 16 |
 | **[Nutanix](http://www.nutanix.com)** | **[Support Analytics & Operations Intern](https://jobright.ai/jobs/info/68f16914f462172a5a7d804b?utm_campaign=1058&utm_source=git)** | Durham, NC | Hybrid | Oct 16 |
 | **[Centene Corporation](http://www.centene.com)** | **[Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68f16860ef766b3f0fd0d9fe?utm_campaign=1058&utm_source=git)** | Nevada, United States | Remote | Oct 16 |
