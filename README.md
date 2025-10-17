@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f18416f462172a5a7d9859?utm_campaign=1058&utm_source=git)** | Maricopa, AZ | On Site | Oct 16 |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/68f19629f462172a5a7da4d8?utm_campaign=1058&utm_source=git)** | ADVENTHEALTH CONNERTON9441 HEALTH CENTER DR | On Site | Oct 16 |
+| **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f19617ef766b3f0fd0fc31?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Oct 16 |
+| **[EDCi](http://edci.com)** | **[FVTC IT Internship Fair](https://jobright.ai/jobs/info/68f194f3f462172a5a7da209?utm_campaign=1058&utm_source=git)** | Appleton, WI | Hybrid | Oct 16 |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/68f19451ef766b3f0fd0f861?utm_campaign=1058&utm_source=git)** | US-FL-Land O' Lakes | On Site | Oct 16 |
+| **[Nashville Zoo](https://www.nashvillezoo.org)** | **[Vet Tech Internship](https://jobright.ai/jobs/info/68f19157ef766b3f0fd0f767?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Oct 16 |
+| **[Terex Corporation](http://www.terex.com)** | **[IT Intern](https://jobright.ai/jobs/info/68f1894df462172a5a7d9b2f?utm_campaign=1058&utm_source=git)** | Watertown, SD | On Site | Oct 16 |
+| **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN (118)](https://jobright.ai/jobs/info/68f186d2e6870116b1f5a217?utm_campaign=1058&utm_source=git)** | Jefferson City, MO | On Site | Oct 16 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f185a2ef766b3f0fd0f10c?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Oct 16 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f18416f462172a5a7d9859?utm_campaign=1058&utm_source=git)** | Maricopa, AZ | On Site | Oct 16 |
 | **[Cape Cod Healthcare](http://www.capecodhealth.org/)** | **[*Diagnostic Tech Apprentice](https://jobright.ai/jobs/info/68f17d60e6870116b1f59cff?utm_campaign=1058&utm_source=git)** | Hyannis, MA | On Site | Oct 16 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Radiology Student Intern](https://jobright.ai/jobs/info/68f17d2be6870116b1f59ca2?utm_campaign=1058&utm_source=git)** | Greater Madison Area | On Site | Oct 16 |
 | **[World Relief](https://worldrelief.org/)** | **[Vision & Call Intern - Limited Term](https://jobright.ai/jobs/info/68f17c01ef766b3f0fd0eb3c?utm_campaign=1058&utm_source=git)** | Kent, WA | Hybrid | Oct 16 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68f1581ee6870116b1f575eb?utm_campaign=1058&utm_source=git)** | Remote-IL | Remote | Oct 16 |
 | ↳ | **[Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68f15816e6870116b1f575df?utm_campaign=1058&utm_source=git)** | Remote-AR | Remote | Oct 16 |
 | ↳ | **[Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68f15813f462172a5a7d6a61?utm_campaign=1058&utm_source=git)** | Remote-RI | Remote | Oct 16 |
-| ↳ | **[Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68f15804f462172a5a7d6a30?utm_campaign=1058&utm_source=git)** | Remote-DC | Remote | Oct 16 |
-| ↳ | **[Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68f157f8f462172a5a7d6a17?utm_campaign=1058&utm_source=git)** | Remote-NC | Remote | Oct 16 |
-| ↳ | **[Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68f157f0f462172a5a7d69fb?utm_campaign=1058&utm_source=git)** | Remote-AZ | Remote | Oct 16 |
-| ↳ | **[Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68f157ebf462172a5a7d69ea?utm_campaign=1058&utm_source=git)** | Remote-IN | Remote | Oct 16 |
-| ↳ | **[Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68f157dce6870116b1f575a2?utm_campaign=1058&utm_source=git)** | Remote-NV | Remote | Oct 16 |
-| ↳ | **[Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68f157cfe6870116b1f57599?utm_campaign=1058&utm_source=git)** | Remote-NE | Remote | Oct 16 |
-| ↳ | **[Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68f157c3f462172a5a7d699d?utm_campaign=1058&utm_source=git)** | Remote-MA | Remote | Oct 16 |
-| ↳ | **[Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68f15780f462172a5a7d68f6?utm_campaign=1058&utm_source=git)** | Remote-MO | Remote | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
