@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cascades](http://www.cascades.com)** | **[Design Intern](https://jobright.ai/jobs/info/68f1e1b8f462172a5a7dd473?utm_campaign=1058&utm_source=git)** | Piscataway, NJ | On Site | Oct 16 |
 | **[Texas Instruments](http://www.ti.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68f1cae4ef766b3f0fd12171?utm_campaign=1058&utm_source=git)** | SPOR 5 Foden Road, South Portland, ME, 04106, US | On Site | Oct 16 |
 | **[Centene Corporation](http://www.centene.com)** | **[Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68f1ca8ff462172a5a7dc910?utm_campaign=1058&utm_source=git)** | North Carolina, United States | Remote | Oct 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f1ca43f462172a5a7dc8ca?utm_campaign=1058&utm_source=git)** | Bakersfield, CA | On Site | Oct 16 |
@@ -94,13 +95,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f17163f462172a5a7d8972?utm_campaign=1058&utm_source=git)** | Virginia Beach, VA | On Site | Oct 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f1703ff462172a5a7d8872?utm_campaign=1058&utm_source=git)** | Denville, NJ | On Site | Oct 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f1702ef462172a5a7d8859?utm_campaign=1058&utm_source=git)** | Newberry, FL | On Site | Oct 16 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f17004e6870116b1f591f0?utm_campaign=1058&utm_source=git)** | New Providence, NJ | On Site | Oct 16 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68f16fcae6870116b1f59195?utm_campaign=1058&utm_source=git)** | Garwood, NJ | On Site | Oct 16 |
 | **[World Relief](https://worldrelief.org/)** | **[Vision & Call Intern - Limited Term](https://jobright.ai/jobs/info/68f16edee6870116b1f59017?utm_campaign=1058&utm_source=git)** | Kent, WA | Hybrid | Oct 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f16e4aef766b3f0fd0e072?utm_campaign=1058&utm_source=git)** | West Lafayette, IN | On Site | Oct 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f16dd1ef766b3f0fd0dfb0?utm_campaign=1058&utm_source=git)** | Chatham, NJ | On Site | Oct 16 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68f16d61ef766b3f0fd0dee8?utm_campaign=1058&utm_source=git)** | South Plainfield, NJ | On Site | Oct 16 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Technical Project Managed Services Intern](https://jobright.ai/jobs/info/68e88f2609580a2fe57f9247?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | Hybrid | Oct 16 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f16ca0ef766b3f0fd0dcdb?utm_campaign=1058&utm_source=git)** | New Providence, NJ | On Site | Oct 16 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Warehouse Associate (Seasonal)](https://jobright.ai/jobs/info/68f169a8e6870116b1f58a25?utm_campaign=1058&utm_source=git)** | US-FL-MIAMI | On Site | Oct 16 |
 | **[Nutanix](http://www.nutanix.com)** | **[Support Analytics & Operations Intern](https://jobright.ai/jobs/info/68f16914f462172a5a7d804b?utm_campaign=1058&utm_source=git)** | Durham, NC | Hybrid | Oct 16 |
 | **[Centene Corporation](http://www.centene.com)** | **[Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68f16860ef766b3f0fd0d9fe?utm_campaign=1058&utm_source=git)** | Nevada, United States | Remote | Oct 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68f159cbef766b3f0fd0c67b?utm_campaign=1058&utm_source=git)** | Remote-CA | Remote | Oct 16 |
 | ↳ | **[Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68f159b1ef766b3f0fd0c664?utm_campaign=1058&utm_source=git)** | Remote-DE | Remote | Oct 16 |
 | ↳ | **[Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68f159a1ef766b3f0fd0c64c?utm_campaign=1058&utm_source=git)** | Remote-ND | Remote | Oct 16 |
-| ↳ | **[Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68f1597bef766b3f0fd0c634?utm_campaign=1058&utm_source=git)** | Remote-MD | Remote | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
