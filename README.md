@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[IT Intern](https://jobright.ai/jobs/info/68f3f8109a63986de7574065?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Oct 18 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern (On-Call)](https://jobright.ai/jobs/info/68d2abab8c62e63bc7fd8d29?utm_campaign=1058&utm_source=git)** | Scotts Valley, CA | On Site | Oct 18 |
 | **[Gila River Resorts & Casinos](https://playatgila.com/)** | **[Fine Dining Guest Service Associate (Internal Only)](https://jobright.ai/jobs/info/68f3c7219a63986de7573857?utm_campaign=1058&utm_source=git)** | Chandler, AZ | On Site | Oct 18 |
 | **[Phelps Health](https://phelpshealth.org/)** | **[Student Nurse Intern IPT / Medical Oncology](https://jobright.ai/jobs/info/681dac344d7b30d51d905ce3?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Oct 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KOCH FOODS](http://kochfoods.com)** | **[Help Desk Intern](https://jobright.ai/jobs/info/68f36b9476a51a4307bce135?utm_campaign=1058&utm_source=git)** | Morton, MS | On Site | Oct 18 |
 | **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Client Services Intern](https://jobright.ai/jobs/info/68f3672c76a51a4307bce07f?utm_campaign=1058&utm_source=git)** | Denver, CO | Remote | Oct 18 |
 | **[ABB](https://global.abb/group/en)** | **[Non-ERP Junior IS Analyst Intern - Winter 2026](https://jobright.ai/jobs/info/68f35f4f9a65fd3458586a7c?utm_campaign=1058&utm_source=git)** | Location, WV | On Site | Oct 18 |
-| **[Aspire Technology Partners](http://aspiretransforms.com)** | **[Intern - NOC Analyst](https://jobright.ai/jobs/info/68f358c076a51a4307bcdb6c?utm_campaign=1058&utm_source=git)** | Eatontown, NJ | Remote | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
