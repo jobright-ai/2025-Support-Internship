@@ -64,7 +64,6 @@ For a complete list, click the following sortable link below:
 | **[Phelps Health](https://phelpshealth.org/)** | **[Student Nurse Intern - ICU / P-shift IPT](https://jobright.ai/jobs/info/68d756527a37c712687c8ec9?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Oct 19 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Pharmacy Student Intern IV (Non-Exempt)](https://jobright.ai/jobs/info/68d4d06d8c62e63bc7fecba2?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Oct 19 |
 | **[NVA Equine](https://nva.avature.net/careers/VetEquine)** | **[Equine Intern Veterinarian 25/26](https://jobright.ai/jobs/info/68d023a0dbd9fb154ededa7f?utm_campaign=1058&utm_source=git)** | Plympton, MA | On Site | Oct 19 |
-| **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68bc309b5f38327491875475?utm_campaign=1058&utm_source=git)** | Erie, PA | On Site | Oct 19 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/68d009fcdbd9fb154edecf27?utm_campaign=1058&utm_source=git)** | Skokie, IL | Hybrid | Oct 19 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f4eeaf76a51a4307bd41ae?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Oct 19 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Desktop Support Analyst Intern](https://jobright.ai/jobs/info/68bb7de25f3832749186f823?utm_campaign=1058&utm_source=git)** | Niles, IL | Hybrid | Oct 19 |
@@ -84,7 +83,7 @@ For a complete list, click the following sortable link below:
 | **[John Deere](https://www.deere.com)** | **[Information Technology Internship 2026a](https://jobright.ai/jobs/info/68e807b009580a2fe57f263a?utm_campaign=1058&utm_source=git)** | Moline, IL | Hybrid | Oct 19 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern-Information Technology](https://jobright.ai/jobs/info/68c898f3f9c6ff7aedf1094d?utm_campaign=1058&utm_source=git)** | Detroit, MI | Hybrid | Oct 19 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Veterinary Assistant-Triage Call Center](https://jobright.ai/jobs/info/68f49f129a63986de7576cfe?utm_campaign=1058&utm_source=git)** | Manhattan, KS | Hybrid | Oct 19 |
-| **[MemorialCare](https://www.memorialcare.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f48c9a76a51a4307bd2129?utm_campaign=1058&utm_source=git)** | Long Beach, CA | On Site | Oct 19 |
+| **[MemorialCare](https://www.memorialcare.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f48d319a65fd345858afd7?utm_campaign=1058&utm_source=git)** | Long Beach, CA | On Site | Oct 19 |
 | **[MemorialCare](https://www.memorialcare.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f488cf9a63986de7576025?utm_campaign=1058&utm_source=git)** | Long Beach, CA | On Site | Oct 18 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f45f7976a51a4307bd10cf?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Oct 18 |
 | **[The Westin Indianapolis](https://www.marriott.com/en-us/hotels/indwi-the-westin-indianapolis/overview/)** | **[Intern Front Desk](https://jobright.ai/jobs/info/68f459e79a63986de7574cd1?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 18 |
@@ -107,8 +106,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f3a4239a65fd3458587d55?utm_campaign=1058&utm_source=git)** | Lancaster, CA | On Site | Oct 18 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68f3a4189a65fd3458587d50?utm_campaign=1058&utm_source=git)** | Edina, MN | On Site | Oct 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f3a4109a65fd3458587d4c?utm_campaign=1058&utm_source=git)** | Lowell, MA | On Site | Oct 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f3a3e39a65fd3458587d3b?utm_campaign=1058&utm_source=git)** | Meadville, PA | On Site | Oct 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f3a3e39a65fd3458587d3c?utm_campaign=1058&utm_source=git)** | East Wenatchee, WA | On Site | Oct 18 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f3a3e39a65fd3458587d3b?utm_campaign=1058&utm_source=git)** | Meadville, PA | On Site | Oct 18 |
 | **[Phelps Health](https://phelpshealth.org/)** | **[Student Nurse Intern - Medical Oncology / IPT](https://jobright.ai/jobs/info/6850db2bdfc8581f2d6c1d2a?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Oct 18 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/68f3a3b49a65fd3458587d2b?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Oct 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f3a39d9a65fd3458587d1e?utm_campaign=1058&utm_source=git)** | Post Falls, ID | On Site | Oct 18 |
@@ -124,7 +123,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f3a25a76a51a4307bcf0eb?utm_campaign=1058&utm_source=git)** | Beaver Falls, PA | On Site | Oct 18 |
 | ↳ | **[Pharmacy Intern Grad - Sign-On Bonus Available](https://jobright.ai/jobs/info/68f3a25876a51a4307bcf0ea?utm_campaign=1058&utm_source=git)** | Austin, MN | On Site | Oct 18 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68f3a2439a65fd3458587c9f?utm_campaign=1058&utm_source=git)** | Clinton, MS | On Site | Oct 18 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68f3a24076a51a4307bcf0de?utm_campaign=1058&utm_source=git)** | Bakersfield, CA | On Site | Oct 18 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/68f3a2329a65fd3458587c93?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Oct 18 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68f3a2239a65fd3458587c89?utm_campaign=1058&utm_source=git)** | East Wenatchee, WA | On Site | Oct 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f3a1b19a63986de7573031?utm_campaign=1058&utm_source=git)** | Millwood, WA | On Site | Oct 18 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68f39fb39a63986de7572f7f?utm_campaign=1058&utm_source=git)** | Palmdale, CA | On Site | Oct 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f39fad9a63986de7572f7a?utm_campaign=1058&utm_source=git)** | Liberty Lake, WA | On Site | Oct 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f39fa79a63986de7572f77?utm_campaign=1058&utm_source=git)** | Bakersfield, CA | On Site | Oct 18 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f39f609a63986de7572f56?utm_campaign=1058&utm_source=git)** | Wenatchee, WA | On Site | Oct 18 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f39f439a63986de7572f49?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
