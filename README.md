@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[MemorialCare](https://www.memorialcare.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f48c9a76a51a4307bd2129?utm_campaign=1058&utm_source=git)** | Long Beach, CA | On Site | Oct 19 |
+| **[Kansas State University](http://www.k-state.edu/)** | **[Veterinary Assistant-Triage Call Center](https://jobright.ai/jobs/info/68f49f129a63986de7576cfe?utm_campaign=1058&utm_source=git)** | Manhattan, KS | Hybrid | Oct 19 |
+| **[MemorialCare](https://www.memorialcare.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f48d319a65fd345858afd7?utm_campaign=1058&utm_source=git)** | Long Beach, CA | On Site | Oct 19 |
 | **[MemorialCare](https://www.memorialcare.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f488cf9a63986de7576025?utm_campaign=1058&utm_source=git)** | Long Beach, CA | On Site | Oct 18 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f45f7976a51a4307bd10cf?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Oct 18 |
 | **[The Westin Indianapolis](https://www.marriott.com/en-us/hotels/indwi-the-westin-indianapolis/overview/)** | **[Intern Front Desk](https://jobright.ai/jobs/info/68f459e79a63986de7574cd1?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 18 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f3a4239a65fd3458587d55?utm_campaign=1058&utm_source=git)** | Lancaster, CA | On Site | Oct 18 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68f3a4189a65fd3458587d50?utm_campaign=1058&utm_source=git)** | Edina, MN | On Site | Oct 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f3a4109a65fd3458587d4c?utm_campaign=1058&utm_source=git)** | Lowell, MA | On Site | Oct 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f3a3e39a65fd3458587d3b?utm_campaign=1058&utm_source=git)** | Meadville, PA | On Site | Oct 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f3a3e39a65fd3458587d3c?utm_campaign=1058&utm_source=git)** | East Wenatchee, WA | On Site | Oct 18 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f3a3e39a65fd3458587d3b?utm_campaign=1058&utm_source=git)** | Meadville, PA | On Site | Oct 18 |
 | **[Phelps Health](https://phelpshealth.org/)** | **[Student Nurse Intern - Medical Oncology / IPT](https://jobright.ai/jobs/info/6850db2bdfc8581f2d6c1d2a?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Oct 18 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/68f3a3b49a65fd3458587d2b?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Oct 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f3a39d9a65fd3458587d1e?utm_campaign=1058&utm_source=git)** | Post Falls, ID | On Site | Oct 18 |
@@ -142,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - ME Neuro ICU Baptist Memphis](https://jobright.ai/jobs/info/68f39dc876a51a4307bcef3f?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Oct 18 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f39db99a63986de7572ea9?utm_campaign=1058&utm_source=git)** | Union City, NJ | On Site | Oct 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f39db29a63986de7572ea5?utm_campaign=1058&utm_source=git)** | Moses Lake, WA | On Site | Oct 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f39d9b9a63986de7572e99?utm_campaign=1058&utm_source=git)** | Jasper, IN | On Site | Oct 18 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68f39d9b9a63986de7572e9a?utm_campaign=1058&utm_source=git)** | Brookhaven, MS | On Site | Oct 18 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f39d9b9a63986de7572e99?utm_campaign=1058&utm_source=git)** | Jasper, IN | On Site | Oct 18 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern - Product Support](https://jobright.ai/jobs/info/68d6b3cad3fe025a3015b4d2?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Oct 18 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Student Radiologic Technologist-Per Diem-Day-Bellevue](https://jobright.ai/jobs/info/68f393549a65fd3458587815?utm_campaign=1058&utm_source=git)** | Bellevue, WA | On Site | Oct 18 |
 | **[Ibotta](https://home.ibotta.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68d70496d3fe025a3015e0a5?utm_campaign=1058&utm_source=git)** | Denver, CO | Hybrid | Oct 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[St. Joseph Medical Center ](https://stjosephkc.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68d756ec295f8e37655d5146?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Oct 18 |
 | **[Jewel-Osco](http://www.jewelosco.com)** | **[2026 Pharmacy Graduate Intern - Chicago State University](https://jobright.ai/jobs/info/68d7cef7295f8e37655e2624?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Oct 18 |
 | **[New Season](https://newseason.com)** | **[Intern Paid](https://jobright.ai/jobs/info/68f37c4676a51a4307bce61a?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Oct 18 |
-| **[The Toro Company](https://www.thetorocompany.com)** | **[Channel  Support Representative Intern - The Toro Company](https://jobright.ai/jobs/info/68f377ac76a51a4307bce4b5?utm_campaign=1058&utm_source=git)** | Hennepin County, MN | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
