@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/68d92fdf022fc803b4876d80?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Oct 20 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Technical Information Services](https://jobright.ai/jobs/info/68da284c0b832179ca4ab8f8?utm_campaign=1058&utm_source=git)** | Garland, TX | On Site | Oct 20 |
 | **[Stormont Vail Health](http://www.stormontvail.org)** | **[Student Nurse Intern - Variable Shifts](https://jobright.ai/jobs/info/68c289a903b99f6b34295270?utm_campaign=1058&utm_source=git)** | Topeka, KS | On Site | Oct 20 |
-| **[Allegheny Health Network](https://www.ahn.org)** | **[Pharmacy Intern-Inpatient- Allegheny General Hospital](https://jobright.ai/jobs/info/68d9061f9a8e451a446a4348?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Oct 20 |
-| ↳ | **[Pharmacy Intern- Inpatient- Allegheny General Hospital](https://jobright.ai/jobs/info/689f0d7479a9f966625545e9?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Oct 20 |
+| **[Allegheny Health Network](https://www.ahn.org)** | **[Pharmacy Intern- Inpatient- Allegheny General Hospital](https://jobright.ai/jobs/info/68cbe091efdec76df36c2cd8?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Oct 20 |
+| ↳ | **[Pharmacy Intern-Inpatient- Allegheny General Hospital](https://jobright.ai/jobs/info/68d9061f9a8e451a446a4348?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Oct 20 |
 | ↳ | **[Pharmacy Intern- Retail-Jefferson Hospital](https://jobright.ai/jobs/info/68c66585c96a22563ecee626?utm_campaign=1058&utm_source=git)** | Clairton, PA | On Site | Oct 20 |
 | **[Grifols Shared Services North America, Inc.](https://www.linkedin.com/company/56758682)** | **[Intern - Customer Care Specialist](https://jobright.ai/jobs/info/68f5fe2d76a51a4307bd7eec?utm_campaign=1058&utm_source=git)** | Durham, NC | On Site | Oct 20 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/68f5df2376a51a4307bd6b39?utm_campaign=1058&utm_source=git)** | Lacey, WA | On Site | Oct 20 |
@@ -71,9 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/68f58ca29a65fd345858de05?utm_campaign=1058&utm_source=git)** | Altoona, IA | On Site | Oct 19 |
 | **[Venture Starters](https://venturestarters.com/)** | **[Student Intern](https://jobright.ai/jobs/info/68f582b076a51a4307bd4fb0?utm_campaign=1058&utm_source=git)** | United States | Remote | Oct 19 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Information Technology Internship - Spring 2026](https://jobright.ai/jobs/info/68f566be9a65fd345858db6f?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Oct 19 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Medical Intensive Care Unit](https://jobright.ai/jobs/info/68f54a179a63986de7578c07?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Oct 19 |
-| ↳ | **[Nurse Intern - Medical Intensive Care Unit](https://jobright.ai/jobs/info/68f530259a63986de757889f?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Oct 19 |
-| **[AlixPartners](http://www.alixpartners.com)** | **[IT Service Desk Internship](https://jobright.ai/jobs/info/68d1b1258c62e63bc7fce8b2?utm_campaign=1058&utm_source=git)** | Detroit | On Site | Oct 19 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Medical Intensive Care Unit](https://jobright.ai/jobs/info/68f542a29a65fd345858d7fb?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Oct 19 |
+| ↳ | **[Nurse Intern - Medical Intensive Care Unit](https://jobright.ai/jobs/info/68f531289a65fd345858d5b1?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Oct 19 |
 | **[TriStar Horizon Medical Center](https://tristarhorizon.com/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/68117ca9b17f34deda67ce20?utm_campaign=1058&utm_source=git)** | Dickson, TN | On Site | Oct 19 |
 | **[Phelps Health](https://phelpshealth.org/)** | **[Student Nurse Intern - ICU / P-shift IPT](https://jobright.ai/jobs/info/68d756527a37c712687c8ec9?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Oct 19 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Pharmacy Student Intern IV (Non-Exempt)](https://jobright.ai/jobs/info/68d4d06d8c62e63bc7fecba2?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Oct 19 |
@@ -96,7 +96,7 @@ For a complete list, click the following sortable link below:
 | **[John Deere](https://www.deere.com)** | **[Information Technology Internship 2026a](https://jobright.ai/jobs/info/68e807b009580a2fe57f263a?utm_campaign=1058&utm_source=git)** | Moline, IL | Hybrid | Oct 19 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern-Information Technology](https://jobright.ai/jobs/info/68c898f3f9c6ff7aedf1094d?utm_campaign=1058&utm_source=git)** | Detroit, MI | Hybrid | Oct 19 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Veterinary Assistant-Triage Call Center](https://jobright.ai/jobs/info/68f49f129a63986de7576cfe?utm_campaign=1058&utm_source=git)** | Manhattan, KS | Hybrid | Oct 19 |
-| **[MemorialCare](https://www.memorialcare.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f48d319a65fd345858afd7?utm_campaign=1058&utm_source=git)** | Long Beach, CA | On Site | Oct 19 |
+| **[MemorialCare](https://www.memorialcare.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f48c9a76a51a4307bd2129?utm_campaign=1058&utm_source=git)** | Long Beach, CA | On Site | Oct 19 |
 | **[MemorialCare](https://www.memorialcare.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f488cf9a63986de7576025?utm_campaign=1058&utm_source=git)** | Long Beach, CA | On Site | Oct 18 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f45f7976a51a4307bd10cf?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Oct 18 |
 | **[Dignity Health](https://www.dignityhealth.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f43ff176a51a4307bd06e6?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Oct 18 |
@@ -116,8 +116,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f3a4239a65fd3458587d55?utm_campaign=1058&utm_source=git)** | Lancaster, CA | On Site | Oct 18 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68f3a4189a65fd3458587d50?utm_campaign=1058&utm_source=git)** | Edina, MN | On Site | Oct 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f3a4109a65fd3458587d4c?utm_campaign=1058&utm_source=git)** | Lowell, MA | On Site | Oct 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f3a3e39a65fd3458587d3b?utm_campaign=1058&utm_source=git)** | Meadville, PA | On Site | Oct 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f3a3e39a65fd3458587d3c?utm_campaign=1058&utm_source=git)** | East Wenatchee, WA | On Site | Oct 18 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f3a3e39a65fd3458587d3b?utm_campaign=1058&utm_source=git)** | Meadville, PA | On Site | Oct 18 |
 | **[Phelps Health](https://phelpshealth.org/)** | **[Student Nurse Intern - Medical Oncology / IPT](https://jobright.ai/jobs/info/6850db2bdfc8581f2d6c1d2a?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Oct 18 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/68f3a3b49a65fd3458587d2b?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Oct 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f3a39d9a65fd3458587d1e?utm_campaign=1058&utm_source=git)** | Post Falls, ID | On Site | Oct 18 |
