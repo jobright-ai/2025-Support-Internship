@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Technical Information Services](https://jobright.ai/jobs/info/68da284c0b832179ca4ab8f8?utm_campaign=1058&utm_source=git)** | Garland, TX | On Site | Oct 20 |
+| **[Stormont Vail Health](http://www.stormontvail.org)** | **[Student Nurse Intern - Variable Shifts](https://jobright.ai/jobs/info/68c289a903b99f6b34295270?utm_campaign=1058&utm_source=git)** | Topeka, KS | On Site | Oct 20 |
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Pharmacy Intern-Inpatient- Allegheny General Hospital](https://jobright.ai/jobs/info/68d9061f9a8e451a446a4348?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Oct 20 |
 | ↳ | **[Pharmacy Intern- Inpatient- Allegheny General Hospital](https://jobright.ai/jobs/info/689f0d7479a9f966625545e9?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Oct 20 |
 | ↳ | **[Pharmacy Intern- Retail-Jefferson Hospital](https://jobright.ai/jobs/info/68c66585c96a22563ecee626?utm_campaign=1058&utm_source=git)** | Clairton, PA | On Site | Oct 20 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/68f3a0879a63986de7572fca?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Oct 18 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68f3a04f9a63986de7572fbc?utm_campaign=1058&utm_source=git)** | Victorville, CA | On Site | Oct 18 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/68f3a02776a51a4307bcf007?utm_campaign=1058&utm_source=git)** | East Wenatchee, WA | On Site | Oct 18 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/68f3a01b9a63986de7572fa8?utm_campaign=1058&utm_source=git)** | Moses Lake, WA | On Site | Oct 18 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68f39fef9a63986de7572f9c?utm_campaign=1058&utm_source=git)** | Post Falls, ID | On Site | Oct 18 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/68f39fe79a63986de7572f97?utm_campaign=1058&utm_source=git)** | Spokane Valley, WA | On Site | Oct 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f39fe676a51a4307bcefed?utm_campaign=1058&utm_source=git)** | Spokane Valley, WA | On Site | Oct 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f39fd276a51a4307bcefe5?utm_campaign=1058&utm_source=git)** | New Kensington, PA | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
