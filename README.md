@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Merchandise Systems Support Internship](https://jobright.ai/jobs/info/68f93336a628d10664e8a470?utm_campaign=1058&utm_source=git)** | US-NJ-Egg Harbor Township | On Site | Oct 22 |
+| **[Safe Harbor](https://www.safeharborsc.org)** | **[Helpline Internship- Unpaid](https://jobright.ai/jobs/info/68f932f86de2db04dc3e68c7?utm_campaign=1058&utm_source=git)** | Greenville, South Carolina, United States | On Site | Oct 22 |
+| **[TRUMPF North America](https://www.us.trumpf.com)** | **[IT Intern](https://jobright.ai/jobs/info/68f92904cadb2e5a06a61aeb?utm_campaign=1058&utm_source=git)** | Farmington, CT | On Site | Oct 22 |
+| **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Customer Experience Intern - Summer 2026](https://jobright.ai/jobs/info/68f92722a628d10664e89bd0?utm_campaign=1058&utm_source=git)** | Highland Heights, OH | On Site | Oct 22 |
+| **[Cleveland Brothers Equipment Co](https://www.clevelandbrothers.com/)** | **[Summer Internship - Service Operations](https://jobright.ai/jobs/info/68f922ac6de2db04dc3e5cd1?utm_campaign=1058&utm_source=git)** | State College, PA | On Site | Oct 22 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f91892cadb2e5a06a6127c?utm_campaign=1058&utm_source=git)** | West Orange, NJ | On Site | Oct 22 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Walk in Casework Intern](https://jobright.ai/jobs/info/68f917d16de2db04dc3e55ae?utm_campaign=1058&utm_source=git)** | Silver Spring, MD USA | Hybrid | Oct 22 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/68f91751cadb2e5a06a610c3?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Oct 22 |
@@ -88,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Cleveland](https://clevelandfed.org/)** | **[End User Support Intern - Summer 2026](https://jobright.ai/jobs/info/68dc7530accfd24b67e559e3?utm_campaign=1058&utm_source=git)** | Cleveland, OH | Hybrid | Oct 22 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f8ed33a628d10664e8657a?utm_campaign=1058&utm_source=git)** | Benson, NC | On Site | Oct 22 |
 | **[Driftwood Hospitality Management](https://driftwoodhospitality.com)** | **[College Internship - Beverage - Summer 2026](https://jobright.ai/jobs/info/68dcf5eaaccfd24b67e5c0e3?utm_campaign=1058&utm_source=git)** | Osage Beach, MO | On Site | Oct 22 |
+| **[Fort Bend ISD](http://www.fortbendisd.com)** | **[AV Technician Student Intern (TEMP)](https://jobright.ai/jobs/info/68f9191b6de2db04dc3e577c?utm_campaign=1058&utm_source=git)** | Texas, United States | On Site | Oct 22 |
 | **[Portneuf Medical Center](http://www.portneuf.org)** | **[Respiratory Therapist Intern](https://jobright.ai/jobs/info/68f8ec03a628d10664e86505?utm_campaign=1058&utm_source=git)** | Pocatello, ID | On Site | Oct 22 |
 | **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/68c0e7b35c5d5f14f46e221a?utm_campaign=1058&utm_source=git)** | Kenosha, WI | On Site | Oct 22 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[IT Services & Delivery Intern](https://jobright.ai/jobs/info/68cd5c69b2a74e1837ed5fc4?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | Oct 22 |
@@ -128,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[UNM Sandoval Regional Medical Center](http://goto.unm.edu/srmc)** | **[NURSE INTERN](https://jobright.ai/jobs/info/68f887016de2db04dc3e008b?utm_campaign=1058&utm_source=git)** | Rio Rancho, NM | On Site | Oct 22 |
 | **[World Relief](https://worldrelief.org/)** | **[Vision & Call Intern - Limited Term](https://jobright.ai/jobs/info/68f16edee6870116b1f59017?utm_campaign=1058&utm_source=git)** | Kent, WA | Hybrid | Oct 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68f861f84bafad6d2d7621fd?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Oct 21 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68f860b1a628d10664e82558?utm_campaign=1058&utm_source=git)** | Trenton, NJ | On Site | Oct 21 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Technology Support, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/68ed80eb70b66e2345d3e906?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | On Site | Oct 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68f85fe9a628d10664e82501?utm_campaign=1058&utm_source=git)** | Trenton, NJ | On Site | Oct 21 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68f85e904bafad6d2d761fd9?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Oct 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[InterDigital, Inc.](https://www.interdigital.com)** | **[Intern, Desktop Systems Specialist](https://jobright.ai/jobs/info/68f836e24bafad6d2d760471?utm_campaign=1058&utm_source=git)** | Greater Philadelphia | Hybrid | Oct 21 |
 | **[Cornerstone Advocacy Service](http://www.cornerstonemn.org)** | **[Front Desk Internship](https://jobright.ai/jobs/info/68f83125ec6dbe7073fd1d11?utm_campaign=1058&utm_source=git)** | Bloomington, MN | On Site | Oct 21 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern - Spokane](https://jobright.ai/jobs/info/68d3ebbe5ae5a90cfd48221f?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Oct 21 |
-| **[University of Florida](https://www.ufl.edu)** | **[Research Computing Support and Applications Internship](https://jobright.ai/jobs/info/68f90658cadb2e5a06a5fee1?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | Oct 21 |
-| ↳ | **[Communications Support Internship](https://jobright.ai/jobs/info/68f90519a628d10664e88044?utm_campaign=1058&utm_source=git)** | Gainesville, FL | On Site | Oct 21 |
-| **[Clear Ballot Group](http://www.clearballot.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/68f82b375dc1be6012821724?utm_campaign=1058&utm_source=git)** | Nashua, NH | On Site | Oct 21 |
-| **[Humana](http://www.humana.com)** | **[UNPAID Pharmacist Intern](https://jobright.ai/jobs/info/68f8156bb0edcf159dc8e74b?utm_campaign=1058&utm_source=git)** | Remote Georgia | Remote | Oct 21 |
-| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f2cc049a63986de756c667?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
