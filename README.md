@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68f861f84bafad6d2d7621fd?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Oct 21 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68f860b1a628d10664e82558?utm_campaign=1058&utm_source=git)** | Trenton, NJ | On Site | Oct 21 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Technology Support, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/68ed80eb70b66e2345d3e906?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | On Site | Oct 21 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Intern/ Revenue Management/ Summer 2026](https://jobright.ai/jobs/info/68f849606de2db04dc3dd9b3?utm_campaign=1058&utm_source=git)** | US-GA-Atlanta | On Site | Oct 21 |
 | ↳ | **[Omni Care Intern/ Convention Services / Summer 2026](https://jobright.ai/jobs/info/68f84569a628d10664e81217?utm_campaign=1058&utm_source=git)** | US-GA-Atlanta | On Site | Oct 21 |
 | ↳ | **[Omni Care Intern/ Rooms Division/ Summer 2026](https://jobright.ai/jobs/info/68f844384bafad6d2d760f4a?utm_campaign=1058&utm_source=git)** | US-GA-Atlanta | On Site | Oct 21 |
@@ -87,11 +90,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f80723ec6dbe7073fd0786?utm_campaign=1058&utm_source=git)** | Plainsboro, NJ | On Site | Oct 21 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f8071bec6dbe7073fd077b?utm_campaign=1058&utm_source=git)** | Englishtown, NJ | On Site | Oct 21 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f8070db0edcf159dc8ddb2?utm_campaign=1058&utm_source=git)** | Highlands, NJ | On Site | Oct 21 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f80700b0edcf159dc8dda0?utm_campaign=1058&utm_source=git)** | Trenton, NJ | On Site | Oct 21 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f806915dc1be60128204f6?utm_campaign=1058&utm_source=git)** | Princeton Junction, NJ | On Site | Oct 21 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f8058eec6dbe7073fd05fb?utm_campaign=1058&utm_source=git)** | Monroe, NJ | On Site | Oct 21 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f80567ec6dbe7073fd05cb?utm_campaign=1058&utm_source=git)** | Oakhurst, NJ | On Site | Oct 21 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f8055fec6dbe7073fd05c1?utm_campaign=1058&utm_source=git)** | Willingboro, NJ | On Site | Oct 21 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f804765dc1be60128202d2?utm_campaign=1058&utm_source=git)** | Trenton, NJ | On Site | Oct 21 |
 | **[Talen Energy](https://www.talenenergy.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68ce6511fb49c96ca6e9fe20?utm_campaign=1058&utm_source=git)** | Allentown, PA | On Site | Oct 21 |
 | **[Aman](https://www.aman.com/)** | **[Food & Beverage 12 month Intern - Amangiri](https://jobright.ai/jobs/info/68f8014d5dc1be601282018b?utm_campaign=1058&utm_source=git)** | Page, AZ | On Site | Oct 21 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[IT Customer Support Assistant Summer Intern](https://jobright.ai/jobs/info/68f80056b0edcf159dc8d911?utm_campaign=1058&utm_source=git)** | Aiken, SC | On Site | Oct 21 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Clear Ballot Group](http://www.clearballot.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/68f7bc6d5dc1be601281a453?utm_campaign=1058&utm_source=git)** | Nashua, NH | On Site | Oct 21 |
 | **[Twiddy & Company Realtors](http://twiddy.com)** | **[Zone Support Specialist Intern](https://jobright.ai/jobs/info/68f7bc62ec6dbe7073fca711?utm_campaign=1058&utm_source=git)** | Duck Operations, Duck, NC, US | On Site | Oct 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f7bbeab0edcf159dc87b01?utm_campaign=1058&utm_source=git)** | Valrico, FL | On Site | Oct 21 |
-| **[UNM Hospital](https://www.unmhjobs.com)** | **[NURSE INTERN -](https://jobright.ai/jobs/info/68f7bbd5ec6dbe7073fca59a?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Oct 21 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Customer Account Analyst Co-Op](https://jobright.ai/jobs/info/68f7b6d5b0edcf159dc8759a?utm_campaign=1058&utm_source=git)** | Greene, NY | On Site | Oct 21 |
 | **[Saint Joseph Mercy Health System](http://www.stjoeshealth.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68db7596e19b9e63ba20c4c0?utm_campaign=1058&utm_source=git)** | Muskegon, MI | On Site | Oct 21 |
-| **[Henrico, Parham & Retreat Doctors' Hospitals](https://hcavirginia.com/locations/henrico-doctors/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/68cd8bd11ad6b16f0289b3ea?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Oct 21 |
-| **[SageSure](https://www.sagesure.com)** | **[Customer Experience (CX) Intern](https://jobright.ai/jobs/info/68f7a9bfb0edcf159dc85e36?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
