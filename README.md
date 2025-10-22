@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navitus Health Solutions](https://www.navitus.com/)** | **[Clinical Intern, Specialty Pharmacy](https://jobright.ai/jobs/info/68dc3ee9a125e75c4229ea2a?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Oct 22 |
+| **[Veeam Software](http://www.veeam.com)** | **[Service Desk Intern - Summer 2026](https://jobright.ai/jobs/info/68c85a9a983e6768bc54bf7f?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Oct 22 |
+| **[R3 LLC](https://www.r3-it.com)** | **[IT Internships -  FCC Students (Spring 2026 Start)](https://jobright.ai/jobs/info/68f8a03fa628d10664e84ab6?utm_campaign=1058&utm_source=git)** | Frederick, MD | On Site | Oct 22 |
+| **[Android Industries](http://www.android-ind.com/)** | **[Technical Intern](https://jobright.ai/jobs/info/68f8a0144bafad6d2d76485e?utm_campaign=1058&utm_source=git)** | Lansing Plant, 2051 S Canal Road, Lansing, Michigan, United States of America | On Site | Oct 22 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68f88afe4bafad6d2d763cdd?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Oct 22 |
 | **[UNM Sandoval Regional Medical Center](http://goto.unm.edu/srmc)** | **[NURSE INTERN](https://jobright.ai/jobs/info/68f887016de2db04dc3e008b?utm_campaign=1058&utm_source=git)** | Rio Rancho, NM | On Site | Oct 22 |
 | **[World Relief](https://worldrelief.org/)** | **[Vision & Call Intern - Limited Term](https://jobright.ai/jobs/info/68f16edee6870116b1f59017?utm_campaign=1058&utm_source=git)** | Kent, WA | Hybrid | Oct 21 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68f861f84bafad6d2d7621fd?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Oct 21 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68f860b1a628d10664e82558?utm_campaign=1058&utm_source=git)** | Trenton, NJ | On Site | Oct 21 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68f860b1a628d10664e82558?utm_campaign=1058&utm_source=git)** | Trenton, NJ | On Site | Oct 21 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Technology Support, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/68ed80eb70b66e2345d3e906?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | On Site | Oct 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68f85fe9a628d10664e82501?utm_campaign=1058&utm_source=git)** | Trenton, NJ | On Site | Oct 21 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68f85e904bafad6d2d761fd9?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Oct 21 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68f882986de2db04dc3dfd26?utm_campaign=1058&utm_source=git)** | Dresher, PA | On Site | Oct 21 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f8826a6de2db04dc3dfd12?utm_campaign=1058&utm_source=git)** | Bridgewater, NJ | On Site | Oct 21 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68f88432a628d10664e83900?utm_campaign=1058&utm_source=git)** | Chalfont, PA | On Site | Oct 21 |
@@ -100,10 +104,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f80723ec6dbe7073fd0786?utm_campaign=1058&utm_source=git)** | Plainsboro, NJ | On Site | Oct 21 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f8071bec6dbe7073fd077b?utm_campaign=1058&utm_source=git)** | Englishtown, NJ | On Site | Oct 21 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f8070db0edcf159dc8ddb2?utm_campaign=1058&utm_source=git)** | Highlands, NJ | On Site | Oct 21 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f80700b0edcf159dc8dda0?utm_campaign=1058&utm_source=git)** | Trenton, NJ | On Site | Oct 21 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f806915dc1be60128204f6?utm_campaign=1058&utm_source=git)** | Princeton Junction, NJ | On Site | Oct 21 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f80567ec6dbe7073fd05cb?utm_campaign=1058&utm_source=git)** | Oakhurst, NJ | On Site | Oct 21 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f8055fec6dbe7073fd05c1?utm_campaign=1058&utm_source=git)** | Willingboro, NJ | On Site | Oct 21 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f804765dc1be60128202d2?utm_campaign=1058&utm_source=git)** | Trenton, NJ | On Site | Oct 21 |
 | **[Talen Energy](https://www.talenenergy.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68ce6511fb49c96ca6e9fe20?utm_campaign=1058&utm_source=git)** | Allentown, PA | On Site | Oct 21 |
 | **[Aman](https://www.aman.com/)** | **[Food & Beverage 12 month Intern - Amangiri](https://jobright.ai/jobs/info/68f8014d5dc1be601282018b?utm_campaign=1058&utm_source=git)** | Page, AZ | On Site | Oct 21 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[IT Customer Support Assistant Summer Intern](https://jobright.ai/jobs/info/68f80056b0edcf159dc8d911?utm_campaign=1058&utm_source=git)** | Aiken, SC | On Site | Oct 21 |
@@ -146,15 +150,11 @@ For a complete list, click the following sortable link below:
 | **[UHS](https://uhs.com)** | **[CT TECH - TMC MAIN OP IMAGING (PRN)](https://jobright.ai/jobs/info/68f7ff62ec6dbe7073fcff8d?utm_campaign=1058&utm_source=git)** | DENISON, Texas | On Site | Oct 21 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician- Year-Round: Yoakum District](https://jobright.ai/jobs/info/68f7dc2cb0edcf159dc8a893?utm_campaign=1058&utm_source=git)** | Yoakum, TX | Hybrid | Oct 21 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Intern, Customer Experience](https://jobright.ai/jobs/info/68f7db0bb0edcf159dc8a6c0?utm_campaign=1058&utm_source=git)** | Nashville, TN | Hybrid | Oct 21 |
+| **[Lehigh Valley Health Network](http://www.lvhn.org)** | **[Diagnostic Technologist - Student](https://jobright.ai/jobs/info/68f7d1bbec6dbe7073fcc591?utm_campaign=1058&utm_source=git)** | Bethlehem, PA | On Site | Oct 21 |
+| **[SageSure](https://www.sagesure.com)** | **[Customer Experience (CX) Intern](https://jobright.ai/jobs/info/68f7cfc75dc1be601281beb6?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Oct 21 |
 | **[Saint Luke's Health System](https://www.saintlukeskc.org)** | **[NICU Nursing Intern, PRN](https://jobright.ai/jobs/info/68f803ac5dc1be6012820235?utm_campaign=1058&utm_source=git)** | Saint Luke's Hospital   |   4401 Wornall Rd   |   Kansas City   |   MO | On Site | Oct 21 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 - College Intern  - Sedona, AZ (Front Office & Recreation)](https://jobright.ai/jobs/info/68f7eae0ec6dbe7073fce6d9?utm_campaign=1058&utm_source=git)** | Hyatt Vacation Club at Piñon Pointe | On Site | Oct 21 |
 | **[Ben E. Keith Company](http://www.benekeith.com)** | **[ASPIRE Corporate IT Intern](https://jobright.ai/jobs/info/68f7c884b0edcf159dc88fc6?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Oct 21 |
 | **[Twiddy & Company Realtors](http://twiddy.com)** | **[Field Services Technician Intern](https://jobright.ai/jobs/info/68f7c842b0edcf159dc88f19?utm_campaign=1058&utm_source=git)** | Corolla, NC, US | On Site | Oct 21 |
 | **[Kessler Collection](http://www.kesslercollection.com)** | **[Rooms Intern](https://jobright.ai/jobs/info/68f7c742ec6dbe7073fcb66b?utm_campaign=1058&utm_source=git)** | Mountain Brook, AL | On Site | Oct 21 |
-| **[Twiddy & Company Realtors](http://twiddy.com)** | **[Field Services Technician Intern](https://jobright.ai/jobs/info/68f7c737ec6dbe7073fcb652?utm_campaign=1058&utm_source=git)** | Duck, NC, US | On Site | Oct 21 |
-| **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/68f7c0c8b0edcf159dc884d5?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Oct 21 |
-| **[UNM Hospital](https://www.unmhjobs.com)** | **[NURSE INTERN -](https://jobright.ai/jobs/info/68f7bffcb0edcf159dc88374?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Oct 21 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f7be2e5dc1be601281a662?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Oct 21 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f7bdddb0edcf159dc87f33?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | Oct 21 |
-| **[Summa Health](http://www.summahealth.org/)** | **[Intern - Pharmacy](https://jobright.ai/jobs/info/68f7bd3c5dc1be601281a4d5?utm_campaign=1058&utm_source=git)** | Greater Cleveland | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
