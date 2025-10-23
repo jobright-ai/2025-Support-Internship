@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Customer Care Internship](https://jobright.ai/jobs/info/68f9cffa7b89366816034685?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Oct 22 |
+| **[ASML](https://www.asml.com)** | **[Internship – Customer Badging](https://jobright.ai/jobs/info/68f9ce25cadb2e5a06a67cca?utm_campaign=1058&utm_source=git)** | Hillsboro, OR | On Site | Oct 22 |
+| **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/68596a3df7e1d7c7ec214cfc?utm_campaign=1058&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Oct 22 |
+| **[UNM Sandoval Regional Medical Center](http://goto.unm.edu/srmc)** | **[NURSE INTERN](https://jobright.ai/jobs/info/68f9cbd9cadb2e5a06a67c59?utm_campaign=1058&utm_source=git)** | Rio Rancho, NM | On Site | Oct 22 |
+| ↳ | **[NURSE INTERN](https://jobright.ai/jobs/info/68f9c9447b89366816034511?utm_campaign=1058&utm_source=git)** | Rio Rancho, NM | On Site | Oct 22 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Operations Support, Emerging Talent Intern](https://jobright.ai/jobs/info/68f9b466cadb2e5a06a671bf?utm_campaign=1058&utm_source=git)** | Staten Island, NY | On Site | Oct 22 |
 | **[Oviedo Medical Center](https://www.hcafloridahealthcare.com/locations/oviedo-medical-center/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/68f9afc46de2db04dc3eb3ce?utm_campaign=1058&utm_source=git)** | Oviedo, FL | On Site | Oct 22 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68f9abdbcadb2e5a06a66c8c?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Oct 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f8fd5ecadb2e5a06a5f4e6?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | Oct 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f91225cadb2e5a06a60b80?utm_campaign=1058&utm_source=git)** | Lawrence, KS | On Site | Oct 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68f8f824cadb2e5a06a5eacc?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Oct 22 |
-| **[Baptist Health](http://careers.baptisthealth.net)** | **[Invasive Radiology Tech Intern, Cardiac Cath Lab, 1 Day, 10 Hour Shift, Weekday](https://jobright.ai/jobs/info/6888d8fa9f961617fe20fe43?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Oct 22 |
-| **[WakeMed](http://wakemed.org/)** | **[Ultrasound, Student Scholar](https://jobright.ai/jobs/info/68dbf6466f6c5c3fadf3569a?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Oct 22 |
-| **[Driftwood Hospitality Management](https://driftwoodhospitality.com)** | **[College Internship - Front Desk - Summer 2026](https://jobright.ai/jobs/info/68ea322e6afbef49f2c661ca?utm_campaign=1058&utm_source=git)** | Osage Beach, MO | On Site | Oct 22 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - Med/Surg 6T](https://jobright.ai/jobs/info/681574c74b2da7f970423725?utm_campaign=1058&utm_source=git)** | Southaven, MS | On Site | Oct 22 |
-| **[Federated Insurance](https://www.federatedinsurance.com/)** | **[IT Intern - Summer of 2026](https://jobright.ai/jobs/info/68c0c9975c5d5f14f46e0ff8?utm_campaign=1058&utm_source=git)** | Owatonna, MN | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
