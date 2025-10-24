@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brown Gibbons Lang & Company (BGL)](http://www.bglco.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68fbcf1a4129dd33cd134f3d?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Oct 24 |
+| **[Egan Company](https://www.eganco.com/)** | **[IT Systems and Support Intern - Summer 2026](https://jobright.ai/jobs/info/68fbcb5c4129dd33cd134b37?utm_campaign=1058&utm_source=git)** | Champlin, MN | Hybrid | Oct 24 |
+| **[Erickson Senior Living](https://www.ericksonseniorlivingcareers.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/68fbc19093c49825ab1056d4?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Oct 24 |
 | **[Cub](https://www.cub.com)** | **[Cub Pharmacy Grad Intern](https://jobright.ai/jobs/info/68fbb6a14129dd33cd134151?utm_campaign=1058&utm_source=git)** | Minnesota, United States | On Site | Oct 24 |
 | **[Cleveland Brothers Equipment Co](https://www.clevelandbrothers.com/)** | **[Summer Internship - Service Operations](https://jobright.ai/jobs/info/68fbb2eaf55bb021a889ba11?utm_campaign=1058&utm_source=git)** | Hunker, PA | On Site | Oct 24 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68fbad83f55bb021a889b78b?utm_campaign=1058&utm_source=git)** | Mullica Hill, NJ | On Site | Oct 24 |
@@ -112,8 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Information Technology Internship - Spring 2026](https://jobright.ai/jobs/info/68fb830bf55bb021a889a355?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Oct 24 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern (On-Call)](https://jobright.ai/jobs/info/68fa7181edd190144238c809?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Oct 24 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I](https://jobright.ai/jobs/info/67de91a4d5e015ca29582be3?utm_campaign=1058&utm_source=git)** | Huntingdon, TN | On Site | Oct 24 |
-| **[Verizon Connect](https://www.verizonconnect.com/)** | **[Analyst-Operations Support](https://jobright.ai/jobs/info/68fb704ff55bb021a8899e2b?utm_campaign=1058&utm_source=git)** | Annapolis Junction, MD | Hybrid | Oct 24 |
-| **[Walmart](http://www.walmart.com)** | **[Pharmacy Grad Intern (Hrly) - Pharmacy Grad Intern - $25,000 Sign On Bonus (2026 Grad Sign On Program)](https://jobright.ai/jobs/info/68fb8d734129dd33cd132b32?utm_campaign=1058&utm_source=git)** | Franklin, NC | On Site | Oct 24 |
+| **[Walmart](http://www.walmart.com)** | **[Pharmacy Grad Intern (Hrly)](https://jobright.ai/jobs/info/68df09df5ab4977c2e94d3ac?utm_campaign=1058&utm_source=git)** | Bloomington, MN | On Site | Oct 24 |
 | **[Greystone](https://www.greystone.com)** | **[Summer 2026: Information Technology Internship](https://jobright.ai/jobs/info/68cbc3dd9e3a822f5d24b921?utm_campaign=1058&utm_source=git)** | Warrenton, VA | On Site | Oct 24 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Help Desk Intern](https://jobright.ai/jobs/info/68de945209bda65a4b62b5b3?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Oct 24 |
 | **[Destination by Hyatt](https://www.thewoodmark.com/still-spa.htm)** | **[Summer 2026- Front Office Internship](https://jobright.ai/jobs/info/68de8387a125e75c422b4abb?utm_campaign=1058&utm_source=git)** | Isle of Palms, SC | On Site | Oct 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UF Health Jacksonville](https://ufhealthjax.org)** | **[L1 Pharmacy Intern / Pharmacy / Variable / PRN](https://jobright.ai/jobs/info/68fadb243c99cc1d96026dca?utm_campaign=1058&utm_source=git)** | Gainesville, Florida | On Site | Oct 23 |
 | **[ArchBridge Family Office](http://stlouistrust.com)** | **[Intern](https://jobright.ai/jobs/info/68fad6503c99cc1d96026bba?utm_campaign=1058&utm_source=git)** | ST. LOUIS,MO,US | On Site | Oct 23 |
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[Pharmacy Intern - Per Diem / Flexible Hours](https://jobright.ai/jobs/info/68fad51f8d32c164778cbc96?utm_campaign=1058&utm_source=git)** | US-OH-Cincinnati | On Site | Oct 23 |
-| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Store Systems Technical Writing Internship](https://jobright.ai/jobs/info/68fad4be3c99cc1d96026a0b?utm_campaign=1058&utm_source=git)** | US-NJ-Egg Harbor Township | Hybrid | Oct 23 |
-| **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fad1fb3c99cc1d960269bf?utm_campaign=1058&utm_source=git)** | Bothell, WA | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
