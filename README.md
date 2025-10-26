@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alabama Ag Credit](https://www.alabamaagcredit.com)** | **[Skillbridge- IT Systems Analyst I Internship (DoD Partnership)](https://jobright.ai/jobs/info/68fd7d8be0c73b3a111924e7?utm_campaign=1058&utm_source=git)** | Montgomery, AL | On Site | Oct 25 |
 | **[FMD Companies](https://fmdcompanies.com)** | **[Student Intern](https://jobright.ai/jobs/info/68fd609f0ab3b222462a1c10?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Oct 25 |
 | **[SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED](http://www.sanmina.com)** | **[IT College Graduate Intern](https://jobright.ai/jobs/info/68fd4e8ee0c73b3a11191ade?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | Oct 25 |
 | **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern  P1 Contingent Rotate](https://jobright.ai/jobs/info/68fd32990ab3b222462a13d5?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Oct 25 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[UNM Sandoval Regional Medical Center](http://goto.unm.edu/srmc)** | **[NURSE INTERN](https://jobright.ai/jobs/info/68fc701a93c49825ab10cef6?utm_campaign=1058&utm_source=git)** | Rio Rancho, NM | On Site | Oct 24 |
 | ↳ | **[NURSE INTERN](https://jobright.ai/jobs/info/68fc6d9ef55bb021a88a3b01?utm_campaign=1058&utm_source=git)** | Rio Rancho, NM | On Site | Oct 24 |
 | **[Health Jeanie](http://jeanie.health)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/68fc6cba4129dd33cd13bf02?utm_campaign=1058&utm_source=git)** | Hessmer, LA | On Site | Oct 24 |
+| **[Seacrest Behavioral Health](https://www.seacrestrecoverycenter.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/68fd6e4ee04ac838fb5af073?utm_campaign=1058&utm_source=git)** | Haughton, LA | On Site | Oct 24 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #385](https://jobright.ai/jobs/info/68fc6bd24129dd33cd13be73?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Oct 24 |
 | **[Bold Steps Behavioral Health](https://boldstepsbh.com/)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/68fc6b404129dd33cd13be38?utm_campaign=1058&utm_source=git)** | Hineston, LA | On Site | Oct 24 |
 | **[Health Care Administrators Association® (HCAA)](https://www.hcaa.org/)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/68fc828c664c6f162a950cb1?utm_campaign=1058&utm_source=git)** | Frierson, LA | On Site | Oct 24 |
-| **[New Season](https://newseason.com)** | **[Intern Paid](https://jobright.ai/jobs/info/68fc5ff74129dd33cd13b882?utm_campaign=1058&utm_source=git)** | Ocala, FL | On Site | Oct 24 |
-| **[Twin County Regional Healthcare - Duke LifePoint Healthcare](https://www.tcrh.org)** | **[RN, Intern II - PRN](https://jobright.ai/jobs/info/68fc8ea9664c6f162a95218f?utm_campaign=1058&utm_source=git)** | Galax, VA, US | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
