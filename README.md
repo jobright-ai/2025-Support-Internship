@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68fea24ae0c73b3a11197892?utm_campaign=1058&utm_source=git)** | Laveen, AZ | On Site | Oct 26 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[IT Support Intern - Summer 2026](https://jobright.ai/jobs/info/68fe8ccf0ab3b222462a72ed?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Oct 26 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68fe83100ab3b222462a7128?utm_campaign=1058&utm_source=git)** | Laveen, AZ | On Site | Oct 26 |
 | **[GRS Technology Solutions](https://www.grstechnologysolutions.com/)** | **[GRS Helpdesk/IT Support Internship](https://jobright.ai/jobs/info/68fe6bf3e0c73b3a11197159?utm_campaign=1058&utm_source=git)** | Fairfax, VA | On Site | Oct 26 |
-| **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM - Saratoga, NY](https://jobright.ai/jobs/info/68fe88eee04ac838fb5b4602?utm_campaign=1058&utm_source=git)** | Saratoga Springs, NY | On Site | Oct 26 |
+| **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68fea1dce0c73b3a11197875?utm_campaign=1058&utm_source=git)** | Madill, OK | On Site | Oct 26 |
+| ↳ | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68fea2a80ab3b222462a7483?utm_campaign=1058&utm_source=git)** | Woodward, OK | On Site | Oct 26 |
+| ↳ | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/68fea1dbe0c73b3a11197873?utm_campaign=1058&utm_source=git)** | Seminole, OK | On Site | Oct 26 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Customer Experience Operations Intern](https://jobright.ai/jobs/info/68fb27243c99cc1d96028fb0?utm_campaign=1058&utm_source=git)** | Portland, OR | Hybrid | Oct 26 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[INTERN/CO-OP - Spring 2026 - IT](https://jobright.ai/jobs/info/689ad9fb83d13d1f5b69d187?utm_campaign=1058&utm_source=git)** | Filer City, MI | On Site | Oct 26 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fe2fd8e04ac838fb5b3c70?utm_campaign=1058&utm_source=git)** | Salisbury, NC | On Site | Oct 26 |
@@ -108,9 +111,9 @@ For a complete list, click the following sortable link below:
 | **[UNM Hospital](https://www.unmhjobs.com)** | **[NURSE INTERN -](https://jobright.ai/jobs/info/68fcfb720ab3b222462a0b54?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Oct 25 |
 | ↳ | **[NURSE INTERN -](https://jobright.ai/jobs/info/68fcfb37e0c73b3a11190f2c?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Oct 25 |
 | ↳ | **[NURSE INTERN -](https://jobright.ai/jobs/info/68fcfb00e0c73b3a11190f22?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Oct 25 |
-| **[Trinity Health](http://www.trinity-health.org)** | **[Community Pharmacy Intern](https://jobright.ai/jobs/info/68fcf5a0e04ac838fb5addc9?utm_campaign=1058&utm_source=git)** | Muskegon, MI | On Site | Oct 25 |
+| **[Trinity Health](http://www.trinity-health.org)** | **[Surgical Technologist Intern](https://jobright.ai/jobs/info/688c2d511808534a89cb9062?utm_campaign=1058&utm_source=git)** | Syracuse, NY | On Site | Oct 25 |
+| ↳ | **[Community Pharmacy Intern](https://jobright.ai/jobs/info/68fcf5a0e04ac838fb5addc9?utm_campaign=1058&utm_source=git)** | Muskegon, MI | On Site | Oct 25 |
 | **[Meijer](https://www.meijer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/68fe28a80ab3b222462a6768?utm_campaign=1058&utm_source=git)** | Portage Road - South Bend, IN | On Site | Oct 25 |
-| **[Trinity Health](http://www.trinity-health.org)** | **[Surgical Technologist Intern](https://jobright.ai/jobs/info/68ce2cf11ad6b16f028a290f?utm_campaign=1058&utm_source=git)** | Syracuse, NY | On Site | Oct 25 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/68fce9c7e0c73b3a11190b38?utm_campaign=1058&utm_source=git)** | Callao, VA | On Site | Oct 25 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68fce9a2e0c73b3a11190b2b?utm_campaign=1058&utm_source=git)** | Dickson, TN | On Site | Oct 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fce85c0ab3b222462a061b?utm_campaign=1058&utm_source=git)** | Montgomery, NY | On Site | Oct 25 |
@@ -123,13 +126,13 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68fce1c0e0c73b3a11190862?utm_campaign=1058&utm_source=git)** | Greeneville, TN | On Site | Oct 25 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68fce16fe0c73b3a1119083c?utm_campaign=1058&utm_source=git)** | Lees Summit, MO | On Site | Oct 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fce13de04ac838fb5ad7dc?utm_campaign=1058&utm_source=git)** | Fort Smith, AR | On Site | Oct 25 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fce117e04ac838fb5ad7c5?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Oct 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fce117e04ac838fb5ad7c4?utm_campaign=1058&utm_source=git)** | Dobbs Ferry, NY | On Site | Oct 25 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fce117e04ac838fb5ad7c5?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Oct 25 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68fce09fe0c73b3a111907c9?utm_campaign=1058&utm_source=git)** | Muskogee, OK | On Site | Oct 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fce07ce0c73b3a111907a9?utm_campaign=1058&utm_source=git)** | Yonkers, NY | On Site | Oct 25 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68fce0590ab3b222462a0404?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Oct 25 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fce053e04ac838fb5ad768?utm_campaign=1058&utm_source=git)** | Bronx, NY | On Site | Oct 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fce04ae04ac838fb5ad766?utm_campaign=1058&utm_source=git)** | Saukville, WI | On Site | Oct 25 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fcdfa30ab3b222462a03ac?utm_campaign=1058&utm_source=git)** | Bronx, NY | On Site | Oct 25 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68fcdf7be04ac838fb5ad703?utm_campaign=1058&utm_source=git)** | Hendersonville, TN | On Site | Oct 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fcdf51e0c73b3a1119070b?utm_campaign=1058&utm_source=git)** | Jenkins, KY | On Site | Oct 25 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Paid Internship (Dix Hills, NY)](https://jobright.ai/jobs/info/68df49ea6be63b6ec996e74e?utm_campaign=1058&utm_source=git)** | Dix Hills, NY | On Site | Oct 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68fcdce3e04ac838fb5ad5ba?utm_campaign=1058&utm_source=git)** | Cookeville, TN | On Site | Oct 25 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Pharmacy Student Intern IV (Non-Exempt)](https://jobright.ai/jobs/info/68dff1e8f758fe1f97e48298?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Oct 25 |
 | **[Dentsply Sirona](https://www.dentsplysirona.com)** | **[IT Intern](https://jobright.ai/jobs/info/68cb39989e3a822f5d243f44?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Oct 25 |
-| **[Packsize](https://www.packsize.com)** | **[Service Desk Specialist Intern](https://jobright.ai/jobs/info/68e01592b99ec3563b0cb896?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Oct 25 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/682420b9b933e9f19acb845a?utm_campaign=1058&utm_source=git)** | Dickinson, ND | On Site | Oct 25 |
-| **[New England Baptist Hospital](http://www.nebh.org/)** | **[Meredith Cameron Intern](https://jobright.ai/jobs/info/68dff2e3b99ec3563b0ca652?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
