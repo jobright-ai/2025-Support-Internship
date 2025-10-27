@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precoat Metals](http://precoatmetals.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/68fecb6b0ab3b222462a77b0?utm_campaign=1058&utm_source=git)** | Deerfield, IL | On Site | Oct 26 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68fea24ae0c73b3a11197892?utm_campaign=1058&utm_source=git)** | Laveen, AZ | On Site | Oct 26 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[IT Support Intern - Summer 2026](https://jobright.ai/jobs/info/68fe8ccf0ab3b222462a72ed?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Oct 26 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/68fe83100ab3b222462a7128?utm_campaign=1058&utm_source=git)** | Laveen, AZ | On Site | Oct 26 |
@@ -68,18 +69,17 @@ For a complete list, click the following sortable link below:
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[INTERN/CO-OP - Spring 2026 - IT](https://jobright.ai/jobs/info/689ad9fb83d13d1f5b69d187?utm_campaign=1058&utm_source=git)** | Filer City, MI | On Site | Oct 26 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fe2fd8e04ac838fb5b3c70?utm_campaign=1058&utm_source=git)** | Salisbury, NC | On Site | Oct 26 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/66c51ecb8dcc81aef5709142?utm_campaign=1058&utm_source=git)** | Williston, ND | On Site | Oct 26 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fe2e43e04ac838fb5b3c0b?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | On Site | Oct 26 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68fe2df60ab3b222462a6814?utm_campaign=1058&utm_source=git)** | Lexington, NC | On Site | Oct 26 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68fe2df60ab3b222462a6814?utm_campaign=1058&utm_source=git)** | Lexington, NC | On Site | Oct 26 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fe2bc0e0c73b3a11196c2c?utm_campaign=1058&utm_source=git)** | Tahlequah, OK | On Site | Oct 26 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fe2b27e0c73b3a11196c0a?utm_campaign=1058&utm_source=git)** | Statesville, NC | On Site | Oct 26 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fe2ad8e0c73b3a11196bf5?utm_campaign=1058&utm_source=git)** | Alma, AR | On Site | Oct 26 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68fe2ac1e0c73b3a11196beb?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | On Site | Oct 26 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fe2a96e04ac838fb5b3bd3?utm_campaign=1058&utm_source=git)** | Broken Arrow, OK | On Site | Oct 26 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fe2a8fe0c73b3a11196bda?utm_campaign=1058&utm_source=git)** | Palm Springs, CA | On Site | Oct 26 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fe2a88e04ac838fb5b3bcf?utm_campaign=1058&utm_source=git)** | Alma, AR | On Site | Oct 26 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fe2a87e0c73b3a11196bd3?utm_campaign=1058&utm_source=git)** | Fort Smith, AR | On Site | Oct 26 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fe2a820ab3b222462a67e1?utm_campaign=1058&utm_source=git)** | Lexington, NC | On Site | Oct 26 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68fe2a620ab3b222462a67da?utm_campaign=1058&utm_source=git)** | Clemmons, NC | On Site | Oct 26 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fe2a59e0c73b3a11196bc3?utm_campaign=1058&utm_source=git)** | Owasso, OK | On Site | Oct 26 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fe2a57e04ac838fb5b3bbf?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | On Site | Oct 26 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fe2a49e04ac838fb5b3bbc?utm_campaign=1058&utm_source=git)** | Palm Springs, CA | On Site | Oct 26 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fe2a35e0c73b3a11196bb7?utm_campaign=1058&utm_source=git)** | Clemmons, NC | On Site | Oct 26 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fe29fbe0c73b3a11196bad?utm_campaign=1058&utm_source=git)** | Greenwood, AR | On Site | Oct 26 |
@@ -131,8 +131,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68fce09fe0c73b3a111907c9?utm_campaign=1058&utm_source=git)** | Muskogee, OK | On Site | Oct 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fce07ce0c73b3a111907a9?utm_campaign=1058&utm_source=git)** | Yonkers, NY | On Site | Oct 25 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68fce0590ab3b222462a0404?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Oct 25 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fce053e04ac838fb5ad768?utm_campaign=1058&utm_source=git)** | Bronx, NY | On Site | Oct 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fce04ae04ac838fb5ad766?utm_campaign=1058&utm_source=git)** | Saukville, WI | On Site | Oct 25 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fcdfa30ab3b222462a03ac?utm_campaign=1058&utm_source=git)** | Bronx, NY | On Site | Oct 25 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/68fcdf7be04ac838fb5ad703?utm_campaign=1058&utm_source=git)** | Hendersonville, TN | On Site | Oct 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/68fcdf51e0c73b3a1119070b?utm_campaign=1058&utm_source=git)** | Jenkins, KY | On Site | Oct 25 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Paid Internship (Dix Hills, NY)](https://jobright.ai/jobs/info/68df49ea6be63b6ec996e74e?utm_campaign=1058&utm_source=git)** | Dix Hills, NY | On Site | Oct 25 |
