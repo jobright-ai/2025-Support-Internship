@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UNM Sandoval Regional Medical Center](http://goto.unm.edu/srmc)** | **[NURSE INTERN](https://jobright.ai/jobs/info/6901c0ecd5259a1b3cff7add?utm_campaign=1058&utm_source=git)** | Rio Rancho, NM | On Site | Oct 29 |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #495](https://jobright.ai/jobs/info/6901bfa94539ea1f21422c39?utm_campaign=1058&utm_source=git)** | West Jordan, UT | On Site | Oct 29 |
+| **[UNM Sandoval Regional Medical Center](http://goto.unm.edu/srmc)** | **[NURSE INTERN](https://jobright.ai/jobs/info/6901b79f4539ea1f21422881?utm_campaign=1058&utm_source=git)** | Rio Rancho, NM | On Site | Oct 28 |
+| ↳ | **[NURSE INTERN](https://jobright.ai/jobs/info/6901b5db4539ea1f214227c5?utm_campaign=1058&utm_source=git)** | Rio Rancho, NM | On Site | Oct 28 |
+| ↳ | **[NURSE INTERN](https://jobright.ai/jobs/info/6901b4b8d5259a1b3cff7567?utm_campaign=1058&utm_source=git)** | Rio Rancho, NM | On Site | Oct 28 |
 | **[Prologis](http://www.prologis.com)** | **[Intern, RECX/Property Management](https://jobright.ai/jobs/info/69019a9f4539ea1f21421b88?utm_campaign=1058&utm_source=git)** | Atlanta, Georgia | On Site | Oct 28 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69019842d5259a1b3cff692d?utm_campaign=1058&utm_source=git)** | La Verne, CA | On Site | Oct 28 |
 | **[America First Credit Union](http://www.americafirst.com)** | **[Student Trainee - Teller](https://jobright.ai/jobs/info/6901934fd5259a1b3cff6550?utm_campaign=1058&utm_source=git)** | Ogden, UT | On Site | Oct 28 |
@@ -82,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health - Central Alabama](https://www.baptistfirst.org/baptist-health-neurosurgery-clinic-and-baptist-health-physical-medicine-rehabilitation-clinic/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69015f804539ea1f2141f906?utm_campaign=1058&utm_source=git)** | Montgomery, AL | On Site | Oct 28 |
 | **[Federal Reserve Bank of Cleveland](https://clevelandfed.org/)** | **[End User Support Intern - Summer 2026](https://jobright.ai/jobs/info/68dc7530accfd24b67e559e3?utm_campaign=1058&utm_source=git)** | Cleveland, OH | Hybrid | Oct 28 |
 | **[UMass Memorial Health](https://www.ummhealth.org)** | **[Pharmacy Intern, Inpatient Pharmacy, Per Diem](https://jobright.ai/jobs/info/69015f204539ea1f2141f8c4?utm_campaign=1058&utm_source=git)** | Worcester, MA | On Site | Oct 28 |
-| **[America First Credit Union](http://www.americafirst.com)** | **[Student Trainee - Teller](https://jobright.ai/jobs/info/69015e48f8ce7a040fdbf2dd?utm_campaign=1058&utm_source=git)** | Utah, United States | On Site | Oct 28 |
 | **[Trinity Health](http://www.trinityhealth.org/)** | **[Intern, Pharmacy (714)](https://jobright.ai/jobs/info/69017d2cf8ce7a040fdc01d9?utm_campaign=1058&utm_source=git)** | Minot, ND, USA | On Site | Oct 28 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6901544df8ce7a040fdbee7d?utm_campaign=1058&utm_source=git)** | Rockford, IL | On Site | Oct 28 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69014c6af8ce7a040fdbeaaa?utm_campaign=1058&utm_source=git)** | Easton, PA | On Site | Oct 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6900ddd5d5259a1b3cfef288?utm_campaign=1058&utm_source=git)** | Laramie, WY | On Site | Oct 28 |
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/6900dd184539ea1f2141a350?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Oct 28 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6900dcfed5259a1b3cfef1d6?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Oct 28 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6900dce5d5259a1b3cfef1be?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Oct 28 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6900dc894539ea1f2141a30a?utm_campaign=1058&utm_source=git)** | Belleville, IL | On Site | Oct 28 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6900da4e4539ea1f2141a1f9?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Oct 28 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6900da4dd5259a1b3cfef065?utm_campaign=1058&utm_source=git)** | New Port Richey, FL | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
