@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Samaritan Health Services](https://www.samhealth.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6903125098707b2b0fe74ecf?utm_campaign=1058&utm_source=git)** | Albany, OR | On Site | Oct 30 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69030b5698707b2b0fe74afb?utm_campaign=1058&utm_source=git)** | Cameron Park, CA | Hybrid | Oct 29 |
+| ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69030acc00a1816c41ea3566?utm_campaign=1058&utm_source=git)** | Placerville, CA | Hybrid | Oct 29 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6902edabff462851fefe7a4d?utm_campaign=1058&utm_source=git)** | Blandon, PA | On Site | Oct 29 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6902eda2ff462851fefe7a45?utm_campaign=1058&utm_source=git)** | Carbondale, PA | On Site | Oct 29 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6902ed0998707b2b0fe73fb9?utm_campaign=1058&utm_source=git)** | Macungie, PA | On Site | Oct 29 |
@@ -94,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[PENN Entertainment, Inc](https://www.pennentertainment.com)** | **[INTERN IT](https://jobright.ai/jobs/info/6902b1d900a1816c41ea0b55?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Oct 29 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Service Desk (Milwaukee, WI Year-Round)](https://jobright.ai/jobs/info/6902b025ff462851fefe5bf8?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 29 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Nurse Intern PICU May 2026 grads](https://jobright.ai/jobs/info/6902b012ff462851fefe5bec?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Oct 29 |
-| **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/6902a778ff462851fefe58c6?utm_campaign=1058&utm_source=git)** | Easton, PA | On Site | Oct 29 |
-| ↳ | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/6902a778ff462851fefe58c5?utm_campaign=1058&utm_source=git)** | Lehighton, PA | On Site | Oct 29 |
+| **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/6902a778ff462851fefe58c5?utm_campaign=1058&utm_source=git)** | Lehighton, PA | On Site | Oct 29 |
+| ↳ | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/6902a778ff462851fefe58c6?utm_campaign=1058&utm_source=git)** | Easton, PA | On Site | Oct 29 |
 | ↳ | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/6902a6b8ff462851fefe5852?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Oct 29 |
 | ↳ | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/6902a39598707b2b0fe71c79?utm_campaign=1058&utm_source=git)** | Allentown, PA | On Site | Oct 29 |
 | **[Community Health Systems](http://www.chs.net)** | **[ICU Student Intern Full Time Days](https://jobright.ai/jobs/info/69029fcf00a1816c41ea0517?utm_campaign=1058&utm_source=git)** | 702 Van Buren Street, Fort Wayne, IN, 46802, US | On Site | Oct 29 |
@@ -106,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6902994298707b2b0fe716d4?utm_campaign=1058&utm_source=git)** | West Chester, PA | On Site | Oct 29 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/690298b3ff462851fefe5152?utm_campaign=1058&utm_source=git)** | Exton, PA | On Site | Oct 29 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6902988498707b2b0fe71644?utm_campaign=1058&utm_source=git)** | Glen Mills, PA | On Site | Oct 29 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6902981b98707b2b0fe71602?utm_campaign=1058&utm_source=git)** | West Chester, PA | On Site | Oct 29 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6902981b98707b2b0fe71603?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Oct 29 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6902981b98707b2b0fe71602?utm_campaign=1058&utm_source=git)** | West Chester, PA | On Site | Oct 29 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/690297c100a1816c41ea00b0?utm_campaign=1058&utm_source=git)** | Bloomsburg, PA | On Site | Oct 29 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/690296e7ff462851fefe504c?utm_campaign=1058&utm_source=git)** | Pennsburg, PA | On Site | Oct 29 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6902966fff462851fefe5004?utm_campaign=1058&utm_source=git)** | Sterling Heights, MI | On Site | Oct 29 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern- ER- KM](https://jobright.ai/jobs/info/69024597ff462851fefe15ce?utm_campaign=1058&utm_source=git)** | 4370 W MAIN ST, DOTHAN, AL, 36305, US | On Site | Oct 29 |
 | **[Constellation Brands](http://cbrands.com)** | **[Intern, Information Technology](https://jobright.ai/jobs/info/68e59f16b99ec3563b0f7676?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | Oct 29 |
 | **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern-Harrisburg Area](https://jobright.ai/jobs/info/681b7336830d07b9217b7055?utm_campaign=1058&utm_source=git)** | Harrisburg, PA | On Site | Oct 29 |
+| **[Brown University Health](https://www.brownhealth.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e5921eb99ec3563b0f6bbb?utm_campaign=1058&utm_source=git)** | Providence, RI | On Site | Oct 29 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Claims Intern - Employer Services](https://jobright.ai/jobs/info/68c993d2f9c6ff7aedf1b17b?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 29 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[LSE Student Intern - Engineering and Tech Support Specialist](https://jobright.ai/jobs/info/6902320898707b2b0fe6cfc9?utm_campaign=1058&utm_source=git)** | Aiken, SC | On Site | Oct 29 |
 | **[Arm](http://www.arm.com)** | **[Intern Technical Writer](https://jobright.ai/jobs/info/68f938bacadb2e5a06a62839?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | Oct 29 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69023049ff462851fefe09c7?utm_campaign=1058&utm_source=git)** | Clare, MI | On Site | Oct 29 |
 | **[CDK Global](http://www.cdkglobal.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68ce9b2dfb49c96ca6ea2194?utm_campaign=1058&utm_source=git)** | Portland, OR | Hybrid | Oct 29 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Customer References & Virtual Events](https://jobright.ai/jobs/info/68e557ffae2b894b1d70da78?utm_campaign=1058&utm_source=git)** | Newtown Square, PA | Hybrid | Oct 29 |
-| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern I (Non-Exempt)](https://jobright.ai/jobs/info/69024e8798707b2b0fe6e15c?utm_campaign=1058&utm_source=git)** | Fort Smith, AR | On Site | Oct 29 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/6902f8a498707b2b0fe74548?utm_campaign=1058&utm_source=git)** | Bound Brook, NJ | On Site | Oct 29 |
-| **[Brown University Health](https://www.brownhealth.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e58f6a1852e62f00812087?utm_campaign=1058&utm_source=git)** | Providence, RI | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
