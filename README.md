@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[LSE Student Intern - Engineering & Tech Support Specialist](https://jobright.ai/jobs/info/690326fa00a1816c41ea43f0?utm_campaign=1058&utm_source=git)** | Aiken, SC | On Site | Oct 30 |
 | **[Samaritan Health Services](https://www.samhealth.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6903125098707b2b0fe74ecf?utm_campaign=1058&utm_source=git)** | Albany, OR | On Site | Oct 30 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69030b5698707b2b0fe74afb?utm_campaign=1058&utm_source=git)** | Cameron Park, CA | Hybrid | Oct 29 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69030acc00a1816c41ea3566?utm_campaign=1058&utm_source=git)** | Placerville, CA | Hybrid | Oct 29 |
@@ -109,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6902994298707b2b0fe716d4?utm_campaign=1058&utm_source=git)** | West Chester, PA | On Site | Oct 29 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/690298b3ff462851fefe5152?utm_campaign=1058&utm_source=git)** | Exton, PA | On Site | Oct 29 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6902988498707b2b0fe71644?utm_campaign=1058&utm_source=git)** | Glen Mills, PA | On Site | Oct 29 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6902981b98707b2b0fe71603?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Oct 29 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6902981b98707b2b0fe71602?utm_campaign=1058&utm_source=git)** | West Chester, PA | On Site | Oct 29 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6902981b98707b2b0fe71603?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Oct 29 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/690297c100a1816c41ea00b0?utm_campaign=1058&utm_source=git)** | Bloomsburg, PA | On Site | Oct 29 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/690296e7ff462851fefe504c?utm_campaign=1058&utm_source=git)** | Pennsburg, PA | On Site | Oct 29 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6902966fff462851fefe5004?utm_campaign=1058&utm_source=git)** | Sterling Heights, MI | On Site | Oct 29 |
@@ -144,14 +145,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/6902584500a1816c41e9d256?utm_campaign=1058&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 29 |
 | **[Waldron Private Wealth](http://www.waldronprivatewealth.com)** | **[Operations/IT Intern - Summer 2026](https://jobright.ai/jobs/info/6902731b98707b2b0fe6f6c3?utm_campaign=1058&utm_source=git)** | Bridgeville, PA | Hybrid | Oct 29 |
 | **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/690254f8ff462851fefe1fc3?utm_campaign=1058&utm_source=git)** | Racine, WI | On Site | Oct 29 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69024e8398707b2b0fe6e159?utm_campaign=1058&utm_source=git)** | High Point, NC | On Site | Oct 29 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69024d6600a1816c41e9cc2a?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
 | **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/6902689700a1816c41e9dc73?utm_campaign=1058&utm_source=git)** | Kenosha, WI | On Site | Oct 29 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/6902694500a1816c41e9dce4?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Oct 29 |
 | **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern- ER- KM](https://jobright.ai/jobs/info/69024597ff462851fefe15ce?utm_campaign=1058&utm_source=git)** | 4370 W MAIN ST, DOTHAN, AL, 36305, US | On Site | Oct 29 |
 | **[Constellation Brands](http://cbrands.com)** | **[Intern, Information Technology](https://jobright.ai/jobs/info/68e59f16b99ec3563b0f7676?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | Oct 29 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6902429eff462851fefe139f?utm_campaign=1058&utm_source=git)** | High Point, NC | On Site | Oct 29 |
 | **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern-Harrisburg Area](https://jobright.ai/jobs/info/681b7336830d07b9217b7055?utm_campaign=1058&utm_source=git)** | Harrisburg, PA | On Site | Oct 29 |
-| **[Brown University Health](https://www.brownhealth.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e5921eb99ec3563b0f6bbb?utm_campaign=1058&utm_source=git)** | Providence, RI | On Site | Oct 29 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Claims Intern - Employer Services](https://jobright.ai/jobs/info/68c993d2f9c6ff7aedf1b17b?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 29 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[LSE Student Intern - Engineering and Tech Support Specialist](https://jobright.ai/jobs/info/6902320898707b2b0fe6cfc9?utm_campaign=1058&utm_source=git)** | Aiken, SC | On Site | Oct 29 |
 | **[Arm](http://www.arm.com)** | **[Intern Technical Writer](https://jobright.ai/jobs/info/68f938bacadb2e5a06a62839?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | Oct 29 |
