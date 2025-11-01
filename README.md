@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Highbrow Technology Inc](https://highbrowtechnology.com)** | **[Student Intern](https://jobright.ai/jobs/info/690649f2ff462851fe0043bb?utm_campaign=1058&utm_source=git)** | Iowa, United States | Remote | Nov 01 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/690648ce122e8474c78dfaa4?utm_campaign=1058&utm_source=git)** | Collierville, TN | On Site | Nov 01 |
+| **[Crest Vale](crestvale.us)** | **[Client Services Intern](https://jobright.ai/jobs/info/69062e74ff462851fe003de2?utm_campaign=1058&utm_source=git)** | Denver, CO | Remote | Nov 01 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69062959122e8474c78df386?utm_campaign=1058&utm_source=git)** | Pasco, WA | On Site | Nov 01 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Ultrasound Intern (Non-Exempt)](https://jobright.ai/jobs/info/68ca2dd8f61c922772a73b38?utm_campaign=1058&utm_source=git)** | Ada, OK | On Site | Nov 01 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69062206ff462851fe003a73?utm_campaign=1058&utm_source=git)** | Fayetteville, AR | On Site | Nov 01 |
@@ -121,14 +124,13 @@ For a complete list, click the following sortable link below:
 | **[7-Eleven](http://www.7-eleven.com)** | **[IT Field Manager Intern](https://jobright.ai/jobs/info/68e915e79020b95add6a3d30?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Nov 01 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68cce03cd11b445e0bee36d0?utm_campaign=1058&utm_source=git)** | Billings, MT | On Site | Nov 01 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Service Design and Customer Experience](https://jobright.ai/jobs/info/68e953659020b95add6a5d3b?utm_campaign=1058&utm_source=git)** | Detroit, MI | Hybrid | Nov 01 |
-| **[Gallup](http://www.gallup.com)** | **[IT Help Desk/End-User Support Specialist Intern — Summer 2026](https://jobright.ai/jobs/info/68cc965b16d00d2beeb21c29?utm_campaign=1058&utm_source=git)** | Omaha, NE | Hybrid | Nov 01 |
 | **[Ridgeview](https://www.ridgeviewcommunitynetwork.org)** | **[Summer Nurse Intern](https://jobright.ai/jobs/info/68e8fef99020b95add6a31d9?utm_campaign=1058&utm_source=git)** | Twin Cities Area | On Site | Nov 01 |
 | **[Mercyhealth Wisconsin and Illinois](https://mercyhealthsystem.org)** | **[Student Nurse Internship](https://jobright.ai/jobs/info/6905d145ff462851fe0009bb?utm_campaign=1058&utm_source=git)** | Janesville, WI | On Site | Nov 01 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Information Technology Internship - Spring 2026](https://jobright.ai/jobs/info/6905ef21ff462851fe001aff?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Nov 01 |
 | ↳ | **[Information Technology Internship - Spring 2026](https://jobright.ai/jobs/info/690605efff462851fe002751?utm_campaign=1058&utm_source=git)** | Cleveland, Ohio | On Site | Nov 01 |
 | **[Consonus Healthcare](https://www.consonushealth.com)** | **[Pharmacist Intern - NE](https://jobright.ai/jobs/info/6905c3cbff462851fe000290?utm_campaign=1058&utm_source=git)** | Gretna, NE | On Site | Nov 01 |
 | **[Suburban Inns](http://suburbaninns.com)** | **[Server Assistant - Big E's Sports Grill EBL](https://jobright.ai/jobs/info/6905ff67122e8474c78dda12?utm_campaign=1058&utm_source=git)** | Grand Rapids, Michigan | On Site | Nov 01 |
-| **[CHRISTUS Health](http://www.christushealth.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6905aaacff462851fefff347?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Oct 31 |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6905a9f463502c0aded7cd3e?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Oct 31 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Undergrad Technology Intern](https://jobright.ai/jobs/info/6905a83aff462851fefff290?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Oct 31 |
 | **[Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org)** | **[Undergrad Technology Intern](https://jobright.ai/jobs/info/6905c1b063502c0aded7dc5b?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Oct 31 |
 | **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - IT Service Center Technician](https://jobright.ai/jobs/info/69059dce63502c0aded7c7f8?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Oct 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6905353b122e8474c78d77fb?utm_campaign=1058&utm_source=git)** | Portland, TX | On Site | Oct 31 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69053279122e8474c78d74dd?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Oct 31 |
 | **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6905316eff462851feffb900?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Oct 31 |
-| **[UK HealthCare](https://ukhealthcare.uky.edu/)** | **[Pharmacist Intern Senior/OnCall/UKHC - Retail Pharmacy](https://jobright.ai/jobs/info/69053149ff462851feffb8dd?utm_campaign=1058&utm_source=git)** | Greater Lexington Area | On Site | Oct 31 |
-| **[Highgate](https://www.highgate.com)** | **[F&B Internship - 2026](https://jobright.ai/jobs/info/690530b063502c0aded795c3?utm_campaign=1058&utm_source=git)** | Key West, FL | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
