@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cone Health](http://www.conehealth.com)** | **[Student Ultrasound Assistant](https://jobright.ai/jobs/info/68edfc1881fdd1626d3a1773?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Nov 01 |
+| **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Volunteer/Intern IT Support](https://jobright.ai/jobs/info/69065a85122e8474c78dfd06?utm_campaign=1058&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Highbrow Technology Inc](https://highbrowtechnology.com)** | **[Student Intern](https://jobright.ai/jobs/info/690649f2ff462851fe0043bb?utm_campaign=1058&utm_source=git)** | Iowa, United States | Remote | Nov 01 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/690648ce122e8474c78dfaa4?utm_campaign=1058&utm_source=git)** | Collierville, TN | On Site | Nov 01 |
 | **[Crest Vale](crestvale.us)** | **[Client Services Intern](https://jobright.ai/jobs/info/69062e74ff462851fe003de2?utm_campaign=1058&utm_source=git)** | Denver, CO | Remote | Nov 01 |
@@ -130,7 +132,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Information Technology Internship - Spring 2026](https://jobright.ai/jobs/info/690605efff462851fe002751?utm_campaign=1058&utm_source=git)** | Cleveland, Ohio | On Site | Nov 01 |
 | **[Consonus Healthcare](https://www.consonushealth.com)** | **[Pharmacist Intern - NE](https://jobright.ai/jobs/info/6905c3cbff462851fe000290?utm_campaign=1058&utm_source=git)** | Gretna, NE | On Site | Nov 01 |
 | **[Suburban Inns](http://suburbaninns.com)** | **[Server Assistant - Big E's Sports Grill EBL](https://jobright.ai/jobs/info/6905ff67122e8474c78dda12?utm_campaign=1058&utm_source=git)** | Grand Rapids, Michigan | On Site | Nov 01 |
-| **[CHRISTUS Health](http://www.christushealth.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6905a9f463502c0aded7cd3e?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Oct 31 |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6905aaacff462851fefff347?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Oct 31 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Undergrad Technology Intern](https://jobright.ai/jobs/info/6905a83aff462851fefff290?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Oct 31 |
 | **[Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org)** | **[Undergrad Technology Intern](https://jobright.ai/jobs/info/6905c1b063502c0aded7dc5b?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Oct 31 |
 | **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - IT Service Center Technician](https://jobright.ai/jobs/info/69059dce63502c0aded7c7f8?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Oct 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69053aa7ff462851feffc045?utm_campaign=1058&utm_source=git)** | Catonsville, MD | On Site | Oct 31 |
 | **[Archbold](https://archbold.org)** | **[STUDENT](https://jobright.ai/jobs/info/690536bd63502c0aded798d7?utm_campaign=1058&utm_source=git)** | Thomasville, GA | On Site | Oct 31 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6905353b122e8474c78d77fb?utm_campaign=1058&utm_source=git)** | Portland, TX | On Site | Oct 31 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69053279122e8474c78d74dd?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Oct 31 |
-| **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6905316eff462851feffb900?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
