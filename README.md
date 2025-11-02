@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/69070487ff462851fe0067f2?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Nov 02 |
 | **[SASAL, INC](https://sasalinc.com)** | **[VC Intern](https://jobright.ai/jobs/info/6906d385ff462851fe00590f?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Nov 01 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/6906980fff462851fe004cd6?utm_campaign=1058&utm_source=git)** | Auburn, NY | On Site | Nov 01 |
 | ↳ | **[Pharmacy Intern P1](https://jobright.ai/jobs/info/69069706122e8474c78e046b?utm_campaign=1058&utm_source=git)** | Auburn, NY | On Site | Nov 01 |
@@ -141,12 +142,13 @@ For a complete list, click the following sortable link below:
 | **[Suburban Inns](http://suburbaninns.com)** | **[Server Assistant - Big E's Sports Grill EBL](https://jobright.ai/jobs/info/6905ff67122e8474c78dda12?utm_campaign=1058&utm_source=git)** | Grand Rapids, Michigan | On Site | Nov 01 |
 | **[North Mississippi Health Services](http://www.nmhs.net/careers)** | **[Sleep Tech Intern](https://jobright.ai/jobs/info/6906adf863502c0aded82978?utm_campaign=1058&utm_source=git)** | Winfield, AL | On Site | Nov 01 |
 | **[Twin County Regional Healthcare - Duke LifePoint Healthcare](https://www.tcrh.org)** | **[RN, Intern II - PRN](https://jobright.ai/jobs/info/6906b43cff462851fe004f75?utm_campaign=1058&utm_source=git)** | Galax, VA | On Site | Nov 01 |
-| **[CHRISTUS Health](http://www.christushealth.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6905a9f463502c0aded7cd3e?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Oct 31 |
+| **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/69070b79122e8474c78e221f?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Nov 01 |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6905aaacff462851fefff347?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Oct 31 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Undergrad Technology Intern](https://jobright.ai/jobs/info/6905a83aff462851fefff290?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Oct 31 |
 | **[Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org)** | **[Undergrad Technology Intern](https://jobright.ai/jobs/info/6905c1b063502c0aded7dc5b?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Oct 31 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/6906f48863502c0aded83ebe?utm_campaign=1058&utm_source=git)** | Morgan Hill, CA | Hybrid | Oct 31 |
 | **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - IT Service Center Technician](https://jobright.ai/jobs/info/69059dce63502c0aded7c7f8?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Oct 31 |
-| **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Grad Intern (Hrly)](https://jobright.ai/jobs/info/6906ecfe63502c0aded83d33?utm_campaign=1058&utm_source=git)** | Emporia, KS | On Site | Oct 31 |
-| **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - IT Service Center Technician](https://jobright.ai/jobs/info/6905e67b122e8474c78dcd4b?utm_campaign=1058&utm_source=git)** | Omaha, Nebraska | On Site | Oct 31 |
+| ↳ | **[Summer 2026 Internship - IT Service Center Technician](https://jobright.ai/jobs/info/6905e67b122e8474c78dcd4b?utm_campaign=1058&utm_source=git)** | Omaha, Nebraska | On Site | Oct 31 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Customer Services Intern](https://jobright.ai/jobs/info/690585feff462851feffe356?utm_campaign=1058&utm_source=git)** | Portage, MI | On Site | Oct 31 |
 | **[Agropur](http://www.agropur.com/en/)** | **[IT Plant Operations Intern](https://jobright.ai/jobs/info/68f65f0776a51a4307bd9c8a?utm_campaign=1058&utm_source=git)** | Le Sueur, MN | On Site | Oct 31 |
 | **[Optimum](http://www.optimum.com)** | **[Intern](https://jobright.ai/jobs/info/6905726363502c0aded7b261?utm_campaign=1058&utm_source=git)** | Bethpage, NY | On Site | Oct 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Technical Writer Intern, NYC](https://jobright.ai/jobs/info/690566c863502c0aded7ad77?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Oct 31 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[IT Field Support Intern](https://jobright.ai/jobs/info/69055fc963502c0aded7aa52?utm_campaign=1058&utm_source=git)** | Colmar, PA | On Site | Oct 31 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[F&B Internship - 2026](https://jobright.ai/jobs/info/69061010ff462851fe002ec3?utm_campaign=1058&utm_source=git)** | US-FL-Key West | On Site | Oct 31 |
-| **[International Rescue Committee Phoenix](https://www.rescue.org/)** | **[Operations & Front Desk Intern (Unpaid)](https://jobright.ai/jobs/info/6906873d122e8474c78e032f?utm_campaign=1058&utm_source=git)** | Elizabeth, NJ | Hybrid | Oct 31 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6906a3cf122e8474c78e053c?utm_campaign=1058&utm_source=git)** | Menifee, CA | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
