@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SASAL, INC](https://sasalinc.com)** | **[VC Intern](https://jobright.ai/jobs/info/6906d385ff462851fe00590f?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Nov 01 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/6906980fff462851fe004cd6?utm_campaign=1058&utm_source=git)** | Auburn, NY | On Site | Nov 01 |
 | ↳ | **[Pharmacy Intern P1](https://jobright.ai/jobs/info/69069706122e8474c78e046b?utm_campaign=1058&utm_source=git)** | Auburn, NY | On Site | Nov 01 |
 | **[Riverview Health](https://www.riverview.org/)** | **[IT Help Desk Intern - Temporary Project](https://jobright.ai/jobs/info/6906689f122e8474c78dffda?utm_campaign=1058&utm_source=git)** | Noblesville, IN | On Site | Nov 01 |
@@ -113,17 +114,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6906143763502c0aded80b98?utm_campaign=1058&utm_source=git)** | Binghamton, NY | On Site | Nov 01 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6906142a63502c0aded80b8d?utm_campaign=1058&utm_source=git)** | Hillsboro, OR | On Site | Nov 01 |
 | **[Wurth Elektronik](https://www.we-ics.com)** | **[Warehouse Intern](https://jobright.ai/jobs/info/68d440d117554c2d9eef74e9?utm_campaign=1058&utm_source=git)** | Watertown, SD | On Site | Nov 01 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6906ce8b63502c0aded8327f?utm_campaign=1058&utm_source=git)** | North Providence, RI | On Site | Nov 01 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Pharmacy Intern (H)](https://jobright.ai/jobs/info/68e998d00930fe0bc46279b4?utm_campaign=1058&utm_source=git)** | Fenton, MO | On Site | Nov 01 |
 | ↳ | **[Sonography Student Intern](https://jobright.ai/jobs/info/688da8bacdbd821a3663d843?utm_campaign=1058&utm_source=git)** | Lake St Louis, MO | On Site | Nov 01 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Dental Assistant Intern](https://jobright.ai/jobs/info/68b0f6bf04557a6c207b8dc5?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Nov 01 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Pharmacy Intern (H)](https://jobright.ai/jobs/info/68cf3070846f0b04af67fb70?utm_campaign=1058&utm_source=git)** | Bridgeton, MO | On Site | Nov 01 |
-| **[Walmart](http://www.walmart.com)** | **[(USA) Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/69069a00122e8474c78e048f?utm_campaign=1058&utm_source=git)** | Monroe, NC | On Site | Nov 01 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT16](https://jobright.ai/jobs/info/68ea56048369791ef7821187?utm_campaign=1058&utm_source=git)** | Fontana, CA | On Site | Nov 01 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Sonography Student Intern](https://jobright.ai/jobs/info/689837b45574fd6bc0c75c38?utm_campaign=1058&utm_source=git)** | St Charles, MO | On Site | Nov 01 |
 | **[Commonwealth Health](https://www.commonwealthhealth.net)** | **[Nurse Intern / Extern Telemetry](https://jobright.ai/jobs/info/68e95eec65768b6412b1b43c?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Nov 01 |
 | **[Saint Luke's Health System](https://www.saintlukeskc.org)** | **[Neuro Oncology Nursing Intern, PRN](https://jobright.ai/jobs/info/68e9d6e2cdf8d94b293a29d3?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Nov 01 |
-| **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/69069a00122e8474c78e0491?utm_campaign=1058&utm_source=git)** | Republic, MO | On Site | Nov 01 |
-| ↳ | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/690699ff122e8474c78e048e?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | Nov 01 |
 | **[Sam's Club](http://www.samsclub.com)** | **[Pre Grad Intern - Sam's Club Pharmacy](https://jobright.ai/jobs/info/6906a6c4122e8474c78e0555?utm_campaign=1058&utm_source=git)** | Annapolis, MD | On Site | Nov 01 |
 | **[Parnall Law Firm - Hurt? Call Bert](https://www.hurtcallbert.com)** | **[Intern/Mail Clerk](https://jobright.ai/jobs/info/68e96789f195760c354a8bc6?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Nov 01 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Outpatient Pharmacy Intern lll (P3)](https://jobright.ai/jobs/info/68e9661b0930fe0bc462558c?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Nov 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee Phoenix](https://www.rescue.org/)** | **[Operations & Front Desk Intern (Unpaid)](https://jobright.ai/jobs/info/6906873d122e8474c78e032f?utm_campaign=1058&utm_source=git)** | Elizabeth, NJ | Hybrid | Oct 31 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6906a3cf122e8474c78e053c?utm_campaign=1058&utm_source=git)** | Menifee, CA | On Site | Oct 31 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/69054d97122e8474c78d82aa?utm_campaign=1058&utm_source=git)** | Burleson, TX | On Site | Oct 31 |
+| **[Make-A-Wish Alaska and Washington](http://wish.org/akwa)** | **[Wish Department Intern - Spokane, WA](https://jobright.ai/jobs/info/69054930122e8474c78d8168?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
