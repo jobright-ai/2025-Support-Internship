@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mat-Su Regional Medical Center](https://www.matsuregional.com/)** | **[Med Surg Nurse Intern](https://jobright.ai/jobs/info/690bfc064a1b456627b14ec6?utm_campaign=1058&utm_source=git)** | Palmer, AK | On Site | Nov 05 |
+| **[Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the-johns-hopkins-hospital)** | **[Patient Care Tech Intern- L&D (Night 36)](https://jobright.ai/jobs/info/690bfb56d046ab6061ce9c19?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Nov 05 |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[AA* Cardiovascular Invasive Intern](https://jobright.ai/jobs/info/690bfa27d046ab6061ce9b02?utm_campaign=1058&utm_source=git)** | ADVENTHEALTH DAYTONA BEACH301 MEMORIAL MEDICAL PKWY | On Site | Nov 05 |
+| **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Site IT (Summer 2026)](https://jobright.ai/jobs/info/6902bda200a1816c41ea1112?utm_campaign=1058&utm_source=git)** | Neenah, WI | On Site | Nov 05 |
+| **[Glenmede](http://www.glenmede.com/)** | **[2026 Summer Intern, DC Client Service](https://jobright.ai/jobs/info/690bf8f44a1b456627b14cb8?utm_campaign=1058&utm_source=git)** | Philadelphia, PA, US | On Site | Nov 05 |
+| **[River City Bank](https://www.rivercitybank.com)** | **[Student Intern](https://jobright.ai/jobs/info/690bf504d046ab6061ce9829?utm_campaign=1058&utm_source=git)** | Sacramento,CA,US | On Site | Nov 05 |
+| **[Glenmede](http://www.glenmede.com/)** | **[2026 Summer Intern, Cleveland Client Service](https://jobright.ai/jobs/info/690bf386d046ab6061ce9703?utm_campaign=1058&utm_source=git)** | Beachwood, OH, US | On Site | Nov 05 |
+| **[INTEGRIS Health](https://www.integrisok.com)** | **[Pharmacy Intern - PRN](https://jobright.ai/jobs/info/690be3a84a1b456627b1427a?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Nov 05 |
 | **[Allianz Life](http://www.allianzlife.com)** | **[Summer 2026 Customer Experience Internship / Hybrid](https://jobright.ai/jobs/info/690bd713221b890c277f8f67?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 05 |
 | **[Temple Health – Temple University Health System](https://www.templehealth.org/)** | **[PHARMACY INTERN (Per Diem)](https://jobright.ai/jobs/info/690bd388d046ab6061ce83dc?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Nov 05 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Radiology Student Intern](https://jobright.ai/jobs/info/690bd3244a1b456627b13480?utm_campaign=1058&utm_source=git)** | Jefferson City, MO | On Site | Nov 05 |
@@ -145,16 +153,8 @@ For a complete list, click the following sortable link below:
 | **[UPS](http://www.ups.com)** | **[CUSTOMER SERVICE INTERN & WAREHOUSE (Stage)](https://jobright.ai/jobs/info/68eea442d078b81ad160d00d?utm_campaign=1058&utm_source=git)** | Milano, TX | On Site | Nov 05 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Radiology Student Intern](https://jobright.ai/jobs/info/68d776fc295f8e37655da915?utm_campaign=1058&utm_source=git)** | Greater St. Louis | On Site | Nov 05 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern (On-Call)](https://jobright.ai/jobs/info/68ef93c478ba1621431df4ea?utm_campaign=1058&utm_source=git)** | Milpitas, CA | On Site | Nov 05 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/690b642a4a1b456627b0f3ec?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Nov 05 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/690b63774a1b456627b0f3b6?utm_campaign=1058&utm_source=git)** | Ewing, NJ | On Site | Nov 05 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/690b63774a1b456627b0f3b6?utm_campaign=1058&utm_source=git)** | Ewing, NJ | On Site | Nov 05 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Technical Operations Intern](https://jobright.ai/jobs/info/68eea6a3d078b81ad160d2ac?utm_campaign=1058&utm_source=git)** | State College, PA | On Site | Nov 05 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/690b635a4a1b456627b0f3aa?utm_campaign=1058&utm_source=git)** | Toms River, NJ | On Site | Nov 05 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed28c46e5b153e5a605fe?utm_campaign=1058&utm_source=git)** | Coppell, TX | On Site | Nov 05 |
-| **[Phelps Health](https://phelpshealth.org/)** | **[Clinical Intern - OB/Nursery / IPT](https://jobright.ai/jobs/info/690b62afd046ab6061ce413e?utm_campaign=1058&utm_source=git)** | Phelps Health Hospital | On Site | Nov 05 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/690b624cd046ab6061ce4102?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Nov 05 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - NM Med Surg 3 South B and C BMH North MS](https://jobright.ai/jobs/info/67d52716d19474209a8c11b4?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Nov 05 |
-| **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Client Service Internship - Summer 2026 (Minneapolis, MN)](https://jobright.ai/jobs/info/68b737a91ade4306aa6488fd?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Nov 05 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3f4d078b81ad160fd46?utm_campaign=1058&utm_source=git)** | Carmel, IN | On Site | Nov 05 |
-| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed52fd078b81ad160ff96?utm_campaign=1058&utm_source=git)** | Medina, OH | On Site | Nov 05 |
-| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed58de0db92422580bfe5?utm_campaign=1058&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
