@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Keck Medicine of USC](https://www.keckmedicine.org)** | **[Pharmacist Intern - Pharmacy - Per Diem 8 Hour Rotating Shifts (Non-Exempt) (Non-Union)](https://jobright.ai/jobs/info/690aac65bcccf20de59e4d31?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Nov 08 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/690fa9b8183be660d267640f?utm_campaign=1058&utm_source=git)** | San Marcos, CA | On Site | Nov 08 |
 | **[Froedtert Health](http://www.froedtert.com)** | **[Nurse Extern, Internal Medicine Innovation Unit](https://jobright.ai/jobs/info/690f7993183be660d2675632?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Nov 08 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Pharmacy Graduate Intern  - PRN](https://jobright.ai/jobs/info/688366766fcd973d15ae14d0?utm_campaign=1058&utm_source=git)** | Ardmore, OK | On Site | Nov 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/690f61fc44146d3b6ec5b9b2?utm_campaign=1058&utm_source=git)** | Carrollton, TX | On Site | Nov 08 |
@@ -84,8 +86,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/690f649ed046ab6061d050bc?utm_campaign=1058&utm_source=git)** | Casper, WY | On Site | Nov 08 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/690f63b0d046ab6061d0506a?utm_campaign=1058&utm_source=git)** | Dothan, AL | On Site | Nov 08 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/690f6338d046ab6061d05045?utm_campaign=1058&utm_source=git)** | Dothan, AL | On Site | Nov 08 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/690f633844146d3b6ec5ba13?utm_campaign=1058&utm_source=git)** | Cheyenne, WY | On Site | Nov 08 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/690f652644146d3b6ec5bac3?utm_campaign=1058&utm_source=git)** | Pensacola, FL | On Site | Nov 08 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/690f633844146d3b6ec5ba13?utm_campaign=1058&utm_source=git)** | Cheyenne, WY | On Site | Nov 08 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/690f6b1437acd2126472ec28?utm_campaign=1058&utm_source=git)** | Longmont, CO | On Site | Nov 08 |
 | ↳ | **[Pharmacy Intern Year](https://jobright.ai/jobs/info/690f6d1e37acd2126472ecbd?utm_campaign=1058&utm_source=git)** | Pensacola, FL | On Site | Nov 08 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Supply Chain Customer Service Intern](https://jobright.ai/jobs/info/68d707fc894705799a2efef7?utm_campaign=1058&utm_source=git)** | North Chicago, IL | On Site | Nov 08 |
@@ -135,7 +137,7 @@ For a complete list, click the following sortable link below:
 | **[Badger Meter](http://badgermeter.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/690ead0444146d3b6ec56ad1?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Nov 07 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Intern Summer 2026 - Front Desk Agent](https://jobright.ai/jobs/info/690ea563221b890c27810387?utm_campaign=1058&utm_source=git)** | Carlsbad, CA | On Site | Nov 07 |
 | **[SpartanNash](https://www.spartannash.com/)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/690ea49944146d3b6ec5657e?utm_campaign=1058&utm_source=git)** | Wyoming, MI | On Site | Nov 07 |
-| **[McLaren Health Care](http://www.mclaren.org)** | **[Respiratory Intern](https://jobright.ai/jobs/info/690ea44944146d3b6ec5651c?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Nov 07 |
+| **[McLaren Health Care](http://www.mclaren.org)** | **[Respiratory Intern](https://jobright.ai/jobs/info/690ea3a444146d3b6ec5645c?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Nov 07 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Summer Omni Care Internship / Rooms](https://jobright.ai/jobs/info/690ed78c221b890c278121db?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Nov 07 |
 | **[Omni Dallas Hotel](https://www.omnihotels.com/hotels/dallas)** | **[Summer Omni Care Internship / Rooms](https://jobright.ai/jobs/info/690e9d9a44146d3b6ec56049?utm_campaign=1058&utm_source=git)** | US-TX-Irving | On Site | Nov 07 |
 | **[Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the-johns-hopkins-hospital)** | **[Patient Care Tech Intern- Meyer 9 (Day 36)](https://jobright.ai/jobs/info/690e9cd0221b890c2780fddc?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Nov 07 |
@@ -144,8 +146,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Clinical Intern - Med Onc / IPT](https://jobright.ai/jobs/info/690e95fa44146d3b6ec55a4b?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Nov 07 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/690eb4f8221b890c27810e66?utm_campaign=1058&utm_source=git)** | Cedar Rapids, IA | On Site | Nov 07 |
 | **[Pine Street Inn](https://www.pinestreetinn.org)** | **[IT Support Intern](https://jobright.ai/jobs/info/690eb03344146d3b6ec56c6a?utm_campaign=1058&utm_source=git)** | Boston,MA,US | On Site | Nov 07 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Intern Summer 2026 - Front Desk Agent](https://jobright.ai/jobs/info/690ed00244146d3b6ec58011?utm_campaign=1058&utm_source=git)** | US-CA-Carlsbad | On Site | Nov 07 |
-| ↳ | **[Summer Omni Care Internship / Rooms](https://jobright.ai/jobs/info/690ec6ced046ab6061d011b8?utm_campaign=1058&utm_source=git)** | US-TX-Irving | On Site | Nov 07 |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Summer Omni Care Internship / Rooms](https://jobright.ai/jobs/info/690ec6ced046ab6061d011b8?utm_campaign=1058&utm_source=git)** | US-TX-Irving | On Site | Nov 07 |
+| ↳ | **[Omni Care Intern Summer 2026 - Front Desk Agent](https://jobright.ai/jobs/info/690ed00244146d3b6ec58011?utm_campaign=1058&utm_source=git)** | US-CA-Carlsbad | On Site | Nov 07 |
 | **[Chicken N Pickle](https://chickennpickle.com)** | **[Intern - IT & Software Development](https://jobright.ai/jobs/info/690ec17c221b890c27811509?utm_campaign=1058&utm_source=git)** | North Kansas City, MO | On Site | Nov 07 |
 | **[UF Health Central Florida](https://www.centralfloridahealth.org)** | **[Radiology Technologist Intern / Diagnostic Imaging / PRN Variable](https://jobright.ai/jobs/info/690e8526221b890c2780ef77?utm_campaign=1058&utm_source=git)** | Leesburg, FL | On Site | Nov 07 |
 | **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[Nurse Intern- Critical Care Stepdown 7W](https://jobright.ai/jobs/info/690e817644146d3b6ec54f8d?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Nov 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Phelps Health](https://phelpshealth.org/)** | **[Clinical Intern IPT-2](https://jobright.ai/jobs/info/690e6ab1d046ab6061cfd4f4?utm_campaign=1058&utm_source=git)** | Phelps Health Hospital | On Site | Nov 07 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern AZ Phoenix](https://jobright.ai/jobs/info/690e6a23d046ab6061cfd465?utm_campaign=1058&utm_source=git)** | Glendale, AZ | On Site | Nov 07 |
 | **[Badger Meter](http://badgermeter.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/690e69f1d046ab6061cfd435?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Nov 07 |
-| **[Phelps Health](https://phelpshealth.org/)** | **[Clinical Intern - AMS / A-Shift](https://jobright.ai/jobs/info/690e69db221b890c2780dbfb?utm_campaign=1058&utm_source=git)** | Phelps Health Hospital | On Site | Nov 07 |
-| ↳ | **[Clinical Intern - Med Onc / IPT](https://jobright.ai/jobs/info/690e67bb221b890c2780d9dc?utm_campaign=1058&utm_source=git)** | Phelps Health Hospital | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
