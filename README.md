@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navitus Health Solutions](https://www.navitus.com/)** | **[Clinical Intern, Specialty Pharmacy](https://jobright.ai/jobs/info/68dc3ee9a125e75c4229ea2a?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Nov 12 |
+| **[Lumicera Health Services](https://www.lumicera.com/)** | **[Clinical Intern, Specialty Pharmacy](https://jobright.ai/jobs/info/68dc29b066059a42a715c2b9?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Nov 12 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Customer Care Internship](https://jobright.ai/jobs/info/691464856f36db06ef0470df?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Nov 12 |
 | **[JFK Johnson Rehabilitation Institute ](http://JFKJohnson.org)** | **[MEDICAL RECEPTIONIST, INTERNAL MEDICINE - PHYSICIAN PRACTICE](https://jobright.ai/jobs/info/691456a89c388539cbdebb21?utm_campaign=1058&utm_source=git)** | Howell Township, NJ | On Site | Nov 12 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69143cfd286ccf0a15125ea4?utm_campaign=1058&utm_source=git)** | West Jordan, UT | On Site | Nov 11 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/691432f21465e02904e9b4aa?utm_campaign=1058&utm_source=git)** | Santa Ana, CA | On Site | Nov 11 |
 | ↳ | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/691432971465e02904e9b484?utm_campaign=1058&utm_source=git)** | Oxnard, CA | On Site | Nov 11 |
 | **[UNM Sandoval Regional Medical Center](http://goto.unm.edu/srmc)** | **[NURSE INTERN](https://jobright.ai/jobs/info/691431c9d1047e3565d09bf6?utm_campaign=1058&utm_source=git)** | Rio Rancho, NM | On Site | Nov 11 |
-| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/6914473e286ccf0a15126393?utm_campaign=1058&utm_source=git)** | Raleigh, NC | Hybrid | Nov 11 |
+| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69143047e344172248f77c92?utm_campaign=1058&utm_source=git)** | Raleigh, NC | Hybrid | Nov 11 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Sonographer Student Intern](https://jobright.ai/jobs/info/68a22ac9faa4e875e82959b8?utm_campaign=1058&utm_source=git)** | OKC Metro Area | On Site | Nov 11 |
 | **[UNM Sandoval Regional Medical Center](http://goto.unm.edu/srmc)** | **[NURSE INTERN](https://jobright.ai/jobs/info/69143c589c388539cbdeb1fc?utm_campaign=1058&utm_source=git)** | Rio Rancho, NM | On Site | Nov 11 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69141e86e344172248f77131?utm_campaign=1058&utm_source=git)** | Ontario, CA | On Site | Nov 11 |
@@ -122,13 +125,14 @@ For a complete list, click the following sortable link below:
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Paid Internship - New Braunfels, TX](https://jobright.ai/jobs/info/69135dd8d1047e3565d02b7b?utm_campaign=1058&utm_source=git)** | New Braunfels, TX | On Site | Nov 11 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Operations Support Center (OSC) Intern](https://jobright.ai/jobs/info/68f9cdcf7b89366816034604?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Nov 11 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/691355e61465e02904e941c6?utm_campaign=1058&utm_source=git)** | Chattanooga, TN | On Site | Nov 11 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/691353ef1465e02904e940cf?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Nov 11 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/691353d7e344172248f70961?utm_campaign=1058&utm_source=git)** | Valparaiso, IN | On Site | Nov 11 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/66c9bc1809aa9320f5136123?utm_campaign=1058&utm_source=git)** | Breckenridge, MN | On Site | Nov 11 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6913527e1465e02904e9405f?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Nov 11 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6913511be344172248f70864?utm_campaign=1058&utm_source=git)** | Hendersonville, TN | On Site | Nov 11 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6913510de344172248f70860?utm_campaign=1058&utm_source=git)** | Glendale, AZ | On Site | Nov 11 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/691350a2d1047e3565d026b7?utm_campaign=1058&utm_source=git)** | Ashland, KY | On Site | Nov 11 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69135040e344172248f70825?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Nov 11 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/691350271465e02904e93f78?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Nov 11 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69134e1ae344172248f7071e?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Nov 11 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Service Operations Intern](https://jobright.ai/jobs/info/68f6f47a76a51a4307bdf968?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Nov 11 |
 | **[SusieCakes Bakery](https://www.susiecakes.com)** | **[Lafayette Guest Service Intern](https://jobright.ai/jobs/info/691347f21465e02904e93d6f?utm_campaign=1058&utm_source=git)** | Lafayette, CA | Hybrid | Nov 11 |
@@ -147,14 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69136bf0e344172248f71225?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Nov 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6913729be344172248f71467?utm_campaign=1058&utm_source=git)** | O'Fallon, MO | On Site | Nov 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6913658ce344172248f70f88?utm_campaign=1058&utm_source=git)** | Lafayette, LA | On Site | Nov 11 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/691370bc1465e02904e94a92?utm_campaign=1058&utm_source=git)** | Bowling Green, KY | On Site | Nov 11 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69137f36d1047e3565d03958?utm_campaign=1058&utm_source=git)** | Mount Juliet, TN | On Site | Nov 11 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/691356d8e344172248f70ac0?utm_campaign=1058&utm_source=git)** | Baton Rouge, LA | On Site | Nov 11 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69137f36d1047e3565d03958?utm_campaign=1058&utm_source=git)** | Mount Juliet, TN | On Site | Nov 11 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/691370bc1465e02904e94a92?utm_campaign=1058&utm_source=git)** | Bowling Green, KY | On Site | Nov 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69135dd2d1047e3565d02b78?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Nov 11 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/691378551465e02904e94e7f?utm_campaign=1058&utm_source=git)** | Chattanooga, TN | On Site | Nov 11 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69135ca2d1047e3565d02b0c?utm_campaign=1058&utm_source=git)** | Hendersonville, TN | On Site | Nov 11 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/691358ab1465e02904e94311?utm_campaign=1058&utm_source=git)** | Clarksville, TN | On Site | Nov 11 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/691357f11465e02904e942ca?utm_campaign=1058&utm_source=git)** | Monroe, LA | On Site | Nov 11 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69136068d1047e3565d02ca7?utm_campaign=1058&utm_source=git)** | Shelbyville, TN | On Site | Nov 11 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/691363e1e344172248f70ef7?utm_campaign=1058&utm_source=git)** | Haltom City, TX | On Site | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
