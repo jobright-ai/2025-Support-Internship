@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Document Specialist Intern](https://jobright.ai/jobs/info/689557288c6d6b44267790de?utm_campaign=1058&utm_source=git)** | Strongsville, OH | On Site | Nov 14 |
+| **[Phoenix Children's](http://www.phoenixchildrens.org)** | **[Pharmacy Intern - OP](https://jobright.ai/jobs/info/68facbededd1901442390cb5?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Nov 14 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/691715c63ea85638ae1c7a32?utm_campaign=1058&utm_source=git)** | East Greenwich, RI | On Site | Nov 14 |
+| **[Allegheny Health Network](https://www.ahn.org)** | **[Radiology Technologist Intern / Casual / AGH](https://jobright.ai/jobs/info/690ffc36183be660d2676c22?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Nov 14 |
+| **[Mary Kay Global](https://www.marykay.com)** | **[2026 Summer Internships - Information Technology](https://jobright.ai/jobs/info/68cf740afb49c96ca6ea8ba1?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Nov 14 |
+| **[America First Credit Union](http://www.americafirst.com)** | **[Branch - Lead Teller Intern](https://jobright.ai/jobs/info/6916ff67370fde633d07c09a?utm_campaign=1058&utm_source=git)** | Glendale, AZ | On Site | Nov 14 |
+| **[Northern Kentucky University](http://www.nku.edu/)** | **[Help Desk Student Employment](https://jobright.ai/jobs/info/6917069d370fde633d07c5e8?utm_campaign=1058&utm_source=git)** | Newport, KY | On Site | Nov 14 |
 | **[Tennova Healthcare- North Knoxville Medical Center](https://www.tennovanorthknoxville.com/)** | **[Nurse Intern ICU Days](https://jobright.ai/jobs/info/6916da149c388539cbdff273?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Nov 13 |
+| **[UNM Sandoval Regional Medical Center](http://goto.unm.edu/srmc)** | **[CARDIAC SONOGRAPHER INTERN](https://jobright.ai/jobs/info/6916fe04370fde633d07bfc2?utm_campaign=1058&utm_source=git)** | Rio Rancho, NM | On Site | Nov 13 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Cardio Invasive Intern Part-Time](https://jobright.ai/jobs/info/6916ba52286ccf0a15138ec9?utm_campaign=1058&utm_source=git)** | ADVENTHEALTH TAMPA3100 E FLETCHER AVE | On Site | Nov 13 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Pharmacy Intern (H)](https://jobright.ai/jobs/info/6916b8756f36db06ef0594ca?utm_campaign=1058&utm_source=git)** | Greater Madison Area | On Site | Nov 13 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6916af6c9c388539cbdfdf7f?utm_campaign=1058&utm_source=git)** | Corvallis, OR | On Site | Nov 13 |
@@ -111,11 +119,10 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Technical Support Intern - Hardware and Software Products](https://jobright.ai/jobs/info/69167502286ccf0a151363ac?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | Nov 13 |
 | ↳ | **[Technical Support Intern - Hardware and Software Products](https://jobright.ai/jobs/info/691659d26f36db06ef0555fa?utm_campaign=1058&utm_source=git)** | Tucson, AZ | Hybrid | Nov 13 |
 | **[Greenville-Spartanburg International Airport](https://gspairport.com)** | **[IT Intern](https://jobright.ai/jobs/info/69166ffb6f36db06ef0567ed?utm_campaign=1058&utm_source=git)** | Greer, SC | On Site | Nov 13 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Registered Nurse RN - Student Intern - Critical Care Unit](https://jobright.ai/jobs/info/69167d226f36db06ef0570b7?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Nov 13 |
-| ↳ | **[Registered Nurse RN - Student Intern - Telemetry](https://jobright.ai/jobs/info/691657ed6f36db06ef05545d?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Nov 13 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Registered Nurse RN - Student Intern - Critical Care Unit](https://jobright.ai/jobs/info/6916564d6f36db06ef055323?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Nov 13 |
 | ↳ | **[Registered Nurse RN - Student Intern - Emergency Department](https://jobright.ai/jobs/info/691660c76f36db06ef055a84?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Nov 13 |
+| ↳ | **[Registered Nurse RN - Student Intern - Telemetry](https://jobright.ai/jobs/info/691657ed6f36db06ef05545d?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Nov 13 |
 | ↳ | **[Registered Nurse RN - Student Intern - Critical Care Unit](https://jobright.ai/jobs/info/691660286f36db06ef055a09?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Nov 13 |
-| ↳ | **[Radiology Technologist Clinical Intern](https://jobright.ai/jobs/info/691660cd6f36db06ef055a93?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Nov 13 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Nuclear Pharmacy Intern - Part-time](https://jobright.ai/jobs/info/691666999c388539cbdfac99?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Nov 13 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/691632eb6f36db06ef053b09?utm_campaign=1058&utm_source=git)** | Santa Ana, CA | Hybrid | Nov 13 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Information Technology Systems](https://jobright.ai/jobs/info/6916304c9c388539cbdf87cd?utm_campaign=1058&utm_source=git)** | San Diego California | On Site | Nov 13 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[VELCO - Vermont Electric Power Company](https://www.velco.com/)** | **[Intern - IT Infrastructure](https://jobright.ai/jobs/info/691635496f36db06ef053c04?utm_campaign=1058&utm_source=git)** | Rutland, VT | On Site | Nov 13 |
 | **[Pure Fishing](https://www.purefishing.com)** | **[Consumer Service - Intern 1](https://jobright.ai/jobs/info/68f982db6de2db04dc3e9bad?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Nov 13 |
 | **[Dayforce](https://www.dayforce.com)** | **[Application Advisor Intern 4 or 8 Months - Winter 2026](https://jobright.ai/jobs/info/6916eaa09c388539cbdffe1d?utm_campaign=1058&utm_source=git)** | Canada | Remote | Nov 13 |
-| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - Provider Records](https://jobright.ai/jobs/info/6915fcd39c388539cbdf700c?utm_campaign=1058&utm_source=git)** | Okemos, MI | Hybrid | Nov 13 |
-| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern-All Service Lines](https://jobright.ai/jobs/info/6916d5c76f36db06ef05a0e2?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Nov 13 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Technical Communications Specialist, Emerging Talent Intern](https://jobright.ai/jobs/info/6912faafc98948514c47fe93?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Nov 13 |
-| **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/68f9685da628d10664e8cc77?utm_campaign=1058&utm_source=git)** | Hudson, WI | On Site | Nov 13 |
-| **[TRUMPF North America](https://www.us.trumpf.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/68ddc25eddc10244dd683873?utm_campaign=1058&utm_source=git)** | Farmington, CT | On Site | Nov 13 |
-| **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Claims Internship Summer 2026 - Stevens Point, WI](https://jobright.ai/jobs/info/68f057a599530851ee6ecab4?utm_campaign=1058&utm_source=git)** | Stevens Point, WI | Hybrid | Nov 13 |
-| **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/68f96744a628d10664e8cbc8?utm_campaign=1058&utm_source=git)** | Woodbury, MN | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
