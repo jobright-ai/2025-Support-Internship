@@ -141,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6917efd945fb6f5ead8a006d?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Nov 14 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Student Nurse Intern (TEMP)-Emergency Room - Mount Sinai Hospital - Part-Time Nights](https://jobright.ai/jobs/info/6917ee2315b415636717ce68?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[Management & Training Corporation](https://www.mtctrains.com)** | **[Student Intern, Maintenance](https://jobright.ai/jobs/info/6917edb945fb6f5ead89ff46?utm_campaign=1058&utm_source=git)** | Clearfield, UT | On Site | Nov 14 |
+| **[Famous Supply](http://famous-supply.com)** | **[IT Intern](https://jobright.ai/jobs/info/6917ebbd15b415636717ccf7?utm_campaign=1058&utm_source=git)** | Akron, OH | On Site | Nov 14 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6917eaf915b415636717cc80?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Nov 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6917ea9a15b415636717cc42?utm_campaign=1058&utm_source=git)** | Bothell, WA | On Site | Nov 14 |
 | **[Trek Bicycle](https://www.trekbikes.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6917e9babcdbf3560c9cc926?utm_campaign=1058&utm_source=git)** | Waterloo, WI | Hybrid | Nov 14 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Westerly Hospital](https://westerlyhospital.org)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/6917d7ec15b415636717c179?utm_campaign=1058&utm_source=git)** | Westerly, RI | On Site | Nov 14 |
 | **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Student Nurse Intern (TEMP)- Emergency Room - Mount Sinai Hospital - Part-Time Evening](https://jobright.ai/jobs/info/6917d6bc15b415636717c07c?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern - Mother Baby Unit](https://jobright.ai/jobs/info/6918017045fb6f5ead8a0d05?utm_campaign=1058&utm_source=git)** | US-MD-Baltimore | On Site | Nov 14 |
-| **[Famous Supply](http://famous-supply.com)** | **[IT Intern](https://jobright.ai/jobs/info/6917d3c245fb6f5ead89ef71?utm_campaign=1058&utm_source=git)** | Akron, OH | On Site | Nov 14 |
 | **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Student Nurse Intern (TEMP)- Emergency Room - Mount Sinai Hospital - Part-Time Days](https://jobright.ai/jobs/info/6917ec0c15b415636717cd1d?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[Phelps Health](https://phelpshealth.org/)** | **[Student Nurse Intern - IPT / A Shift](https://jobright.ai/jobs/info/6917cda745fb6f5ead89ebc7?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
