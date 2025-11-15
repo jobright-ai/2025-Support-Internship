@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern (On-Call)](https://jobright.ai/jobs/info/6918c4ba45fb6f5ead8a6bf7?utm_campaign=1058&utm_source=git)** | Scotts Valley, CA | On Site | Nov 15 |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Plant Systems Intern](https://jobright.ai/jobs/info/68fbf5bb4129dd33cd136ec0?utm_campaign=1058&utm_source=git)** | Mount Vernon, MO | On Site | Nov 15 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Student Intern Pharmacist - PRN](https://jobright.ai/jobs/info/68fc47bb4129dd33cd13a841?utm_campaign=1058&utm_source=git)** | West Des Moines, IA | On Site | Nov 15 |
 | ↳ | **[Surgical Technologist Intern](https://jobright.ai/jobs/info/688c2d511808534a89cb9062?utm_campaign=1058&utm_source=git)** | Syracuse, NY | On Site | Nov 15 |
 | **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Customer Experience - Customer Center](https://jobright.ai/jobs/info/68e026f7f758fe1f97e4a1d3?utm_campaign=1058&utm_source=git)** | Renton, WA | Hybrid | Nov 15 |
+| **[Trinity Health](http://www.trinity-health.org)** | **[Community Pharmacy Intern](https://jobright.ai/jobs/info/68fcf5a0e04ac838fb5addc9?utm_campaign=1058&utm_source=git)** | Muskegon, MI | On Site | Nov 15 |
 | **[Egan Company](https://www.eganco.com/)** | **[IT Systems and Support Intern - Summer 2026](https://jobright.ai/jobs/info/68fbcb5c4129dd33cd134b37?utm_campaign=1058&utm_source=git)** | Champlin, MN | Hybrid | Nov 15 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Branch Intern - Paid Internship (Bethpage, NY)](https://jobright.ai/jobs/info/68df496a5ab4977c2e952c75?utm_campaign=1058&utm_source=git)** | Bethpage, NY | On Site | Nov 15 |
-| ↳ | **[Branch Intern - Paid Internship (Dix Hills, NY)](https://jobright.ai/jobs/info/68df49ea6be63b6ec996e74e?utm_campaign=1058&utm_source=git)** | Dix Hills, NY | On Site | Nov 15 |
+| **[MercyOne](https://www.mercyone.org/)** | **[Student Intern Pharmacist - PRN](https://jobright.ai/jobs/info/68fc431e93c49825ab10b48b?utm_campaign=1058&utm_source=git)** | West Des Moines, IA | On Site | Nov 15 |
+| **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Branch Intern - Paid Internship (Dix Hills, NY)](https://jobright.ai/jobs/info/68df49ea6be63b6ec996e74e?utm_campaign=1058&utm_source=git)** | Dix Hills, NY | On Site | Nov 15 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I](https://jobright.ai/jobs/info/67fec2dddd174d346366a820?utm_campaign=1058&utm_source=git)** | Southaven, MS | On Site | Nov 15 |
 | **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Guest Service](https://jobright.ai/jobs/info/69189df445fb6f5ead8a6293?utm_campaign=1058&utm_source=git)** | Brossard, Quebec, Canada | On Site | Nov 15 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/682420b9b933e9f19acb845a?utm_campaign=1058&utm_source=git)** | Dickinson, ND | On Site | Nov 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Famous Supply](http://famous-supply.com)** | **[IT Intern](https://jobright.ai/jobs/info/6917d3c245fb6f5ead89ef71?utm_campaign=1058&utm_source=git)** | Akron, OH | On Site | Nov 14 |
 | **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Student Nurse Intern (TEMP)- Emergency Room - Mount Sinai Hospital - Part-Time Days](https://jobright.ai/jobs/info/6917ec0c15b415636717cd1d?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[Phelps Health](https://phelpshealth.org/)** | **[Student Nurse Intern - IPT / A Shift](https://jobright.ai/jobs/info/6917cda745fb6f5ead89ebc7?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Nov 14 |
-| **[Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the-johns-hopkins-hospital)** | **[Patient Care Tech Intern - Surgical Inpatient](https://jobright.ai/jobs/info/6917ccccbcdbf3560c9cb810?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Nov 14 |
-| **[Children's Wisconsin](https://childrenswi.org/)** | **[Respiratory Therapist Intern II - Neenah, WI](https://jobright.ai/jobs/info/6917ca8615b415636717b8e6?utm_campaign=1058&utm_source=git)** | Neenah, WI | On Site | Nov 14 |
-| **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Pharmacy Intern - Per Diem - Evenings - MRH](https://jobright.ai/jobs/info/6917c5e245fb6f5ead89e8ab?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | Nov 14 |
-| **[Management & Training Corporation](https://www.mtctrains.com)** | **[Student Intern, Maintenance](https://jobright.ai/jobs/info/6917df78bcdbf3560c9cc2ad?utm_campaign=1058&utm_source=git)** | Clearfield, UT, United States | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
