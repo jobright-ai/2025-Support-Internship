@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern  P1 Contingent Rotate](https://jobright.ai/jobs/info/68fd32990ab3b222462a13d5?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Nov 16 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Operational Readiness](https://jobright.ai/jobs/info/68a8fdc0d627244576e36c4f?utm_campaign=1058&utm_source=git)** | Stamford, CT | On Site | Nov 16 |
+| **[Allegheny Health Network](https://www.ahn.org)** | **[Pharmacy Intern- Inpatient - Allegheny General Hospital](https://jobright.ai/jobs/info/68eb82be2f64880ca0b58a50?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Nov 16 |
 | **[Cemstone](https://cemstone.com/)** | **[Dispatch Intern 2026](https://jobright.ai/jobs/info/691940bb45fb6f5ead8a7ce2?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Nov 15 |
 | **[Alpha Home Health and Hospice](https://alphahomehealthhospice.com/)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6919234dbcdbf3560c9d42b2?utm_campaign=1058&utm_source=git)** | Woodworth, LA | On Site | Nov 15 |
 | **[MEP Health](http://www.mephealth.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/69191e2515b415636718448a?utm_campaign=1058&utm_source=git)** | Longleaf, LA | On Site | Nov 15 |
@@ -156,7 +159,4 @@ Westlake Village, CA](https://jobright.ai/jobs/info/6918fc2fbcdbf3560c9d400f?utm
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6917eaf915b415636717cc80?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Nov 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6917ea9a15b415636717cc42?utm_campaign=1058&utm_source=git)** | Bothell, WA | On Site | Nov 14 |
 | **[Trek Bicycle](https://www.trekbikes.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6917e9babcdbf3560c9cc926?utm_campaign=1058&utm_source=git)** | Waterloo, WI | Hybrid | Nov 14 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6917e816bcdbf3560c9cc87e?utm_campaign=1058&utm_source=git)** | Issaquah, WA | On Site | Nov 14 |
-| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Student Nurse Intern (TEMP)-Emergency Department - Mount Sinai Hospital - Part-Time Day Shift](https://jobright.ai/jobs/info/6917e34415b415636717c797?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Nov 14 |
-| **[The Cancer & Hematology Centers ](https://www.chcwm.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6917e27715b415636717c71f?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
