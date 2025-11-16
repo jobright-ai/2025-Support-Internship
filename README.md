@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cemstone](https://cemstone.com/)** | **[Dispatch Intern 2026](https://jobright.ai/jobs/info/691940bb45fb6f5ead8a7ce2?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Nov 15 |
 | **[Alpha Home Health and Hospice](https://alphahomehealthhospice.com/)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6919234dbcdbf3560c9d42b2?utm_campaign=1058&utm_source=git)** | Woodworth, LA | On Site | Nov 15 |
 | **[MEP Health](http://www.mephealth.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/69191e2515b415636718448a?utm_campaign=1058&utm_source=git)** | Longleaf, LA | On Site | Nov 15 |
 | **[Health Jeanie](http://jeanie.health)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/69191cdf15b415636718444f?utm_campaign=1058&utm_source=git)** | Forest Hill, LA | On Site | Nov 15 |
@@ -158,5 +159,4 @@ Westlake Village, CA](https://jobright.ai/jobs/info/6918fc2fbcdbf3560c9d400f?utm
 | **[Trek Bicycle](https://www.trekbikes.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6917e9babcdbf3560c9cc926?utm_campaign=1058&utm_source=git)** | Waterloo, WI | Hybrid | Nov 14 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6917e816bcdbf3560c9cc87e?utm_campaign=1058&utm_source=git)** | Issaquah, WA | On Site | Nov 14 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Student Nurse Intern (TEMP)-Emergency Department - Mount Sinai Hospital - Part-Time Day Shift](https://jobright.ai/jobs/info/6917e34415b415636717c797?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Nov 14 |
-| **[The Cancer & Hematology Centers ](https://www.chcwm.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6917e27715b415636717c71f?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
