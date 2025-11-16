@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alpha Home Health and Hospice](https://alphahomehealthhospice.com/)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6919234dbcdbf3560c9d42b2?utm_campaign=1058&utm_source=git)** | Woodworth, LA | On Site | Nov 15 |
+| **[MEP Health](http://www.mephealth.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/69191e2515b415636718448a?utm_campaign=1058&utm_source=git)** | Longleaf, LA | On Site | Nov 15 |
+| **[Health Jeanie](http://jeanie.health)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/69191cdf15b415636718444f?utm_campaign=1058&utm_source=git)** | Forest Hill, LA | On Site | Nov 15 |
+| **[Preferred Home Health Care & Nursing Services](https://www.preferredcares.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/69191b17bcdbf3560c9d41d5?utm_campaign=1058&utm_source=git)** | Cheneyville, LA | On Site | Nov 15 |
+| **[Apex Home Health, Hospice & Home Care](http://apexhomehealth.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/691919d815b4156367184421?utm_campaign=1058&utm_source=git)** | Lecompte, LA | On Site | Nov 15 |
+| **[Provident Behavioral Health](https://www.providentstl.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/691919bd15b415636718441a?utm_campaign=1058&utm_source=git)** | Echo, LA | On Site | Nov 15 |
+| **[AccessHealth](https://www.accesshealthwv.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/691919b115b4156367184418?utm_campaign=1058&utm_source=git)** | Forest Hill, LA | On Site | Nov 15 |
+| **[Black Women's Mental Health Institute](www.bwmhi.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6919197045fb6f5ead8a7554?utm_campaign=1058&utm_source=git)** | Hineston, LA | On Site | Nov 15 |
 | **[Dalia Research](http://www.daliaresearch.com)** | **[Client Services Internship - Spring 2026
 Services
 Westlake Village, CA](https://jobright.ai/jobs/info/6918fc2fbcdbf3560c9d400f?utm_campaign=1058&utm_source=git)** | Westlake Village, CA | Hybrid | Nov 15 |
@@ -151,12 +159,4 @@ Westlake Village, CA](https://jobright.ai/jobs/info/6918fc2fbcdbf3560c9d400f?utm
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6917e816bcdbf3560c9cc87e?utm_campaign=1058&utm_source=git)** | Issaquah, WA | On Site | Nov 14 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Student Nurse Intern (TEMP)-Emergency Department - Mount Sinai Hospital - Part-Time Day Shift](https://jobright.ai/jobs/info/6917e34415b415636717c797?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[The Cancer & Hematology Centers ](https://www.chcwm.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6917e27715b415636717c71f?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Nov 14 |
-| **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Student Nurse Intern (TEMP)-Emergency Department - Mount Sinai Hospital - Part-Time Day Shift](https://jobright.ai/jobs/info/6917e18845fb6f5ead89f7ae?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Nov 14 |
-| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Student Nurse Intern (TEMP)- Emergency Room - Mount Sinai Hospital - Part-Time Evening](https://jobright.ai/jobs/info/6917e150bcdbf3560c9cc425?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Nov 14 |
-| ↳ | **[Student Nurse Intern (TEMP)- Emergency Room - Mount Sinai Hospital - Part-Time Days](https://jobright.ai/jobs/info/6917df1315b415636717c513?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Nov 14 |
-| **[Trek Bicycle](https://www.trekbikes.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6917dee815b415636717c4fa?utm_campaign=1058&utm_source=git)** | Waterloo, Wisconsin | On Site | Nov 14 |
-| **[Westerly Hospital](https://westerlyhospital.org)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/6917d7ec15b415636717c179?utm_campaign=1058&utm_source=git)** | Westerly, RI | On Site | Nov 14 |
-| **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Student Nurse Intern (TEMP)- Emergency Room - Mount Sinai Hospital - Part-Time Evening](https://jobright.ai/jobs/info/6917d6bc15b415636717c07c?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Nov 14 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern - Mother Baby Unit](https://jobright.ai/jobs/info/6918017045fb6f5ead8a0d05?utm_campaign=1058&utm_source=git)** | US-MD-Baltimore | On Site | Nov 14 |
-| **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Student Nurse Intern (TEMP)- Emergency Room - Mount Sinai Hospital - Part-Time Days](https://jobright.ai/jobs/info/6917ec0c15b415636717cd1d?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
