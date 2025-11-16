@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dalia Research](http://www.daliaresearch.com)** | **[Client Services Internship - Spring 2026
+Services
+Westlake Village, CA](https://jobright.ai/jobs/info/6918fc2fbcdbf3560c9d400f?utm_campaign=1058&utm_source=git)** | Westlake Village, CA | Hybrid | Nov 15 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern (On-Call)](https://jobright.ai/jobs/info/6918c4ba45fb6f5ead8a6bf7?utm_campaign=1058&utm_source=git)** | Scotts Valley, CA | On Site | Nov 15 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Plant Systems Intern](https://jobright.ai/jobs/info/68fbf5bb4129dd33cd136ec0?utm_campaign=1058&utm_source=git)** | Mount Vernon, MO | On Site | Nov 15 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Student Intern Pharmacist - PRN](https://jobright.ai/jobs/info/68fc47bb4129dd33cd13a841?utm_campaign=1058&utm_source=git)** | West Des Moines, IA | On Site | Nov 15 |
@@ -156,5 +159,4 @@ For a complete list, click the following sortable link below:
 | **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Student Nurse Intern (TEMP)- Emergency Room - Mount Sinai Hospital - Part-Time Evening](https://jobright.ai/jobs/info/6917d6bc15b415636717c07c?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern - Mother Baby Unit](https://jobright.ai/jobs/info/6918017045fb6f5ead8a0d05?utm_campaign=1058&utm_source=git)** | US-MD-Baltimore | On Site | Nov 14 |
 | **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Student Nurse Intern (TEMP)- Emergency Room - Mount Sinai Hospital - Part-Time Days](https://jobright.ai/jobs/info/6917ec0c15b415636717cd1d?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Nov 14 |
-| **[Phelps Health](https://phelpshealth.org/)** | **[Student Nurse Intern - IPT / A Shift](https://jobright.ai/jobs/info/6917cda745fb6f5ead89ebc7?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
