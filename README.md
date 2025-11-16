@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sanford Health](http://www.sanfordhealth.org)** | **[Inpatient Pharmacy Intern](https://jobright.ai/jobs/info/6919ca9815b415636718756d?utm_campaign=1058&utm_source=git)** | Fargo, ND | On Site | Nov 16 |
 | **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern  P1 Contingent Rotate](https://jobright.ai/jobs/info/68fd32990ab3b222462a13d5?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Nov 16 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Operational Readiness](https://jobright.ai/jobs/info/68a8fdc0d627244576e36c4f?utm_campaign=1058&utm_source=git)** | Stamford, CT | On Site | Nov 16 |
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Pharmacy Intern- Inpatient - Allegheny General Hospital](https://jobright.ai/jobs/info/68eb82be2f64880ca0b58a50?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Nov 16 |
@@ -155,7 +156,6 @@ Westlake Village, CA](https://jobright.ai/jobs/info/6918fc2fbcdbf3560c9d400f?utm
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6917efd945fb6f5ead8a006d?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Nov 14 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Student Nurse Intern (TEMP)-Emergency Room - Mount Sinai Hospital - Part-Time Nights](https://jobright.ai/jobs/info/6917ee2315b415636717ce68?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[Management & Training Corporation](https://www.mtctrains.com)** | **[Student Intern, Maintenance](https://jobright.ai/jobs/info/6917edb945fb6f5ead89ff46?utm_campaign=1058&utm_source=git)** | Clearfield, UT | On Site | Nov 14 |
-| **[Famous Supply](http://famous-supply.com)** | **[IT Intern](https://jobright.ai/jobs/info/6917ebbd15b415636717ccf7?utm_campaign=1058&utm_source=git)** | Akron, OH | On Site | Nov 14 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6917eaf915b415636717cc80?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Nov 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6917ea9a15b415636717cc42?utm_campaign=1058&utm_source=git)** | Bothell, WA | On Site | Nov 14 |
 | **[Trek Bicycle](https://www.trekbikes.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6917e9babcdbf3560c9cc926?utm_campaign=1058&utm_source=git)** | Waterloo, WI | Hybrid | Nov 14 |
