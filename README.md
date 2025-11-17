@@ -79,18 +79,18 @@ For a complete list, click the following sortable link below:
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[IT Intern / Summer 2026](https://jobright.ai/jobs/info/6919edbebcdbf3560c9d785d?utm_campaign=1058&utm_source=git)** | Brentwood, TN | Hybrid | Nov 16 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68c5706cdb52c07d28842cc1?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Nov 16 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - Days- ME Operating Room](https://jobright.ai/jobs/info/68e26a71f758fe1f97e5a319?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6919de1d15b4156367187887?utm_campaign=1058&utm_source=git)** | Venice, FL | On Site | Nov 16 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6919de31bcdbf3560c9d76ab?utm_campaign=1058&utm_source=git)** | Lakewood Ranch, FL | On Site | Nov 16 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/68e120461852e62f007f1840?utm_campaign=1058&utm_source=git)** | Covington, TN | On Site | Nov 16 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6919daea15b415636718783d?utm_campaign=1058&utm_source=git)** | Sun City West, AZ | On Site | Nov 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6919dab815b4156367187830?utm_campaign=1058&utm_source=git)** | Sun City Center, FL | On Site | Nov 16 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6919da9745fb6f5ead8aa938?utm_campaign=1058&utm_source=git)** | Sun City West, AZ | On Site | Nov 16 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6919d98145fb6f5ead8aa8e3?utm_campaign=1058&utm_source=git)** | Venice, FL | On Site | Nov 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6919d969bcdbf3560c9d75b9?utm_campaign=1058&utm_source=git)** | Riverview, FL | On Site | Nov 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6919d94415b41563671877b5?utm_campaign=1058&utm_source=git)** | Brandon, FL | On Site | Nov 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6919d8c415b4156367187797?utm_campaign=1058&utm_source=git)** | Riverview, FL | On Site | Nov 16 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6919d84845fb6f5ead8aa87a?utm_campaign=1058&utm_source=git)** | Lakewood Ranch, FL | On Site | Nov 16 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6919d80945fb6f5ead8aa842?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | Nov 16 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6919d8b1bcdbf3560c9d7587?utm_campaign=1058&utm_source=git)** | Bradenton, FL | On Site | Nov 16 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6919d8a945fb6f5ead8aa8a2?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | Nov 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6919d798bcdbf3560c9d7502?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Nov 16 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6919d78f45fb6f5ead8aa829?utm_campaign=1058&utm_source=git)** | Bradenton, FL | On Site | Nov 16 |
 | **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern  P1 Contingent Rotate](https://jobright.ai/jobs/info/68fd32990ab3b222462a13d5?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Nov 16 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Internal Medicine Physician](https://jobright.ai/jobs/info/68e0fb991852e62f007f0e97?utm_campaign=1058&utm_source=git)** | St George, UT | On Site | Nov 16 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Operational Readiness](https://jobright.ai/jobs/info/68a8fdc0d627244576e36c4f?utm_campaign=1058&utm_source=git)** | Stamford, CT | On Site | Nov 16 |
