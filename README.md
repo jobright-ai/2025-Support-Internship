@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Salesforce Administration (Memphis, TN)](https://jobright.ai/jobs/info/691ac84945fb6f5ead8ad9b3?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Merchandise Systems Support Internship](https://jobright.ai/jobs/info/691a96e715b4156367189200?utm_campaign=1058&utm_source=git)** | Egg Harbor, NJ | On Site | Nov 16 |
 | ↳ | **[Application Support Internship](https://jobright.ai/jobs/info/691a92bd15b4156367188f1b?utm_campaign=1058&utm_source=git)** | Egg Harbor, NJ | On Site | Nov 16 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/691a6dde15b4156367188647?utm_campaign=1058&utm_source=git)** | Santa Ana, CA | Hybrid | Nov 16 |
@@ -79,31 +80,30 @@ For a complete list, click the following sortable link below:
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[IT Intern / Summer 2026](https://jobright.ai/jobs/info/6919edbebcdbf3560c9d785d?utm_campaign=1058&utm_source=git)** | Brentwood, TN | Hybrid | Nov 16 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68c5706cdb52c07d28842cc1?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Nov 16 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - Days- ME Operating Room](https://jobright.ai/jobs/info/68e26a71f758fe1f97e5a319?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6919de31bcdbf3560c9d76ab?utm_campaign=1058&utm_source=git)** | Lakewood Ranch, FL | On Site | Nov 16 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/68e120461852e62f007f1840?utm_campaign=1058&utm_source=git)** | Covington, TN | On Site | Nov 16 |
+| ↳ | **[Intern-Nurse II](https://jobright.ai/jobs/info/68e120461852e62f007f1840?utm_campaign=1058&utm_source=git)** | Covington, TN | On Site | Nov 16 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6919daea15b415636718783d?utm_campaign=1058&utm_source=git)** | Sun City West, AZ | On Site | Nov 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6919dab815b4156367187830?utm_campaign=1058&utm_source=git)** | Sun City Center, FL | On Site | Nov 16 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6919da9745fb6f5ead8aa938?utm_campaign=1058&utm_source=git)** | Sun City West, AZ | On Site | Nov 16 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6919d9d715b41563671877e2?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | Nov 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6919d98145fb6f5ead8aa8e3?utm_campaign=1058&utm_source=git)** | Venice, FL | On Site | Nov 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6919d969bcdbf3560c9d75b9?utm_campaign=1058&utm_source=git)** | Riverview, FL | On Site | Nov 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6919d94415b41563671877b5?utm_campaign=1058&utm_source=git)** | Brandon, FL | On Site | Nov 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6919d8c415b4156367187797?utm_campaign=1058&utm_source=git)** | Riverview, FL | On Site | Nov 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6919d8b1bcdbf3560c9d7587?utm_campaign=1058&utm_source=git)** | Bradenton, FL | On Site | Nov 16 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6919d8a945fb6f5ead8aa8a2?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | Nov 16 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6919d84845fb6f5ead8aa87a?utm_campaign=1058&utm_source=git)** | Lakewood Ranch, FL | On Site | Nov 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6919d798bcdbf3560c9d7502?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Nov 16 |
 | **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern  P1 Contingent Rotate](https://jobright.ai/jobs/info/68fd32990ab3b222462a13d5?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Nov 16 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Internal Medicine Physician](https://jobright.ai/jobs/info/68e0fb991852e62f007f0e97?utm_campaign=1058&utm_source=git)** | St George, UT | On Site | Nov 16 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Operational Readiness](https://jobright.ai/jobs/info/68a8fdc0d627244576e36c4f?utm_campaign=1058&utm_source=git)** | Stamford, CT | On Site | Nov 16 |
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Pharmacy Intern- Inpatient - Allegheny General Hospital](https://jobright.ai/jobs/info/68eb82be2f64880ca0b58a50?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Nov 16 |
+| **[Dentsply Sirona](https://www.dentsplysirona.com)** | **[IT Intern](https://jobright.ai/jobs/info/691acd4fbcdbf3560c9dab0f?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Nov 15 |
 | **[Cemstone](https://cemstone.com/)** | **[Dispatch Intern 2026](https://jobright.ai/jobs/info/691940bb45fb6f5ead8a7ce2?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Nov 15 |
 | **[Alpha Home Health and Hospice](https://alphahomehealthhospice.com/)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6919234dbcdbf3560c9d42b2?utm_campaign=1058&utm_source=git)** | Woodworth, LA | On Site | Nov 15 |
 | **[Monterey Bay Aquarium](http://www.montereybayaquarium.org)** | **[Veterinary Internship](https://jobright.ai/jobs/info/68e0a26db99ec3563b0d1a9e?utm_campaign=1058&utm_source=git)** | Monterey, CA | On Site | Nov 15 |
 | **[MEP Health](http://www.mephealth.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/69191e2515b415636718448a?utm_campaign=1058&utm_source=git)** | Longleaf, LA | On Site | Nov 15 |
 | **[Health Jeanie](http://jeanie.health)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/69191cdf15b415636718444f?utm_campaign=1058&utm_source=git)** | Forest Hill, LA | On Site | Nov 15 |
-| **[Preferred Home Health Care & Nursing Services](https://www.preferredcares.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/69191b17bcdbf3560c9d41d5?utm_campaign=1058&utm_source=git)** | Cheneyville, LA | On Site | Nov 15 |
 | **[Apex Home Health, Hospice & Home Care](http://apexhomehealth.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/691919d815b4156367184421?utm_campaign=1058&utm_source=git)** | Lecompte, LA | On Site | Nov 15 |
 | **[Provident Behavioral Health](https://www.providentstl.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/691919bd15b415636718441a?utm_campaign=1058&utm_source=git)** | Echo, LA | On Site | Nov 15 |
-| **[AccessHealth](https://www.accesshealthwv.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/691919b115b4156367184418?utm_campaign=1058&utm_source=git)** | Forest Hill, LA | On Site | Nov 15 |
 | **[Black Women's Mental Health Institute](www.bwmhi.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6919197045fb6f5ead8a7554?utm_campaign=1058&utm_source=git)** | Hineston, LA | On Site | Nov 15 |
 | **[Dalia Research](http://www.daliaresearch.com)** | **[Client Services Internship - Spring 2026
 Services
