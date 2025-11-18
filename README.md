@@ -57,16 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern - Information Technology/Customer Support Team - Summer 2026 (20058423, 20058425)](https://jobright.ai/jobs/info/691c35e822a2cb4b9bd19ab5?utm_campaign=1058&utm_source=git)** | District 6 HQ400 East William Street | On Site | Nov 18 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Pharmacy Intern (Part time)](https://jobright.ai/jobs/info/691c3496bcdbf3560c9e6285?utm_campaign=1058&utm_source=git)** | Wilmington, DE | On Site | Nov 18 |
+| **[Catholic Health](https://www.catholichealthli.org)** | **[Pharmacy Intern-PD](https://jobright.ai/jobs/info/691c31cc22a2cb4b9bd199fe?utm_campaign=1058&utm_source=git)** | US-NY-Roslyn | On Site | Nov 18 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/691c1596bcdbf3560c9e59ff?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Nov 17 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/691c01d622a2cb4b9bd186f5?utm_campaign=1058&utm_source=git)** | Athens, OH | On Site | Nov 17 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/691c011ebcdbf3560c9e4e62?utm_campaign=1058&utm_source=git)** | Alhambra, CA | On Site | Nov 17 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/691c009bbcdbf3560c9e4e0a?utm_campaign=1058&utm_source=git)** | Montclair, NJ | On Site | Nov 17 |
 | **[UF Health Jacksonville](https://ufhealthjax.org)** | **[Intern Pharmacy](https://jobright.ai/jobs/info/691c007122a2cb4b9bd1860e?utm_campaign=1058&utm_source=git)** | Jacksonville, Florida | On Site | Nov 17 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/691bfca4bcdbf3560c9e4bef?utm_campaign=1058&utm_source=git)** | Hazlet, NJ | On Site | Nov 17 |
+| **[Endeavor Air](http://www.endeavorair.com/)** | **[Ground Operations/ACS (Airport Customer Service) Intern](https://jobright.ai/jobs/info/691c36cebcdbf3560c9e62f9?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Nov 17 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/691bfe5d15b4156367195038?utm_campaign=1058&utm_source=git)** | Lancaster, PA | On Site | Nov 17 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/691bfca4bcdbf3560c9e4bef?utm_campaign=1058&utm_source=git)** | Hazlet, NJ | On Site | Nov 17 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/691bfc8a15b4156367194f7b?utm_campaign=1058&utm_source=git)** | Chesapeake, OH | On Site | Nov 17 |
 | **[Endeavor Air](http://www.endeavorair.com/)** | **[Ground Operations/ACS (Airport Customer Service) Intern](https://jobright.ai/jobs/info/691bfbd3bcdbf3560c9e4b8e?utm_campaign=1058&utm_source=git)** | US-MN-Minneapolis | On Site | Nov 17 |
 | **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[Intern, IT](https://jobright.ai/jobs/info/691bf0c922a2cb4b9bd17bba?utm_campaign=1058&utm_source=git)** | Iselin, NJ | On Site | Nov 17 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/691c0d92bcdbf3560c9e5494?utm_campaign=1058&utm_source=git)** | Lancaster, PA | On Site | Nov 17 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/691c26cd15b4156367196260?utm_campaign=1058&utm_source=git)** | Morgantown, WV | On Site | Nov 17 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/691c26f715b415636719626a?utm_campaign=1058&utm_source=git)** | St Albans, WV | On Site | Nov 17 |
 | ↳ | **[Foreign Pharmacy Grad- International Pharmacy Intern](https://jobright.ai/jobs/info/691c0a2c15b41563671957b3?utm_campaign=1058&utm_source=git)** | Blaine, WA | On Site | Nov 17 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/691c0ced15b41563671958b3?utm_campaign=1058&utm_source=git)** | College Station, TX | On Site | Nov 17 |
 | **[Research Medical Center](http://www.researchmedicalcenter.com/)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/691beb8915b41563671942fa?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Nov 17 |
@@ -142,19 +148,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/691bbf35bcdbf3560c9e21fa?utm_campaign=1058&utm_source=git)** | El Centro, CA | On Site | Nov 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/691be16b15b4156367193ad1?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Nov 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/691bc14f22a2cb4b9bd15af9?utm_campaign=1058&utm_source=git)** | Richardson, TX | On Site | Nov 17 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/691bb80e15b41563671920de?utm_campaign=1058&utm_source=git)** | Plano, TX | On Site | Nov 17 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/691bb79815b415636719205d?utm_campaign=1058&utm_source=git)** | Gallipolis, OH | On Site | Nov 17 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/691bb80e15b41563671920de?utm_campaign=1058&utm_source=git)** | Plano, TX | On Site | Nov 17 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Assistant - Information Technology](https://jobright.ai/jobs/info/691b981115b4156367190a3f?utm_campaign=1058&utm_source=git)** | Auburn, AL | On Site | Nov 17 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/691bb5e2bcdbf3560c9e1c71?utm_campaign=1058&utm_source=git)** | Coatesville, PA | On Site | Nov 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/691bcdee15b4156367192f38?utm_campaign=1058&utm_source=git)** | Portland, ME | On Site | Nov 17 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[College Intern - Information Technology, PN: 20083440](https://jobright.ai/jobs/info/691b97ebbcdbf3560c9e083a?utm_campaign=1058&utm_source=git)** | District 1 HQ1885 North McCullough Street | On Site | Nov 17 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Assistant - Circulation](https://jobright.ai/jobs/info/691b974222a2cb4b9bd13fd4?utm_campaign=1058&utm_source=git)** | Auburn, AL | On Site | Nov 17 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/68f6ce4776a51a4307bde5d6?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | Nov 17 |
-| **[HealthDirect Pharmacy Services](https://www.hdrxservices.com)** | **[Pharmacy Intern P1](https://jobright.ai/jobs/info/691bfc2422a2cb4b9bd183c4?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | Nov 17 |
-| **[Nissha Medical Technologies](https://hs.nisshamedical.com/)** | **[IT Help Desk Internship](https://jobright.ai/jobs/info/691bb9bd15b4156367192247?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Nov 17 |
-| **[HealthDirect Pharmacy Services](https://www.hdrxservices.com)** | **[Pharmacy Intern P2](https://jobright.ai/jobs/info/691bfdfebcdbf3560c9e4c7b?utm_campaign=1058&utm_source=git)** | Ithaca, NY | On Site | Nov 17 |
-| ↳ | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/691bfef422a2cb4b9bd1851f?utm_campaign=1058&utm_source=git)** | Auburn, NY | On Site | Nov 17 |
-| ↳ | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/691c17e115b4156367195cdf?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | Nov 17 |
-| ↳ | **[Pharmacy Intern P3](https://jobright.ai/jobs/info/691c0a4e15b41563671957c6?utm_campaign=1058&utm_source=git)** | Ithaca, NY | On Site | Nov 17 |
-| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P2](https://jobright.ai/jobs/info/6906c82d122e8474c78e0cdb?utm_campaign=1058&utm_source=git)** | Ithaca, NY | On Site | Nov 17 |
+| **[SWBC](https://www.swbc.com)** | **[Support Design Intern – Customer Experience & Process Improvement](https://jobright.ai/jobs/info/691b962822a2cb4b9bd13f13?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
