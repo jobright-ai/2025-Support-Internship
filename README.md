@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Information Technology Internship](https://jobright.ai/jobs/info/68f7093676a51a4307be0723?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Nov 19 |
+| **[PureSpectrum](http://www.purespectrum.com/)** | **[Client Services Internship - Spring 2026](https://jobright.ai/jobs/info/691d9a7a7481340785ed899f?utm_campaign=1058&utm_source=git)** | Westlake Village, CA | On Site | Nov 19 |
+| **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Enterprise Business Support Intern](https://jobright.ai/jobs/info/691d993f49c9744234f1ef79?utm_campaign=1058&utm_source=git)** | United States | Remote | Nov 19 |
 | **[SAIC](http://www.saic.com)** | **[Technical Writer Internship](https://jobright.ai/jobs/info/691d854b0b7dff73415042cb?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Nov 19 |
 | **[Dignity Health](https://www.dignityhealth.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/691d7fcb7481340785ed8302?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Nov 19 |
 | **[Meijer](https://www.meijer.com/)** | **[Pre-Pharmacy Tech or Intern](https://jobright.ai/jobs/info/691d793f7481340785ed7f44?utm_campaign=1058&utm_source=git)** | Franklin, IN | On Site | Nov 19 |
 | **[New Season](https://newseason.com)** | **[Intern](https://jobright.ai/jobs/info/691d67207481340785ed743d?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Nov 18 |
-| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/691d61437481340785ed7172?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Nov 18 |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #338](https://jobright.ai/jobs/info/691d94a77481340785ed88a3?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Nov 18 |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/691d61010b7dff73415030f6?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Nov 18 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - ME ICU Baptist Memphis](https://jobright.ai/jobs/info/691d584dbcdbf3560c9f0150?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Nov 18 |
 | ↳ | **[Intern-Nurse II Med/Surg](https://jobright.ai/jobs/info/691d5238bcdbf3560c9efdab?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Nov 18 |
 | **[New Season](https://newseason.com)** | **[Intern Paid](https://jobright.ai/jobs/info/691d6eaf7481340785ed77ce?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Nov 18 |
@@ -129,7 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Onvida Health](https://www.onvidahealth.org)** | **[Surgical Technologist Intern / Surgical Services / Days](https://jobright.ai/jobs/info/691d0ef6bcdbf3560c9eccbb?utm_campaign=1058&utm_source=git)** | Yuma, AZ | On Site | Nov 18 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/691cc1f1bcdbf3560c9e976c?utm_campaign=1058&utm_source=git)** | Green Bay, WI | Hybrid | Nov 18 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Pharmacy Intern II](https://jobright.ai/jobs/info/691cbbbc22a2cb4b9bd1c9cd?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 18 |
-| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/691ce03f22a2cb4b9bd1e21b?utm_campaign=1058&utm_source=git)** | Raleigh, NC | Hybrid | Nov 18 |
+| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/691cf5a6bcdbf3560c9ebc3f?utm_campaign=1058&utm_source=git)** | Raleigh, NC | Hybrid | Nov 18 |
 | **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Enterprise Client Operations Intern [2026 Internship Program]](https://jobright.ai/jobs/info/691cee33ff7024498416bff1?utm_campaign=1058&utm_source=git)** | 570 Washington Blvd, Jersey City, NJ, 07310, US | Hybrid | Nov 18 |
 | **[Kendra Scott](http://www.kendrascott.com)** | **[Intern](https://jobright.ai/jobs/info/691cde0ebcdbf3560c9ea9d1?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Nov 18 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Pharmacy Intern - Contingent Rotating Shifts - Outpatient - West Bloomfield](https://jobright.ai/jobs/info/691cd989ff7024498416b143?utm_campaign=1058&utm_source=git)** | West Bloomfield, Michigan | On Site | Nov 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Copart](http://www.copart.com)** | **[Corp Support Intern](https://jobright.ai/jobs/info/6906db25ff462851fe005c34?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Nov 18 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/691c88dfff70244984168608?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Nov 18 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/691c87f7ff702449841685a6?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Nov 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/691c864bff702449841684e3?utm_campaign=1058&utm_source=git)** | Essex Junction, VT | On Site | Nov 18 |
-| **[Jefferson Health](http://JeffersonHealth.org)** | **[Pharmacy Intern - Per Diem - Jefferson Hospital for Neuroscience - Center City](https://jobright.ai/jobs/info/691cad30ff7024498416947a?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Nov 18 |
-| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Customer Success Specialist EatonCare (12-month) - Burlington, ON Canada](https://jobright.ai/jobs/info/691ccbbabcdbf3560c9e9d4c?utm_campaign=1058&utm_source=git)** | Burlington, Ontario, Canada | Hybrid | Nov 18 |
-| **[Dean Dorton](http://www.deandorton.com)** | **[Technology Apprentice](https://jobright.ai/jobs/info/68ffdc5b0ab3b222462af288?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
