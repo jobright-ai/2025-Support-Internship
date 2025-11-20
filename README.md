@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/691e52d3a49a885af9a27a54?utm_campaign=1058&utm_source=git)** | United States | Remote | Nov 19 |
+| **[Zymo Research Corp](https://www.zymoresearch.com)** | **[NetSuite Admin Intern or Contractor](https://jobright.ai/jobs/info/691e680c09cc522e877398cb?utm_campaign=1058&utm_source=git)** | Tustin, CA | On Site | Nov 19 |
+| **[Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the-johns-hopkins-hospital)** | **[Patient Care Tech Intern - Surgical Oncology](https://jobright.ai/jobs/info/691e5ccaa49a885af9a27fa5?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Nov 19 |
+| **[Oracle](https://www.oracle.com/)** | **[M&D Customer Solutions Analyst Intern - OVIP](https://jobright.ai/jobs/info/691e573aa49a885af9a27d33?utm_campaign=1058&utm_source=git)** | United States | Remote | Nov 19 |
+| ↳ | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/691e532b09cc522e87738fbe?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Nov 19 |
+| ↳ | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/691e52d3a49a885af9a27a54?utm_campaign=1058&utm_source=git)** | United States | Remote | Nov 19 |
 | **[Centene Corporation](http://www.centene.com)** | **[Contact Center Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691e520309cc522e87738eae?utm_campaign=1058&utm_source=git)** | Remote-OH | Remote | Nov 19 |
-| **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/691e51f609cc522e87738ea4?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO, United States | Hybrid | Nov 19 |
-| **[Centene Corporation](http://www.centene.com)** | **[Contact Center Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691e51f009cc522e87738ea0?utm_campaign=1058&utm_source=git)** | Remote-DC | Remote | Nov 19 |
+| ↳ | **[Contact Center Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691e51f009cc522e87738ea0?utm_campaign=1058&utm_source=git)** | Remote-DC | Remote | Nov 19 |
 | **[Sutter Health](http://www.sutterhealth.org)** | **[Intern, Clinical Pharmacist Year 1](https://jobright.ai/jobs/info/691e51cba49a885af9a279ac?utm_campaign=1058&utm_source=git)** | Roseville, CA | On Site | Nov 19 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[M&D Customer Solutions Analyst Intern - OVIP](https://jobright.ai/jobs/info/691e5178a49a885af9a2796e?utm_campaign=1058&utm_source=git)** | United States | Remote | Nov 19 |
 | **[Centene Corporation](http://www.centene.com)** | **[Contact Center Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691e51653f782d2f1afb3c15?utm_campaign=1058&utm_source=git)** | Remote-ID | Remote | Nov 19 |
@@ -89,6 +92,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Contact Center Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691e4df6a49a885af9a277f9?utm_campaign=1058&utm_source=git)** | Remote-AZ | Remote | Nov 19 |
 | ↳ | **[Contact Center Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691e4ddca49a885af9a277f0?utm_campaign=1058&utm_source=git)** | Remote-MO | Remote | Nov 19 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/691e4dc73f782d2f1afb39ed?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO, United States | Hybrid | Nov 19 |
+| **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/691e4da23f782d2f1afb39dc?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO, United States | Hybrid | Nov 19 |
 | **[Centene Corporation](http://www.centene.com)** | **[Contact Center Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691e4d8b3f782d2f1afb39d5?utm_campaign=1058&utm_source=git)** | Remote-KY | Remote | Nov 19 |
 | ↳ | **[Contact Center Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691e4d87a49a885af9a277b4?utm_campaign=1058&utm_source=git)** | Remote-TN | Remote | Nov 19 |
 | ↳ | **[Contact Center Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691e4d7a09cc522e87738b52?utm_campaign=1058&utm_source=git)** | Remote-WY | Remote | Nov 19 |
@@ -113,7 +117,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Contact Center Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691e4a60a49a885af9a2746d?utm_campaign=1058&utm_source=git)** | Remote-MD | Remote | Nov 19 |
 | ↳ | **[Contact Center Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691e4a583f782d2f1afb374f?utm_campaign=1058&utm_source=git)** | Remote-NV | Remote | Nov 19 |
 | ↳ | **[Contact Center Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691e49f5a49a885af9a273df?utm_campaign=1058&utm_source=git)** | Remote-CO | Remote | Nov 19 |
-| **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/691e47ac3f782d2f1afb351b?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Nov 19 |
 | **[Vacancies at IOM Indonesia](https://indonesia.iom.int)** | **[ICT Internship (extended)](https://jobright.ai/jobs/info/691e437a3f782d2f1afb30e4?utm_campaign=1058&utm_source=git)** | Security, CO | On Site | Nov 19 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/691e39a3a49a885af9a26821?utm_campaign=1058&utm_source=git)** | Athens, GA | On Site | Nov 19 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Assistant - Student Conduct](https://jobright.ai/jobs/info/691e380aa49a885af9a26662?utm_campaign=1058&utm_source=git)** | Auburn, AL | On Site | Nov 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/691ddf6561dc50590a64b3da?utm_campaign=1058&utm_source=git)** | Lubbock, TX | On Site | Nov 19 |
 | **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/691e018b3f782d2f1afafa4f?utm_campaign=1058&utm_source=git)** | Memphis, TN | Hybrid | Nov 19 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/691dde5361dc50590a64b2d8?utm_campaign=1058&utm_source=git)** | Barnegat, NJ | On Site | Nov 19 |
-| **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Branch Intern - Paid Internship (Huntsville, AL)](https://jobright.ai/jobs/info/69018291d5259a1b3cff597b?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | Nov 19 |
-| **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/6901246ad5259a1b3cff1e68?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Nov 19 |
-| **[Acuity Insurance](http://www.acuity.com)** | **[Technical Support Analyst Intern](https://jobright.ai/jobs/info/69018a94f8ce7a040fdc0a5b?utm_campaign=1058&utm_source=git)** | Sheboygan, WI | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
