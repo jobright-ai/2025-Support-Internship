@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercyhealth Wisconsin and Illinois](https://mercyhealthsystem.org)** | **[Student Nurse Intern, JBH Emergency Dept.](https://jobright.ai/jobs/info/691fddf509cc522e87746274?utm_campaign=1058&utm_source=git)** | Rockford, IL | On Site | Nov 20 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: IT Implementation Coordinator](https://jobright.ai/jobs/info/691fdcb4a49a885af9a34d5a?utm_campaign=1058&utm_source=git)** | Columbia, MO | Hybrid | Nov 20 |
+| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Internship - (MULTIPLE DIVISONS) 26 - 27](https://jobright.ai/jobs/info/691fd6d2a49a885af9a34943?utm_campaign=1058&utm_source=git)** | Morris, NJ | Hybrid | Nov 20 |
+| **[Parker Hannifin](http://www.parker.com)** | **[IT Intern](https://jobright.ai/jobs/info/691fd512a49a885af9a34811?utm_campaign=1058&utm_source=git)** | Simi Valley, CA | On Site | Nov 20 |
+| **[Flowers Hospital](https://www.flowershospital.com)** | **[Nurse Intern- MI5- MW](https://jobright.ai/jobs/info/691fd01da49a885af9a34575?utm_campaign=1058&utm_source=git)** | Dothan, AL | On Site | Nov 20 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Tampa](https://jobright.ai/jobs/info/691fbe333f782d2f1afbfc01?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Nov 20 |
 | **[Make-A-Wish® Arizona](http://www.arizona.wish.org)** | **[Wish Granting Support Intern](https://jobright.ai/jobs/info/691fbbab09cc522e87744deb?utm_campaign=1058&utm_source=git)** | Scottsdale,AZ,US | On Site | Nov 20 |
 | **[Orange County Sanitation District](https://www.ocsan.gov)** | **[Student Intern (Information Technology)](https://jobright.ai/jobs/info/691fba5aa49a885af9a33752?utm_campaign=1058&utm_source=git)** | Fountain Valley, CA | On Site | Nov 20 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Ultrasound Intern, Part-Time](https://jobright.ai/jobs/info/691fb31109cc522e877448b7?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Nov 20 |
 | **[Tennova Healthcare- Turkey Creek Medical Center](https://www.tennovaturkeycreek.com/)** | **[Nurse Intern ICU Nights](https://jobright.ai/jobs/info/691fb13aa49a885af9a3337f?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Nov 20 |
+| **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Sarasota](https://jobright.ai/jobs/info/691fd6d33f782d2f1afc0be9?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | Nov 20 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: IT Implementation Coordinator](https://jobright.ai/jobs/info/691fa96a3f782d2f1afbf200?utm_campaign=1058&utm_source=git)** | Columbia, MO (Headquarters) | Hybrid | Nov 20 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Radiology Student Intern](https://jobright.ai/jobs/info/691fa77e3f782d2f1afbf08e?utm_campaign=1058&utm_source=git)** | Greater St. Louis | On Site | Nov 20 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Guest Services Intern](https://jobright.ai/jobs/info/68efc13d9821486c423c715c?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Nov 20 |
@@ -72,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern 2S AF](https://jobright.ai/jobs/info/691fa0f93f782d2f1afbebf7?utm_campaign=1058&utm_source=git)** | 4370 W MAIN ST, DOTHAN, AL, 36305, US | On Site | Nov 20 |
 | **[TIH](https://www.truistinsurance.com/)** | **[Salesforce Intern](https://jobright.ai/jobs/info/691fa0e7a49a885af9a32a39?utm_campaign=1058&utm_source=git)** | Raleigh, NC | Hybrid | Nov 20 |
 | **[PORT Health](https://www.porthealth.org/)** | **[Intern](https://jobright.ai/jobs/info/691fbd1ba49a885af9a33930?utm_campaign=1058&utm_source=git)** | Goldsboro, NC | On Site | Nov 20 |
+| **[SSM Health](https://www.ssmhealth.com/)** | **[Sonographer Student Intern](https://jobright.ai/jobs/info/68a22ac9faa4e875e82959b8?utm_campaign=1058&utm_source=git)** | OKC Metro Area | On Site | Nov 20 |
 | **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern- MI5- MW](https://jobright.ai/jobs/info/691f9f04a49a885af9a328c3?utm_campaign=1058&utm_source=git)** | 4370 W MAIN ST, DOTHAN, AL, 36305, US | On Site | Nov 20 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/691f9ebca49a885af9a32883?utm_campaign=1058&utm_source=git)** | Collinsville, IL | On Site | Nov 20 |
 | **[PhRMA](http://phrma.org/)** | **[Spring Internship – IT](https://jobright.ai/jobs/info/691f969509cc522e87743681?utm_campaign=1058&utm_source=git)** | Washington, DC, US | On Site | Nov 20 |
@@ -112,7 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/691f5ca009cc522e8774015d?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Nov 20 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Pharmacy Intern BWFH](https://jobright.ai/jobs/info/691f5aa53f782d2f1afbaca8?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Nov 20 |
 | **[Superior](http://superiorgroup.net)** | **[Information Technology (Infrastructure and Service Desk Team) Internship, Summer 2026](https://jobright.ai/jobs/info/691f80e63f782d2f1afbd111?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Nov 20 |
-| ↳ | **[Information Technology (Applications and Data Team) Internship, Summer 2026](https://jobright.ai/jobs/info/691f7dfd09cc522e8774209d?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Nov 20 |
+| ↳ | **[IT (Applications and Data Team) Internship, Summer 2026](https://jobright.ai/jobs/info/691f7dfd09cc522e8774209d?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Nov 20 |
 | **[GenPark](https://genpark.ai)** | **[Technical Manager](https://jobright.ai/jobs/info/691f757c3f782d2f1afbc664?utm_campaign=1058&utm_source=git)** | LA Metro Area | Hybrid | Nov 20 |
 | **[Saint Joseph Mercy Health System](http://www.stjoeshealth.org)** | **[Graduate Pharmacy Intern](https://jobright.ai/jobs/info/6902b31500a1816c41ea0bdb?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Nov 20 |
 | **[Phelps Health](https://phelpshealth.org/)** | **[Clinical Intern / 0.1 IPT](https://jobright.ai/jobs/info/691f4d553f782d2f1afba273?utm_campaign=1058&utm_source=git)** | Phelps Health Hospital | On Site | Nov 20 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Centene Corporation](http://www.centene.com)** | **[Contact Center Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691f5deea49a885af9a2ec7e?utm_campaign=1058&utm_source=git)** | Michigan, United States | Remote | Nov 20 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Geospatial Product Support Analyst Intern](https://jobright.ai/jobs/info/691f48063f782d2f1afb9ddc?utm_campaign=1058&utm_source=git)** | Richmond Hill, Ontario, Canada | Hybrid | Nov 20 |
 | **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/6902a39598707b2b0fe71c79?utm_campaign=1058&utm_source=git)** | Allentown, PA | On Site | Nov 20 |
-| ↳ | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/690254f8ff462851fefe1fc3?utm_campaign=1058&utm_source=git)** | Racine, WI | On Site | Nov 20 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Service Desk Co-op (January through June)](https://jobright.ai/jobs/info/68cc65827342c7623ae6422a?utm_campaign=1058&utm_source=git)** | Needham, MA | On Site | Nov 20 |
-| **[Rush Street Interactive](https://rushstreetinteractive.com/)** | **[Player Support Operations Internship - Spring 2026](https://jobright.ai/jobs/info/690370b463502c0aded68d9a?utm_campaign=1058&utm_source=git)** | Collingswood, NJ | Hybrid | Nov 20 |
-| **[Centene Corporation](http://www.centene.com)** | **[Contact Center Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691f4b023f782d2f1afba034?utm_campaign=1058&utm_source=git)** | Connecticut, United States | Remote | Nov 20 |
-| ↳ | **[Contact Center Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691f4745a49a885af9a2dab8?utm_campaign=1058&utm_source=git)** | Cass County, ND | Remote | Nov 20 |
-| ↳ | **[Contact Center Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691f522509cc522e8773f8af?utm_campaign=1058&utm_source=git)** | Colorado, United States | Remote | Nov 20 |
-| ↳ | **[Contact Center Operations Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691f49fb09cc522e8773f1e1?utm_campaign=1058&utm_source=git)** | Alabama, United States | Remote | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
