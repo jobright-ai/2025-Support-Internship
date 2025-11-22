@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Guthrie](http://www.guthrie.org)** | **[Pharmacy Intern - Pharmacy - Per Diem](https://jobright.ai/jobs/info/683e0b6ea41241a3a99d52f1?utm_campaign=1058&utm_source=git)** | Binghamton, NY | On Site | Nov 22 |
+| **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - IT Support](https://jobright.ai/jobs/info/68c793b4c96a22563ecf28a7?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Nov 22 |
+| ↳ | **[Summer '26 Intern - IT Support](https://jobright.ai/jobs/info/68cd2c161ad6b16f028960fc?utm_campaign=1058&utm_source=git)** | Toledo, OH | On Site | Nov 22 |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6905a9f463502c0aded7cd3e?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Nov 22 |
+| **[Crohn's & Colitis Foundation](https://www.crohnscolitisfoundation.org/)** | **[Intern, Advancement & Volunteer Engagement](https://jobright.ai/jobs/info/68faaf8dedd190144238fef6?utm_campaign=1058&utm_source=git)** | NYC Metro Area | Hybrid | Nov 22 |
 | **[MathWorks](http://www.mathworks.com)** | **[Technical Documentation Intern - Undergraduate](https://jobright.ai/jobs/info/69052b1163502c0aded78e9c?utm_campaign=1058&utm_source=git)** | Natick, MA | Hybrid | Nov 22 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[IT Field Support Intern](https://jobright.ai/jobs/info/69055fc963502c0aded7aa52?utm_campaign=1058&utm_source=git)** | Colmar, PA | On Site | Nov 22 |
 | **[MathWorks](http://www.mathworks.com)** | **[Technical Documentation Intern - Graduate](https://jobright.ai/jobs/info/69052bb163502c0aded78f34?utm_campaign=1058&utm_source=git)** | Natick, MA | Hybrid | Nov 22 |
@@ -83,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Ballston Spa National Bank](https://www.bsnb.com)** | **[Seasonal Information Technology Intern](https://jobright.ai/jobs/info/6921138c00c9ee50eaecb863?utm_campaign=1058&utm_source=git)** | Ballston Spa,NY,US | On Site | Nov 21 |
 | **[Juniper Square](https://www.junipersquare.com)** | **[Customer Support AI Solutions (Intern)](https://jobright.ai/jobs/info/692112a0a49a885af9a42a72?utm_campaign=1058&utm_source=git)** | United States | Remote | Nov 21 |
 | **[BAYFRONT HEALTH](https://www.linkedin.com/company/55350434)** | **[Senior Nurse Intern - MSICU - Bayfront Hospital](https://jobright.ai/jobs/info/69211267a49a885af9a42a32?utm_campaign=1058&utm_source=git)** | Orlando Health Bayfront Hospital | On Site | Nov 21 |
-| **[Brkthru](https://brkthru.com)** | **[IT Intern / Spring 2026](https://jobright.ai/jobs/info/69211240a49a885af9a42a00?utm_campaign=1058&utm_source=git)** | Fully Remote | Remote | Nov 21 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/692111a6a49a885af9a42939?utm_campaign=1058&utm_source=git)** | Chandler, AZ | On Site | Nov 21 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Intern, Imaging Services](https://jobright.ai/jobs/info/69210fe300c9ee50eaecb46f?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Nov 21 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/69210f2e00c9ee50eaecb3ad?utm_campaign=1058&utm_source=git)** | West Des Moines, IA | On Site | Nov 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68b14bec6fab621da7b0c1ae?utm_campaign=1058&utm_source=git)** | Laredo, TX | On Site | Nov 21 |
 | **[KLA](https://www.kla.com)** | **[Intern - Service Support - Phoenix, AZ](https://jobright.ai/jobs/info/69208a52a49a885af9a3c800?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Nov 21 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/6920b0c800c9ee50eaec6d74?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
-| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Customer Care Summer Internship](https://jobright.ai/jobs/info/68e687fe1852e62f0081bd81?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Nov 21 |
-| **[Novacore](http://nsminc.com)** | **[Summer Intern- Technology](https://jobright.ai/jobs/info/69040a2463502c0aded6fb6c?utm_campaign=1058&utm_source=git)** | Conshohocken, PA | Hybrid | Nov 21 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69208512a49a885af9a3c228?utm_campaign=1058&utm_source=git)** | Manhattan, KS | On Site | Nov 21 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6920845fa49a885af9a3c189?utm_campaign=1058&utm_source=git)** | Murrysville, PA | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
