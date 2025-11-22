@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ebara Elliott Energy](http://www.elliott-turbo.com)** | **[Summer Information Technology Intern](https://jobright.ai/jobs/info/69212b1800c9ee50eaecc7a9?utm_campaign=1058&utm_source=git)** | Jeannette, PA | On Site | Nov 21 |
+| **[Encova Insurance](https://www.encova.com)** | **[Intern, Engagement Center](https://jobright.ai/jobs/info/691b998015b4156367190b55?utm_campaign=1058&utm_source=git)** | Charleston, WV | Hybrid | Nov 21 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6921222400c9ee50eaecbff5?utm_campaign=1058&utm_source=git)** | Salem, OR | On Site | Nov 21 |
+| **[Orlando Health](https://www.orlandohealth.com/)** | **[Senior Nurse Intern - MSICU - Bayfront Hospital](https://jobright.ai/jobs/info/69211d703f782d2f1afcf4e4?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Nov 21 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/69211cd53f782d2f1afcf468?utm_campaign=1058&utm_source=git)** | Sparks, NV | Hybrid | Nov 21 |
 | **[UTMB Faculty Group Practice](https://utmb.us/e99)** | **[Pharmacy Intern - Galveston Inpatient and League City Specialty/Ambulatory](https://jobright.ai/jobs/info/692113f1a49a885af9a42b9e?utm_campaign=1058&utm_source=git)** | Galveston, Texas, United States | On Site | Nov 21 |
 | **[Ballston Spa National Bank](https://www.bsnb.com)** | **[Seasonal Information Technology Intern](https://jobright.ai/jobs/info/6921138c00c9ee50eaecb863?utm_campaign=1058&utm_source=git)** | Ballston Spa,NY,US | On Site | Nov 21 |
 | **[Juniper Square](https://www.junipersquare.com)** | **[Customer Support AI Solutions (Intern)](https://jobright.ai/jobs/info/692112a0a49a885af9a42a72?utm_campaign=1058&utm_source=git)** | United States | Remote | Nov 21 |
@@ -86,7 +91,7 @@ For a complete list, click the following sortable link below:
 | **[AcariaHealth](https://acariahealth.envolvehealth.com)** | **[Specialty Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/6920e168a49a885af9a40408?utm_campaign=1058&utm_source=git)** | Missouri, United States | Remote | Nov 21 |
 | **[Standish Management, LLC](http://standishmanagement.com/)** | **[Client Onboarding Internship - Summer 2026](https://jobright.ai/jobs/info/6920fdee00c9ee50eaeca871?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Nov 21 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Business Payment Solutions Intern](https://jobright.ai/jobs/info/6920ded900c9ee50eaec8f54?utm_campaign=1058&utm_source=git)** | Jefferson City, MO, 65101, United States | On Site | Nov 21 |
-| **[JFK Johnson Rehabilitation Institute](http://JFKJohnson.org)** | **[INTERN, INFORMATION TECHNOLOGY](https://jobright.ai/jobs/info/6920ddb300c9ee50eaec8e62?utm_campaign=1058&utm_source=git)** | Edison, NJ | On Site | Nov 21 |
+| **[JFK Johnson Rehabilitation Institute](http://JFKJohnson.org)** | **[INTERN, INFORMATION TECHNOLOGY](https://jobright.ai/jobs/info/6920de7d00c9ee50eaec8f01?utm_campaign=1058&utm_source=git)** | Edison, NJ | On Site | Nov 21 |
 | ↳ | **[IT SUMMER INTERN, IT ASSET MANAGER (ITAM)](https://jobright.ai/jobs/info/6920db57a49a885af9a3ff89?utm_campaign=1058&utm_source=git)** | Edison, NJ | On Site | Nov 21 |
 | **[AcariaHealth](https://acariahealth.envolvehealth.com)** | **[Specialty Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/6920d5f200c9ee50eaec886e?utm_campaign=1058&utm_source=git)** | Illinois, United States | Remote | Nov 21 |
 | ↳ | **[Specialty Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/6920d43b00c9ee50eaec8702?utm_campaign=1058&utm_source=git)** | Florida, United States | Remote | Nov 21 |
@@ -113,8 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[START Service Technician (Spring 2026)](https://jobright.ai/jobs/info/6920ea8000c9ee50eaec954d?utm_campaign=1058&utm_source=git)** | Rosenberg, TX | On Site | Nov 21 |
 | **[Centene Corporation](http://www.centene.com)** | **[Specialty Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/6920bb97a49a885af9a3e87d?utm_campaign=1058&utm_source=git)** | Remote-FL | Remote | Nov 21 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Pharmacy Intern II](https://jobright.ai/jobs/info/6920b2ba3f782d2f1afca626?utm_campaign=1058&utm_source=git)** | Main Campus - Pavilion A - 777 Bannock Street, Denver, CO 80204 | On Site | Nov 21 |
-| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/6920d6b4a49a885af9a3fd84?utm_campaign=1058&utm_source=git)** | Truckee, CA | Hybrid | Nov 21 |
-| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/6920d8383f782d2f1afcc1b1?utm_campaign=1058&utm_source=git)** | Roseville, CA | Hybrid | Nov 21 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/6920d8383f782d2f1afcc1b1?utm_campaign=1058&utm_source=git)** | Roseville, CA | Hybrid | Nov 21 |
 | ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/6920d80a3f782d2f1afcc191?utm_campaign=1058&utm_source=git)** | Stockton, CA | Hybrid | Nov 21 |
 | ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/6920ca6100c9ee50eaec80a3?utm_campaign=1058&utm_source=git)** | Chico, CA | Hybrid | Nov 21 |
 | **[Naples Comprehensive Health - NCH](http://www.nchmd.org/)** | **[IT Intern FR](https://jobright.ai/jobs/info/6914fd54286ccf0a1512a109?utm_campaign=1058&utm_source=git)** | Naples, FL | Hybrid | Nov 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II: VAD Stepdown](https://jobright.ai/jobs/info/69044693ff462851feff471a?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Nov 21 |
 | **[W3 Financial Group, LLC](http://w3wealth.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6920a3cc00c9ee50eaec65d1?utm_campaign=1058&utm_source=git)** | Fairlawn, OH | On Site | Nov 21 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6920b8d700c9ee50eaec739c?utm_campaign=1058&utm_source=git)** | Washington, PA | On Site | Nov 21 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/692090a3a49a885af9a3cce0?utm_campaign=1058&utm_source=git)** | Conway, AR | On Site | Nov 21 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6920a27d00c9ee50eaec64b3?utm_campaign=1058&utm_source=git)** | McMurray, PA | On Site | Nov 21 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6920a08fa49a885af9a3d71e?utm_campaign=1058&utm_source=git)** | Canton, OH | On Site | Nov 21 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6920873900c9ee50eaec510f?utm_campaign=1058&utm_source=git)** | Austintown, OH | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
