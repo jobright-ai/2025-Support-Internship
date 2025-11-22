@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Fidelity](http://www.americanfidelity.com)** | **[IT Intern](https://jobright.ai/jobs/info/6921664fa49a885af9a4590f?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Nov 21 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/69215d0100c9ee50eaece1cc?utm_campaign=1058&utm_source=git)** | Oklahoma City, Oklahoma | On Site | Nov 21 |
 | **[Becklar](https://www.becklar.com/)** | **[Dealer Care Intern](https://jobright.ai/jobs/info/69214400a49a885af9a445fb?utm_campaign=1058&utm_source=git)** | Ogden, UT | On Site | Nov 21 |
 | **[Concordia Plans](https://www.concordiaplans.org/)** | **[Customer Service Business Administration Intern](https://jobright.ai/jobs/info/69213e8ea49a885af9a44471?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Nov 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69213d3d00c9ee50eaecd132?utm_campaign=1058&utm_source=git)** | Carbondale, PA | On Site | Nov 21 |
@@ -101,7 +103,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT SUMMER INTERN, IT ASSET MANAGER (ITAM)](https://jobright.ai/jobs/info/6920db57a49a885af9a3ff89?utm_campaign=1058&utm_source=git)** | Edison, NJ | On Site | Nov 21 |
 | **[AcariaHealth](https://acariahealth.envolvehealth.com)** | **[Specialty Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/6920d5f200c9ee50eaec886e?utm_campaign=1058&utm_source=git)** | Illinois, United States | Remote | Nov 21 |
 | ↳ | **[Specialty Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/6920d43b00c9ee50eaec8702?utm_campaign=1058&utm_source=git)** | Florida, United States | Remote | Nov 21 |
-| **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, 4/5 Main Med Surg, Per Diem, 7am to 7:30pm](https://jobright.ai/jobs/info/6920d3c300c9ee50eaec86b4?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Nov 21 |
 | **[Ebara Elliott Energy](http://www.elliott-turbo.com)** | **[Summer Information Technology Intern](https://jobright.ai/jobs/info/6920ce263f782d2f1afcbb36?utm_campaign=1058&utm_source=git)** | Jeannette, PA | On Site | Nov 21 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[Student Intern, Imaging Services](https://jobright.ai/jobs/info/6920ce1fa49a885af9a3f6b9?utm_campaign=1058&utm_source=git)** | Medical Center Campus | On Site | Nov 21 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/6920cc813f782d2f1afcbacc?utm_campaign=1058&utm_source=git)** | Elk Grove, CA | Hybrid | Nov 21 |
@@ -136,9 +137,9 @@ For a complete list, click the following sortable link below:
 | **[Saint Joseph Mercy Health System](http://www.stjoeshealth.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6903ac5063502c0aded6af93?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Nov 21 |
 | **[Simpson Strong-Tie](https://www.strongtie.com)** | **[Digital Support Services Intern](https://jobright.ai/jobs/info/6903b008ff462851fefed8fc?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | Nov 21 |
 | **[Becklar Monitoring](https://www.agmonitoring.com)** | **[Dealer Care Intern](https://jobright.ai/jobs/info/6920b8bf00c9ee50eaec7386?utm_campaign=1058&utm_source=git)** | Ogden, UT | On Site | Nov 21 |
-| **[KLA](https://www.kla.com)** | **[Intern - Service Support - Phoenix, AZ](https://jobright.ai/jobs/info/692095d43f782d2f1afc925c?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Nov 21 |
 | **[National Exchange Bank & Trust](https://nebat.com/)** | **[Student Customer Service Representative](https://jobright.ai/jobs/info/6920b6c600c9ee50eaec71d5?utm_campaign=1058&utm_source=git)** | Sheboygan, WI | On Site | Nov 21 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68af47f87bcb7608b3d2c21a?utm_campaign=1058&utm_source=git)** | Pflugerville, TX | On Site | Nov 21 |
+| **[KLA](https://www.kla.com)** | **[Intern - Service Support - Phoenix, AZ](https://jobright.ai/jobs/info/69209356a49a885af9a3cf39?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Nov 21 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Support Intern](https://jobright.ai/jobs/info/6920b83200c9ee50eaec72f3?utm_campaign=1058&utm_source=git)** | Charlotte, NC | Remote | Nov 21 |
 | **[Cemstone](https://cemstone.com/)** | **[IT Support Intern 2026](https://jobright.ai/jobs/info/692092213f782d2f1afc8f95?utm_campaign=1058&utm_source=git)** | Mendota Heights, MN | On Site | Nov 21 |
 | **[Trinity Health MI](https://bit.ly/3y0fhsr)** | **[Community Pharmacy Intern](https://jobright.ai/jobs/info/68775b38299cbc74b8766de3?utm_campaign=1058&utm_source=git)** | Muskegon, MI | On Site | Nov 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/692079f03f782d2f1afc7b17?utm_campaign=1058&utm_source=git)** | Pearland, TX | On Site | Nov 21 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/692079b900c9ee50eaec4347?utm_campaign=1058&utm_source=git)** | Charleston, SC | On Site | Nov 21 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/692078dd3f782d2f1afc79cf?utm_campaign=1058&utm_source=git)** | Atascadero, CA | On Site | Nov 21 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/692077ad00c9ee50eaec40e7?utm_campaign=1058&utm_source=git)** | Alliance, OH | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
