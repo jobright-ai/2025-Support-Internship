@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6922ac637795cd460c8369e2?utm_campaign=1058&utm_source=git)** | Alexandria, LA | On Site | Nov 22 |
 | **[Haworth](http://www.haworth.com/)** | **[Information Systems Intern- Holland, MI](https://jobright.ai/jobs/info/69225e0a3f782d2f1afd5043?utm_campaign=1058&utm_source=git)** | Holland, MI | On Site | Nov 22 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[Intern, Information Technology](https://jobright.ai/jobs/info/69222e62d1ec2c3565c46eca?utm_campaign=1058&utm_source=git)** | Edison, NJ | On Site | Nov 22 |
 | ↳ | **[Intern, Information Technology](https://jobright.ai/jobs/info/69222599a49a885af9a4884d?utm_campaign=1058&utm_source=git)** | Edison, NJ | On Site | Nov 22 |
@@ -89,8 +90,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6921c9bb3f782d2f1afd3daa?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Nov 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6921c9b2a49a885af9a4798a?utm_campaign=1058&utm_source=git)** | Bethlehem, PA | On Site | Nov 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6921c9a9d1ec2c3565c45f2a?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Nov 22 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6921c970a49a885af9a47971?utm_campaign=1058&utm_source=git)** | Kingston, PA | On Site | Nov 22 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6921c970d1ec2c3565c45f14?utm_campaign=1058&utm_source=git)** | Lees Summit, MO | On Site | Nov 22 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6921c970a49a885af9a47971?utm_campaign=1058&utm_source=git)** | Kingston, PA | On Site | Nov 22 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6921c9573f782d2f1afd3d92?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Nov 22 |
 | **[ARAG Legal Insurance](http://www.araglegal.com)** | **[Salesforce Administrator Intern](https://jobright.ai/jobs/info/68c8692695f5211cd2ce487b?utm_campaign=1058&utm_source=git)** | Des Moines, IA | Hybrid | Nov 22 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6921c882d1ec2c3565c45edb?utm_campaign=1058&utm_source=git)** | Duluth, MN | On Site | Nov 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lyft](https://www.lyft.com/)** | **[Technical Account Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/6920fafb3f782d2f1afcdda7?utm_campaign=1058&utm_source=git)** | Montreal, Canada | Hybrid | Nov 21 |
 | **[Providence](http://www.providence.org)** | **[Student Intern](https://jobright.ai/jobs/info/6920f48a00c9ee50eaeca03e?utm_campaign=1058&utm_source=git)** | Seattle, WA, United States | On Site | Nov 21 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6920f47c00c9ee50eaeca02b?utm_campaign=1058&utm_source=git)** | GA-ATLANTA, 740 W PEACHTREE ST NW | Hybrid | Nov 21 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6920f3cf00c9ee50eaec9f24?utm_campaign=1058&utm_source=git)** | VA-RICHMOND, 2015 STAPLES MILL RD, | Hybrid | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
