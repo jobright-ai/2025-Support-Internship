@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6923b313c0cefa13343db20f?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Nov 23 |
 | **[Naples Comprehensive Health - NCH](http://www.nchmd.org/)** | **[IT Intern FR](https://jobright.ai/jobs/info/6914fd54286ccf0a1512a109?utm_campaign=1058&utm_source=git)** | Naples, FL | Hybrid | Nov 23 |
 | **[Centerpoint Medical Center](http://www.centerpointmedical.com)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/68eb879f2f64880ca0b58b47?utm_campaign=1058&utm_source=git)** | Independence, MO | On Site | Nov 23 |
 | **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Medical Assistant (Credentialed/Certified) - Academic Internal Medicine & Geriatrics](https://jobright.ai/jobs/info/6923560738cd5478a8d56670?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Nov 23 |
@@ -115,8 +114,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6921c9bb3f782d2f1afd3daa?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Nov 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6921c9b2a49a885af9a4798a?utm_campaign=1058&utm_source=git)** | Bethlehem, PA | On Site | Nov 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6921c9a9d1ec2c3565c45f2a?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Nov 22 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6921c970d1ec2c3565c45f14?utm_campaign=1058&utm_source=git)** | Lees Summit, MO | On Site | Nov 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6921c970a49a885af9a47971?utm_campaign=1058&utm_source=git)** | Kingston, PA | On Site | Nov 22 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6921c970d1ec2c3565c45f14?utm_campaign=1058&utm_source=git)** | Lees Summit, MO | On Site | Nov 22 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6921c9573f782d2f1afd3d92?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Nov 22 |
 | **[ARAG Legal Insurance](http://www.araglegal.com)** | **[Salesforce Administrator Intern](https://jobright.ai/jobs/info/68c8692695f5211cd2ce487b?utm_campaign=1058&utm_source=git)** | Des Moines, IA | Hybrid | Nov 22 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6921c882d1ec2c3565c45edb?utm_campaign=1058&utm_source=git)** | Duluth, MN | On Site | Nov 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69213d3d00c9ee50eaecd132?utm_campaign=1058&utm_source=git)** | Carbondale, PA | On Site | Nov 21 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69213c023f782d2f1afd07b6?utm_campaign=1058&utm_source=git)** | Stockton, CA | On Site | Nov 21 |
 | **[World Relief](https://worldrelief.org/)** | **[Vision & Call Intern - Limited Term](https://jobright.ai/jobs/info/69213bb900c9ee50eaecd091?utm_campaign=1058&utm_source=git)** | Kent, WA | Hybrid | Nov 21 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6921367400c9ee50eaecce93?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
