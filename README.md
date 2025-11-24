@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69213d3d00c9ee50eaecd132?utm_campaign=1058&utm_source=git)** | Carbondale, PA | On Site | Nov 21 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69213c023f782d2f1afd07b6?utm_campaign=1058&utm_source=git)** | Stockton, CA | On Site | Nov 21 |
 | **[World Relief](https://worldrelief.org/)** | **[Vision & Call Intern - Limited Term](https://jobright.ai/jobs/info/69213bb900c9ee50eaecd091?utm_campaign=1058&utm_source=git)** | Kent, WA | Hybrid | Nov 21 |
-| **[Woodbury School of Business](https://www.uvu.edu/woodbury)** | **[Student - Computer Lab Assistant](https://jobright.ai/jobs/info/69237ac8c0cefa13343dad64?utm_campaign=1058&utm_source=git)** | Orem, UT | On Site | Nov 21 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6921367400c9ee50eaecce93?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
