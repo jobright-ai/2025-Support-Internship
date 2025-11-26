@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EQ Bank | Equitable Bank](http://www.eqbank.ca)** | **[Technology Workplace Services (TWS) - Winter Intern 2026](https://jobright.ai/jobs/info/691df743a49a885af9a2301c?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 26 |
+| **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/68d3685e8c62e63bc7fe0c55?utm_campaign=1058&utm_source=git)** | Memphis, TN | Hybrid | Nov 26 |
+| **[WebFX](https://www.webfx.com)** | **[IT Support Internship](https://jobright.ai/jobs/info/67eec162357dc4681d864247?utm_campaign=1058&utm_source=git)** | Harrisburg, PA | On Site | Nov 26 |
+| **[Mountaire Farms](http://www.mountaire.com)** | **[Vet Services Intern](https://jobright.ai/jobs/info/68b5d9aabc187f64e1be860b?utm_campaign=1058&utm_source=git)** | Millsboro, DE | On Site | Nov 26 |
+| **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - IT Support](https://jobright.ai/jobs/info/690ab16bd046ab6061cdf377?utm_campaign=1058&utm_source=git)** | Plano, TX | On Site | Nov 26 |
+| **[Winsupply](http://www.winsupplyinc.com)** | **[Client Support Intern](https://jobright.ai/jobs/info/68b711d5f4e41a61efd95790?utm_campaign=1058&utm_source=git)** | Moraine, OH | On Site | Nov 26 |
+| **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Support Intern](https://jobright.ai/jobs/info/690a8aacbcccf20de59e3a94?utm_campaign=1058&utm_source=git)** | Atlanta, GA | Hybrid | Nov 26 |
+| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Program Intern](https://jobright.ai/jobs/info/68eeb7f0d078b81ad160e2e2?utm_campaign=1058&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Nov 26 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Four Seasons Minneapolis Internship (Summer 2026)](https://jobright.ai/jobs/info/68d1f3c6a54edb3bf3e17f04?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Nov 26 |
 | **[H.I.G. Capital](https://hig.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/68ce2464b2a74e1837edfba9?utm_campaign=1058&utm_source=git)** | New York, United States | On Site | Nov 26 |
 | **[Lennox](http://www.lennox.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/68d2f83417554c2d9eeec606?utm_campaign=1058&utm_source=git)** | Richardson, TX | On Site | Nov 26 |
@@ -89,11 +97,12 @@ For a complete list, click the following sortable link below:
 | **[Vibra Healthcare](http://vibrahealthcare.com)** | **[Pharmacy Intern Part Time](https://jobright.ai/jobs/info/69143d60286ccf0a15125eba?utm_campaign=1058&utm_source=git)** | Fargo, ND | On Site | Nov 25 |
 | **[The Christ Hospital Health Network](https://www.thechristhospital.com/)** | **[Clinical Intern](https://jobright.ai/jobs/info/6926593627bf2f41a2c4574c?utm_campaign=1058&utm_source=git)** | 2139 AUBURN AVE, Cincinnati, OH, 45219, US | On Site | Nov 25 |
 | **[AirClean Systems](https://www.aircleansystems.com/)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/692680a6d47de4798ecd7cf1?utm_campaign=1058&utm_source=git)** | Brecksville, OH | On Site | Nov 25 |
+| **[Intertechne](https://www.intertechne.com.br)** | **[Estágio em TI - São Paulo/SP](https://jobright.ai/jobs/info/6926fe97d47de4798ecd9544?utm_campaign=1058&utm_source=git)** | Greater São Paulo Area | On Site | Nov 25 |
 | **[FlexGen](https://flexgen.com)** | **[Field Operations Intern](https://jobright.ai/jobs/info/6926584727bf2f41a2c45693?utm_campaign=1058&utm_source=git)** | Houston County, TX | On Site | Nov 25 |
 | **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/69267b91d47de4798ecd79fc?utm_campaign=1058&utm_source=git)** | Colorado, United States | On Site | Nov 25 |
 | ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6926729ad47de4798ecd7639?utm_campaign=1058&utm_source=git)** | Illinois, United States | On Site | Nov 25 |
-| ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/69266a1427bf2f41a2c45f2a?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | Nov 25 |
 | ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6926674a27bf2f41a2c45dd5?utm_campaign=1058&utm_source=git)** | Minnesota, United States | On Site | Nov 25 |
+| ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/69266a1427bf2f41a2c45f2a?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | Nov 25 |
 | ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/692666d327bf2f41a2c45da3?utm_campaign=1058&utm_source=git)** | Georgia, United States | On Site | Nov 25 |
 | ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/692668eaf0beb07232624b19?utm_campaign=1058&utm_source=git)** | Nebraska, United States | On Site | Nov 25 |
 | ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6926690627bf2f41a2c45e9e?utm_campaign=1058&utm_source=git)** | Ohio, United States | On Site | Nov 25 |
@@ -123,6 +132,7 @@ For a complete list, click the following sortable link below:
 | **[Phelps Health](https://phelpshealth.org/)** | **[Student Nurse Intern / 0.1 IPT](https://jobright.ai/jobs/info/6926080cf0beb072326216db?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Nov 25 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Intern- Technical Support, Clean Utilities](https://jobright.ai/jobs/info/692605f027bf2f41a2c4278e?utm_campaign=1058&utm_source=git)** | Clayton, NC | On Site | Nov 25 |
 | **[Brown University Health](https://www.brownhealth.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/69260445f0beb072326212b6?utm_campaign=1058&utm_source=git)** | East Providence, RI | On Site | Nov 25 |
+| ↳ | **[Student Nurse Intern](https://jobright.ai/jobs/info/69260407d47de4798ecd3939?utm_campaign=1058&utm_source=git)** | Providence, RI | On Site | Nov 25 |
 | **[ALCIVIA](https://www.alcivia.com)** | **[IT Support Internship](https://jobright.ai/jobs/info/6926030fd47de4798ecd3859?utm_campaign=1058&utm_source=git)** | Cottage Grove,WI,US | Hybrid | Nov 25 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Health Intern (Unpaid)](https://jobright.ai/jobs/info/692601c0d47de4798ecd3705?utm_campaign=1058&utm_source=git)** | Elizabeth, NJ | On Site | Nov 25 |
 | **[IPConfigure Inc.](http://www.ipconfigure.com/)** | **[Software Technical Support Engineer Intern](https://jobright.ai/jobs/info/69260006f0beb072326210b8?utm_campaign=1058&utm_source=git)** | Norfolk, Virginia, United States | On Site | Nov 25 |
@@ -141,20 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Ecolab](http://www.ecolab.com)** | **[Intern customer service](https://jobright.ai/jobs/info/6925e1c527bf2f41a2c413b0?utm_campaign=1058&utm_source=git)** | PER - Lima - Lima | On Site | Nov 25 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6925ddb827bf2f41a2c41258?utm_campaign=1058&utm_source=git)** | Mount Laurel, NJ | On Site | Nov 25 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Respiratory Therapy Intern](https://jobright.ai/jobs/info/690992784a1b456627b01d83?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | Nov 25 |
-| ↳ | **[Nurse Intern - Medical Intensive Care Unit](https://jobright.ai/jobs/info/690991e2bcccf20de59dc7ef?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Nov 25 |
 | ↳ | **[Imaging Student Intern](https://jobright.ai/jobs/info/6909a820d046ab6061cd7315?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Nov 25 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Global Business Services Intern](https://jobright.ai/jobs/info/690ccd4f221b890c27800248?utm_campaign=1058&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Medical Intensive Care Unit](https://jobright.ai/jobs/info/691f58bca49a885af9a2e7ba?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Nov 25 |
 | **[ABB](https://global.abb/group/en)** | **[IT Support Intern – Winter 2026](https://jobright.ai/jobs/info/691db6c161dc50590a649740?utm_campaign=1058&utm_source=git)** | Québec, Quebec, Canada | On Site | Nov 25 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Pharmacy Intern (H)](https://jobright.ai/jobs/info/69093b28d046ab6061cd333e?utm_campaign=1058&utm_source=git)** | St Charles, MO | On Site | Nov 25 |
 | **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Capital Markets Mortgage Desk Intern](https://jobright.ai/jobs/info/69097b3cbcccf20de59dbb2e?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Nov 25 |
-| **[Simtra BioPharma Solutions](https://simtra.com)** | **[2026 Summer Internship - Information Technology](https://jobright.ai/jobs/info/690933f6d046ab6061cd2d45?utm_campaign=1058&utm_source=git)** | Bloomington, IN | On Site | Nov 25 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/6909b1674a1b456627b02847?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Nov 25 |
-| **[Sun Country Airlines](https://www.suncountry.com/)** | **[IT Support Intern](https://jobright.ai/jobs/info/69092f9b4a1b456627afdb7c?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Nov 25 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Respiratory Therapy Intern](https://jobright.ai/jobs/info/6909b28cbcccf20de59dd354?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Nov 25 |
-| **[MyMichigan Health](https://www.mymichigan.org)** | **[Surgical Services College Intern](https://jobright.ai/jobs/info/690924a3d046ab6061cd20dc?utm_campaign=1058&utm_source=git)** | Alma, MI | On Site | Nov 25 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6925c711f0beb0723261f23f?utm_campaign=1058&utm_source=git)** | Torrance, CA | On Site | Nov 25 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6925c6e5f0beb0723261f232?utm_campaign=1058&utm_source=git)** | Simpsonville, SC | On Site | Nov 25 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6925c679f0beb0723261f209?utm_campaign=1058&utm_source=git)** | Vineland, NJ | On Site | Nov 25 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Interventional Imaging Intern - ARRT](https://jobright.ai/jobs/info/6909b87e4a1b456627b02a82?utm_campaign=1058&utm_source=git)** | Round Rock, TX | On Site | Nov 25 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6925c5d427bf2f41a2c404f4?utm_campaign=1058&utm_source=git)** | Davie, FL | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
