@@ -57,7 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NorthRock Partners](https://www.northrockpartners.com/)** | **[IT Systems Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/692754aef0beb07232629187?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Nov 26 |
+| **[Quartz Health Solutions](https://quartzbenefits.com/)** | **[Intern - IT Service Desk](https://jobright.ai/jobs/info/692774c5d47de4798ecdcda0?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | Nov 26 |
+| **[Sonesta International Hotels](http://www.sonesta.com)** | **[Front Office Intern](https://jobright.ai/jobs/info/692772e091ceeb2e8a53f564?utm_campaign=1058&utm_source=git)** | Hilton Head Island, SC | On Site | Nov 26 |
+| **[Clune Construction Company](http://www.clunegc.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/6927725df0beb0723262a563?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Nov 26 |
+| **[Crown Equipment Corporation](http://www.crown.com)** | **[Service Technician Intern](https://jobright.ai/jobs/info/6927716ad47de4798ecdcc3e?utm_campaign=1058&utm_source=git)** | Joliet, IL | On Site | Nov 26 |
+| **[Premier Early Childhood Education Partners](https://premierearlychildhood.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/692770abd47de4798ecdcb98?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Nov 26 |
+| **[Intervala, LLC](https://www.intervala.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69276c0091ceeb2e8a53f14f?utm_campaign=1058&utm_source=git)** | Mount Pleasant, PA, US | Hybrid | Nov 26 |
+| **[Unity Health](https://www.unity-health.org)** | **[Nurse Intern L - Full time](https://jobright.ai/jobs/info/69276bb091ceeb2e8a53f0fe?utm_campaign=1058&utm_source=git)** | Searcy, AR, US | On Site | Nov 26 |
+| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY Clinic Admissions Associate](https://jobright.ai/jobs/info/69276684f0beb07232629cb7?utm_campaign=1058&utm_source=git)** | Harlingen, TX | On Site | Nov 26 |
+| **[UChicago Medicine](https://www.uchicagomedicine.org/)** | **[Specialty Nurse Intern, Adult Emergency Department - Registry](https://jobright.ai/jobs/info/6927634ad47de4798ecdc0af?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Nov 26 |
+| **[Venerable](https://www.venerable.com/)** | **[IT Internship - Summer 2026](https://jobright.ai/jobs/info/69276229d47de4798ecdbfe4?utm_campaign=1058&utm_source=git)** | PA-West Chester - Dunwoody Dr | Hybrid | Nov 26 |
+| **[UChicago Medicine](https://www.uchicagomedicine.org/)** | **[Specialty Nurse Intern, Adult Emergency Department - Registry](https://jobright.ai/jobs/info/69275a3df0beb07232629486?utm_campaign=1058&utm_source=git)** | US-IL-Chicago | On Site | Nov 26 |
+| **[City of Savannah](https://www.savannahga.gov/)** | **[Unpaid Internship- Information & Technology](https://jobright.ai/jobs/info/692757f191ceeb2e8a53e3ba?utm_campaign=1058&utm_source=git)** | Savannah, GA | On Site | Nov 26 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed9fde0db92422580c190?utm_campaign=1058&utm_source=git)** | Brentwood, TN | On Site | Nov 26 |
 | **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - IT Corporate Systems](https://jobright.ai/jobs/info/68ee884ed078b81ad160b4e3?utm_campaign=1058&utm_source=git)** | Hartford, CT | On Site | Nov 26 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/6927537ad47de4798ecdb79e?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Nov 26 |
@@ -70,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Imaging Tech Student (CRMH)- Flex/PRN](https://jobright.ai/jobs/info/6927465891ceeb2e8a53dbae?utm_campaign=1058&utm_source=git)** | Roanoke, VA | On Site | Nov 26 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eedc2e46e5b153e5a60ad0?utm_campaign=1058&utm_source=git)** | Fairfax, VA | On Site | Nov 26 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT16](https://jobright.ai/jobs/info/692743cdd47de4798ecdb0bf?utm_campaign=1058&utm_source=git)** | Rancho Cucamonga, CA | On Site | Nov 26 |
+| ↳ | **[Intern Pharmacist PT24 (P)](https://jobright.ai/jobs/info/68e9074265768b6412b1814d?utm_campaign=1058&utm_source=git)** | Downey, CA | On Site | Nov 26 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed14646e5b153e5a602e1?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Nov 26 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed20146e5b153e5a604ed?utm_campaign=1058&utm_source=git)** | Bridgewater, NJ | On Site | Nov 26 |
 | **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/692741d591ceeb2e8a53d968?utm_campaign=1058&utm_source=git)** | La Crosse, WI | On Site | Nov 26 |
@@ -79,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Centene Corporation](http://www.centene.com)** | **[Managed Care Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68eeba4046e5b153e5a5ed0d?utm_campaign=1058&utm_source=git)** | Kansas, United States | Remote | Nov 26 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed2dd46e5b153e5a606bc?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Nov 26 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3f4d078b81ad160fd46?utm_campaign=1058&utm_source=git)** | Carmel, IN | On Site | Nov 26 |
-| **[Clune Construction Company](http://www.clunegc.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/6927372af0beb072326285bf?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Nov 26 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69273612d47de4798ecdabe2?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Nov 26 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed4b8d078b81ad160febb?utm_campaign=1058&utm_source=git)** | Westborough, MA | On Site | Nov 26 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed52fd078b81ad160ff96?utm_campaign=1058&utm_source=git)** | Medina, OH | On Site | Nov 26 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/69266851d47de4798ecd7098?utm_campaign=1058&utm_source=git)** | South Carolina, United States | On Site | Nov 25 |
 | ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/692663fdd47de4798ecd6f53?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | Nov 25 |
 | ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6926639ed47de4798ecd6f31?utm_campaign=1058&utm_source=git)** | North Carolina, United States | On Site | Nov 25 |
-| ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6926634df0beb072326248b3?utm_campaign=1058&utm_source=git)** | Iowa, United States | On Site | Nov 25 |
-| ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/692662e6f0beb0723262487d?utm_campaign=1058&utm_source=git)** | Indiana, United States | On Site | Nov 25 |
-| ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/692662bcf0beb0723262485b?utm_campaign=1058&utm_source=git)** | Michigan, United States | On Site | Nov 25 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/692661ec27bf2f41a2c45b36?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Nov 25 |
-| **[JX Truck Center](https://jxe.com/)** | **[Intern - Service Department (For Current PTI Students Only)](https://jobright.ai/jobs/info/692660b527bf2f41a2c45a96?utm_campaign=1058&utm_source=git)** | Bolingbrook, IL | On Site | Nov 25 |
-| **[Blattner](https://www.blattnercompany.com)** | **[IT Intern Endpoint Management](https://jobright.ai/jobs/info/69266037f0beb072326246e1?utm_campaign=1058&utm_source=git)** | Avon, MN | On Site | Nov 25 |
-| **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/69265f24f0beb07232624639?utm_campaign=1058&utm_source=git)** | Florida, United States | On Site | Nov 25 |
-| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/69265efef0beb07232624620?utm_campaign=1058&utm_source=git)** | Des Moines Metro | On Site | Nov 25 |
-| **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/69265d88d47de4798ecd6b78?utm_campaign=1058&utm_source=git)** | Texas, United States | On Site | Nov 25 |
-| ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/69265cdfd47de4798ecd6b0e?utm_campaign=1058&utm_source=git)** | New Jersey, United States | On Site | Nov 25 |
-| ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/69265c14d47de4798ecd6ab4?utm_campaign=1058&utm_source=git)** | Missouri, United States | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
