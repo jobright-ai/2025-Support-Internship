@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Digital Svc & CX Analyst](https://jobright.ai/jobs/info/68b7d2375e55be5e2604e5eb?utm_campaign=1058&utm_source=git)** | Stamford, CT | On Site | Nov 27 |
+| **[Tenet Healthcare](http://tenethealth.com)** | **[Application Lifecycle Management Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/6920547900c9ee50eaec19ea?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Nov 27 |
+| **[Cohesity](https://www.cohesity.com/)** | **[Technical Support Intern- Summer 2026](https://jobright.ai/jobs/info/6928303391ceeb2e8a544bd9?utm_campaign=1058&utm_source=git)** | Santa Clara, CA | On Site | Nov 27 |
+| **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Helpdesk Support Intern](https://jobright.ai/jobs/info/69282c1af0beb0723262f9bf?utm_campaign=1058&utm_source=git)** | South Sioux City, NE | On Site | Nov 27 |
 | **[Vantaca](https://www.vantaca.com)** | **[Customer Experience Internship](https://jobright.ai/jobs/info/69281b7ff0beb0723262f6f4?utm_campaign=1058&utm_source=git)** | Wilmington, NC | On Site | Nov 27 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[LSE Student Intern - IT Facilities Support](https://jobright.ai/jobs/info/6922737538cd5478a8d53a23?utm_campaign=1058&utm_source=git)** | Aiken, SC | On Site | Nov 27 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6928055c91ceeb2e8a5442e3?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Nov 27 |
@@ -92,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Venerable](https://www.venerable.com/)** | **[IT Internship - Summer 2026](https://jobright.ai/jobs/info/69276229d47de4798ecdbfe4?utm_campaign=1058&utm_source=git)** | PA-West Chester - Dunwoody Dr | Hybrid | Nov 26 |
 | **[UChicago Medicine](https://www.uchicagomedicine.org/)** | **[Specialty Nurse Intern, Adult Emergency Department - Registry](https://jobright.ai/jobs/info/69275a3df0beb07232629486?utm_campaign=1058&utm_source=git)** | US-IL-Chicago | On Site | Nov 26 |
 | **[City of Savannah](https://www.savannahga.gov/)** | **[Unpaid Internship- Information & Technology](https://jobright.ai/jobs/info/692757f191ceeb2e8a53e3ba?utm_campaign=1058&utm_source=git)** | Savannah, GA | On Site | Nov 26 |
+| **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/692775c6d47de4798ecdce36?utm_campaign=1058&utm_source=git)** | La Crosse, WI | On Site | Nov 26 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed9fde0db92422580c190?utm_campaign=1058&utm_source=git)** | Brentwood, TN | On Site | Nov 26 |
 | **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - IT Corporate Systems](https://jobright.ai/jobs/info/68ee884ed078b81ad160b4e3?utm_campaign=1058&utm_source=git)** | Hartford, CT | On Site | Nov 26 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/6927537ad47de4798ecdb79e?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Nov 26 |
@@ -109,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed14646e5b153e5a602e1?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Nov 26 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed20146e5b153e5a604ed?utm_campaign=1058&utm_source=git)** | Bridgewater, NJ | On Site | Nov 26 |
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/69277c4391ceeb2e8a5400d8?utm_campaign=1058&utm_source=git)** | US-AZ-Phoenix | On Site | Nov 26 |
-| **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/692741d591ceeb2e8a53d968?utm_campaign=1058&utm_source=git)** | La Crosse, WI | On Site | Nov 26 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Pharmacy Intern YR1](https://jobright.ai/jobs/info/6927411491ceeb2e8a53d905?utm_campaign=1058&utm_source=git)** | Burlington, MA | On Site | Nov 26 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3abe0db92422580bcbd?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Nov 26 |
 | **[Cleveland Brothers Equipment Co](https://www.clevelandbrothers.com/)** | **[Summer Internship - Service Operations](https://jobright.ai/jobs/info/69273c2891ceeb2e8a53d786?utm_campaign=1058&utm_source=git)** | Ephrata, PA | On Site | Nov 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69270a0991ceeb2e8a53c323?utm_campaign=1058&utm_source=git)** | New Bern, NC | On Site | Nov 26 |
 | **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Business Support Intern - Winter 2026](https://jobright.ai/jobs/info/690a6ac7d046ab6061cdc32e?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Nov 26 |
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Client Service Internship - Summer 2026 (Denver, CO)](https://jobright.ai/jobs/info/68ce1a651ad6b16f028a1d88?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Nov 26 |
-| **[EQ Bank | Equitable Bank](http://www.eqbank.ca)** | **[Technology Workplace Services (TWS) - Winter Intern 2026](https://jobright.ai/jobs/info/691df743a49a885af9a2301c?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 26 |
-| **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/68d3685e8c62e63bc7fe0c55?utm_campaign=1058&utm_source=git)** | Memphis, TN | Hybrid | Nov 26 |
-| **[WebFX](https://www.webfx.com)** | **[IT Support Internship](https://jobright.ai/jobs/info/67eec162357dc4681d864247?utm_campaign=1058&utm_source=git)** | Harrisburg, PA | On Site | Nov 26 |
-| **[Mountaire Farms](http://www.mountaire.com)** | **[Vet Services Intern](https://jobright.ai/jobs/info/68b5d9aabc187f64e1be860b?utm_campaign=1058&utm_source=git)** | Millsboro, DE | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
