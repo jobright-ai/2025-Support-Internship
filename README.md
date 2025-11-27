@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MercyOne](https://www.mercyone.org/)** | **[Student Intern Pharmacist](https://jobright.ai/jobs/info/689bb3c079a9f96662532f1c?utm_campaign=1058&utm_source=git)** | Clive, IA | On Site | Nov 27 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/692889b9f0beb07232630b24?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Nov 27 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern - Salesforce](https://jobright.ai/jobs/info/690ba14e221b890c277f6687?utm_campaign=1058&utm_source=git)** | Greater Milwaukee | On Site | Nov 27 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/67f01f3d19a1c5e776705edf?utm_campaign=1058&utm_source=git)** | Minot, ND | On Site | Nov 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - IT Corporate Systems](https://jobright.ai/jobs/info/68ee884ed078b81ad160b4e3?utm_campaign=1058&utm_source=git)** | Hartford, CT | On Site | Nov 26 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/6927537ad47de4798ecdb79e?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Nov 26 |
 | **[Brown University Health](https://www.brownhealth.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/692777b891ceeb2e8a53f91a?utm_campaign=1058&utm_source=git)** | East Providence, RI | On Site | Nov 26 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed58de0db92422580bfe5?utm_campaign=1058&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
