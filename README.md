@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rush Street Interactive](https://rushstreetinteractive.com/)** | **[Player Support Operations Internship - Spring 2026](https://jobright.ai/jobs/info/6928560ff0beb07232630146?utm_campaign=1058&utm_source=git)** | Collingswood, NJ | On Site | Nov 27 |
+| **[NextGen Federal Systems](https://www.nextgenfed.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68b785e8f4e41a61efd999f6?utm_campaign=1058&utm_source=git)** | Morgantown, WV | Hybrid | Nov 27 |
+| **[St. Francis Medical Center](http://www.stfrancismedicalcenter.org/pages/default.aspx)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/690c1ff3221b890c277fbbac?utm_campaign=1058&utm_source=git)** | Lynwood, CA | On Site | Nov 27 |
+| **[Lindsay Corporation](http://lindsay.com)** | **[Global Irrigation FieldNet Support Intern](https://jobright.ai/jobs/info/691accb215b415636718aafd?utm_campaign=1058&utm_source=git)** | Omaha, NE | Hybrid | Nov 27 |
+| ↳ | **[Global Irrigation FieldNet Advisor Support Intern](https://jobright.ai/jobs/info/68f02c009821486c423c99b1?utm_campaign=1058&utm_source=git)** | Omaha, NE | Hybrid | Nov 27 |
+| **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/690bb8574a1b456627b11f05?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Nov 27 |
+| **[Carboline](https://www.carboline.com)** | **[Customer Service Intern - Summer 2026](https://jobright.ai/jobs/info/68d34e69f0d9af73038e0f31?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Nov 27 |
+| **[RF-SMART](http://rfsmart.com/)** | **[IT Intern](https://jobright.ai/jobs/info/68d44d4c8c62e63bc7fe7f08?utm_campaign=1058&utm_source=git)** | Highlands Ranch, CO | On Site | Nov 27 |
+| **[Morgan Street Holdings](https://morganstreet.com/)** | **[Communications Implementation Support Intern](https://jobright.ai/jobs/info/68f03adf78ba1621431e3c4f?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Nov 27 |
+| **[Moody's Corporation](http://www.moodys.com)** | **[Ratings and Research Support Intern](https://jobright.ai/jobs/info/691f877a09cc522e87742848?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Digital Svc & CX Analyst](https://jobright.ai/jobs/info/68b7d2375e55be5e2604e5eb?utm_campaign=1058&utm_source=git)** | Stamford, CT | On Site | Nov 27 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[Application Lifecycle Management Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/6920547900c9ee50eaec19ea?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Nov 27 |
 | **[Cohesity](https://www.cohesity.com/)** | **[Technical Support Intern- Summer 2026](https://jobright.ai/jobs/info/6928303391ceeb2e8a544bd9?utm_campaign=1058&utm_source=git)** | Santa Clara, CA | On Site | Nov 27 |
@@ -87,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69277d52d47de4798ecdd44f?utm_campaign=1058&utm_source=git)** | Olmsted Falls, OH | On Site | Nov 26 |
 | **[Quartz Health Solutions](https://quartzbenefits.com/)** | **[Intern - IT Service Desk](https://jobright.ai/jobs/info/692774c5d47de4798ecdcda0?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | Nov 26 |
 | **[Sonesta International Hotels](http://www.sonesta.com)** | **[Front Office Intern](https://jobright.ai/jobs/info/692772e091ceeb2e8a53f564?utm_campaign=1058&utm_source=git)** | Hilton Head Island, SC | On Site | Nov 26 |
+| **[Clune Construction Company](http://www.clunegc.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/6927725df0beb0723262a563?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Nov 26 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[Service Technician Intern](https://jobright.ai/jobs/info/6927716ad47de4798ecdcc3e?utm_campaign=1058&utm_source=git)** | Joliet, IL | On Site | Nov 26 |
 | **[Premier Early Childhood Education Partners](https://premierearlychildhood.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/692770abd47de4798ecdcb98?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Nov 26 |
 | **[Intervala, LLC](https://www.intervala.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69276c0091ceeb2e8a53f14f?utm_campaign=1058&utm_source=git)** | Mount Pleasant, PA, US | Hybrid | Nov 26 |
@@ -120,8 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Centene Corporation](http://www.centene.com)** | **[Managed Care Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68eeba4046e5b153e5a5ed0d?utm_campaign=1058&utm_source=git)** | Kansas, United States | Remote | Nov 26 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed2dd46e5b153e5a606bc?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Nov 26 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3f4d078b81ad160fd46?utm_campaign=1058&utm_source=git)** | Carmel, IN | On Site | Nov 26 |
-| **[Clune Construction Company](http://www.clunegc.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/6927372af0beb072326285bf?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Nov 26 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed4b8d078b81ad160febb?utm_campaign=1058&utm_source=git)** | Westborough, MA | On Site | Nov 26 |
+| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed4b8d078b81ad160febb?utm_campaign=1058&utm_source=git)** | Westborough, MA | On Site | Nov 26 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed52fd078b81ad160ff96?utm_campaign=1058&utm_source=git)** | Medina, OH | On Site | Nov 26 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed21946e5b153e5a60523?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Nov 26 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed27b46e5b153e5a605e4?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Nov 26 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed492d078b81ad160fe77?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Nov 26 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern / ICU](https://jobright.ai/jobs/info/690b0630d046ab6061ce2285?utm_campaign=1058&utm_source=git)** | Mequon, WI | On Site | Nov 26 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Litigation Support Intern - Summer 2026](https://jobright.ai/jobs/info/690a4f31bcccf20de59e0b59?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Nov 26 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6927114491ceeb2e8a53c569?utm_campaign=1058&utm_source=git)** | Goldsboro, NC | On Site | Nov 26 |
-| **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Client Service Internship - Summer 2026 (Omaha, NE)](https://jobright.ai/jobs/info/68b732a42124650c140201c3?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Nov 26 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69271089f0beb0723262759c?utm_campaign=1058&utm_source=git)** | Howell, NJ | On Site | Nov 26 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69270fa7f0beb07232627546?utm_campaign=1058&utm_source=git)** | West Lafayette, IN | On Site | Nov 26 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69270fa4f0beb07232627540?utm_campaign=1058&utm_source=git)** | Jacksonville, NC | On Site | Nov 26 |
-| **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Client Service Internship - Summer 2026 (Minneapolis, MN)](https://jobright.ai/jobs/info/68b737a91ade4306aa6488fd?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Nov 26 |
-| **[East Georgia Regional Medical Center, LLC](https://www.eastgeorgiaregional.com)** | **[Registered Nurse Internship L&D, NICU, Mother/Baby](https://jobright.ai/jobs/info/69213584a49a885af9a43fd6?utm_campaign=1058&utm_source=git)** | Statesboro, GA | On Site | Nov 26 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69270a0991ceeb2e8a53c323?utm_campaign=1058&utm_source=git)** | New Bern, NC | On Site | Nov 26 |
-| **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Business Support Intern - Winter 2026](https://jobright.ai/jobs/info/690a6ac7d046ab6061cdc32e?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Nov 26 |
-| **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Client Service Internship - Summer 2026 (Denver, CO)](https://jobright.ai/jobs/info/68ce1a651ad6b16f028a1d88?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
