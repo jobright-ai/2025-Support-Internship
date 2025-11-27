@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ladies Professional Golf Association (LPGA)](http://www.lpga.com)** | **[Tournament Services Intern](https://jobright.ai/jobs/info/6927c839f0beb0723262debb?utm_campaign=1058&utm_source=git)** | Menlo Park, CA | On Site | Nov 26 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Winter 2026 - Operations Support Services Intern](https://jobright.ai/jobs/info/6927c612d47de4798ece05bf?utm_campaign=1058&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Nov 26 |
+| **[Arango](http://www.arangodb.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/6927c24b91ceeb2e8a542dc0?utm_campaign=1058&utm_source=git)** | Austin, TX | Remote | Nov 26 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - IT - Business Applications](https://jobright.ai/jobs/info/6927ad51d47de4798ecdf849?utm_campaign=1058&utm_source=git)** | Rockford, IL | On Site | Nov 26 |
+| ↳ | **[Intern - IT - Business Applications](https://jobright.ai/jobs/info/6927aada91ceeb2e8a5421f7?utm_campaign=1058&utm_source=git)** | Effingham, IL | On Site | Nov 26 |
 | **[Hunterdon Health](https://www.hunterdonhealth.org/)** | **[Nursing Intern](https://jobright.ai/jobs/info/6927a41c91ceeb2e8a541dd1?utm_campaign=1058&utm_source=git)** | Flemington, NJ | On Site | Nov 26 |
 | **[Met-Cap Management LLC](https://www.linkedin.com/company/6359215)** | **[IT Support Internship](https://jobright.ai/jobs/info/6927a3bfd47de4798ecdf394?utm_campaign=1058&utm_source=git)** | Cranston,RI,US | On Site | Nov 26 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Intern Pharmacist PT16](https://jobright.ai/jobs/info/6927c34a91ceeb2e8a542e3c?utm_campaign=1058&utm_source=git)** | Rancho Cucamonga, CA | On Site | Nov 26 |
 | **[Freeman Hospital](https://www.newcastle-hospitals.nhs.uk/consultants/dr-abbas-khushnood/)** | **[Clerk / Typist](https://jobright.ai/jobs/info/692798f6f0beb0723262c6ab?utm_campaign=1058&utm_source=git)** | Carthage, MO | Hybrid | Nov 26 |
 | **[GitHub](https://github.com)** | **[User Research Intern](https://jobright.ai/jobs/info/692793cfd47de4798ecdeb24?utm_campaign=1058&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Sparkcentral by Hootsuite](http://www.sparkcentral.com)** | **[Co-Op/Intern, IT Operations](https://jobright.ai/jobs/info/692785c991ceeb2e8a540bd4?utm_campaign=1058&utm_source=git)** | Location, WV | On Site | Nov 26 |
@@ -101,8 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Centene Corporation](http://www.centene.com)** | **[Managed Care Pharmacy Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/68eeba4046e5b153e5a5ed0d?utm_campaign=1058&utm_source=git)** | Kansas, United States | Remote | Nov 26 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed2dd46e5b153e5a606bc?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Nov 26 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3f4d078b81ad160fd46?utm_campaign=1058&utm_source=git)** | Carmel, IN | On Site | Nov 26 |
-| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69273612d47de4798ecdabe2?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Nov 26 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed4b8d078b81ad160febb?utm_campaign=1058&utm_source=git)** | Westborough, MA | On Site | Nov 26 |
+| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed4b8d078b81ad160febb?utm_campaign=1058&utm_source=git)** | Westborough, MA | On Site | Nov 26 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed52fd078b81ad160ff96?utm_campaign=1058&utm_source=git)** | Medina, OH | On Site | Nov 26 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[IT Services Intern](https://jobright.ai/jobs/info/690b5e1ed046ab6061ce3f43?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed21946e5b153e5a60523?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Nov 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stormont Vail Health](http://www.stormontvail.org)** | **[Student Nurse Intern - Variable Shifts](https://jobright.ai/jobs/info/690ab4b04a1b456627b0a6e7?utm_campaign=1058&utm_source=git)** | Topeka, KS | On Site | Nov 26 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Four Seasons Minneapolis Internship (Summer 2026)](https://jobright.ai/jobs/info/68d1f3c6a54edb3bf3e17f04?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Nov 26 |
 | **[H.I.G. Capital](https://hig.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/68ce2464b2a74e1837edfba9?utm_campaign=1058&utm_source=git)** | New York, United States | On Site | Nov 26 |
-| **[Lennox](http://www.lennox.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/68d2f83417554c2d9eeec606?utm_campaign=1058&utm_source=git)** | Richardson, TX | On Site | Nov 26 |
-| **[VytlOne](http://www.maxor.com)** | **[Pharmacy Intern (PRN) - East Liberty Family HC Center Pharmacy](https://jobright.ai/jobs/info/68439689740b84371217eacd?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 26 |
-| **[Foundant Technologies](https://www.foundant.com)** | **[Client Support Intern](https://jobright.ai/jobs/info/6926c82ad47de4798ecd8b97?utm_campaign=1058&utm_source=git)** | Bozeman, MT | On Site | Nov 26 |
-| **[Fred Meyer](https://www.fredmeyer.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6926e23fd47de4798ecd901e?utm_campaign=1058&utm_source=git)** | Oregon City, OR | On Site | Nov 25 |
-| ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69269adad47de4798ecd8401?utm_campaign=1058&utm_source=git)** | Tualatin, OR | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
