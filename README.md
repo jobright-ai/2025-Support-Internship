@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/692889b9f0beb07232630b24?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Nov 27 |
+| **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern - Salesforce](https://jobright.ai/jobs/info/690ba14e221b890c277f6687?utm_campaign=1058&utm_source=git)** | Greater Milwaukee | On Site | Nov 27 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/67f01f3d19a1c5e776705edf?utm_campaign=1058&utm_source=git)** | Minot, ND | On Site | Nov 27 |
+| **[Allianz Life](http://www.allianzlife.com)** | **[Summer 2026 Customer Experience Internship / Hybrid](https://jobright.ai/jobs/info/690bd713221b890c277f8f67?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 27 |
+| **[SAP](https://www.sap.com)** | **[SAP Customer Success iXp Intern - SAP Experience Center Showcase Support](https://jobright.ai/jobs/info/690bc55f221b890c277f7ea2?utm_campaign=1058&utm_source=git)** | Palo Alto, CA | Hybrid | Nov 27 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/69140443d1047e3565d07dd0?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Nov 27 |
 | **[Insight](https://www.insight.com)** | **[Client Operations Intern](https://jobright.ai/jobs/info/690ec15e44146d3b6ec576e6?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | Hybrid | Nov 27 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/6915af316f36db06ef050543?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Nov 27 |
@@ -147,14 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Venerable](https://www.venerable.com/)** | **[IT Internship - Summer 2026](https://jobright.ai/jobs/info/69276229d47de4798ecdbfe4?utm_campaign=1058&utm_source=git)** | PA-West Chester - Dunwoody Dr | Hybrid | Nov 26 |
 | **[UChicago Medicine](https://www.uchicagomedicine.org/)** | **[Specialty Nurse Intern, Adult Emergency Department - Registry](https://jobright.ai/jobs/info/69275a3df0beb07232629486?utm_campaign=1058&utm_source=git)** | US-IL-Chicago | On Site | Nov 26 |
 | **[City of Savannah](https://www.savannahga.gov/)** | **[Unpaid Internship- Information & Technology](https://jobright.ai/jobs/info/692757f191ceeb2e8a53e3ba?utm_campaign=1058&utm_source=git)** | Savannah, GA | On Site | Nov 26 |
-| **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/692775c6d47de4798ecdce36?utm_campaign=1058&utm_source=git)** | La Crosse, WI | On Site | Nov 26 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed9fde0db92422580c190?utm_campaign=1058&utm_source=git)** | Brentwood, TN | On Site | Nov 26 |
 | **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - IT Corporate Systems](https://jobright.ai/jobs/info/68ee884ed078b81ad160b4e3?utm_campaign=1058&utm_source=git)** | Hartford, CT | On Site | Nov 26 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/6927537ad47de4798ecdb79e?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Nov 26 |
 | **[Brown University Health](https://www.brownhealth.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/692777b891ceeb2e8a53f91a?utm_campaign=1058&utm_source=git)** | East Providence, RI | On Site | Nov 26 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed58de0db92422580bfe5?utm_campaign=1058&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Nov 26 |
-| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed9dde0db92422580c170?utm_campaign=1058&utm_source=git)** | Tempe, AZ | On Site | Nov 26 |
-| **[Charter Manufacturing](http://chartermfg.com)** | **[IT Support Technician Intern - Year Round](https://jobright.ai/jobs/info/690a74274a1b456627b07dab?utm_campaign=1058&utm_source=git)** | Mequon, WI | On Site | Nov 26 |
-| **[VELCO - Vermont Electric Power Company](https://www.velco.com/)** | **[Intern - IT Infrastructure](https://jobright.ai/jobs/info/691650b1286ccf0a15134641?utm_campaign=1058&utm_source=git)** | Rutland, VT | On Site | Nov 26 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eeccfbd078b81ad160f80a?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
