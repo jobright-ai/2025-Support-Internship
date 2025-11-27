@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Summer Surgical Tech Intern](https://jobright.ai/jobs/info/6927fefa91ceeb2e8a54419d?utm_campaign=1058&utm_source=git)** | Rochester, MN, United States | On Site | Nov 26 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT16](https://jobright.ai/jobs/info/68e9008e9020b95add6a344a?utm_campaign=1058&utm_source=git)** | Victorville, CA | On Site | Nov 26 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6927d937d47de4798ece0fbe?utm_campaign=1058&utm_source=git)** | Peoria, IL | On Site | Nov 26 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6927d72791ceeb2e8a5438f9?utm_campaign=1058&utm_source=git)** | Quincy, IL | On Site | Nov 26 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6927d713d47de4798ece0e9a?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Nov 26 |
@@ -70,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Met-Cap Management LLC](https://www.linkedin.com/company/6359215)** | **[IT Support Internship](https://jobright.ai/jobs/info/6927a3bfd47de4798ecdf394?utm_campaign=1058&utm_source=git)** | Cranston,RI,US | On Site | Nov 26 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Intern Pharmacist PT16](https://jobright.ai/jobs/info/6927c34a91ceeb2e8a542e3c?utm_campaign=1058&utm_source=git)** | Rancho Cucamonga, CA | On Site | Nov 26 |
 | **[Freeman Hospital](https://www.newcastle-hospitals.nhs.uk/consultants/dr-abbas-khushnood/)** | **[Clerk / Typist](https://jobright.ai/jobs/info/692798f6f0beb0723262c6ab?utm_campaign=1058&utm_source=git)** | Carthage, MO | Hybrid | Nov 26 |
+| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6927f15af0beb0723262ee30?utm_campaign=1058&utm_source=git)** | 8700 Beverly Blvd, Los Angeles, CA, 90048, US | On Site | Nov 26 |
 | **[GitHub](https://github.com)** | **[User Research Intern](https://jobright.ai/jobs/info/692793cfd47de4798ecdeb24?utm_campaign=1058&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Sparkcentral by Hootsuite](http://www.sparkcentral.com)** | **[Co-Op/Intern, IT Operations](https://jobright.ai/jobs/info/692785c991ceeb2e8a540bd4?utm_campaign=1058&utm_source=git)** | Location, WV | On Site | Nov 26 |
 | **[Los Angeles Dodgers](http://losangeles.dodgers.mlb.com)** | **[Fan Services Intern](https://jobright.ai/jobs/info/6927842d91ceeb2e8a5409e0?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
@@ -86,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Venerable](https://www.venerable.com/)** | **[IT Internship - Summer 2026](https://jobright.ai/jobs/info/69276229d47de4798ecdbfe4?utm_campaign=1058&utm_source=git)** | PA-West Chester - Dunwoody Dr | Hybrid | Nov 26 |
 | **[UChicago Medicine](https://www.uchicagomedicine.org/)** | **[Specialty Nurse Intern, Adult Emergency Department - Registry](https://jobright.ai/jobs/info/69275a3df0beb07232629486?utm_campaign=1058&utm_source=git)** | US-IL-Chicago | On Site | Nov 26 |
 | **[City of Savannah](https://www.savannahga.gov/)** | **[Unpaid Internship- Information & Technology](https://jobright.ai/jobs/info/692757f191ceeb2e8a53e3ba?utm_campaign=1058&utm_source=git)** | Savannah, GA | On Site | Nov 26 |
+| **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/692775c6d47de4798ecdce36?utm_campaign=1058&utm_source=git)** | La Crosse, WI | On Site | Nov 26 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed9fde0db92422580c190?utm_campaign=1058&utm_source=git)** | Brentwood, TN | On Site | Nov 26 |
 | **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - IT Corporate Systems](https://jobright.ai/jobs/info/68ee884ed078b81ad160b4e3?utm_campaign=1058&utm_source=git)** | Hartford, CT | On Site | Nov 26 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/6927537ad47de4798ecdb79e?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Nov 26 |
@@ -103,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed14646e5b153e5a602e1?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Nov 26 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed20146e5b153e5a604ed?utm_campaign=1058&utm_source=git)** | Bridgewater, NJ | On Site | Nov 26 |
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/69277c4391ceeb2e8a5400d8?utm_campaign=1058&utm_source=git)** | US-AZ-Phoenix | On Site | Nov 26 |
-| **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/692741d591ceeb2e8a53d968?utm_campaign=1058&utm_source=git)** | La Crosse, WI | On Site | Nov 26 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Pharmacy Intern YR1](https://jobright.ai/jobs/info/6927411491ceeb2e8a53d905?utm_campaign=1058&utm_source=git)** | Burlington, MA | On Site | Nov 26 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3abe0db92422580bcbd?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Nov 26 |
 | **[Cleveland Brothers Equipment Co](https://www.clevelandbrothers.com/)** | **[Summer Internship - Service Operations](https://jobright.ai/jobs/info/69273c2891ceeb2e8a53d786?utm_campaign=1058&utm_source=git)** | Ephrata, PA | On Site | Nov 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mountaire Farms](http://www.mountaire.com)** | **[Vet Services Intern](https://jobright.ai/jobs/info/68b5d9aabc187f64e1be860b?utm_campaign=1058&utm_source=git)** | Millsboro, DE | On Site | Nov 26 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - IT Support](https://jobright.ai/jobs/info/690ab16bd046ab6061cdf377?utm_campaign=1058&utm_source=git)** | Plano, TX | On Site | Nov 26 |
 | **[Winsupply](http://www.winsupplyinc.com)** | **[Client Support Intern](https://jobright.ai/jobs/info/68b711d5f4e41a61efd95790?utm_campaign=1058&utm_source=git)** | Moraine, OH | On Site | Nov 26 |
-| **[Troutman Pepper Locke LLP](www.troutman.com)** | **[Legal Support Intern](https://jobright.ai/jobs/info/690a8aacbcccf20de59e3a94?utm_campaign=1058&utm_source=git)** | Atlanta, GA | Hybrid | Nov 26 |
-| **[BCFS Health & Human Services](https://bcfshhs.org)** | **[Program Intern](https://jobright.ai/jobs/info/68eeb7f0d078b81ad160e2e2?utm_campaign=1058&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Nov 26 |
-| **[Northwest Healthcare Tucson](https://www.healthiertucson.com)** | **[Pharmacy Intern I](https://jobright.ai/jobs/info/690ab0f3bcccf20de59e4f85?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
