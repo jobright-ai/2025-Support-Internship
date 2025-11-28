@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Pharmacy Intern - Ambulatory Pharmacy](https://jobright.ai/jobs/info/692a07454c474121999cb2e9?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Nov 28 |
 | **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern - UPMC Presbyterian](https://jobright.ai/jobs/info/68f15dd3ef766b3f0fd0cb1c?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Nov 28 |
 | **[Orbient 24](orbient24.us)** | **[Enterprise Business Support Intern](https://jobright.ai/jobs/info/6929e60efa28370be2695a03?utm_campaign=1058&utm_source=git)** | New York, NY | Remote | Nov 28 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Branch Intern - Paid Internship (College Station, TX)](https://jobright.ai/jobs/info/68d62f65894705799a2e87a9?utm_campaign=1058&utm_source=git)** | College Station, TX | On Site | Nov 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tenet Healthcare](http://tenethealth.com)** | **[Application Lifecycle Management Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/6920547900c9ee50eaec19ea?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Nov 27 |
 | **[Cohesity](https://www.cohesity.com/)** | **[Technical Support Intern- Summer 2026](https://jobright.ai/jobs/info/6928303391ceeb2e8a544bd9?utm_campaign=1058&utm_source=git)** | Santa Clara, CA | On Site | Nov 27 |
 | **[Southeast Toyota Finance](https://www.setf.com/)** | **[Lease End Experience Intern](https://jobright.ai/jobs/info/690bb01a4a1b456627b119ed?utm_campaign=1058&utm_source=git)** | Mobile Metropolitan Area | Hybrid | Nov 27 |
-| **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Helpdesk Support Intern](https://jobright.ai/jobs/info/69282c1af0beb0723262f9bf?utm_campaign=1058&utm_source=git)** | South Sioux City, NE | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
