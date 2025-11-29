@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Member Assistance Center Intern](https://jobright.ai/jobs/info/692a98474c474121999cc544?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Nov 28 |
 | **[Coborn's, Inc.](http://www.cobornsinc.com)** | **[Intern-IT](https://jobright.ai/jobs/info/692a66c44c474121999cc180?utm_campaign=1058&utm_source=git)** | St Cloud, MN | Hybrid | Nov 28 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/692a5eb7fa28370be2696fda?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Nov 28 |
 | ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/692a5dfdfa28370be2696fa7?utm_campaign=1058&utm_source=git)** | Issaquah, WA | On Site | Nov 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69285bc991ceeb2e8a545406?utm_campaign=1058&utm_source=git)** | Metairie Terrace, LA | On Site | Nov 27 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69285b7e91ceeb2e8a5453ec?utm_campaign=1058&utm_source=git)** | New Orleans, LA | On Site | Nov 27 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69285b6591ceeb2e8a5453e2?utm_campaign=1058&utm_source=git)** | Marrero, LA | On Site | Nov 27 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69285b42f0beb0723263024d?utm_campaign=1058&utm_source=git)** | Clare, MI | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
