@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/692a527dfa28370be2696e29?utm_campaign=1058&utm_source=git)** | Kyle, TX | On Site | Nov 28 |
+| ↳ | **[Student Nurse Intern](https://jobright.ai/jobs/info/692a5259fa28370be2696e22?utm_campaign=1058&utm_source=git)** | Luling, TX | On Site | Nov 28 |
+| ↳ | **[Student Nurse Intern](https://jobright.ai/jobs/info/692a4f7d66796e3028f8ecbb?utm_campaign=1058&utm_source=git)** | Round Rock, TX | On Site | Nov 28 |
+| **[CU*Answers](http://www.cuanswers.com)** | **[PC Rollout Technician Intern](https://jobright.ai/jobs/info/692a4f084c474121999cbe51?utm_campaign=1058&utm_source=git)** | Kentwood,MI,US | On Site | Nov 28 |
+| **[Seacrest Behavioral Health](https://www.seacrestrecoverycenter.com)** | **[Nurse Extern - Nursing Internship - PRN](https://jobright.ai/jobs/info/692a4451fa28370be2696bd1?utm_campaign=1058&utm_source=git)** | Alexandria, LA | On Site | Nov 28 |
+| **[Fairview Hospital / Cleveland Clinic](http://fairviewhospital.org)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/692a40adfa28370be2696b34?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Nov 28 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/692a201b4c474121999cb846?utm_campaign=1058&utm_source=git)** | Cottonwood, AZ | On Site | Nov 28 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/692a201a4c474121999cb845?utm_campaign=1058&utm_source=git)** | Tempe, AZ | On Site | Nov 28 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/692a1f814c474121999cb821?utm_campaign=1058&utm_source=git)** | Sun City, AZ | On Site | Nov 28 |
@@ -111,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Providence](http://www.providence.org)** | **[Pharmacist Intern - Pharmacy](https://jobright.ai/jobs/info/6928b6af91ceeb2e8a546376?utm_campaign=1058&utm_source=git)** | Missoula, MT | On Site | Nov 27 |
 | **[Safeway](http://www.safeway.com)** | **[2026 Pharmacy Graduate Intern - WSU](https://jobright.ai/jobs/info/691d5624bcdbf3560c9eff68?utm_campaign=1058&utm_source=git)** | Yakima, WA | Hybrid | Nov 27 |
 | **[MercyOne](https://www.mercyone.org/)** | **[Student Intern Pharmacist](https://jobright.ai/jobs/info/689bb3c079a9f96662532f1c?utm_campaign=1058&utm_source=git)** | Clive, IA | On Site | Nov 27 |
-| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/692889b9f0beb07232630b24?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Nov 27 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern - Salesforce](https://jobright.ai/jobs/info/690ba14e221b890c277f6687?utm_campaign=1058&utm_source=git)** | Greater Milwaukee | On Site | Nov 27 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/67f01f3d19a1c5e776705edf?utm_campaign=1058&utm_source=git)** | Minot, ND | On Site | Nov 27 |
 | **[Allianz Life](http://www.allianzlife.com)** | **[Summer 2026 Customer Experience Internship / Hybrid](https://jobright.ai/jobs/info/690bd713221b890c277f8f67?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69285b26f0beb07232630244?utm_campaign=1058&utm_source=git)** | Traverse City, MI | On Site | Nov 27 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69285ab691ceeb2e8a5453b2?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Nov 27 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69285a5791ceeb2e8a545397?utm_campaign=1058&utm_source=git)** | Cheboygan, MI | On Site | Nov 27 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69285a02d47de4798ece28dd?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Nov 27 |
-| **[Minitab](http://www.minitab.com/en-us/)** | **[Technical Operations Intern](https://jobright.ai/jobs/info/68eea6a3d078b81ad160d2ac?utm_campaign=1058&utm_source=git)** | State College, PA | On Site | Nov 27 |
-| **[Rush Street Interactive](https://rushstreetinteractive.com/)** | **[Player Support Operations Internship - Spring 2026](https://jobright.ai/jobs/info/6928560ff0beb07232630146?utm_campaign=1058&utm_source=git)** | Collingswood, NJ | On Site | Nov 27 |
-| **[NextGen Federal Systems](https://www.nextgenfed.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68b785e8f4e41a61efd999f6?utm_campaign=1058&utm_source=git)** | Morgantown, WV | Hybrid | Nov 27 |
-| **[St. Francis Medical Center](http://www.stfrancismedicalcenter.org/pages/default.aspx)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/690c1ff3221b890c277fbbac?utm_campaign=1058&utm_source=git)** | Lynwood, CA | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
