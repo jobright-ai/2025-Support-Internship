@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Badger Meter](http://badgermeter.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/690ead0444146d3b6ec56ad1?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Nov 29 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/692ad2b866796e3028f8f9af?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Nov 29 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/692ad0e14c474121999ccbf4?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Nov 29 |
 | **[ABB](https://global.abb/group/en)** | **[IT Support Intern – Winter 2026](https://jobright.ai/jobs/info/691db6c161dc50590a649740?utm_campaign=1058&utm_source=git)** | Location, WV | On Site | Nov 29 |
 | ↳ | **[Intern-Sales Support](https://jobright.ai/jobs/info/692ab3d166796e3028f8f7aa?utm_campaign=1058&utm_source=git)** | Location, WV | On Site | Nov 29 |
 | **[CU*Answers](http://www.cuanswers.com)** | **[PC Rollout Technician Intern](https://jobright.ai/jobs/info/692aaa8966796e3028f8f686?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Nov 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69285cb3f0beb07232630297?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Nov 27 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69285cabf0beb07232630294?utm_campaign=1058&utm_source=git)** | Baton Rouge, LA | On Site | Nov 27 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69285ca6d47de4798ece297c?utm_campaign=1058&utm_source=git)** | Muncie, IN | On Site | Nov 27 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69285ca0f0beb07232630290?utm_campaign=1058&utm_source=git)** | Gaylord, MI | On Site | Nov 27 |
-| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Customer Accounts Services Intern](https://jobright.ai/jobs/info/69285c3591ceeb2e8a545426?utm_campaign=1058&utm_source=git)** | Dayton Metropolitan Area | On Site | Nov 27 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69285bf6f0beb07232630272?utm_campaign=1058&utm_source=git)** | Cadillac, MI | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
