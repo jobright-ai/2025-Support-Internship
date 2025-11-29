@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pixelle Specialty Solutions](https://www.pixelle.com/)** | **[Internship- IT](https://jobright.ai/jobs/info/690e16d9d046ab6061cfa73f?utm_campaign=1058&utm_source=git)** | Spring Grove, PA | On Site | Nov 29 |
+| **[CNH](http://www.cnhindustrial.com)** | **[Agriculture Product Technical Support Specialist Intern](https://jobright.ai/jobs/info/692af35d4c474121999ccf1d?utm_campaign=1058&utm_source=git)** | Holland, IA | On Site | Nov 29 |
+| **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern - P/C Claims (Summer 2026)](https://jobright.ai/jobs/info/69102494183be660d2677828?utm_campaign=1058&utm_source=git)** | West Bend, WI | On Site | Nov 29 |
 | **[Badger Meter](http://badgermeter.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/690ead0444146d3b6ec56ad1?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Nov 29 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/692ad2b866796e3028f8f9af?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Nov 29 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/692ad0e14c474121999ccbf4?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Nov 29 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/692acfeefa28370be2697b52?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Nov 29 |
 | **[ABB](https://global.abb/group/en)** | **[IT Support Intern – Winter 2026](https://jobright.ai/jobs/info/691db6c161dc50590a649740?utm_campaign=1058&utm_source=git)** | Location, WV | On Site | Nov 29 |
 | ↳ | **[Intern-Sales Support](https://jobright.ai/jobs/info/692ab3d166796e3028f8f7aa?utm_campaign=1058&utm_source=git)** | Location, WV | On Site | Nov 29 |
 | **[CU*Answers](http://www.cuanswers.com)** | **[PC Rollout Technician Intern](https://jobright.ai/jobs/info/692aaa8966796e3028f8f686?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Nov 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69285d8ff0beb072326302c7?utm_campaign=1058&utm_source=git)** | Louisville, KY | On Site | Nov 27 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69285d5ff0beb072326302bd?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | Nov 27 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69285d15f0beb072326302ac?utm_campaign=1058&utm_source=git)** | Midland, MI | On Site | Nov 27 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69285ce6d47de4798ece2990?utm_campaign=1058&utm_source=git)** | New Franklin, OH | On Site | Nov 27 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69285cb3f0beb07232630297?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Nov 27 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69285cabf0beb07232630294?utm_campaign=1058&utm_source=git)** | Baton Rouge, LA | On Site | Nov 27 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69285ca6d47de4798ece297c?utm_campaign=1058&utm_source=git)** | Muncie, IN | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
