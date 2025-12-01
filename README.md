@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RTX](http://www.raytheon.com)** | **[2026 Intern Conversion - Windchill Application Administrator - Onsite (AZ)](https://jobright.ai/jobs/info/692dc735fa28370be269e60c?utm_campaign=1058&utm_source=git)** | AZ862: 3360 Hemisphere Loop Bldg M10 3360 East Hemisphere Loop Building M10, Tucson, AZ, 85706 USA | Hybrid | Dec 01 |
+| **[UMass Memorial Medical Center](https://www.umassmemorialhealthcare.org)** | **[High School Student Clerical Intern](https://jobright.ai/jobs/info/692dbcd74c474121999d30ca?utm_campaign=1058&utm_source=git)** | Worcester, MA Worcester Business Center | On Site | Dec 01 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/68d92fdf022fc803b4876d80?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Dec 01 |
 | **[University of Massachusetts](https://www.youtube.com/channel/UCH_NUbvxPedsdb5jq98Atig)** | **[Intern - Business Associate Team](https://jobright.ai/jobs/info/692db073fa28370be269dce2?utm_campaign=1058&utm_source=git)** | Shrewsbury, MA | Hybrid | Dec 01 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/692dab204c474121999d2b2e?utm_campaign=1058&utm_source=git)** | Pennington, NJ | On Site | Dec 01 |
@@ -100,9 +102,9 @@ For a complete list, click the following sortable link below:
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY Clinic Admissions Associate - Clinic Setting](https://jobright.ai/jobs/info/692cf63afa28370be269bc83?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Nov 30 |
 | ↳ | **[INTERNAL ONLY Clinic Admissions Associate - Clinic Setting](https://jobright.ai/jobs/info/692ced8166796e3028f938ed?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Nov 30 |
 | **[TriStar Horizon Medical Center](https://tristarhorizon.com/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/69105c1a183be660d2678926?utm_campaign=1058&utm_source=git)** | Dickson, TN | On Site | Nov 30 |
+| **[Wesley Healthcare](http://www.wesleymc.com)** | **[Radiology Student Intern PRN](https://jobright.ai/jobs/info/69105bda183be660d2678914?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Nov 30 |
 | **[Henrico, Parham & Retreat Doctors' Hospitals](https://hcavirginia.com/locations/henrico-doctors/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/6910660c183be660d2678d62?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Nov 30 |
 | **[CJW Medical Center](http://chippenhammed.com)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/6910627f988c2b7b4ec518d1?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Nov 30 |
-| **[Wesley Healthcare](http://www.wesleymc.com)** | **[Radiology Student Intern PRN](https://jobright.ai/jobs/info/69105cdf988c2b7b4ec5159c?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Nov 30 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/68d009fcdbd9fb154edecf27?utm_campaign=1058&utm_source=git)** | Skokie, IL | Hybrid | Nov 30 |
 | **[Phelps Health](https://phelpshealth.org/)** | **[Student Nurse Intern - Medical Oncology / IPT](https://jobright.ai/jobs/info/690466ec63502c0aded72b24?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Nov 30 |
 | **[Dexter](https://www.dexteraxle.com/)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/68db79eae19b9e63ba20c725?utm_campaign=1058&utm_source=git)** | Elkhart, IN | On Site | Nov 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UChicago Medicine](https://www.uchicagomedicine.org/)** | **[Specialty Nurse Intern, Adult Emergency Department - Registry](https://jobright.ai/jobs/info/6927634ad47de4798ecdc0af?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Nov 29 |
 | **[Badger Meter](http://badgermeter.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/690ead0444146d3b6ec56ad1?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Nov 29 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/692ad0e14c474121999ccbf4?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Nov 29 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/692acfeefa28370be2697b52?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Nov 29 |
-| **[CU*Answers](http://www.cuanswers.com)** | **[PC Rollout Technician Intern](https://jobright.ai/jobs/info/692aaa8966796e3028f8f686?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
