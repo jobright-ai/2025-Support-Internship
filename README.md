@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Fred Meyer](https://www.fredmeyer.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/692feada4c474121999e3257?utm_campaign=1058&utm_source=git)** | Coos Bay, OR | On Site | Dec 02 |
+| **[SmartBank](https://www.smartbank.com/)** | **[2026 Summer Intern- eBanking](https://jobright.ai/jobs/info/692fec4fef4b48533d1499ca?utm_campaign=1058&utm_source=git)** | Sevierville, TN | On Site | Dec 02 |
+| **[Fred Meyer](https://www.fredmeyer.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/692feb75ef4b48533d149999?utm_campaign=1058&utm_source=git)** | Wilsonville, OR | On Site | Dec 02 |
+| ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/692feada4c474121999e3257?utm_campaign=1058&utm_source=git)** | Coos Bay, OR | On Site | Dec 02 |
 | **[Afinitas](http://hawkeyepedershaab.com/)** | **[IT Intern](https://jobright.ai/jobs/info/692fcf3ffa28370be26ada4a?utm_campaign=1058&utm_source=git)** | Mediapolis, IA | On Site | Dec 02 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I](https://jobright.ai/jobs/info/692fe79aef4b48533d14988d?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Dec 02 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/692fe248ef4b48533d149645?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Dec 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/692efeffef4b48533d142184?utm_campaign=1058&utm_source=git)** | Muskogee, OK | On Site | Dec 02 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/692efed1fa28370be26a6c07?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | On Site | Dec 02 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/692efe6e4c474121999dbaf1?utm_campaign=1058&utm_source=git)** | Great Bend, KS | On Site | Dec 02 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/692efe5aef4b48533d142130?utm_campaign=1058&utm_source=git)** | Stillwater, OK | On Site | Dec 02 |
-| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/692efe404c474121999dbae9?utm_campaign=1058&utm_source=git)** | Fort Smith, AR | On Site | Dec 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
