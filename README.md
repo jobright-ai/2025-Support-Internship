@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Safeway](http://www.safeway.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69303d28ef4b48533d14ade4?utm_campaign=1058&utm_source=git)** | Corvallis, OR | Hybrid | Dec 03 |
+| **[Aman](https://www.aman.com/)** | **[Food & Beverage 12 month Intern - Amangiri](https://jobright.ai/jobs/info/68f8014d5dc1be601282018b?utm_campaign=1058&utm_source=git)** | Page, AZ | On Site | Dec 03 |
 | **[Navitus Health Solutions](https://www.navitus.com/)** | **[Clinical Intern, Specialty Pharmacy](https://jobright.ai/jobs/info/68dc3ee9a125e75c4229ea2a?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Dec 03 |
 | **[MemorialCare](https://www.memorialcare.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69301c7fef4b48533d14a6ea?utm_campaign=1058&utm_source=git)** | Long Beach, CA | On Site | Dec 03 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Customer Care Internship](https://jobright.ai/jobs/info/691464856f36db06ef0470df?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Dec 03 |
@@ -88,12 +90,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern- IT Support](https://jobright.ai/jobs/info/692fa213fa28370be26ac521?utm_campaign=1058&utm_source=git)** | Westbrook, ME | On Site | Dec 02 |
 | ↳ | **[Intern- IT Credentialing Data Management](https://jobright.ai/jobs/info/692fa8194c474121999e1870?utm_campaign=1058&utm_source=git)** | Westbrook, ME | On Site | Dec 02 |
 | ↳ | **[Intern- IT Field Services](https://jobright.ai/jobs/info/692fa60cef4b48533d147c2b?utm_campaign=1058&utm_source=git)** | Westbrook, ME | On Site | Dec 02 |
-| ↳ | **[Intern- Patient Experience](https://jobright.ai/jobs/info/692fa49c4c474121999e15ce?utm_campaign=1058&utm_source=git)** | Portland, ME | On Site | Dec 02 |
 | ↳ | **[Intern- Access to Care](https://jobright.ai/jobs/info/692fa4814c474121999e15af?utm_campaign=1058&utm_source=git)** | Portland, ME | On Site | Dec 02 |
+| ↳ | **[Intern- Patient Experience](https://jobright.ai/jobs/info/692fa49c4c474121999e15ce?utm_campaign=1058&utm_source=git)** | Portland, ME | On Site | Dec 02 |
 | **[Cadence McShane Construction Company](http://cadencemcshane.com)** | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/692fa836ef4b48533d147e06?utm_campaign=1058&utm_source=git)** | Plano,TX,US | On Site | Dec 02 |
 | **[OCHIN, Inc.](https://ochin.org)** | **[HCAI - HEALTH INFORMATION AND ELECTRONIC RECORDS ANALYST TRAINING PROGRAM (EHR SUPPORT INTERNSHIP)](https://jobright.ai/jobs/info/692f80214c474121999dfb96?utm_campaign=1058&utm_source=git)** | California, United States | Remote | Dec 02 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - JS MedSurg 3B MBMC](https://jobright.ai/jobs/info/692f7fbc4c474121999dfb49?utm_campaign=1058&utm_source=git)** | Jackson, MS | On Site | Dec 02 |
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Medical Assistant Intern - Proxima](https://jobright.ai/jobs/info/692f9eef4c474121999e116f?utm_campaign=1058&utm_source=git)** | University of Utah Hospital | On Site | Dec 02 |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Internship / Summer 2026](https://jobright.ai/jobs/info/693034284c474121999e4560?utm_campaign=1058&utm_source=git)** | US-MN-Eagan | On Site | Dec 02 |
 | **[Allen Lund Company](http://www.allenlund.com/)** | **[Internship](https://jobright.ai/jobs/info/692f7bd7fa28370be26aab25?utm_campaign=1058&utm_source=git)** | La Canada Flintridge, CA | On Site | Dec 02 |
 | **[Forestar Group Inc.](https://www.forestar.com/)** | **[Summer 2026 IT Intern - Forestar](https://jobright.ai/jobs/info/692f799cfa28370be26aa982?utm_campaign=1058&utm_source=git)** | Arlington, TX | On Site | Dec 02 |
 | **[USA Health](https://www.usahealthsystem.com/)** | **[Nursing Intern (PRN) - 9th floor - Providence Hospital](https://jobright.ai/jobs/info/692fb7e14c474121999e20e6?utm_campaign=1058&utm_source=git)** | Mobile, AL | On Site | Dec 02 |
@@ -130,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Intern, Technology Service Desk](https://jobright.ai/jobs/info/69201b4f09cc522e877481f3?utm_campaign=1058&utm_source=git)** | Houston | Hybrid | Dec 02 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Outpatient Retail Pharmacy P1 Intern](https://jobright.ai/jobs/info/692f7b47fa28370be26aaaac?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 02 |
 | **[Monarch Casino Resort Spa - Black Hawk](https://monarchblackhawk.com)** | **[J1 Front Of House Intern](https://jobright.ai/jobs/info/692f3d96ef4b48533d14394a?utm_campaign=1058&utm_source=git)** | US-CO-Black Hawk | Hybrid | Dec 02 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT24 (P)](https://jobright.ai/jobs/info/68e7ae0fc4895107182bcb8f?utm_campaign=1058&utm_source=git)** | Downey, CA | On Site | Dec 02 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Customer Experience Intern](https://jobright.ai/jobs/info/692f580aef4b48533d14459c?utm_campaign=1058&utm_source=git)** | Fort Washington, PA | On Site | Dec 02 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT16](https://jobright.ai/jobs/info/68e9008e9020b95add6a344a?utm_campaign=1058&utm_source=git)** | Victorville, CA | On Site | Dec 02 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Nurse Intern - PCU Per Diem Days](https://jobright.ai/jobs/info/692f86d2ef4b48533d146773?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Dec 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - JS MedSurg 3B MBMC](https://jobright.ai/jobs/info/692f35e64c474121999dd041?utm_campaign=1058&utm_source=git)** | 1225 North State Street, Jackson, MS, 39202, US | On Site | Dec 02 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Service Operations Intern](https://jobright.ai/jobs/info/68f6f47a76a51a4307bdf968?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Dec 02 |
 | **[South Texas Health System](https://www.southtexashealthsystem.com/)** | **[Surgical Tech Student Intern PRN](https://jobright.ai/jobs/info/69125d5ad1047e3565cfbce7?utm_campaign=1058&utm_source=git)** | McAllen, TX | On Site | Dec 02 |
-| **[Plug and Play Tech Center](https://www.plugandplaytechcenter.com)** | **[IT Intern](https://jobright.ai/jobs/info/692f243afa28370be26a7af7?utm_campaign=1058&utm_source=git)** | Sunnyvale, CA | On Site | Dec 02 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/692f0486fa28370be26a6e67?utm_campaign=1058&utm_source=git)** | Owasso, OK | On Site | Dec 02 |
-| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - IT – Associate Solutions Engineer – Salesforce](https://jobright.ai/jobs/info/692f0140ef4b48533d142279?utm_campaign=1058&utm_source=git)** | Weldon Spring, MO | On Site | Dec 02 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/692efeffef4b48533d142184?utm_campaign=1058&utm_source=git)** | Muskogee, OK | On Site | Dec 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
