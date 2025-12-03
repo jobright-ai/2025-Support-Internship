@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navitus Health Solutions](https://www.navitus.com/)** | **[Clinical Intern, Specialty Pharmacy](https://jobright.ai/jobs/info/68dc3ee9a125e75c4229ea2a?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Dec 03 |
+| **[MemorialCare](https://www.memorialcare.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69301c7fef4b48533d14a6ea?utm_campaign=1058&utm_source=git)** | Long Beach, CA | On Site | Dec 03 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Customer Care Internship](https://jobright.ai/jobs/info/691464856f36db06ef0470df?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Dec 03 |
 | **[SmartBank](https://www.smartbank.com/)** | **[2026 Summer Intern- eBanking](https://jobright.ai/jobs/info/692fec4fef4b48533d1499ca?utm_campaign=1058&utm_source=git)** | Sevierville, TN | On Site | Dec 02 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/692feb75ef4b48533d149999?utm_campaign=1058&utm_source=git)** | Wilsonville, OR | On Site | Dec 02 |
 | ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/692feada4c474121999e3257?utm_campaign=1058&utm_source=git)** | Coos Bay, OR | On Site | Dec 02 |
@@ -127,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Intern, Technology Service Desk](https://jobright.ai/jobs/info/69201b4f09cc522e877481f3?utm_campaign=1058&utm_source=git)** | Houston | Hybrid | Dec 02 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Outpatient Retail Pharmacy P1 Intern](https://jobright.ai/jobs/info/692f7b47fa28370be26aaaac?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 02 |
 | **[Monarch Casino Resort Spa - Black Hawk](https://monarchblackhawk.com)** | **[J1 Front Of House Intern](https://jobright.ai/jobs/info/692f3d96ef4b48533d14394a?utm_campaign=1058&utm_source=git)** | US-CO-Black Hawk | Hybrid | Dec 02 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT24 (P)](https://jobright.ai/jobs/info/68e7ae0fc4895107182bcb8f?utm_campaign=1058&utm_source=git)** | Downey, CA | On Site | Dec 02 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Customer Experience Intern](https://jobright.ai/jobs/info/692f580aef4b48533d14459c?utm_campaign=1058&utm_source=git)** | Fort Washington, PA | On Site | Dec 02 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT16](https://jobright.ai/jobs/info/68e9008e9020b95add6a344a?utm_campaign=1058&utm_source=git)** | Victorville, CA | On Site | Dec 02 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Nurse Intern - PCU Per Diem Days](https://jobright.ai/jobs/info/692f86d2ef4b48533d146773?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Dec 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/692f0486fa28370be26a6e67?utm_campaign=1058&utm_source=git)** | Owasso, OK | On Site | Dec 02 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - IT – Associate Solutions Engineer – Salesforce](https://jobright.ai/jobs/info/692f0140ef4b48533d142279?utm_campaign=1058&utm_source=git)** | Weldon Spring, MO | On Site | Dec 02 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/692efeffef4b48533d142184?utm_campaign=1058&utm_source=git)** | Muskogee, OK | On Site | Dec 02 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/692efed1fa28370be26a6c07?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | On Site | Dec 02 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/692efe6e4c474121999dbaf1?utm_campaign=1058&utm_source=git)** | Great Bend, KS | On Site | Dec 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
