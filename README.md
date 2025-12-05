@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navitus Health Solutions](https://www.navitus.com/)** | **[Clinical Intern - Pharmacy](https://jobright.ai/jobs/info/692002ec09cc522e877472f7?utm_campaign=1058&utm_source=git)** | United States | Remote | Dec 05 |
+| **[Trimble Inc.](http://www.trimble.com)** | **[IS Help Desk Intern](https://jobright.ai/jobs/info/69165acb286ccf0a15134ddb?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Dec 05 |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[Intern, Information Technology](https://jobright.ai/jobs/info/68c7997e7d0db4114273e579?utm_campaign=1058&utm_source=git)** | Gage County, NE | On Site | Dec 05 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Paid Intern (Manassas, VA)](https://jobright.ai/jobs/info/6932a968f131d96e4845d6d3?utm_campaign=1058&utm_source=git)** | Manassas, VA | On Site | Dec 05 |
 | **[Carvana](http://www.carvana.com)** | **[Intern, Customer Experience](https://jobright.ai/jobs/info/690013a80ab3b222462b19c3?utm_campaign=1058&utm_source=git)** | Tempe, AZ | On Site | Dec 05 |
+| **[Fareway Stores, Inc.](https://www.fareway.com)** | **[Corporate Help Desk Intern](https://jobright.ai/jobs/info/6932ba62a0dde7020e2e87d1?utm_campaign=1058&utm_source=git)** | Johnston, IA | On Site | Dec 05 |
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Customer Experience](https://jobright.ai/jobs/info/69328aa3a0dde7020e2e78d0?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69326e7a764507023d1ae853?utm_campaign=1058&utm_source=git)** | La Feria, TX | On Site | Dec 04 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: IT Support](https://jobright.ai/jobs/info/69326d51a0dde7020e2e6e5b?utm_campaign=1058&utm_source=git)** | Columbia, MO (Headquarters) | Hybrid | Dec 04 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6932611d764507023d1adfd3?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Dec 04 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69326c1a764507023d1ae6ec?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Dec 04 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69327387a0dde7020e2e70ef?utm_campaign=1058&utm_source=git)** | Victoria, TX | On Site | Dec 04 |
 | **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - IT - Business Applications](https://jobright.ai/jobs/info/693253dcf131d96e4845b2ff?utm_campaign=1058&utm_source=git)** | Rockford, IL | On Site | Dec 04 |
 | **[Zscaler](https://www.zscaler.com)** | **[Collaboration Solutions Analyst Intern](https://jobright.ai/jobs/info/69324e8f764507023d1ace2c?utm_campaign=1058&utm_source=git)** | San Jose, CA | Hybrid | Dec 04 |
@@ -144,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6931b90ed0010831497bb432?utm_campaign=1058&utm_source=git)** | Canal Winchester, OH | On Site | Dec 04 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6931b632fa28370be26bd7e3?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Dec 04 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6931c702fa28370be26bdf4b?utm_campaign=1058&utm_source=git)** | Blacklick Ridge, OH | On Site | Dec 04 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6931af174c474121999f2572?utm_campaign=1058&utm_source=git)** | Centerville, OH | On Site | Dec 04 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6931ab334c474121999f240a?utm_campaign=1058&utm_source=git)** | Lenexa, KS | On Site | Dec 04 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6931af174c474121999f2572?utm_campaign=1058&utm_source=git)** | Centerville, OH | On Site | Dec 04 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6931aa23d0010831497baef5?utm_campaign=1058&utm_source=git)** | Centerville, OH | On Site | Dec 04 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6931d761d0010831497bc385?utm_campaign=1058&utm_source=git)** | Lancaster, OH | On Site | Dec 04 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6931c35afa28370be26bdd92?utm_campaign=1058&utm_source=git)** | Newark, OH | On Site | Dec 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6931b850d0010831497bb404?utm_campaign=1058&utm_source=git)** | Heath, OH | On Site | Dec 04 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6931c8b84c474121999f30d5?utm_campaign=1058&utm_source=git)** | Claremore, OK | On Site | Dec 04 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6931b05d4c474121999f2622?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Dec 04 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6931bf5afa28370be26bdbcd?utm_campaign=1058&utm_source=git)** | Broken Arrow, OK | On Site | Dec 04 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6931bb4cfa28370be26bda04?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Dec 04 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6931bae44c474121999f2a63?utm_campaign=1058&utm_source=git)** | Canal Winchester, OH | On Site | Dec 04 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6931bbcafa28370be26bda30?utm_campaign=1058&utm_source=git)** | Coshocton, OH | On Site | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
