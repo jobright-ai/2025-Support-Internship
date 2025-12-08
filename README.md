@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37d49b99ec3563b0e0b07?utm_campaign=1058&utm_source=git)** | Mission Viejo, CA | On Site | Dec 08 |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Customer Support Intern](https://jobright.ai/jobs/info/69371c67aabec14a727c4208?utm_campaign=1058&utm_source=git)** | Green Bay, WI | On Site | Dec 08 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e379e61852e62f007fc1b4?utm_campaign=1058&utm_source=git)** | Pleasanton, CA | On Site | Dec 08 |
 | **[Egan Company](https://www.eganco.com/)** | **[Shipping & Receiving Intern - Summer 2026](https://jobright.ai/jobs/info/691b586c15b415636718e42d?utm_campaign=1058&utm_source=git)** | Champlin, MN | Hybrid | Dec 08 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Intern- LeMoyne-Owen College Call Center (Spring 2026)](https://jobright.ai/jobs/info/6937055da0dde7020e2fe6e5?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Dec 08 |
 | **[The Beaufort Bonnet Company](https://www.thebeaufortbonnetcompany.com)** | **[Customer Relations Intern (Spring 2026)](https://jobright.ai/jobs/info/693701601c1c2161c13efebf?utm_campaign=1058&utm_source=git)** | Lexington, KY - The Beaufort Bonnet Company Headquarters | On Site | Dec 08 |
@@ -74,7 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6936e5da1c1c2161c13ef45a?utm_campaign=1058&utm_source=git)** | Pueblo, CO | On Site | Dec 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6936e57f1c1c2161c13ef443?utm_campaign=1058&utm_source=git)** | Davenport, IA | On Site | Dec 08 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6936e5731c1c2161c13ef43b?utm_campaign=1058&utm_source=git)** | Hoover, AL | On Site | Dec 08 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6936e572aabec14a727c2c81?utm_campaign=1058&utm_source=git)** | Centennial, CO | On Site | Dec 08 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6936e563aabec14a727c2c79?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | On Site | Dec 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6936e547aabec14a727c2c61?utm_campaign=1058&utm_source=git)** | Erie, CO | On Site | Dec 08 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6936e51fa0dde7020e2fdaf3?utm_campaign=1058&utm_source=git)** | Statesville, NC | On Site | Dec 08 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6936e4e61c1c2161c13ef3f0?utm_campaign=1058&utm_source=git)** | Clemmons, NC | On Site | Dec 08 |
@@ -82,10 +85,10 @@ For a complete list, click the following sortable link below:
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Card and Deposit Services Intern](https://jobright.ai/jobs/info/6936e3d71c1c2161c13ef35f?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Dec 08 |
 | ↳ | **[Member Assistance Center Intern](https://jobright.ai/jobs/info/6936e3cc1c1c2161c13ef357?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Dec 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6936e3bd1c1c2161c13ef34f?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Dec 08 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6936e3701c1c2161c13ef322?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | On Site | Dec 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6936e317aabec14a727c2bc7?utm_campaign=1058&utm_source=git)** | Greeley, CO | On Site | Dec 08 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6936e268aabec14a727c2b97?utm_campaign=1058&utm_source=git)** | Maryland Heights, MO | On Site | Dec 08 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6936e2521c1c2161c13ef2be?utm_campaign=1058&utm_source=git)** | Leeds, AL | On Site | Dec 08 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6936e2521c1c2161c13ef2bd?utm_campaign=1058&utm_source=git)** | Centennial, CO | On Site | Dec 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6936e24ba0dde7020e2fda05?utm_campaign=1058&utm_source=git)** | Arvada, CO | On Site | Dec 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6936e24aa0dde7020e2fda04?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 08 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Customer Solutions Internship - Summer 2026](https://jobright.ai/jobs/info/6936e2181c1c2161c13ef2aa?utm_campaign=1058&utm_source=git)** | Lancaster, PA | On Site | Dec 08 |
@@ -107,7 +110,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6936dfa1aabec14a727c2abd?utm_campaign=1058&utm_source=git)** | Vestavia Hills, AL | On Site | Dec 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6936df96a0dde7020e2fd925?utm_campaign=1058&utm_source=git)** | Parker, CO | On Site | Dec 08 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Mortgage Operations Intern](https://jobright.ai/jobs/info/6936df88aabec14a727c2ab2?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Dec 08 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6936df74aabec14a727c2aad?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 08 |
+| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6936df821c1c2161c13ef1f2?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 08 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6936df65aabec14a727c2aa5?utm_campaign=1058&utm_source=git)** | Lexington, NC | On Site | Dec 08 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6936df65a0dde7020e2fd917?utm_campaign=1058&utm_source=git)** | Salisbury, NC | On Site | Dec 08 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6936df411c1c2161c13ef1e7?utm_campaign=1058&utm_source=git)** | Vestavia Hills, AL | On Site | Dec 08 |
@@ -118,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Pharmacy Intern- Inpatient - Allegheny General Hospital](https://jobright.ai/jobs/info/68eb82be2f64880ca0b58a50?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Dec 08 |
 | **[KanEquip, Inc.](http://kanequip.com)** | **[Service Internship II 2026](https://jobright.ai/jobs/info/69369b5a1c1c2161c13edf87?utm_campaign=1058&utm_source=git)** | Topeka, KS | On Site | Dec 08 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE: D. Dan and Betty Kahn Health Care Pavilion Neuro Critical Care Unit (NCCU) Internship](https://jobright.ai/jobs/info/6936936ea0dde7020e2fc6c4?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Dec 08 |
-| **[dortion](https://www.linkedin.com/company/96896362)** | **[Information Technology Intern - High School](https://jobright.ai/jobs/info/69365d7c764507023d1c2e87?utm_campaign=1058&utm_source=git)** | United States | Remote | Dec 07 |
 | **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69363630764507023d1c1d1e?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Dec 07 |
 | ↳ | **[Audiologist Intern-Hanover](https://jobright.ai/jobs/info/69363533a0dde7020e2fa108?utm_campaign=1058&utm_source=git)** | Hanover, PA | On Site | Dec 07 |
 | ↳ | **[Pharmacy Intern, Chartwell](https://jobright.ai/jobs/info/69363519764507023d1c1cdc?utm_campaign=1058&utm_source=git)** | Oakdale, PA | On Site | Dec 07 |
@@ -145,8 +147,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69358b9df131d96e4846e8ba?utm_campaign=1058&utm_source=git)** | Lebanon, VA | On Site | Dec 07 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69358b96a0dde7020e2f8ef7?utm_campaign=1058&utm_source=git)** | Centerville, OH | On Site | Dec 07 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69358b8fa0dde7020e2f8ef5?utm_campaign=1058&utm_source=git)** | Marion, VA | On Site | Dec 07 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Member Assistance Center Intern](https://jobright.ai/jobs/info/69358b58f131d96e4846e894?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Dec 07 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69358b50764507023d1c0a72?utm_campaign=1058&utm_source=git)** | Clintwood, VA | On Site | Dec 07 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69358b50764507023d1c0a72?utm_campaign=1058&utm_source=git)** | Clintwood, VA | On Site | Dec 07 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69358b3ca0dde7020e2f8ee1?utm_campaign=1058&utm_source=git)** | Marion, VA | On Site | Dec 07 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Mortgage Operations Intern](https://jobright.ai/jobs/info/69358ad5764507023d1c0a50?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Dec 07 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69358a74764507023d1c0a44?utm_campaign=1058&utm_source=git)** | Loveland, OH | On Site | Dec 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/693589b3764507023d1c09ca?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Dec 07 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69358989764507023d1c09c2?utm_campaign=1058&utm_source=git)** | Clintwood, VA | On Site | Dec 07 |
 | **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Guest Service](https://jobright.ai/jobs/info/69189df445fb6f5ead8a6293?utm_campaign=1058&utm_source=git)** | Brossard, Quebec, Canada | On Site | Dec 07 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – Service Desk (Louisville, KY Year-Round)](https://jobright.ai/jobs/info/68c7be0f369c3763c743b387?utm_campaign=1058&utm_source=git)** | Louisville, KY | Hybrid | Dec 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
