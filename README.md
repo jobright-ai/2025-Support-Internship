@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69363af8f131d96e48470058?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Dec 07 |
-| ↳ | **[Audiologist Intern-Hanover](https://jobright.ai/jobs/info/69363533a0dde7020e2fa108?utm_campaign=1058&utm_source=git)** | Hanover, PA | On Site | Dec 07 |
+| **[dortion](https://www.linkedin.com/company/96896362)** | **[Information Technology Intern - High School](https://jobright.ai/jobs/info/69365d7c764507023d1c2e87?utm_campaign=1058&utm_source=git)** | United States | Remote | Dec 07 |
+| **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69363630764507023d1c1d1e?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Dec 07 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/693654e5f131d96e48470cfe?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Dec 07 |
+| **[UPMC](https://www.upmc.com/)** | **[Audiologist Intern-Hanover](https://jobright.ai/jobs/info/69363533a0dde7020e2fa108?utm_campaign=1058&utm_source=git)** | Hanover, PA | On Site | Dec 07 |
 | ↳ | **[Pharmacy Intern, Chartwell](https://jobright.ai/jobs/info/69363519764507023d1c1cdc?utm_campaign=1058&utm_source=git)** | Oakdale, PA | On Site | Dec 07 |
 | **[AAWDC](www.aawdc.org)** | **[IT Intern (Hanover, MD)](https://jobright.ai/jobs/info/69362392f131d96e4846fb42?utm_campaign=1058&utm_source=git)** | North County | On Site | Dec 07 |
 | **[Peoples Bank](https://www.mypeoples.bank)** | **[Paid Internship](https://jobright.ai/jobs/info/6935dedd764507023d1c13ab?utm_campaign=1058&utm_source=git)** | Jefferson, IA | On Site | Dec 07 |
@@ -125,9 +127,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Ultrasound Intern](https://jobright.ai/jobs/info/6934755cf131d96e4846ac16?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Dec 06 |
 | ↳ | **[Ultrasound Intern (Non-Exempt)](https://jobright.ai/jobs/info/693474d3a0dde7020e2f5798?utm_campaign=1058&utm_source=git)** | Ada, OK | On Site | Dec 06 |
 | ↳ | **[Radiology Intern II (Non-Exempt)](https://jobright.ai/jobs/info/69347460764507023d1bd1a1?utm_campaign=1058&utm_source=git)** | Ardmore, OK | On Site | Dec 06 |
-| ↳ | **[Radiology Intern I (Non-Exempt)](https://jobright.ai/jobs/info/693473c8a0dde7020e2f576b?utm_campaign=1058&utm_source=git)** | Fort Smith, AR | On Site | Dec 06 |
 | ↳ | **[Ultrasound Intern, Part-Time](https://jobright.ai/jobs/info/693473b2f131d96e4846abac?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Dec 06 |
 | ↳ | **[Radiology Intern I - PRN](https://jobright.ai/jobs/info/693472c3f131d96e4846ab7f?utm_campaign=1058&utm_source=git)** | Waldron, AR | On Site | Dec 06 |
+| ↳ | **[Radiology Intern I (Non-Exempt)](https://jobright.ai/jobs/info/693471c3f131d96e4846ab40?utm_campaign=1058&utm_source=git)** | Fort Smith, AR | On Site | Dec 06 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Paid Intern (Greer, SC)](https://jobright.ai/jobs/info/6917b02845fb6f5ead89d860?utm_campaign=1058&utm_source=git)** | Greer, SC | On Site | Dec 06 |
 | **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Pharmacy Intern - Per Diem - Evenings - MRH](https://jobright.ai/jobs/info/6917c5e245fb6f5ead89e8ab?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | Dec 06 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/682420b9b933e9f19acb845a?utm_campaign=1058&utm_source=git)** | Dickinson, ND | On Site | Dec 06 |
@@ -144,7 +146,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68cf9094846f0b04af68300e?utm_campaign=1058&utm_source=git)** | Bozeman, MT | On Site | Dec 06 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6934443ca0dde7020e2f4f20?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 06 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6934437d764507023d1bc8b5?utm_campaign=1058&utm_source=git)** | King, NC | On Site | Dec 06 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6934435fa0dde7020e2f4ee1?utm_campaign=1058&utm_source=git)** | Centennial, CO | On Site | Dec 06 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/693442f8a0dde7020e2f4e9d?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | On Site | Dec 06 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/693442daa0dde7020e2f4e94?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Dec 06 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/693442cb764507023d1bc844?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Dec 06 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/693442bba0dde7020e2f4e81?utm_campaign=1058&utm_source=git)** | Ottawa, IL | On Site | Dec 06 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/693441e8764507023d1bc7c5?utm_campaign=1058&utm_source=git)** | Lindenwold, NJ | On Site | Dec 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69344101a0dde7020e2f4dfc?utm_campaign=1058&utm_source=git)** | Absecon, NJ | On Site | Dec 06 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6934403c764507023d1bc759?utm_campaign=1058&utm_source=git)** | Oro Valley, AZ | On Site | Dec 06 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69344032764507023d1bc755?utm_campaign=1058&utm_source=git)** | Atlantic City, NJ | On Site | Dec 06 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6934401e764507023d1bc74c?utm_campaign=1058&utm_source=git)** | Boulder, CO | On Site | Dec 06 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69343fdfa0dde7020e2f4dac?utm_campaign=1058&utm_source=git)** | Centennial, CO | On Site | Dec 06 |
-| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69343fc3f131d96e4846a198?utm_campaign=1058&utm_source=git)** | Howell, NJ | On Site | Dec 06 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69343f67764507023d1bc713?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
