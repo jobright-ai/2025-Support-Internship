@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lutheran Health Network](http://www.lutheranhealth.net)** | **[Student Intern Neuroscience Med Surg PRN](https://jobright.ai/jobs/info/68e256481852e62f007f7a76?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Dec 08 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[REGISTERED NURSE: D. Dan and Betty Kahn Health Care Pavilion Neuro Critical Care Unit (NCCU) Internship](https://jobright.ai/jobs/info/6936b40444eb324fb785d0d5?utm_campaign=1058&utm_source=git)** | Pavilion, British Columbia, Canada | On Site | Dec 08 |
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Pharmacy Intern- Inpatient - Allegheny General Hospital](https://jobright.ai/jobs/info/68eb82be2f64880ca0b58a50?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Dec 08 |
 | **[KanEquip, Inc.](http://kanequip.com)** | **[Service Internship II 2026](https://jobright.ai/jobs/info/69369b5a1c1c2161c13edf87?utm_campaign=1058&utm_source=git)** | Topeka, KS | On Site | Dec 08 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE: D. Dan and Betty Kahn Health Care Pavilion Neuro Critical Care Unit (NCCU) Internship](https://jobright.ai/jobs/info/6936936ea0dde7020e2fc6c4?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Dec 08 |
 | **[dortion](https://www.linkedin.com/company/96896362)** | **[Information Technology Intern - High School](https://jobright.ai/jobs/info/69365d7c764507023d1c2e87?utm_campaign=1058&utm_source=git)** | United States | Remote | Dec 07 |
-| **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69363af8f131d96e48470058?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Dec 07 |
+| **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69363630764507023d1c1d1e?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Dec 07 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/693654e5f131d96e48470cfe?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Dec 07 |
 | **[UPMC](https://www.upmc.com/)** | **[Audiologist Intern-Hanover](https://jobright.ai/jobs/info/69363533a0dde7020e2fa108?utm_campaign=1058&utm_source=git)** | Hanover, PA | On Site | Dec 07 |
 | ↳ | **[Pharmacy Intern, Chartwell](https://jobright.ai/jobs/info/69363519764507023d1c1cdc?utm_campaign=1058&utm_source=git)** | Oakdale, PA | On Site | Dec 07 |
@@ -84,8 +85,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69358e33f131d96e4846e94d?utm_campaign=1058&utm_source=git)** | Hamilton, OH | On Site | Dec 07 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69358da9f131d96e4846e91a?utm_campaign=1058&utm_source=git)** | Salem, VA | On Site | Dec 07 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69358d9af131d96e4846e914?utm_campaign=1058&utm_source=git)** | Roanoke, VA | On Site | Dec 07 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Mortgage Post Closing Intern](https://jobright.ai/jobs/info/69358d40f131d96e4846e8ff?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Dec 07 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69358d27a0dde7020e2f8f44?utm_campaign=1058&utm_source=git)** | Boone, NC | On Site | Dec 07 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69358d27a0dde7020e2f8f44?utm_campaign=1058&utm_source=git)** | Boone, NC | On Site | Dec 07 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69358d21a0dde7020e2f8f43?utm_campaign=1058&utm_source=git)** | Huber Heights, OH | On Site | Dec 07 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69358c59a0dde7020e2f8f27?utm_campaign=1058&utm_source=git)** | Walkertown, NC | On Site | Dec 07 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69358c45a0dde7020e2f8f1f?utm_campaign=1058&utm_source=git)** | Mount Airy, NC | On Site | Dec 07 |
@@ -128,9 +128,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Ultrasound Intern](https://jobright.ai/jobs/info/6934755cf131d96e4846ac16?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Dec 06 |
 | ↳ | **[Ultrasound Intern (Non-Exempt)](https://jobright.ai/jobs/info/693474d3a0dde7020e2f5798?utm_campaign=1058&utm_source=git)** | Ada, OK | On Site | Dec 06 |
 | ↳ | **[Radiology Intern II (Non-Exempt)](https://jobright.ai/jobs/info/69347460764507023d1bd1a1?utm_campaign=1058&utm_source=git)** | Ardmore, OK | On Site | Dec 06 |
+| ↳ | **[Radiology Intern I (Non-Exempt)](https://jobright.ai/jobs/info/693473c8a0dde7020e2f576b?utm_campaign=1058&utm_source=git)** | Fort Smith, AR | On Site | Dec 06 |
 | ↳ | **[Ultrasound Intern, Part-Time](https://jobright.ai/jobs/info/693473b2f131d96e4846abac?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Dec 06 |
 | ↳ | **[Radiology Intern I - PRN](https://jobright.ai/jobs/info/693472c3f131d96e4846ab7f?utm_campaign=1058&utm_source=git)** | Waldron, AR | On Site | Dec 06 |
-| ↳ | **[Radiology Intern I (Non-Exempt)](https://jobright.ai/jobs/info/693471c3f131d96e4846ab40?utm_campaign=1058&utm_source=git)** | Fort Smith, AR | On Site | Dec 06 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Paid Intern (Greer, SC)](https://jobright.ai/jobs/info/6917b02845fb6f5ead89d860?utm_campaign=1058&utm_source=git)** | Greer, SC | On Site | Dec 06 |
 | **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Pharmacy Intern - Per Diem - Evenings - MRH](https://jobright.ai/jobs/info/6917c5e245fb6f5ead89e8ab?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | Dec 06 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/682420b9b933e9f19acb845a?utm_campaign=1058&utm_source=git)** | Dickinson, ND | On Site | Dec 06 |
