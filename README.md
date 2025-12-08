@@ -141,7 +141,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6934435fa0dde7020e2f4ee1?utm_campaign=1058&utm_source=git)** | Centennial, CO | On Site | Dec 06 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/693442f8a0dde7020e2f4e9d?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | On Site | Dec 06 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/693442daa0dde7020e2f4e94?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Dec 06 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/693442cb764507023d1bc844?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Dec 06 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/693442bba0dde7020e2f4e81?utm_campaign=1058&utm_source=git)** | Ottawa, IL | On Site | Dec 06 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/693441e8764507023d1bc7c5?utm_campaign=1058&utm_source=git)** | Lindenwold, NJ | On Site | Dec 06 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69344197f131d96e4846a28c?utm_campaign=1058&utm_source=git)** | Greenfield, WI | On Site | Dec 06 |
@@ -155,6 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69343f67764507023d1bc713?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Dec 06 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69343f47764507023d1bc6ff?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Dec 06 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69343f2c764507023d1bc6f1?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Dec 06 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69343ef1764507023d1bc6d9?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Dec 06 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69343ee9764507023d1bc6d6?utm_campaign=1058&utm_source=git)** | Brick, NJ | On Site | Dec 06 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69343e8df131d96e4846a14b?utm_campaign=1058&utm_source=git)** | Freehold, NJ | On Site | Dec 06 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69343ecaa0dde7020e2f4d1b?utm_campaign=1058&utm_source=git)** | Fort Collins, CO | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
