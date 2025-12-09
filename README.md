@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Strawberry Fields Inc.](https://www.sfionline.org)** | **[Intern](https://jobright.ai/jobs/info/6937efcaa0dde7020e30a387?utm_campaign=1058&utm_source=git)** | State College, PA | On Site | Dec 09 |
+| **[Mercy Health](http://www.mercy.com/)** | **[Pharmacy Intern – St. Elizabeth Youngstown Hospital](https://jobright.ai/jobs/info/6937e098a0dde7020e3087be?utm_campaign=1058&utm_source=git)** | Youngstown, OH | On Site | Dec 09 |
+| **[Veryable](http://veryableops.com)** | **[Technical Support Engineer - Intern](https://jobright.ai/jobs/info/6937de92aabec14a727cd9d7?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Dec 09 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Nurse Intern](https://jobright.ai/jobs/info/6937cd651c1c2161c13f9c7a?utm_campaign=1058&utm_source=git)** | Lansing, MI | On Site | Dec 08 |
+| **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[Pharmacy Intern – St. Elizabeth Youngstown Hospital](https://jobright.ai/jobs/info/6937ea86a0dde7020e30a296?utm_campaign=1058&utm_source=git)** | Youngstown, OH | On Site | Dec 08 |
 | **[CORE Electric Cooperative](https://core.coop)** | **[Year-Round IT Internship](https://jobright.ai/jobs/info/6937bde2aabec14a727ccca2?utm_campaign=1058&utm_source=git)** | Sedalia, CO | On Site | Dec 08 |
+| **[Optum](https://www.optum.com/)** | **[Nurse Practitioner or Physician Assistant - Intern Fellowship Program - Kelsey Seybold - 2307703](https://jobright.ai/jobs/info/6937d5bd1c1c2161c13f9ed2?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Dec 08 |
 | **[VELCO - Vermont Electric Power Company](https://www.velco.com/)** | **[Intern - IT Infrastructure](https://jobright.ai/jobs/info/6937d1a7a0dde7020e308166?utm_campaign=1058&utm_source=git)** | Rutland, VT | On Site | Dec 08 |
 | **[CELSIUS](http://celsius.com/)** | **[IT Support Technician Intern](https://jobright.ai/jobs/info/6937a3dea0dde7020e305192?utm_campaign=1058&utm_source=git)** | Boca Raton, FL | On Site | Dec 08 |
 | **[Take-Two Interactive](http://www.take2games.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/69379532a0dde7020e30468b?utm_campaign=1058&utm_source=git)** | New York, United States | On Site | Dec 08 |
@@ -81,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[CORE Electric Cooperative](https://core.coop)** | **[Year-Round IT Internship](https://jobright.ai/jobs/info/693792dca0dde7020e3044c4?utm_campaign=1058&utm_source=git)** | CORE Electric Cooperative, 5496 N US Highway 85, Sedalia, Colorado, United States of America | On Site | Dec 08 |
 | **[NAVY EXCHANGE SERVICE COMMAND (NEXCOM)](https://www.mynavyexchange.com)** | **[INTERN (INFORMATION TECHNOLOGY - PC LAB)](https://jobright.ai/jobs/info/693795d1a0dde7020e304701?utm_campaign=1058&utm_source=git)** | United States-Virginia-Virginia Beach | On Site | Dec 08 |
 | **[Billings Clinic](https://billingsclinic.org)** | **[Outpatient Pharmacy Intern (per diem)](https://jobright.ai/jobs/info/6937bbd9aabec14a727ccbdb?utm_campaign=1058&utm_source=git)** | BILLINGS, MT, US | On Site | Dec 08 |
-| **[Grand Bohemian Mountain Brook](https://www.kesslercollection.com/bohemian-mountain-brook/)** | **[Food & Beverage Intern](https://jobright.ai/jobs/info/69379766aabec14a727c997d?utm_campaign=1058&utm_source=git)** | Grand Bohemian Mtn Brook | On Site | Dec 08 |
-| ↳ | **[Food & Beverage Intern](https://jobright.ai/jobs/info/69379ef7a0dde7020e304e45?utm_campaign=1058&utm_source=git)** | US-AL-Mountain Brook | On Site | Dec 08 |
+| **[Grand Bohemian Mountain Brook](https://www.kesslercollection.com/bohemian-mountain-brook/)** | **[Food & Beverage Intern](https://jobright.ai/jobs/info/69379ef7a0dde7020e304e45?utm_campaign=1058&utm_source=git)** | US-AL-Mountain Brook | On Site | Dec 08 |
+| ↳ | **[Food & Beverage Intern](https://jobright.ai/jobs/info/69379766aabec14a727c997d?utm_campaign=1058&utm_source=git)** | Grand Bohemian Mtn Brook | On Site | Dec 08 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[2026 Hotel Winter/Spring Intern -](https://jobright.ai/jobs/info/69378d501c1c2161c13f5a5f?utm_campaign=1058&utm_source=git)** | US-OH-Columbus | On Site | Dec 08 |
 | **[Take-Two Interactive](http://www.take2games.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/693760181c1c2161c13f3927?utm_campaign=1058&utm_source=git)** | New York, United States | On Site | Dec 08 |
 | **[Ever.Ag](https://www.ever.ag)** | **[Implementation & Delivery Intern](https://jobright.ai/jobs/info/69092f064a1b456627afdae3?utm_campaign=1058&utm_source=git)** | United States | Remote | Dec 08 |
@@ -104,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Intern-University of Memphis Call Center (Spring 2026)](https://jobright.ai/jobs/info/69373fd11c1c2161c13f1fb6?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Dec 08 |
 | ↳ | **[Intern- LeMoyne-Owen College Call Center (Spring 2026)](https://jobright.ai/jobs/info/69373e3aa0dde7020e300617?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Dec 08 |
 | **[Highgate](https://www.highgate.com)** | **[2026 Hotel Winter/Spring Intern -](https://jobright.ai/jobs/info/6937660eaabec14a727c775d?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Dec 08 |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Customer Support Intern](https://jobright.ai/jobs/info/69376f8e1c1c2161c13f46c0?utm_campaign=1058&utm_source=git)** | Green Bay, WI | On Site | Dec 08 |
 | **[CNH Reman NAFTA](http://whyreman.com)** | **[IT Internship](https://jobright.ai/jobs/info/69376bd5aabec14a727c7ccd?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Dec 08 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69377805a0dde7020e30345c?utm_campaign=1058&utm_source=git)** | 269-01 76th Ave, New Hyde Park, NY, 11040, US | On Site | Dec 08 |
 | **[Finance Factors](http://financefactors.com)** | **[IT Intern](https://jobright.ai/jobs/info/693751dba0dde7020e3013ae?utm_campaign=1058&utm_source=git)** | Honolulu, HI, US | On Site | Dec 08 |
@@ -115,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[STMicroelectronics](https://www.st.com)** | **[Sustainability Support Intern](https://jobright.ai/jobs/info/69374c181c1c2161c13f283a?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | Hybrid | Dec 08 |
 | **[NBME](http://www.nbme.org/)** | **[Drexel Co-Op: Desktop Services Analyst](https://jobright.ai/jobs/info/69374d1aa0dde7020e30107e?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 08 |
 | **[University of California, San Francisco](http://www.ucsf.edu)** | **[Practice Coordinator Intern](https://jobright.ai/jobs/info/6937515f1c1c2161c13f2c53?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Dec 08 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Customer Support Intern](https://jobright.ai/jobs/info/69371c67aabec14a727c4208?utm_campaign=1058&utm_source=git)** | Green Bay, WI | On Site | Dec 08 |
 | **[TURBOCAM International](http://www.turbocam.com/)** | **[Information Technology Intern (CORP) – Summer 2026](https://jobright.ai/jobs/info/693732e2a0dde7020e2ffd97?utm_campaign=1058&utm_source=git)** | Barrington, New Hampshire | On Site | Dec 08 |
 | **[Phelps Health](https://phelpshealth.org/)** | **[Clinical Intern - Float Pool / IPT](https://jobright.ai/jobs/info/69373322a0dde7020e2ffdb6?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Dec 08 |
 | ↳ | **[Clinical Intern - Surg Ortho / IPT](https://jobright.ai/jobs/info/69373d67a0dde7020e30056c?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Dec 08 |
@@ -140,6 +145,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6936e611a0dde7020e2fdb59?utm_campaign=1058&utm_source=git)** | Statesville, NC | On Site | Dec 08 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6936e5ff1c1c2161c13ef46a?utm_campaign=1058&utm_source=git)** | Greeneville, TN | On Site | Dec 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6936e5da1c1c2161c13ef45a?utm_campaign=1058&utm_source=git)** | Pueblo, CO | On Site | Dec 08 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6936e596aabec14a727c2c8d?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Dec 08 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6936e5731c1c2161c13ef43b?utm_campaign=1058&utm_source=git)** | Hoover, AL | On Site | Dec 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6936e572aabec14a727c2c81?utm_campaign=1058&utm_source=git)** | Centennial, CO | On Site | Dec 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6936e547aabec14a727c2c61?utm_campaign=1058&utm_source=git)** | Erie, CO | On Site | Dec 08 |
@@ -148,13 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6936e4551c1c2161c13ef398?utm_campaign=1058&utm_source=git)** | Falcon, NC | On Site | Dec 08 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Card and Deposit Services Intern](https://jobright.ai/jobs/info/6936e3d71c1c2161c13ef35f?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Dec 08 |
 | ↳ | **[Member Assistance Center Intern](https://jobright.ai/jobs/info/6936e3cc1c1c2161c13ef357?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Dec 08 |
-| **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6936e3bd1c1c2161c13ef34f?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Dec 08 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6936e3701c1c2161c13ef322?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | On Site | Dec 08 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6936e3701c1c2161c13ef322?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | On Site | Dec 08 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6936e317aabec14a727c2bc7?utm_campaign=1058&utm_source=git)** | Greeley, CO | On Site | Dec 08 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6936e268aabec14a727c2b97?utm_campaign=1058&utm_source=git)** | Maryland Heights, MO | On Site | Dec 08 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6936e2521c1c2161c13ef2be?utm_campaign=1058&utm_source=git)** | Leeds, AL | On Site | Dec 08 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6936e2521c1c2161c13ef2bd?utm_campaign=1058&utm_source=git)** | Centennial, CO | On Site | Dec 08 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6936e24ba0dde7020e2fda05?utm_campaign=1058&utm_source=git)** | Arvada, CO | On Site | Dec 08 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6936e24aa0dde7020e2fda04?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 08 |
-| **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Customer Solutions Internship - Summer 2026](https://jobright.ai/jobs/info/6936e2181c1c2161c13ef2aa?utm_campaign=1058&utm_source=git)** | Lancaster, PA | On Site | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
