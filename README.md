@@ -57,16 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/691efb853f782d2f1afb7c6d?utm_campaign=1058&utm_source=git)** | United States | Remote | Dec 11 |
+| **[Rogers Electric](https://www.rogerselectric.com)** | **[IT Intern](https://jobright.ai/jobs/info/68cba2669e3a822f5d249752?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Dec 11 |
+| **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[IT Support Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/691e33f709cc522e877376d9?utm_campaign=1058&utm_source=git)** | Greater Chicago Area | On Site | Dec 11 |
+| **[Baird](http://www.rwbaird.com)** | **[Internship – Service Desk (Milwaukee, WI Year-Round)](https://jobright.ai/jobs/info/6902b025ff462851fefe5bf8?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 11 |
+| **[Trinity Health](http://www.trinity-health.org)** | **[Contingent Licensed Pharmacy Intern](https://jobright.ai/jobs/info/693ad5a0b309e37800869552?utm_campaign=1058&utm_source=git)** | Saint Joseph Mercy Health System Hospital Campus - Pontiac, Mi | On Site | Dec 11 |
+| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Information Technology Intern - Corporate Services (Kansas City)](https://jobright.ai/jobs/info/68d8d863022fc803b48751ea?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Dec 11 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Services Internship, Price Modeling (Summer 2026)](https://jobright.ai/jobs/info/69228888c0cefa13343d82eb?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Dec 11 |
 | ↳ | **[Services Internship, Competitive Analysis & Benchmarking (Summer 2026)](https://jobright.ai/jobs/info/6922b08ec0cefa13343d8d79?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Dec 11 |
 | ↳ | **[Services Internship, CX Designer (Summer 2026)](https://jobright.ai/jobs/info/6922887c7795cd460c8360f5?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Dec 11 |
 | **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/6921352a00c9ee50eaeccdcf?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Dec 11 |
+| **[LP Building Solutions](http://www.lpcorp.com)** | **[Intern, IT Support](https://jobright.ai/jobs/info/690118814539ea1f2141c5ad?utm_campaign=1058&utm_source=git)** | Nashville, TN | Hybrid | Dec 11 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Service Operations Internship (Summer 2026)](https://jobright.ai/jobs/info/6922d6ee7795cd460c8376b4?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Dec 11 |
 | **[Sutter Health](http://www.sutterhealth.org)** | **[Intern, Clinical Pharmacist Year 1](https://jobright.ai/jobs/info/691e51cba49a885af9a279ac?utm_campaign=1058&utm_source=git)** | Roseville, CA | On Site | Dec 11 |
+| **[Filtrex Service Group](https://www.filtrexservicegroup.com/)** | **[Service Intern](https://jobright.ai/jobs/info/693ae0315f2c001987ece51e?utm_campaign=1058&utm_source=git)** | Tulsa, OK | Hybrid | Dec 11 |
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Operation Support Intern-Bilingual in Mandarin](https://jobright.ai/jobs/info/693aaa735f2c001987ecc0e1?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Dec 11 |
 | **[Oracle](https://www.oracle.com/)** | **[M&D Customer Solutions Analyst Intern - OVIP](https://jobright.ai/jobs/info/69212ecba49a885af9a43b8c?utm_campaign=1058&utm_source=git)** | United States | Remote | Dec 11 |
 | **[Southeast Toyota Finance](https://www.setf.com/)** | **[Customer Experience Support Associate Intern](https://jobright.ai/jobs/info/6901679ef8ce7a040fdbf6cf?utm_campaign=1058&utm_source=git)** | Greater St. Louis | On Site | Dec 11 |
+| **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/69212e94a49a885af9a43b34?utm_campaign=1058&utm_source=git)** | United States | Remote | Dec 11 |
 | **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern, Chartwell](https://jobright.ai/jobs/info/693a905c383bf9631983aaa4?utm_campaign=1058&utm_source=git)** | Oakdale, PA | On Site | Dec 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/693a905b383bf9631983aaa3?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Dec 11 |
 | **[Monroe County](https://www.monroecounty.gov)** | **[Information Services Intern](https://jobright.ai/jobs/info/693aa287b309e3780086771f?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | Dec 11 |
@@ -131,16 +138,13 @@ For a complete list, click the following sortable link below:
 | **[LWCC](https://www.lwcc.com/)** | **[Service Desk Intern](https://jobright.ai/jobs/info/6939dbabac80bb5492bc592e?utm_campaign=1058&utm_source=git)** | Louisiana Workers' Compensation Corporation, 2237 S. Acadian Thruway, Baton Rouge, Louisiana, United States of America | On Site | Dec 10 |
 | **[Treasure Island Resort & Casino](http://www.ticasino.com/)** | **[Island Passport Club Intern](https://jobright.ai/jobs/info/6939d70148a8ce22990dd50b?utm_campaign=1058&utm_source=git)** | Welch, MN 55089, USA | On Site | Dec 10 |
 | ↳ | **[Call Center Intern](https://jobright.ai/jobs/info/6939d7e4ac80bb5492bc5592?utm_campaign=1058&utm_source=git)** | Welch, MN 55089, USA | On Site | Dec 10 |
-| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Pharmacy Intern - Mail Center, Per Diem](https://jobright.ai/jobs/info/6939d3bc48a8ce22990dd389?utm_campaign=1058&utm_source=git)** | US-NH-Manchester | On Site | Dec 10 |
-| ↳ | **[Pharmacy Intern - Mail Center, Per Diem](https://jobright.ai/jobs/info/6939d363ac80bb5492bc5353?utm_campaign=1058&utm_source=git)** | Manchester, NH | On Site | Dec 10 |
+| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Pharmacy Intern - Mail Center, Per Diem](https://jobright.ai/jobs/info/6939d363ac80bb5492bc5353?utm_campaign=1058&utm_source=git)** | Manchester, NH | On Site | Dec 10 |
+| ↳ | **[Pharmacy Intern - Mail Center, Per Diem](https://jobright.ai/jobs/info/6939d3bc48a8ce22990dd389?utm_campaign=1058&utm_source=git)** | US-NH-Manchester | On Site | Dec 10 |
 | **[Piedmont](http://www.piedmont.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6939d6e5ac80bb5492bc54a2?utm_campaign=1058&utm_source=git)** | US-GA-Newnan | On Site | Dec 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6939e04b56b68f3dc4e735fe?utm_campaign=1058&utm_source=git)** | Onsite | On Site | Dec 10 |
-| **[Fibertek, Inc.](http://fibertek.com)** | **[IT Intern](https://jobright.ai/jobs/info/6939de1fac80bb5492bc5b87?utm_campaign=1058&utm_source=git)** | Herndon, VA - Herndon, VA 20171 US (Primary) | On Site | Dec 10 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Summer Intern Claims](https://jobright.ai/jobs/info/6939e435ac80bb5492bc5fb2?utm_campaign=1058&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 10 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Hospitality & Events Intern - Spring 2026](https://jobright.ai/jobs/info/6900e771d5259a1b3cfef6dd?utm_campaign=1058&utm_source=git)** | Kansas City, KS | On Site | Dec 10 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Stream Labs Customer Service Campus Bridge Intern](https://jobright.ai/jobs/info/6939ca1eac80bb5492bc4d7f?utm_campaign=1058&utm_source=git)** | Smyrna, GA | On Site | Dec 10 |
-| **[Brown University Health](https://www.brownhealth.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e5921eb99ec3563b0f6bbb?utm_campaign=1058&utm_source=git)** | Providence, RI | On Site | Dec 10 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Pharmacy Intern, Per Diem](https://jobright.ai/jobs/info/691cfcdbff7024498416cb54?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Dec 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6939a436ac80bb5492bc208a?utm_campaign=1058&utm_source=git)** | Cary, NC | On Site | Dec 10 |
 | **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - IT Service Management](https://jobright.ai/jobs/info/68e5a3df1852e62f00813223?utm_campaign=1058&utm_source=git)** | Hartford, CT | On Site | Dec 10 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Stream Labs Customer Service Campus Bridge Intern](https://jobright.ai/jobs/info/6939bc6b56b68f3dc4e71bf2?utm_campaign=1058&utm_source=git)** | 5000 Highlands Parkway, Suite 270, Smyrna, GA, 30082, US | On Site | Dec 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/693990c4ac80bb5492bc192a?utm_campaign=1058&utm_source=git)** | St. Petersburg, FL | On Site | Dec 10 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69398d7956b68f3dc4e6f319?utm_campaign=1058&utm_source=git)** | Rocky Mount, NC | On Site | Dec 10 |
 | ↳ | **[Duane Reade Pharmacy Intern](https://jobright.ai/jobs/info/69398d5156b68f3dc4e6f301?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Dec 10 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69398d2256b68f3dc4e6f2e7?utm_campaign=1058&utm_source=git)** | Henderson, NC | On Site | Dec 10 |
-| **[HCA Florida Westside Hospital](https://www.hcafloridahealthcare.com/locations/westside-hospital/)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/6939b8ddac80bb5492bc3799?utm_campaign=1058&utm_source=git)** | Plantation, FL | On Site | Dec 10 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Claims Intern - Employer Services](https://jobright.ai/jobs/info/68c993d2f9c6ff7aedf1b17b?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 10 |
-| **[Veolia | Water Tech](https://www.veoliawatertechnologies.com)** | **[Intern - Field Service Representative](https://jobright.ai/jobs/info/691cf6bbbcdbf3560c9ebd8a?utm_campaign=1058&utm_source=git)** | Trevose, PA | On Site | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
