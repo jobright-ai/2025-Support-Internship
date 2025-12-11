@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/691efb853f782d2f1afb7c6d?utm_campaign=1058&utm_source=git)** | United States | Remote | Dec 11 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Services Internship, Price Modeling (Summer 2026)](https://jobright.ai/jobs/info/69228888c0cefa13343d82eb?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Dec 11 |
+| ↳ | **[Services Internship, Competitive Analysis & Benchmarking (Summer 2026)](https://jobright.ai/jobs/info/6922b08ec0cefa13343d8d79?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Dec 11 |
+| ↳ | **[Services Internship, CX Designer (Summer 2026)](https://jobright.ai/jobs/info/6922887c7795cd460c8360f5?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Dec 11 |
+| **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/6921352a00c9ee50eaeccdcf?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Dec 11 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Service Operations Internship (Summer 2026)](https://jobright.ai/jobs/info/6922d6ee7795cd460c8376b4?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Dec 11 |
 | **[Sutter Health](http://www.sutterhealth.org)** | **[Intern, Clinical Pharmacist Year 1](https://jobright.ai/jobs/info/691e51cba49a885af9a279ac?utm_campaign=1058&utm_source=git)** | Roseville, CA | On Site | Dec 11 |
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Operation Support Intern-Bilingual in Mandarin](https://jobright.ai/jobs/info/693aaa735f2c001987ecc0e1?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Dec 11 |
 | **[Oracle](https://www.oracle.com/)** | **[M&D Customer Solutions Analyst Intern - OVIP](https://jobright.ai/jobs/info/69212ecba49a885af9a43b8c?utm_campaign=1058&utm_source=git)** | United States | Remote | Dec 11 |
 | **[Southeast Toyota Finance](https://www.setf.com/)** | **[Customer Experience Support Associate Intern](https://jobright.ai/jobs/info/6901679ef8ce7a040fdbf6cf?utm_campaign=1058&utm_source=git)** | Greater St. Louis | On Site | Dec 11 |
-| **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/69212e94a49a885af9a43b34?utm_campaign=1058&utm_source=git)** | United States | Remote | Dec 11 |
-| ↳ | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/692162053f782d2f1afd1b1b?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Dec 11 |
 | **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern, Chartwell](https://jobright.ai/jobs/info/693a905c383bf9631983aaa4?utm_campaign=1058&utm_source=git)** | Oakdale, PA | On Site | Dec 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/693a905b383bf9631983aaa3?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Dec 11 |
 | **[Monroe County](https://www.monroecounty.gov)** | **[Information Services Intern](https://jobright.ai/jobs/info/693aa287b309e3780086771f?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | Dec 11 |
@@ -135,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Chubb](https://www.chubb.com/us-en)** | **[Summer Intern Claims](https://jobright.ai/jobs/info/6939e435ac80bb5492bc5fb2?utm_campaign=1058&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 10 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Hospitality & Events Intern - Spring 2026](https://jobright.ai/jobs/info/6900e771d5259a1b3cfef6dd?utm_campaign=1058&utm_source=git)** | Kansas City, KS | On Site | Dec 10 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Stream Labs Customer Service Campus Bridge Intern](https://jobright.ai/jobs/info/6939ca1eac80bb5492bc4d7f?utm_campaign=1058&utm_source=git)** | Smyrna, GA | On Site | Dec 10 |
+| **[Brown University Health](https://www.brownhealth.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/68e5921eb99ec3563b0f6bbb?utm_campaign=1058&utm_source=git)** | Providence, RI | On Site | Dec 10 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Pharmacy Intern, Per Diem](https://jobright.ai/jobs/info/691cfcdbff7024498416cb54?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Dec 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6939a436ac80bb5492bc208a?utm_campaign=1058&utm_source=git)** | Cary, NC | On Site | Dec 10 |
 | **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - IT Service Management](https://jobright.ai/jobs/info/68e5a3df1852e62f00813223?utm_campaign=1058&utm_source=git)** | Hartford, CT | On Site | Dec 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HCA Florida Westside Hospital](https://www.hcafloridahealthcare.com/locations/westside-hospital/)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/6939b8ddac80bb5492bc3799?utm_campaign=1058&utm_source=git)** | Plantation, FL | On Site | Dec 10 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Claims Intern - Employer Services](https://jobright.ai/jobs/info/68c993d2f9c6ff7aedf1b17b?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 10 |
 | **[Veolia | Water Tech](https://www.veoliawatertechnologies.com)** | **[Intern - Field Service Representative](https://jobright.ai/jobs/info/691cf6bbbcdbf3560c9ebd8a?utm_campaign=1058&utm_source=git)** | Trevose, PA | On Site | Dec 10 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Pharmacy Intern, Per Diem](https://jobright.ai/jobs/info/691cdbdaff7024498416b35c?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Dec 10 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Technical Support Analyst Intern (Hybrid) (Summer 2026 Internship)](https://jobright.ai/jobs/info/691cf37b22a2cb4b9bd1f0f6?utm_campaign=1058&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 10 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Mortgage Post Closing Intern](https://jobright.ai/jobs/info/6939c442ac80bb5492bc4a37?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Dec 10 |
-| ↳ | **[Mortgage Operations Intern](https://jobright.ai/jobs/info/6939a79648a8ce22990da407?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Dec 10 |
-| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/693a6abe48a8ce22990e6deb?utm_campaign=1058&utm_source=git)** | Atlanta, GA | Hybrid | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
