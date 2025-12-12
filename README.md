@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[XVanTech LLC](https://xvantech.com)** | **[IT Support & Systems Intern (Paid Internship)](https://jobright.ai/jobs/info/693b58e05f2c001987ed619b?utm_campaign=1058&utm_source=git)** | Tempe, AZ | On Site | Dec 11 |
 | **[California Giant Berry Farms](https://www.calgiant.com/)** | **[IT Intern](https://jobright.ai/jobs/info/693b576fb309e37800871bf9?utm_campaign=1058&utm_source=git)** | Watsonville, CA | On Site | Dec 11 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/693b5180b309e3780087103c?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Dec 11 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/693b4f76b309e37800870b8e?utm_campaign=1058&utm_source=git)** | Franklin, WI | On Site | Dec 11 |
 | **[HCA Florida Woodmont Hospital](https://www.hcafloridahealthcare.com/)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/693b4356b309e3780086f907?utm_campaign=1058&utm_source=git)** | Tamarac, FL | On Site | Dec 11 |
 | **[TTX Company](http://www.ttx.com)** | **[Operations Support Intern](https://jobright.ai/jobs/info/693b41fdd4054a2bc0252d03?utm_campaign=1058&utm_source=git)** | 1450 West Church Street, Jacksonville, FL, 32204, US | Hybrid | Dec 11 |
 | **[Temple Health – Temple University Health System](https://www.templehealth.org/)** | **[Pharmacy Intern- Per Diem- Inpatient  (Temple Hospital)](https://jobright.ai/jobs/info/693b3e3ab309e3780086f4f3?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Dec 11 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/693b5b5eb309e37800871e4d?utm_campaign=1058&utm_source=git)** | Flossmoor, IL | On Site | Dec 11 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/693b5b11d4054a2bc02552ec?utm_campaign=1058&utm_source=git)** | Gardner, KS | On Site | Dec 11 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/693b5aa2d4054a2bc02552a1?utm_campaign=1058&utm_source=git)** | Queens, NY | On Site | Dec 11 |
 | **[CSS Farms, LLC](https://cssfarms.com/)** | **[Intern - IT Operations](https://jobright.ai/jobs/info/68de9e3a09bda65a4b62c304?utm_campaign=1058&utm_source=git)** | Kearney, NE | On Site | Dec 11 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Intern PRN](https://jobright.ai/jobs/info/693b3934d4054a2bc02525e4?utm_campaign=1058&utm_source=git)** | Trinity, FL | On Site | Dec 11 |
 | **[NuvoAir Medical](http://www.healthcareinnovation.se)** | **[Clinical Trial Device Returns Intern](https://jobright.ai/jobs/info/693b4cae5f2c001987ed4c5e?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Dec 11 |
@@ -115,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Information Technology Intern - Corporate Services (Kansas City)](https://jobright.ai/jobs/info/68d8d863022fc803b48751ea?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Dec 11 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Contingent Licensed Pharmacy Intern](https://jobright.ai/jobs/info/693af68bb309e3780086a92e?utm_campaign=1058&utm_source=git)** | Pontiac, MI | On Site | Dec 11 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Mortgage Operations Intern](https://jobright.ai/jobs/info/693afc0fd4054a2bc024e1e9?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Dec 11 |
-| ↳ | **[Mortgage Post Closing Intern](https://jobright.ai/jobs/info/693af583d4054a2bc024df31?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Dec 11 |
 | ↳ | **[Member Assistance Center Intern](https://jobright.ai/jobs/info/693b03195f2c001987ecf67c?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Dec 11 |
+| ↳ | **[Mortgage Post Closing Intern](https://jobright.ai/jobs/info/693af583d4054a2bc024df31?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Dec 11 |
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/6901246ad5259a1b3cff1e68?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Dec 11 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/693aed10b309e3780086a53f?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Dec 11 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/693aebf7b309e3780086a4da?utm_campaign=1058&utm_source=git)** | Boca Raton, FL | On Site | Dec 11 |
@@ -147,14 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Gala Circle Inc.](http://www.galacircle.com)** | **[Operation Support Intern-Bilingual in Mandarin](https://jobright.ai/jobs/info/693aaa735f2c001987ecc0e1?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Dec 11 |
 | **[Oracle](https://www.oracle.com/)** | **[M&D Customer Solutions Analyst Intern - OVIP](https://jobright.ai/jobs/info/69212ecba49a885af9a43b8c?utm_campaign=1058&utm_source=git)** | United States | Remote | Dec 11 |
 | **[Southeast Toyota Finance](https://www.setf.com/)** | **[Customer Experience Support Associate Intern](https://jobright.ai/jobs/info/6901679ef8ce7a040fdbf6cf?utm_campaign=1058&utm_source=git)** | Greater St. Louis | On Site | Dec 11 |
-| **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/692162053f782d2f1afd1b1b?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Dec 11 |
+| **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/691eeede09cc522e8773cca1?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Dec 11 |
 | **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern, Chartwell](https://jobright.ai/jobs/info/693a905c383bf9631983aaa4?utm_campaign=1058&utm_source=git)** | Oakdale, PA | On Site | Dec 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/693a905b383bf9631983aaa3?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Dec 11 |
 | **[Monroe County](https://www.monroecounty.gov)** | **[Information Services Intern](https://jobright.ai/jobs/info/693aa287b309e3780086771f?utm_campaign=1058&utm_source=git)** | Rochester, NY | On Site | Dec 11 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[DT Applications & Asset Management Intern](https://jobright.ai/jobs/info/693a65de48a8ce22990e6bbe?utm_campaign=1058&utm_source=git)** | Oshkosh, WI | On Site | Dec 10 |
 | **[Baselayer](https://www.baselayer.com)** | **[Solutions Intern](https://jobright.ai/jobs/info/693a4e2948a8ce22990e48dc?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Dec 10 |
-| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Pharmacy Intern - Mail Center, Per Diem](https://jobright.ai/jobs/info/693a676656b68f3dc4e7c6f2?utm_campaign=1058&utm_source=git)** | Manchester, NH | On Site | Dec 10 |
-| **[Management & Training Corporation](https://www.mtctrains.com)** | **[Student Intern, Maintenance](https://jobright.ai/jobs/info/693a452c48a8ce22990e41bc?utm_campaign=1058&utm_source=git)** | Charleston, WV | On Site | Dec 10 |
-| **[Renesas Electronics](https://www.renesas.com)** | **[Customer Operations Intern](https://jobright.ai/jobs/info/693a3e3556b68f3dc4e796ef?utm_campaign=1058&utm_source=git)** | Farmington Hills, MI | Hybrid | Dec 10 |
-| **[Zurich Insurance](http://www.zurich.com)** | **[Application Delivery Internship (Summer 2026)](https://jobright.ai/jobs/info/693a5712ac80bb5492bce9c5?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | Hybrid | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
