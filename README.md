@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Summit Pacific Medical Center](https://summitpacificmedicalcenter.org/summit-pacific-medical-center/)** | **[CNA Intern](https://jobright.ai/jobs/info/693dcc1750bbaf765050aa7b?utm_campaign=1058&utm_source=git)** | Elma, WA | On Site | Dec 13 |
+| **[Expert Institute](https://expertinstitute.com/)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/693dc8e350bbaf765050aa62?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Dec 13 |
+| **[Kalamazoo Public Library](https://www.kpl.gov)** | **[Tech Intern](https://jobright.ai/jobs/info/693dc44aaa598a08c3ee480b?utm_campaign=1058&utm_source=git)** | Kalamazoo, MI | On Site | Dec 13 |
 | **[SUPPLIFLEX](https://suppliflex.tech)** | **[Customer Discovery Intern](https://jobright.ai/jobs/info/693d9f6d50bbaf765050a41d?utm_campaign=1058&utm_source=git)** | United States | Remote | Dec 13 |
 | **[Lyft](https://www.lyft.com/)** | **[Technical Account Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/6921097200c9ee50eaecb004?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Dec 13 |
 | **[Carvana](http://www.carvana.com)** | **[Internship, Customer Experience](https://jobright.ai/jobs/info/69000f5fe0c73b3a111a1bb2?utm_campaign=1058&utm_source=git)** | Tempe, AZ | On Site | Dec 13 |
@@ -94,9 +97,9 @@ For a complete list, click the following sortable link below:
 | **[PHINIA](https://phinia.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/68e80e82c4895107182c155c?utm_campaign=1058&utm_source=git)** | Auburn Hills, MI | On Site | Dec 13 |
 | **[Ridgeview](https://www.ridgeviewcommunitynetwork.org)** | **[Summer Nurse Intern](https://jobright.ai/jobs/info/68e8fef99020b95add6a31d9?utm_campaign=1058&utm_source=git)** | Twin Cities Area | On Site | Dec 13 |
 | **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Pharmacy Intern - PRN - University Hospital](https://jobright.ai/jobs/info/68c86b9495f5211cd2ce4db9?utm_campaign=1058&utm_source=git)** | Memphis, TN | Hybrid | Dec 13 |
-| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/693bc49349a7695fbd02b09a?utm_campaign=1058&utm_source=git)** | Roseville, CA | Hybrid | Dec 13 |
 | **[KLA](https://www.kla.com)** | **[Service Support Intern](https://jobright.ai/jobs/info/69340b5af131d96e484691ea?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Dec 13 |
-| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/693d40cf50bbaf7650506266?utm_campaign=1058&utm_source=git)** | Truckee, CA | Hybrid | Dec 13 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/693dda66aa598a08c3ee6363?utm_campaign=1058&utm_source=git)** | Chico, CA | Hybrid | Dec 13 |
+| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/693d40cf50bbaf7650506266?utm_campaign=1058&utm_source=git)** | Truckee, CA | Hybrid | Dec 13 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Intern - Customer Experience](https://jobright.ai/jobs/info/6903c00cd64a22104aa92774?utm_campaign=1058&utm_source=git)** | Colmar, PA | On Site | Dec 13 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/693172494c474121999ef5d8?utm_campaign=1058&utm_source=git)** | El Dorado Hills, CA | Hybrid | Dec 13 |
 | **[Industrial Light & Magic](http://ilm.com/)** | **[IT Intern - Summer 2026 (Open to Canadian Citizens & PR only)](https://jobright.ai/jobs/info/693d69f1aa598a08c3ee2183?utm_campaign=1058&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 13 |
@@ -125,11 +128,10 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[START Service Technician (Spring 2026)](https://jobright.ai/jobs/info/693cb061aa598a08c3ed8e9f?utm_campaign=1058&utm_source=git)** | Doral, FL | On Site | Dec 12 |
 | **[Management & Training Corporation](https://www.mtctrains.com)** | **[Student Intern, Food Services](https://jobright.ai/jobs/info/693d10c1aa598a08c3edd61b?utm_campaign=1058&utm_source=git)** | New Orleans, LA, United States | On Site | Dec 12 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/693ca77e50bbaf76504feb47?utm_campaign=1058&utm_source=git)** | Downingtown, PA | On Site | Dec 12 |
-| **[Sanford Health](http://www.sanfordhealth.org)** | **[High School Intern, Clinical - Broadway Med/Surg](https://jobright.ai/jobs/info/693ca4f0aa598a08c3ed8890?utm_campaign=1058&utm_source=git)** | Fargo, ND | On Site | Dec 12 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/693ca3fe50bbaf76504fe956?utm_campaign=1058&utm_source=git)** | Orange, CA | On Site | Dec 12 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/693ca3fe50bbaf76504fe956?utm_campaign=1058&utm_source=git)** | Orange, CA | On Site | Dec 12 |
 | **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern - Guest Services](https://jobright.ai/jobs/info/693ca04f49a7695fbd036e8d?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 12 |
-| **[Sanford Health](http://www.sanfordhealth.org)** | **[High School Intern, Clinical - Cardiac Care](https://jobright.ai/jobs/info/693c9f8149a7695fbd036dea?utm_campaign=1058&utm_source=git)** | Fargo, ND | On Site | Dec 12 |
 | **[Agropur](http://www.agropur.com/en/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/693c9d8f49a7695fbd036c62?utm_campaign=1058&utm_source=git)** | Le Sueur County, MN | On Site | Dec 12 |
+| **[Sanford Health](http://www.sanfordhealth.org)** | **[High School Intern, Clinical - Neurosurgery](https://jobright.ai/jobs/info/693cb51749a7695fbd037974?utm_campaign=1058&utm_source=git)** | Fargo, ND | On Site | Dec 12 |
 | **[Highgate](https://www.highgate.com)** | **[Intern](https://jobright.ai/jobs/info/693c9613aa598a08c3ed75ff?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Dec 12 |
 | **[Banner Rehabilitation Hospital](https://www.banner-rehabhospitals.com/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/6927463891ceeb2e8a53db99?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Dec 12 |
 | **[Invesco US](http://www.invesco.com/us)** | **[Summer 2026 Americas Client Service Intern](https://jobright.ai/jobs/info/693c934b50bbaf76504fc904?utm_campaign=1058&utm_source=git)** | New York, New York | On Site | Dec 12 |
@@ -148,13 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Emergency Department](https://jobright.ai/jobs/info/693c817749a7695fbd034155?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Dec 12 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Queens Branch - Teller Section & Safe Deposit Box Section Intern](https://jobright.ai/jobs/info/693c7ee6aa598a08c3ed570f?utm_campaign=1058&utm_source=git)** | Queens, NY | On Site | Dec 12 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Pharmacy Intern (H)](https://jobright.ai/jobs/info/68c8d6ba95f5211cd2ce9b64?utm_campaign=1058&utm_source=git)** | St Charles, MO | On Site | Dec 12 |
-| **[WVU Medicine Berkeley and Jefferson Medical Centers](https://wvumedicine.org/east/)** | **[JCS MedEd Intern](https://jobright.ai/jobs/info/693ca947aa598a08c3ed8bc3?utm_campaign=1058&utm_source=git)** | Ranson, WV | On Site | Dec 12 |
+| **[WVU Medicine Berkeley and Jefferson Medical Centers](https://wvumedicine.org/east/)** | **[JCS MedEd Intern](https://jobright.ai/jobs/info/693c9ac550bbaf76504fe3a5?utm_campaign=1058&utm_source=git)** | Ranson, WV | On Site | Dec 12 |
 | **[Contemporary American Theater Festival](http://www.catf.org/)** | **[Box Office Intern - 2026](https://jobright.ai/jobs/info/693c7a6350bbaf76504fb642?utm_campaign=1058&utm_source=git)** | Shepherdstown, West Virginia, United States | On Site | Dec 12 |
 | **[Rush Street Interactive](https://rushstreetinteractive.com/)** | **[Player Support Operations Internship - Summer 2026](https://jobright.ai/jobs/info/693c766549a7695fbd033b25?utm_campaign=1058&utm_source=git)** | Collingswood, NJ | On Site | Dec 12 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Emergency Department](https://jobright.ai/jobs/info/693c7584aa598a08c3ed51e1?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Dec 12 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Sonography Student Intern](https://jobright.ai/jobs/info/689837b45574fd6bc0c75c38?utm_campaign=1058&utm_source=git)** | St Charles, MO | On Site | Dec 12 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Queens Branch - Teller Section & Safe Deposit Box Section Intern](https://jobright.ai/jobs/info/693c742a49a7695fbd0339d4?utm_campaign=1058&utm_source=git)** | US-NY-Flushing | On Site | Dec 12 |
 | **[ARCO National Construction Company](https://www.arconational.com/)** | **[Technology Intern](https://jobright.ai/jobs/info/693c736850bbaf76504fb248?utm_campaign=1058&utm_source=git)** | Richmond Heights, MO | On Site | Dec 12 |
-| **[SSM Health](https://www.ssmhealth.com/)** | **[Sonography Student Intern](https://jobright.ai/jobs/info/688da8bacdbd821a3663d843?utm_campaign=1058&utm_source=git)** | Lake St Louis, MO | On Site | Dec 12 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Emergency Department](https://jobright.ai/jobs/info/693c6fcf50bbaf76504fb072?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
