@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Mortgage Post Closing Intern](https://jobright.ai/jobs/info/693f2797aa598a08c3ef2eda?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Dec 14 |
+| **[Bang Zoom! Studios](http://bangzoomentertainment.com)** | **[Studio Support Intern (Winter/Spring2026)](https://jobright.ai/jobs/info/693f1872aa598a08c3ef1434?utm_campaign=1058&utm_source=git)** | Burbank, CA | On Site | Dec 14 |
+| **[Tanimura & Antle](http://taproduce.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/693f155caa598a08c3ef13bf?utm_campaign=1058&utm_source=git)** | Salinas, CA | On Site | Dec 14 |
 | **[Carvana](http://www.carvana.com)** | **[Intern, Customer Experience](https://jobright.ai/jobs/info/690013a80ab3b222462b19c3?utm_campaign=1058&utm_source=git)** | Tempe, AZ | On Site | Dec 14 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/693ec80550bbaf7650515751?utm_campaign=1058&utm_source=git)** | Parma, OH | On Site | Dec 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/693ec78450bbaf765051573f?utm_campaign=1058&utm_source=git)** | Carmel, IN | On Site | Dec 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/693e4fbdaa598a08c3eeaad7?utm_campaign=1058&utm_source=git)** | San Francisco, CA | Hybrid | Dec 12 |
 | **[Peak Health](https://peakhealth.org)** | **[Managed Care Pharmacy Intern](https://jobright.ai/jobs/info/693cf3dcaa598a08c3edc99f?utm_campaign=1058&utm_source=git)** | Core, WV | Hybrid | Dec 12 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/693cf22149a7695fbd03b158?utm_campaign=1058&utm_source=git)** | Montrose, CO | On Site | Dec 12 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/693cf05549a7695fbd03a860?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Dec 12 |
-| **[WVU Medicine](https://wvumedicine.org/)** | **[JCS MedEd Intern](https://jobright.ai/jobs/info/693cf01f50bbaf76505016d0?utm_campaign=1058&utm_source=git)** | Ranson, WV | On Site | Dec 12 |
-| **[Rolls-Royce Power Systems AG](http://www.rrpowersystems.com)** | **[IT Intern](https://jobright.ai/jobs/info/693ce5e350bbaf7650500b25?utm_campaign=1058&utm_source=git)** | Novi, MI | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
