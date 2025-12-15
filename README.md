@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABB](https://global.abb/group/en)** | **[Technical Support Engineer/Specialist Intern - Summer 2026](https://jobright.ai/jobs/info/69087f2e4a1b456627af601e?utm_campaign=1058&utm_source=git)** | New Berlin, WI | On Site | Dec 14 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Front Desk Agent - J1 Intern](https://jobright.ai/jobs/info/693f699449a7695fbd053252?utm_campaign=1058&utm_source=git)** | St. Louis | On Site | Dec 14 |
 | **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[Pharmacy Intern – St. Elizabeth Youngstown Hospital](https://jobright.ai/jobs/info/6937f630b95c305f206d45eb?utm_campaign=1058&utm_source=git)** | Youngstown, OH | On Site | Dec 14 |
 | **[Southeast Hospital](https://www.sehealth.org/locations/southeast-hospital)** | **[Radiology Intern I](https://jobright.ai/jobs/info/693f3f9750bbaf76505194e3?utm_campaign=1058&utm_source=git)** | Cape Girardeau, MO | On Site | Dec 14 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/693ec588aa598a08c3eef3c8?utm_campaign=1058&utm_source=git)** | Mentor, OH | On Site | Dec 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/693ec54f49a7695fbd04da2a?utm_campaign=1058&utm_source=git)** | Twinsburg, OH | On Site | Dec 14 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Outpatient Pharmacy Intern lll (P3)](https://jobright.ai/jobs/info/68e9661b0930fe0bc462558c?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 14 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Mortgage Operations Intern](https://jobright.ai/jobs/info/693ec4b9aa598a08c3eef3ac?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Dec 14 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/693ec3e3aa598a08c3eef392?utm_campaign=1058&utm_source=git)** | Ashtabula, OH | On Site | Dec 14 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Technical Support Representative Intern](https://jobright.ai/jobs/info/68e85ea5cc49a84b7e105872?utm_campaign=1058&utm_source=git)** | Westfield Center, OH | Hybrid | Dec 14 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Technical Writer Intern, NYC](https://jobright.ai/jobs/info/690566c863502c0aded7ad77?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Dec 14 |
@@ -103,6 +103,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Service Intern (Remote)](https://jobright.ai/jobs/info/693e777daa598a08c3eeb7db?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | Remote | Dec 14 |
 | **[Huntington Health](https://www.huntingtonhealth.org)** | **[Student Nurse Intern Per Diem Nights, DOU](https://jobright.ai/jobs/info/692fcf02fa28370be26ada38?utm_campaign=1058&utm_source=git)** | Pasadena, CA | On Site | Dec 14 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/693e5dad49a7695fbd0496fb?utm_campaign=1058&utm_source=git)** | Oregon City, OR | On Site | Dec 13 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/693f8d3f50bbaf765051bdad?utm_campaign=1058&utm_source=git)** | Truckee, CA | Hybrid | Dec 13 |
+| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/693f854daa598a08c3ef563b?utm_campaign=1058&utm_source=git)** | El Dorado Hills, CA | Hybrid | Dec 13 |
 | **[Expert Institute](https://expertinstitute.com/)** | **[Legal Client Advisor Intern](https://jobright.ai/jobs/info/693e18f450bbaf765050e511?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Dec 13 |
 | **[Summit Pacific Medical Center](https://summitpacificmedicalcenter.org/summit-pacific-medical-center/)** | **[CNA Intern](https://jobright.ai/jobs/info/693dcc1750bbaf765050aa7b?utm_campaign=1058&utm_source=git)** | Elma, WA | On Site | Dec 13 |
 | **[Expert Institute](https://expertinstitute.com/)** | **[Client Advisor Intern](https://jobright.ai/jobs/info/693dc8e350bbaf765050aa62?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Dec 13 |
@@ -124,7 +126,7 @@ For a complete list, click the following sortable link below:
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68af50af7bcb7608b3d2c69b?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | Dec 13 |
 | ↳ | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68af47f87bcb7608b3d2c21a?utm_campaign=1058&utm_source=git)** | Pflugerville, TX | On Site | Dec 13 |
 | ↳ | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/6811abd51f4024cee35f8fd0?utm_campaign=1058&utm_source=git)** | Great Falls, MT | On Site | Dec 13 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/693d7fbc49a7695fbd040e5d?utm_campaign=1058&utm_source=git)** | Springfield, OH | On Site | Dec 13 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/693d807149a7695fbd040e82?utm_campaign=1058&utm_source=git)** | Springfield, OH | On Site | Dec 13 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/693d7e5f49a7695fbd040ded?utm_campaign=1058&utm_source=git)** | Santa Maria, CA | On Site | Dec 13 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/693d7ddeaa598a08c3ee247d?utm_campaign=1058&utm_source=git)** | Davenport, IA | On Site | Dec 13 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/693d7cad50bbaf7650508579?utm_campaign=1058&utm_source=git)** | Sandy, UT | On Site | Dec 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CN](http://www.cn.ca)** | **[Intern, I&T Incident Response (SOC)- EN](https://jobright.ai/jobs/info/693e80a049a7695fbd04b93a?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 13 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Perioperative](https://jobright.ai/jobs/info/693d23a350bbaf7650503f0b?utm_campaign=1058&utm_source=git)** | St Louis, MO | Hybrid | Dec 13 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/693d237e50bbaf7650503f04?utm_campaign=1058&utm_source=git)** | The Dalles, OR | On Site | Dec 13 |
-| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #367](https://jobright.ai/jobs/info/693d5e3950bbaf7650506866?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Dec 12 |
-| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/693e4fbdaa598a08c3eeaad7?utm_campaign=1058&utm_source=git)** | San Francisco, CA | Hybrid | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
