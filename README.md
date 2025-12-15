@@ -99,11 +99,13 @@ For a complete list, click the following sortable link below:
 | **[The New Yorker, A Wyndham Hotel](http://newyorkerhotel.com)** | **[Intern](https://jobright.ai/jobs/info/693e89fc49a7695fbd04bc7f?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Dec 14 |
 | **[KanEquip, Inc.](http://kanequip.com)** | **[Service Internship II [WI]](https://jobright.ai/jobs/info/693e899250bbaf76505137f7?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Dec 14 |
 | **[DSG](http://www.dedicatedsolutionsgroup.com)** | **[Patient Experience Intern](https://jobright.ai/jobs/info/693e881a50bbaf76505137ba?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Dec 14 |
-| **[Outlier AI](http://outlier.ai/)** | **[IT Support Intern (Remote)](https://jobright.ai/jobs/info/693e80bb50bbaf76505135a9?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | Remote | Dec 14 |
-| ↳ | **[Customer Service Intern (Remote)](https://jobright.ai/jobs/info/693e777daa598a08c3eeb7db?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | Remote | Dec 14 |
+| **[Outlier AI](http://outlier.ai/)** | **[Customer Service Intern (Remote)](https://jobright.ai/jobs/info/693e777daa598a08c3eeb7db?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | Remote | Dec 14 |
 | **[Huntington Health](https://www.huntingtonhealth.org)** | **[Student Nurse Intern Per Diem Nights, DOU](https://jobright.ai/jobs/info/692fcf02fa28370be26ada38?utm_campaign=1058&utm_source=git)** | Pasadena, CA | On Site | Dec 14 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/693fb73649a7695fbd056722?utm_campaign=1058&utm_source=git)** | Sparks, NV | Hybrid | Dec 13 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/693e5dad49a7695fbd0496fb?utm_campaign=1058&utm_source=git)** | Oregon City, OR | On Site | Dec 13 |
-| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/693f8d3f50bbaf765051bdad?utm_campaign=1058&utm_source=git)** | Truckee, CA | Hybrid | Dec 13 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/693fa90c49a7695fbd05614f?utm_campaign=1058&utm_source=git)** | Roseville, CA | Hybrid | Dec 13 |
+| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/693fa90250bbaf765051e112?utm_campaign=1058&utm_source=git)** | Fairfield, CA | Hybrid | Dec 13 |
+| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/693f8d3f50bbaf765051bdad?utm_campaign=1058&utm_source=git)** | Truckee, CA | Hybrid | Dec 13 |
 | ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/693f854daa598a08c3ef563b?utm_campaign=1058&utm_source=git)** | El Dorado Hills, CA | Hybrid | Dec 13 |
 | **[Expert Institute](https://expertinstitute.com/)** | **[Legal Client Advisor Intern](https://jobright.ai/jobs/info/693e18f450bbaf765050e511?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Dec 13 |
 | **[Summit Pacific Medical Center](https://summitpacificmedicalcenter.org/summit-pacific-medical-center/)** | **[CNA Intern](https://jobright.ai/jobs/info/693dcc1750bbaf765050aa7b?utm_campaign=1058&utm_source=git)** | Elma, WA | On Site | Dec 13 |
@@ -126,13 +128,13 @@ For a complete list, click the following sortable link below:
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68af50af7bcb7608b3d2c69b?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | Dec 13 |
 | ↳ | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68af47f87bcb7608b3d2c21a?utm_campaign=1058&utm_source=git)** | Pflugerville, TX | On Site | Dec 13 |
 | ↳ | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/6811abd51f4024cee35f8fd0?utm_campaign=1058&utm_source=git)** | Great Falls, MT | On Site | Dec 13 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/693d807149a7695fbd040e82?utm_campaign=1058&utm_source=git)** | Springfield, OH | On Site | Dec 13 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/693d7e5f49a7695fbd040ded?utm_campaign=1058&utm_source=git)** | Santa Maria, CA | On Site | Dec 13 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/693d7e5f49a7695fbd040ded?utm_campaign=1058&utm_source=git)** | Santa Maria, CA | On Site | Dec 13 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/693d7ddeaa598a08c3ee247d?utm_campaign=1058&utm_source=git)** | Davenport, IA | On Site | Dec 13 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/693d7cad50bbaf7650508579?utm_campaign=1058&utm_source=git)** | Sandy, UT | On Site | Dec 13 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)- Newly Increased Pay Range](https://jobright.ai/jobs/info/693d7c62aa598a08c3ee2408?utm_campaign=1058&utm_source=git)** | Coralville, IA | On Site | Dec 13 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/693d7c0249a7695fbd040d68?utm_campaign=1058&utm_source=git)** | Cromwell, CT | On Site | Dec 13 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/693d7adf50bbaf765050851a?utm_campaign=1058&utm_source=git)** | Visalia, CA | On Site | Dec 13 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/693d7a4150bbaf76505084f5?utm_campaign=1058&utm_source=git)** | Springfield, OH | On Site | Dec 13 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/693db721aa598a08c3ee45ee?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Dec 13 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[IT Intern](https://jobright.ai/jobs/info/6921664fa49a885af9a4590f?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Dec 13 |
 | **[Keck Medicine of USC](https://www.keckmedicine.org)** | **[Pharmacist Intern - Pharmacy - Per Diem 8 Hour Rotating Shifts (Non-Exempt) (Non-Union)](https://jobright.ai/jobs/info/693d73ab49a7695fbd040c4b?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Dec 13 |
@@ -145,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[PHINIA](https://phinia.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/68e80e82c4895107182c155c?utm_campaign=1058&utm_source=git)** | Auburn Hills, MI | On Site | Dec 13 |
 | **[Ridgeview](https://www.ridgeviewcommunitynetwork.org)** | **[Summer Nurse Intern](https://jobright.ai/jobs/info/68e8fef99020b95add6a31d9?utm_campaign=1058&utm_source=git)** | Twin Cities Area | On Site | Dec 13 |
 | **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Pharmacy Intern - PRN - University Hospital](https://jobright.ai/jobs/info/68c86b9495f5211cd2ce4db9?utm_campaign=1058&utm_source=git)** | Memphis, TN | Hybrid | Dec 13 |
-| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/693e40c749a7695fbd0486ea?utm_campaign=1058&utm_source=git)** | Stockton, CA | Hybrid | Dec 13 |
 | **[KLA](https://www.kla.com)** | **[Service Support Intern](https://jobright.ai/jobs/info/69340b5af131d96e484691ea?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Dec 13 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/693e74dd49a7695fbd049dc4?utm_campaign=1058&utm_source=git)** | Elk Grove, CA | Hybrid | Dec 13 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Intern - Customer Experience](https://jobright.ai/jobs/info/6903c00cd64a22104aa92774?utm_campaign=1058&utm_source=git)** | Colmar, PA | On Site | Dec 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Outlier AI](http://outlier.ai/)** | **[Customer Service Intern (Remote)](https://jobright.ai/jobs/info/693d2d90aa598a08c3edf957?utm_campaign=1058&utm_source=git)** | Austin, TX | Remote | Dec 13 |
 | **[CN](http://www.cn.ca)** | **[Intern, I&T Incident Response (SOC)- EN](https://jobright.ai/jobs/info/693e80a049a7695fbd04b93a?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 13 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Perioperative](https://jobright.ai/jobs/info/693d23a350bbaf7650503f0b?utm_campaign=1058&utm_source=git)** | St Louis, MO | Hybrid | Dec 13 |
-| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/693d237e50bbaf7650503f04?utm_campaign=1058&utm_source=git)** | The Dalles, OR | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
