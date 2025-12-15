@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Mortgage Post Closing Intern](https://jobright.ai/jobs/info/693f2797aa598a08c3ef2eda?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Dec 14 |
+| **[Southeast Hospital](https://www.sehealth.org/locations/southeast-hospital)** | **[Radiology Intern I](https://jobright.ai/jobs/info/693f3f9750bbaf76505194e3?utm_campaign=1058&utm_source=git)** | Cape Girardeau, MO | On Site | Dec 14 |
 | **[Bang Zoom! Studios](http://bangzoomentertainment.com)** | **[Studio Support Intern (Winter/Spring2026)](https://jobright.ai/jobs/info/693f1872aa598a08c3ef1434?utm_campaign=1058&utm_source=git)** | Burbank, CA | On Site | Dec 14 |
 | **[Tanimura & Antle](http://taproduce.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/693f155caa598a08c3ef13bf?utm_campaign=1058&utm_source=git)** | Salinas, CA | On Site | Dec 14 |
 | **[Carvana](http://www.carvana.com)** | **[Intern, Customer Experience](https://jobright.ai/jobs/info/690013a80ab3b222462b19c3?utm_campaign=1058&utm_source=git)** | Tempe, AZ | On Site | Dec 14 |
