@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[R&R Solutions](http://www.rr-solutions.com)** | **[Warehouse Associate - Seasonal](https://jobright.ai/jobs/info/6941b785bdcf884a5add7488?utm_campaign=1058&utm_source=git)** | 20136 Missouri 59, Noel, MO, USA | On Site | Dec 16 |
+| **[Saputo Inc.](http://www.saputo.com/)** | **[IT Intern, Technical Support](https://jobright.ai/jobs/info/6941a604bdcf884a5add6429?utm_campaign=1058&utm_source=git)** | Saint-Laurent, QC | Hybrid | Dec 16 |
+| **[Nebraska Medicine](https://www.nebraskamed.com)** | **[Heart Monitoring Unit Internship](https://jobright.ai/jobs/info/6941a51014ee092a69ffc9b0?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Dec 16 |
 | **[Nan McKay and Associates (NMA)](http://nanmckay.com)** | **[Intern](https://jobright.ai/jobs/info/69419217bdcf884a5add4a67?utm_campaign=1058&utm_source=git)** | Chicago, IL, US | On Site | Dec 16 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/6925322b27bf2f41a2c3d1ac?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Dec 16 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Intern PRN](https://jobright.ai/jobs/info/6941881f50bbaf7650535e38?utm_campaign=1058&utm_source=git)** | Hudson, FL | On Site | Dec 16 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Field Service Representative (4-month) - Calgary, Alberta Canada](https://jobright.ai/jobs/info/6941878ebdcf884a5add46b8?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 16 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Intern PRN](https://jobright.ai/jobs/info/6941877114ee092a69ffa81f?utm_campaign=1058&utm_source=git)** | Inverness, FL | On Site | Dec 16 |
+| **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/6938d0eaaabec14a727db687?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Dec 16 |
 | **[Teledyne Judson Technologies](http://www.teledynejudson.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69418493bdcf884a5add452d?utm_campaign=1058&utm_source=git)** | US - North Falmouth, MA | On Site | Dec 16 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69417e6d14ee092a69ffa498?utm_campaign=1058&utm_source=git)** | Harlingen, TX | On Site | Dec 16 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69417d8dbdcf884a5add4252?utm_campaign=1058&utm_source=git)** | McAllen, TX | On Site | Dec 16 |
@@ -69,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[Kroger Health Pharmacist Graduate Intern](https://jobright.ai/jobs/info/69417bb250bbaf7650535995?utm_campaign=1058&utm_source=git)** | Peoria, IL | On Site | Dec 16 |
 | **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, IT Season 2026](https://jobright.ai/jobs/info/69417b8850bbaf7650535982?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Dec 16 |
 | **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[Pharmacy Intern - St. Mary's Hospital](https://jobright.ai/jobs/info/6938e5aeb95c305f206e28d1?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Dec 16 |
+| **[Walmart](http://www.walmart.com)** | **[Pharmacy Pre-Grad Intern - WM](https://jobright.ai/jobs/info/6941a54850bbaf765053803d?utm_campaign=1058&utm_source=git)** | Waterloo, IL | On Site | Dec 16 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694171dcbdcf884a5add3ec5?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Dec 16 |
 | **[CN](http://www.cn.ca)** | **[Intern, I&T Business Analyst (Service Desk)- EN](https://jobright.ai/jobs/info/6924e62bc0cefa13343e3a36?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 16 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Nurse Intern](https://jobright.ai/jobs/info/6937cd651c1c2161c13f9c7a?utm_campaign=1058&utm_source=git)** | Lansing, MI | On Site | Dec 16 |
@@ -122,7 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/6940af4faa598a08c3f04fbb?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Dec 15 |
 | **[Cambium Learning Group](http://cambiumlearning.com)** | **[IT Provisioning Intern](https://jobright.ai/jobs/info/6940ae5349a7695fbd0632c6?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | Hybrid | Dec 15 |
 | **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/6940aca4aa598a08c3f04e75?utm_campaign=1058&utm_source=git)** | Santa Barbara, CA | On Site | Dec 15 |
-| ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/6940aa9749a7695fbd063123?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Dec 15 |
+| **[IMT Insurance](http://imtins.com)** | **[Commercial Lines Intern](https://jobright.ai/jobs/info/6941b5a750bbaf7650538a73?utm_campaign=1058&utm_source=git)** | West Des Moines, IA | Hybrid | Dec 15 |
+| **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/6940aa9749a7695fbd063123?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Dec 15 |
 | **[Magna Legal Services](http://magnals.com)** | **[IT Associate Intern](https://jobright.ai/jobs/info/6940aa5350bbaf765052b1ea?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Dec 15 |
 | **[Ruoff Mortgage](http://ruoff.com)** | **[Desktop Support Analyst Intern](https://jobright.ai/jobs/info/6940aa3a49a7695fbd0630e1?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Dec 15 |
 | **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69387460a0dde7020e310b52?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Dec 15 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6940779349a7695fbd05f6a3?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | Dec 15 |
 | **[Mercy Health](http://www.mercy.com/)** | **[Pharmacy Intern – St. Elizabeth Youngstown Hospital](https://jobright.ai/jobs/info/6937ee52b95c305f206d3d7d?utm_campaign=1058&utm_source=git)** | Youngstown, OH | On Site | Dec 15 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6940755649a7695fbd05f55c?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Dec 15 |
-| **[Saint Luke's](https://www.saintlukeskc.org)** | **[Medical Intermediate Cardiac Care Nursing Intern, PRN](https://jobright.ai/jobs/info/694134f350bbaf765053308f?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Dec 15 |
-| **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Student Nurse Intern- Emergency Department- Per Diem](https://jobright.ai/jobs/info/6940a301aa598a08c3f049dc?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Dec 15 |
-| **[Corsair](http://www.corsair.com)** | **[Customer Care IT Intern](https://jobright.ai/jobs/info/69406de7aa598a08c3f00c91?utm_campaign=1058&utm_source=git)** | Milpitas, CA | On Site | Dec 15 |
-| **[CHI](https://www.catholichealthinitiatives.org/)** | **[Intern Respiratory Care](https://jobright.ai/jobs/info/693e68f4aa598a08c3eeb27c?utm_campaign=1058&utm_source=git)** | London, KY | On Site | Dec 15 |
-| **[Renesas Electronics](https://www.renesas.com)** | **[Customer Operations Intern](https://jobright.ai/jobs/info/69408a5c50bbaf7650529b24?utm_campaign=1058&utm_source=git)** | Farmington Hills, MI | Hybrid | Dec 15 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN (056)](https://jobright.ai/jobs/info/69408f8c49a7695fbd06205d?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
