@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Andersen Corporation](https://www.andersenwindows.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/6940dbe9aa598a08c3f08056?utm_campaign=1058&utm_source=git)** | Oak Park Heights, MN | On Site | Dec 15 |
+| **[Andersen Corporation](https://www.andersenwindows.com)** | **[IT Intern](https://jobright.ai/jobs/info/6940f2f2aa598a08c3f0a44d?utm_campaign=1058&utm_source=git)** | Oak Park Heights, MN | On Site | Dec 15 |
+| ↳ | **[Customer Experience Intern](https://jobright.ai/jobs/info/6940dbe9aa598a08c3f08056?utm_campaign=1058&utm_source=git)** | Oak Park Heights, MN | On Site | Dec 15 |
 | ↳ | **[RbA Customer Experience Intern](https://jobright.ai/jobs/info/6940daccaa598a08c3f08007?utm_campaign=1058&utm_source=git)** | Oak Park Heights, MN | On Site | Dec 15 |
 | **[EcoFlow](https://ecoflow.com/)** | **[Desktop Engineer  Internship](https://jobright.ai/jobs/info/6940d32caa598a08c3f078cd?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Dec 15 |
 | **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/68596a3df7e1d7c7ec214cfc?utm_campaign=1058&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Dec 15 |
@@ -110,7 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6940779349a7695fbd05f6a3?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | Dec 15 |
 | **[Mercy Health](http://www.mercy.com/)** | **[Pharmacy Intern – St. Elizabeth Youngstown Hospital](https://jobright.ai/jobs/info/6937ee52b95c305f206d3d7d?utm_campaign=1058&utm_source=git)** | Youngstown, OH | On Site | Dec 15 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6940755649a7695fbd05f55c?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Dec 15 |
-| **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Student Nurse Intern- Emergency Department- Per Diem](https://jobright.ai/jobs/info/69409a6450bbaf765052a883?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Dec 15 |
+| **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Student Nurse Intern- Emergency Department- Per Diem](https://jobright.ai/jobs/info/6940a301aa598a08c3f049dc?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Dec 15 |
 | **[Corsair](http://www.corsair.com)** | **[Customer Care IT Intern](https://jobright.ai/jobs/info/69406de7aa598a08c3f00c91?utm_campaign=1058&utm_source=git)** | Milpitas, CA | On Site | Dec 15 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Customer Operations Intern](https://jobright.ai/jobs/info/69408a5c50bbaf7650529b24?utm_campaign=1058&utm_source=git)** | Farmington Hills, MI | Hybrid | Dec 15 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN (056)](https://jobright.ai/jobs/info/69408f8c49a7695fbd06205d?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Dec 15 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PRN Student Intern House Rotation](https://jobright.ai/jobs/info/692f9102ef4b48533d146d65?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Dec 15 |
 | **[Indiana University Health](http://iuhealth.org)** | **[Pharmacy Technician Intern - Student](https://jobright.ai/jobs/info/6940670d50bbaf7650526ac4?utm_campaign=1058&utm_source=git)** | Indiana, United States | Hybrid | Dec 15 |
 | **[Lutheran Health Network](http://www.lutheranhealth.net)** | **[Student Intern Cardiac Tele 5B PRN](https://jobright.ai/jobs/info/69168c826f36db06ef057b40?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Dec 15 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Student Intern, Patient Care Associate](https://jobright.ai/jobs/info/6940b73e50bbaf765052b84e?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | Dec 15 |
-| **[Lutheran Health Network](http://www.lutheranhealth.net)** | **[Student Intern Cardiac Tele 5A Nurse](https://jobright.ai/jobs/info/68d087d1fb49c96ca6eaf351?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Dec 15 |
+| ↳ | **[Student Intern Cardiac Tele 5A Nurse](https://jobright.ai/jobs/info/68d087d1fb49c96ca6eaf351?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Dec 15 |
 | **[Stormont Vail Health](http://www.stormontvail.org)** | **[Pharmacy Student Intern 1 (P1 & P2) - SV Retail Pharmacy - PRN](https://jobright.ai/jobs/info/6934f798a0dde7020e2f6d2d?utm_campaign=1058&utm_source=git)** | Topeka, KS | On Site | Dec 15 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Pharmacy Intern, Per Diem](https://jobright.ai/jobs/info/6938c84cb95c305f206dfcde?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Dec 15 |
-| ↳ | **[Pharmacy Intern YR3](https://jobright.ai/jobs/info/6938787caabec14a727d5ff7?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Dec 15 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Pharmacy Intern YR3](https://jobright.ai/jobs/info/6938787caabec14a727d5ff7?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Dec 15 |
+| ↳ | **[Pharmacy Intern, Per Diem](https://jobright.ai/jobs/info/6938c84cb95c305f206dfcde?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
