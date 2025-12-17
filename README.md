@@ -57,14 +57,29 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/6943215050bbaf765054f999?utm_campaign=1058&utm_source=git)** | San Jose, CA | Hybrid | Dec 17 |
+| **[Harris Health](http://www.harrishealth.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69431df3dd382f5f566910b6?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Dec 17 |
+| **[Vibra Healthcare](http://vibrahealthcare.com)** | **[Pharmacy Intern Part Time](https://jobright.ai/jobs/info/694313f794730b739876179f?utm_campaign=1058&utm_source=git)** | Fargo, ND | On Site | Dec 17 |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - Shelby County](https://jobright.ai/jobs/info/69430c54dd382f5f566901fe?utm_campaign=1058&utm_source=git)** | Center, TX | Hybrid | Dec 17 |
+| **[Phelps Health](https://phelpshealth.org/)** | **[Student Nurse Intern - Emergency Department / IPT](https://jobright.ai/jobs/info/69430bc1dd382f5f566901a7?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Dec 17 |
+| **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/69430b3250bbaf765054e4ab?utm_campaign=1058&utm_source=git)** | Saint-Laurent, Canada | Hybrid | Dec 17 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT24](https://jobright.ai/jobs/info/694304cc50bbaf765054e167?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Dec 17 |
 | **[Phelps Health](https://phelpshealth.org/)** | **[Student Nurse Intern / 0.1 IPT](https://jobright.ai/jobs/info/6943049850bbaf765054e0fb?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Dec 17 |
 | **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/694068ff50bbaf7650526c58?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Dec 17 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT 16](https://jobright.ai/jobs/info/6942fd8394730b73987605de?utm_campaign=1058&utm_source=git)** | Riverside, CA | On Site | Dec 17 |
 | ↳ | **[Intern Pharmacist PT16](https://jobright.ai/jobs/info/6942fd0794730b7398760526?utm_campaign=1058&utm_source=git)** | Murrieta, CA | On Site | Dec 17 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Tech Support Intern (Hybrid)](https://jobright.ai/jobs/info/6942fb75dd382f5f5668f245?utm_campaign=1058&utm_source=git)** | Clearwater, Florida | Hybrid | Dec 17 |
+| **[Genesis Orthopedics & Sports Medicine](https://genesisortho.com)** | **[Gap Year Medical Assistant Intern](https://jobright.ai/jobs/info/69431a52dd382f5f56690d7c?utm_campaign=1058&utm_source=git)** | Aurora, IL | On Site | Dec 17 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/694319d194730b7398761bc0?utm_campaign=1058&utm_source=git)** | Redfield, SD | On Site | Dec 17 |
+| ↳ | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/694324b2dd382f5f5669180f?utm_campaign=1058&utm_source=git)** | Webster, SD | On Site | Dec 17 |
+| **[Providence](http://www.providence.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69431812dd382f5f56690b3f?utm_campaign=1058&utm_source=git)** | Burbank, CA, United States | On Site | Dec 17 |
+| **[KnowBe4](http://www.KnowBe4.com)** | **[Tech Support Intern (Hybrid)](https://jobright.ai/jobs/info/69431a9694730b7398761c75?utm_campaign=1058&utm_source=git)** | Clearwater, FL | Hybrid | Dec 17 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT24](https://jobright.ai/jobs/info/6942f6d994730b739875fbc1?utm_campaign=1058&utm_source=git)** | Baldwin Park, CA | On Site | Dec 17 |
+| **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Event Operations & Guest Experience](https://jobright.ai/jobs/info/69431c18dd382f5f56690f01?utm_campaign=1058&utm_source=git)** | US-WI-Milwaukee | On Site | Dec 17 |
+| **[Legacy Health](http://www.legacyhealth.org/)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69431755dd382f5f56690aa3?utm_campaign=1058&utm_source=git)** | Silverton Medical Ctr campus | On Site | Dec 17 |
+| ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/69430c4550bbaf765054e52a?utm_campaign=1058&utm_source=git)** | SILVERTON | On Site | Dec 17 |
 | **[Phelps Health](https://phelpshealth.org/)** | **[Student Nurse Intern - Emergency Department / IPT](https://jobright.ai/jobs/info/6942eebddd382f5f5668e258?utm_campaign=1058&utm_source=git)** | Phelps Health Hospital | On Site | Dec 17 |
+| **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - IT Operations Intern](https://jobright.ai/jobs/info/69430a0f50bbaf765054e3ff?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Dec 17 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Stream Labs Customer Service Campus Bridge Intern](https://jobright.ai/jobs/info/6943046b94730b7398760c4e?utm_campaign=1058&utm_source=git)** | Smyrna, GA | On Site | Dec 17 |
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Data Center Services), Ref# 10379](https://jobright.ai/jobs/info/6942e5a950bbaf765054b944?utm_campaign=1058&utm_source=git)** | Albany, NY | Hybrid | Dec 17 |
 | **[Veolia | Water Tech](https://www.veoliawatertechnologies.com)** | **[Intern - Field Service Representative](https://jobright.ai/jobs/info/691cf6bbbcdbf3560c9ebd8a?utm_campaign=1058&utm_source=git)** | Trevose, PA | On Site | Dec 17 |
@@ -93,7 +108,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6942d2eb94730b739875db2b?utm_campaign=1058&utm_source=git)** | Lubbock, TX | On Site | Dec 17 |
 | **[Keck Medicine of USC](https://www.keckmedicine.org)** | **[Pharmacist Intern - Pharmacy - Per Diem 8 Hour Rotating Shifts (Non-Exempt) (Non-Union)](https://jobright.ai/jobs/info/693d73ab49a7695fbd040c4b?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Dec 17 |
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Radiology Technologist Intern (Casual) I Saint Vincent](https://jobright.ai/jobs/info/6942d92050bbaf765054b362?utm_campaign=1058&utm_source=git)** | Erie, PA | On Site | Dec 17 |
-| ↳ | **[Pharmacy Intern- Inpatient- Allegheny General Hospital](https://jobright.ai/jobs/info/6942ddd2dd382f5f5668d34d?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Dec 17 |
+| ↳ | **[Pharmacy Intern- Inpatient- Allegheny General Hospital](https://jobright.ai/jobs/info/6942db3050bbaf765054b46e?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Dec 17 |
 | ↳ | **[Radiology Technologist Intern (Casual) I AGH](https://jobright.ai/jobs/info/6942d2a3dd382f5f5668ccb1?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Dec 17 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/6925e769d47de4798ecd294d?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Dec 17 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Client Support Analyst Intern](https://jobright.ai/jobs/info/68ed46d970b66e2345d3c217?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Dec 17 |
@@ -116,10 +131,10 @@ For a complete list, click the following sortable link below:
 | **[The Bancorp](http://www.thebancorp.com/)** | **[Client Account Specialist Intern (Hybrid)](https://jobright.ai/jobs/info/69262e16f0beb07232622dd2?utm_campaign=1058&utm_source=git)** | Greater Sioux Falls Area | Hybrid | Dec 17 |
 | **[Southeast Toyota Distributors, LLC](https://jmfamily.com/our-businesses/southeast-toyota-distributors/)** | **[Sales Field Support Intern](https://jobright.ai/jobs/info/691e078909cc522e87735037?utm_campaign=1058&utm_source=git)** | Miami-FTL Area | Hybrid | Dec 17 |
 | **[Kaleida Health](http://www.kaleidahealth.org)** | **[Intern IT](https://jobright.ai/jobs/info/6942831add382f5f56689550?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Dec 17 |
-| ↳ | **[Intern IT](https://jobright.ai/jobs/info/69428209dd382f5f566893d3?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Dec 17 |
+| ↳ | **[Intern IT](https://jobright.ai/jobs/info/694277f750bbaf76505462f2?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Dec 17 |
 | **[Signify Health](https://www.signifyhealth.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6942774650bbaf76505462e2?utm_campaign=1058&utm_source=git)** | La Jolla, CA | On Site | Dec 17 |
 | **[Nemacolin](http://www.nemacolin.com)** | **[Information Technology (IT) Internship - Summer 2026](https://jobright.ai/jobs/info/6942976850bbaf7650548415?utm_campaign=1058&utm_source=git)** | Farmington, PA | On Site | Dec 17 |
-| **[Kaleida Health](http://www.kaleidahealth.org)** | **[Intern IT](https://jobright.ai/jobs/info/69428b8050bbaf7650548192?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Dec 17 |
+| **[Kaleida Health](http://www.kaleidahealth.org)** | **[Intern IT](https://jobright.ai/jobs/info/694289b2dd382f5f5668a164?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Dec 17 |
 | **[Agropur](http://www.agropur.com/en/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6942e142dd382f5f5668d5f4?utm_campaign=1058&utm_source=git)** | Le Sueur County, MN | On Site | Dec 17 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT 16](https://jobright.ai/jobs/info/69424354bdcf884a5ade16fa?utm_campaign=1058&utm_source=git)** | California-Riverside-Riverside Medical Center/Medical Offices 1 | On Site | Dec 16 |
 | **[WVU Medicine](https://wvumedicine.org/)** | **[JCS MedEd Intern](https://jobright.ai/jobs/info/69423ecbbdcf884a5ade0b2e?utm_campaign=1058&utm_source=git)** | Ranson, WV | On Site | Dec 16 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UChicago Medicine](https://www.uchicagomedicine.org/)** | **[Specialty Nurse Intern, PICU, Registry](https://jobright.ai/jobs/info/69421e2dbdcf884a5adde44c?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Dec 16 |
 | **[Weidner Apartment Homes](https://www.weidner.com/)** | **[Intern Service](https://jobright.ai/jobs/info/694254d8bdcf884a5ade387b?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Dec 16 |
 | **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern - Consumer Service - Customer Experience & Operations](https://jobright.ai/jobs/info/69421de7bdcf884a5adde3f2?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Dec 16 |
-| **[Anton Paar USA](http://www.anton-paar.com/)** | **[Internship](https://jobright.ai/jobs/info/69423db150bbaf7650542127?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Dec 16 |
-| **[Centene Corporation](http://www.centene.com)** | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/69421c0b14ee092a690044d5?utm_campaign=1058&utm_source=git)** | South Carolina, United States | Remote | Dec 16 |
-| **[The IRONMAN Group](https://www.ironman.com/)** | **[VIP Services / Operations Internship](https://jobright.ai/jobs/info/69421a6114ee092a690041e9?utm_campaign=1058&utm_source=git)** | Louisville, CO | Hybrid | Dec 16 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694283cf50bbaf7650547e34?utm_campaign=1058&utm_source=git)** | Bothell, WA | On Site | Dec 16 |
-| **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern - UPMC Harrisburg](https://jobright.ai/jobs/info/69421a4414ee092a690041c8?utm_campaign=1058&utm_source=git)** | Harrisburg, PA | On Site | Dec 16 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/694219ba14ee092a690040b2?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Dec 16 |
-| **[Rush Street Interactive](https://rushstreetinteractive.com/)** | **[Player Support Operations Internship - Summer 2026](https://jobright.ai/jobs/info/693c8344aa598a08c3ed5a92?utm_campaign=1058&utm_source=git)** | Collingswood, NJ | Remote | Dec 16 |
-| **[Centene Corporation](http://www.centene.com)** | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/6942367850bbaf7650541bd1?utm_campaign=1058&utm_source=git)** | Fremont County, WY | Remote | Dec 16 |
-| **[Nokia](http://www.nokia.com)** | **[Software Support Co-op/Intern](https://jobright.ai/jobs/info/69424bda14ee092a69009635?utm_campaign=1058&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Dec 16 |
-| **[Centene Corporation](http://www.centene.com)** | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/69423ef450bbaf7650542233?utm_campaign=1058&utm_source=git)** | Florida, United States | Remote | Dec 16 |
-| ↳ | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/694241dd14ee092a690071f3?utm_campaign=1058&utm_source=git)** | Kansas, United States | Remote | Dec 16 |
-| ↳ | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/6942408950bbaf7650542392?utm_campaign=1058&utm_source=git)** | Virginia, United States | Remote | Dec 16 |
-| ↳ | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/69423f25bdcf884a5ade0b66?utm_campaign=1058&utm_source=git)** | Alabama, United States | Remote | Dec 16 |
-| ↳ | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/69423f4414ee092a69006e19?utm_campaign=1058&utm_source=git)** | Maryland, United States | Remote | Dec 16 |
-| ↳ | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/694242d214ee092a690075da?utm_campaign=1058&utm_source=git)** | Washington, DC | Remote | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
