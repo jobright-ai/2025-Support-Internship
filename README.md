@@ -57,8 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT24](https://jobright.ai/jobs/info/694304cc50bbaf765054e167?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Dec 17 |
+| **[Phelps Health](https://phelpshealth.org/)** | **[Student Nurse Intern / 0.1 IPT](https://jobright.ai/jobs/info/6943049850bbaf765054e0fb?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Dec 17 |
+| **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/694068ff50bbaf7650526c58?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Dec 17 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT 16](https://jobright.ai/jobs/info/6942fd8394730b73987605de?utm_campaign=1058&utm_source=git)** | Riverside, CA | On Site | Dec 17 |
+| ↳ | **[Intern Pharmacist PT16](https://jobright.ai/jobs/info/6942fd0794730b7398760526?utm_campaign=1058&utm_source=git)** | Murrieta, CA | On Site | Dec 17 |
+| **[KnowBe4](http://www.KnowBe4.com)** | **[Tech Support Intern (Hybrid)](https://jobright.ai/jobs/info/6942fb75dd382f5f5668f245?utm_campaign=1058&utm_source=git)** | Clearwater, Florida | Hybrid | Dec 17 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT24](https://jobright.ai/jobs/info/6942f6d994730b739875fbc1?utm_campaign=1058&utm_source=git)** | Baldwin Park, CA | On Site | Dec 17 |
+| **[Phelps Health](https://phelpshealth.org/)** | **[Student Nurse Intern - Emergency Department / IPT](https://jobright.ai/jobs/info/6942eebddd382f5f5668e258?utm_campaign=1058&utm_source=git)** | Phelps Health Hospital | On Site | Dec 17 |
+| **[Chubb](https://www.chubb.com/us-en)** | **[Stream Labs Customer Service Campus Bridge Intern](https://jobright.ai/jobs/info/6943046b94730b7398760c4e?utm_campaign=1058&utm_source=git)** | Smyrna, GA | On Site | Dec 17 |
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Data Center Services), Ref# 10379](https://jobright.ai/jobs/info/6942e5a950bbaf765054b944?utm_campaign=1058&utm_source=git)** | Albany, NY | Hybrid | Dec 17 |
 | **[Veolia | Water Tech](https://www.veoliawatertechnologies.com)** | **[Intern - Field Service Representative](https://jobright.ai/jobs/info/691cf6bbbcdbf3560c9ebd8a?utm_campaign=1058&utm_source=git)** | Trevose, PA | On Site | Dec 17 |
+| **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (Data Center Services), Ref# 10379](https://jobright.ai/jobs/info/69430241dd382f5f5668fbac?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Dec 17 |
+| **[Lightshare Behavioral Wellness & Recovery (First Step)](https://lightsharewellness.org/)** | **[Intern/Resident](https://jobright.ai/jobs/info/6942f3e394730b739875f707?utm_campaign=1058&utm_source=git)** | Sarasota, FL, US | On Site | Dec 17 |
+| **[Phelps Health](https://phelpshealth.org/)** | **[Student Nurse Intern / 0.1 IPT](https://jobright.ai/jobs/info/6942fbe450bbaf765054d06a?utm_campaign=1058&utm_source=git)** | Phelps Health Hospital | On Site | Dec 17 |
+| **[Union Gospel Mission of Tarrant County](http://www.ugm-tc.org)** | **[Intern Welcome Center](https://jobright.ai/jobs/info/6942fdca94730b7398760641?utm_campaign=1058&utm_source=git)** | Mission, Fort Worth, TX, US | On Site | Dec 17 |
 | **[United Concordia Dental](https://unitedconcordia.com)** | **[Summer 2026 Customer Experience Undergraduate Intern](https://jobright.ai/jobs/info/6942d105dd382f5f5668cc16?utm_campaign=1058&utm_source=git)** | Erie-Meadville Area | On Site | Dec 17 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6942cf45dd382f5f5668ca82?utm_campaign=1058&utm_source=git)** | Bloomington, MN | On Site | Dec 17 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6942ce3bdd382f5f5668c9a4?utm_campaign=1058&utm_source=git)** | Atlantic City, NJ | On Site | Dec 17 |
@@ -85,8 +98,9 @@ For a complete list, click the following sortable link below:
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/6925e769d47de4798ecd294d?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Dec 17 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Client Support Analyst Intern](https://jobright.ai/jobs/info/68ed46d970b66e2345d3c217?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Dec 17 |
 | **[World Insurance Associates LLC](https://www.worldinsurance.com)** | **[Risk Management Client Service Intern, Surety/Bonds - Brewster, NY](https://jobright.ai/jobs/info/6908f5f3d046ab6061ccf99e?utm_campaign=1058&utm_source=git)** | Brewster, NY | On Site | Dec 17 |
-| **[Brown University Health](https://www.brownhealth.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6938f547b95c305f206e339d?utm_campaign=1058&utm_source=git)** | Providence, RI | On Site | Dec 17 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/692e67c9ef4b48533d13f9e5?utm_campaign=1058&utm_source=git)** | Providence, RI | On Site | Dec 17 |
+| **[Brown University Health](https://www.brownhealth.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/692e5ac5fa28370be26a3d99?utm_campaign=1058&utm_source=git)** | Providence, RI | On Site | Dec 17 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/692e56184c474121999d8873?utm_campaign=1058&utm_source=git)** | Providence, RI | On Site | Dec 17 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6938f547b95c305f206e339d?utm_campaign=1058&utm_source=git)** | Providence, RI | On Site | Dec 17 |
 | **[IDEMIA Public Security](https://na.idemia.com/)** | **[Document Specialist Internship - Summer 2026](https://jobright.ai/jobs/info/6942ce1a94730b739875d7d3?utm_campaign=1058&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Dec 17 |
 | **[World Insurance Associates LLC](https://www.worldinsurance.com)** | **[Risk Management Client Service Intern, Surety/Bonds - West Hartford, CT](https://jobright.ai/jobs/info/6908f8debcccf20de59d5777?utm_campaign=1058&utm_source=git)** | West Hartford, CT | On Site | Dec 17 |
 | ↳ | **[Risk Management Client Service Intern, Surety/Bonds - Iselin, NJ](https://jobright.ai/jobs/info/6908f276d046ab6061ccf6d8?utm_campaign=1058&utm_source=git)** | Iselin, NJ | On Site | Dec 17 |
@@ -94,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Freeman Hospital](https://www.newcastle-hospitals.nhs.uk/consultants/dr-abbas-khushnood/)** | **[Clerk/Typist](https://jobright.ai/jobs/info/6942a55fdd382f5f5668a97d?utm_campaign=1058&utm_source=git)** | Carthage, MO | Hybrid | Dec 17 |
 | **[World Insurance Associates LLC](https://www.worldinsurance.com)** | **[Risk Management Client Service Intern, Commercial Lines - Brewster, NY](https://jobright.ai/jobs/info/6908f548bcccf20de59d547f?utm_campaign=1058&utm_source=git)** | Brewster, NY | On Site | Dec 17 |
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Client Service Internship - Summer 2026 (Dallas, TX)](https://jobright.ai/jobs/info/68f356469a65fd34585865a6?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Dec 17 |
-| **[Nebraska Medicine](https://www.nebraskamed.com)** | **[Outpatient Pharmacy Intern - PRN/Casual](https://jobright.ai/jobs/info/68d4f5d324b1ee4c7b6629d8?utm_campaign=1058&utm_source=git)** | Omaha Metropolitan Area | On Site | Dec 17 |
 | **[H.I.G. Capital](https://hig.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/68ce2464b2a74e1837edfba9?utm_campaign=1058&utm_source=git)** | New York, United States | On Site | Dec 17 |
 | **[Blattner](https://www.blattnercompany.com)** | **[IT Intern Endpoint Management](https://jobright.ai/jobs/info/69266037f0beb072326246e1?utm_campaign=1058&utm_source=git)** | Avon, MN | On Site | Dec 17 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Health Intern (Unpaid)](https://jobright.ai/jobs/info/692601c0d47de4798ecd3705?utm_campaign=1058&utm_source=git)** | Elizabeth, NJ | On Site | Dec 17 |
@@ -103,10 +116,10 @@ For a complete list, click the following sortable link below:
 | **[The Bancorp](http://www.thebancorp.com/)** | **[Client Account Specialist Intern (Hybrid)](https://jobright.ai/jobs/info/69262e16f0beb07232622dd2?utm_campaign=1058&utm_source=git)** | Greater Sioux Falls Area | Hybrid | Dec 17 |
 | **[Southeast Toyota Distributors, LLC](https://jmfamily.com/our-businesses/southeast-toyota-distributors/)** | **[Sales Field Support Intern](https://jobright.ai/jobs/info/691e078909cc522e87735037?utm_campaign=1058&utm_source=git)** | Miami-FTL Area | Hybrid | Dec 17 |
 | **[Kaleida Health](http://www.kaleidahealth.org)** | **[Intern IT](https://jobright.ai/jobs/info/6942831add382f5f56689550?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Dec 17 |
-| ↳ | **[Intern IT](https://jobright.ai/jobs/info/694282e1dd382f5f56689509?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Dec 17 |
-| ↳ | **[Intern IT](https://jobright.ai/jobs/info/694277f750bbaf76505462f2?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Dec 17 |
+| ↳ | **[Intern IT](https://jobright.ai/jobs/info/69428209dd382f5f566893d3?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Dec 17 |
 | **[Signify Health](https://www.signifyhealth.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6942774650bbaf76505462e2?utm_campaign=1058&utm_source=git)** | La Jolla, CA | On Site | Dec 17 |
 | **[Nemacolin](http://www.nemacolin.com)** | **[Information Technology (IT) Internship - Summer 2026](https://jobright.ai/jobs/info/6942976850bbaf7650548415?utm_campaign=1058&utm_source=git)** | Farmington, PA | On Site | Dec 17 |
+| **[Kaleida Health](http://www.kaleidahealth.org)** | **[Intern IT](https://jobright.ai/jobs/info/69428b8050bbaf7650548192?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Dec 17 |
 | **[Agropur](http://www.agropur.com/en/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6942e142dd382f5f5668d5f4?utm_campaign=1058&utm_source=git)** | Le Sueur County, MN | On Site | Dec 17 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT 16](https://jobright.ai/jobs/info/69424354bdcf884a5ade16fa?utm_campaign=1058&utm_source=git)** | California-Riverside-Riverside Medical Center/Medical Offices 1 | On Site | Dec 16 |
 | **[WVU Medicine](https://wvumedicine.org/)** | **[JCS MedEd Intern](https://jobright.ai/jobs/info/69423ecbbdcf884a5ade0b2e?utm_campaign=1058&utm_source=git)** | Ranson, WV | On Site | Dec 16 |
@@ -134,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[The IRONMAN Group](https://www.ironman.com/)** | **[VIP Services / Operations Internship](https://jobright.ai/jobs/info/69421a6114ee092a690041e9?utm_campaign=1058&utm_source=git)** | Louisville, CO | Hybrid | Dec 16 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694283cf50bbaf7650547e34?utm_campaign=1058&utm_source=git)** | Bothell, WA | On Site | Dec 16 |
 | **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern - UPMC Harrisburg](https://jobright.ai/jobs/info/69421a4414ee092a690041c8?utm_campaign=1058&utm_source=git)** | Harrisburg, PA | On Site | Dec 16 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Logistics Support Intern](https://jobright.ai/jobs/info/69421a0b14ee092a6900415c?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Dec 16 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/694219ba14ee092a690040b2?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Dec 16 |
 | **[Rush Street Interactive](https://rushstreetinteractive.com/)** | **[Player Support Operations Internship - Summer 2026](https://jobright.ai/jobs/info/693c8344aa598a08c3ed5a92?utm_campaign=1058&utm_source=git)** | Collingswood, NJ | Remote | Dec 16 |
 | **[Centene Corporation](http://www.centene.com)** | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/6942367850bbaf7650541bd1?utm_campaign=1058&utm_source=git)** | Fremont County, WY | Remote | Dec 16 |
@@ -142,19 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Centene Corporation](http://www.centene.com)** | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/69423ef450bbaf7650542233?utm_campaign=1058&utm_source=git)** | Florida, United States | Remote | Dec 16 |
 | ↳ | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/694241dd14ee092a690071f3?utm_campaign=1058&utm_source=git)** | Kansas, United States | Remote | Dec 16 |
 | ↳ | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/6942408950bbaf7650542392?utm_campaign=1058&utm_source=git)** | Virginia, United States | Remote | Dec 16 |
-| ↳ | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/69423f4414ee092a69006e19?utm_campaign=1058&utm_source=git)** | Maryland, United States | Remote | Dec 16 |
-| ↳ | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/69423e7cbdcf884a5ade0afb?utm_campaign=1058&utm_source=git)** | Nebraska, United States | Remote | Dec 16 |
-| ↳ | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/694242d214ee092a690075da?utm_campaign=1058&utm_source=git)** | Washington, DC | Remote | Dec 16 |
 | ↳ | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/69423f25bdcf884a5ade0b66?utm_campaign=1058&utm_source=git)** | Alabama, United States | Remote | Dec 16 |
-| ↳ | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/69423701bdcf884a5ade055f?utm_campaign=1058&utm_source=git)** | Massachusetts, United States | Remote | Dec 16 |
-| ↳ | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/69423ac914ee092a69006a4d?utm_campaign=1058&utm_source=git)** | Pennsylvania, United States | Remote | Dec 16 |
-| ↳ | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/6942413e14ee092a69006fd4?utm_campaign=1058&utm_source=git)** | Michigan, United States | Remote | Dec 16 |
-| ↳ | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/69424005bdcf884a5ade0bf9?utm_campaign=1058&utm_source=git)** | New York, United States | Remote | Dec 16 |
-| ↳ | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/6942460a50bbaf7650543228?utm_campaign=1058&utm_source=git)** | Connecticut, United States | Remote | Dec 16 |
-| ↳ | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/69423c1550bbaf7650541fab?utm_campaign=1058&utm_source=git)** | Nashville Metro | Remote | Dec 16 |
-| ↳ | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/69423cc514ee092a69006c30?utm_campaign=1058&utm_source=git)** | Alaska, United States | Remote | Dec 16 |
-| ↳ | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/6942423f14ee092a690073c6?utm_campaign=1058&utm_source=git)** | Missouri, United States | Remote | Dec 16 |
-| ↳ | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/69423a3f14ee092a690069a8?utm_campaign=1058&utm_source=git)** | New Jersey, United States | Remote | Dec 16 |
-| ↳ | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/694236ac50bbaf7650541bf6?utm_campaign=1058&utm_source=git)** | Ohio, United States | Remote | Dec 16 |
-| ↳ | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/694235aebdcf884a5ade04b0?utm_campaign=1058&utm_source=git)** | Colorado, United States | Remote | Dec 16 |
+| ↳ | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/69423f4414ee092a69006e19?utm_campaign=1058&utm_source=git)** | Maryland, United States | Remote | Dec 16 |
+| ↳ | **[Contact Center Operations Intern Undergraduate - 2026)](https://jobright.ai/jobs/info/694242d214ee092a690075da?utm_campaign=1058&utm_source=git)** | Washington, DC | Remote | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
