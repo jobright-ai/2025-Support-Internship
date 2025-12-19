@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Community Health Services](https://www.ichs.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6944ae76a7227b3ece665a4a?utm_campaign=1058&utm_source=git)** | Holly Park, Seattle, WA, US | On Site | Dec 18 |
+| **[The Christ Hospital Health Network](https://www.thechristhospital.com/)** | **[IT Intern - Main IT Infrastructure - PRN - Days](https://jobright.ai/jobs/info/6938ba85aabec14a727da6ad?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Dec 18 |
 | **[Quixote Studios](http://quixote.com)** | **[2026 NextGen Summer Internship - IT Helpdesk](https://jobright.ai/jobs/info/6944abaea7227b3ece6657ef?utm_campaign=1058&utm_source=git)** | Sylmar, CA, US | On Site | Dec 18 |
 | **[Suburban Hospital](http://www.suburbanhospital.org)** | **[Patient Care Tech Intern](https://jobright.ai/jobs/info/6944ab1d50bbaf765056c2ce?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Dec 18 |
 | **[Quixote Studios](http://quixote.com)** | **[2026 NextGen Summer Internship - IT Helpdesk](https://jobright.ai/jobs/info/6944aa66a7227b3ece6656e6?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Dec 18 |
@@ -94,8 +96,9 @@ For a complete list, click the following sortable link below:
 | **[Franke Group](https://www.franke.com/in/en/home.html)** | **[Customer Service Intern - Franke FoodService](https://jobright.ai/jobs/info/692fa28c4c474121999e1428?utm_campaign=1058&utm_source=git)** | Smyrna, TN | On Site | Dec 18 |
 | **[COOP](http://coopcareers.org)** | **[Entry-Level Tech Fellowship for Recent Grads](https://jobright.ai/jobs/info/694454cbdd382f5f566a6faf?utm_campaign=1058&utm_source=git)** | LA Metro Area | Hybrid | Dec 18 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - IT Procurement Intern](https://jobright.ai/jobs/info/692f49faef4b48533d143f3f?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Dec 18 |
-| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern II PRN](https://jobright.ai/jobs/info/69444fa050bbaf7650564df9?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Dec 18 |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern II PRN](https://jobright.ai/jobs/info/69444e5a50bbaf7650564cf9?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Dec 18 |
 | **[COOP](http://coopcareers.org)** | **[Entry-Level Tech Fellowship for Recent Grads](https://jobright.ai/jobs/info/69444d96dd382f5f566a69b4?utm_campaign=1058&utm_source=git)** | Miami, FL | Hybrid | Dec 18 |
+| **[Rocket](https://www.rocketcompanies.com/)** | **[Business Support Intern - Winter 2026](https://jobright.ai/jobs/info/6944b0ad50bbaf765056c870?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Dec 18 |
 | **[Phelps Health](https://phelpshealth.org/)** | **[Student Nurse Intern / 0.1 IPT](https://jobright.ai/jobs/info/69444b8750bbaf765056497c?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Dec 18 |
 | **[Community Health Systems](http://www.chs.net)** | **[PRN Student Intern House Rotation - Dec 26' Grads](https://jobright.ai/jobs/info/694467ed50bbaf765056653e?utm_campaign=1058&utm_source=git)** | 2520 EAST DUPONT ROAD, FORT WAYNE, IN, 46825, US | On Site | Dec 18 |
 | **[Dollar Bank](http://dollar.bank)** | **[Intern, Desktop Support](https://jobright.ai/jobs/info/6944629edd382f5f566a7c6d?utm_campaign=1058&utm_source=git)** | 2700 Liberty Avenue | Hybrid | Dec 18 |
@@ -110,11 +113,11 @@ For a complete list, click the following sortable link below:
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Helpdesk Support Intern](https://jobright.ai/jobs/info/69282c1af0beb0723262f9bf?utm_campaign=1058&utm_source=git)** | South Sioux City, NE | On Site | Dec 18 |
 | **[Cell Signaling Technology (CST)](https://www.cellsignal.com)** | **[IT Internship](https://jobright.ai/jobs/info/69442ac4dd382f5f566a3c26?utm_campaign=1058&utm_source=git)** | Greater Boston | On Site | Dec 18 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6944298994730b7398774cc3?utm_campaign=1058&utm_source=git)** | Columbus, IN | On Site | Dec 18 |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern II PRN](https://jobright.ai/jobs/info/694425c450bbaf7650561e3a?utm_campaign=1058&utm_source=git)** | Mercy Hospital Springfield | On Site | Dec 18 |
 | **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[College Intern - PIO](https://jobright.ai/jobs/info/6944247e94730b73987749be?utm_campaign=1058&utm_source=git)** | Chillicothe, OH | On Site | Dec 18 |
 | **[The National WWII Museum](http://www.nationalww2museum.org/)** | **[IT Intern](https://jobright.ai/jobs/info/69442180dd382f5f566a3728?utm_campaign=1058&utm_source=git)** | New Orleans, LA | On Site | Dec 18 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/6944201550bbaf7650561af9?utm_campaign=1058&utm_source=git)** | Salina, KS | On Site | Dec 18 |
-| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern II PRN](https://jobright.ai/jobs/info/69441ec494730b7398774684?utm_campaign=1058&utm_source=git)** | Mercy Hospital Springfield | On Site | Dec 18 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69441e8350bbaf7650561a1c?utm_campaign=1058&utm_source=git)** | Cheboygan, MI | On Site | Dec 18 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69441e8350bbaf7650561a1c?utm_campaign=1058&utm_source=git)** | Cheboygan, MI | On Site | Dec 18 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - CA Sacramento](https://jobright.ai/jobs/info/690a8087d046ab6061cdd7a2?utm_campaign=1058&utm_source=git)** | Sacramento, CA | Hybrid | Dec 18 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/694418cbdd382f5f566a314b?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Dec 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694417f994730b7398774199?utm_campaign=1058&utm_source=git)** | Marquette, MI | On Site | Dec 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed9dde0db92422580c170?utm_campaign=1058&utm_source=git)** | Tempe, AZ | On Site | Dec 18 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed2dd46e5b153e5a606bc?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Dec 18 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed28c46e5b153e5a605fe?utm_campaign=1058&utm_source=git)** | Coppell, TX | On Site | Dec 18 |
-| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3c7d078b81ad160fcf4?utm_campaign=1058&utm_source=git)** | Greenwood Village, CO | On Site | Dec 18 |
-| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed825d078b81ad1610010?utm_campaign=1058&utm_source=git)** | Cary, NC | On Site | Dec 18 |
-| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/691400eee344172248f75d21?utm_campaign=1058&utm_source=git)** | Bloomington, MN | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
