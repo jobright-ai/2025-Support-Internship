@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quixote Studios](http://quixote.com)** | **[2026 NextGen Summer Internship - IT Helpdesk](https://jobright.ai/jobs/info/6944abaea7227b3ece6657ef?utm_campaign=1058&utm_source=git)** | Sylmar, CA, US | On Site | Dec 18 |
+| **[Suburban Hospital](http://www.suburbanhospital.org)** | **[Patient Care Tech Intern](https://jobright.ai/jobs/info/6944ab1d50bbaf765056c2ce?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Dec 18 |
+| **[Quixote Studios](http://quixote.com)** | **[2026 NextGen Summer Internship - IT Helpdesk](https://jobright.ai/jobs/info/6944aa66a7227b3ece6656e6?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Dec 18 |
+| **[St. Vincent’s Health System](https://uabstvincents.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/6944a86c94730b739877ecd5?utm_campaign=1058&utm_source=git)** | US-AL-Birmingham | On Site | Dec 18 |
+| **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Customer Experience & Enablement - Summer 2026](https://jobright.ai/jobs/info/694499ac50bbaf765056a284?utm_campaign=1058&utm_source=git)** | Cary, NC | Hybrid | Dec 18 |
+| **[JFK International Air Terminal](https://www.jfkt4.nyc)** | **[Intern, Operations](https://jobright.ai/jobs/info/6944979150bbaf765056a0b1?utm_campaign=1058&utm_source=git)** | Jamaica, NY | On Site | Dec 18 |
+| **[BMO](http://www.bmo.com)** | **[Service Representative Intern, Summer 2026, 4 months](https://jobright.ai/jobs/info/69448ecf50bbaf7650569b67?utm_campaign=1058&utm_source=git)** | Mississauga, ON, CAN | On Site | Dec 18 |
 | **[ServiceSource](https://www.servicesource.org)** | **[IT Intern - UNPAID INTERNSHIP](https://jobright.ai/jobs/info/69448d3050bbaf7650569a08?utm_campaign=1058&utm_source=git)** | New Castle, IN | On Site | Dec 18 |
 | **[Phelps Health](https://phelpshealth.org/)** | **[Clinical Intern - TCF 0.1 IPT](https://jobright.ai/jobs/info/69448ac450bbaf7650569839?utm_campaign=1058&utm_source=git)** | Phelps Health Hospital | On Site | Dec 18 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69448a2150bbaf76505697b5?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Dec 18 |
 | **[Sweetwater](http://www.sweetwater.com/)** | **[IT Systems Internship](https://jobright.ai/jobs/info/694489dd50bbaf7650569787?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Dec 18 |
-| **[BMO](http://www.bmo.com)** | **[Service Representative Intern, Summer 2026, 4 months](https://jobright.ai/jobs/info/6944899f94730b739877c2f3?utm_campaign=1058&utm_source=git)** | Mississauga, ON, CAN | On Site | Dec 18 |
 | **[Quirch Foods](http://www.quirchfoods.com)** | **[Intern, Logistics](https://jobright.ai/jobs/info/6944894194730b739877c2a3?utm_campaign=1058&utm_source=git)** | Florida Remote | Remote | Dec 18 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6944891750bbaf76505696ff?utm_campaign=1058&utm_source=git)** | Cape Coral, FL | On Site | Dec 18 |
 | **[Renaissance Life & Health Insurance Company of America](https://renaissancebenefits.com/)** | **[Applications Intern](https://jobright.ai/jobs/info/69447f5650bbaf765056909f?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Dec 18 |
@@ -104,11 +110,11 @@ For a complete list, click the following sortable link below:
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Helpdesk Support Intern](https://jobright.ai/jobs/info/69282c1af0beb0723262f9bf?utm_campaign=1058&utm_source=git)** | South Sioux City, NE | On Site | Dec 18 |
 | **[Cell Signaling Technology (CST)](https://www.cellsignal.com)** | **[IT Internship](https://jobright.ai/jobs/info/69442ac4dd382f5f566a3c26?utm_campaign=1058&utm_source=git)** | Greater Boston | On Site | Dec 18 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6944298994730b7398774cc3?utm_campaign=1058&utm_source=git)** | Columbus, IN | On Site | Dec 18 |
-| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern II PRN](https://jobright.ai/jobs/info/694425c450bbaf7650561e3a?utm_campaign=1058&utm_source=git)** | Mercy Hospital Springfield | On Site | Dec 18 |
 | **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[College Intern - PIO](https://jobright.ai/jobs/info/6944247e94730b73987749be?utm_campaign=1058&utm_source=git)** | Chillicothe, OH | On Site | Dec 18 |
 | **[The National WWII Museum](http://www.nationalww2museum.org/)** | **[IT Intern](https://jobright.ai/jobs/info/69442180dd382f5f566a3728?utm_campaign=1058&utm_source=git)** | New Orleans, LA | On Site | Dec 18 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/6944201550bbaf7650561af9?utm_campaign=1058&utm_source=git)** | Salina, KS | On Site | Dec 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69441e8350bbaf7650561a1c?utm_campaign=1058&utm_source=git)** | Cheboygan, MI | On Site | Dec 18 |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern II PRN](https://jobright.ai/jobs/info/69441ec494730b7398774684?utm_campaign=1058&utm_source=git)** | Mercy Hospital Springfield | On Site | Dec 18 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69441e8350bbaf7650561a1c?utm_campaign=1058&utm_source=git)** | Cheboygan, MI | On Site | Dec 18 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - CA Sacramento](https://jobright.ai/jobs/info/690a8087d046ab6061cdd7a2?utm_campaign=1058&utm_source=git)** | Sacramento, CA | Hybrid | Dec 18 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/694418cbdd382f5f566a314b?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Dec 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694417f994730b7398774199?utm_campaign=1058&utm_source=git)** | Marquette, MI | On Site | Dec 18 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3c7d078b81ad160fcf4?utm_campaign=1058&utm_source=git)** | Greenwood Village, CO | On Site | Dec 18 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed825d078b81ad1610010?utm_campaign=1058&utm_source=git)** | Cary, NC | On Site | Dec 18 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/691400eee344172248f75d21?utm_campaign=1058&utm_source=git)** | Bloomington, MN | On Site | Dec 18 |
-| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3f4d078b81ad160fd46?utm_campaign=1058&utm_source=git)** | Carmel, IN | On Site | Dec 18 |
-| **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - IT Corporate Systems](https://jobright.ai/jobs/info/68ee884ed078b81ad160b4e3?utm_campaign=1058&utm_source=git)** | Hartford, CT | On Site | Dec 18 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed492d078b81ad160fe77?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Dec 18 |
-| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed4b8d078b81ad160febb?utm_campaign=1058&utm_source=git)** | Westborough, MA | On Site | Dec 18 |
-| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3a1d078b81ad160fcaa?utm_campaign=1058&utm_source=git)** | Dublin, OH | On Site | Dec 18 |
-| **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/6940b2ab49a7695fbd0634a9?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
