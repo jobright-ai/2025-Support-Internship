@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Customer Accounts Services Intern](https://jobright.ai/jobs/info/69285c3591ceeb2e8a545426?utm_campaign=1058&utm_source=git)** | Dayton Metropolitan Area | On Site | Dec 19 |
+| **[St. Johns River Water Management District](https://www.sjrwmd.com/)** | **[College Intern](https://jobright.ai/jobs/info/694531cd95165407353746fb?utm_campaign=1058&utm_source=git)** | Palatka, FL | Hybrid | Dec 19 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Patient Experience Intern](https://jobright.ai/jobs/info/69451cc6d1953b5d11be15d5?utm_campaign=1058&utm_source=git)** | Abilene, TX | On Site | Dec 19 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Emergency Department, Per Diem, 7A-7:30P](https://jobright.ai/jobs/info/69451b9795165407353731a0?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Dec 19 |
-| **[The University of Kansas Health System](https://www.kansashealthsystem.com)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/694519779516540735372e9d?utm_campaign=1058&utm_source=git)** | Liberty, MO | On Site | Dec 19 |
+| **[The University of Kansas Health System](https://www.kansashealthsystem.com)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/694515f963141d1884549c8e?utm_campaign=1058&utm_source=git)** | Liberty, MO | On Site | Dec 19 |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern II PRN](https://jobright.ai/jobs/info/69452dbcd1953b5d11be2940?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Dec 19 |
+| **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Perioperative](https://jobright.ai/jobs/info/6945259c9516540735374094?utm_campaign=1058&utm_source=git)** | St Louis, MO | Hybrid | Dec 18 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6945182863141d1884549fc9?utm_campaign=1058&utm_source=git)** | Lacey, WA | On Site | Dec 18 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad- International Pharmacy Intern](https://jobright.ai/jobs/info/6944dc8994730b739878150b?utm_campaign=1058&utm_source=git)** | South Jordan, UT | On Site | Dec 18 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6944d94f94730b739878141d?utm_campaign=1058&utm_source=git)** | Hartsville, SC | On Site | Dec 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6944163894730b739877406c?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Dec 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6944162494730b7398774060?utm_campaign=1058&utm_source=git)** | West Covina, CA | On Site | Dec 18 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694414b994730b7398773f71?utm_campaign=1058&utm_source=git)** | Mishawaka, IN | On Site | Dec 18 |
-| **[Onco360 Oncology Pharmacy](http://onco360.com)** | **[Part-Time Pharmacy Intern](https://jobright.ai/jobs/info/6944346edd382f5f566a413d?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Dec 18 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/6944145350bbaf765056132d?utm_campaign=1058&utm_source=git)** | Garden City, KS | On Site | Dec 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694413a594730b7398773eba?utm_campaign=1058&utm_source=git)** | Gaylord, MI | On Site | Dec 18 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6944137350bbaf76505612a8?utm_campaign=1058&utm_source=git)** | Escanaba, MI | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
