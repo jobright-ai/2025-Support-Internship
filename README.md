@@ -91,8 +91,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6946ad2263141d1884566d51?utm_campaign=1058&utm_source=git)** | Alpena, MI | On Site | Dec 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6946ad14d1953b5d11bfde23?utm_campaign=1058&utm_source=git)** | St Augustine, FL | On Site | Dec 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6946acfcd1953b5d11bfde12?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Dec 20 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6946acf0d1953b5d11bfde04?utm_campaign=1058&utm_source=git)** | Bradenton, FL | On Site | Dec 20 |
 | ↳ | **[Duane Reade Pharmacy Intern](https://jobright.ai/jobs/info/6946acf063141d1884566d3f?utm_campaign=1058&utm_source=git)** | Jersey City, NJ | On Site | Dec 20 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6946acf0d1953b5d11bfde04?utm_campaign=1058&utm_source=git)** | Bradenton, FL | On Site | Dec 20 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6946acb1d1953b5d11bfddcc?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Dec 20 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6946acacd1953b5d11bfddc7?utm_campaign=1058&utm_source=git)** | Charleston, SC | On Site | Dec 20 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6946aca1d1953b5d11bfddbc?utm_campaign=1058&utm_source=git)** | Glastonbury, CT | On Site | Dec 20 |
@@ -133,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Averill Hospitality](https://averillhospitality.com)** | **[Guest Services Intern](https://jobright.ai/jobs/info/6945fbf0d1953b5d11bf0bd1?utm_campaign=1058&utm_source=git)** | Whitefish, MT | On Site | Dec 19 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Rentals Leadership Internship](https://jobright.ai/jobs/info/6945fb9163141d188455995f?utm_campaign=1058&utm_source=git)** | Gurnee, IL | On Site | Dec 19 |
 | **[Architect of the Capitol](http://www.aoc.gov/)** | **[Summer Internship (Office Clerk)](https://jobright.ai/jobs/info/6945fa0d7d506e3808f13d3b?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Dec 19 |
-| **[Circle of Care for Families and Children of Passaic County, Inc.](https://www.circleofcarecmo.org)** | **[QAPI Department Bachelor Level Intern](https://jobright.ai/jobs/info/6945f9df63141d1884559562?utm_campaign=1058&utm_source=git)** | 3 Garret Mountain Plaza, Woodland Park, NJ, USA | On Site | Dec 19 |
 | **[Vanderbilt Mortgage and Finance, Inc](https://www.vmf.com)** | **[Document Services Internship](https://jobright.ai/jobs/info/6945f8e4d1953b5d11bf042e?utm_campaign=1058&utm_source=git)** | Maryville, TN | Hybrid | Dec 19 |
 | ↳ | **[Call Center Internship](https://jobright.ai/jobs/info/6945f82b63141d188455919a?utm_campaign=1058&utm_source=git)** | Maryville, TN | On Site | Dec 19 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician](https://jobright.ai/jobs/info/6945f8067d506e3808f13824?utm_campaign=1058&utm_source=git)** | Mesquite, TX | Hybrid | Dec 19 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6945cc02d1953b5d11beca58?utm_campaign=1058&utm_source=git)** | Albany, NY | On Site | Dec 19 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[IT Intern](https://jobright.ai/jobs/info/6945cbe7951654073537e893?utm_campaign=1058&utm_source=git)** | Watsonville, CA | On Site | Dec 19 |
 | **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6945cbd5d1953b5d11beca43?utm_campaign=1058&utm_source=git)** | Melville, NY | Hybrid | Dec 19 |
+| **[Renaissance Life & Health Insurance Company of America](https://renaissancebenefits.com/)** | **[IT Applications Intern](https://jobright.ai/jobs/info/6945c8ba951654073537e5cd?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | Remote | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
