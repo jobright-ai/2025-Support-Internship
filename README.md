@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Intern - P/C Claims (Summer 2026)](https://jobright.ai/jobs/info/69102494183be660d2677828?utm_campaign=1058&utm_source=git)** | West Bend, WI | On Site | Dec 21 |
+| **[Badger Meter](http://badgermeter.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/690ead0444146d3b6ec56ad1?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Dec 21 |
 | **[Shoppers Drug Mart](http://www.shoppersdrugmart.ca)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69475ddc63141d1884570b42?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 20 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69474f6e63141d188457021d?utm_campaign=1058&utm_source=git)** | Santa Clara, CA | On Site | Dec 20 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[RELIEF NURSE (INTERNAL REGISTRY)](https://jobright.ai/jobs/info/69474eddd1953b5d11c06dcb?utm_campaign=1058&utm_source=git)** | Los Angeles County, CA | On Site | Dec 20 |
@@ -118,7 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6947a147d1953b5d11c0beea?utm_campaign=1058&utm_source=git)** | Wylie, TX | On Site | Dec 19 |
 | **[HomeTown Credit Union, Minnesota](https://www.hometowncu.coop/)** | **[High School Intern - Teller / Member Services Representative (MSR)](https://jobright.ai/jobs/info/6946aa0e7d506e3808f20fb5?utm_campaign=1058&utm_source=git)** | 2400 West Bridge Street, Owatonna, MN 55060, USA | Hybrid | Dec 19 |
 | **[Rocket Companies](https://www.rocketcompanies.com/)** | **[Mail Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/694630a763141d188455f284?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69462a287d506e3808f1930f?utm_campaign=1058&utm_source=git)** | Bethesda, MD | On Site | Dec 19 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6946293163141d188455d274?utm_campaign=1058&utm_source=git)** | Bethesda, MD | On Site | Dec 19 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69462751d1953b5d11bf42c9?utm_campaign=1058&utm_source=git)** | Silver Spring, MD | On Site | Dec 19 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694626e17d506e3808f1781f?utm_campaign=1058&utm_source=git)** | Brockport, NY | On Site | Dec 19 |
 | **[KIPP DC](https://www.kippdc.org/)** | **[Enrollment Intern (Summer 2026)](https://jobright.ai/jobs/info/6946226b7d506e3808f17426?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Dec 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6945e76563141d18845583e7?utm_campaign=1058&utm_source=git)** | Garland, TX | On Site | Dec 19 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6945e0a77d506e3808f125df?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Dec 19 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Mail Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6945db149516540735380b8c?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
-| **[Granite Construction](https://www.graniteconstruction.com)** | **[IT Intern](https://jobright.ai/jobs/info/6945daf49516540735380b6d?utm_campaign=1058&utm_source=git)** | Watsonville, California | On Site | Dec 19 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6945d93295165407353809f8?utm_campaign=1058&utm_source=git)** | Perkasie, PA | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
