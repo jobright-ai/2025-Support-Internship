@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First National Bank of Oklahoma](https://www.fnbok.com/)** | **[INTERN](https://jobright.ai/jobs/info/69484fbb63141d188457f891?utm_campaign=1058&utm_source=git)** | Oklahoma City - Oklahoma City, OK | On Site | Dec 21 |
 | **[WVU Medicine](https://wvumedicine.org/)** | **[Nurse Intern](https://jobright.ai/jobs/info/69482ee763141d188457e878?utm_campaign=1058&utm_source=git)** | Thomas Memorial Hospital (TMH) | On Site | Dec 21 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6948035fd1953b5d11c12aaa?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Dec 21 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/6948025ed1953b5d11c12a61?utm_campaign=1058&utm_source=git)** | Egg Harbor City, NJ | On Site | Dec 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lutheran Health Network](http://www.lutheranhealth.net)** | **[ICU Student Intern Full Time Days](https://jobright.ai/jobs/info/6945ff8a7d506e3808f14967?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Dec 19 |
 | **[Northside Hospital](http://www.northside.com)** | **[Pre-Registration Representative Intern](https://jobright.ai/jobs/info/6945fd4ad1953b5d11bf0f00?utm_campaign=1058&utm_source=git)** | US-GA-Atlanta | On Site | Dec 19 |
 | **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Student Nurse Intern (TEMP)-Emergency Room - Mount Sinai Hospital - Per Diem/Part-Time Evenings](https://jobright.ai/jobs/info/6945fd4163141d1884559de6?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Dec 19 |
-| **[Averill Hospitality](https://averillhospitality.com)** | **[Guest Services Intern](https://jobright.ai/jobs/info/6945fbf0d1953b5d11bf0bd1?utm_campaign=1058&utm_source=git)** | Whitefish, MT | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
