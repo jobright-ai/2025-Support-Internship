@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shoppers Drug Mart](http://www.shoppersdrugmart.ca)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69475ddc63141d1884570b42?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 20 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69474f6e63141d188457021d?utm_campaign=1058&utm_source=git)** | Santa Clara, CA | On Site | Dec 20 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[RELIEF NURSE (INTERNAL REGISTRY)](https://jobright.ai/jobs/info/69474eddd1953b5d11c06dcb?utm_campaign=1058&utm_source=git)** | Los Angeles County, CA | On Site | Dec 20 |
 | **[Rocky Mountain Detox](https://www.linkedin.com/company/37522942)** | **[Clinician (Intern)](https://jobright.ai/jobs/info/69474c977d506e3808f29f80?utm_campaign=1058&utm_source=git)** | ROCKY MOUNTAIN DETOX - LAKEWOOD, CO 80214 | On Site | Dec 20 |
@@ -115,13 +116,15 @@ For a complete list, click the following sortable link below:
 | **[Northside Hospital](http://www.northside.com)** | **[Pre-Registration Representative Intern](https://jobright.ai/jobs/info/6946661863141d1884561872?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Dec 20 |
 | **[HomeTown Credit Union, Minnesota](https://www.hometowncu.coop/)** | **[High School Intern - Teller / Member Services Representative (MSR)](https://jobright.ai/jobs/info/6946aa0e7d506e3808f20fb5?utm_campaign=1058&utm_source=git)** | 2400 West Bridge Street, Owatonna, MN 55060, USA | Hybrid | Dec 19 |
 | **[Rocket Companies](https://www.rocketcompanies.com/)** | **[Mail Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/694630a763141d188455f284?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6946293163141d188455d274?utm_campaign=1058&utm_source=git)** | Bethesda, MD | On Site | Dec 19 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69462a287d506e3808f1930f?utm_campaign=1058&utm_source=git)** | Bethesda, MD | On Site | Dec 19 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69462751d1953b5d11bf42c9?utm_campaign=1058&utm_source=git)** | Silver Spring, MD | On Site | Dec 19 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694626e17d506e3808f1781f?utm_campaign=1058&utm_source=git)** | Brockport, NY | On Site | Dec 19 |
 | **[KIPP DC](https://www.kippdc.org/)** | **[Enrollment Intern (Summer 2026)](https://jobright.ai/jobs/info/6946226b7d506e3808f17426?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Dec 19 |
 | **[IOTA Community Schools](https://iotaschools.org)** | **[Desktop Administrator Intern](https://jobright.ai/jobs/info/694620587d506e3808f17319?utm_campaign=1058&utm_source=git)** | Memphis, TN | Hybrid | Dec 19 |
 | **[AIDS Healthcare Foundation](http://www.aidshealth.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/694619477d506e3808f16d03?utm_campaign=1058&utm_source=git)** | Safety Harbor, FL | On Site | Dec 19 |
 | **[FirstDay Foundation](https://FirstDay.Foundation)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/6946b8f663141d1884567642?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Dec 19 |
+| **[Carboline](https://www.carboline.com)** | **[Customer Service Intern - Summer 2026](https://jobright.ai/jobs/info/69476d95d1953b5d11c0825a?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Dec 19 |
+| **[The University of Kansas Health System](https://www.kansashealthsystem.com)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/694764c963141d1884570daa?utm_campaign=1058&utm_source=git)** | Liberty, MO | On Site | Dec 19 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern](https://jobright.ai/jobs/info/6946069463141d188455b42d?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN | On Site | Dec 19 |
 | ↳ | **[Nursing Intern](https://jobright.ai/jobs/info/694605a1d1953b5d11bf2267?utm_campaign=1058&utm_source=git)** | Evansville, IN | On Site | Dec 19 |
 | ↳ | **[Intern-Imaging](https://jobright.ai/jobs/info/694604527d506e3808f15535?utm_campaign=1058&utm_source=git)** | US-WI-Oshkosh | On Site | Dec 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Mail Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6945db149516540735380b8c?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[IT Intern](https://jobright.ai/jobs/info/6945daf49516540735380b6d?utm_campaign=1058&utm_source=git)** | Watsonville, California | On Site | Dec 19 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6945d93295165407353809f8?utm_campaign=1058&utm_source=git)** | Perkasie, PA | On Site | Dec 19 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6945d8c5d1953b5d11beeb59?utm_campaign=1058&utm_source=git)** | Wynnewood, PA | On Site | Dec 19 |
-| **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Claims Department Intern](https://jobright.ai/jobs/info/6945d2159516540735380106?utm_campaign=1058&utm_source=git)** | White Plains, NY | Hybrid | Dec 19 |
-| ↳ | **[Information Technology Intern](https://jobright.ai/jobs/info/6945cf90951654073537f4cb?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
