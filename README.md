@@ -118,7 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6947a147d1953b5d11c0beea?utm_campaign=1058&utm_source=git)** | Wylie, TX | On Site | Dec 19 |
 | **[HomeTown Credit Union, Minnesota](https://www.hometowncu.coop/)** | **[High School Intern - Teller / Member Services Representative (MSR)](https://jobright.ai/jobs/info/6946aa0e7d506e3808f20fb5?utm_campaign=1058&utm_source=git)** | 2400 West Bridge Street, Owatonna, MN 55060, USA | Hybrid | Dec 19 |
 | **[Rocket Companies](https://www.rocketcompanies.com/)** | **[Mail Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/694630a763141d188455f284?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6946293163141d188455d274?utm_campaign=1058&utm_source=git)** | Bethesda, MD | On Site | Dec 19 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69462a287d506e3808f1930f?utm_campaign=1058&utm_source=git)** | Bethesda, MD | On Site | Dec 19 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69462751d1953b5d11bf42c9?utm_campaign=1058&utm_source=git)** | Silver Spring, MD | On Site | Dec 19 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694626e17d506e3808f1781f?utm_campaign=1058&utm_source=git)** | Brockport, NY | On Site | Dec 19 |
 | **[KIPP DC](https://www.kippdc.org/)** | **[Enrollment Intern (Summer 2026)](https://jobright.ai/jobs/info/6946226b7d506e3808f17426?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Dec 19 |
