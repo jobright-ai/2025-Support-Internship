@@ -121,6 +121,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694626e17d506e3808f1781f?utm_campaign=1058&utm_source=git)** | Brockport, NY | On Site | Dec 19 |
 | **[KIPP DC](https://www.kippdc.org/)** | **[Enrollment Intern (Summer 2026)](https://jobright.ai/jobs/info/6946226b7d506e3808f17426?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Dec 19 |
 | **[IOTA Community Schools](https://iotaschools.org)** | **[Desktop Administrator Intern](https://jobright.ai/jobs/info/694620587d506e3808f17319?utm_campaign=1058&utm_source=git)** | Memphis, TN | Hybrid | Dec 19 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6947720463141d1884571922?utm_campaign=1058&utm_source=git)** | Allen, TX | On Site | Dec 19 |
 | **[AIDS Healthcare Foundation](http://www.aidshealth.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/694619477d506e3808f16d03?utm_campaign=1058&utm_source=git)** | Safety Harbor, FL | On Site | Dec 19 |
 | **[FirstDay Foundation](https://FirstDay.Foundation)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/6946b8f663141d1884567642?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Dec 19 |
 | **[Carboline](https://www.carboline.com)** | **[Customer Service Intern - Summer 2026](https://jobright.ai/jobs/info/69476d95d1953b5d11c0825a?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Dec 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6945e0a77d506e3808f125df?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Dec 19 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Mail Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6945db149516540735380b8c?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[IT Intern](https://jobright.ai/jobs/info/6945daf49516540735380b6d?utm_campaign=1058&utm_source=git)** | Watsonville, California | On Site | Dec 19 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6945d93295165407353809f8?utm_campaign=1058&utm_source=git)** | Perkasie, PA | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
