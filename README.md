@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6945cc02d1953b5d11beca58?utm_campaign=1058&utm_source=git)** | Albany, NY | On Site | Dec 19 |
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[IT Intern](https://jobright.ai/jobs/info/6945cbe7951654073537e893?utm_campaign=1058&utm_source=git)** | Watsonville, CA | On Site | Dec 19 |
 | **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6945cbd5d1953b5d11beca43?utm_campaign=1058&utm_source=git)** | Melville, NY | Hybrid | Dec 19 |
-| **[Renaissance Life & Health Insurance Company of America](https://renaissancebenefits.com/)** | **[IT Applications Intern](https://jobright.ai/jobs/info/6945c8ba951654073537e5cd?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | Remote | Dec 19 |
+| ↳ | **[Information Technology Intern](https://jobright.ai/jobs/info/6945ca92d1953b5d11bec9ac?utm_campaign=1058&utm_source=git)** | Albany, NY | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
