@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WVU Medicine](https://wvumedicine.org/)** | **[Nurse Intern](https://jobright.ai/jobs/info/69482ee763141d188457e878?utm_campaign=1058&utm_source=git)** | Thomas Memorial Hospital (TMH) | On Site | Dec 21 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6948035fd1953b5d11c12aaa?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Dec 21 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/6948025ed1953b5d11c12a61?utm_campaign=1058&utm_source=git)** | Egg Harbor City, NJ | On Site | Dec 21 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68ba32e76105227d1189b8f4?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Dec 21 |
@@ -79,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Shoppers Drug Mart](http://www.shoppersdrugmart.ca)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69475ddc63141d1884570b42?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 20 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[RELIEF NURSE (INTERNAL REGISTRY)](https://jobright.ai/jobs/info/69474eddd1953b5d11c06dcb?utm_campaign=1058&utm_source=git)** | Los Angeles County, CA | On Site | Dec 20 |
 | **[Rocky Mountain Detox](https://www.linkedin.com/company/37522942)** | **[Clinician (Intern)](https://jobright.ai/jobs/info/69474c977d506e3808f29f80?utm_campaign=1058&utm_source=git)** | ROCKY MOUNTAIN DETOX - LAKEWOOD, CO 80214 | On Site | Dec 20 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694748d7d1953b5d11c069db?utm_campaign=1058&utm_source=git)** | Gilroy, CA | On Site | Dec 20 |
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Rad Tech Intern PRN](https://jobright.ai/jobs/info/69478ae3d1953b5d11c09896?utm_campaign=1058&utm_source=git)** | Hiram, GA | On Site | Dec 20 |
 | **[Life Beyond Clinical Practice](www.lifebeyondclinicalpractice.com)** | **[Communications & Content Support Intern](https://jobright.ai/jobs/info/6946ea577d506e3808f24603?utm_campaign=1058&utm_source=git)** | Vernon, British Columbia, Canada | Remote | Dec 20 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6946e77a7d506e3808f245dd?utm_campaign=1058&utm_source=git)** | Santa Clara, CA | On Site | Dec 20 |
@@ -94,8 +94,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6946b057d1953b5d11bfe0e8?utm_campaign=1058&utm_source=git)** | Melbourne, FL | On Site | Dec 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6946b045d1953b5d11bfe0e0?utm_campaign=1058&utm_source=git)** | Titusville, FL | On Site | Dec 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6946b016d1953b5d11bfe0d2?utm_campaign=1058&utm_source=git)** | Winter Park, FL | On Site | Dec 20 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Intern Pharmacist PT24](https://jobright.ai/jobs/info/6946afab7d506e3808f215d7?utm_campaign=1058&utm_source=git)** | Downey, CA | On Site | Dec 20 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6946af6a7d506e3808f215a1?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Dec 20 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6946af6a7d506e3808f215a1?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Dec 20 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6946af0d63141d1884566f18?utm_campaign=1058&utm_source=git)** | Clare, MI | On Site | Dec 20 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6946aec863141d1884566ecb?utm_campaign=1058&utm_source=git)** | Orland Park, IL | On Site | Dec 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6946ae79d1953b5d11bfdf7f?utm_campaign=1058&utm_source=git)** | Orange City, FL | On Site | Dec 20 |
@@ -115,8 +114,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6946ad2263141d1884566d51?utm_campaign=1058&utm_source=git)** | Alpena, MI | On Site | Dec 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6946ad14d1953b5d11bfde23?utm_campaign=1058&utm_source=git)** | St Augustine, FL | On Site | Dec 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6946acfcd1953b5d11bfde12?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Dec 20 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6946acf0d1953b5d11bfde04?utm_campaign=1058&utm_source=git)** | Bradenton, FL | On Site | Dec 20 |
 | ↳ | **[Duane Reade Pharmacy Intern](https://jobright.ai/jobs/info/6946acf063141d1884566d3f?utm_campaign=1058&utm_source=git)** | Jersey City, NJ | On Site | Dec 20 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6946acf0d1953b5d11bfde04?utm_campaign=1058&utm_source=git)** | Bradenton, FL | On Site | Dec 20 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6946acb1d1953b5d11bfddcc?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Dec 20 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6946acacd1953b5d11bfddc7?utm_campaign=1058&utm_source=git)** | Charleston, SC | On Site | Dec 20 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6946aca1d1953b5d11bfddbc?utm_campaign=1058&utm_source=git)** | Glastonbury, CT | On Site | Dec 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Lutheran Health Network](http://www.lutheranhealth.net)** | **[ICU Student Intern Full Time Days](https://jobright.ai/jobs/info/6945ff8a7d506e3808f14967?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Dec 19 |
 | **[Northside Hospital](http://www.northside.com)** | **[Pre-Registration Representative Intern](https://jobright.ai/jobs/info/6945fd4ad1953b5d11bf0f00?utm_campaign=1058&utm_source=git)** | US-GA-Atlanta | On Site | Dec 19 |
 | **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Student Nurse Intern (TEMP)-Emergency Room - Mount Sinai Hospital - Per Diem/Part-Time Evenings](https://jobright.ai/jobs/info/6945fd4163141d1884559de6?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Dec 19 |
+| **[Averill Hospitality](https://averillhospitality.com)** | **[Guest Services Intern](https://jobright.ai/jobs/info/6945fbf0d1953b5d11bf0bd1?utm_campaign=1058&utm_source=git)** | Whitefish, MT | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
