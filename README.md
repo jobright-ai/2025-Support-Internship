@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, INFORMATION TECHNOLOGY SUPPORT](https://jobright.ai/jobs/info/6948a00263141d1884584871?utm_campaign=1058&utm_source=git)** | Los Angeles County, CA | On Site | Dec 21 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6948aed863141d188458503b?utm_campaign=1058&utm_source=git)** | Elk Grove, CA | On Site | Dec 21 |
+| ↳ | **[Intern Pharmacist PT16](https://jobright.ai/jobs/info/6948ad8963141d1884584f5b?utm_campaign=1058&utm_source=git)** | Garden Grove, CA | On Site | Dec 21 |
+| **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, OFFICE AND CLERICAL SUPPORT](https://jobright.ai/jobs/info/6948a904d1953b5d11c1b2ed?utm_campaign=1058&utm_source=git)** | Los Angeles County, CA | On Site | Dec 21 |
+| ↳ | **[VETERAN INTERN, INFORMATION TECHNOLOGY SUPPORT](https://jobright.ai/jobs/info/6948a00263141d1884584871?utm_campaign=1058&utm_source=git)** | Los Angeles County, CA | On Site | Dec 21 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Intern, VeraTech](https://jobright.ai/jobs/info/6948a0337d506e3808f3d915?utm_campaign=1058&utm_source=git)** | Brooklyn, New York | Hybrid | Dec 21 |
 | **[First National Bank of Oklahoma](https://www.fnbok.com/)** | **[INTERN](https://jobright.ai/jobs/info/69484fbb63141d188457f891?utm_campaign=1058&utm_source=git)** | Oklahoma City - Oklahoma City, OK | On Site | Dec 21 |
 | **[WVU Medicine](https://wvumedicine.org/)** | **[Nurse Intern](https://jobright.ai/jobs/info/69482ee763141d188457e878?utm_campaign=1058&utm_source=git)** | Thomas Memorial Hospital (TMH) | On Site | Dec 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern-Imaging](https://jobright.ai/jobs/info/694603e063141d188455ad8a?utm_campaign=1058&utm_source=git)** | Oshkosh, WI | On Site | Dec 19 |
 | **[Unity Health](https://www.unity-health.org)** | **[Nurse Intern L, 6a-6p, PRN, Float Pool](https://jobright.ai/jobs/info/6946038f63141d188455acee?utm_campaign=1058&utm_source=git)** | Searcy, AR, US | On Site | Dec 19 |
 | **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Student Nurse Intern (TEMP) - Emergency Room - Mount Sinai Hospital - Per Diem/Part-Time; Evenings](https://jobright.ai/jobs/info/694603547d506e3808f152f6?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Dec 19 |
-| **[Elmington](http://elmingtoncapital.com)** | **[Intern - Summer 2026 - IT](https://jobright.ai/jobs/info/694600cdd1953b5d11bf16d0?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Dec 19 |
-| **[BayCare Health System](https://baycare.org/bmg)** | **[CT Technologist Intern](https://jobright.ai/jobs/info/6945ff977d506e3808f1498b?utm_campaign=1058&utm_source=git)** | Riverview, FL | On Site | Dec 19 |
-| **[Lutheran Health Network](http://www.lutheranhealth.net)** | **[ICU Student Intern Full Time Days](https://jobright.ai/jobs/info/6945ff8a7d506e3808f14967?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
