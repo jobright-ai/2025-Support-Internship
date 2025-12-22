@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6948ed3863141d1884589708?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | On Site | Dec 21 |
+| **[Gala Circle Inc.](http://www.galacircle.com)** | **[Operation Support Intern-Bilingual in Mandarin](https://jobright.ai/jobs/info/6948ebfbd1953b5d11c1fb9d?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Dec 21 |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6948e2bc63141d1884588f43?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Dec 21 |
 | **[Lighthouse Avionics](https://lighthouseavionics.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/6948cfcfd1953b5d11c1ccad?utm_campaign=1058&utm_source=git)** | Hilliard, OH | Hybrid | Dec 21 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6948aed863141d188458503b?utm_campaign=1058&utm_source=git)** | Elk Grove, CA | On Site | Dec 21 |
 | ↳ | **[Intern Pharmacist PT16](https://jobright.ai/jobs/info/6948ad8963141d1884584f5b?utm_campaign=1058&utm_source=git)** | Garden Grove, CA | On Site | Dec 21 |
@@ -121,8 +124,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6946ad2263141d1884566d51?utm_campaign=1058&utm_source=git)** | Alpena, MI | On Site | Dec 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6946ad14d1953b5d11bfde23?utm_campaign=1058&utm_source=git)** | St Augustine, FL | On Site | Dec 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6946acfcd1953b5d11bfde12?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Dec 20 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6946acf0d1953b5d11bfde04?utm_campaign=1058&utm_source=git)** | Bradenton, FL | On Site | Dec 20 |
 | ↳ | **[Duane Reade Pharmacy Intern](https://jobright.ai/jobs/info/6946acf063141d1884566d3f?utm_campaign=1058&utm_source=git)** | Jersey City, NJ | On Site | Dec 20 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6946acf0d1953b5d11bfde04?utm_campaign=1058&utm_source=git)** | Bradenton, FL | On Site | Dec 20 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6946acb1d1953b5d11bfddcc?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Dec 20 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6946acacd1953b5d11bfddc7?utm_campaign=1058&utm_source=git)** | Charleston, SC | On Site | Dec 20 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6946aca1d1953b5d11bfddbc?utm_campaign=1058&utm_source=git)** | Glastonbury, CT | On Site | Dec 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern](https://jobright.ai/jobs/info/6946069463141d188455b42d?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN | On Site | Dec 19 |
 | ↳ | **[Nursing Intern](https://jobright.ai/jobs/info/694605a1d1953b5d11bf2267?utm_campaign=1058&utm_source=git)** | Evansville, IN | On Site | Dec 19 |
 | ↳ | **[Intern-Imaging](https://jobright.ai/jobs/info/694604527d506e3808f15535?utm_campaign=1058&utm_source=git)** | US-WI-Oshkosh | On Site | Dec 19 |
-| ↳ | **[Imaging Intern](https://jobright.ai/jobs/info/694603e763141d188455ad96?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Dec 19 |
-| ↳ | **[Intern-Imaging](https://jobright.ai/jobs/info/694603e063141d188455ad8a?utm_campaign=1058&utm_source=git)** | Oshkosh, WI | On Site | Dec 19 |
-| **[Unity Health](https://www.unity-health.org)** | **[Nurse Intern L, 6a-6p, PRN, Float Pool](https://jobright.ai/jobs/info/6946038f63141d188455acee?utm_campaign=1058&utm_source=git)** | Searcy, AR, US | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
