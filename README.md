@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BioMatrix Infusion Pharmacy](http://www.biomatrixsprx.com)** | **[Intern](https://jobright.ai/jobs/info/69490e6b7d506e3808f4442c?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Dec 22 |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/692d3f344c474121999d1319?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Dec 22 |
+| **[Telecare Corporation](http://www.telecarecorp.com)** | **[Internship Opportunities for All Telecare Locations! FY26](https://jobright.ai/jobs/info/68673bc3afc79b6161e5b82e?utm_campaign=1058&utm_source=git)** | Alameda, CA | On Site | Dec 22 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern-Information Technology](https://jobright.ai/jobs/info/6921f27ea49a885af9a47fd9?utm_campaign=1058&utm_source=git)** | Detroit, MI | Hybrid | Dec 22 |
+| **[BioMatrix Infusion Pharmacy](http://www.biomatrixsprx.com)** | **[Intern](https://jobright.ai/jobs/info/694918f8d1953b5d11c23423?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Dec 22 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/69490e6b7d506e3808f4442c?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Dec 22 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Scotia Trust - File Digitization Internship/Co-op - Summer 2026 - Montreal](https://jobright.ai/jobs/info/694908e8d1953b5d11c21220?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 22 |
 | **[Sports Basement](http://sportsbasement.com)** | **[Seasonal Bike Floor Staffer](https://jobright.ai/jobs/info/6949000b63141d188458a77d?utm_campaign=1058&utm_source=git)** | Santa Rosa - SANTA ROSA, CA 95407 | On Site | Dec 22 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6948ed3863141d1884589708?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | On Site | Dec 21 |
@@ -127,8 +131,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6946ad2263141d1884566d51?utm_campaign=1058&utm_source=git)** | Alpena, MI | On Site | Dec 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6946ad14d1953b5d11bfde23?utm_campaign=1058&utm_source=git)** | St Augustine, FL | On Site | Dec 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6946acfcd1953b5d11bfde12?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Dec 20 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6946acf0d1953b5d11bfde04?utm_campaign=1058&utm_source=git)** | Bradenton, FL | On Site | Dec 20 |
 | ↳ | **[Duane Reade Pharmacy Intern](https://jobright.ai/jobs/info/6946acf063141d1884566d3f?utm_campaign=1058&utm_source=git)** | Jersey City, NJ | On Site | Dec 20 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6946acf0d1953b5d11bfde04?utm_campaign=1058&utm_source=git)** | Bradenton, FL | On Site | Dec 20 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6946acb1d1953b5d11bfddcc?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Dec 20 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6946acacd1953b5d11bfddc7?utm_campaign=1058&utm_source=git)** | Charleston, SC | On Site | Dec 20 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6946aca1d1953b5d11bfddbc?utm_campaign=1058&utm_source=git)** | Glastonbury, CT | On Site | Dec 20 |
@@ -146,15 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Michelin](http://www.michelin.com/)** | **[2026 Summer IT Intern Greenville, SC](https://jobright.ai/jobs/info/6933b770a0dde7020e2f0ca2?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Dec 20 |
 | **[New Mexico Mutual](https://www.newmexicomutual.com/)** | **[Claims Admin Intern](https://jobright.ai/jobs/info/6946722e63141d1884563a32?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Dec 20 |
 | **[Northside Hospital](http://www.northside.com)** | **[Pre-Registration Representative Intern](https://jobright.ai/jobs/info/6946661863141d1884561872?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Dec 20 |
-| **[The University of Kansas Health System](https://www.kansashealthsystem.com)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/6948f8a67d506e3808f4314a?utm_campaign=1058&utm_source=git)** | Liberty, MO | On Site | Dec 19 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6947a147d1953b5d11c0beea?utm_campaign=1058&utm_source=git)** | Wylie, TX | On Site | Dec 19 |
 | **[HomeTown Credit Union, Minnesota](https://www.hometowncu.coop/)** | **[High School Intern - Teller / Member Services Representative (MSR)](https://jobright.ai/jobs/info/6946aa0e7d506e3808f20fb5?utm_campaign=1058&utm_source=git)** | 2400 West Bridge Street, Owatonna, MN 55060, USA | Hybrid | Dec 19 |
 | **[Rocket Companies](https://www.rocketcompanies.com/)** | **[Mail Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/694630a763141d188455f284?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6946293163141d188455d274?utm_campaign=1058&utm_source=git)** | Bethesda, MD | On Site | Dec 19 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69462b437d506e3808f194d2?utm_campaign=1058&utm_source=git)** | Bethesda, MD | On Site | Dec 19 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69462751d1953b5d11bf42c9?utm_campaign=1058&utm_source=git)** | Silver Spring, MD | On Site | Dec 19 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694626e17d506e3808f1781f?utm_campaign=1058&utm_source=git)** | Brockport, NY | On Site | Dec 19 |
 | **[KIPP DC](https://www.kippdc.org/)** | **[Enrollment Intern (Summer 2026)](https://jobright.ai/jobs/info/6946226b7d506e3808f17426?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Dec 19 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6947720463141d1884571922?utm_campaign=1058&utm_source=git)** | Allen, TX | On Site | Dec 19 |
-| **[AIDS Healthcare Foundation](http://www.aidshealth.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/694619477d506e3808f16d03?utm_campaign=1058&utm_source=git)** | Safety Harbor, FL | On Site | Dec 19 |
-| **[Carboline](https://www.carboline.com)** | **[Customer Service Intern - Summer 2026](https://jobright.ai/jobs/info/69476d95d1953b5d11c0825a?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
