@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TowneBank](https://www.townebank.com/)** | **[Summer Intern - Retail Branches (Teller) - Southside Branches: Portsmouth, Chesapeake, Virginia Beach, Norfolk](https://jobright.ai/jobs/info/692e19634c474121999d62b7?utm_campaign=1058&utm_source=git)** | Suffolk, VA | On Site | Dec 23 |
+| ↳ | **[Summer Intern - Retail (Teller) - Pavilion Branch, Virginia Beach, VA](https://jobright.ai/jobs/info/692e10e14c474121999d5c35?utm_campaign=1058&utm_source=git)** | Virginia Beach, VA | On Site | Dec 23 |
+| **[Moody's Corporation](http://www.moodys.com)** | **[Ratings and Research Support Intern](https://jobright.ai/jobs/info/694a7f683019f50a4fe59eee?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Dec 23 |
+| **[ASSA ABLOY Opening Solutions Americas](http://www.assaabloydss.com)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/694a7f653019f50a4fe59eed?utm_campaign=1058&utm_source=git)** | Mason City, IA | On Site | Dec 23 |
+| **[Medical City Healthcare](https://medicalcityhealthcare.com/)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/694a68a931c12007d3b91d51?utm_campaign=1058&utm_source=git)** | North Richland Hills, TX | On Site | Dec 23 |
 | **[AHMC HealthCare](http://AHMChealth.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694a51fa31c12007d3b9100a?utm_campaign=1058&utm_source=git)** | Whittier, CA | On Site | Dec 22 |
 | **[WVU Medicine Berkeley and Jefferson Medical Centers](https://wvumedicine.org/east/)** | **[JCS MedEd Intern](https://jobright.ai/jobs/info/694a27747d506e3808f561f3?utm_campaign=1058&utm_source=git)** | Martinsburg, WV | On Site | Dec 22 |
-| **[WVU Medicine](https://wvumedicine.org/)** | **[JCS MedEd Intern](https://jobright.ai/jobs/info/694a1b9a7d506e3808f55718?utm_campaign=1058&utm_source=git)** | Ranson, WV | On Site | Dec 22 |
+| **[WVU Medicine](https://wvumedicine.org/)** | **[JCS MedEd Intern](https://jobright.ai/jobs/info/694a21ecc6f0e2546cef2c68?utm_campaign=1058&utm_source=git)** | Ranson, WV | On Site | Dec 22 |
 | **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern - UPMC Presbyterian](https://jobright.ai/jobs/info/694a113bc6f0e2546cef0e56?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Dec 22 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Internship (Information Technology)/Seasonal Employment](https://jobright.ai/jobs/info/694a101d63141d188459b633?utm_campaign=1058&utm_source=git)** | Chautauqua, NY | On Site | Dec 22 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Intern](https://jobright.ai/jobs/info/694a200ac6f0e2546cef2b61?utm_campaign=1058&utm_source=git)** | 3450 Commercial St Se, Salem, OR, 97302, US | On Site | Dec 22 |
@@ -102,7 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Laveer Engineering](https://laveer.ca/)** | **[IT Intern Summer 2026](https://jobright.ai/jobs/info/694a00c4c6f0e2546ceee148?utm_campaign=1058&utm_source=git)** | Ogden, UT | On Site | Dec 22 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[IT Intern Summer 2026](https://jobright.ai/jobs/info/694a408831c12007d3b902d9?utm_campaign=1058&utm_source=git)** | Ogden, UT | On Site | Dec 22 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6949a9e8d1953b5d11c2ae9d?utm_campaign=1058&utm_source=git)** | Bartlett, TN | On Site | Dec 22 |
-| **[WVU Medicine Berkeley and Jefferson Medical Centers](https://wvumedicine.org/east/)** | **[JCS MedEd Intern](https://jobright.ai/jobs/info/6949c5ebd1953b5d11c2cf23?utm_campaign=1058&utm_source=git)** | Ranson, WV | On Site | Dec 22 |
+| **[WVU Medicine Berkeley and Jefferson Medical Centers](https://wvumedicine.org/east/)** | **[JCS MedEd Intern](https://jobright.ai/jobs/info/6949c60ad1953b5d11c2cf2b?utm_campaign=1058&utm_source=git)** | Ranson, WV | On Site | Dec 22 |
 | **[Aldridge Electric](http://www.aldridgegroup.com)** | **[IT HelpDesk Intern - Summer 2026](https://jobright.ai/jobs/info/694a46ce187e565c6bfa4e96?utm_campaign=1058&utm_source=git)** | Libertyville, IL | On Site | Dec 22 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 IT Tech Support Intern](https://jobright.ai/jobs/info/6949a3dd7d506e3808f4cee5?utm_campaign=1058&utm_source=git)** | Stamford, Connecticut | On Site | Dec 22 |
 | **[Presbyterian Healthcare Services](http://www.phs.org)** | **[Surgical Tech Intern](https://jobright.ai/jobs/info/6949fd18c6f0e2546ceed74f?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Dec 22 |
@@ -144,17 +149,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6949519463141d188458fc9e?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Dec 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6949513fd1953b5d11c261a9?utm_campaign=1058&utm_source=git)** | Herrin, IL | On Site | Dec 22 |
 | **[Henrico, Parham & Retreat Doctors' Hospitals](https://hcavirginia.com/locations/henrico-doctors/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/69106142988c2b7b4ec51890?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Dec 22 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69494f97d1953b5d11c26085?utm_campaign=1058&utm_source=git)** | O'Fallon, MO | On Site | Dec 22 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69494ffe7d506e3808f488a5?utm_campaign=1058&utm_source=git)** | O'Fallon, MO | On Site | Dec 22 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Medical Assistant/Patient Service Specialist Intern](https://jobright.ai/jobs/info/6949fd4663141d18845982c2?utm_campaign=1058&utm_source=git)** | Brockton - 830 Oak MOB | On Site | Dec 22 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69494f0663141d188458fa52?utm_campaign=1058&utm_source=git)** | Missoula, MT | On Site | Dec 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69494ee77d506e3808f48872?utm_campaign=1058&utm_source=git)** | Millbury, MA | On Site | Dec 22 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69494ee4d1953b5d11c25f79?utm_campaign=1058&utm_source=git)** | Yakima, WA | On Site | Dec 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69494ed0d1953b5d11c25f54?utm_campaign=1058&utm_source=git)** | Maryland Heights, MO | On Site | Dec 22 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69494ea7d1953b5d11c25ef3?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Dec 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69494e6663141d188458f8f4?utm_campaign=1058&utm_source=git)** | Pembroke Pines, FL | On Site | Dec 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69494db97d506e3808f4859f?utm_campaign=1058&utm_source=git)** | Glen Carbon, IL | On Site | Dec 22 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69494d9e7d506e3808f4856e?utm_campaign=1058&utm_source=git)** | St Charles, MO | On Site | Dec 22 |
-| **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Paramedic Intern](https://jobright.ai/jobs/info/68850ac7b651c92cb78aaf92?utm_campaign=1058&utm_source=git)** | New Brunswick, NJ | On Site | Dec 22 |
-| **[Wesley Healthcare](http://www.wesleymc.com)** | **[Radiology Student Intern PRN](https://jobright.ai/jobs/info/69105bda183be660d2678914?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Dec 22 |
-| **[University of New Hampshire](https://www.unh.edu)** | **[Technician Intern](https://jobright.ai/jobs/info/68ccff4cd11b445e0bee5d0f?utm_campaign=1058&utm_source=git)** | Durham, NH | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
