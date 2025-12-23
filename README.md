@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cleveland State Community College](http://www.clevelandstatecc.edu)** | **[Tech Solutions Internship Coordinator (Perkins Grant)](https://jobright.ai/jobs/info/694af1893019f50a4fe5fccb?utm_campaign=1058&utm_source=git)** | Cleveland, TN | On Site | Dec 23 |
+| **[Rockland Trust](http://www.rocklandtrust.com)** | **[Customer Information Center/Call Center Summer Intern - Lowell](https://jobright.ai/jobs/info/694ade711224705e90020231?utm_campaign=1058&utm_source=git)** | Lowell, MA, United States | On Site | Dec 23 |
+| ↳ | **[Customer Information Center/Call Center Summer Intern - Plymouth](https://jobright.ai/jobs/info/694adbeb67a69734cac5fdb6?utm_campaign=1058&utm_source=git)** | Plymouth, MA, United States | On Site | Dec 23 |
+| **[Catalent](https://www.catalent.com)** | **[IT Assistant, Intern](https://jobright.ai/jobs/info/694adbba3019f50a4fe5f27a?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
+| **[Rockland Trust](http://www.rocklandtrust.com)** | **[Customer Information Center/Call Center Summer Intern - Franklin](https://jobright.ai/jobs/info/694ad80e67a69734cac5fc39?utm_campaign=1058&utm_source=git)** | Franklin, MA, United States | On Site | Dec 23 |
+| **[Sarasota County Government](https://www.scgov.net/)** | **[Desktop Support Operations Intern - On-Site Summer 2026 Internship](https://jobright.ai/jobs/info/694ad77a67a69734cac5fbfe?utm_campaign=1058&utm_source=git)** | Administration Center | On Site | Dec 23 |
+| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Intern, Imaging Services](https://jobright.ai/jobs/info/694af17d1224705e90020ade?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Dec 23 |
 | **[CarolinaEast Health System](https://www.carolinaeasthealth.com/)** | **[Cath Lab/EP Technology Intern - Paramedic](https://jobright.ai/jobs/info/66ae463ca8a85bf02ea5aae7?utm_campaign=1058&utm_source=git)** | New Bern-MC Area | On Site | Dec 23 |
 | **[Lanteris Space Systems](https://www.lanterisspace.com)** | **[Intern, Information Technology](https://jobright.ai/jobs/info/694ac63f1224705e9001e02c?utm_campaign=1058&utm_source=git)** | Mountain View, CA | On Site | Dec 23 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Lab Administrator Intern](https://jobright.ai/jobs/info/69447a5294730b739877b446?utm_campaign=1058&utm_source=git)** | Pittsfield, MA | On Site | Dec 23 |
@@ -113,7 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Medical City Healthcare](https://medicalcityhealthcare.com/)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/694a68a931c12007d3b91d51?utm_campaign=1058&utm_source=git)** | North Richland Hills, TX | On Site | Dec 23 |
 | **[AHMC HealthCare](http://AHMChealth.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694a51fa31c12007d3b9100a?utm_campaign=1058&utm_source=git)** | Whittier, CA | On Site | Dec 22 |
 | **[WVU Medicine Berkeley and Jefferson Medical Centers](https://wvumedicine.org/east/)** | **[JCS MedEd Intern](https://jobright.ai/jobs/info/694a27747d506e3808f561f3?utm_campaign=1058&utm_source=git)** | Martinsburg, WV | On Site | Dec 22 |
-| **[WVU Medicine](https://wvumedicine.org/)** | **[JCS MedEd Intern](https://jobright.ai/jobs/info/694a1b9a7d506e3808f55718?utm_campaign=1058&utm_source=git)** | Ranson, WV | On Site | Dec 22 |
+| **[WVU Medicine](https://wvumedicine.org/)** | **[JCS MedEd Intern](https://jobright.ai/jobs/info/694a21ecc6f0e2546cef2c68?utm_campaign=1058&utm_source=git)** | Ranson, WV | On Site | Dec 22 |
 | **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern - UPMC Presbyterian](https://jobright.ai/jobs/info/694a113bc6f0e2546cef0e56?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Dec 22 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Internship (Information Technology)/Seasonal Employment](https://jobright.ai/jobs/info/694a101d63141d188459b633?utm_campaign=1058&utm_source=git)** | Chautauqua, NY | On Site | Dec 22 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Intern](https://jobright.ai/jobs/info/694a200ac6f0e2546cef2b61?utm_campaign=1058&utm_source=git)** | 3450 Commercial St Se, Salem, OR, 97302, US | On Site | Dec 22 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Munson Healthcare](https://www.munsonhealthcare.org/)** | **[Radiology Student Intern Opportunities](https://jobright.ai/jobs/info/6949fe2163141d1884598558?utm_campaign=1058&utm_source=git)** | Traverse City, MI | On Site | Dec 22 |
 | **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[General Services Student Intern (9015)](https://jobright.ai/jobs/info/69403287aa598a08c3efd3a0?utm_campaign=1058&utm_source=git)** | Brooksville, FL | Hybrid | Dec 22 |
 | **[Huntington Health](https://www.huntingtonhealth.org)** | **[Pharmacy Intern PD](https://jobright.ai/jobs/info/694a0c627d506e3808f538ee?utm_campaign=1058&utm_source=git)** | Pasadena, CA | On Site | Dec 22 |
-| **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6949b48963141d1884594bd0?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Dec 22 |
-| **[Jenner & Block](http://jenner.com/)** | **[Docketing Intern](https://jobright.ai/jobs/info/694a0e5d7d506e3808f53de3?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Dec 22 |
-| **[Perkins Eastman](http://www.perkinseastman.com)** | **[IT Client Service Specialist Intern](https://jobright.ai/jobs/info/6933bba9764507023d1b8c1e?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Dec 22 |
-| **[Laveer Engineering](https://laveer.ca/)** | **[IT Intern Summer 2026](https://jobright.ai/jobs/info/694a00c4c6f0e2546ceee148?utm_campaign=1058&utm_source=git)** | Ogden, UT | On Site | Dec 22 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[IT Intern Summer 2026](https://jobright.ai/jobs/info/694a408831c12007d3b902d9?utm_campaign=1058&utm_source=git)** | Ogden, UT | On Site | Dec 22 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6949a9e8d1953b5d11c2ae9d?utm_campaign=1058&utm_source=git)** | Bartlett, TN | On Site | Dec 22 |
-| **[WVU Medicine Berkeley and Jefferson Medical Centers](https://wvumedicine.org/east/)** | **[JCS MedEd Intern](https://jobright.ai/jobs/info/6949fee8c6f0e2546ceedc10?utm_campaign=1058&utm_source=git)** | Ranson, WV | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
