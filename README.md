@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AHMC HealthCare](http://AHMChealth.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694a51fa31c12007d3b9100a?utm_campaign=1058&utm_source=git)** | Whittier, CA | On Site | Dec 22 |
 | **[WVU Medicine Berkeley and Jefferson Medical Centers](https://wvumedicine.org/east/)** | **[JCS MedEd Intern](https://jobright.ai/jobs/info/694a27747d506e3808f561f3?utm_campaign=1058&utm_source=git)** | Martinsburg, WV | On Site | Dec 22 |
 | **[WVU Medicine](https://wvumedicine.org/)** | **[JCS MedEd Intern](https://jobright.ai/jobs/info/694a1b9a7d506e3808f55718?utm_campaign=1058&utm_source=git)** | Ranson, WV | On Site | Dec 22 |
 | **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern - UPMC Presbyterian](https://jobright.ai/jobs/info/694a113bc6f0e2546cef0e56?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Dec 22 |
@@ -143,18 +144,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6949519463141d188458fc9e?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Dec 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6949513fd1953b5d11c261a9?utm_campaign=1058&utm_source=git)** | Herrin, IL | On Site | Dec 22 |
 | **[Henrico, Parham & Retreat Doctors' Hospitals](https://hcavirginia.com/locations/henrico-doctors/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/69106142988c2b7b4ec51890?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Dec 22 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69494ffe7d506e3808f488a5?utm_campaign=1058&utm_source=git)** | O'Fallon, MO | On Site | Dec 22 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69494f97d1953b5d11c26085?utm_campaign=1058&utm_source=git)** | O'Fallon, MO | On Site | Dec 22 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Medical Assistant/Patient Service Specialist Intern](https://jobright.ai/jobs/info/6949fd4663141d18845982c2?utm_campaign=1058&utm_source=git)** | Brockton - 830 Oak MOB | On Site | Dec 22 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69494f0663141d188458fa52?utm_campaign=1058&utm_source=git)** | Missoula, MT | On Site | Dec 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69494ee77d506e3808f48872?utm_campaign=1058&utm_source=git)** | Millbury, MA | On Site | Dec 22 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69494ee4d1953b5d11c25f79?utm_campaign=1058&utm_source=git)** | Yakima, WA | On Site | Dec 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69494ed0d1953b5d11c25f54?utm_campaign=1058&utm_source=git)** | Maryland Heights, MO | On Site | Dec 22 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69494ea7d1953b5d11c25ef3?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Dec 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69494e6663141d188458f8f4?utm_campaign=1058&utm_source=git)** | Pembroke Pines, FL | On Site | Dec 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69494db97d506e3808f4859f?utm_campaign=1058&utm_source=git)** | Glen Carbon, IL | On Site | Dec 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69494d9e7d506e3808f4856e?utm_campaign=1058&utm_source=git)** | St Charles, MO | On Site | Dec 22 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69494ce77d506e3808f483d1?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Dec 22 |
 | **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Paramedic Intern](https://jobright.ai/jobs/info/68850ac7b651c92cb78aaf92?utm_campaign=1058&utm_source=git)** | New Brunswick, NJ | On Site | Dec 22 |
 | **[Wesley Healthcare](http://www.wesleymc.com)** | **[Radiology Student Intern PRN](https://jobright.ai/jobs/info/69105bda183be660d2678914?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Dec 22 |
 | **[University of New Hampshire](https://www.unh.edu)** | **[Technician Intern](https://jobright.ai/jobs/info/68ccff4cd11b445e0bee5d0f?utm_campaign=1058&utm_source=git)** | Durham, NH | On Site | Dec 22 |
-| **[Shure Incorporated](http://www.shure.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/68d009fcdbd9fb154edecf27?utm_campaign=1058&utm_source=git)** | Skokie, IL | Hybrid | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
