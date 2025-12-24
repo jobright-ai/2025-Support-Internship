@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Denver Health](http://www.denverhealth.org)** | **[Pharmacy Intern II](https://jobright.ai/jobs/info/694c1c7c1a572a617dde6aa9?utm_campaign=1058&utm_source=git)** | Main Campus - Pavilion A - 777 Bannock Street, Denver, CO 80204 | On Site | Dec 24 |
+| **[State of Utah](http://www.utah.gov/)** | **[Work Ability Intern - Front Desk Receptionist - Taylorsville and South Jordan](https://jobright.ai/jobs/info/694c16e0d64ebf28d821b329?utm_campaign=1058&utm_source=git)** | Salt Lake County, UT | On Site | Dec 24 |
+| **[Froedtert Health](http://www.froedtert.com)** | **[CERT NURSING ASST APPRENTICE, FH - 5NE - INTERNAL MEDICINE](https://jobright.ai/jobs/info/694c12875d7312113470871a?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Dec 24 |
+| **[JFK International Air Terminal](https://www.jfkt4.nyc)** | **[Intern, Operations](https://jobright.ai/jobs/info/6944979150bbaf765056a0b1?utm_campaign=1058&utm_source=git)** | Jamaica, NY | On Site | Dec 24 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/694c0348d64ebf28d821ad7f?utm_campaign=1058&utm_source=git)** | Toms River, NJ | On Site | Dec 24 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/694bffcd5d731211347080d2?utm_campaign=1058&utm_source=git)** | La Vergne, TN | On Site | Dec 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694bfedd1a572a617dde4ad2?utm_campaign=1058&utm_source=git)** | Lawrence, KS | On Site | Dec 24 |
@@ -77,7 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Forestar Group Inc.](https://www.forestar.com/)** | **[Summer 2026 IT Intern - Forestar](https://jobright.ai/jobs/info/692f799cfa28370be26aa982?utm_campaign=1058&utm_source=git)** | Arlington, TX | On Site | Dec 24 |
 | **[ITC Holdings Corp.](http://www.itc-holdings.com/)** | **[Intern - Desktop Support](https://jobright.ai/jobs/info/692f55edef4b48533d14445e?utm_campaign=1058&utm_source=git)** | Cedar Rapids, IA | On Site | Dec 24 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 IT Intern - Forestar](https://jobright.ai/jobs/info/692fa5184c474121999e162e?utm_campaign=1058&utm_source=git)** | Arlington, TX | On Site | Dec 24 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/692f89eafa28370be26ab49a?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Dec 24 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/692f9367fa28370be26abb67?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Dec 24 |
 | ↳ | **[Intern-Nurse I](https://jobright.ai/jobs/info/692fe79aef4b48533d14988d?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Dec 24 |
 | **[MGO (Macias Gini & O'Connell LLP)](http://mgocpa.com)** | **[IT Intern](https://jobright.ai/jobs/info/692f6364fa28370be26a97e6?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Dec 24 |
 | **[Loram Maintenance of Way, Inc.](http://jobs.loram.com)** | **[Technical Communications Intern](https://jobright.ai/jobs/info/69127f16ea9ab01b82bf3299?utm_campaign=1058&utm_source=git)** | Hamel, MN | On Site | Dec 24 |
@@ -103,7 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[IT Intern](https://jobright.ai/jobs/info/6941fb5050bbaf765053cf94?utm_campaign=1058&utm_source=git)** | Oak Park Heights, MN | On Site | Dec 23 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/694b59fed64ebf28d8210f66?utm_campaign=1058&utm_source=git)** | Mount Clemens, MI | On Site | Dec 23 |
 | **[Mercy Medical Center, Baltimore, MD](https://mdmercy.com)** | **[Quality Intern](https://jobright.ai/jobs/info/694b57341a572a617dddac6f?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Dec 23 |
-| **[Liberty Hospital](https://www.libertyhospital.org/)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/694b55df1a572a617dddab95?utm_campaign=1058&utm_source=git)** | Liberty, MO | On Site | Dec 23 |
+| **[Liberty Hospital](https://www.libertyhospital.org/)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/694b73b45d731211346ff8f2?utm_campaign=1058&utm_source=git)** | Liberty, MO | On Site | Dec 23 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Graduate Support Tech - Houston & Surrounding Areas](https://jobright.ai/jobs/info/694b4b614b53a1551f9511c1?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Dec 23 |
 | **[State of Alaska](http://alaska.gov/)** | **[College Intern 1/2/3/4 (PCN 25IN1701M)](https://jobright.ai/jobs/info/694b48ff3019f50a4fe6631f?utm_campaign=1058&utm_source=git)** | Juneau, AK | Hybrid | Dec 23 |
 | **[G&J Pepsi-Cola Bottlers, Inc.](https://www.gjpepsi.com)** | **[IT Intern - High School Student Program](https://jobright.ai/jobs/info/6945a9dc951654073537c4da?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Dec 23 |
@@ -149,12 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Rentals Leadership Internship](https://jobright.ai/jobs/info/6945fb9163141d188455995f?utm_campaign=1058&utm_source=git)** | Gurnee, IL | On Site | Dec 23 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Customer Information Center/Call Center Summer Intern - Plymouth](https://jobright.ai/jobs/info/694adbeb67a69734cac5fdb6?utm_campaign=1058&utm_source=git)** | Plymouth, MA, United States | On Site | Dec 23 |
 | **[Catalent](https://www.catalent.com)** | **[IT Assistant, Intern](https://jobright.ai/jobs/info/694adbba3019f50a4fe5f27a?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
-| **[EagleBank](https://www.eaglebankcorp.com/)** | **[Teller Summer Intern](https://jobright.ai/jobs/info/694b06ec1224705e90021b3a?utm_campaign=1058&utm_source=git)** | US-DC-Washington | On Site | Dec 23 |
-| ↳ | **[Teller Summer Intern](https://jobright.ai/jobs/info/694afdc43019f50a4fe60566?utm_campaign=1058&utm_source=git)** | US-VA-Fairfax | On Site | Dec 23 |
+| **[EagleBank](https://www.eaglebankcorp.com/)** | **[Teller Summer Intern](https://jobright.ai/jobs/info/694afdc43019f50a4fe60566?utm_campaign=1058&utm_source=git)** | US-VA-Fairfax | On Site | Dec 23 |
 | ↳ | **[Teller Summer Intern](https://jobright.ai/jobs/info/694afe8b3019f50a4fe60622?utm_campaign=1058&utm_source=git)** | 1425 K Street, NW | On Site | Dec 23 |
+| ↳ | **[Teller Summer Intern](https://jobright.ai/jobs/info/694b06ec1224705e90021b3a?utm_campaign=1058&utm_source=git)** | US-DC-Washington | On Site | Dec 23 |
 | ↳ | **[Teller Summer Intern](https://jobright.ai/jobs/info/694afa151224705e900210ed?utm_campaign=1058&utm_source=git)** | 12505 Park Potomac Avenue | On Site | Dec 23 |
-| ↳ | **[Teller Summer Intern](https://jobright.ai/jobs/info/694af99f67a69734cac60d21?utm_campaign=1058&utm_source=git)** | US-MD-Potomac | On Site | Dec 23 |
-| **[Rockland Trust](http://www.rocklandtrust.com)** | **[Customer Information Center/Call Center Summer Intern - Franklin](https://jobright.ai/jobs/info/694ad80e67a69734cac5fc39?utm_campaign=1058&utm_source=git)** | Franklin, MA, United States | On Site | Dec 23 |
-| **[Sarasota County Government](https://www.scgov.net/)** | **[Desktop Support Operations Intern - On-Site Summer 2026 Internship](https://jobright.ai/jobs/info/694ad77a67a69734cac5fbfe?utm_campaign=1058&utm_source=git)** | Administration Center | On Site | Dec 23 |
-| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Intern, Imaging Services](https://jobright.ai/jobs/info/694af17d1224705e90020ade?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
