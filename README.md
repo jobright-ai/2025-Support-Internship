@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FusionTek](https://www.fusiontek.com)** | **[IT Support Internship](https://jobright.ai/jobs/info/694b6e10d64ebf28d821237e?utm_campaign=1058&utm_source=git)** | Issaquah, WA | On Site | Dec 23 |
+| **[Heaven Hill Brands](http://www.heavenhill.com/)** | **[IT Service Desk Internship](https://jobright.ai/jobs/info/693899f7a0dde7020e312f6c?utm_campaign=1058&utm_source=git)** | Louisville, KY | On Site | Dec 23 |
+| **[Andersen Corporation](https://www.andersenwindows.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/694b6b291a572a617dddba5d?utm_campaign=1058&utm_source=git)** | Oak Park Heights, MN | On Site | Dec 23 |
 | **[First PREMIER Bank/PREMIER Bankcard](http://www.firstpremier.com)** | **[PREMIER Desktop Support Internship](https://jobright.ai/jobs/info/694b5e711a572a617dddb099?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/694b59fed64ebf28d8210f66?utm_campaign=1058&utm_source=git)** | Mount Clemens, MI | On Site | Dec 23 |
 | **[Mercy Medical Center, Baltimore, MD](https://mdmercy.com)** | **[Quality Intern](https://jobright.ai/jobs/info/694b57341a572a617dddac6f?utm_campaign=1058&utm_source=git)** | Baltimore, MD | On Site | Dec 23 |
@@ -105,11 +108,11 @@ For a complete list, click the following sortable link below:
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Customer Information Center/Call Center Summer Intern - Lowell](https://jobright.ai/jobs/info/694ade711224705e90020231?utm_campaign=1058&utm_source=git)** | Lowell, MA, United States | On Site | Dec 23 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Rentals Leadership Internship](https://jobright.ai/jobs/info/6945fb9163141d188455995f?utm_campaign=1058&utm_source=git)** | Gurnee, IL | On Site | Dec 23 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Customer Information Center/Call Center Summer Intern - Plymouth](https://jobright.ai/jobs/info/694adbeb67a69734cac5fdb6?utm_campaign=1058&utm_source=git)** | Plymouth, MA, United States | On Site | Dec 23 |
-| **[EagleBank](https://www.eaglebankcorp.com/)** | **[Teller Summer Intern](https://jobright.ai/jobs/info/694afdc43019f50a4fe60566?utm_campaign=1058&utm_source=git)** | US-VA-Fairfax | On Site | Dec 23 |
-| ↳ | **[Teller Summer Intern](https://jobright.ai/jobs/info/694b06ec1224705e90021b3a?utm_campaign=1058&utm_source=git)** | US-DC-Washington | On Site | Dec 23 |
+| **[EagleBank](https://www.eaglebankcorp.com/)** | **[Teller Summer Intern](https://jobright.ai/jobs/info/694b06ec1224705e90021b3a?utm_campaign=1058&utm_source=git)** | US-DC-Washington | On Site | Dec 23 |
 | ↳ | **[Teller Summer Intern](https://jobright.ai/jobs/info/694afe8b3019f50a4fe60622?utm_campaign=1058&utm_source=git)** | 1425 K Street, NW | On Site | Dec 23 |
-| ↳ | **[Teller Summer Intern](https://jobright.ai/jobs/info/694af99f67a69734cac60d21?utm_campaign=1058&utm_source=git)** | US-MD-Potomac | On Site | Dec 23 |
+| ↳ | **[Teller Summer Intern](https://jobright.ai/jobs/info/694afdc43019f50a4fe60566?utm_campaign=1058&utm_source=git)** | US-VA-Fairfax | On Site | Dec 23 |
 | ↳ | **[Teller Summer Intern](https://jobright.ai/jobs/info/694afa151224705e900210ed?utm_campaign=1058&utm_source=git)** | 12505 Park Potomac Avenue | On Site | Dec 23 |
+| ↳ | **[Teller Summer Intern](https://jobright.ai/jobs/info/694af99f67a69734cac60d21?utm_campaign=1058&utm_source=git)** | US-MD-Potomac | On Site | Dec 23 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Customer Information Center/Call Center Summer Intern - Franklin](https://jobright.ai/jobs/info/694ad80e67a69734cac5fc39?utm_campaign=1058&utm_source=git)** | Franklin, MA, United States | On Site | Dec 23 |
 | **[Sarasota County Government](https://www.scgov.net/)** | **[Desktop Support Operations Intern - On-Site Summer 2026 Internship](https://jobright.ai/jobs/info/694ad77a67a69734cac5fbfe?utm_campaign=1058&utm_source=git)** | Administration Center | On Site | Dec 23 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Intern, Imaging Services](https://jobright.ai/jobs/info/694af17d1224705e90020ade?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Dec 23 |
@@ -120,11 +123,12 @@ For a complete list, click the following sortable link below:
 | **[Berkshire Bank](http://berkshirebank.com/)** | **[Intern - BerkshireBanc Investment Services](https://jobright.ai/jobs/info/6930f149fa28370be26b5777?utm_campaign=1058&utm_source=git)** | Rutland, VT | On Site | Dec 23 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Personal Lines Intern](https://jobright.ai/jobs/info/694ab6103019f50a4fe5cacd?utm_campaign=1058&utm_source=git)** | Tallahassee, FL | On Site | Dec 23 |
 | **[Global Partners LP](http://www.globalp.com)** | **[Oracle Support Intern](https://jobright.ai/jobs/info/694ab5e567a69734cac5d47d?utm_campaign=1058&utm_source=git)** | Waltham, MA - Corporate Headquarters | On Site | Dec 23 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694ab3a71224705e9001d7d3?utm_campaign=1058&utm_source=git)** | Ankeny, IA | On Site | Dec 23 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694ab30b67a69734cac5d3b3?utm_campaign=1058&utm_source=git)** | Coralville, IA | On Site | Dec 23 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694ab4041224705e9001d7fc?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Dec 23 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694ab3a71224705e9001d7d3?utm_campaign=1058&utm_source=git)** | Ankeny, IA | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694ab2db67a69734cac5d392?utm_campaign=1058&utm_source=git)** | Florence, SC | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694ab2ce67a69734cac5d386?utm_campaign=1058&utm_source=git)** | Charleston, SC | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694ab1ff1224705e9001d6dd?utm_campaign=1058&utm_source=git)** | Charleston, SC | On Site | Dec 23 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694ab01e67a69734cac5d22c?utm_campaign=1058&utm_source=git)** | Coralville, IA | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694aafb067a69734cac5d1f6?utm_campaign=1058&utm_source=git)** | Davenport, IA | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694aaf3367a69734cac5d1b7?utm_campaign=1058&utm_source=git)** | Mesquite, TX | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694aaee11224705e9001d539?utm_campaign=1058&utm_source=git)** | East Moline, IL | On Site | Dec 23 |
@@ -133,14 +137,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694aae351224705e9001d4ed?utm_campaign=1058&utm_source=git)** | Irmo, SC | On Site | Dec 23 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/694aaa671224705e9001d33b?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694aaa1e1224705e9001d318?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Dec 23 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694aa82b3019f50a4fe5c25b?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694aa8201224705e9001d27c?utm_campaign=1058&utm_source=git)** | Dubuque, IA | On Site | Dec 23 |
 | **[First PREMIER Bank/PREMIER Bankcard](http://www.firstpremier.com)** | **[PREMIER Desktop Support Internship](https://jobright.ai/jobs/info/694b107d4b53a1551f94c32d?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
 | ↳ | **[PREMIER Customer Service Internship](https://jobright.ai/jobs/info/694b198d4b53a1551f94d6a4?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
 | ↳ | **[PREMIER Business Support Internship](https://jobright.ai/jobs/info/694b10a23019f50a4fe61b3d?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
 | ↳ | **[PREMIER ATM Funding Internship](https://jobright.ai/jobs/info/694b1d963019f50a4fe635ab?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
-| ↳ | **[PREMIER Help Desk Internship](https://jobright.ai/jobs/info/694b13d03019f50a4fe6227a?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
 | ↳ | **[PREMIER Customer Service Internship](https://jobright.ai/jobs/info/694b0a471224705e90021db0?utm_campaign=1058&utm_source=git)** | Watertown, SD | On Site | Dec 23 |
+| ↳ | **[PREMIER Help Desk Internship](https://jobright.ai/jobs/info/694b13d03019f50a4fe6227a?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694aa35b3019f50a4fe5be33?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Dec 23 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/694a9fc03019f50a4fe5bb22?utm_campaign=1058&utm_source=git)** | Palmdale, CA | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694a9faf3019f50a4fe5bb19?utm_campaign=1058&utm_source=git)** | Buffalo Grove, IL | On Site | Dec 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Trade Desk Intern](https://jobright.ai/jobs/info/68ce5c6bdbd9fb154eddeeb8?utm_campaign=1058&utm_source=git)** | Kansas City, MO | Hybrid | Dec 23 |
 | **[TowneBank](https://www.townebank.com/)** | **[Summer Intern - Retail Branches (Teller) - Duck, North Carolina](https://jobright.ai/jobs/info/692e15a6fa28370be26a109a?utm_campaign=1058&utm_source=git)** | Duck, NC | On Site | Dec 23 |
 | ↳ | **[Summer Intern - Deposit Services](https://jobright.ai/jobs/info/692e1cd1ef4b48533d13caa4?utm_campaign=1058&utm_source=git)** | Suffolk, VA | On Site | Dec 23 |
-| ↳ | **[Summer Intern - Processing Services Support](https://jobright.ai/jobs/info/692e061aef4b48533d13bbab?utm_campaign=1058&utm_source=git)** | Suffolk, VA | On Site | Dec 23 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: IT Support Intern: Full Time (Jan-June '26)](https://jobright.ai/jobs/info/693a0c5cac80bb5492bc91f2?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | Dec 23 |
-| **[Hyundai Motor Company](https://www.hyundai.com)** | **[Intern, Customer Care](https://jobright.ai/jobs/info/692e58b2fa28370be26a3bce?utm_campaign=1058&utm_source=git)** | Fountain Valley, CA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
