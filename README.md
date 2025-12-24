@@ -57,8 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Paid Internship - New Braunfels, TX](https://jobright.ai/jobs/info/69135dd8d1047e3565d02b7b?utm_campaign=1058&utm_source=git)** | New Braunfels, TX | On Site | Dec 24 |
+| **[Peterbilt Motors Company](http://www.peterbilt.com/)** | **[2026 Summer Internship: Field Service Liaison](https://jobright.ai/jobs/info/692f97effa28370be26abdd4?utm_campaign=1058&utm_source=git)** | Denton, TX | On Site | Dec 24 |
+| **[MGO (Macias Gini & O'Connell LLP)](http://mgocpa.com)** | **[IT Intern](https://jobright.ai/jobs/info/69353a0ef131d96e4846d6a1?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Dec 24 |
+| **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[IT Support Internship](https://jobright.ai/jobs/info/691ab54315b415636718a10f?utm_campaign=1058&utm_source=git)** | Piscataway, NJ | Hybrid | Dec 24 |
+| **[Plug and Play Tech Center](https://www.plugandplaytechcenter.com)** | **[IT Intern](https://jobright.ai/jobs/info/692f243afa28370be26a7af7?utm_campaign=1058&utm_source=git)** | Sunnyvale, CA | On Site | Dec 24 |
+| **[TowneBank](https://www.townebank.com/)** | **[Summer Intern - Card Services](https://jobright.ai/jobs/info/692fadedfa28370be26acb50?utm_campaign=1058&utm_source=git)** | Suffolk, VA | On Site | Dec 24 |
+| **[Forestar Group Inc.](https://www.forestar.com/)** | **[Summer 2026 IT Intern - Forestar](https://jobright.ai/jobs/info/692f799cfa28370be26aa982?utm_campaign=1058&utm_source=git)** | Arlington, TX | On Site | Dec 24 |
 | **[Loram Maintenance of Way, Inc.](http://jobs.loram.com)** | **[Technical Communications Intern](https://jobright.ai/jobs/info/69127f16ea9ab01b82bf3299?utm_campaign=1058&utm_source=git)** | Hamel, MN | On Site | Dec 24 |
+| **[Pegasystems](http://www.pega.com)** | **[Technical Documentation Intern - Summer 2026](https://jobright.ai/jobs/info/68f767f55dc1be6012810821?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | Dec 24 |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Technical Information Services](https://jobright.ai/jobs/info/691b8157bcdbf3560c9df7ff?utm_campaign=1058&utm_source=git)** | Garland, TX | On Site | Dec 24 |
 | **[Finni Health (YC W23)](https://www.finnihealth.com/)** | **[Paid BCBA Intern (Remote option available)](https://jobright.ai/jobs/info/694bc6ef5d731211347052d8?utm_campaign=1058&utm_source=git)** | Santa Fe, NM | Remote | Dec 24 |
+| **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6912f63cea9ab01b82bf6a0a?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Dec 24 |
 | **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[IT Intern](https://jobright.ai/jobs/info/694bb32b1a572a617dde01fd?utm_campaign=1058&utm_source=git)** | Arden Hills, MN | Hybrid | Dec 24 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/694ba6291a572a617dddfd32?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Dec 24 |
 | **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[IT Intern](https://jobright.ai/jobs/info/694b9c401a572a617dddf8d9?utm_campaign=1058&utm_source=git)** | Arden Hills, MN (USA) | Hybrid | Dec 23 |
@@ -109,7 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Renaissance Life & Health Insurance Company of America](https://renaissancebenefits.com/)** | **[Applications Intern](https://jobright.ai/jobs/info/694b18453019f50a4fe62cdf?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | Remote | Dec 23 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[M365 and Directory Services Intern](https://jobright.ai/jobs/info/694b18014b53a1551f94d2e7?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | Dec 23 |
 | **[Seaman Corporation](http://www.seamancorp.com/)** | **[Oracle ERP Intern](https://jobright.ai/jobs/info/694af7c91224705e90020f02?utm_campaign=1058&utm_source=git)** | Wooster, OH 44691, USA | On Site | Dec 23 |
-| **[NRS, Inc.](https://nrs3pl.com)** | **[Intern](https://jobright.ai/jobs/info/694af77c3019f50a4fe60150?utm_campaign=1058&utm_source=git)** | Toledo, OH 43604, USA | On Site | Dec 23 |
+| **[NRS, Inc.](https://nrs3pl.com)** | **[Intern](https://jobright.ai/jobs/info/694af6c967a69734cac60ae7?utm_campaign=1058&utm_source=git)** | Toledo, OH 43604, USA | On Site | Dec 23 |
 | **[cartiga°](https://cartiga.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/694b1c4b1224705e90023e0c?utm_campaign=1058&utm_source=git)** | Boca Raton, FL | On Site | Dec 23 |
 | **[South Central Regional Medical Center](https://scrmc.com)** | **[LAB ASSISTANT / MLT INTERN](https://jobright.ai/jobs/info/694b15621224705e9002306e?utm_campaign=1058&utm_source=git)** | Laurel, MS, US | On Site | Dec 23 |
 | **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[Tech Solutions Internship Coordinator (Perkins Grant)](https://jobright.ai/jobs/info/694af5733019f50a4fe5ffa8?utm_campaign=1058&utm_source=git)** | Cleveland, TN | On Site | Dec 23 |
@@ -123,11 +133,11 @@ For a complete list, click the following sortable link below:
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Rentals Leadership Internship](https://jobright.ai/jobs/info/6945fb9163141d188455995f?utm_campaign=1058&utm_source=git)** | Gurnee, IL | On Site | Dec 23 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Customer Information Center/Call Center Summer Intern - Plymouth](https://jobright.ai/jobs/info/694adbeb67a69734cac5fdb6?utm_campaign=1058&utm_source=git)** | Plymouth, MA, United States | On Site | Dec 23 |
 | **[Catalent](https://www.catalent.com)** | **[IT Assistant, Intern](https://jobright.ai/jobs/info/694adbba3019f50a4fe5f27a?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
-| **[EagleBank](https://www.eaglebankcorp.com/)** | **[Teller Summer Intern](https://jobright.ai/jobs/info/694b06ec1224705e90021b3a?utm_campaign=1058&utm_source=git)** | US-DC-Washington | On Site | Dec 23 |
-| ↳ | **[Teller Summer Intern](https://jobright.ai/jobs/info/694afdc43019f50a4fe60566?utm_campaign=1058&utm_source=git)** | US-VA-Fairfax | On Site | Dec 23 |
+| **[EagleBank](https://www.eaglebankcorp.com/)** | **[Teller Summer Intern](https://jobright.ai/jobs/info/694afdc43019f50a4fe60566?utm_campaign=1058&utm_source=git)** | US-VA-Fairfax | On Site | Dec 23 |
+| ↳ | **[Teller Summer Intern](https://jobright.ai/jobs/info/694b06ec1224705e90021b3a?utm_campaign=1058&utm_source=git)** | US-DC-Washington | On Site | Dec 23 |
 | ↳ | **[Teller Summer Intern](https://jobright.ai/jobs/info/694afe8b3019f50a4fe60622?utm_campaign=1058&utm_source=git)** | 1425 K Street, NW | On Site | Dec 23 |
-| ↳ | **[Teller Summer Intern](https://jobright.ai/jobs/info/694af99f67a69734cac60d21?utm_campaign=1058&utm_source=git)** | US-MD-Potomac | On Site | Dec 23 |
 | ↳ | **[Teller Summer Intern](https://jobright.ai/jobs/info/694afa151224705e900210ed?utm_campaign=1058&utm_source=git)** | 12505 Park Potomac Avenue | On Site | Dec 23 |
+| ↳ | **[Teller Summer Intern](https://jobright.ai/jobs/info/694af99f67a69734cac60d21?utm_campaign=1058&utm_source=git)** | US-MD-Potomac | On Site | Dec 23 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Customer Information Center/Call Center Summer Intern - Franklin](https://jobright.ai/jobs/info/694ad80e67a69734cac5fc39?utm_campaign=1058&utm_source=git)** | Franklin, MA, United States | On Site | Dec 23 |
 | **[Sarasota County Government](https://www.scgov.net/)** | **[Desktop Support Operations Intern - On-Site Summer 2026 Internship](https://jobright.ai/jobs/info/694ad77a67a69734cac5fbfe?utm_campaign=1058&utm_source=git)** | Administration Center | On Site | Dec 23 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Intern, Imaging Services](https://jobright.ai/jobs/info/694af17d1224705e90020ade?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Dec 23 |
@@ -140,21 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Global Partners LP](http://www.globalp.com)** | **[Oracle Support Intern](https://jobright.ai/jobs/info/694ab5e567a69734cac5d47d?utm_campaign=1058&utm_source=git)** | Waltham, MA - Corporate Headquarters | On Site | Dec 23 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694ab4041224705e9001d7fc?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694ab3a71224705e9001d7d3?utm_campaign=1058&utm_source=git)** | Ankeny, IA | On Site | Dec 23 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694ab30b67a69734cac5d3b3?utm_campaign=1058&utm_source=git)** | Coralville, IA | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694ab2db67a69734cac5d392?utm_campaign=1058&utm_source=git)** | Florence, SC | On Site | Dec 23 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694ab2ce67a69734cac5d386?utm_campaign=1058&utm_source=git)** | Charleston, SC | On Site | Dec 23 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694ab1ff1224705e9001d6dd?utm_campaign=1058&utm_source=git)** | Charleston, SC | On Site | Dec 23 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694ab01e67a69734cac5d22c?utm_campaign=1058&utm_source=git)** | Coralville, IA | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694aafb067a69734cac5d1f6?utm_campaign=1058&utm_source=git)** | Davenport, IA | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694aaf3367a69734cac5d1b7?utm_campaign=1058&utm_source=git)** | Mesquite, TX | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694aaee11224705e9001d539?utm_campaign=1058&utm_source=git)** | East Moline, IL | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694aae921224705e9001d51a?utm_campaign=1058&utm_source=git)** | Waterloo, IA | On Site | Dec 23 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694aae8867a69734cac5d15f?utm_campaign=1058&utm_source=git)** | Yakima, WA | On Site | Dec 23 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694aae351224705e9001d4ed?utm_campaign=1058&utm_source=git)** | Irmo, SC | On Site | Dec 23 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/694aaa671224705e9001d33b?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Dec 23 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694aaa1e1224705e9001d318?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Dec 23 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694aa8201224705e9001d27c?utm_campaign=1058&utm_source=git)** | Dubuque, IA | On Site | Dec 23 |
-| **[First PREMIER Bank/PREMIER Bankcard](http://www.firstpremier.com)** | **[PREMIER Desktop Support Internship](https://jobright.ai/jobs/info/694b107d4b53a1551f94c32d?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
-| ↳ | **[PREMIER Customer Service Internship](https://jobright.ai/jobs/info/694b198d4b53a1551f94d6a4?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
-| ↳ | **[PREMIER Business Support Internship](https://jobright.ai/jobs/info/694b10a23019f50a4fe61b3d?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
-| ↳ | **[PREMIER ATM Funding Internship](https://jobright.ai/jobs/info/694b1d963019f50a4fe635ab?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | Dec 23 |
-| ↳ | **[PREMIER Customer Service Internship](https://jobright.ai/jobs/info/694b0a471224705e90021db0?utm_campaign=1058&utm_source=git)** | Watertown, SD | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
