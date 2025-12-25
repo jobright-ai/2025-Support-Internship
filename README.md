@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mauldin & Jenkins](http://mjcpa.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/694d8dbe29655e4dd6576f6f?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Dec 25 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Pharmacy Intern - Outpatient Retail](https://jobright.ai/jobs/info/694d751329655e4dd65763af?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694d7885d4a7df7a06728444?utm_campaign=1058&utm_source=git)** | Freehold, NJ | On Site | Dec 25 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694d7db429655e4dd65765a7?utm_campaign=1058&utm_source=git)** | Atlantic City, NJ | On Site | Dec 25 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/694d66b929655e4dd6576108?utm_campaign=1058&utm_source=git)** | Absecon, NJ | On Site | Dec 25 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694d6a08f5bef51c96eb07e4?utm_campaign=1058&utm_source=git)** | Edina, MN | On Site | Dec 25 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Customer Service & Administrative Internship (Ophthalmology - Waltham)](https://jobright.ai/jobs/info/6931274aef4b48533d152b54?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | Dec 25 |
-| **[Denver Health](http://www.denverhealth.org)** | **[Pharmacy Intern II - Inpatient](https://jobright.ai/jobs/info/694d7492d4a7df7a06728360?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
+| **[Denver Health](http://www.denverhealth.org)** | **[Outpatient Pharmacy Intern lll (P3)](https://jobright.ai/jobs/info/694d7a59d4a7df7a067284bb?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
+| ↳ | **[Pharmacy Intern II - Inpatient](https://jobright.ai/jobs/info/694d7492d4a7df7a06728360?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 | **[Mount Carmel Health System](https://www.mountcarmelhealth.com/)** | **[Pharmacy Intern I - Mount Carmel East](https://jobright.ai/jobs/info/6914b804286ccf0a15127ff8?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Dec 25 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacy Intern I - Mount Carmel East](https://jobright.ai/jobs/info/6914b764286ccf0a15127fd3?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Dec 25 |
 | **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Service Bulletins](https://jobright.ai/jobs/info/6930b9a54c474121999e80fd?utm_campaign=1058&utm_source=git)** | Renton, WA | On Site | Dec 25 |
@@ -72,7 +75,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Paid Internship (Brighton, CO)](https://jobright.ai/jobs/info/6913fc411465e02904e99133?utm_campaign=1058&utm_source=git)** | Brighton, CO | On Site | Dec 25 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68c0740f8e65e77df55c137f?utm_campaign=1058&utm_source=git)** | Cheyenne, WY | On Site | Dec 25 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[IT Applications Intern - Summer 2026](https://jobright.ai/jobs/info/6913b538d1047e3565d055c1?utm_campaign=1058&utm_source=git)** | Greater Houston | On Site | Dec 25 |
-| **[Phelps Health](https://phelpshealth.org/)** | **[Clinical Intern - Surg Ortho / IPT](https://jobright.ai/jobs/info/694d68a8f5bef51c96eb079f?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Dec 25 |
+| **[Phelps Health](https://phelpshealth.org/)** | **[Student Nurse Intern - Surgical Orthopedics / IPT](https://jobright.ai/jobs/info/694d7908f5bef51c96eb0afd?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Dec 25 |
+| ↳ | **[Clinical Intern - Surg Ortho / IPT](https://jobright.ai/jobs/info/694d68a8f5bef51c96eb079f?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Dec 25 |
 | ↳ | **[Student Nurse Intern- Medical Telemetry / IPT](https://jobright.ai/jobs/info/694d76e329655e4dd6576415?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Dec 25 |
 | ↳ | **[Student Nurse Intern - Medical Oncology / IPT](https://jobright.ai/jobs/info/694d6cc729655e4dd6576207?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Dec 25 |
 | ↳ | **[Student Nurse Intern - Emergency Department / IPT](https://jobright.ai/jobs/info/694d766829655e4dd65763f2?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Dec 25 |
@@ -130,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[MGO (Macias Gini & O'Connell LLP)](http://mgocpa.com)** | **[IT Intern](https://jobright.ai/jobs/info/69353a0ef131d96e4846d6a1?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Dec 24 |
 | **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[IT Support Internship](https://jobright.ai/jobs/info/691ab54315b415636718a10f?utm_campaign=1058&utm_source=git)** | Piscataway, NJ | Hybrid | Dec 24 |
 | **[Plug and Play Tech Center](https://www.plugandplaytechcenter.com)** | **[IT Intern](https://jobright.ai/jobs/info/692f243afa28370be26a7af7?utm_campaign=1058&utm_source=git)** | Sunnyvale, CA | On Site | Dec 24 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[IT Intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/694d60b529655e4dd6575e9a?utm_campaign=1058&utm_source=git)** | Georgia, United States | On Site | Dec 24 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Customer Experience Intern](https://jobright.ai/jobs/info/692f580aef4b48533d14459c?utm_campaign=1058&utm_source=git)** | Fort Washington, PA | On Site | Dec 24 |
 | **[TowneBank](https://www.townebank.com/)** | **[Summer Intern - Card Services](https://jobright.ai/jobs/info/692fadedfa28370be26acb50?utm_campaign=1058&utm_source=git)** | Suffolk, VA | On Site | Dec 24 |
 | **[Forestar Group Inc.](https://www.forestar.com/)** | **[Summer 2026 IT Intern - Forestar](https://jobright.ai/jobs/info/692f799cfa28370be26aa982?utm_campaign=1058&utm_source=git)** | Arlington, TX | On Site | Dec 24 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #385](https://jobright.ai/jobs/info/694bb5cf5d731211347037bb?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Dec 23 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Intern](https://jobright.ai/jobs/info/694ba1f6d64ebf28d8215d94?utm_campaign=1058&utm_source=git)** | Salem, OR | On Site | Dec 23 |
 | ↳ | **[Pharmacist Intern](https://jobright.ai/jobs/info/694ba673d64ebf28d8215f07?utm_campaign=1058&utm_source=git)** | Happy Valley, OR | On Site | Dec 23 |
-| **[North Mississippi Health Services](http://www.nmhs.net/careers)** | **[Surgical Tech Intern](https://jobright.ai/jobs/info/694c829c5d7312113470e085?utm_campaign=1058&utm_source=git)** | Tupelo, MS | On Site | Dec 23 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694b7e8bd64ebf28d8214435?utm_campaign=1058&utm_source=git)** | Concord, CA | On Site | Dec 23 |
-| ↳ | **[Foreign Pharmacy Grad- International Pharmacy Intern](https://jobright.ai/jobs/info/694b778a1a572a617dddd3e7?utm_campaign=1058&utm_source=git)** | Bothell, WA | On Site | Dec 23 |
-| **[LocumJobsOnline](https://www.locumtenensonline.com)** | **[Physician (MD/DO) - Internal Medicine - General/Other in Texas, TX](https://jobright.ai/jobs/info/694b73911a572a617dddca89?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Dec 23 |
+| **[North Mississippi Health Services](http://www.nmhs.net/careers)** | **[Surgical Tech Intern](https://jobright.ai/jobs/info/694c83345d7312113470e0ec?utm_campaign=1058&utm_source=git)** | Tupelo, MS | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
