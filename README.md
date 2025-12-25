@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwell Health](https://feinstein.northwell.edu/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694c73f85d7312113470daff?utm_campaign=1058&utm_source=git)** | 1979 Marcus Ave, Lake Success, NY, 11042, US | On Site | Dec 24 |
+| **[BMO](http://www.bmo.com)** | **[Customer Service Representative (Co-op/Internship), Summer 2026, Montreal - 4 months](https://jobright.ai/jobs/info/694c6c5a1a572a617ddea358?utm_campaign=1058&utm_source=git)** | Kirkland, QC, CAN | On Site | Dec 24 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/694c6b39d64ebf28d8220375?utm_campaign=1058&utm_source=git)** | Queen Creek, AZ | On Site | Dec 24 |
+| **[BMO](http://www.bmo.com)** | **[Customer Service Representative (Co-op/Internship), Summer 2026, Montreal - 4 months](https://jobright.ai/jobs/info/694c6b205d7312113470d96a?utm_campaign=1058&utm_source=git)** | Laval, QC, CAN | On Site | Dec 24 |
+| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Summer Omni Care Internship / Rooms](https://jobright.ai/jobs/info/694c6aae5d7312113470d945?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Dec 24 |
+| **[BMO](http://www.bmo.com)** | **[Customer Service Representative (Co-op/Internship), Summer 2026, Montreal - 4 months](https://jobright.ai/jobs/info/694c6936d64ebf28d82202cc?utm_campaign=1058&utm_source=git)** | MONTREAL, QC, CAN | On Site | Dec 24 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/694c68e1d64ebf28d82202ac?utm_campaign=1058&utm_source=git)** | Catonsville, MD | On Site | Dec 24 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/694c68c15d7312113470d8c4?utm_campaign=1058&utm_source=git)** | Gardena, CA | On Site | Dec 24 |
+| **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern  P1 Contingent Rotate](https://jobright.ai/jobs/info/694c67681a572a617ddea271?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Dec 24 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Pharmacy Intern II](https://jobright.ai/jobs/info/694c48ff1a572a617dde7c56?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 24 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Summer Omni Care Internship / Rooms](https://jobright.ai/jobs/info/694c3dfa5d7312113470ac27?utm_campaign=1058&utm_source=git)** | US-TX-Irving | On Site | Dec 24 |
 | **[Saint Luke's](https://www.saintlukeskc.org)** | **[Float Clinical Intern, PRN](https://jobright.ai/jobs/info/694c56a51a572a617dde9257?utm_campaign=1058&utm_source=git)** | Saint Luke's East Hospital   |   100 NE Saint Lukes Blvd   |   Lees Summit   |   MO | On Site | Dec 24 |
@@ -85,7 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Forestar Group Inc.](https://www.forestar.com/)** | **[Summer 2026 IT Intern - Forestar](https://jobright.ai/jobs/info/692f799cfa28370be26aa982?utm_campaign=1058&utm_source=git)** | Arlington, TX | On Site | Dec 24 |
 | **[ITC Holdings Corp.](http://www.itc-holdings.com/)** | **[Intern - Desktop Support](https://jobright.ai/jobs/info/692f55edef4b48533d14445e?utm_campaign=1058&utm_source=git)** | Cedar Rapids, IA | On Site | Dec 24 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 IT Intern - Forestar](https://jobright.ai/jobs/info/692fa5184c474121999e162e?utm_campaign=1058&utm_source=git)** | Arlington, TX | On Site | Dec 24 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/692f89eafa28370be26ab49a?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Dec 24 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/692f9367fa28370be26abb67?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Dec 24 |
 | ↳ | **[Intern-Nurse I](https://jobright.ai/jobs/info/692fe79aef4b48533d14988d?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Dec 24 |
 | **[MGO (Macias Gini & O'Connell LLP)](http://mgocpa.com)** | **[IT Intern](https://jobright.ai/jobs/info/692f6364fa28370be26a97e6?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Dec 24 |
 | **[Loram Maintenance of Way, Inc.](http://jobs.loram.com)** | **[Technical Communications Intern](https://jobright.ai/jobs/info/69127f16ea9ab01b82bf3299?utm_campaign=1058&utm_source=git)** | Hamel, MN | On Site | Dec 24 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[South Central Regional Medical Center](https://scrmc.com)** | **[LAB ASSISTANT / MLT INTERN](https://jobright.ai/jobs/info/694b15621224705e9002306e?utm_campaign=1058&utm_source=git)** | Laurel, MS, US | On Site | Dec 23 |
 | **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[Tech Solutions Internship Coordinator (Perkins Grant)](https://jobright.ai/jobs/info/694af5733019f50a4fe5ffa8?utm_campaign=1058&utm_source=git)** | Cleveland, TN | On Site | Dec 23 |
 | **[EagleBank](https://www.eaglebankcorp.com/)** | **[Teller Summer Intern](https://jobright.ai/jobs/info/694af21a67a69734cac607b2?utm_campaign=1058&utm_source=git)** | 11166 Fairfax Boulevard | On Site | Dec 23 |
-| **[Cleveland State Community College](http://www.clevelandstatecc.edu)** | **[Tech Solutions Internship Coordinator (Perkins Grant)](https://jobright.ai/jobs/info/694af1893019f50a4fe5fccb?utm_campaign=1058&utm_source=git)** | Cleveland, TN | On Site | Dec 23 |
-| **[Rockland Trust](http://www.rocklandtrust.com)** | **[Customer Information Center/Call Center Summer Intern - Franklin](https://jobright.ai/jobs/info/694b0e864b53a1551f94befb?utm_campaign=1058&utm_source=git)** | Franklin, MA | On Site | Dec 23 |
-| ↳ | **[Customer Information Center/Call Center Summer Intern - Plymouth](https://jobright.ai/jobs/info/694b0f514b53a1551f94c0ac?utm_campaign=1058&utm_source=git)** | Plymouth, MA | On Site | Dec 23 |
-| ↳ | **[Customer Information Center/Call Center Summer Intern - Lowell](https://jobright.ai/jobs/info/694b11894b53a1551f94c532?utm_campaign=1058&utm_source=git)** | Lowell, MA | On Site | Dec 23 |
-| **[First Quality](http://firstquality.com/)** | **[INTERN OR CO-OP - Information Technology](https://jobright.ai/jobs/info/694b1d584b53a1551f94de20?utm_campaign=1058&utm_source=git)** | US SC Anderson | On Site | Dec 23 |
-| **[Rockland Trust](http://www.rocklandtrust.com)** | **[Customer Information Center/Call Center Summer Intern - Lowell](https://jobright.ai/jobs/info/694ade711224705e90020231?utm_campaign=1058&utm_source=git)** | Lowell, MA, United States | On Site | Dec 23 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Rentals Leadership Internship](https://jobright.ai/jobs/info/6945fb9163141d188455995f?utm_campaign=1058&utm_source=git)** | Gurnee, IL | On Site | Dec 23 |
-| **[Rockland Trust](http://www.rocklandtrust.com)** | **[Customer Information Center/Call Center Summer Intern - Plymouth](https://jobright.ai/jobs/info/694adbeb67a69734cac5fdb6?utm_campaign=1058&utm_source=git)** | Plymouth, MA, United States | On Site | Dec 23 |
-| **[Catalent](https://www.catalent.com)** | **[IT Assistant, Intern](https://jobright.ai/jobs/info/694adbba3019f50a4fe5f27a?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
