@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PharPoint Research, Inc.](http://pharpoint.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/694da00cd4a7df7a0672a1cc?utm_campaign=1058&utm_source=git)** | Wilmington, NC | On Site | Dec 25 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/694d8dbe29655e4dd6576f6f?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Dec 25 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Pharmacy Intern - Outpatient Retail](https://jobright.ai/jobs/info/694d751329655e4dd65763af?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694d7885d4a7df7a06728444?utm_campaign=1058&utm_source=git)** | Freehold, NJ | On Site | Dec 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #385](https://jobright.ai/jobs/info/694bb5cf5d731211347037bb?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Dec 23 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Intern](https://jobright.ai/jobs/info/694ba1f6d64ebf28d8215d94?utm_campaign=1058&utm_source=git)** | Salem, OR | On Site | Dec 23 |
 | ↳ | **[Pharmacist Intern](https://jobright.ai/jobs/info/694ba673d64ebf28d8215f07?utm_campaign=1058&utm_source=git)** | Happy Valley, OR | On Site | Dec 23 |
-| **[North Mississippi Health Services](http://www.nmhs.net/careers)** | **[Surgical Tech Intern](https://jobright.ai/jobs/info/694c83345d7312113470e0ec?utm_campaign=1058&utm_source=git)** | Tupelo, MS | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
