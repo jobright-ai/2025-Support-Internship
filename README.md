@@ -58,8 +58,12 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[Information Technology Graduate Intern-Spring 2026-ISD](https://jobright.ai/jobs/info/69318a473b6d6f265f4eac67?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Dec 25 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68c0740f8e65e77df55c137f?utm_campaign=1058&utm_source=git)** | Cheyenne, WY | On Site | Dec 25 |
+| **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[IT Applications Intern - Summer 2026](https://jobright.ai/jobs/info/6913b538d1047e3565d055c1?utm_campaign=1058&utm_source=git)** | Greater Houston | On Site | Dec 25 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - Med/Surg 6T](https://jobright.ai/jobs/info/681574c74b2da7f970423725?utm_campaign=1058&utm_source=git)** | Southaven, MS | On Site | Dec 25 |
 | **[Aman](https://www.aman.com/)** | **[Food & Beverage 12 month Intern - Amangiri](https://jobright.ai/jobs/info/68f8014d5dc1be601282018b?utm_campaign=1058&utm_source=git)** | Page, AZ | On Site | Dec 25 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Field Services Student Technician, NDE](https://jobright.ai/jobs/info/68f773115dc1be60128123e9?utm_campaign=1058&utm_source=git)** | Madison, PA | On Site | Dec 25 |
+| **[Komatsu](https://www.komatsu.jp)** | **[Intern, Customer Solutions](https://jobright.ai/jobs/info/69310d9e4c474121999eb9c5?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Dec 25 |
 | **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/6914ae476f36db06ef0483ef?utm_campaign=1058&utm_source=git)** | Ripon, WI | On Site | Dec 25 |
 | **[Pegasystems](http://www.pega.com)** | **[Technical Writer Intern - Summer 2026](https://jobright.ai/jobs/info/68f758215dc1be601280de66?utm_campaign=1058&utm_source=git)** | Waltham, MA | Remote | Dec 25 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Commercial Lines Intern - Summer 2026](https://jobright.ai/jobs/info/69309963ef4b48533d14cc3f?utm_campaign=1058&utm_source=git)** | Wallingford, CT | Hybrid | Dec 25 |
@@ -132,7 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #385](https://jobright.ai/jobs/info/694bb5cf5d731211347037bb?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Dec 23 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Intern](https://jobright.ai/jobs/info/694ba1f6d64ebf28d8215d94?utm_campaign=1058&utm_source=git)** | Salem, OR | On Site | Dec 23 |
 | ↳ | **[Pharmacist Intern](https://jobright.ai/jobs/info/694ba673d64ebf28d8215f07?utm_campaign=1058&utm_source=git)** | Happy Valley, OR | On Site | Dec 23 |
-| **[North Mississippi Health Services](http://www.nmhs.net/careers)** | **[Surgical Tech Intern](https://jobright.ai/jobs/info/694c83345d7312113470e0ec?utm_campaign=1058&utm_source=git)** | Tupelo, MS | On Site | Dec 23 |
+| **[North Mississippi Health Services](http://www.nmhs.net/careers)** | **[Surgical Tech Intern](https://jobright.ai/jobs/info/694c829c5d7312113470e085?utm_campaign=1058&utm_source=git)** | Tupelo, MS | On Site | Dec 23 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694b7e8bd64ebf28d8214435?utm_campaign=1058&utm_source=git)** | Concord, CA | On Site | Dec 23 |
 | ↳ | **[Foreign Pharmacy Grad- International Pharmacy Intern](https://jobright.ai/jobs/info/694b778a1a572a617dddd3e7?utm_campaign=1058&utm_source=git)** | Bothell, WA | On Site | Dec 23 |
 | **[LocumJobsOnline](https://www.locumtenensonline.com)** | **[Physician (MD/DO) - Internal Medicine - General/Other in Texas, TX](https://jobright.ai/jobs/info/694b73911a572a617dddca89?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Dec 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Catalent](https://www.catalent.com)** | **[IT Assistant, Intern](https://jobright.ai/jobs/info/694b265c4b53a1551f94e79b?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/694b22054b53a1551f94e53e?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Dec 23 |
 | **[Jenner & Block](http://jenner.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/694b20561224705e900245f0?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694b200a1224705e900245d6?utm_campaign=1058&utm_source=git)** | Katy, TX | On Site | Dec 23 |
-| **[National Heritage Academies](https://www.nhaschools.com)** | **[ERP & Business Systems Intern](https://jobright.ai/jobs/info/694b1ff71224705e900245d0?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Dec 23 |
-| **[New York Mets](https://www.mlb.com/mets)** | **[2026 Summer Intern, Information Technology](https://jobright.ai/jobs/info/694b16334b53a1551f94cf60?utm_campaign=1058&utm_source=git)** | Citi Field – Queens, New York | On Site | Dec 23 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[M365 and Directory Services Intern](https://jobright.ai/jobs/info/694b14ea1224705e90022f87?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | Hybrid | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
