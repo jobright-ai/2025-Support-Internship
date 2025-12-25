@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AHMC HealthCare](http://AHMChealth.com)** | **[Intern Pharmacist-Per Diem](https://jobright.ai/jobs/info/694ce86cd4a7df7a06722384?utm_campaign=1058&utm_source=git)** | Anaheim, CA | On Site | Dec 24 |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/304 PHARMACIST INTERN](https://jobright.ai/jobs/info/694ce3a2f5bef51c96eaa6ba?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Dec 24 |
+| ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/694ce34329655e4dd6570211?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Dec 24 |
 | **[accentedge](http://www.accentedge.com)** | **[Salesforce Intern - Nonprofit Success Pack (NPSP)](https://jobright.ai/jobs/info/694cae7ff5bef51c96ea7086?utm_campaign=1058&utm_source=git)** | Chicago, IL | Remote | Dec 24 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/694c9d5f29655e4dd656b454?utm_campaign=1058&utm_source=git)** | Texas City, TX | On Site | Dec 24 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Hospitality & Guest Service Internships](https://jobright.ai/jobs/info/68d30af817554c2d9eeed47c?utm_campaign=1058&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
@@ -103,12 +106,11 @@ For a complete list, click the following sortable link below:
 | **[Forestar Group Inc.](https://www.forestar.com/)** | **[Summer 2026 IT Intern - Forestar](https://jobright.ai/jobs/info/692f799cfa28370be26aa982?utm_campaign=1058&utm_source=git)** | Arlington, TX | On Site | Dec 24 |
 | **[ITC Holdings Corp.](http://www.itc-holdings.com/)** | **[Intern - Desktop Support](https://jobright.ai/jobs/info/692f55edef4b48533d14445e?utm_campaign=1058&utm_source=git)** | Cedar Rapids, IA | On Site | Dec 24 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 IT Intern - Forestar](https://jobright.ai/jobs/info/692fa5184c474121999e162e?utm_campaign=1058&utm_source=git)** | Arlington, TX | On Site | Dec 24 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/692f9367fa28370be26abb67?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Dec 24 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/692f89eafa28370be26ab49a?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Dec 24 |
 | ↳ | **[Intern-Nurse I](https://jobright.ai/jobs/info/692fe79aef4b48533d14988d?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Dec 24 |
 | **[MGO (Macias Gini & O'Connell LLP)](http://mgocpa.com)** | **[IT Intern](https://jobright.ai/jobs/info/692f6364fa28370be26a97e6?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Dec 24 |
 | **[Loram Maintenance of Way, Inc.](http://jobs.loram.com)** | **[Technical Communications Intern](https://jobright.ai/jobs/info/69127f16ea9ab01b82bf3299?utm_campaign=1058&utm_source=git)** | Hamel, MN | On Site | Dec 24 |
 | **[Element Biosciences](https://www.elementbiosciences.com)** | **[Customer Service and Success Intern](https://jobright.ai/jobs/info/692fad15fa28370be26acaf8?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Dec 24 |
-| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Norfolk, VA  Summer 2026 IT Intern](https://jobright.ai/jobs/info/694ccf3029655e4dd656f902?utm_campaign=1058&utm_source=git)** | Norfolk, VA | On Site | Dec 24 |
 | **[Pegasystems](http://www.pega.com)** | **[Technical Documentation Intern - Summer 2026](https://jobright.ai/jobs/info/68f767f55dc1be6012810821?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | Dec 24 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Technical Information Services](https://jobright.ai/jobs/info/691b8157bcdbf3560c9df7ff?utm_campaign=1058&utm_source=git)** | Garland, TX | On Site | Dec 24 |
 | **[Finni Health (YC W23)](https://www.finnihealth.com/)** | **[Paid BCBA Intern (Remote option available)](https://jobright.ai/jobs/info/694bc6ef5d731211347052d8?utm_campaign=1058&utm_source=git)** | Santa Fe, NM | Remote | Dec 24 |
@@ -120,7 +122,7 @@ For a complete list, click the following sortable link below:
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #385](https://jobright.ai/jobs/info/694bb5cf5d731211347037bb?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Dec 23 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Intern](https://jobright.ai/jobs/info/694ba1f6d64ebf28d8215d94?utm_campaign=1058&utm_source=git)** | Salem, OR | On Site | Dec 23 |
 | ↳ | **[Pharmacist Intern](https://jobright.ai/jobs/info/694ba673d64ebf28d8215f07?utm_campaign=1058&utm_source=git)** | Happy Valley, OR | On Site | Dec 23 |
-| **[North Mississippi Health Services](http://www.nmhs.net/careers)** | **[Surgical Tech Intern](https://jobright.ai/jobs/info/694c811dd64ebf28d8220a92?utm_campaign=1058&utm_source=git)** | Tupelo, MS | On Site | Dec 23 |
+| **[North Mississippi Health Services](http://www.nmhs.net/careers)** | **[Surgical Tech Intern](https://jobright.ai/jobs/info/694c829c5d7312113470e085?utm_campaign=1058&utm_source=git)** | Tupelo, MS | On Site | Dec 23 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694b7e8bd64ebf28d8214435?utm_campaign=1058&utm_source=git)** | Concord, CA | On Site | Dec 23 |
 | ↳ | **[Foreign Pharmacy Grad- International Pharmacy Intern](https://jobright.ai/jobs/info/694b778a1a572a617dddd3e7?utm_campaign=1058&utm_source=git)** | Bothell, WA | On Site | Dec 23 |
 | **[LocumJobsOnline](https://www.locumtenensonline.com)** | **[Physician (MD/DO) - Internal Medicine - General/Other in Texas, TX](https://jobright.ai/jobs/info/694b73911a572a617dddca89?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Dec 23 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[EagleBank](https://www.eaglebankcorp.com/)** | **[Teller Summer Intern](https://jobright.ai/jobs/info/694b09ba1224705e90021d68?utm_campaign=1058&utm_source=git)** | Potomac, MD | On Site | Dec 23 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[IT Intern - Order Operations](https://jobright.ai/jobs/info/694b066f67a69734cac6166d?utm_campaign=1058&utm_source=git)** | United States | Remote | Dec 23 |
 | **[IEWC](http://iewc.com)** | **[Customer Service/Sales Intern (Summer 2025)](https://jobright.ai/jobs/info/677783ccd1e4a616434a3332?utm_campaign=1058&utm_source=git)** | New Berlin, WI | On Site | Dec 23 |
-| **[Ballston Spa National Bank](https://www.bsnb.com)** | **[Seasonal Information Technology Intern](https://jobright.ai/jobs/info/694b050e1224705e90021a54?utm_campaign=1058&utm_source=git)** | Ballston Spa, NY | On Site | Dec 23 |
 | **[USA for UNHCR](https://www.unrefugees.org)** | **[Intern, Stewardship](https://jobright.ai/jobs/info/694b02851224705e9002186a?utm_campaign=1058&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
 | **[Ntiva, Inc.](http://www.ntiva.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/694b29803019f50a4fe63b8a?utm_campaign=1058&utm_source=git)** | Huntington, WV | On Site | Dec 23 |
 | **[EagleBank](https://www.eaglebankcorp.com/)** | **[Teller Summer Intern](https://jobright.ai/jobs/info/694b00f93019f50a4fe6085e?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Dec 23 |
-| **[Keck Medicine of USC](https://www.keckmedicine.org)** | **[Pharmacist Intern - Pharmacy - Per Diem 8 Hour Rotating Shifts (Non-Exempt) (Non-Union)](https://jobright.ai/jobs/info/694afdd667a69734cac610a6?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
