@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Client Experience Intern - Summer 2026](https://jobright.ai/jobs/info/6932345d948dde73ff9067c4?utm_campaign=1058&utm_source=git)** | Pasadena, CA | Hybrid | Dec 26 |
+| **[University of Michigan Health-Sparrow](https://www.uofmhealthsparrow.org)** | **[RESPIRATORY THERAPIST INTERN - Accepting New Grads](https://jobright.ai/jobs/info/68ef0f7f230ae70a14c3fa4b?utm_campaign=1058&utm_source=git)** | Lansing, MI | On Site | Dec 26 |
+| **[Boldyn Networks](http://www.mobilitie.com)** | **[Field Service Representative Intern](https://jobright.ai/jobs/info/68dbec8a97329f2f77320d4d?utm_campaign=1058&utm_source=git)** | Ithaca, NY | On Site | Dec 26 |
+| **[Staples](http://www.staples.com)** | **[CRM & Data Analytics Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/6914d7ce286ccf0a15128bf8?utm_campaign=1058&utm_source=git)** | Overland Park, KS | Hybrid | Dec 26 |
 | **[Bronson Healthcare](https://www.bronsonhealth.com/)** | **[Pharmacy Intern - Inpatient Pharmacy PRN](https://jobright.ai/jobs/info/694dff0df5bef51c96eb69f0?utm_campaign=1058&utm_source=git)** | Greater Kalamazoo Area | On Site | Dec 25 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Pharmacy Intern II - Inpatient](https://jobright.ai/jobs/info/694de759d4a7df7a0672d176?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 | ↳ | **[Dental Assistant, Intern](https://jobright.ai/jobs/info/694de5a029655e4dd657ad1a?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Finni Health (YC W23)](https://www.finnihealth.com/)** | **[Paid BCBA Intern (Remote option available)](https://jobright.ai/jobs/info/694bc6ef5d731211347052d8?utm_campaign=1058&utm_source=git)** | Santa Fe, NM | Remote | Dec 24 |
 | **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6912f63cea9ab01b82bf6a0a?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Dec 24 |
 | **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[IT Intern](https://jobright.ai/jobs/info/694bb32b1a572a617dde01fd?utm_campaign=1058&utm_source=git)** | Arden Hills, MN | Hybrid | Dec 24 |
-| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/694ba6291a572a617dddfd32?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Dec 24 |
-| **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[IT Intern](https://jobright.ai/jobs/info/694b9c401a572a617dddf8d9?utm_campaign=1058&utm_source=git)** | Arden Hills, MN (USA) | Hybrid | Dec 23 |
-| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Documentation & Communications](https://jobright.ai/jobs/info/694cfb1129655e4dd6570e06?utm_campaign=1058&utm_source=git)** | Marlborough, MA | On Site | Dec 23 |
-| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/694bb9ba1a572a617dde09cc?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
