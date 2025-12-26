@@ -57,9 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pure Fishing](https://www.purefishing.com)** | **[Consumer Service - Intern 1](https://jobright.ai/jobs/info/68f982db6de2db04dc3e9bad?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Dec 26 |
+| **[American Fidelity](http://www.americanfidelity.com)** | **[IT Intern (Help Desk)](https://jobright.ai/jobs/info/69324a40764507023d1acaec?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Dec 26 |
+| **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Mammography Technologist Intern - FT - Evenings - MHW](https://jobright.ai/jobs/info/69151a5f6f36db06ef04bb66?utm_campaign=1058&utm_source=git)** | Pembroke Pines, FL | On Site | Dec 26 |
+| **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Site support Technician, Summer 2026](https://jobright.ai/jobs/info/693205d9fa28370be26c0d5f?utm_campaign=1058&utm_source=git)** | Casa Grande, AZ | On Site | Dec 26 |
+| **[PSC Biotech® Corporation](http://biotech.com)** | **[IT Intern](https://jobright.ai/jobs/info/6931e1d4d0010831497bc890?utm_campaign=1058&utm_source=git)** | York, PA | On Site | Dec 26 |
+| **[TRUMPF North America](https://www.us.trumpf.com)** | **[IT Intern](https://jobright.ai/jobs/info/6933dd5b764507023d1ba2d7?utm_campaign=1058&utm_source=git)** | Farmington, CT | On Site | Dec 26 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/68fcc0bce04ac838fb5ac64d?utm_campaign=1058&utm_source=git)** | Arlington, TX | On Site | Dec 26 |
+| **[PTC](http://ptc.co/VLED30oHtEh)** | **[Experience Center Analyst Intern](https://jobright.ai/jobs/info/69320fa94c474121999f66e0?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Dec 26 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Commercial Lines Intern - Summer 2026](https://jobright.ai/jobs/info/6931f468fa28370be26bfbb3?utm_campaign=1058&utm_source=git)** | Harrison, NY | Hybrid | Dec 26 |
+| **[Nuvation Bio](https://www.nuvationbio.com/)** | **[Medical Writing Intern](https://jobright.ai/jobs/info/6932575c764507023d1ad617?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Dec 26 |
+| **[Trex Company](http://www.trex.com)** | **[2026 Summer Internship Program - Information Technology](https://jobright.ai/jobs/info/68ce23651ad6b16f028a227f?utm_campaign=1058&utm_source=git)** | Winchester, VA | On Site | Dec 26 |
+| **[Nuvation Bio](https://www.nuvationbio.com/)** | **[Medical Writing Intern](https://jobright.ai/jobs/info/69325093764507023d1acfd5?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Dec 26 |
+| **[Baptist Health](http://careers.baptisthealth.net)** | **[Pharmacy Intern 2, Ambulatory Pharmacy Services, Per Diem, Varies](https://jobright.ai/jobs/info/6888e5679f961617fe210234?utm_campaign=1058&utm_source=git)** | Miami Lakes, FL | On Site | Dec 26 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Client Experience Intern - Summer 2026](https://jobright.ai/jobs/info/6932345d948dde73ff9067c4?utm_campaign=1058&utm_source=git)** | Pasadena, CA | Hybrid | Dec 26 |
 | **[University of Michigan Health-Sparrow](https://www.uofmhealthsparrow.org)** | **[RESPIRATORY THERAPIST INTERN - Accepting New Grads](https://jobright.ai/jobs/info/68ef0f7f230ae70a14c3fa4b?utm_campaign=1058&utm_source=git)** | Lansing, MI | On Site | Dec 26 |
 | **[Boldyn Networks](http://www.mobilitie.com)** | **[Field Service Representative Intern](https://jobright.ai/jobs/info/68dbec8a97329f2f77320d4d?utm_campaign=1058&utm_source=git)** | Ithaca, NY | On Site | Dec 26 |
+| **[Baptist Health](http://careers.baptisthealth.net)** | **[Pharmacy Intern 2, Ambulatory Pharmacy Services, Per Diem, Varies](https://jobright.ai/jobs/info/68dd15bf44d32141e0bf3e3f?utm_campaign=1058&utm_source=git)** | Miami Lakes, FL | On Site | Dec 26 |
 | **[Staples](http://www.staples.com)** | **[CRM & Data Analytics Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/6914d7ce286ccf0a15128bf8?utm_campaign=1058&utm_source=git)** | Overland Park, KS | Hybrid | Dec 26 |
 | **[Bronson Healthcare](https://www.bronsonhealth.com/)** | **[Pharmacy Intern - Inpatient Pharmacy PRN](https://jobright.ai/jobs/info/694dff0df5bef51c96eb69f0?utm_campaign=1058&utm_source=git)** | Greater Kalamazoo Area | On Site | Dec 25 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Pharmacy Intern II - Inpatient](https://jobright.ai/jobs/info/694de759d4a7df7a0672d176?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[IT Support Internship](https://jobright.ai/jobs/info/691ab54315b415636718a10f?utm_campaign=1058&utm_source=git)** | Piscataway, NJ | Hybrid | Dec 24 |
 | **[Plug and Play Tech Center](https://www.plugandplaytechcenter.com)** | **[IT Intern](https://jobright.ai/jobs/info/692f243afa28370be26a7af7?utm_campaign=1058&utm_source=git)** | Sunnyvale, CA | On Site | Dec 24 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Customer Experience Intern](https://jobright.ai/jobs/info/692f580aef4b48533d14459c?utm_campaign=1058&utm_source=git)** | Fort Washington, PA | On Site | Dec 24 |
-| **[TowneBank](https://www.townebank.com/)** | **[Summer Intern - Card Services](https://jobright.ai/jobs/info/692fadedfa28370be26acb50?utm_campaign=1058&utm_source=git)** | Suffolk, VA | On Site | Dec 24 |
-| **[Forestar Group Inc.](https://www.forestar.com/)** | **[Summer 2026 IT Intern - Forestar](https://jobright.ai/jobs/info/692f799cfa28370be26aa982?utm_campaign=1058&utm_source=git)** | Arlington, TX | On Site | Dec 24 |
-| **[ITC Holdings Corp.](http://www.itc-holdings.com/)** | **[Intern - Desktop Support](https://jobright.ai/jobs/info/692f55edef4b48533d14445e?utm_campaign=1058&utm_source=git)** | Cedar Rapids, IA | On Site | Dec 24 |
-| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 IT Intern - Forestar](https://jobright.ai/jobs/info/692fa5184c474121999e162e?utm_campaign=1058&utm_source=git)** | Arlington, TX | On Site | Dec 24 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/692f89eafa28370be26ab49a?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Dec 24 |
-| ↳ | **[Intern-Nurse I](https://jobright.ai/jobs/info/692fe79aef4b48533d14988d?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Dec 24 |
-| **[MGO (Macias Gini & O'Connell LLP)](http://mgocpa.com)** | **[IT Intern](https://jobright.ai/jobs/info/692f6364fa28370be26a97e6?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Dec 24 |
-| **[Loram Maintenance of Way, Inc.](http://jobs.loram.com)** | **[Technical Communications Intern](https://jobright.ai/jobs/info/69127f16ea9ab01b82bf3299?utm_campaign=1058&utm_source=git)** | Hamel, MN | On Site | Dec 24 |
-| **[Element Biosciences](https://www.elementbiosciences.com)** | **[Customer Service and Success Intern](https://jobright.ai/jobs/info/692fad15fa28370be26acaf8?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Dec 24 |
-| **[Pegasystems](http://www.pega.com)** | **[Technical Documentation Intern - Summer 2026](https://jobright.ai/jobs/info/68f767f55dc1be6012810821?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | Dec 24 |
-| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Technical Information Services](https://jobright.ai/jobs/info/691b8157bcdbf3560c9df7ff?utm_campaign=1058&utm_source=git)** | Garland, TX | On Site | Dec 24 |
-| **[Finni Health (YC W23)](https://www.finnihealth.com/)** | **[Paid BCBA Intern (Remote option available)](https://jobright.ai/jobs/info/694bc6ef5d731211347052d8?utm_campaign=1058&utm_source=git)** | Santa Fe, NM | Remote | Dec 24 |
-| **[NYC Health + Hospitals](http://www.nychealthandhospitals.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6912f63cea9ab01b82bf6a0a?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Dec 24 |
-| **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[IT Intern](https://jobright.ai/jobs/info/694bb32b1a572a617dde01fd?utm_campaign=1058&utm_source=git)** | Arden Hills, MN | Hybrid | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
