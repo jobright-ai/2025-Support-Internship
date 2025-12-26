@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Denver Health](http://www.denverhealth.org)** | **[Pharmacy Intern II - Inpatient](https://jobright.ai/jobs/info/694de759d4a7df7a0672d176?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
+| ↳ | **[Dental Assistant, Intern](https://jobright.ai/jobs/info/694de5a029655e4dd657ad1a?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
+| ↳ | **[Pharmacy Intern II](https://jobright.ai/jobs/info/694de59529655e4dd657acf0?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
+| ↳ | **[Outpatient Retail Pharmacy P1 Intern](https://jobright.ai/jobs/info/694de56529655e4dd657aca3?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 | **[PharPoint Research, Inc.](http://pharpoint.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/694da00cd4a7df7a0672a1cc?utm_campaign=1058&utm_source=git)** | Wilmington, NC | On Site | Dec 25 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/694d8dbe29655e4dd6576f6f?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Dec 25 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Pharmacy Intern - Outpatient Retail](https://jobright.ai/jobs/info/694d751329655e4dd65763af?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/694ba6291a572a617dddfd32?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Dec 24 |
 | **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[IT Intern](https://jobright.ai/jobs/info/694b9c401a572a617dddf8d9?utm_campaign=1058&utm_source=git)** | Arden Hills, MN (USA) | Hybrid | Dec 23 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Documentation & Communications](https://jobright.ai/jobs/info/694cfb1129655e4dd6570e06?utm_campaign=1058&utm_source=git)** | Marlborough, MA | On Site | Dec 23 |
-| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/694bb9ba1a572a617dde09cc?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 23 |
-| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #385](https://jobright.ai/jobs/info/694bb5cf5d731211347037bb?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Dec 23 |
-| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Intern](https://jobright.ai/jobs/info/694ba1f6d64ebf28d8215d94?utm_campaign=1058&utm_source=git)** | Salem, OR | On Site | Dec 23 |
-| ↳ | **[Pharmacist Intern](https://jobright.ai/jobs/info/694ba673d64ebf28d8215f07?utm_campaign=1058&utm_source=git)** | Happy Valley, OR | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
