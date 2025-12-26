@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Canyon Network of Care](https://www.northcanyon.org)** | **[Intern Student Medical Assistant/ PRN](https://jobright.ai/jobs/info/694ebd15a2668b7f5452107b?utm_campaign=1058&utm_source=git)** | Buhl, ID | On Site | Dec 26 |
 | **[Honeywell](http://www.honeywell.com)** | **[Field Service Tech Intern](https://jobright.ai/jobs/info/69182ab945fb6f5ead8a254e?utm_campaign=1058&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 26 |
 | ↳ | **[Intern Field Service Technician](https://jobright.ai/jobs/info/69171b86370fde633d07d68a?utm_campaign=1058&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 26 |
 | **[ABB](https://global.abb/group/en)** | **[IS Salesforce.com Agile Delivery Intern- Summer 2026](https://jobright.ai/jobs/info/6932685ea0dde7020e2e6981?utm_campaign=1058&utm_source=git)** | Cary, NC | Hybrid | Dec 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/694bf99c5d73121134707e58?utm_campaign=1058&utm_source=git)** | Stuarts Draft, VA | On Site | Dec 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694bf9855d73121134707e54?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Dec 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694bf3741a572a617dde42a0?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Dec 24 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/694bf2f71a572a617dde41ed?utm_campaign=1058&utm_source=git)** | Carthage, MO | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
