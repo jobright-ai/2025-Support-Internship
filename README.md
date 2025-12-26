@@ -98,8 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Customer Care Internship](https://jobright.ai/jobs/info/691464856f36db06ef0470df?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Dec 25 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Perioperative](https://jobright.ai/jobs/info/694ced9029655e4dd657087f?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Dec 24 |
 | **[AHMC HealthCare](http://AHMChealth.com)** | **[Intern Pharmacist-Per Diem](https://jobright.ai/jobs/info/694ce86cd4a7df7a06722384?utm_campaign=1058&utm_source=git)** | Anaheim, CA | On Site | Dec 24 |
-| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/304 PHARMACIST INTERN](https://jobright.ai/jobs/info/694ce3a2f5bef51c96eaa6ba?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Dec 24 |
-| ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/694ce34329655e4dd6570211?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Dec 24 |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/694ce34329655e4dd6570211?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Dec 24 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/694c9d5f29655e4dd656b454?utm_campaign=1058&utm_source=git)** | Texas City, TX | On Site | Dec 24 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Hospitality & Guest Service Internships](https://jobright.ai/jobs/info/68d30af817554c2d9eeed47c?utm_campaign=1058&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
 | **[Loews Hotels & Co](https://www.loewshotels.com)** | **[Rooms Internship - Loews Hotels Universal Orlando](https://jobright.ai/jobs/info/694c929ad64ebf28d822136c?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Dec 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/694ba6291a572a617dddfd32?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Dec 24 |
 | **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[IT Intern](https://jobright.ai/jobs/info/694b9c401a572a617dddf8d9?utm_campaign=1058&utm_source=git)** | Arden Hills, MN (USA) | Hybrid | Dec 23 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Documentation & Communications](https://jobright.ai/jobs/info/694cfb1129655e4dd6570e06?utm_campaign=1058&utm_source=git)** | Marlborough, MA | On Site | Dec 23 |
+| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/694bb9ba1a572a617dde09cc?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
