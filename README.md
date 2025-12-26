@@ -63,7 +63,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern II](https://jobright.ai/jobs/info/694de59529655e4dd657acf0?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 | ↳ | **[Outpatient Retail Pharmacy P1 Intern](https://jobright.ai/jobs/info/694de56529655e4dd657aca3?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 | **[PharPoint Research, Inc.](http://pharpoint.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/694da00cd4a7df7a0672a1cc?utm_campaign=1058&utm_source=git)** | Wilmington, NC | On Site | Dec 25 |
-| **[Mauldin & Jenkins](http://mjcpa.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/694d8dbe29655e4dd6576f6f?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Dec 25 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Pharmacy Intern - Outpatient Retail](https://jobright.ai/jobs/info/694d751329655e4dd65763af?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694d7885d4a7df7a06728444?utm_campaign=1058&utm_source=git)** | Freehold, NJ | On Site | Dec 25 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694d7db429655e4dd65765a7?utm_campaign=1058&utm_source=git)** | Atlantic City, NJ | On Site | Dec 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[IT Intern](https://jobright.ai/jobs/info/694bb32b1a572a617dde01fd?utm_campaign=1058&utm_source=git)** | Arden Hills, MN | Hybrid | Dec 24 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/694ba6291a572a617dddfd32?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Dec 24 |
 | **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[IT Intern](https://jobright.ai/jobs/info/694b9c401a572a617dddf8d9?utm_campaign=1058&utm_source=git)** | Arden Hills, MN (USA) | Hybrid | Dec 23 |
+| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Documentation & Communications](https://jobright.ai/jobs/info/694cfb1129655e4dd6570e06?utm_campaign=1058&utm_source=git)** | Marlborough, MA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
