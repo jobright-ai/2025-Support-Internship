@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Almodovar Group, LLC](https://www.almodovar.co)** | **[Intern](https://jobright.ai/jobs/info/694ef79ea2668b7f54524780?utm_campaign=1058&utm_source=git)** | Tampa, FL | Remote | Dec 26 |
+| **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Emergency Department, Per Diem, 11A-11:30P](https://jobright.ai/jobs/info/694ef505ce13cd1056573c17?utm_campaign=1058&utm_source=git)** | South Miami, FL | On Site | Dec 26 |
+| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[SE - Pharmacy Intern](https://jobright.ai/jobs/info/694ef2fb29655e4dd65876b6?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Dec 26 |
+| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 - 6-Month College Intern - Breckenridge, CO (Front Office)](https://jobright.ai/jobs/info/694ef090a2668b7f54522bd9?utm_campaign=1058&utm_source=git)** | Breckenridge, CO | On Site | Dec 26 |
+| ↳ | **[Summer 2026 - 6-Month College Intern - Breckenridge, CO (Front Office)](https://jobright.ai/jobs/info/694eec02ce13cd10565724a3?utm_campaign=1058&utm_source=git)** | Marriott's Mountain Valley Lodge | On Site | Dec 26 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694ee19529655e4dd6586ec0?utm_campaign=1058&utm_source=git)** | US-FL-Middleburg | On Site | Dec 26 |
 | **[Wärtsilä](http://www.wartsila.com/)** | **[Field Service Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/694ee0f7a2668b7f545224fe?utm_campaign=1058&utm_source=git)** | Houston, TX, US | Hybrid | Dec 26 |
 | **[North Canyon Network of Care](https://www.northcanyon.org)** | **[Intern Student Medical Assistant/ PRN](https://jobright.ai/jobs/info/694ebd15a2668b7f5452107b?utm_campaign=1058&utm_source=git)** | Buhl, ID | On Site | Dec 26 |
@@ -87,10 +92,10 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Pharmacy Intern 2, Ambulatory Pharmacy Services, Per Diem, Varies](https://jobright.ai/jobs/info/68dd15bf44d32141e0bf3e3f?utm_campaign=1058&utm_source=git)** | Miami Lakes, FL | On Site | Dec 26 |
 | **[Staples](http://www.staples.com)** | **[CRM & Data Analytics Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/6914d7ce286ccf0a15128bf8?utm_campaign=1058&utm_source=git)** | Overland Park, KS | Hybrid | Dec 26 |
 | **[Bronson Healthcare](https://www.bronsonhealth.com/)** | **[Pharmacy Intern - Inpatient Pharmacy PRN](https://jobright.ai/jobs/info/694dff0df5bef51c96eb69f0?utm_campaign=1058&utm_source=git)** | Greater Kalamazoo Area | On Site | Dec 25 |
-| **[Denver Health](http://www.denverhealth.org)** | **[Dental Assistant, Intern](https://jobright.ai/jobs/info/694de5a029655e4dd657ad1a?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
+| **[Denver Health](http://www.denverhealth.org)** | **[Pharmacy Intern II - Inpatient](https://jobright.ai/jobs/info/694de759d4a7df7a0672d176?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
+| ↳ | **[Dental Assistant, Intern](https://jobright.ai/jobs/info/694de5a029655e4dd657ad1a?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 | ↳ | **[Pharmacy Intern II](https://jobright.ai/jobs/info/694de59529655e4dd657acf0?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 | ↳ | **[Outpatient Retail Pharmacy P1 Intern](https://jobright.ai/jobs/info/694de56529655e4dd657aca3?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
-| ↳ | **[Pharmacy Intern II - Inpatient](https://jobright.ai/jobs/info/694de48629655e4dd657ab77?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 | **[PharPoint Research, Inc.](http://pharpoint.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/694da00cd4a7df7a0672a1cc?utm_campaign=1058&utm_source=git)** | Wilmington, NC | On Site | Dec 25 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Pharmacy Intern - Outpatient Retail](https://jobright.ai/jobs/info/694d751329655e4dd65763af?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694d7885d4a7df7a06728444?utm_campaign=1058&utm_source=git)** | Freehold, NJ | On Site | Dec 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Froedtert Health](http://www.froedtert.com)** | **[CERT NURSING ASST APPRENTICE, FH - 5NE - INTERNAL MEDICINE](https://jobright.ai/jobs/info/694c12875d7312113470871a?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Dec 24 |
 | **[JFK International Air Terminal](https://www.jfkt4.nyc)** | **[Intern, Operations](https://jobright.ai/jobs/info/6944979150bbaf765056a0b1?utm_campaign=1058&utm_source=git)** | Jamaica, NY | On Site | Dec 24 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/694c0348d64ebf28d821ad7f?utm_campaign=1058&utm_source=git)** | Toms River, NJ | On Site | Dec 24 |
-| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/694bffcd5d731211347080d2?utm_campaign=1058&utm_source=git)** | La Vergne, TN | On Site | Dec 24 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694bfedd1a572a617dde4ad2?utm_campaign=1058&utm_source=git)** | Lawrence, KS | On Site | Dec 24 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694bfe401a572a617dde4a75?utm_campaign=1058&utm_source=git)** | Johnson City, TN | On Site | Dec 24 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694bfd271a572a617dde49f9?utm_campaign=1058&utm_source=git)** | Greeneville, TN | On Site | Dec 24 |
-| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/694bf99c5d73121134707e58?utm_campaign=1058&utm_source=git)** | Stuarts Draft, VA | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
