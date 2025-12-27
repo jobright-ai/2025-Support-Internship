@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cambria](http://www.cambriausa.com)** | **[Guest Experience Intern](https://jobright.ai/jobs/info/694f0fd8a2668b7f54524c73?utm_campaign=1058&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/694f07a529655e4dd6589463?utm_campaign=1058&utm_source=git)** | Tipp City, OH | On Site | Dec 26 |
 | **[Almodovar Group, LLC](https://www.almodovar.co)** | **[Intern](https://jobright.ai/jobs/info/694ef79ea2668b7f54524780?utm_campaign=1058&utm_source=git)** | Tampa, FL | Remote | Dec 26 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, Emergency Department, Per Diem, 11A-11:30P](https://jobright.ai/jobs/info/694ef505ce13cd1056573c17?utm_campaign=1058&utm_source=git)** | South Miami, FL | On Site | Dec 26 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[SE - Pharmacy Intern](https://jobright.ai/jobs/info/694ef2fb29655e4dd65876b6?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Dec 26 |
@@ -71,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/68a540ad33dd7158bbc984ac?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Dec 26 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Paid Intern (Manassas, VA)](https://jobright.ai/jobs/info/6932a968f131d96e4845d6d3?utm_campaign=1058&utm_source=git)** | Manassas, VA | On Site | Dec 26 |
 | **[Pure Fishing](https://www.purefishing.com)** | **[Consumer Service - Intern 1](https://jobright.ai/jobs/info/68f982db6de2db04dc3e9bad?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Dec 26 |
-| **[American Fidelity](http://www.americanfidelity.com)** | **[IT Intern (Help Desk)](https://jobright.ai/jobs/info/69324a40764507023d1acaec?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Dec 26 |
 | **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Mammography Technologist Intern - FT - Evenings - MHW](https://jobright.ai/jobs/info/69151a5f6f36db06ef04bb66?utm_campaign=1058&utm_source=git)** | Pembroke Pines, FL | On Site | Dec 26 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Site support Technician, Summer 2026](https://jobright.ai/jobs/info/693205d9fa28370be26c0d5f?utm_campaign=1058&utm_source=git)** | Casa Grande, AZ | On Site | Dec 26 |
 | **[PSC Biotech® Corporation](http://biotech.com)** | **[IT Intern](https://jobright.ai/jobs/info/6931e1d4d0010831497bc890?utm_campaign=1058&utm_source=git)** | York, PA | On Site | Dec 26 |
@@ -92,10 +93,10 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Pharmacy Intern 2, Ambulatory Pharmacy Services, Per Diem, Varies](https://jobright.ai/jobs/info/68dd15bf44d32141e0bf3e3f?utm_campaign=1058&utm_source=git)** | Miami Lakes, FL | On Site | Dec 26 |
 | **[Staples](http://www.staples.com)** | **[CRM & Data Analytics Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/6914d7ce286ccf0a15128bf8?utm_campaign=1058&utm_source=git)** | Overland Park, KS | Hybrid | Dec 26 |
 | **[Bronson Healthcare](https://www.bronsonhealth.com/)** | **[Pharmacy Intern - Inpatient Pharmacy PRN](https://jobright.ai/jobs/info/694dff0df5bef51c96eb69f0?utm_campaign=1058&utm_source=git)** | Greater Kalamazoo Area | On Site | Dec 25 |
-| **[Denver Health](http://www.denverhealth.org)** | **[Pharmacy Intern II - Inpatient](https://jobright.ai/jobs/info/694de759d4a7df7a0672d176?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
-| ↳ | **[Dental Assistant, Intern](https://jobright.ai/jobs/info/694de5a029655e4dd657ad1a?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
+| **[Denver Health](http://www.denverhealth.org)** | **[Dental Assistant, Intern](https://jobright.ai/jobs/info/694de5a029655e4dd657ad1a?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 | ↳ | **[Pharmacy Intern II](https://jobright.ai/jobs/info/694de59529655e4dd657acf0?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 | ↳ | **[Outpatient Retail Pharmacy P1 Intern](https://jobright.ai/jobs/info/694de56529655e4dd657aca3?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
+| ↳ | **[Pharmacy Intern II - Inpatient](https://jobright.ai/jobs/info/694de48629655e4dd657ab77?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 | **[PharPoint Research, Inc.](http://pharpoint.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/694da00cd4a7df7a0672a1cc?utm_campaign=1058&utm_source=git)** | Wilmington, NC | On Site | Dec 25 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Pharmacy Intern - Outpatient Retail](https://jobright.ai/jobs/info/694d751329655e4dd65763af?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694d7885d4a7df7a06728444?utm_campaign=1058&utm_source=git)** | Freehold, NJ | On Site | Dec 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Utah](http://www.utah.gov/)** | **[Work Ability Intern - Front Desk Receptionist - Taylorsville and South Jordan](https://jobright.ai/jobs/info/694c16e0d64ebf28d821b329?utm_campaign=1058&utm_source=git)** | Salt Lake County, UT | On Site | Dec 24 |
 | **[Froedtert Health](http://www.froedtert.com)** | **[CERT NURSING ASST APPRENTICE, FH - 5NE - INTERNAL MEDICINE](https://jobright.ai/jobs/info/694c12875d7312113470871a?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Dec 24 |
 | **[JFK International Air Terminal](https://www.jfkt4.nyc)** | **[Intern, Operations](https://jobright.ai/jobs/info/6944979150bbaf765056a0b1?utm_campaign=1058&utm_source=git)** | Jamaica, NY | On Site | Dec 24 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/694c0348d64ebf28d821ad7f?utm_campaign=1058&utm_source=git)** | Toms River, NJ | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
