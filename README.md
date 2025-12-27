@@ -142,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Customer Care Internship](https://jobright.ai/jobs/info/691464856f36db06ef0470df?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Dec 25 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Perioperative](https://jobright.ai/jobs/info/694ced9029655e4dd657087f?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Dec 24 |
 | **[AHMC HealthCare](http://AHMChealth.com)** | **[Intern Pharmacist-Per Diem](https://jobright.ai/jobs/info/694ce86cd4a7df7a06722384?utm_campaign=1058&utm_source=git)** | Anaheim, CA | On Site | Dec 24 |
-| **[Dunbarton Corporation](https://dunbarton.com/)** | **[IT Technician Apprentice](https://jobright.ai/jobs/info/694f5551ce13cd1056577c72?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Dec 24 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/694c9d5f29655e4dd656b454?utm_campaign=1058&utm_source=git)** | Texas City, TX | On Site | Dec 24 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Hospitality & Guest Service Internships](https://jobright.ai/jobs/info/68d30af817554c2d9eeed47c?utm_campaign=1058&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
 | **[Loews Hotels & Co](https://www.loewshotels.com)** | **[Rooms Internship - Loews Hotels Universal Orlando](https://jobright.ai/jobs/info/694c929ad64ebf28d822136c?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Dec 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/694c68e1d64ebf28d82202ac?utm_campaign=1058&utm_source=git)** | Catonsville, MD | On Site | Dec 24 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/694c68c15d7312113470d8c4?utm_campaign=1058&utm_source=git)** | Gardena, CA | On Site | Dec 24 |
 | **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern  P1 Contingent Rotate](https://jobright.ai/jobs/info/694c67681a572a617ddea271?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Dec 24 |
+| **[Saint Luke's](https://www.saintlukeskc.org)** | **[Float Clinical Intern, PRN](https://jobright.ai/jobs/info/694cbbbaf5bef51c96ea8366?utm_campaign=1058&utm_source=git)** | Lees Summit, MO | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
