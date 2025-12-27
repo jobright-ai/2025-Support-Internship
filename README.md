@@ -57,6 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ASML](https://www.asml.com)** | **[Internship – Customer Badging](https://jobright.ai/jobs/info/68f9ce25cadb2e5a06a67cca?utm_campaign=1058&utm_source=git)** | Hillsboro, OR | On Site | Dec 27 |
+| **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/68f9697da628d10664e8cd10?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Dec 27 |
+| **[Princess Cruises](http://www.princess.com)** | **[Intern, Communication and Documentation](https://jobright.ai/jobs/info/69337418764507023d1b5d7a?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Dec 27 |
+| **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/68f9685da628d10664e8cc77?utm_campaign=1058&utm_source=git)** | Hudson, WI | On Site | Dec 27 |
+| ↳ | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/68f9678aa628d10664e8cbe8?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Dec 27 |
+| **[Citi](https://www.citi.com)** | **[Technology, Production Support, Summer Analyst, New York/New Jersey - USA, 2026](https://jobright.ai/jobs/info/69160704286ccf0a15132045?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Dec 27 |
+| **[Enterprise](https://www.enterprise.com)** | **[Service Operations Summer Internship](https://jobright.ai/jobs/info/6933947af131d96e4846491f?utm_campaign=1058&utm_source=git)** | St Louis, MO | Hybrid | Dec 27 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68198b4060a1e1b3dc6d01d9?utm_campaign=1058&utm_source=git)** | Hawley, MN | On Site | Dec 27 |
+| **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[Intern: End User Support Analyst- Summer 2026](https://jobright.ai/jobs/info/69164b7e6f36db06ef054b76?utm_campaign=1058&utm_source=git)** | Hickory, NC | Hybrid | Dec 27 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Graduate Intern - Information Management (MA)](https://jobright.ai/jobs/info/69175650bcdbf3560c9c6f30?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Dec 27 |
+| **[apexanalytix](https://www.apexanalytix.com)** | **[Support/Implementation Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/68c027e1702aa35207aaaf88?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Dec 27 |
+| **[Grocery Outlet](https://groceryoutlet.com/)** | **[Summer Intern - Operator Support](https://jobright.ai/jobs/info/691685e96f36db06ef057607?utm_campaign=1058&utm_source=git)** | Emeryville, CA | On Site | Dec 27 |
+| **[Ohio Department of Administrative Services](http://das.ohio.gov)** | **[IT Intern (Enterprise Service Management)](https://jobright.ai/jobs/info/691656eb6f36db06ef055399?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Dec 27 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II 3 South](https://jobright.ai/jobs/info/6931f7114c474121999f4eb2?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Dec 27 |
+| **[State of Missouri](http://mo.gov)** | **[Summer Intern - Springfield General Services & Facilities](https://jobright.ai/jobs/info/6943c363dd382f5f5669d79f?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Dec 27 |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Help Desk Intern](https://jobright.ai/jobs/info/690cf67cd046ab6061cf0e0c?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Dec 27 |
+| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Pharmacy Intern - Mail Center, Per Diem](https://jobright.ai/jobs/info/694fc922a2668b7f5452e0ce?utm_campaign=1058&utm_source=git)** | Manchester, NH | On Site | Dec 27 |
 | **[Guidepoint](http://www.guidepoint.com)** | **[2024 Tech Intern Pool](https://jobright.ai/jobs/info/667713ec3ab189f6697e9413?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Dec 27 |
 | **[GenPark](https://genpark.ai)** | **[Mobile Application Intern](https://jobright.ai/jobs/info/694fc276a2668b7f5452e03a?utm_campaign=1058&utm_source=git)** | Seattle, WA | Hybrid | Dec 27 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[IS Help Desk Intern](https://jobright.ai/jobs/info/69165acb286ccf0a15134ddb?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Dec 27 |
@@ -140,21 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Clinical Intern - Surg Ortho / IPT](https://jobright.ai/jobs/info/694d68a8f5bef51c96eb079f?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Dec 25 |
 | ↳ | **[Student Nurse Intern- Medical Telemetry / IPT](https://jobright.ai/jobs/info/694d76e329655e4dd6576415?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Dec 25 |
 | ↳ | **[Student Nurse Intern - Medical Oncology / IPT](https://jobright.ai/jobs/info/694d6cc729655e4dd6576207?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Dec 25 |
-| ↳ | **[Student Nurse Intern - Emergency Department / IPT](https://jobright.ai/jobs/info/694d766829655e4dd65763f2?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Dec 25 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - Med/Surg 6T](https://jobright.ai/jobs/info/681574c74b2da7f970423725?utm_campaign=1058&utm_source=git)** | Southaven, MS | On Site | Dec 25 |
-| **[Aman](https://www.aman.com/)** | **[Food & Beverage 12 month Intern - Amangiri](https://jobright.ai/jobs/info/68f8014d5dc1be601282018b?utm_campaign=1058&utm_source=git)** | Page, AZ | On Site | Dec 25 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Field Services Student Technician, NDE](https://jobright.ai/jobs/info/68f773115dc1be60128123e9?utm_campaign=1058&utm_source=git)** | Madison, PA | On Site | Dec 25 |
-| **[Komatsu](https://www.komatsu.jp)** | **[Intern, Customer Solutions](https://jobright.ai/jobs/info/69310d9e4c474121999eb9c5?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Dec 25 |
-| **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/6914ae476f36db06ef0483ef?utm_campaign=1058&utm_source=git)** | Ripon, WI | On Site | Dec 25 |
-| **[Pegasystems](http://www.pega.com)** | **[Technical Writer Intern - Summer 2026](https://jobright.ai/jobs/info/68f758215dc1be601280de66?utm_campaign=1058&utm_source=git)** | Waltham, MA | Remote | Dec 25 |
-| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Commercial Lines Intern - Summer 2026](https://jobright.ai/jobs/info/69309963ef4b48533d14cc3f?utm_campaign=1058&utm_source=git)** | Wallingford, CT | Hybrid | Dec 25 |
-| **[Lumicera Health Services](https://www.lumicera.com/)** | **[Clinical Intern, Specialty Pharmacy](https://jobright.ai/jobs/info/68dc29b066059a42a715c2b9?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Dec 25 |
-| **[ChristianaCare](http://christianacare.org)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/6934f7bea0dde7020e2f6d8d?utm_campaign=1058&utm_source=git)** | Newark, DE | On Site | Dec 25 |
-| **[Navitus Health Solutions](https://www.navitus.com/)** | **[Clinical Intern, Specialty Pharmacy](https://jobright.ai/jobs/info/68dc3ee9a125e75c4229ea2a?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Dec 25 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[Customer Care Internship](https://jobright.ai/jobs/info/691464856f36db06ef0470df?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Dec 25 |
-| **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Perioperative](https://jobright.ai/jobs/info/694ced9029655e4dd657087f?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Dec 24 |
-| **[AHMC HealthCare](http://AHMChealth.com)** | **[Intern Pharmacist-Per Diem](https://jobright.ai/jobs/info/694ce86cd4a7df7a06722384?utm_campaign=1058&utm_source=git)** | Anaheim, CA | On Site | Dec 24 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/694c9d5f29655e4dd656b454?utm_campaign=1058&utm_source=git)** | Texas City, TX | On Site | Dec 24 |
-| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Hospitality & Guest Service Internships](https://jobright.ai/jobs/info/68d30af817554c2d9eeed47c?utm_campaign=1058&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
-| **[Loews Hotels & Co](https://www.loewshotels.com)** | **[Rooms Internship - Loews Hotels Universal Orlando](https://jobright.ai/jobs/info/694c929ad64ebf28d822136c?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
