@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Christensen Farms](https://www.christensenfarms.com)** | **[IT Internship](https://jobright.ai/jobs/info/694facffa2668b7f5452de90?utm_campaign=1058&utm_source=git)** | Sleepy Eye, MN | On Site | Dec 27 |
+| **[UNM Medical Group, Inc.](https://unmhealth.org/locations/medical-group/)** | **[Medical Coding Intern - Fully Remote - Must have a NM Residence](https://jobright.ai/jobs/info/694f921aa2668b7f5452bbb6?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | Remote | Dec 27 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[RbA Customer Experience Intern](https://jobright.ai/jobs/info/6940daccaa598a08c3f08007?utm_campaign=1058&utm_source=git)** | Oak Park Heights, MN | On Site | Dec 26 |
 | **[UChicago Medicine](https://www.uchicagomedicine.org/)** | **[Student Pharmacy Intern, Ambulatory Pharmacy, Population Health; Burr Ridge](https://jobright.ai/jobs/info/694f3f04ce13cd1056576f5e?utm_campaign=1058&utm_source=git)** | Burr Ridge, IL | On Site | Dec 26 |
 | ↳ | **[Student Pharmacy Intern, Ambulatory Pharmacy, Population Health; Burr Ridge](https://jobright.ai/jobs/info/694f3d6129655e4dd658bc02?utm_campaign=1058&utm_source=git)** | US-IL-Burr Ridge | On Site | Dec 26 |
@@ -103,10 +105,10 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Pharmacy Intern 2, Ambulatory Pharmacy Services, Per Diem, Varies](https://jobright.ai/jobs/info/68dd15bf44d32141e0bf3e3f?utm_campaign=1058&utm_source=git)** | Miami Lakes, FL | On Site | Dec 26 |
 | **[Staples](http://www.staples.com)** | **[CRM & Data Analytics Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/6914d7ce286ccf0a15128bf8?utm_campaign=1058&utm_source=git)** | Overland Park, KS | Hybrid | Dec 26 |
 | **[Bronson Healthcare](https://www.bronsonhealth.com/)** | **[Pharmacy Intern - Inpatient Pharmacy PRN](https://jobright.ai/jobs/info/694dff0df5bef51c96eb69f0?utm_campaign=1058&utm_source=git)** | Greater Kalamazoo Area | On Site | Dec 25 |
-| **[Denver Health](http://www.denverhealth.org)** | **[Pharmacy Intern II - Inpatient](https://jobright.ai/jobs/info/694de759d4a7df7a0672d176?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
-| ↳ | **[Dental Assistant, Intern](https://jobright.ai/jobs/info/694de5a029655e4dd657ad1a?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
+| **[Denver Health](http://www.denverhealth.org)** | **[Dental Assistant, Intern](https://jobright.ai/jobs/info/694de5a029655e4dd657ad1a?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 | ↳ | **[Pharmacy Intern II](https://jobright.ai/jobs/info/694de59529655e4dd657acf0?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 | ↳ | **[Outpatient Retail Pharmacy P1 Intern](https://jobright.ai/jobs/info/694de56529655e4dd657aca3?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
+| ↳ | **[Pharmacy Intern II - Inpatient](https://jobright.ai/jobs/info/694de48629655e4dd657ab77?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 | **[PharPoint Research, Inc.](http://pharpoint.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/694da00cd4a7df7a0672a1cc?utm_campaign=1058&utm_source=git)** | Wilmington, NC | On Site | Dec 25 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Pharmacy Intern - Outpatient Retail](https://jobright.ai/jobs/info/694d751329655e4dd65763af?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694d7885d4a7df7a06728444?utm_campaign=1058&utm_source=git)** | Freehold, NJ | On Site | Dec 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Summer Omni Care Internship / Rooms](https://jobright.ai/jobs/info/694c6aae5d7312113470d945?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Dec 24 |
 | **[BMO](http://www.bmo.com)** | **[Customer Service Representative (Co-op/Internship), Summer 2026, Montreal - 4 months](https://jobright.ai/jobs/info/694c6936d64ebf28d82202cc?utm_campaign=1058&utm_source=git)** | MONTREAL, QC, CAN | On Site | Dec 24 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/694c68e1d64ebf28d82202ac?utm_campaign=1058&utm_source=git)** | Catonsville, MD | On Site | Dec 24 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/694c68c15d7312113470d8c4?utm_campaign=1058&utm_source=git)** | Gardena, CA | On Site | Dec 24 |
-| **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern  P1 Contingent Rotate](https://jobright.ai/jobs/info/694c67681a572a617ddea271?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
