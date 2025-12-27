@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Guidepoint](http://www.guidepoint.com)** | **[2024 Tech Intern Pool](https://jobright.ai/jobs/info/667713ec3ab189f6697e9413?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Dec 27 |
+| **[GenPark](https://genpark.ai)** | **[Mobile Application Intern](https://jobright.ai/jobs/info/694fc276a2668b7f5452e03a?utm_campaign=1058&utm_source=git)** | Seattle, WA | Hybrid | Dec 27 |
+| **[Trimble Inc.](http://www.trimble.com)** | **[IS Help Desk Intern](https://jobright.ai/jobs/info/69165acb286ccf0a15134ddb?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Dec 27 |
+| **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - IT](https://jobright.ai/jobs/info/69337b2da0dde7020e2ee6d5?utm_campaign=1058&utm_source=git)** | Hilmar, CA | On Site | Dec 27 |
+| **[Hunt Oil Company](http://www.huntoil.com)** | **[IT Service Management Intern - Summer 2026](https://jobright.ai/jobs/info/69337635764507023d1b5f16?utm_campaign=1058&utm_source=git)** | Dallas, TX | Hybrid | Dec 27 |
+| **[Camping World](https://investor.campingworld.com)** | **[End User Support Intern](https://jobright.ai/jobs/info/693e759e50bbaf7650511a58?utm_campaign=1058&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 27 |
+| **[Navitus Health Solutions](https://www.navitus.com/)** | **[Clinical Intern - Pharmacy](https://jobright.ai/jobs/info/692002ec09cc522e877472f7?utm_campaign=1058&utm_source=git)** | United States | Remote | Dec 27 |
+| **[Camping World](https://investor.campingworld.com)** | **[Office 365 Intern](https://jobright.ai/jobs/info/693e504d49a7695fbd049458?utm_campaign=1058&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 27 |
+| **[Michelin](http://www.michelin.com/)** | **[2026 Summer IT Intern Greenville, SC](https://jobright.ai/jobs/info/6933b770a0dde7020e2f0ca2?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Dec 27 |
 | **[Christensen Farms](https://www.christensenfarms.com)** | **[IT Internship](https://jobright.ai/jobs/info/694facffa2668b7f5452de90?utm_campaign=1058&utm_source=git)** | Sleepy Eye, MN | On Site | Dec 27 |
 | **[UNM Medical Group, Inc.](https://unmhealth.org/locations/medical-group/)** | **[Medical Coding Intern - Fully Remote - Must have a NM Residence](https://jobright.ai/jobs/info/694f921aa2668b7f5452bbb6?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | Remote | Dec 27 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[RbA Customer Experience Intern](https://jobright.ai/jobs/info/6940daccaa598a08c3f08007?utm_campaign=1058&utm_source=git)** | Oak Park Heights, MN | On Site | Dec 26 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/694c9d5f29655e4dd656b454?utm_campaign=1058&utm_source=git)** | Texas City, TX | On Site | Dec 24 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Hospitality & Guest Service Internships](https://jobright.ai/jobs/info/68d30af817554c2d9eeed47c?utm_campaign=1058&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
 | **[Loews Hotels & Co](https://www.loewshotels.com)** | **[Rooms Internship - Loews Hotels Universal Orlando](https://jobright.ai/jobs/info/694c929ad64ebf28d822136c?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Dec 24 |
-| **[WellSpan Health](https://www.wellspan.org/)** | **[Imaging Intern - Diagnostic Radiology - Day/Evening/Night](https://jobright.ai/jobs/info/694c8130d64ebf28d8220a99?utm_campaign=1058&utm_source=git)** | Chambersburg, PA | On Site | Dec 24 |
-| **[AHMC HealthCare](http://AHMChealth.com)** | **[Intern Pharmacist-Per Diem](https://jobright.ai/jobs/info/694c9e5129655e4dd656b598?utm_campaign=1058&utm_source=git)** | US-CA-Anaheim | On Site | Dec 24 |
-| **[Northwell Health](https://feinstein.northwell.edu/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694c73f85d7312113470daff?utm_campaign=1058&utm_source=git)** | 1979 Marcus Ave, Lake Success, NY, 11042, US | On Site | Dec 24 |
-| **[BMO](http://www.bmo.com)** | **[Customer Service Representative (Co-op/Internship), Summer 2026, Montreal - 4 months](https://jobright.ai/jobs/info/694c6c5a1a572a617ddea358?utm_campaign=1058&utm_source=git)** | Kirkland, QC, CAN | On Site | Dec 24 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/694c6b39d64ebf28d8220375?utm_campaign=1058&utm_source=git)** | Queen Creek, AZ | On Site | Dec 24 |
-| **[BMO](http://www.bmo.com)** | **[Customer Service Representative (Co-op/Internship), Summer 2026, Montreal - 4 months](https://jobright.ai/jobs/info/694c6b205d7312113470d96a?utm_campaign=1058&utm_source=git)** | Laval, QC, CAN | On Site | Dec 24 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Summer Omni Care Internship / Rooms](https://jobright.ai/jobs/info/694c6aae5d7312113470d945?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Dec 24 |
-| **[BMO](http://www.bmo.com)** | **[Customer Service Representative (Co-op/Internship), Summer 2026, Montreal - 4 months](https://jobright.ai/jobs/info/694c6936d64ebf28d82202cc?utm_campaign=1058&utm_source=git)** | MONTREAL, QC, CAN | On Site | Dec 24 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/694c68e1d64ebf28d82202ac?utm_campaign=1058&utm_source=git)** | Catonsville, MD | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
