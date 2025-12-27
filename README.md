@@ -75,6 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 - 6-Month College Intern - Breckenridge, CO (Front Office)](https://jobright.ai/jobs/info/694eec02ce13cd10565724a3?utm_campaign=1058&utm_source=git)** | Marriott's Mountain Valley Lodge | On Site | Dec 26 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694ee19529655e4dd6586ec0?utm_campaign=1058&utm_source=git)** | US-FL-Middleburg | On Site | Dec 26 |
 | **[Wärtsilä](http://www.wartsila.com/)** | **[Field Service Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/694ee0f7a2668b7f545224fe?utm_campaign=1058&utm_source=git)** | Houston, TX, US | Hybrid | Dec 26 |
+| **[Goodwill Industries of Southwest Florida](https://www.goodwillswfl.org)** | **[Information Technology Intern - Tice](https://jobright.ai/jobs/info/694f8444ce13cd105657ae1a?utm_campaign=1058&utm_source=git)** | Fort Myers,FL,US | On Site | Dec 26 |
 | **[North Canyon Network of Care](https://www.northcanyon.org)** | **[Intern Student Medical Assistant/ PRN](https://jobright.ai/jobs/info/694ebd15a2668b7f5452107b?utm_campaign=1058&utm_source=git)** | Buhl, ID | On Site | Dec 26 |
 | **[Honeywell](http://www.honeywell.com)** | **[Field Service Tech Intern](https://jobright.ai/jobs/info/69182ab945fb6f5ead8a254e?utm_campaign=1058&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 26 |
 | ↳ | **[Intern Field Service Technician](https://jobright.ai/jobs/info/69171b86370fde633d07d68a?utm_campaign=1058&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/694c68e1d64ebf28d82202ac?utm_campaign=1058&utm_source=git)** | Catonsville, MD | On Site | Dec 24 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/694c68c15d7312113470d8c4?utm_campaign=1058&utm_source=git)** | Gardena, CA | On Site | Dec 24 |
 | **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern  P1 Contingent Rotate](https://jobright.ai/jobs/info/694c67681a572a617ddea271?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Dec 24 |
-| **[Saint Luke's](https://www.saintlukeskc.org)** | **[Float Clinical Intern, PRN](https://jobright.ai/jobs/info/694cbbbaf5bef51c96ea8366?utm_campaign=1058&utm_source=git)** | Lees Summit, MO | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
