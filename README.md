@@ -67,10 +67,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694fecf6ce13cd105657fff7?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Dec 27 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694feba3ce13cd105657ff85?utm_campaign=1058&utm_source=git)** | Crescent Springs, KY | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Technical Support Intern - Hardware and Software Products](https://jobright.ai/jobs/info/69337022a0dde7020e2ee031?utm_campaign=1058&utm_source=git)** | Tucson, AZ | Remote | Dec 27 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/694fea5029655e4dd6594edc?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Dec 27 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694fe9e229655e4dd6594ebb?utm_campaign=1058&utm_source=git)** | Newport, KY | On Site | Dec 27 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694fe9e229655e4dd6594ebb?utm_campaign=1058&utm_source=git)** | Newport, KY | On Site | Dec 27 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/694fe873a2668b7f545306b1?utm_campaign=1058&utm_source=git)** | Princeton, NJ | On Site | Dec 27 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/694fe7e129655e4dd6594dcf?utm_campaign=1058&utm_source=git)** | Great Bend, KS | On Site | Dec 27 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/694fe7dda2668b7f5453066a?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Dec 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Customer Success Experience Center Support](https://jobright.ai/jobs/info/693361cfa0dde7020e2ed3c1?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Dec 27 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694fe7c3a2668b7f5453065d?utm_campaign=1058&utm_source=git)** | Davie, FL | On Site | Dec 27 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/694fe745a2668b7f54530620?utm_campaign=1058&utm_source=git)** | Coralville, IA | On Site | Dec 27 |
@@ -98,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II 3 South](https://jobright.ai/jobs/info/6931f7114c474121999f4eb2?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Dec 27 |
 | **[State of Missouri](http://mo.gov)** | **[Summer Intern - Springfield General Services & Facilities](https://jobright.ai/jobs/info/6943c363dd382f5f5669d79f?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Dec 27 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Help Desk Intern](https://jobright.ai/jobs/info/690cf67cd046ab6061cf0e0c?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Dec 27 |
-| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Pharmacy Intern - Mail Center, Per Diem](https://jobright.ai/jobs/info/694fc922a2668b7f5452e0ce?utm_campaign=1058&utm_source=git)** | Manchester, NH | On Site | Dec 27 |
 | **[Guidepoint](http://www.guidepoint.com)** | **[2024 Tech Intern Pool](https://jobright.ai/jobs/info/667713ec3ab189f6697e9413?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Dec 27 |
 | **[GenPark](https://genpark.ai)** | **[Mobile Application Intern](https://jobright.ai/jobs/info/694fc276a2668b7f5452e03a?utm_campaign=1058&utm_source=git)** | Seattle, WA | Hybrid | Dec 27 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[IS Help Desk Intern](https://jobright.ai/jobs/info/69165acb286ccf0a15134ddb?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Dec 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Staples](http://www.staples.com)** | **[CRM & Data Analytics Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/6914d7ce286ccf0a15128bf8?utm_campaign=1058&utm_source=git)** | Overland Park, KS | Hybrid | Dec 26 |
 | **[Bronson Healthcare](https://www.bronsonhealth.com/)** | **[Pharmacy Intern - Inpatient Pharmacy PRN](https://jobright.ai/jobs/info/694dff0df5bef51c96eb69f0?utm_campaign=1058&utm_source=git)** | Greater Kalamazoo Area | On Site | Dec 25 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Pharmacy Intern II - Inpatient](https://jobright.ai/jobs/info/694de759d4a7df7a0672d176?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
+| ↳ | **[Dental Assistant, Intern](https://jobright.ai/jobs/info/694de5a029655e4dd657ad1a?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
