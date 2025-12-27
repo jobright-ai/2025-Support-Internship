@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Provident Behavioral Health](https://www.providentstl.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/694f376d29655e4dd658b824?utm_campaign=1058&utm_source=git)** | Stonewall, LA | On Site | Dec 26 |
+| **[Cambria](http://www.cambriausa.com)** | **[Guest Experience Intern](https://jobright.ai/jobs/info/694f371fce13cd10565769ef?utm_campaign=1058&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
+| **[Mental Health Association of Rochester](https://www.annamarieresnikoffphd.com/)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/694f3706ce13cd10565769d3?utm_campaign=1058&utm_source=git)** | Princeton, LA | On Site | Dec 26 |
+| **[Preferred Home Health Care & Nursing Services](https://www.preferredcares.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/694f3490a2668b7f54526e4f?utm_campaign=1058&utm_source=git)** | Red Chute, LA | On Site | Dec 26 |
+| **[Hoskinson Health & Wellness Clinic](https://hoskinsonhealth.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/694f2715ce13cd1056574aef?utm_campaign=1058&utm_source=git)** | Mooringsport, LA | On Site | Dec 26 |
 | **[Cambria](http://www.cambriausa.com)** | **[Guest Experience Intern](https://jobright.ai/jobs/info/694f0fd8a2668b7f54524c73?utm_campaign=1058&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/694f07a529655e4dd6589463?utm_campaign=1058&utm_source=git)** | Tipp City, OH | On Site | Dec 26 |
 | **[Almodovar Group, LLC](https://www.almodovar.co)** | **[Intern](https://jobright.ai/jobs/info/694ef79ea2668b7f54524780?utm_campaign=1058&utm_source=git)** | Tampa, FL | Remote | Dec 26 |
@@ -93,10 +98,10 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Pharmacy Intern 2, Ambulatory Pharmacy Services, Per Diem, Varies](https://jobright.ai/jobs/info/68dd15bf44d32141e0bf3e3f?utm_campaign=1058&utm_source=git)** | Miami Lakes, FL | On Site | Dec 26 |
 | **[Staples](http://www.staples.com)** | **[CRM & Data Analytics Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/6914d7ce286ccf0a15128bf8?utm_campaign=1058&utm_source=git)** | Overland Park, KS | Hybrid | Dec 26 |
 | **[Bronson Healthcare](https://www.bronsonhealth.com/)** | **[Pharmacy Intern - Inpatient Pharmacy PRN](https://jobright.ai/jobs/info/694dff0df5bef51c96eb69f0?utm_campaign=1058&utm_source=git)** | Greater Kalamazoo Area | On Site | Dec 25 |
-| **[Denver Health](http://www.denverhealth.org)** | **[Dental Assistant, Intern](https://jobright.ai/jobs/info/694de5a029655e4dd657ad1a?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
+| **[Denver Health](http://www.denverhealth.org)** | **[Pharmacy Intern II - Inpatient](https://jobright.ai/jobs/info/694de759d4a7df7a0672d176?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
+| ↳ | **[Dental Assistant, Intern](https://jobright.ai/jobs/info/694de5a029655e4dd657ad1a?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 | ↳ | **[Pharmacy Intern II](https://jobright.ai/jobs/info/694de59529655e4dd657acf0?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 | ↳ | **[Outpatient Retail Pharmacy P1 Intern](https://jobright.ai/jobs/info/694de56529655e4dd657aca3?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
-| ↳ | **[Pharmacy Intern II - Inpatient](https://jobright.ai/jobs/info/694de48629655e4dd657ab77?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 | **[PharPoint Research, Inc.](http://pharpoint.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/694da00cd4a7df7a0672a1cc?utm_campaign=1058&utm_source=git)** | Wilmington, NC | On Site | Dec 25 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Pharmacy Intern - Outpatient Retail](https://jobright.ai/jobs/info/694d751329655e4dd65763af?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694d7885d4a7df7a06728444?utm_campaign=1058&utm_source=git)** | Freehold, NJ | On Site | Dec 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Saint Luke's](https://www.saintlukeskc.org)** | **[Float Clinical Intern, PRN](https://jobright.ai/jobs/info/694c56a51a572a617dde9257?utm_campaign=1058&utm_source=git)** | Saint Luke's East Hospital   |   100 NE Saint Lukes Blvd   |   Lees Summit   |   MO | On Site | Dec 24 |
 | **[Netability](https://www.net-ability.com)** | **[IT Apprentice](https://jobright.ai/jobs/info/694c7ef55d7312113470de9c?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Dec 24 |
 | **[Turtle Beach](http://turtlebeach.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/694c2d93d64ebf28d821d147?utm_campaign=1058&utm_source=git)** | White Plains, NY | On Site | Dec 24 |
-| **[Netability](https://www.net-ability.com)** | **[IT Technician Apprentice](https://jobright.ai/jobs/info/694c7ebb5d7312113470de78?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Dec 24 |
-| **[Denver Health](http://www.denverhealth.org)** | **[Pharmacy Intern II](https://jobright.ai/jobs/info/694c1c7c1a572a617dde6aa9?utm_campaign=1058&utm_source=git)** | Main Campus - Pavilion A - 777 Bannock Street, Denver, CO 80204 | On Site | Dec 24 |
-| **[State of Utah](http://www.utah.gov/)** | **[Work Ability Intern - Front Desk Receptionist - Taylorsville and South Jordan](https://jobright.ai/jobs/info/694c16e0d64ebf28d821b329?utm_campaign=1058&utm_source=git)** | Salt Lake County, UT | On Site | Dec 24 |
-| **[Froedtert Health](http://www.froedtert.com)** | **[CERT NURSING ASST APPRENTICE, FH - 5NE - INTERNAL MEDICINE](https://jobright.ai/jobs/info/694c12875d7312113470871a?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Dec 24 |
-| **[JFK International Air Terminal](https://www.jfkt4.nyc)** | **[Intern, Operations](https://jobright.ai/jobs/info/6944979150bbaf765056a0b1?utm_campaign=1058&utm_source=git)** | Jamaica, NY | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
