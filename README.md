@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Missouri](http://mo.gov)** | **[Administrative Intern - Information Systems Help Desk](https://jobright.ai/jobs/info/690cccf3221b890c27800211?utm_campaign=1058&utm_source=git)** | Jefferson City, MO | On Site | Dec 28 |
+| **[Cintas](https://www.cintas.com)** | **[IT Intern - Mobility](https://jobright.ai/jobs/info/6944384594730b7398775369?utm_campaign=1058&utm_source=git)** | Mason, OH | On Site | Dec 28 |
+| **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69169c236f36db06ef05842c?utm_campaign=1058&utm_source=git)** | Lenexa, KS | On Site | Dec 28 |
+| **[Red Hat](http://www.redhat.com)** | **[Technical Account Manager (TAM) Intern](https://jobright.ai/jobs/info/69349044764507023d1bd6bb?utm_campaign=1058&utm_source=git)** | Raleigh, NC | Hybrid | Dec 28 |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/689503734ed2ea559ca52a95?utm_campaign=1058&utm_source=git)** | Strongsville, OH | On Site | Dec 28 |
 | **[Pixelle Specialty Solutions](https://www.pixelle.com/)** | **[Internship- IT](https://jobright.ai/jobs/info/690e16d9d046ab6061cfa73f?utm_campaign=1058&utm_source=git)** | Spring Grove, PA | On Site | Dec 28 |
 | **[MEP Health](http://www.mephealth.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6950dc46a2668b7f5453be98?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Dec 27 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #495](https://jobright.ai/jobs/info/6950dc2dce13cd105658b606?utm_campaign=1058&utm_source=git)** | West Jordan, UT | On Site | Dec 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Field Service Technician](https://jobright.ai/jobs/info/69171b86370fde633d07d68a?utm_campaign=1058&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 26 |
 | **[ABB](https://global.abb/group/en)** | **[IS Salesforce.com Agile Delivery Intern- Summer 2026](https://jobright.ai/jobs/info/6932685ea0dde7020e2e6981?utm_campaign=1058&utm_source=git)** | Cary, NC | Hybrid | Dec 26 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/68a540ad33dd7158bbc984ac?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Dec 26 |
-| **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Paid Intern (Manassas, VA)](https://jobright.ai/jobs/info/6932a968f131d96e4845d6d3?utm_campaign=1058&utm_source=git)** | Manassas, VA | On Site | Dec 26 |
-| **[Pure Fishing](https://www.purefishing.com)** | **[Consumer Service - Intern 1](https://jobright.ai/jobs/info/68f982db6de2db04dc3e9bad?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Dec 26 |
-| **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Mammography Technologist Intern - FT - Evenings - MHW](https://jobright.ai/jobs/info/69151a5f6f36db06ef04bb66?utm_campaign=1058&utm_source=git)** | Pembroke Pines, FL | On Site | Dec 26 |
-| **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Site support Technician, Summer 2026](https://jobright.ai/jobs/info/693205d9fa28370be26c0d5f?utm_campaign=1058&utm_source=git)** | Casa Grande, AZ | On Site | Dec 26 |
-| **[PSC Biotech® Corporation](http://biotech.com)** | **[IT Intern](https://jobright.ai/jobs/info/6931e1d4d0010831497bc890?utm_campaign=1058&utm_source=git)** | York, PA | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
