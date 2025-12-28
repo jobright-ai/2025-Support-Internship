@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Pharmacy Intern 2, Ambulatory Pharmacy Services, Per Diem, Varies](https://jobright.ai/jobs/info/68dd15bf44d32141e0bf3e3f?utm_campaign=1058&utm_source=git)** | Miami Lakes, FL | On Site | Dec 26 |
 | **[Staples](http://www.staples.com)** | **[CRM & Data Analytics Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/6914d7ce286ccf0a15128bf8?utm_campaign=1058&utm_source=git)** | Overland Park, KS | Hybrid | Dec 26 |
 | **[Bronson Healthcare](https://www.bronsonhealth.com/)** | **[Pharmacy Intern - Inpatient Pharmacy PRN](https://jobright.ai/jobs/info/694dff0df5bef51c96eb69f0?utm_campaign=1058&utm_source=git)** | Greater Kalamazoo Area | On Site | Dec 25 |
-| **[Denver Health](http://www.denverhealth.org)** | **[Pharmacy Intern II - Inpatient](https://jobright.ai/jobs/info/694de759d4a7df7a0672d176?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
-| ↳ | **[Dental Assistant, Intern](https://jobright.ai/jobs/info/694de5a029655e4dd657ad1a?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
+| **[Denver Health](http://www.denverhealth.org)** | **[Dental Assistant, Intern](https://jobright.ai/jobs/info/694de5a029655e4dd657ad1a?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
+| ↳ | **[Pharmacy Intern II](https://jobright.ai/jobs/info/694de59529655e4dd657acf0?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
