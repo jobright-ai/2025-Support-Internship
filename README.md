@@ -101,9 +101,10 @@ For a complete list, click the following sortable link below:
 | **[Ohio Department of Administrative Services](http://das.ohio.gov)** | **[IT Intern (Enterprise Service Management)](https://jobright.ai/jobs/info/691656eb6f36db06ef055399?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Dec 27 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II 3 South](https://jobright.ai/jobs/info/6931f7114c474121999f4eb2?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Dec 27 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Help Desk Intern](https://jobright.ai/jobs/info/690cf67cd046ab6061cf0e0c?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Dec 27 |
-| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Intern, Multifamily](https://jobright.ai/jobs/info/69509ce529655e4dd659cd32?utm_campaign=1058&utm_source=git)** | Santa Clarita, CA | Hybrid | Dec 27 |
+| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Intern, Multifamily](https://jobright.ai/jobs/info/6950b92c29655e4dd659f64b?utm_campaign=1058&utm_source=git)** | Northlake, TX | Hybrid | Dec 27 |
 | **[Guidepoint](http://www.guidepoint.com)** | **[2024 Tech Intern Pool](https://jobright.ai/jobs/info/667713ec3ab189f6697e9413?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Dec 27 |
-| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Intern, Multifamily](https://jobright.ai/jobs/info/6950a3e829655e4dd659d1fe?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 27 |
+| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Intern, Multifamily](https://jobright.ai/jobs/info/6950c20929655e4dd659f9eb?utm_campaign=1058&utm_source=git)** | Phoenixville, PA | Hybrid | Dec 27 |
+| ↳ | **[Intern, Multifamily](https://jobright.ai/jobs/info/6950c25ea2668b7f5453b4ef?utm_campaign=1058&utm_source=git)** | Plano, TX | Hybrid | Dec 27 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[IS Help Desk Intern](https://jobright.ai/jobs/info/69165acb286ccf0a15134ddb?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Dec 27 |
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - IT](https://jobright.ai/jobs/info/69337b2da0dde7020e2ee6d5?utm_campaign=1058&utm_source=git)** | Hilmar, CA | On Site | Dec 27 |
 | **[Hunt Oil Company](http://www.huntoil.com)** | **[IT Service Management Intern - Summer 2026](https://jobright.ai/jobs/info/69337635764507023d1b5f16?utm_campaign=1058&utm_source=git)** | Dallas, TX | Hybrid | Dec 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II- Med/Surg Observation](https://jobright.ai/jobs/info/68bf3a438e65e77df55b861e?utm_campaign=1058&utm_source=git)** | Southaven, MS | On Site | Dec 26 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Commercial Lines Intern - Summer 2026](https://jobright.ai/jobs/info/6931f468fa28370be26bfbb3?utm_campaign=1058&utm_source=git)** | Harrison, NY | Hybrid | Dec 26 |
 | **[Nuvation Bio](https://www.nuvationbio.com/)** | **[Medical Writing Intern](https://jobright.ai/jobs/info/6932575c764507023d1ad617?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Dec 26 |
-| **[Trex Company](http://www.trex.com)** | **[2026 Summer Internship Program - Information Technology](https://jobright.ai/jobs/info/68ce23651ad6b16f028a227f?utm_campaign=1058&utm_source=git)** | Winchester, VA | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
