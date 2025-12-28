@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pixelle Specialty Solutions](https://www.pixelle.com/)** | **[Internship- IT](https://jobright.ai/jobs/info/690e16d9d046ab6061cfa73f?utm_campaign=1058&utm_source=git)** | Spring Grove, PA | On Site | Dec 28 |
 | **[MEP Health](http://www.mephealth.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6950dc46a2668b7f5453be98?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Dec 27 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #495](https://jobright.ai/jobs/info/6950dc2dce13cd105658b606?utm_campaign=1058&utm_source=git)** | West Jordan, UT | On Site | Dec 27 |
 | **[MEP Health](http://www.mephealth.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6950db0f29655e4dd65a049c?utm_campaign=1058&utm_source=git)** | Greenwood, LA | On Site | Dec 27 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Health Evolution](https://www.healthevolution.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6950d214a2668b7f5453b92e?utm_campaign=1058&utm_source=git)** | Eastwood, LA | On Site | Dec 27 |
 | **[Rock Health](https://rockhealth.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6950cb86a2668b7f5453b76b?utm_campaign=1058&utm_source=git)** | Bethany, LA | On Site | Dec 27 |
 | **[Seacrest Behavioral Health](https://www.seacrestrecoverycenter.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6950c86029655e4dd659fd84?utm_campaign=1058&utm_source=git)** | Belcher, LA | On Site | Dec 27 |
+| **[Fairview Hospital / Cleveland Clinic](http://fairviewhospital.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6950e8c1a2668b7f5453c1ca?utm_campaign=1058&utm_source=git)** | Elm Grove, LA | On Site | Dec 27 |
 | **[Jacob's Pillow Dance Festival](https://www.jacobspillow.org)** | **[Patron Services Intern](https://jobright.ai/jobs/info/695096f0ce13cd1056587cff?utm_campaign=1058&utm_source=git)** | Becket, MA 01223 | On Site | Dec 27 |
 | **[VCU Health](https://www.vcuhealth.org)** | **[Clinical Pharmacy Specialist - Internal Medicine](https://jobright.ai/jobs/info/6950903529655e4dd659c327?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Dec 27 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/695082d2a2668b7f54536566?utm_campaign=1058&utm_source=git)** | West Des Moines, IA | On Site | Dec 27 |
@@ -79,10 +81,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694fecf6ce13cd105657fff7?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Dec 27 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694feba3ce13cd105657ff85?utm_campaign=1058&utm_source=git)** | Crescent Springs, KY | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Technical Support Intern - Hardware and Software Products](https://jobright.ai/jobs/info/69337022a0dde7020e2ee031?utm_campaign=1058&utm_source=git)** | Tucson, AZ | Remote | Dec 27 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694fe9e229655e4dd6594ebb?utm_campaign=1058&utm_source=git)** | Newport, KY | On Site | Dec 27 |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/694fea5029655e4dd6594edc?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Dec 27 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694fe9e229655e4dd6594ebb?utm_campaign=1058&utm_source=git)** | Newport, KY | On Site | Dec 27 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/694fe873a2668b7f545306b1?utm_campaign=1058&utm_source=git)** | Princeton, NJ | On Site | Dec 27 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/694fe7e129655e4dd6594dcf?utm_campaign=1058&utm_source=git)** | Great Bend, KS | On Site | Dec 27 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/694fe7dda2668b7f5453066a?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Dec 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Customer Success Experience Center Support](https://jobright.ai/jobs/info/693361cfa0dde7020e2ed3c1?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Dec 27 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694fe7c3a2668b7f5453065d?utm_campaign=1058&utm_source=git)** | Davie, FL | On Site | Dec 27 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/694fe745a2668b7f54530620?utm_campaign=1058&utm_source=git)** | Coralville, IA | On Site | Dec 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Mammography Technologist Intern - FT - Evenings - MHW](https://jobright.ai/jobs/info/69151a5f6f36db06ef04bb66?utm_campaign=1058&utm_source=git)** | Pembroke Pines, FL | On Site | Dec 26 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Site support Technician, Summer 2026](https://jobright.ai/jobs/info/693205d9fa28370be26c0d5f?utm_campaign=1058&utm_source=git)** | Casa Grande, AZ | On Site | Dec 26 |
 | **[PSC Biotech® Corporation](http://biotech.com)** | **[IT Intern](https://jobright.ai/jobs/info/6931e1d4d0010831497bc890?utm_campaign=1058&utm_source=git)** | York, PA | On Site | Dec 26 |
-| **[TRUMPF North America](https://www.us.trumpf.com)** | **[IT Intern](https://jobright.ai/jobs/info/6933dd5b764507023d1ba2d7?utm_campaign=1058&utm_source=git)** | Farmington, CT | On Site | Dec 26 |
-| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 IT Intern](https://jobright.ai/jobs/info/68fcc0bce04ac838fb5ac64d?utm_campaign=1058&utm_source=git)** | Arlington, TX | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
