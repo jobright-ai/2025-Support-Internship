@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[IT Support Intern](https://jobright.ai/jobs/info/695215daa2668b7f5454ac9e?utm_campaign=1058&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 28 |
+| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Pharmacy Intern - Mail Center, Per Diem](https://jobright.ai/jobs/info/69520408ce13cd1056597e2a?utm_campaign=1058&utm_source=git)** | Manchester, NH | On Site | Dec 28 |
 | **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[Respiratory Intern - Southside Medical Center](https://jobright.ai/jobs/info/6951e3f829655e4dd65ab7e0?utm_campaign=1058&utm_source=git)** | Petersburg, VA | On Site | Dec 28 |
 | **[Egotechworld](https://egotechworld.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6951e387ce13cd1056596c2c?utm_campaign=1058&utm_source=git)** | Mobile, AL | Remote | Dec 28 |
 | **[Bon Secours](https://www.bonsecours.com/)** | **[Respiratory Intern - Southside Medical Center](https://jobright.ai/jobs/info/6951c595a2668b7f54545123?utm_campaign=1058&utm_source=git)** | Petersburg, VA | On Site | Dec 28 |
@@ -93,8 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #495](https://jobright.ai/jobs/info/6950dc2dce13cd105658b606?utm_campaign=1058&utm_source=git)** | West Jordan, UT | On Site | Dec 27 |
 | **[MEP Health](http://www.mephealth.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6950db0f29655e4dd65a049c?utm_campaign=1058&utm_source=git)** | Greenwood, LA | On Site | Dec 27 |
 | **[Seacrest Behavioral Health](https://www.seacrestrecoverycenter.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6950c86029655e4dd659fd84?utm_campaign=1058&utm_source=git)** | Belcher, LA | On Site | Dec 27 |
-| **[Fairview Hospital / Cleveland Clinic](http://fairviewhospital.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6950e8c1a2668b7f5453c1ca?utm_campaign=1058&utm_source=git)** | Elm Grove, LA | On Site | Dec 27 |
-| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Intern, Multifamily](https://jobright.ai/jobs/info/6951f8cfce13cd10565977b8?utm_campaign=1058&utm_source=git)** | Needham, MA | Hybrid | Dec 27 |
 | **[Jacob's Pillow Dance Festival](https://www.jacobspillow.org)** | **[Patron Services Intern](https://jobright.ai/jobs/info/695096f0ce13cd1056587cff?utm_campaign=1058&utm_source=git)** | Becket, MA 01223 | On Site | Dec 27 |
 | **[VCU Health](https://www.vcuhealth.org)** | **[Clinical Pharmacy Specialist - Internal Medicine](https://jobright.ai/jobs/info/6950903529655e4dd659c327?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Dec 27 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Registered Nurse, HHD - Internal Travel](https://jobright.ai/jobs/info/69336baf764507023d1b5728?utm_campaign=1058&utm_source=git)** | Broomall, PA | On Site | Dec 27 |
@@ -109,9 +109,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694fecf6ce13cd105657fff7?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Dec 27 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694feba3ce13cd105657ff85?utm_campaign=1058&utm_source=git)** | Crescent Springs, KY | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Technical Support Intern - Hardware and Software Products](https://jobright.ai/jobs/info/69337022a0dde7020e2ee031?utm_campaign=1058&utm_source=git)** | Tucson, AZ | Remote | Dec 27 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/694fea5029655e4dd6594edc?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Dec 27 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694fe9e229655e4dd6594ebb?utm_campaign=1058&utm_source=git)** | Newport, KY | On Site | Dec 27 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694fe9e229655e4dd6594ebb?utm_campaign=1058&utm_source=git)** | Newport, KY | On Site | Dec 27 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/694fe7e129655e4dd6594dcf?utm_campaign=1058&utm_source=git)** | Great Bend, KS | On Site | Dec 27 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/694fe7dda2668b7f5453066a?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Dec 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Customer Success Experience Center Support](https://jobright.ai/jobs/info/693361cfa0dde7020e2ed3c1?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Dec 27 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694fe7c3a2668b7f5453065d?utm_campaign=1058&utm_source=git)** | Davie, FL | On Site | Dec 27 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/694fe745a2668b7f54530620?utm_campaign=1058&utm_source=git)** | Coralville, IA | On Site | Dec 27 |
@@ -149,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[Michelin](http://www.michelin.com/)** | **[2026 Summer IT Intern Greenville, SC](https://jobright.ai/jobs/info/6933b770a0dde7020e2f0ca2?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Dec 27 |
 | **[Christensen Farms](https://www.christensenfarms.com)** | **[IT Internship](https://jobright.ai/jobs/info/694facffa2668b7f5452de90?utm_campaign=1058&utm_source=git)** | Sleepy Eye, MN | On Site | Dec 27 |
 | **[UNM Medical Group, Inc.](https://unmhealth.org/locations/medical-group/)** | **[Medical Coding Intern - Fully Remote - Must have a NM Residence](https://jobright.ai/jobs/info/694f921aa2668b7f5452bbb6?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | Remote | Dec 27 |
-| **[Provident Behavioral Health](https://www.providentstl.org)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/69507fecce13cd1056586720?utm_campaign=1058&utm_source=git)** | Ball, LA | On Site | Dec 26 |
 | **[Clinic Service Corporation](http://www.clinicservice.com/)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/69507db129655e4dd6599ffa?utm_campaign=1058&utm_source=git)** | Frierson, LA | On Site | Dec 26 |
 | **[CONSUMER DIRECTED SERVICES INC.](https://www.linkedin.com/company/61295339)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/69508598ce13cd1056586c8b?utm_campaign=1058&utm_source=git)** | Keachi, LA | On Site | Dec 26 |
 | ↳ | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6950871e29655e4dd659b139?utm_campaign=1058&utm_source=git)** | Elmer, LA | On Site | Dec 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Health Care Administrators Association® (HCAA)](https://www.hcaa.org/)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/695086a629655e4dd659b053?utm_campaign=1058&utm_source=git)** | Alexandria, LA | On Site | Dec 26 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[RbA Customer Experience Intern](https://jobright.ai/jobs/info/6940daccaa598a08c3f08007?utm_campaign=1058&utm_source=git)** | Oak Park Heights, MN | On Site | Dec 26 |
 | **[UChicago Medicine](https://www.uchicagomedicine.org/)** | **[Student Pharmacy Intern, Ambulatory Pharmacy, Population Health; Burr Ridge](https://jobright.ai/jobs/info/694f3f04ce13cd1056576f5e?utm_campaign=1058&utm_source=git)** | Burr Ridge, IL | On Site | Dec 26 |
+| ↳ | **[Student Pharmacy Intern, Ambulatory Pharmacy, Population Health; Burr Ridge](https://jobright.ai/jobs/info/694f3d6129655e4dd658bc02?utm_campaign=1058&utm_source=git)** | US-IL-Burr Ridge | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
