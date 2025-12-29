@@ -109,9 +109,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694fecf6ce13cd105657fff7?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Dec 27 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694feba3ce13cd105657ff85?utm_campaign=1058&utm_source=git)** | Crescent Springs, KY | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Technical Support Intern - Hardware and Software Products](https://jobright.ai/jobs/info/69337022a0dde7020e2ee031?utm_campaign=1058&utm_source=git)** | Tucson, AZ | Remote | Dec 27 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694fe9e229655e4dd6594ebb?utm_campaign=1058&utm_source=git)** | Newport, KY | On Site | Dec 27 |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/694fea5029655e4dd6594edc?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Dec 27 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694fe9e229655e4dd6594ebb?utm_campaign=1058&utm_source=git)** | Newport, KY | On Site | Dec 27 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/694fe7e129655e4dd6594dcf?utm_campaign=1058&utm_source=git)** | Great Bend, KS | On Site | Dec 27 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/694fe7dda2668b7f5453066a?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Dec 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Customer Success Experience Center Support](https://jobright.ai/jobs/info/693361cfa0dde7020e2ed3c1?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Dec 27 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694fe7c3a2668b7f5453065d?utm_campaign=1058&utm_source=git)** | Davie, FL | On Site | Dec 27 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/694fe745a2668b7f54530620?utm_campaign=1058&utm_source=git)** | Coralville, IA | On Site | Dec 27 |
