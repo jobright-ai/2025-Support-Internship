@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bon Secours](https://www.bonsecours.com/)** | **[Respiratory Intern - Southside Medical Center](https://jobright.ai/jobs/info/6951c595a2668b7f54545123?utm_campaign=1058&utm_source=git)** | Petersburg, VA | On Site | Dec 28 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Information Technology (IT) Specialist (SkillBridge Intern) - 16988](https://jobright.ai/jobs/info/691ae8c845fb6f5ead8aee22?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Dec 28 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6951397aa2668b7f54540a0a?utm_campaign=1058&utm_source=git)** | Orlando, FL | Hybrid | Dec 28 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6951392ba2668b7f545409e9?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Dec 28 |
@@ -90,10 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #495](https://jobright.ai/jobs/info/6950dc2dce13cd105658b606?utm_campaign=1058&utm_source=git)** | West Jordan, UT | On Site | Dec 27 |
 | **[MEP Health](http://www.mephealth.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6950db0f29655e4dd65a049c?utm_campaign=1058&utm_source=git)** | Greenwood, LA | On Site | Dec 27 |
 | **[DayToDay Health](https://www.daytoday.health)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6950db0129655e4dd65a0499?utm_campaign=1058&utm_source=git)** | Deville, LA | On Site | Dec 27 |
-| **[CARIN Alliance](https://www.carinalliance.com/)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6950d85a29655e4dd65a0352?utm_campaign=1058&utm_source=git)** | Alexandria, LA | On Site | Dec 27 |
 | **[Bold Steps Behavioral Health](https://boldstepsbh.com/)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6950d574a2668b7f5453b9eb?utm_campaign=1058&utm_source=git)** | Pineville, LA | On Site | Dec 27 |
 | **[Health Evolution](https://www.healthevolution.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6950d214a2668b7f5453b92e?utm_campaign=1058&utm_source=git)** | Eastwood, LA | On Site | Dec 27 |
-| **[Rock Health](https://rockhealth.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6950cb86a2668b7f5453b76b?utm_campaign=1058&utm_source=git)** | Bethany, LA | On Site | Dec 27 |
 | **[Seacrest Behavioral Health](https://www.seacrestrecoverycenter.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6950c86029655e4dd659fd84?utm_campaign=1058&utm_source=git)** | Belcher, LA | On Site | Dec 27 |
 | **[Fairview Hospital / Cleveland Clinic](http://fairviewhospital.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6950e8c1a2668b7f5453c1ca?utm_campaign=1058&utm_source=git)** | Elm Grove, LA | On Site | Dec 27 |
 | **[Jacob's Pillow Dance Festival](https://www.jacobspillow.org)** | **[Patron Services Intern](https://jobright.ai/jobs/info/695096f0ce13cd1056587cff?utm_campaign=1058&utm_source=git)** | Becket, MA 01223 | On Site | Dec 27 |
@@ -154,7 +153,8 @@ For a complete list, click the following sortable link below:
 | **[CONSUMER DIRECTED SERVICES INC.](https://www.linkedin.com/company/61295339)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/69508598ce13cd1056586c8b?utm_campaign=1058&utm_source=git)** | Keachi, LA | On Site | Dec 26 |
 | ↳ | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6950871e29655e4dd659b139?utm_campaign=1058&utm_source=git)** | Elmer, LA | On Site | Dec 26 |
 | **[Black Women's Mental Health Institute](www.bwmhi.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/695086db29655e4dd659b0bd?utm_campaign=1058&utm_source=git)** | Benton, LA | On Site | Dec 26 |
-| **[DayToDay Health](https://www.daytoday.health)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/695086c729655e4dd659b092?utm_campaign=1058&utm_source=git)** | Waskom, TX | On Site | Dec 26 |
 | **[Health Care Administrators Association® (HCAA)](https://www.hcaa.org/)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/695086a629655e4dd659b053?utm_campaign=1058&utm_source=git)** | Alexandria, LA | On Site | Dec 26 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[RbA Customer Experience Intern](https://jobright.ai/jobs/info/6940daccaa598a08c3f08007?utm_campaign=1058&utm_source=git)** | Oak Park Heights, MN | On Site | Dec 26 |
+| **[UChicago Medicine](https://www.uchicagomedicine.org/)** | **[Student Pharmacy Intern, Ambulatory Pharmacy, Population Health; Burr Ridge](https://jobright.ai/jobs/info/694f3f04ce13cd1056576f5e?utm_campaign=1058&utm_source=git)** | Burr Ridge, IL | On Site | Dec 26 |
+| ↳ | **[Student Pharmacy Intern, Ambulatory Pharmacy, Population Health; Burr Ridge](https://jobright.ai/jobs/info/694f3d6129655e4dd658bc02?utm_campaign=1058&utm_source=git)** | US-IL-Burr Ridge | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
