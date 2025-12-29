@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UChicago Medicine](https://www.uchicagomedicine.org/)** | **[Student Pharmacy Intern, Ambulatory Pharmacy, Population Health; Burr Ridge](https://jobright.ai/jobs/info/694f3f04ce13cd1056576f5e?utm_campaign=1058&utm_source=git)** | Burr Ridge, IL | On Site | Dec 29 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[IT Support Intern](https://jobright.ai/jobs/info/695215daa2668b7f5454ac9e?utm_campaign=1058&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 28 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Pharmacy Intern - Mail Center, Per Diem](https://jobright.ai/jobs/info/69520408ce13cd1056597e2a?utm_campaign=1058&utm_source=git)** | Manchester, NH | On Site | Dec 28 |
 | **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[Respiratory Intern - Southside Medical Center](https://jobright.ai/jobs/info/6951e3f829655e4dd65ab7e0?utm_campaign=1058&utm_source=git)** | Petersburg, VA | On Site | Dec 28 |
@@ -90,9 +91,10 @@ For a complete list, click the following sortable link below:
 | **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69169c236f36db06ef05842c?utm_campaign=1058&utm_source=git)** | Lenexa, KS | On Site | Dec 28 |
 | **[Red Hat](http://www.redhat.com)** | **[Technical Account Manager (TAM) Intern](https://jobright.ai/jobs/info/69349044764507023d1bd6bb?utm_campaign=1058&utm_source=git)** | Raleigh, NC | Hybrid | Dec 28 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/689503734ed2ea559ca52a95?utm_campaign=1058&utm_source=git)** | Strongsville, OH | On Site | Dec 28 |
+| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Intern, Multifamily](https://jobright.ai/jobs/info/6952490b935649778e20264f?utm_campaign=1058&utm_source=git)** | Miami, FL | Hybrid | Dec 28 |
+| ↳ | **[Intern, Multifamily](https://jobright.ai/jobs/info/69524900935649778e202538?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 28 |
 | **[Pixelle Specialty Solutions](https://www.pixelle.com/)** | **[Internship- IT](https://jobright.ai/jobs/info/690e16d9d046ab6061cfa73f?utm_campaign=1058&utm_source=git)** | Spring Grove, PA | On Site | Dec 28 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #495](https://jobright.ai/jobs/info/6950dc2dce13cd105658b606?utm_campaign=1058&utm_source=git)** | West Jordan, UT | On Site | Dec 27 |
-| **[MEP Health](http://www.mephealth.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6950db0f29655e4dd65a049c?utm_campaign=1058&utm_source=git)** | Greenwood, LA | On Site | Dec 27 |
 | **[Seacrest Behavioral Health](https://www.seacrestrecoverycenter.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/6950c86029655e4dd659fd84?utm_campaign=1058&utm_source=git)** | Belcher, LA | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Technical Support Intern - Hardware and Software Products](https://jobright.ai/jobs/info/69336e84764507023d1b58ed?utm_campaign=1058&utm_source=git)** | Research Park, CA | On Site | Dec 27 |
 | **[Jacob's Pillow Dance Festival](https://www.jacobspillow.org)** | **[Patron Services Intern](https://jobright.ai/jobs/info/695096f0ce13cd1056587cff?utm_campaign=1058&utm_source=git)** | Becket, MA 01223 | On Site | Dec 27 |
@@ -108,9 +110,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/694fecf6ce13cd105657fff7?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Dec 27 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694feba3ce13cd105657ff85?utm_campaign=1058&utm_source=git)** | Crescent Springs, KY | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Technical Support Intern - Hardware and Software Products](https://jobright.ai/jobs/info/69337022a0dde7020e2ee031?utm_campaign=1058&utm_source=git)** | Tucson, AZ | Remote | Dec 27 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/694fea5029655e4dd6594edc?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Dec 27 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/694fe9e229655e4dd6594ebb?utm_campaign=1058&utm_source=git)** | Newport, KY | On Site | Dec 27 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/694fe9e229655e4dd6594ebb?utm_campaign=1058&utm_source=git)** | Newport, KY | On Site | Dec 27 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/694fe7e129655e4dd6594dcf?utm_campaign=1058&utm_source=git)** | Great Bend, KS | On Site | Dec 27 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/694fe7dda2668b7f5453066a?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Dec 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Customer Success Experience Center Support](https://jobright.ai/jobs/info/693361cfa0dde7020e2ed3c1?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Dec 27 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/694fe745a2668b7f54530620?utm_campaign=1058&utm_source=git)** | Coralville, IA | On Site | Dec 27 |
 | **[AARP](http://www.aarp.org)** | **[Member Support and Dispute Intern](https://jobright.ai/jobs/info/691680426f36db06ef05734c?utm_campaign=1058&utm_source=git)** | Washington, DC | Hybrid | Dec 27 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/6950871e29655e4dd659b139?utm_campaign=1058&utm_source=git)** | Elmer, LA | On Site | Dec 26 |
 | **[Black Women's Mental Health Institute](www.bwmhi.org)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/695086db29655e4dd659b0bd?utm_campaign=1058&utm_source=git)** | Benton, LA | On Site | Dec 26 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[RbA Customer Experience Intern](https://jobright.ai/jobs/info/6940daccaa598a08c3f08007?utm_campaign=1058&utm_source=git)** | Oak Park Heights, MN | On Site | Dec 26 |
-| **[UChicago Medicine](https://www.uchicagomedicine.org/)** | **[Student Pharmacy Intern, Ambulatory Pharmacy, Population Health; Burr Ridge](https://jobright.ai/jobs/info/694f3f04ce13cd1056576f5e?utm_campaign=1058&utm_source=git)** | Burr Ridge, IL | On Site | Dec 26 |
-| ↳ | **[Student Pharmacy Intern, Ambulatory Pharmacy, Population Health; Burr Ridge](https://jobright.ai/jobs/info/694f3d6129655e4dd658bc02?utm_campaign=1058&utm_source=git)** | US-IL-Burr Ridge | On Site | Dec 26 |
+| **[UChicago Medicine](https://www.uchicagomedicine.org/)** | **[Student Pharmacy Intern, Ambulatory Pharmacy, Population Health; Burr Ridge](https://jobright.ai/jobs/info/694f3d6129655e4dd658bc02?utm_campaign=1058&utm_source=git)** | US-IL-Burr Ridge | On Site | Dec 26 |
 | **[Cambria](http://www.cambriausa.com)** | **[Guest Experience Intern](https://jobright.ai/jobs/info/694f371fce13cd10565769ef?utm_campaign=1058&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
 | **[Hoskinson Health & Wellness Clinic](https://hoskinsonhealth.com)** | **[Nurse Extern I-Nursing Internship-PRN](https://jobright.ai/jobs/info/694f2715ce13cd1056574aef?utm_campaign=1058&utm_source=git)** | Mooringsport, LA | On Site | Dec 26 |
-| **[Cambria](http://www.cambriausa.com)** | **[Guest Experience Intern](https://jobright.ai/jobs/info/694f0fd8a2668b7f54524c73?utm_campaign=1058&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
