@@ -57,13 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PSEG](https://www.pseg.com)** | **[Summer 2026 - Technical Intern - Construction Inquiry Business Team](https://jobright.ai/jobs/info/69532f1c935649778e20f5d2?utm_campaign=1058&utm_source=git)** | Newark, NJ, US | Hybrid | Dec 29 |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[J1 Intern - F&B Front of House (12 Month J1 Visa Program)](https://jobright.ai/jobs/info/69532ceef1f8465b79ea7f04?utm_campaign=1058&utm_source=git)** | US-TX-Austin | On Site | Dec 29 |
+| **[Van Meter Inc.](http://vanmeterinc.com)** | **[PSR Intern](https://jobright.ai/jobs/info/69532b5a935649778e20f33c?utm_campaign=1058&utm_source=git)** | Cottage Grove,MN,US | On Site | Dec 29 |
+| **[The GSI Group](http://thegsigroup.com/)** | **[Intern, Technical Services](https://jobright.ai/jobs/info/69532ac45bb7de448ef6455a?utm_campaign=1058&utm_source=git)** | Assumption, IL 62510, USA | On Site | Dec 29 |
+| **[PSEG](https://www.pseg.com)** | **[Summer 2026 - Technical Intern - Voice of the Customer Team](https://jobright.ai/jobs/info/69532966935649778e20f190?utm_campaign=1058&utm_source=git)** | Newark, NJ, US | Hybrid | Dec 29 |
+| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Registered Nurse II – Internship, Bridge to Intensive Care Unit (ICU), Full-time, Night Shift](https://jobright.ai/jobs/info/695328a0935649778e20f0f0?utm_campaign=1058&utm_source=git)** | 4650 Lincoln Blvd, Marina Del Rey, CA, 90292, US | On Site | Dec 29 |
+| **[Richmond National](https://richmondnational.com)** | **[IT Internship](https://jobright.ai/jobs/info/695328645bb7de448ef643b3?utm_campaign=1058&utm_source=git)** | Glen Allen, VA | On Site | Dec 29 |
+| **[Impact Advisors](https://www.impact-advisors.com)** | **[IT Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68cda1cfb2a74e1837eda32e?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Dec 29 |
 | **[Salvus TG now known as The Purple Guys, an Ntiva Company](https://salvustg.com/)** | **[Service Desk Intern](https://jobright.ai/jobs/info/69530e0bf1f8465b79ea5800?utm_campaign=1058&utm_source=git)** | Parkersburg, WV | On Site | Dec 29 |
 | **[St. Francis-Emory Healthcare](https://www.mystfrancis.com)** | **[Surgical Tech Clinical Intern](https://jobright.ai/jobs/info/69530d36f1f8465b79ea579b?utm_campaign=1058&utm_source=git)** | Columbus, GA | On Site | Dec 29 |
 | **[Haemonetics](http://www.haemonetics.com)** | **[Sales Operations Support Analyst Internship](https://jobright.ai/jobs/info/69530a71f1f8465b79ea574f?utm_campaign=1058&utm_source=git)** | Boston, MA | Hybrid | Dec 29 |
 | **[TD](https://www.td.com)** | **[Customer Experience & Insights Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952f7b1f1f8465b79ea4f8a?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 - 6-Month College Intern - Breckenridge, CO (Front Office)](https://jobright.ai/jobs/info/694ef090a2668b7f54522bd9?utm_campaign=1058&utm_source=git)** | Breckenridge, CO | On Site | Dec 29 |
 | **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship 2026 - Information Technology](https://jobright.ai/jobs/info/6952f66f5bb7de448ef6184b?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Dec 29 |
-| **[Ntiva, Inc.](http://www.ntiva.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/6952f6415bb7de448ef61838?utm_campaign=1058&utm_source=git)** | Parkersburg, WV | On Site | Dec 29 |
+| **[Ntiva, Inc.](http://www.ntiva.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/6952f650f1f8465b79ea4edd?utm_campaign=1058&utm_source=git)** | Parkersburg, WV | On Site | Dec 29 |
 | **[JPS Health Network](https://jpshealthnet.org)** | **[PHARMACIST INTERN](https://jobright.ai/jobs/info/6952f55a5bb7de448ef61670?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Dec 29 |
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Per Diem Pharmacy Intern - Days (7am-3pm) - MSCHONY](https://jobright.ai/jobs/info/6952ee1ff1f8465b79ea41e6?utm_campaign=1058&utm_source=git)** | NYP/Morgan Stanley Children's Hospital | On Site | Dec 29 |
 | **[UPMC](https://www.upmc.com/)** | **[Audiologist Intern-Hanover](https://jobright.ai/jobs/info/6952ec28935649778e20b618?utm_campaign=1058&utm_source=git)** | Hanover, PA | On Site | Dec 29 |
@@ -89,10 +97,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6952b205f1f8465b79ea0298?utm_campaign=1058&utm_source=git)** | Greenville, NY | On Site | Dec 29 |
 | **[LifeBridge Health](http://www.lifebridgehealth.org/)** | **[Nurse Intern-IMC](https://jobright.ai/jobs/info/6952b1e05bb7de448ef5ca3e?utm_campaign=1058&utm_source=git)** | Westminster, MD | On Site | Dec 29 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6952b12d935649778e207964?utm_campaign=1058&utm_source=git)** | Troy, NY | On Site | Dec 29 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6952b0c15bb7de448ef5c9df?utm_campaign=1058&utm_source=git)** | Binghamton, NY | On Site | Dec 29 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/6952b061935649778e207916?utm_campaign=1058&utm_source=git)** | Princeton, NJ | On Site | Dec 29 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/6952b01ff1f8465b79ea01eb?utm_campaign=1058&utm_source=git)** | Toms River, NJ | On Site | Dec 29 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6952afebf1f8465b79ea01dc?utm_campaign=1058&utm_source=git)** | Castleton-On-Hudson, NY | On Site | Dec 29 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6952af825bb7de448ef5c97c?utm_campaign=1058&utm_source=git)** | Binghamton, NY | On Site | Dec 29 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6952af655bb7de448ef5c972?utm_campaign=1058&utm_source=git)** | Norwich, NY | On Site | Dec 29 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY Clinic Admissions Associate - Clinic Setting](https://jobright.ai/jobs/info/6952af5b935649778e2078af?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Dec 29 |
 | **[Munson Healthcare](https://www.munsonhealthcare.org/)** | **[Radiology Student Intern Opportunities](https://jobright.ai/jobs/info/6952af51935649778e2078a5?utm_campaign=1058&utm_source=git)** | Traverse City, MI | On Site | Dec 29 |
@@ -101,7 +109,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6952aed2f1f8465b79ea016f?utm_campaign=1058&utm_source=git)** | Endicott, NY | On Site | Dec 29 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Customer Solutions Internship - Summer 2026](https://jobright.ai/jobs/info/6952c8a0935649778e208bfc?utm_campaign=1058&utm_source=git)** | Lancaster, PA | On Site | Dec 29 |
 | **[Kettering Health](http://ketteringhealth.org)** | **[Pharmacy Intern-Pharmacy](https://jobright.ai/jobs/info/6952ab06935649778e206400?utm_campaign=1058&utm_source=git)** | Kettering, OH | On Site | Dec 29 |
-| **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69363630764507023d1c1d1e?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Dec 29 |
+| **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69363af8f131d96e48470058?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Dec 29 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Community Pharmacy Intern](https://jobright.ai/jobs/info/694659c37d506e3808f1b5f1?utm_campaign=1058&utm_source=git)** | Muskegon, MI | On Site | Dec 29 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[INTERN/CO-OP - Spring 2026 - IT](https://jobright.ai/jobs/info/691d5a037481340785ed6d15?utm_campaign=1058&utm_source=git)** | Filer City, MI | On Site | Dec 29 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Accident Benefits Intern/Co-op (SUMMER 2025)](https://jobright.ai/jobs/info/69527e2bf1f8465b79e9d818?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 29 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[IT Intern - Mobility](https://jobright.ai/jobs/info/6944384594730b7398775369?utm_campaign=1058&utm_source=git)** | Mason, OH | On Site | Dec 28 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Customer Quote Associate](https://jobright.ai/jobs/info/69184e3915b4156367181621?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 28 |
 | **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69169c236f36db06ef05842c?utm_campaign=1058&utm_source=git)** | Lenexa, KS | On Site | Dec 28 |
-| **[Red Hat](http://www.redhat.com)** | **[Technical Account Manager (TAM) Intern](https://jobright.ai/jobs/info/69349044764507023d1bd6bb?utm_campaign=1058&utm_source=git)** | Raleigh, NC | Hybrid | Dec 28 |
-| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/689503734ed2ea559ca52a95?utm_campaign=1058&utm_source=git)** | Strongsville, OH | On Site | Dec 28 |
-| **[Pixelle Specialty Solutions](https://www.pixelle.com/)** | **[Internship- IT](https://jobright.ai/jobs/info/690e16d9d046ab6061cfa73f?utm_campaign=1058&utm_source=git)** | Spring Grove, PA | On Site | Dec 28 |
-| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #495](https://jobright.ai/jobs/info/6950dc2dce13cd105658b606?utm_campaign=1058&utm_source=git)** | West Jordan, UT | On Site | Dec 27 |
-| **[IBM](http://www.ibm.com)** | **[Technical Support Intern - Hardware and Software Products](https://jobright.ai/jobs/info/69336e84764507023d1b58ed?utm_campaign=1058&utm_source=git)** | Research Park, CA | On Site | Dec 27 |
-| **[Jacob's Pillow Dance Festival](https://www.jacobspillow.org)** | **[Patron Services Intern](https://jobright.ai/jobs/info/695096f0ce13cd1056587cff?utm_campaign=1058&utm_source=git)** | Becket, MA 01223 | On Site | Dec 27 |
-| **[VCU Health](https://www.vcuhealth.org)** | **[Clinical Pharmacy Specialist - Internal Medicine](https://jobright.ai/jobs/info/6950903529655e4dd659c327?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Dec 27 |
-| **[DaVita Kidney Care](http://www.davita.com)** | **[Registered Nurse, HHD - Internal Travel](https://jobright.ai/jobs/info/69336baf764507023d1b5728?utm_campaign=1058&utm_source=git)** | Broomall, PA | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
