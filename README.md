@@ -104,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6952b4d8935649778e207e0d?utm_campaign=1058&utm_source=git)** | East Greenbush, NY | On Site | Dec 29 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6952b4065bb7de448ef5ce90?utm_campaign=1058&utm_source=git)** | Brick, NJ | On Site | Dec 29 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/6952b3a25bb7de448ef5cd8e?utm_campaign=1058&utm_source=git)** | Princeton Junction, NJ | On Site | Dec 29 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6952b378935649778e207af8?utm_campaign=1058&utm_source=git)** | Troy, NY | On Site | Dec 29 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/6952b3615bb7de448ef5cc93?utm_campaign=1058&utm_source=git)** | Howell, NJ | On Site | Dec 29 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6952b205f1f8465b79ea0298?utm_campaign=1058&utm_source=git)** | Greenville, NY | On Site | Dec 29 |
 | **[LifeBridge Health](http://www.lifebridgehealth.org/)** | **[Nurse Intern-IMC](https://jobright.ai/jobs/info/6952b1e05bb7de448ef5ca3e?utm_campaign=1058&utm_source=git)** | Westminster, MD | On Site | Dec 29 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Radiology Intern I - PRN](https://jobright.ai/jobs/info/693472c3f131d96e4846ab7f?utm_campaign=1058&utm_source=git)** | Waldron, AR | On Site | Dec 28 |
 | ↳ | **[Ultrasound Intern](https://jobright.ai/jobs/info/6934755cf131d96e4846ac16?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Dec 28 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Customer Experience Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/68def803a125e75c422b8b62?utm_campaign=1058&utm_source=git)** | Green Bay, WI | Hybrid | Dec 28 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68a6bace758f2e4ac3fe73ec?utm_campaign=1058&utm_source=git)** | Dayton, MN | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
