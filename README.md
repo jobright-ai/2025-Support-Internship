@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I](https://jobright.ai/jobs/info/69535f6e935649778e212ed3?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Dec 29 |
+| **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/68596a3df7e1d7c7ec214cfc?utm_campaign=1058&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Dec 29 |
+| **[PSEG](https://www.pseg.com)** | **[Summer 2026 - Technical Intern - Voice of the Customer Team](https://jobright.ai/jobs/info/695352455bb7de448ef66247?utm_campaign=1058&utm_source=git)** | Newark, NJ | Hybrid | Dec 29 |
+| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[J1 Intern - F&B Front of House (12 Month J1 Visa Program)](https://jobright.ai/jobs/info/69534c64f1f8465b79ea95a6?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Dec 29 |
 | **[Sarpy County](https://www.sarpy.gov/)** | **[Fleet Services Intern](https://jobright.ai/jobs/info/695346315bb7de448ef65a20?utm_campaign=1058&utm_source=git)** | Papillion, NE | On Site | Dec 29 |
 | **[Lifepoint Health®](http://www.lifepointhealth.net)** | **[RN Intern, II - PRN](https://jobright.ai/jobs/info/6953409e935649778e21047d?utm_campaign=1058&utm_source=git)** | 200 Hospital Dr, Galax, VA, 24333, US | On Site | Dec 29 |
 | **[Richmond National](https://richmondnational.com)** | **[IT Internship](https://jobright.ai/jobs/info/69533f92935649778e2103c6?utm_campaign=1058&utm_source=git)** | Glen Allen, VA | On Site | Dec 29 |
@@ -115,7 +119,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6952aed2f1f8465b79ea016f?utm_campaign=1058&utm_source=git)** | Endicott, NY | On Site | Dec 29 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Customer Solutions Internship - Summer 2026](https://jobright.ai/jobs/info/6952c8a0935649778e208bfc?utm_campaign=1058&utm_source=git)** | Lancaster, PA | On Site | Dec 29 |
 | **[Kettering Health](http://ketteringhealth.org)** | **[Pharmacy Intern-Pharmacy](https://jobright.ai/jobs/info/6952ab06935649778e206400?utm_campaign=1058&utm_source=git)** | Kettering, OH | On Site | Dec 29 |
-| **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69363af8f131d96e48470058?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Dec 29 |
+| **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/69363630764507023d1c1d1e?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Dec 29 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Community Pharmacy Intern](https://jobright.ai/jobs/info/694659c37d506e3808f1b5f1?utm_campaign=1058&utm_source=git)** | Muskegon, MI | On Site | Dec 29 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[INTERN/CO-OP - Spring 2026 - IT](https://jobright.ai/jobs/info/691d5a037481340785ed6d15?utm_campaign=1058&utm_source=git)** | Filer City, MI | On Site | Dec 29 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Accident Benefits Intern/Co-op (SUMMER 2025)](https://jobright.ai/jobs/info/69527e2bf1f8465b79e9d818?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Ultrasound Intern](https://jobright.ai/jobs/info/6934755cf131d96e4846ac16?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Dec 28 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Customer Experience Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/68def803a125e75c422b8b62?utm_campaign=1058&utm_source=git)** | Green Bay, WI | Hybrid | Dec 28 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68a6bace758f2e4ac3fe73ec?utm_campaign=1058&utm_source=git)** | Dayton, MN | On Site | Dec 28 |
-| ↳ | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/678810cd4c4f5e767ed55c8e?utm_campaign=1058&utm_source=git)** | Casselton, ND | On Site | Dec 28 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I](https://jobright.ai/jobs/info/67fec2dddd174d346366a820?utm_campaign=1058&utm_source=git)** | Southaven, MS | On Site | Dec 28 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68cf9094846f0b04af68300e?utm_campaign=1058&utm_source=git)** | Bozeman, MT | On Site | Dec 28 |
-| ↳ | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/682420b9b933e9f19acb845a?utm_campaign=1058&utm_source=git)** | Dickinson, ND | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
