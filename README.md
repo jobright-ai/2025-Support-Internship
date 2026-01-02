@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hilton](https://www.hilton.com/en/)** | **[Revenue Management Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/6958046eaa05c26e7ab1f512?utm_campaign=1058&utm_source=git)** | Hilton Boston Park Plaza50 Park Plaza at Arlington St. | On Site | Jan 02 |
+| ↳ | **[Food and Beverage Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/695803efaa05c26e7ab1f4fd?utm_campaign=1058&utm_source=git)** | Hilton Boston Park Plaza50 Park Plaza at Arlington St. | On Site | Jan 02 |
+| **[Amplifon](http://corporate.amplifon.com)** | **[IT Operations and Support Intern Summer 2026](https://jobright.ai/jobs/info/6957fd549f1b381eb270f467?utm_campaign=1058&utm_source=git)** | 8300 Central Park Drive, Waco, 76712, US | On Site | Jan 02 |
+| ↳ | **[IT Operations and Support Intern Summer 2026](https://jobright.ai/jobs/info/6957f7f5f1f8465b79ee92af?utm_campaign=1058&utm_source=git)** | Waco, TX | Hybrid | Jan 02 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[2026 Intern Referral](https://jobright.ai/jobs/info/6957db639f1b381eb270d021?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 02 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Pharmacy Intern - West Penn Hospital](https://jobright.ai/jobs/info/6957dad4f1f8465b79ee86ed?utm_campaign=1058&utm_source=git)** | Pittsburgh PA, 15224, West Penn 4800 Friendship Ave | On Site | Jan 02 |
 | **[Trinity Health MI](https://bit.ly/3y0fhsr)** | **[Contingent Licensed Pharmacy Intern](https://jobright.ai/jobs/info/693aeadab309e3780086a473?utm_campaign=1058&utm_source=git)** | Pontiac, MI | On Site | Jan 02 |
@@ -88,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Intern, IT Support](https://jobright.ai/jobs/info/690118814539ea1f2141c5ad?utm_campaign=1058&utm_source=git)** | Nashville, TN | Hybrid | Jan 02 |
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[IT Support Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/691e33f709cc522e877376d9?utm_campaign=1058&utm_source=git)** | Greater Chicago Area | On Site | Jan 02 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Information Technology Intern - Corporate Services (Kansas City)](https://jobright.ai/jobs/info/68d8d863022fc803b48751ea?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Jan 02 |
-| **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/694633d4d1953b5d11bf6481?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | Hybrid | Jan 02 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[IT Intern](https://jobright.ai/jobs/info/68cba2669e3a822f5d249752?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Jan 02 |
+| **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/692162053f782d2f1afd1b1b?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | Hybrid | Jan 02 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Services Internship, Price Modeling (Summer 2026)](https://jobright.ai/jobs/info/69228888c0cefa13343d82eb?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Jan 02 |
 | ↳ | **[Services Internship, Competitive Analysis & Benchmarking (Summer 2026)](https://jobright.ai/jobs/info/6922b08ec0cefa13343d8d79?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Jan 02 |
 | **[St. Peter's Health](https://www.stpetes.org)** | **[Ultrasound Technologist Intern - PRN (Variable Shifts)](https://jobright.ai/jobs/info/693b611ad4054a2bc0255703?utm_campaign=1058&utm_source=git)** | Montana, United States | On Site | Jan 02 |
@@ -98,7 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Wärtsilä](http://www.wartsila.com/)** | **[Field Service Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/695492655bb7de448ef789d2?utm_campaign=1058&utm_source=git)** | Houston, TX | Hybrid | Jan 02 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Customer Satisfaction Interviewer Intern](https://jobright.ai/jobs/info/693aebe2b309e3780086a4cf?utm_campaign=1058&utm_source=git)** | Dayton Metropolitan Area | On Site | Jan 02 |
 | **[Oracle](https://www.oracle.com/)** | **[M&D Customer Solutions Analyst Intern - OVIP](https://jobright.ai/jobs/info/69212ecba49a885af9a43b8c?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 02 |
-| ↳ | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/69212e94a49a885af9a43b34?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 02 |
+| ↳ | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/691e5d50a49a885af9a2800b?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 02 |
 | **[Southeast Toyota Finance](https://www.setf.com/)** | **[Customer Experience Support Associate Intern](https://jobright.ai/jobs/info/6901679ef8ce7a040fdbf6cf?utm_campaign=1058&utm_source=git)** | Greater St. Louis | On Site | Jan 02 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - HCM Customer Innovation and Experience](https://jobright.ai/jobs/info/695787d3aa05c26e7ab18325?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Jan 02 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[PHARMACIST INTERN](https://jobright.ai/jobs/info/6957653faa05c26e7ab170ac?utm_campaign=1058&utm_source=git)** | Happy Valley, OR | On Site | Jan 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4c8c710485bdc6e5a0841?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jan 01 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Intern-University of Memphis Call Center (Spring 2026)](https://jobright.ai/jobs/info/6939e4cd56b68f3dc4e738c8?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Jan 01 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e380071852e62f007fc45d?utm_campaign=1058&utm_source=git)** | Myrtle Beach, SC | On Site | Jan 01 |
-| **[Dean Dorton](http://www.deandorton.com)** | **[Technology Apprentice](https://jobright.ai/jobs/info/68ffdc5b0ab3b222462af288?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Jan 01 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II  Med Surg Collierville](https://jobright.ai/jobs/info/693a25d2ac80bb5492bca9fb?utm_campaign=1058&utm_source=git)** | Collierville, TN | On Site | Jan 01 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support](https://jobright.ai/jobs/info/6939ffa748a8ce22990df805?utm_campaign=1058&utm_source=git)** | Hampton, AR | On Site | Jan 01 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Member Assistance Center Intern](https://jobright.ai/jobs/info/6956a40daa05c26e7ab0d61d?utm_campaign=1058&utm_source=git)** | North Liberty, Iowa | On Site | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
