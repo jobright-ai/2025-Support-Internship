@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vertiv](https://www.Vertiv.com)** | **[Services Internship, CX Designer (Summer 2026)](https://jobright.ai/jobs/info/6922887c7795cd460c8360f5?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Jan 02 |
+| ↳ | **[Service Operations Internship (Summer 2026)](https://jobright.ai/jobs/info/693e810baa598a08c3eed1e4?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Jan 02 |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Customer Satisfaction Interviewer Intern](https://jobright.ai/jobs/info/693aebe2b309e3780086a4cf?utm_campaign=1058&utm_source=git)** | Dayton Metropolitan Area | On Site | Jan 02 |
+| **[Oracle](https://www.oracle.com/)** | **[M&D Customer Solutions Analyst Intern - OVIP](https://jobright.ai/jobs/info/69212ecba49a885af9a43b8c?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 02 |
+| ↳ | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/6921352a00c9ee50eaeccdcf?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | Hybrid | Jan 02 |
+| ↳ | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/6946714563141d18845638c0?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 02 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - HCM Customer Innovation and Experience](https://jobright.ai/jobs/info/695787d3aa05c26e7ab18325?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Jan 02 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[PHARMACIST INTERN](https://jobright.ai/jobs/info/6957653faa05c26e7ab170ac?utm_campaign=1058&utm_source=git)** | Happy Valley, OR | On Site | Jan 01 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69574629f1f8465b79ee0428?utm_campaign=1058&utm_source=git)** | Williston, VT | On Site | Jan 01 |
@@ -126,7 +132,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - IT – Associate Solutions Engineer – Salesforce](https://jobright.ai/jobs/info/6956996c9f1b381eb26fce25?utm_campaign=1058&utm_source=git)** | Weldon Spring, Missouri | On Site | Jan 01 |
 | ↳ | **[Intern - IT - Business Applications](https://jobright.ai/jobs/info/695698f6aa05c26e7ab0d0a4?utm_campaign=1058&utm_source=git)** | Effingham, Illinois | On Site | Jan 01 |
 | ↳ | **[Intern - IT - Business Applications](https://jobright.ai/jobs/info/69569f29f1f8465b79ed8963?utm_campaign=1058&utm_source=git)** | Rockford, Illinois | On Site | Jan 01 |
-| **[CNH](http://www.cnhindustrial.com)** | **[Agriculture Product Technical Support Specialist Intern](https://jobright.ai/jobs/info/69561c2aaa05c26e7ab05c8b?utm_campaign=1058&utm_source=git)** | Holland, IA | On Site | Dec 31 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern - Access To Care](https://jobright.ai/jobs/info/69561b28f1f8465b79ed0e09?utm_campaign=1058&utm_source=git)** | Portland, ME | On Site | Dec 31 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943a5e5dd382f5f5669c041?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Dec 31 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69560f97f1f8465b79ed0aa3?utm_campaign=1058&utm_source=git)** | Vancouver, WA | On Site | Dec 31 |
@@ -144,17 +149,12 @@ For a complete list, click the following sortable link below:
 | **[TriHealth](http://www.trihealth.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955ec4b9f1b381eb26f1fe8?utm_campaign=1058&utm_source=git)** | 10500 Montgomery Rd, MONTGOMERY, OH, 45242, US | On Site | Dec 31 |
 | **[DESE Research, Inc.](https://www.dese.com)** | **[IT Intern](https://jobright.ai/jobs/info/6956c4cff1f8465b79edabc7?utm_campaign=1058&utm_source=git)** | Huntsville,AL,US | On Site | Dec 31 |
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Respiratory Care Intern-PRN Days](https://jobright.ai/jobs/info/6955ede8aa05c26e7ab02661?utm_campaign=1058&utm_source=git)** | Cobb Hospital | On Site | Dec 31 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955b32ff1f8465b79eca889?utm_campaign=1058&utm_source=git)** | Yuma, AZ | On Site | Dec 31 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955b598aa05c26e7aaff526?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Dec 31 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955b46caa05c26e7aaff3c0?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Dec 31 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955b32ff1f8465b79eca889?utm_campaign=1058&utm_source=git)** | Yuma, AZ | On Site | Dec 31 |
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Service Operations](https://jobright.ai/jobs/info/6955b319aa05c26e7aaff27b?utm_campaign=1058&utm_source=git)** | Scarborough, ME | On Site | Dec 31 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955b22baa05c26e7aaff19e?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Dec 31 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955b2099f1b381eb26eef14?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Dec 31 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955b0b8aa05c26e7aaff077?utm_campaign=1058&utm_source=git)** | Mesa, AZ | On Site | Dec 31 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955ac16aa05c26e7aafec57?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Dec 31 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955ab3e9f1b381eb26ee849?utm_campaign=1058&utm_source=git)** | Peoria, AZ | On Site | Dec 31 |
-| **[Tennova Healthcare- Turkey Creek Medical Center](https://www.tennovaturkeycreek.com/)** | **[Nurse Intern Med Surg](https://jobright.ai/jobs/info/6955d3039f1b381eb26efeb4?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Dec 31 |
-| **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Service Operations](https://jobright.ai/jobs/info/6955aa60aa05c26e7aafeabf?utm_campaign=1058&utm_source=git)** | Brewer, ME | On Site | Dec 31 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955a9aaaa05c26e7aafea21?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Dec 31 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955a7cdaa05c26e7aafe835?utm_campaign=1058&utm_source=git)** | Sun City West, AZ | On Site | Dec 31 |
-| **[HMH](https://hmhw.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6955cf29aa05c26e7aafff20?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Dec 31 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955a73eaa05c26e7aafe7c9?utm_campaign=1058&utm_source=git)** | Glendale, AZ | On Site | Dec 31 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955ac2aaa05c26e7aafec63?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
