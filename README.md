@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fred Meyer](https://www.fredmeyer.com/)** | **[PHARMACIST INTERN](https://jobright.ai/jobs/info/6957653faa05c26e7ab170ac?utm_campaign=1058&utm_source=git)** | Happy Valley, OR | On Site | Jan 01 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69574629f1f8465b79ee0428?utm_campaign=1058&utm_source=git)** | Williston, VT | On Site | Jan 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6957460d9f1b381eb2704da5?utm_campaign=1058&utm_source=git)** | Londonderry, NH | On Site | Jan 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/695745e2f1f8465b79ee041b?utm_campaign=1058&utm_source=git)** | Windham, NH | On Site | Jan 01 |
@@ -142,13 +143,11 @@ For a complete list, click the following sortable link below:
 | **[TriHealth](http://www.trihealth.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955ec4b9f1b381eb26f1fe8?utm_campaign=1058&utm_source=git)** | 10500 Montgomery Rd, MONTGOMERY, OH, 45242, US | On Site | Dec 31 |
 | **[DESE Research, Inc.](https://www.dese.com)** | **[IT Intern](https://jobright.ai/jobs/info/6956c4cff1f8465b79edabc7?utm_campaign=1058&utm_source=git)** | Huntsville,AL,US | On Site | Dec 31 |
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Respiratory Care Intern-PRN Days](https://jobright.ai/jobs/info/6955ede8aa05c26e7ab02661?utm_campaign=1058&utm_source=git)** | Cobb Hospital | On Site | Dec 31 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955b598aa05c26e7aaff526?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Dec 31 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955b32ff1f8465b79eca889?utm_campaign=1058&utm_source=git)** | Yuma, AZ | On Site | Dec 31 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955b32ff1f8465b79eca889?utm_campaign=1058&utm_source=git)** | Yuma, AZ | On Site | Dec 31 |
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Service Operations](https://jobright.ai/jobs/info/6955b319aa05c26e7aaff27b?utm_campaign=1058&utm_source=git)** | Scarborough, ME | On Site | Dec 31 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955b22baa05c26e7aaff19e?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Dec 31 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955b2099f1b381eb26eef14?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Dec 31 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955b0b8aa05c26e7aaff077?utm_campaign=1058&utm_source=git)** | Mesa, AZ | On Site | Dec 31 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955ac2aaa05c26e7aafec63?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Dec 31 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955ac16aa05c26e7aafec57?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Dec 31 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955ab3e9f1b381eb26ee849?utm_campaign=1058&utm_source=git)** | Peoria, AZ | On Site | Dec 31 |
 | **[Tennova Healthcare- Turkey Creek Medical Center](https://www.tennovaturkeycreek.com/)** | **[Nurse Intern Med Surg](https://jobright.ai/jobs/info/6955d3039f1b381eb26efeb4?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Dec 31 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[HMH](https://hmhw.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6955cf29aa05c26e7aafff20?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Dec 31 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955a73eaa05c26e7aafe7c9?utm_campaign=1058&utm_source=git)** | Glendale, AZ | On Site | Dec 31 |
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Service Operations](https://jobright.ai/jobs/info/6955c1cf9f1b381eb26ef382?utm_campaign=1058&utm_source=git)** | Londonderry, NH | On Site | Dec 31 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955c317f1f8465b79ecac61?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
