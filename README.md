@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - HCM Customer Innovation and Experience](https://jobright.ai/jobs/info/695787d3aa05c26e7ab18325?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Jan 02 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[PHARMACIST INTERN](https://jobright.ai/jobs/info/6957653faa05c26e7ab170ac?utm_campaign=1058&utm_source=git)** | Happy Valley, OR | On Site | Jan 01 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69574629f1f8465b79ee0428?utm_campaign=1058&utm_source=git)** | Williston, VT | On Site | Jan 01 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6957460d9f1b381eb2704da5?utm_campaign=1058&utm_source=git)** | Londonderry, NH | On Site | Jan 01 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955ab3e9f1b381eb26ee849?utm_campaign=1058&utm_source=git)** | Peoria, AZ | On Site | Dec 31 |
 | **[Tennova Healthcare- Turkey Creek Medical Center](https://www.tennovaturkeycreek.com/)** | **[Nurse Intern Med Surg](https://jobright.ai/jobs/info/6955d3039f1b381eb26efeb4?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Dec 31 |
 | **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Service Operations](https://jobright.ai/jobs/info/6955aa60aa05c26e7aafeabf?utm_campaign=1058&utm_source=git)** | Brewer, ME | On Site | Dec 31 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955a7cdaa05c26e7aafe835?utm_campaign=1058&utm_source=git)** | Sun City West, AZ | On Site | Dec 31 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955a9aaaa05c26e7aafea21?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Dec 31 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955a7cdaa05c26e7aafe835?utm_campaign=1058&utm_source=git)** | Sun City West, AZ | On Site | Dec 31 |
 | **[HMH](https://hmhw.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6955cf29aa05c26e7aafff20?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Dec 31 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955a73eaa05c26e7aafe7c9?utm_campaign=1058&utm_source=git)** | Glendale, AZ | On Site | Dec 31 |
-| **[Milton CAT](http://www.miltoncat.com/Pages/default.aspx)** | **[Student Intern - Service Operations](https://jobright.ai/jobs/info/6955c1cf9f1b381eb26ef382?utm_campaign=1058&utm_source=git)** | Londonderry, NH | On Site | Dec 31 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6955c317f1f8465b79ecac61?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
