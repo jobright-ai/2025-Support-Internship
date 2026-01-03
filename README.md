@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Service Desk Internship](https://jobright.ai/jobs/info/6958b77faa05c26e7ab29274?utm_campaign=1058&utm_source=git)** | New Haven, IN | On Site | Jan 02 |
+| **[Impact Advisors](https://www.impact-advisors.com)** | **[IT Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68cda1cfb2a74e1837eda32e?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Jan 02 |
+| **[ABB](https://global.abb/group/en)** | **[Technical Support Engineer/Specialist Intern - Summer 2026](https://jobright.ai/jobs/info/69087f2e4a1b456627af601e?utm_campaign=1058&utm_source=git)** | New Berlin, WI | On Site | Jan 02 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6958ba16f1f8465b79ef53dc?utm_campaign=1058&utm_source=git)** | Gloucester, MA | On Site | Jan 02 |
+| **[Policy Center for Maternal Mental Health](https://www.2020mom.org/)** | **[Nurse Extern - Nursing Internship - PRN](https://jobright.ai/jobs/info/6958b772f1f8465b79ef4f75?utm_campaign=1058&utm_source=git)** | Gilliam, LA | On Site | Jan 02 |
 | **[Yurbban Hospitality Group](https://www.yurbban.com)** | **[PBX - Hospitality Internship](https://jobright.ai/jobs/info/695886ec9f1b381eb2716c08?utm_campaign=1058&utm_source=git)** | Miami Beach, FL | On Site | Jan 02 |
 | **[Meijer](https://www.meijer.com/)** | **[Pharmacy Intern Undergrad 1 Year](https://jobright.ai/jobs/info/6958761baa05c26e7ab25ffb?utm_campaign=1058&utm_source=git)** | Monroe, MI | On Site | Jan 02 |
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Pharmacy Intern - West Penn Hospital](https://jobright.ai/jobs/info/69588e849f1b381eb2716e60?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Jan 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[IT Support Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/691e33f709cc522e877376d9?utm_campaign=1058&utm_source=git)** | Greater Chicago Area | On Site | Jan 02 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Information Technology Intern - Corporate Services (Kansas City)](https://jobright.ai/jobs/info/68d8d863022fc803b48751ea?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Jan 02 |
 | **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/694633d4d1953b5d11bf6481?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | Hybrid | Jan 02 |
-| **[Rogers Electric](https://www.rogerselectric.com)** | **[IT Intern](https://jobright.ai/jobs/info/68cba2669e3a822f5d249752?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Jan 02 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Services Internship, Price Modeling (Summer 2026)](https://jobright.ai/jobs/info/69228888c0cefa13343d82eb?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Jan 02 |
-| ↳ | **[Services Internship, Competitive Analysis & Benchmarking (Summer 2026)](https://jobright.ai/jobs/info/6922b08ec0cefa13343d8d79?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Jan 02 |
-| **[St. Peter's Health](https://www.stpetes.org)** | **[Ultrasound Technologist Intern - PRN (Variable Shifts)](https://jobright.ai/jobs/info/693b611ad4054a2bc0255703?utm_campaign=1058&utm_source=git)** | Montana, United States | On Site | Jan 02 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Services Internship, CX Designer (Summer 2026)](https://jobright.ai/jobs/info/6922887c7795cd460c8360f5?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
