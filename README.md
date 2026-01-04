@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695ab318aa05c26e7ab4364b?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 04 |
 | **[First American Equipment Finance](http://faef.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/695a927c9f1b381eb2732000?utm_campaign=1058&utm_source=git)** | Victor, NY | Hybrid | Jan 04 |
 | **[Trinity Health MI](https://bit.ly/3y0fhsr)** | **[Community Pharmacy Intern](https://jobright.ai/jobs/info/695a2ea49f1b381eb272c9f8?utm_campaign=1058&utm_source=git)** | Muskegon, MI | On Site | Jan 04 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Member Assistance Center Intern](https://jobright.ai/jobs/info/695a7821f1f8465b79f0cad8?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Jan 04 |
@@ -137,13 +138,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69592d2aaa05c26e7ab309c1?utm_campaign=1058&utm_source=git)** | Daphne, AL | On Site | Jan 03 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69592d15aa05c26e7ab309ba?utm_campaign=1058&utm_source=git)** | Saraland, AL | On Site | Jan 03 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69592cb0aa05c26e7ab30986?utm_campaign=1058&utm_source=git)** | Gulf Shores, AL | On Site | Jan 03 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69592c9baa05c26e7ab3097e?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Jan 03 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69592c99f1f8465b79efc007?utm_campaign=1058&utm_source=git)** | Dothan, AL | On Site | Jan 03 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69592c83f1f8465b79efc000?utm_campaign=1058&utm_source=git)** | Firestone, CO | On Site | Jan 03 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69592c79aa05c26e7ab3096c?utm_campaign=1058&utm_source=git)** | Cheyenne, WY | On Site | Jan 03 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69592c57aa05c26e7ab3095b?utm_campaign=1058&utm_source=git)** | Heath, OH | On Site | Jan 03 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69592c39f1f8465b79efbfdc?utm_campaign=1058&utm_source=git)** | Daly City, CA | On Site | Jan 03 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69592c36f1f8465b79efbfda?utm_campaign=1058&utm_source=git)** | Thornton, CO | On Site | Jan 03 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69592c35aa05c26e7ab30955?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Jan 03 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69592c33f1f8465b79efbfd9?utm_campaign=1058&utm_source=git)** | Burien, WA | On Site | Jan 03 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69592a449f1b381eb2720d58?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 03 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/695928989f1b381eb2720ab9?utm_campaign=1058&utm_source=git)** | Atmore, AL | On Site | Jan 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/695923309f1b381eb2720142?utm_campaign=1058&utm_source=git)** | Lancaster, OH | On Site | Jan 03 |
 | **[One&Only Resorts](https://www.oneandonlyresorts.com)** | **[Rooms Intern](https://jobright.ai/jobs/info/68cb75ef9e3a822f5d246331?utm_campaign=1058&utm_source=git)** | Big Sky, MT | On Site | Jan 03 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Customer Care Technology Summer Internship](https://jobright.ai/jobs/info/68e687811852e62f0081bd0b?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Jan 03 |
-| **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Branch Intern - Paid Internship (Pflugerville, TX)](https://jobright.ai/jobs/info/6902d990ff462851fefe6ebf?utm_campaign=1058&utm_source=git)** | Pflugerville, TX | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
