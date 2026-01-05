@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Advanced Hospitality Internship](https://jobright.ai/jobs/info/68e6af47e8daec61499ad618?utm_campaign=1058&utm_source=git)** | Round Rock, TX | On Site | Jan 05 |
+| ↳ | **[Intro to Hospitality Internship](https://jobright.ai/jobs/info/68e6af5dae2b894b1d71c800?utm_campaign=1058&utm_source=git)** | Wisconsin Dells, WI | On Site | Jan 05 |
+| **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Field Services Student Intern (9043)](https://jobright.ai/jobs/info/695bd75ef1f8465b79f1dcc5?utm_campaign=1058&utm_source=git)** | Bartow, FL | On Site | Jan 05 |
+| **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Intro to Hospitality Internship](https://jobright.ai/jobs/info/68e6af4bae2b894b1d71c7f6?utm_campaign=1058&utm_source=git)** | Round Rock, TX | On Site | Jan 05 |
+| ↳ | **[Intro to Hospitality Internship](https://jobright.ai/jobs/info/68e6b133ae2b894b1d71c9c4?utm_campaign=1058&utm_source=git)** | Pocono, PA | On Site | Jan 05 |
+| ↳ | **[Intro to Hospitality Internship](https://jobright.ai/jobs/info/68e6b0a3e8daec61499ad737?utm_campaign=1058&utm_source=git)** | Sandusky, OH | On Site | Jan 05 |
+| ↳ | **[Advanced Hospitality Internship](https://jobright.ai/jobs/info/68e6a815ae2b894b1d71c4f3?utm_campaign=1058&utm_source=git)** | Wisconsin Dells, WI | On Site | Jan 05 |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Mortgage Post Closing Intern](https://jobright.ai/jobs/info/695bcc0eaa05c26e7ab51fc6?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Jan 05 |
+| ↳ | **[Member Assistance Center Intern](https://jobright.ai/jobs/info/695bc8dcf1f8465b79f1d695?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Jan 05 |
+| ↳ | **[Mortgage Operations Intern](https://jobright.ai/jobs/info/695bc7c4f1f8465b79f1d626?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Jan 05 |
+| **[Crane Currency](http://www.cranecurrency.com/)** | **[IT Internship](https://jobright.ai/jobs/info/693fd3b0aa598a08c3efa380?utm_campaign=1058&utm_source=git)** | Dalton, MA | On Site | Jan 05 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68e9afab0930fe0bc46284db?utm_campaign=1058&utm_source=git)** | Idaho Falls, ID | On Site | Jan 05 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Technical Writer Intern, NYC](https://jobright.ai/jobs/info/690566c863502c0aded7ad77?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Jan 05 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Technical Support Representative Intern](https://jobright.ai/jobs/info/68e85ea5cc49a84b7e105872?utm_campaign=1058&utm_source=git)** | Westfield Center, OH | On Site | Jan 05 |
@@ -70,7 +81,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer '26 Intern - IT Support](https://jobright.ai/jobs/info/68cd2c161ad6b16f028960fc?utm_campaign=1058&utm_source=git)** | Toledo, OH | Hybrid | Jan 05 |
 | **[Guthrie](http://www.guthrie.org)** | **[Pharmacy Intern - Pharmacy - Per Diem](https://jobright.ai/jobs/info/683e0b6ea41241a3a99d52f1?utm_campaign=1058&utm_source=git)** | Binghamton, NY | On Site | Jan 05 |
 | **[Ontario Teachers'​ Pension Plan](https://www.otpp.com/en-ca/investments/our-investments/teachers-venture-growth/)** | **[Intern - End-User Technology (May 2026 - 12 months)](https://jobright.ai/jobs/info/695b9405aa05c26e7ab4f056?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 05 |
-| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Technical Writer Intern](https://jobright.ai/jobs/info/695b928faa05c26e7ab4efd2?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
+| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Technical Writer Intern](https://jobright.ai/jobs/info/695b8342f1f8465b79f1922d?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
 | **[HII](https://hii.com)** | **[2026 COLLEGE SUMMER INTERN- INFO TECH](https://jobright.ai/jobs/info/695b801baa05c26e7ab4d041?utm_campaign=1058&utm_source=git)** | Pascagoula, MS | On Site | Jan 05 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Graduate Intern Pharmacist](https://jobright.ai/jobs/info/695b7fd59f1b381eb273e3fe?utm_campaign=1058&utm_source=git)** | California-Roseville-Roseville Hospital | On Site | Jan 05 |
 | **[Textron](http://textron.com)** | **[2026 Technical Writer Intern](https://jobright.ai/jobs/info/695b7c8ef1f8465b79f18dbf?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
@@ -95,10 +106,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/695a77a5f1f8465b79f0ca91?utm_campaign=1058&utm_source=git)** | Corpus Christi, TX | On Site | Jan 04 |
 | **[Lyft](https://www.lyft.com/)** | **[Technical Account Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/6921097200c9ee50eaecb004?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 04 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/695a75fa9f1b381eb27319fc?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Jan 04 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Mortgage Operations Intern](https://jobright.ai/jobs/info/695a75e09f1b381eb27319eb?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Jan 04 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/695a75aaf1f8465b79f0c975?utm_campaign=1058&utm_source=git)** | Stonecrest, GA | On Site | Jan 04 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/695a75aaf1f8465b79f0c975?utm_campaign=1058&utm_source=git)** | Stonecrest, GA | On Site | Jan 04 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/695a759caa05c26e7ab4130d?utm_campaign=1058&utm_source=git)** | San Juan, TX | On Site | Jan 04 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Mortgage Post Closing Intern](https://jobright.ai/jobs/info/695a748baa05c26e7ab41276?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Jan 04 |
 | **[Saint Joseph Mercy Health System](http://www.stjoeshealth.org)** | **[Community Pharmacy Intern](https://jobright.ai/jobs/info/695a256c9f1b381eb272c27a?utm_campaign=1058&utm_source=git)** | Muskegon, MI | On Site | Jan 04 |
 | **[MultiCare Health System](http://www.multicare.org)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/6904064dd64a22104aa961aa?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Jan 04 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68af47f87bcb7608b3d2c21a?utm_campaign=1058&utm_source=git)** | Pflugerville, TX | On Site | Jan 04 |
@@ -136,10 +145,10 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/695974beaa05c26e7ab334d8?utm_campaign=1058&utm_source=git)** | Stillwater, OK | On Site | Jan 03 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6959744aaa05c26e7ab33490?utm_campaign=1058&utm_source=git)** | Broken Arrow, OK | On Site | Jan 03 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/695973a7f1f8465b79efeb73?utm_campaign=1058&utm_source=git)** | Broken Arrow, OK | On Site | Jan 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69597370f1f8465b79efeb55?utm_campaign=1058&utm_source=git)** | Broken Arrow, OK | On Site | Jan 03 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6959726f9f1b381eb27237d9?utm_campaign=1058&utm_source=git)** | Greenwood, AR | On Site | Jan 03 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/695972549f1b381eb27237ca?utm_campaign=1058&utm_source=git)** | Claremore, OK | On Site | Jan 03 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/695971fbf1f8465b79efea65?utm_campaign=1058&utm_source=git)** | Tahlequah, OK | On Site | Jan 03 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/695971f49f1b381eb2723790?utm_campaign=1058&utm_source=git)** | Broken Arrow, OK | On Site | Jan 03 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/695971e39f1b381eb2723780?utm_campaign=1058&utm_source=git)** | Muskogee, OK | On Site | Jan 03 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/695971ce9f1b381eb272376f?utm_campaign=1058&utm_source=git)** | Alma, AR | On Site | Jan 03 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/695971ab9f1b381eb272375c?utm_campaign=1058&utm_source=git)** | Bartlesville, OK | On Site | Jan 03 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Supply Chain Customer Service Intern](https://jobright.ai/jobs/info/6959400daa05c26e7ab30f40?utm_campaign=1058&utm_source=git)** | North Chicago, IL | On Site | Jan 03 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69593141f1f8465b79efc269?utm_campaign=1058&utm_source=git)** | Stonecrest, GA | On Site | Jan 03 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69593138f1f8465b79efc266?utm_campaign=1058&utm_source=git)** | Newark, OH | On Site | Jan 03 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Member Assistance Center Intern](https://jobright.ai/jobs/info/695930aff1f8465b79efc21d?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Jan 03 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69593088aa05c26e7ab30b5f?utm_campaign=1058&utm_source=git)** | Casper, WY | On Site | Jan 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6959302ef1f8465b79efc1d8?utm_campaign=1058&utm_source=git)** | Coshocton, OH | On Site | Jan 03 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6959301df1f8465b79efc1d2?utm_campaign=1058&utm_source=git)** | Fort Morgan, CO | On Site | Jan 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69592fe8f1f8465b79efc1ba?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Jan 03 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69592fc9f1f8465b79efc19e?utm_campaign=1058&utm_source=git)** | Longmont, CO | On Site | Jan 03 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69592f8ef1f8465b79efc17e?utm_campaign=1058&utm_source=git)** | Gulf Breeze, FL | On Site | Jan 03 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69592f20aa05c26e7ab30ab9?utm_campaign=1058&utm_source=git)** | Panama City Beach, FL | On Site | Jan 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69592f13aa05c26e7ab30ab1?utm_campaign=1058&utm_source=git)** | Casa Grande, AZ | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
