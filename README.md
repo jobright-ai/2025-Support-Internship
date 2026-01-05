@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Airlines](https://www.united.com)** | **[Intern - Flight Dispatch (Summer 2026)](https://jobright.ai/jobs/info/695ba30caa05c26e7ab4f605?utm_campaign=1058&utm_source=git)** | Arlington Heights, IL | On Site | Jan 05 |
+| **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - IT Support](https://jobright.ai/jobs/info/68c793b4c96a22563ecf28a7?utm_campaign=1058&utm_source=git)** | Dallas, TX | Hybrid | Jan 05 |
+| ↳ | **[Summer '26 Intern - IT Support](https://jobright.ai/jobs/info/68cd2c161ad6b16f028960fc?utm_campaign=1058&utm_source=git)** | Toledo, OH | Hybrid | Jan 05 |
+| **[Guthrie](http://www.guthrie.org)** | **[Pharmacy Intern - Pharmacy - Per Diem](https://jobright.ai/jobs/info/683e0b6ea41241a3a99d52f1?utm_campaign=1058&utm_source=git)** | Binghamton, NY | On Site | Jan 05 |
+| **[Ontario Teachers'​ Pension Plan](https://www.otpp.com/en-ca/investments/our-investments/teachers-venture-growth/)** | **[Intern - End-User Technology (May 2026 - 12 months)](https://jobright.ai/jobs/info/695b9405aa05c26e7ab4f056?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 05 |
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Technical Writer Intern](https://jobright.ai/jobs/info/695b8342f1f8465b79f1922d?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
 | **[HII](https://hii.com)** | **[2026 COLLEGE SUMMER INTERN- INFO TECH](https://jobright.ai/jobs/info/695b801baa05c26e7ab4d041?utm_campaign=1058&utm_source=git)** | Pascagoula, MS | On Site | Jan 05 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Graduate Intern Pharmacist](https://jobright.ai/jobs/info/695b7fd59f1b381eb273e3fe?utm_campaign=1058&utm_source=git)** | California-Roseville-Roseville Hospital | On Site | Jan 05 |
 | **[Textron](http://textron.com)** | **[2026 Technical Writer Intern](https://jobright.ai/jobs/info/695b7c8ef1f8465b79f18dbf?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Technical Writer Intern](https://jobright.ai/jobs/info/695b78e09f1b381eb273d3c7?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Jan 05 |
+| **[ABB](https://global.abb/group/en)** | **[Technical Support Engineer/Specialist Intern - Summer 2026](https://jobright.ai/jobs/info/69087f2e4a1b456627af601e?utm_campaign=1058&utm_source=git)** | New Berlin, WI | On Site | Jan 05 |
 | **[Hilti Group](https://www.hilti.group/content/hilti/CP/XX/en.html)** | **[Operations Intern - Customer Service - Summer 2026](https://jobright.ai/jobs/info/695b77d8aa05c26e7ab4c923?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | Jan 05 |
 | **[IAT Insurance Group](https://www.iatinsurancegroup.com)** | **[Business Application Support Intern](https://jobright.ai/jobs/info/695b6f1bf1f8465b79f17d2e?utm_campaign=1058&utm_source=git)** | Rolling Meadows, IL | Hybrid | Jan 04 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/695b6f08f1f8465b79f17d29?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Jan 04 |
@@ -120,8 +126,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/695b6639aa05c26e7ab4bf72?utm_campaign=1058&utm_source=git)** | Menlo Park, CA | On Site | Jan 03 |
 | ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/695b57639f1b381eb273c0bb?utm_campaign=1058&utm_source=git)** | Hercules, CA | On Site | Jan 03 |
 | ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/695b51e4f1f8465b79f16c25?utm_campaign=1058&utm_source=git)** | Sunnyvale, CA | On Site | Jan 03 |
-| **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Pharmacy Intern - Mail Center, Per Diem](https://jobright.ai/jobs/info/6959f04d9f1b381eb272a8b0?utm_campaign=1058&utm_source=git)** | Manchester, NH | On Site | Jan 03 |
-| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/695b3a02aa05c26e7ab4911a?utm_campaign=1058&utm_source=git)** | Fremont, CA | On Site | Jan 03 |
+| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/695b3a02aa05c26e7ab4911a?utm_campaign=1058&utm_source=git)** | Fremont, CA | On Site | Jan 03 |
 | ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/695b3520aa05c26e7ab48d76?utm_campaign=1058&utm_source=git)** | Walnut Creek, CA | On Site | Jan 03 |
 | ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/695b26289f1b381eb2738f40?utm_campaign=1058&utm_source=git)** | Hayward, CA | On Site | Jan 03 |
 | ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/695b26259f1b381eb2738f19?utm_campaign=1058&utm_source=git)** | Martinez, CA | On Site | Jan 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69592f8ef1f8465b79efc17e?utm_campaign=1058&utm_source=git)** | Gulf Breeze, FL | On Site | Jan 03 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69592f20aa05c26e7ab30ab9?utm_campaign=1058&utm_source=git)** | Panama City Beach, FL | On Site | Jan 03 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69592f13aa05c26e7ab30ab1?utm_campaign=1058&utm_source=git)** | Casa Grande, AZ | On Site | Jan 03 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69592e8af1f8465b79efc0f8?utm_campaign=1058&utm_source=git)** | Pace, FL | On Site | Jan 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69592e75f1f8465b79efc0ef?utm_campaign=1058&utm_source=git)** | Blacklick Ridge, OH | On Site | Jan 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69592e6eaa05c26e7ab30a66?utm_campaign=1058&utm_source=git)** | Hilliard, OH | On Site | Jan 03 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69592e53aa05c26e7ab30a57?utm_campaign=1058&utm_source=git)** | Fort Collins, CO | On Site | Jan 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69592e47aa05c26e7ab30a4c?utm_campaign=1058&utm_source=git)** | Queen Creek, AZ | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
