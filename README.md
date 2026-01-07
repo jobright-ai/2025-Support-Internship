@@ -57,7 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[INTEGRIS Health](https://www.integrisok.com)** | **[Acute Care Advanced Practice Nurse Intern - Specialty Critical Care (ECMO, Transplant, Advanced Heart Failure)](https://jobright.ai/jobs/info/69421adbbdcf884a5adddee3?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Jan 07 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Pharmacy Intern YR4](https://jobright.ai/jobs/info/695e55450badca5763aec2ac?utm_campaign=1058&utm_source=git)** | Newton, MA | On Site | Jan 07 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern - IT – Associate Solutions Engineer – Salesforce](https://jobright.ai/jobs/info/695e51c7da2b8c6b40f39830?utm_campaign=1058&utm_source=git)** | St Charles, MO | On Site | Jan 07 |
+| **[Teamworks](http://www.teamworks.com)** | **[Customer Education Intern](https://jobright.ai/jobs/info/694162c814ee092a69ff83c2?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 07 |
+| **[Everus](http://www.mducsg.com/)** | **[IT Support Services Intern - Summer 2026](https://jobright.ai/jobs/info/6941c07550bbaf7650538fde?utm_campaign=1058&utm_source=git)** | Bismarck, ND | On Site | Jan 07 |
+| **[Nebraska Medicine](https://www.nebraskamed.com)** | **[Heart Monitoring Unit Internship](https://jobright.ai/jobs/info/695e4d2a0badca5763aebf9e?utm_campaign=1058&utm_source=git)** | Omaha Metropolitan Area | On Site | Jan 07 |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Pharmacy intern](https://jobright.ai/jobs/info/692598bcd47de4798ecd08e9?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 07 |
+| **[Anton Paar USA](http://www.anton-paar.com/)** | **[Internship](https://jobright.ai/jobs/info/69423db150bbaf7650542127?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Jan 07 |
+| **[GoFundMe](http://www.gofundme.com)** | **[IT Administrator Intern](https://jobright.ai/jobs/info/6926390727bf2f41a2c44852?utm_campaign=1058&utm_source=git)** | San Francisco, CA | Hybrid | Jan 07 |
 | **[Blattner](https://www.blattnercompany.com)** | **[IT Intern - Help Desk l](https://jobright.ai/jobs/info/695e3fd9da2b8c6b40f39237?utm_campaign=1058&utm_source=git)** | Avon, MN | On Site | Jan 07 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/6945118a63141d1884549466?utm_campaign=1058&utm_source=git)** | Gilbert, AZ | Hybrid | Jan 07 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Children's Health Intern (Unpaid)](https://jobright.ai/jobs/info/692601c0d47de4798ecd3705?utm_campaign=1058&utm_source=git)** | Elizabeth, NJ | On Site | Jan 07 |
 | **[UAB Medicine](https://www.uabmedicine.org)** | **[Imaging Intern - PRN](https://jobright.ai/jobs/info/695e2bea3c6a895ac5ef077b?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Jan 07 |
 | **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, 4/5 Main Med Surg, Per Diem, 7am to 7:30pm](https://jobright.ai/jobs/info/695e29962847344df473b39d?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Jan 07 |
 | **[Trinity Health MI](https://bit.ly/3y0fhsr)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/695e274026f1314697ad031e?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 07 |
@@ -120,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Enloe Health](https://www.enloe.org/)** | **[IS Intern - Information Services (Per Diem, Temporary, Days)](https://jobright.ai/jobs/info/695df0db62ca9111e7826d04?utm_campaign=1058&utm_source=git)** | Greater Chico Area | On Site | Jan 06 |
 | **[ATB Technologies](https://atb-tech.com/)** | **[Support Services Intern](https://jobright.ai/jobs/info/695d814ff5f3c43f38e252d5?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Jan 06 |
 | **[Hickory Crawdads](http://www.milb.com/index.jsp?sid=t448)** | **[General Internship](https://jobright.ai/jobs/info/695d8020f5f3c43f38e25045?utm_campaign=1058&utm_source=git)** | Hickory, NC | On Site | Jan 06 |
+| **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Paramedic Intern](https://jobright.ai/jobs/info/695e5bc408ab990f2829b1ff?utm_campaign=1058&utm_source=git)** | Somerset, NJ | On Site | Jan 06 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Louisville)](https://jobright.ai/jobs/info/695d7e52fbd62a0a656617e4?utm_campaign=1058&utm_source=git)** | Louisville, KY | On Site | Jan 06 |
 | **[EOS Defense Systems USA, Inc.](https://www.eosdsusa.com/)** | **[Intern - IT](https://jobright.ai/jobs/info/695d7d12fbd62a0a656616d8?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | Jan 06 |
 | **[Manufacturers’ Agents Association for the Foodservice Industry (MAFSI)](http://www.mafsi.org/)** | **[Hospitality Management Intern](https://jobright.ai/jobs/info/695d9b9df1f8465b79f3e36b?utm_campaign=1058&utm_source=git)** | Franklin, IN | On Site | Jan 06 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Morevolved](https://www.in2inn.com/)** | **[Part-Time Office & IT Support Intern](https://jobright.ai/jobs/info/695d6381f5f3c43f38e22c03?utm_campaign=1058&utm_source=git)** | Citrus Heights, CA | On Site | Jan 06 |
 | **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6944700a94730b7398779ac1?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Jan 06 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Graduate Intern Pharmacist](https://jobright.ai/jobs/info/695d60fcfbd62a0a6565f644?utm_campaign=1058&utm_source=git)** | Roseville, CA | On Site | Jan 06 |
-| **[Canadian Solar Inc.](https://www.canadiansolar.com)** | **[intern](https://jobright.ai/jobs/info/695d60a8f1f8465b79f38b1d?utm_campaign=1058&utm_source=git)** | Mesquite, TX | On Site | Jan 06 |
-| **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, IT Season 2026](https://jobright.ai/jobs/info/695d7db1f1f8465b79f3ac03?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Jan 06 |
-| **[SSM Health](https://www.ssmhealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/695d9084fbd62a0a65663e63?utm_campaign=1058&utm_source=git)** | WI-SSM Health St. Mary's Hospital - Madison | On Site | Jan 06 |
-| **[FortisBC](https://www.fortisbc.com)** | **[Information Systems Co-op](https://jobright.ai/jobs/info/695d79d0fbd62a0a65661298?utm_campaign=1058&utm_source=git)** | Kelowna, British Columbia, Canada | On Site | Jan 06 |
-| **[Cottingham & Butler](https://www.cottinghambutler.com/)** | **[2026 Summer Claims Intern](https://jobright.ai/jobs/info/695d59ecf5f3c43f38e223b2?utm_campaign=1058&utm_source=git)** | Dubuque, IA | On Site | Jan 06 |
-| ↳ | **[2026 Summer Claims Intern](https://jobright.ai/jobs/info/695d5608f5f3c43f38e220a2?utm_campaign=1058&utm_source=git)** | Dubuque, Iowa, United States | On Site | Jan 06 |
-| **[Cambria](http://www.cambriausa.com)** | **[Sales Technology Productivity Intern](https://jobright.ai/jobs/info/695d5608f1f8465b79f384ce?utm_campaign=1058&utm_source=git)** | Eden Prairie, MN | On Site | Jan 06 |
-| **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Concierge Intern](https://jobright.ai/jobs/info/695d5441f1f8465b79f38327?utm_campaign=1058&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Jan 06 |
-| **[ATB Technologies](https://atb-tech.com/)** | **[Support Services Intern](https://jobright.ai/jobs/info/695d7aadf1f8465b79f3a8be?utm_campaign=1058&utm_source=git)** | St. Louis,MO,US | On Site | Jan 06 |
-| **[Aspire Technology Partners](http://aspiretransforms.com)** | **[Intern - NOC Analyst](https://jobright.ai/jobs/info/695d7567f5f3c43f38e242b8?utm_campaign=1058&utm_source=git)** | Remote Worker - N/A | Remote | Jan 06 |
-| **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Bowling Green)](https://jobright.ai/jobs/info/695d72dbf5f3c43f38e23f35?utm_campaign=1058&utm_source=git)** | US-KY-Bowling Green | On Site | Jan 06 |
-| ↳ | **[Regional Support Intern (Campbellsville)](https://jobright.ai/jobs/info/695d6fabfbd62a0a65660680?utm_campaign=1058&utm_source=git)** | US-KY-Campbellsville | On Site | Jan 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
