@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/695d9af3f5f3c43f38e280af?utm_campaign=1058&utm_source=git)** | Scranton, PA | On Site | Jan 06 |
+| **[Buckner International](https://www.buckner.org/)** | **[Summer Staff - Hospitality Intern](https://jobright.ai/jobs/info/695db85afbd62a0a6566686b?utm_campaign=1058&utm_source=git)** | Burnet, Texas, United States | On Site | Jan 06 |
+| **[Lucid Software](https://lucid.co)** | **[Customer Operations Intern - Summer 2026](https://jobright.ai/jobs/info/695db49befe5dd5cbd3d8a20?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 06 |
+| **[PORT Health](https://www.porthealth.org/)** | **[Graduate Nurse Practitioner Intern](https://jobright.ai/jobs/info/695dab52f1f8465b79f3f529?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Jan 06 |
+| **[SSM Health](https://www.ssmhealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/695da704f1f8465b79f3eee8?utm_campaign=1058&utm_source=git)** | Greater Madison Area | On Site | Jan 06 |
+| **[Driftwood Hospitality Management](https://driftwoodhospitality.com)** | **[College Internship - Front Desk Agent - Summer 2026](https://jobright.ai/jobs/info/695da6b7fbd62a0a65665aaa?utm_campaign=1058&utm_source=git)** | Osage Beach, MO | On Site | Jan 06 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/695d9d8cfbd62a0a65665168?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 06 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/695d9af3f5f3c43f38e280af?utm_campaign=1058&utm_source=git)** | Scranton, PA | On Site | Jan 06 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/695d98a5f5f3c43f38e27e46?utm_campaign=1058&utm_source=git)** | Hialeah, FL | On Site | Jan 06 |
 | **[Masimo](http://www.masimo.com)** | **[2026 Summer Intern - IT Helpdesk](https://jobright.ai/jobs/info/695d985af5f3c43f38e27df2?utm_campaign=1058&utm_source=git)** | Irvine, CA, United States | On Site | Jan 06 |
+| **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern - Intermediate PCU -  PRN](https://jobright.ai/jobs/info/695db55ff1f8465b79f3fc50?utm_campaign=1058&utm_source=git)** | Saint Luke's Hospital   |   4401 Wornall Rd   |   Kansas City   |   MO | On Site | Jan 06 |
+| **[Southwest Airlines](http://www.southwest.com/)** | **[Customer Service & Experience Design Summer 2026 Intern](https://jobright.ai/jobs/info/695db4a0f1f8465b79f3fba3?utm_campaign=1058&utm_source=git)** | TX-Dallas | On Site | Jan 06 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares Internship - Summer 2026](https://jobright.ai/jobs/info/695d93cefbd62a0a65664559?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Jan 06 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/695d9339f1f8465b79f3d97b?utm_campaign=1058&utm_source=git)** | San Mateo, CA | On Site | Jan 06 |
 | **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Paramedic Intern](https://jobright.ai/jobs/info/695d92f5f1f8465b79f3d8e1?utm_campaign=1058&utm_source=git)** | Somerset, NJ | On Site | Jan 06 |
@@ -73,8 +81,10 @@ For a complete list, click the following sortable link below:
 | **[Manufacturers’ Agents Association for the Foodservice Industry (MAFSI)](http://www.mafsi.org/)** | **[Hospitality Management Intern](https://jobright.ai/jobs/info/695d9b9df1f8465b79f3e36b?utm_campaign=1058&utm_source=git)** | Franklin, IN | On Site | Jan 06 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Internship (Multiple) REPOST](https://jobright.ai/jobs/info/695d79c0f1f8465b79f3a771?utm_campaign=1058&utm_source=git)** | Jersey City, NJ | On Site | Jan 06 |
 | **[Miller International Inc.](https://cinchjeans.com)** | **[Junior IT Support Associate (Intern)](https://jobright.ai/jobs/info/695d799cf1f8465b79f3a73f?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Jan 06 |
+| **[New York Mets](https://www.mlb.com/mets)** | **[2026 Summer Intern, Technology Solutions](https://jobright.ai/jobs/info/695da722f5f3c43f38e28cf0?utm_campaign=1058&utm_source=git)** | Citi Field – Queens, New York | On Site | Jan 06 |
 | **[Rolls-Royce Power Systems AG](http://www.rrpowersystems.com)** | **[IT Intern](https://jobright.ai/jobs/info/695d76dbfbd62a0a65660e59?utm_campaign=1058&utm_source=git)** | Novi, MI | On Site | Jan 06 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Hopkinsville)](https://jobright.ai/jobs/info/695d76c1f1f8465b79f3a34b?utm_campaign=1058&utm_source=git)** | Hopkinsville, KY | On Site | Jan 06 |
+| **[Citizens Energy Group](https://www.citizensenergygroup.com/)** | **[IT Support Center Intern](https://jobright.ai/jobs/info/695da486f1f8465b79f3eb13?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Jan 06 |
 | **[WellSpan Health](https://www.wellspan.org/)** | **[Pharmacy Intern - Ephrata Community Hospitall- PRN](https://jobright.ai/jobs/info/695d988ef1f8465b79f3dfc1?utm_campaign=1058&utm_source=git)** | 169 Martin Ave, Ephrata, PA, 17522, US | On Site | Jan 06 |
 | **[Parnall Law Firm - Hurt? Call Bert](https://www.hurtcallbert.com)** | **[Intern/Mail Clerk](https://jobright.ai/jobs/info/695d7033f1f8465b79f39bd9?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Jan 06 |
 | **[Fleet Response](http://fleetresponse.com)** | **[Fleet Response 2026 Summer Internship](https://jobright.ai/jobs/info/695d9312f5f3c43f38e2785d?utm_campaign=1058&utm_source=git)** | Hudson, OH, US | On Site | Jan 06 |
@@ -87,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Server Assistant - J1 Intern](https://jobright.ai/jobs/info/695d9a73fbd62a0a65664dac?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Jan 06 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Campbellsville)](https://jobright.ai/jobs/info/695d8adaf5f3c43f38e2669c?utm_campaign=1058&utm_source=git)** | Campbellsville, KY | On Site | Jan 06 |
 | **[Aspire Technology Partners](http://aspiretransforms.com)** | **[Intern - NOC Analyst](https://jobright.ai/jobs/info/695d66a0f1f8465b79f39065?utm_campaign=1058&utm_source=git)** | Fully Remote | Remote | Jan 06 |
+| **[FC Tulsa](https://www.fctulsa.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/695da3b8f5f3c43f38e2887b?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | Jan 06 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Morehead)](https://jobright.ai/jobs/info/695d87c5f1f8465b79f3bf55?utm_campaign=1058&utm_source=git)** | Morehead, KY | On Site | Jan 06 |
 | ↳ | **[Regional Support Intern (Louisville)](https://jobright.ai/jobs/info/695d6446f1f8465b79f38de6?utm_campaign=1058&utm_source=git)** | US-KY-Louisville | On Site | Jan 06 |
 | **[Morevolved](https://www.in2inn.com/)** | **[Part-Time Office & IT Support Intern](https://jobright.ai/jobs/info/695d6381f5f3c43f38e22c03?utm_campaign=1058&utm_source=git)** | Citrus Heights, CA | On Site | Jan 06 |
@@ -98,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[FortisBC](https://www.fortisbc.com)** | **[Information Systems Co-op](https://jobright.ai/jobs/info/695d79d0fbd62a0a65661298?utm_campaign=1058&utm_source=git)** | Kelowna, British Columbia, Canada | On Site | Jan 06 |
 | **[Cottingham & Butler](https://www.cottinghambutler.com/)** | **[2026 Summer Claims Intern](https://jobright.ai/jobs/info/695d59ecf5f3c43f38e223b2?utm_campaign=1058&utm_source=git)** | Dubuque, IA | On Site | Jan 06 |
 | ↳ | **[2026 Summer Claims Intern](https://jobright.ai/jobs/info/695d5608f5f3c43f38e220a2?utm_campaign=1058&utm_source=git)** | Dubuque, Iowa, United States | On Site | Jan 06 |
+| **[Cambria](http://www.cambriausa.com)** | **[Sales Technology Productivity Intern](https://jobright.ai/jobs/info/695d5608f1f8465b79f384ce?utm_campaign=1058&utm_source=git)** | Eden Prairie, MN | On Site | Jan 06 |
 | **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Concierge Intern](https://jobright.ai/jobs/info/695d5441f1f8465b79f38327?utm_campaign=1058&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Jan 06 |
 | **[ATB Technologies](https://atb-tech.com/)** | **[Support Services Intern](https://jobright.ai/jobs/info/695d7aadf1f8465b79f3a8be?utm_campaign=1058&utm_source=git)** | St. Louis,MO,US | On Site | Jan 06 |
 | **[Aspire Technology Partners](http://aspiretransforms.com)** | **[Intern - NOC Analyst](https://jobright.ai/jobs/info/695d7567f5f3c43f38e242b8?utm_campaign=1058&utm_source=git)** | Remote Worker - N/A | Remote | Jan 06 |
@@ -108,7 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Validus Technology](www.validustechnology.com)** | **[🌟 Intern – Personal Assistant (Technology & Innovation)](https://jobright.ai/jobs/info/695d7165fbd62a0a6566088d?utm_campaign=1058&utm_source=git)** | Hastings-On-Hudson, NY | Hybrid | Jan 06 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Front Desk Agent/PBX Operator / J1 Intern/Trainee](https://jobright.ai/jobs/info/695d743ff1f8465b79f3a02d?utm_campaign=1058&utm_source=git)** | US-FL-Orlando | On Site | Jan 06 |
 | ↳ | **[Omni Cares Internship - Summer 2026](https://jobright.ai/jobs/info/695d8baaf5f3c43f38e268e8?utm_campaign=1058&utm_source=git)** | US-TN-Nashville | On Site | Jan 06 |
-| **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Server Assistant - J1 Intern](https://jobright.ai/jobs/info/695d7134f5f3c43f38e23d1a?utm_campaign=1058&utm_source=git)** | St. Louis | On Site | Jan 06 |
+| **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Server Assistant - J1 Intern](https://jobright.ai/jobs/info/695d8f26fbd62a0a65663b4f?utm_campaign=1058&utm_source=git)** | St. Louis | On Site | Jan 06 |
 | **[Impact Advisors](https://www.impact-advisors.com)** | **[IT Advisory Intern - Summer 2026](https://jobright.ai/jobs/info/68cda1cfb2a74e1837eda32e?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Jan 06 |
 | **[City of Douglasville, GA](https://www.douglasvillega.gov/)** | **[SPRING INTERN (CONFERENCE CENTER AND TOURISM)](https://jobright.ai/jobs/info/695d462ff5f3c43f38e1fd7d?utm_campaign=1058&utm_source=git)** | Douglasville, GA, US | On Site | Jan 06 |
 | **[Rolls-Royce](http://www.rolls-royce.com)** | **[IT Intern](https://jobright.ai/jobs/info/695d45f1f1f8465b79f37287?utm_campaign=1058&utm_source=git)** | Novi | On Site | Jan 06 |
@@ -116,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Herschend Family Entertainment](http://www.hfecorp.com/)** | **[Idlewild and SoakZone: IT Support Intern](https://jobright.ai/jobs/info/695d3aa9fbd62a0a6565c38c?utm_campaign=1058&utm_source=git)** | Idlewild & Soakzone, PO Box C, Ligonier,  PA 15658, United States of America | On Site | Jan 06 |
 | **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Salesforce Administrator Intern](https://jobright.ai/jobs/info/694a01b47d506e3808f51d5c?utm_campaign=1058&utm_source=git)** | Campbell, CA | Hybrid | Jan 06 |
 | **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern - Trauma Surgical PCU](https://jobright.ai/jobs/info/695d36a0fbd62a0a6565c111?utm_campaign=1058&utm_source=git)** | Saint Luke's Hospital   |   4401 Wornall Rd   |   Kansas City   |   MO | On Site | Jan 06 |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Mortgage Operations Intern](https://jobright.ai/jobs/info/695d3340f1f8465b79f35553?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Jan 06 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/695d2923f5f3c43f38e1edd2?utm_campaign=1058&utm_source=git)** | Papillion, NE | On Site | Jan 06 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/695d2804fbd62a0a6565baed?utm_campaign=1058&utm_source=git)** | Wausau, WI | On Site | Jan 06 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/695d2736f1f8465b79f34fec?utm_campaign=1058&utm_source=git)** | Stillwater, OK | On Site | Jan 06 |
@@ -128,15 +141,13 @@ For a complete list, click the following sortable link below:
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Mortgage Post Closing Intern](https://jobright.ai/jobs/info/695d25eefbd62a0a6565b9d6?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Jan 06 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/695d2574fbd62a0a6565b987?utm_campaign=1058&utm_source=git)** | Castro Valley, CA | On Site | Jan 06 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Member Assistance Center Intern](https://jobright.ai/jobs/info/695d256cf5f3c43f38e1eb28?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Jan 06 |
-| ↳ | **[Mortgage Operations Intern](https://jobright.ai/jobs/info/695d24d0fbd62a0a6565b90a?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Jan 06 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/695d246df1f8465b79f34e00?utm_campaign=1058&utm_source=git)** | La Vista, NE | On Site | Jan 06 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/695d23a2f1f8465b79f34d79?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 06 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/695d238df5f3c43f38e1ea03?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Jan 06 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/695d239ff1f8465b79f34d75?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Jan 06 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/695d2359f5f3c43f38e1e9d9?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Jan 06 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/695d2340f5f3c43f38e1e9be?utm_campaign=1058&utm_source=git)** | Alameda, CA | On Site | Jan 06 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/695d22fef1f8465b79f34d05?utm_campaign=1058&utm_source=git)** | Draper, UT | On Site | Jan 06 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/695d22befbd62a0a6565b79d?utm_campaign=1058&utm_source=git)** | Draper, UT | On Site | Jan 06 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/695d22b0fbd62a0a6565b792?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Jan 06 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/695d212af1f8465b79f34bc7?utm_campaign=1058&utm_source=git)** | West Jordan, UT | On Site | Jan 06 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Patient Care Associate Intern - CO-OP Tech School](https://jobright.ai/jobs/info/695d2122fbd62a0a6565b698?utm_campaign=1058&utm_source=git)** | East Sandwich-MA | On Site | Jan 06 |
 | **[Definity](https://www.definityfinancial.com/)** | **[SIU Triage Analyst - Summer 2026 Co-op/Intern](https://jobright.ai/jobs/info/695d2115fbd62a0a6565b691?utm_campaign=1058&utm_source=git)** | Toronto, ONT, Canada | Hybrid | Jan 06 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/695d1f75fbd62a0a6565b58a?utm_campaign=1058&utm_source=git)** | Niles, IL | On Site | Jan 06 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/695d1f15f1f8465b79f34a75?utm_campaign=1058&utm_source=git)** | Castro Valley, CA | On Site | Jan 06 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/695d1c35f5f3c43f38e1e63a?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Jan 06 |
-| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/695d1bbbf1f8465b79f349be?utm_campaign=1058&utm_source=git)** | El Cerrito, CA | On Site | Jan 06 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/695d1b61fbd62a0a6565b44d?utm_campaign=1058&utm_source=git)** | Westbrook, ME | On Site | Jan 06 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/695d1ae1f1f8465b79f34915?utm_campaign=1058&utm_source=git)** | Lincoln, NE | On Site | Jan 06 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/695d1a9df1f8465b79f348d9?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Jan 06 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/695d1a5ef1f8465b79f348a3?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Jan 06 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/695d19b6f5f3c43f38e1e46c?utm_campaign=1058&utm_source=git)** | Greenwood, AR | On Site | Jan 06 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/695d19a5fbd62a0a6565b302?utm_campaign=1058&utm_source=git)** | Dolton, IL | On Site | Jan 06 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/695d1995fbd62a0a6565b2f0?utm_campaign=1058&utm_source=git)** | Green Valley, AZ | On Site | Jan 06 |
-| **[Centerpoint Medical Center](http://www.centerpointmedical.com)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/68eb879f2f64880ca0b58b47?utm_campaign=1058&utm_source=git)** | Independence, MO | On Site | Jan 06 |
-| **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern - UPMC Presbyterian](https://jobright.ai/jobs/info/6940cad349a7695fbd064866?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Jan 06 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/695d17e9f5f3c43f38e1e329?utm_campaign=1058&utm_source=git)** | Bolingbrook, IL | On Site | Jan 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
