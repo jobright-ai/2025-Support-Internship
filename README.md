@@ -57,18 +57,32 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Penn Medicine, University of Pennsylvania Health System](https://www.pennmedicine.org/)** | **[Pharmacy Intern - PPMC](https://jobright.ai/jobs/info/695ef2d8a112b402660daed9?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 07 |
+| **[Aethel Partners](http://www.aethelpartners.com)** | **[Buy-side internship (New York)](https://jobright.ai/jobs/info/695eeaeda112b402660da7fc?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 07 |
+| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6943593350bbaf76505538e1?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Jan 07 |
 | **[HCA Florida Osceola Hospital​](http://osceolaregional.com)** | **[Radiology Student Intern PRN](https://jobright.ai/jobs/info/695ed7e30badca5763af4efd?utm_campaign=1058&utm_source=git)** | Kissimmee, FL | On Site | Jan 07 |
 | **[Jefferson Health](http://JeffersonHealth.org)** | **[Pharmacy Intern - Per Diem - Center City](https://jobright.ai/jobs/info/695ed7a60badca5763af4eb1?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 07 |
 | **[Huntsman Corporation](https://www.huntsman.com)** | **[IT - Infrastructure Internship](https://jobright.ai/jobs/info/690dce68d046ab6061cf9434?utm_campaign=1058&utm_source=git)** | The Woodlands, TX | On Site | Jan 07 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Technical Intern](https://jobright.ai/jobs/info/695ed5f7a112b402660d8c02?utm_campaign=1058&utm_source=git)** | Lexington Park, Maryland | On Site | Jan 07 |
+| **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/695ed54b0badca5763af4b5e?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Jan 07 |
 | **[Meijer](https://www.meijer.com/)** | **[Pharmacy Grad Intern](https://jobright.ai/jobs/info/695ed42e08ab990f282a1eac?utm_campaign=1058&utm_source=git)** | Pike Plaza Road - Indianapolis, IN | On Site | Jan 07 |
 | **[AIDS Healthcare Foundation](http://www.aidshealth.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6945c131d1953b5d11bec08d?utm_campaign=1058&utm_source=git)** | Bronx, NY | On Site | Jan 07 |
+| **[Ever.Ag](https://www.ever.ag)** | **[Implementation & Delivery Intern](https://jobright.ai/jobs/info/69092f064a1b456627afdae3?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 07 |
+| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares Internship - Recreation (Summer 2026)](https://jobright.ai/jobs/info/695eef6708ab990f282a402c?utm_campaign=1058&utm_source=git)** | Hot Springs, VA | On Site | Jan 07 |
+| ↳ | **[Omni Cares Internship - Rooms (Summer 2026)](https://jobright.ai/jobs/info/695eee1808ab990f282a3f0b?utm_campaign=1058&utm_source=git)** | Hot Springs, VA | On Site | Jan 07 |
 | **[NY Hotel Trades Council & Hotel Assoc. of NYC Employee Benefit Funds](https://www.hotelfunds.org)** | **[IT Asset Intern (Paid Internship)](https://jobright.ai/jobs/info/695ecd39a112b402660d8470?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Jan 07 |
-| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Student Nurse Intern-Emergency Department-Mount Sinai Hospital-Per Diem/Part Time Nights](https://jobright.ai/jobs/info/695ec9e4a112b402660d80a5?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 07 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/695ec79208ab990f282a1267?utm_campaign=1058&utm_source=git)** | Pleasanton, CA | On Site | Jan 07 |
+| **[City of Hoover](http://www.hooveral.org)** | **[Student Intern](https://jobright.ai/jobs/info/695ee2cc0badca5763af5ee9?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Jan 07 |
+| **[Thomson Power Systems](https://www.thomsonps.com)** | **[Customer Care Internship](https://jobright.ai/jobs/info/695ee3bd0badca5763af6080?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Jan 07 |
+| **[Indiana University Health](http://iuhealth.org)** | **[Clinical Nurse Specialist Intern (Outcomes Specialist)](https://jobright.ai/jobs/info/695edbf8a112b402660d93d5?utm_campaign=1058&utm_source=git)** | Avon, IN | On Site | Jan 07 |
 | **[NBME](http://www.nbme.org/)** | **[Drexel Co-Op: Desktop Services Analyst](https://jobright.ai/jobs/info/695ebd9f0badca5763af331a?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 07 |
-| **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/695ebb1708ab990f282a04b9?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Jan 07 |
+| **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/695ede32a112b402660d9720?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Jan 07 |
+| **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern P3 Contingent Rotate](https://jobright.ai/jobs/info/695ee2b108ab990f282a326e?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Jan 07 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN (068)](https://jobright.ai/jobs/info/695eda9d0badca5763af5288?utm_campaign=1058&utm_source=git)** | Lawrence, KS | On Site | Jan 07 |
 | **[Minerals Technologies Inc.](http://www.mineralstech.com)** | **[IT Applications Intern](https://jobright.ai/jobs/info/695eb4eea112b402660d6a31?utm_campaign=1058&utm_source=git)** | US-PA-Bethlehem | On Site | Jan 07 |
+| **[TD](https://www.td.com)** | **[Wealth Contact Center Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/695ee12908ab990f282a3016?utm_campaign=1058&utm_source=git)** | Markham, Ontario | Hybrid | Jan 07 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Information Systems Intern](https://jobright.ai/jobs/info/695eebd5a112b402660da955?utm_campaign=1058&utm_source=git)** | Somerville-MA | Hybrid | Jan 07 |
+| **[East Georgia Regional Medical Center, LLC](https://www.eastgeorgiaregional.com)** | **[Student Nurse Intern Med/Surg PRN](https://jobright.ai/jobs/info/695ee3f60badca5763af60ea?utm_campaign=1058&utm_source=git)** | Statesboro, GA | On Site | Jan 07 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/695eab7e0badca5763af119b?utm_campaign=1058&utm_source=git)** | Folsom, CA | On Site | Jan 07 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Tech Support Intern (Hybrid)](https://jobright.ai/jobs/info/69431a9694730b7398761c75?utm_campaign=1058&utm_source=git)** | Clearwater, FL | Hybrid | Jan 07 |
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Pharmacy Intern - PRN](https://jobright.ai/jobs/info/695ea9fe0badca5763af10da?utm_campaign=1058&utm_source=git)** | Yukon, OK | On Site | Jan 07 |
@@ -90,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Pharmacy Intern - PRN](https://jobright.ai/jobs/info/695eb30c0badca5763af290d?utm_campaign=1058&utm_source=git)** | Ponca City, OK | On Site | Jan 07 |
 | **[BlueCross BlueShield of South Carolina](https://www.southcarolinablues.com)** | **[IT Student Intern](https://jobright.ai/jobs/info/695eb48fa112b402660d69d4?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Jan 07 |
 | **[Facebook](https://www.meta.com)** | **[IT Student Intern](https://jobright.ai/jobs/info/695e832f08ab990f2829c9b0?utm_campaign=1058&utm_source=git)** | Columbia, South Carolina | Hybrid | Jan 07 |
-| **[Indiana University Health](http://iuhealth.org)** | **[Clinical Nurse Specialist Intern (Outcomes Specialist)](https://jobright.ai/jobs/info/695ec5b908ab990f282a104f?utm_campaign=1058&utm_source=git)** | Avon, IN | On Site | Jan 07 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/695e7b18a112b402660d2fb6?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Jan 07 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/695e7aa50badca5763aeefd8?utm_campaign=1058&utm_source=git)** | Eau Claire, WI | On Site | Jan 07 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/695e7a7608ab990f2829c577?utm_campaign=1058&utm_source=git)** | Coralville, IA | On Site | Jan 07 |
@@ -113,7 +126,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/695e7228a112b402660d2b16?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Jan 07 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/695e71bca112b402660d2ac8?utm_campaign=1058&utm_source=git)** | Edina, MN | On Site | Jan 07 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/6925322b27bf2f41a2c3d1ac?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Jan 07 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68b09aa313563e782a9f7b4f?utm_campaign=1058&utm_source=git)** | New Braunfels, TX | On Site | Jan 07 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Mortgage Post Closing Intern](https://jobright.ai/jobs/info/695e7da8a112b402660d3144?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Jan 07 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/695e81140badca5763aef3db?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Jan 07 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/695e7ecb0badca5763aef2a1?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 07 |
@@ -144,17 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II - Med Surg 9T](https://jobright.ai/jobs/info/67eb75eef602ac9cec7f9d90?utm_campaign=1058&utm_source=git)** | Southaven, MS | On Site | Jan 07 |
 | ↳ | **[Intern-Nurse II](https://jobright.ai/jobs/info/6827f40962df9ad68f698eee?utm_campaign=1058&utm_source=git)** | Meridian, MS | On Site | Jan 07 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/694521b19516540735373a0b?utm_campaign=1058&utm_source=git)** | Prescott, AZ | Hybrid | Jan 07 |
-| **[GoFundMe](http://www.gofundme.com)** | **[IT Administrator Intern](https://jobright.ai/jobs/info/6926390727bf2f41a2c44852?utm_campaign=1058&utm_source=git)** | San Francisco, CA | Hybrid | Jan 07 |
-| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/694386d3dd382f5f566993d8?utm_campaign=1058&utm_source=git)** | Flagstaff, AZ | Hybrid | Jan 07 |
-| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/694f7411ce13cd105657a79f?utm_campaign=1058&utm_source=git)** | Tempe, AZ | On Site | Jan 07 |
-| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/6943af6e94730b739876d7b0?utm_campaign=1058&utm_source=git)** | Kingman, AZ | Hybrid | Jan 07 |
-| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/6943b0f350bbaf765055ad99?utm_campaign=1058&utm_source=git)** | Page, AZ | Hybrid | Jan 07 |
-| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/694a322ac6f0e2546cef45ec?utm_campaign=1058&utm_source=git)** | Queen Creek, AZ | Hybrid | Jan 07 |
-| **[World Insurance Associates LLC](https://www.worldinsurance.com)** | **[Risk Management Client Service Intern, Surety/Bonds - West Hartford, CT](https://jobright.ai/jobs/info/6908f8debcccf20de59d5777?utm_campaign=1058&utm_source=git)** | West Hartford, CT | On Site | Jan 07 |
-| ↳ | **[Risk Management Client Service Intern, Commercial Lines - Brewster, NY](https://jobright.ai/jobs/info/6908f548bcccf20de59d547f?utm_campaign=1058&utm_source=git)** | Brewster, NY | On Site | Jan 07 |
-| ↳ | **[Risk Management Client Service Intern, Surety/Bonds - Brewster, NY](https://jobright.ai/jobs/info/6908f5f3d046ab6061ccf99e?utm_campaign=1058&utm_source=git)** | Brewster, NY | On Site | Jan 07 |
-| ↳ | **[Risk Management Client Service Intern, Surety/Bonds - Iselin, NJ](https://jobright.ai/jobs/info/6908f276d046ab6061ccf6d8?utm_campaign=1058&utm_source=git)** | Iselin, NJ | On Site | Jan 07 |
-| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/6943a37c50bbaf765055a334?utm_campaign=1058&utm_source=git)** | Vail, AZ | Hybrid | Jan 07 |
-| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/6944efe750bbaf76505707fc?utm_campaign=1058&utm_source=git)** | Peoria, AZ | Hybrid | Jan 07 |
-| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/694a17fd63141d188459c6cb?utm_campaign=1058&utm_source=git)** | Chandler, AZ | Hybrid | Jan 07 |
+| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/6943816e94730b7398769dc7?utm_campaign=1058&utm_source=git)** | Winslow, AZ | Hybrid | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
