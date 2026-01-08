@@ -57,18 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Okta](http://www.okta.com)** | **[Technical Writer Intern (Summer 2026)](https://jobright.ai/jobs/info/6943a6f050bbaf765055a553?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 08 |
+| **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - IT Corporate Systems](https://jobright.ai/jobs/info/68ee884ed078b81ad160b4e3?utm_campaign=1058&utm_source=git)** | Hartford, CT | On Site | Jan 08 |
 | **[Charter Manufacturing](http://chartermfg.com)** | **[IT Support Technician Intern - Year Round](https://jobright.ai/jobs/info/690a74274a1b456627b07dab?utm_campaign=1058&utm_source=git)** | Mequon, WI | On Site | Jan 08 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/694324b2dd382f5f5669180f?utm_campaign=1058&utm_source=git)** | Webster, SD | On Site | Jan 08 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/6925e769d47de4798ecd294d?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Jan 08 |
 | **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/69434b5850bbaf765055302e?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Jan 08 |
 | **[WebFX](https://www.webfx.com)** | **[IT Support Internship](https://jobright.ai/jobs/info/67eec162357dc4681d864247?utm_campaign=1058&utm_source=git)** | Harrisburg, PA | On Site | Jan 08 |
+| **[Winsupply](http://www.winsupplyinc.com)** | **[Client Support Intern](https://jobright.ai/jobs/info/68b711d5f4e41a61efd95790?utm_campaign=1058&utm_source=git)** | Moraine, OH | On Site | Jan 08 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Four Seasons Minneapolis Internship (Food & Beverage, Summer 2026)](https://jobright.ai/jobs/info/68d1f3c6a54edb3bf3e17f04?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Jan 08 |
+| **[AbbVie](https://www.abbvie.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/694342bb50bbaf7650552616?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 08 |
 | **[Cozey](https://www.cozey.ca)** | **[Customer Happiness Intern](https://jobright.ai/jobs/info/695f907aa112b402660e397a?utm_campaign=1058&utm_source=git)** | Mont-Royal, Quebec, Canada | On Site | Jan 08 |
 | **[tms](https://themarketingstore.com)** | **[Digital Accessibility Support Specialist Intern](https://jobright.ai/jobs/info/69435a8add382f5f5669581b?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 08 |
+| **[IDEMIA Public Security](https://na.idemia.com/)** | **[Document Specialist Internship - Summer 2026](https://jobright.ai/jobs/info/6944cbe694730b7398780a8e?utm_campaign=1058&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Jan 08 |
 | **[The Bancorp](http://www.thebancorp.com)** | **[Client Account Specialist Intern (Hybrid)](https://jobright.ai/jobs/info/69262e16f0beb07232622dd2?utm_campaign=1058&utm_source=git)** | Greater Sioux Falls Area | Hybrid | Jan 08 |
 | **[Landmark Credit Union](https://landmarkcu.com/)** | **[Intern, IT Service Desk](https://jobright.ai/jobs/info/695fa34fa1bbea1d9a7a59bd?utm_campaign=1058&utm_source=git)** | Brookfield, WI | On Site | Jan 08 |
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[Facility Support Systems Summer Intern](https://jobright.ai/jobs/info/692f516cef4b48533d14424f?utm_campaign=1058&utm_source=git)** | Aiken, SC | On Site | Jan 08 |
 | ↳ | **[LSE Student Intern - M365 Platform](https://jobright.ai/jobs/info/69227e777795cd460c835d39?utm_campaign=1058&utm_source=git)** | Aiken, SC | On Site | Jan 08 |
+| **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern, Information Technology - Summer 2026](https://jobright.ai/jobs/info/695fb737a112b402660e6786?utm_campaign=1058&utm_source=git)** | Tahlequah, OK | On Site | Jan 08 |
 | **[Gadsden Regional Medical Center](https://www.gadsdenregional.com/)** | **[Nurse Intern](https://jobright.ai/jobs/info/695f605a0badca5763afd03a?utm_campaign=1058&utm_source=git)** | Gadsden, AL | On Site | Jan 07 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Mortgage Post Closing Intern](https://jobright.ai/jobs/info/695f58d0a112b402660e0992?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Jan 07 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/695f572da112b402660e0905?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Jan 07 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Community Health Systems](http://www.chs.net)** | **[PRN Student Intern House Rotation - Dec 26' Grads](https://jobright.ai/jobs/info/695f81187ebc25398eb559a1?utm_campaign=1058&utm_source=git)** | 2520 EAST DUPONT ROAD, FORT WAYNE, IN, 46825, US | On Site | Jan 07 |
 | **[Meijer](https://www.meijer.com/)** | **[Pharmacy Intern (Part-time)](https://jobright.ai/jobs/info/695ec5350badca5763af3baf?utm_campaign=1058&utm_source=git)** | Angola, IN | On Site | Jan 07 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Cares Internship - Recreation (Summer 2026)](https://jobright.ai/jobs/info/695f9623a112b402660e3c42?utm_campaign=1058&utm_source=git)** | US-VA-Hot Springs | On Site | Jan 07 |
-| ↳ | **[Omni Cares Internship - Rooms (Summer 2026)](https://jobright.ai/jobs/info/695f85fba112b402660e2d2a?utm_campaign=1058&utm_source=git)** | US-VA-Hot Springs | On Site | Jan 07 |
-| **[Covenant Health](https://www.covenanthealth.org)** | **[Nurse Technician Internship](https://jobright.ai/jobs/info/695eccd6a112b402660d83f3?utm_campaign=1058&utm_source=git)** | Lubbock, TX, United States | On Site | Jan 07 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN       (068)](https://jobright.ai/jobs/info/695e9d4aa112b402660d463a?utm_campaign=1058&utm_source=git)** | 3000 W 6Th St, Lawrence, KS, 66049, US | On Site | Jan 07 |
-| **[Indiana University Health](http://iuhealth.org)** | **[Clinical Nurse Specialist Intern (Outcomes Specialist)](https://jobright.ai/jobs/info/695e9b8e0badca5763af0704?utm_campaign=1058&utm_source=git)** | 1111 N Ronald Reagan Pkwy, Avon, IN, 46123, US | On Site | Jan 07 |
-| **[Copart](http://www.copart.com)** | **[Corp Support Intern](https://jobright.ai/jobs/info/695eb9a20badca5763af3048?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 07 |
-| **[Franciscan Missionaries of Our Lady University](https://www.franu.edu/)** | **[Pre-Clinical Intern](https://jobright.ai/jobs/info/695e9b610badca5763af06ca?utm_campaign=1058&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
