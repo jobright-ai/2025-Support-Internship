@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Intern, Corporate IT Solutions Partner](https://jobright.ai/jobs/info/6962815925e18715077f5243?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Jan 10 |
 | **[R3 LLC](https://www.r3-it.com)** | **[PC Depot Intern](https://jobright.ai/jobs/info/69626ac2a112b4026610d0d2?utm_campaign=1058&utm_source=git)** | Frederick, MD | On Site | Jan 10 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/696267aca112b4026610cfe3?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 10 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6962625125e18715077f44e3?utm_campaign=1058&utm_source=git)** | Beaumont, TX | On Site | Jan 10 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69618db2f3f4cd1325069d4f?utm_campaign=1058&utm_source=git)** | Palm Coast, FL | On Site | Jan 09 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Plant Systems Intern](https://jobright.ai/jobs/info/6961893ef3f4cd13250697ca?utm_campaign=1058&utm_source=git)** | Shippensburg, PA | On Site | Jan 09 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/696188b3f3f4cd13250695b7?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | Jan 09 |
-| **[Armada Hoffler](http://armadahoffler.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69618787e7ed9a5731ba5e88?utm_campaign=1058&utm_source=git)** | Virginia Beach, VA | On Site | Jan 09 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69618684f3f4cd1325068daa?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 09 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69618896a112b40266101d82?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
