@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elevare Consulting](elevareconsulting.us)** | **[Accelerated Management Program Associate – Customer Solutions](https://jobright.ai/jobs/info/6962a5d725e18715077f702e?utm_campaign=1058&utm_source=git)** | Alexandria, LA | On Site | Jan 10 |
+| **[BSA Health System](https://bsahs.org/)** | **[Clinical Intern Radiology](https://jobright.ai/jobs/info/696292622cbf4e44756c83d8?utm_campaign=1058&utm_source=git)** | Amarillo, TX | On Site | Jan 10 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Corporate IT Solutions Partner](https://jobright.ai/jobs/info/6962815925e18715077f5243?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Jan 10 |
 | **[R3 LLC](https://www.r3-it.com)** | **[PC Depot Intern](https://jobright.ai/jobs/info/69626ac2a112b4026610d0d2?utm_campaign=1058&utm_source=git)** | Frederick, MD | On Site | Jan 10 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/696267aca112b4026610cfe3?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 10 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6962625125e18715077f44e3?utm_campaign=1058&utm_source=git)** | Beaumont, TX | On Site | Jan 10 |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6962630e25e18715077f451b?utm_campaign=1058&utm_source=git)** | Springfield, IL | On Site | Jan 10 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6962625125e18715077f44e3?utm_campaign=1058&utm_source=git)** | Beaumont, TX | On Site | Jan 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6962620aa112b4026610cd50?utm_campaign=1058&utm_source=git)** | Chesterfield, MO | On Site | Jan 10 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6962614da112b4026610cd25?utm_campaign=1058&utm_source=git)** | Mattoon, IL | On Site | Jan 10 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/696260cd25e18715077f4471?utm_campaign=1058&utm_source=git)** | Byron Center, MI | On Site | Jan 10 |
@@ -73,8 +76,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69625ef12cbf4e44756c5de2?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Jan 10 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69625e0ca112b4026610cbd5?utm_campaign=1058&utm_source=git)** | Bloomington, IL | On Site | Jan 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69625dc3a112b4026610cbba?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Jan 10 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69625d632cbf4e44756c5d4a?utm_campaign=1058&utm_source=git)** | Springfield, IL | On Site | Jan 10 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69625ca525e18715077f42ec?utm_campaign=1058&utm_source=git)** | Vienna, VA | On Site | Jan 10 |
+| **[Cleveland Foundation](http://clevelandfoundation.org)** | **[Guest Services Intern](https://jobright.ai/jobs/info/6962981c25e18715077f6a21?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Jan 10 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69625ca525e18715077f42ec?utm_campaign=1058&utm_source=git)** | Vienna, VA | On Site | Jan 10 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69625bf82cbf4e44756c5c7e?utm_campaign=1058&utm_source=git)** | Big Rapids, MI | On Site | Jan 10 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69625b8125e18715077f424d?utm_campaign=1058&utm_source=git)** | Beaumont, TX | On Site | Jan 10 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69625b07a112b4026610ca79?utm_campaign=1058&utm_source=git)** | Mattoon, IL | On Site | Jan 10 |
@@ -106,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Business Support Intern - Winter 2026](https://jobright.ai/jobs/info/6945c50ad1953b5d11bec4b8?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Jan 10 |
 | **[Valley Baptist Health System](https://www.valleybaptist.net)** | **[Student Intern Surgical Tech](https://jobright.ai/jobs/info/690d15c1d046ab6061cf28ba?utm_campaign=1058&utm_source=git)** | Brownsville, TX | On Site | Jan 10 |
 | **[Guerra Wealth Advisors](https://guerrafinancial.com)** | **[Client Processor Internship](https://jobright.ai/jobs/info/696213fea112b40266107cdb?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Jan 10 |
-| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/696210d52cbf4e44756c088e?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 10 |
 | **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Summer 2026 Student Nurse Intern L+M Hospital](https://jobright.ai/jobs/info/69623937a112b4026610a011?utm_campaign=1058&utm_source=git)** | New London, CT | On Site | Jan 10 |
 | ↳ | **[Student Nurse Intern YSC MICU & SDU](https://jobright.ai/jobs/info/696238a12cbf4e44756c304d?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jan 10 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Emergency Department](https://jobright.ai/jobs/info/69620a82a112b402661074d2?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Jan 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CARIN Alliance](https://www.carinalliance.com/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/6961b4abf3f4cd132506bafa?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Jan 09 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69618db2f3f4cd1325069d4f?utm_campaign=1058&utm_source=git)** | Palm Coast, FL | On Site | Jan 09 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Plant Systems Intern](https://jobright.ai/jobs/info/6961893ef3f4cd13250697ca?utm_campaign=1058&utm_source=git)** | Shippensburg, PA | On Site | Jan 09 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/696188b3f3f4cd13250695b7?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | Jan 09 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69618896a112b40266101d82?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
