@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/694568a863141d188454e5a7?utm_campaign=1058&utm_source=git)** | Greater Houston | On Site | Jan 10 |
+| **[Granite Construction](https://www.graniteconstruction.com)** | **[IT Intern](https://jobright.ai/jobs/info/6945cbe7951654073537e893?utm_campaign=1058&utm_source=git)** | Watsonville, CA | On Site | Jan 10 |
 | **[Guerra Wealth Advisors](https://guerrafinancial.com)** | **[Client Processor Internship](https://jobright.ai/jobs/info/696213fea112b40266107cdb?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Jan 10 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/696210d52cbf4e44756c088e?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 10 |
+| **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Summer 2026 Student Nurse Intern L+M Hospital](https://jobright.ai/jobs/info/69623937a112b4026610a011?utm_campaign=1058&utm_source=git)** | New London, CT | On Site | Jan 10 |
+| ↳ | **[Student Nurse Intern YSC MICU & SDU](https://jobright.ai/jobs/info/696238a12cbf4e44756c304d?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jan 10 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Emergency Department](https://jobright.ai/jobs/info/69620a82a112b402661074d2?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Jan 10 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[IT Support Technician Intern - Summer 2026](https://jobright.ai/jobs/info/6962082425e18715077ee9f3?utm_campaign=1058&utm_source=git)** | Lone Tree, CO | On Site | Jan 10 |
 | **[Cleveland Foundation](http://clevelandfoundation.org)** | **[Guest Services Intern](https://jobright.ai/jobs/info/6961fb9ea112b40266106f9c?utm_campaign=1058&utm_source=git)** | Cleveland,OH,US | On Site | Jan 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[medmix](https://www.medmix.swiss/)** | **[IT Support Technician- Intern](https://jobright.ai/jobs/info/69616fa4e7ed9a5731ba3547?utm_campaign=1058&utm_source=git)** | Parsippany-Troy Hills, NJ, USA | On Site | Jan 09 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[FIS Claims Intern (Year-Round)](https://jobright.ai/jobs/info/69614a04f3f4cd132506443d?utm_campaign=1058&utm_source=git)** | Cincinnati, OH (USA) | Hybrid | Jan 09 |
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Information Technology Intern - Summer 2026 (West Des Moines, IA)](https://jobright.ai/jobs/info/69614683e7ed9a5731ba0dc5?utm_campaign=1058&utm_source=git)** | West Des Moines, IA | On Site | Jan 09 |
-| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[FIS Claims Intern (Year-Round)](https://jobright.ai/jobs/info/696145f1f3f4cd1325063f2d?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 09 |
-| **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Farm Services Intern](https://jobright.ai/jobs/info/696144fee7ed9a5731ba0b90?utm_campaign=1058&utm_source=git)** | East Syracuse, NY | Hybrid | Jan 09 |
-| **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[Extra Help Assistant - MidSOUTH IT Internship](https://jobright.ai/jobs/info/6961414ee7ed9a5731ba0817?utm_campaign=1058&utm_source=git)** | Little Rock | On Site | Jan 09 |
-| **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Outpatient Pharmacy Intern](https://jobright.ai/jobs/info/69613db4f3f4cd13250637fe?utm_campaign=1058&utm_source=git)** | Aurora Sinai Medical Center - 945 N 12th St | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
