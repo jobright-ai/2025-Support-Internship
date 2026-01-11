@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Riverhead Building Supply](https://www.rbscorp.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6963db1525e1871507807238?utm_campaign=1058&utm_source=git)** | Calverton, NY | On Site | Jan 11 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963b0e1a112b4026611caf3?utm_campaign=1058&utm_source=git)** | Clintwood, VA | On Site | Jan 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963b0ba2cbf4e44756d62c9?utm_campaign=1058&utm_source=git)** | Whitewater, WI | On Site | Jan 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963b0b02cbf4e44756d62bf?utm_campaign=1058&utm_source=git)** | Beloit, WI | On Site | Jan 11 |
@@ -70,12 +71,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963af9ba112b4026611ca05?utm_campaign=1058&utm_source=git)** | Stoughton, WI | On Site | Jan 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963af892cbf4e44756d61e2?utm_campaign=1058&utm_source=git)** | Roanoke, VA | On Site | Jan 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963af652cbf4e44756d61ce?utm_campaign=1058&utm_source=git)** | Fitchburg, WI | On Site | Jan 11 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963af53a112b4026611c9d9?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | Jan 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963af392cbf4e44756d61b1?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Jan 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963af2d2cbf4e44756d61a4?utm_campaign=1058&utm_source=git)** | Verona, WI | On Site | Jan 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963af20a112b4026611c9bb?utm_campaign=1058&utm_source=git)** | Janesville, WI | On Site | Jan 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963aeed2cbf4e44756d6172?utm_campaign=1058&utm_source=git)** | Lebanon, VA | On Site | Jan 11 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[IT Service and Support Intern](https://jobright.ai/jobs/info/6963ae9e25e18715078043c8?utm_campaign=1058&utm_source=git)** | Southfield, MI | On Site | Jan 11 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963ae0225e1871507804355?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | Jan 11 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6963adbe25e1871507804332?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 11 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963ada525e187150780431d?utm_campaign=1058&utm_source=git)** | Oregon Town, WI | On Site | Jan 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963ad8225e18715078042fd?utm_campaign=1058&utm_source=git)** | Nicholasville, KY | On Site | Jan 11 |
@@ -96,7 +97,8 @@ For a complete list, click the following sortable link below:
 | **[BSA Health System](https://bsahs.org/)** | **[Clinical Intern Radiology](https://jobright.ai/jobs/info/696292622cbf4e44756c83d8?utm_campaign=1058&utm_source=git)** | Amarillo, TX | On Site | Jan 10 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Corporate IT Solutions Partner](https://jobright.ai/jobs/info/6962815925e18715077f5243?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Jan 10 |
 | **[R3 LLC](https://www.r3-it.com)** | **[PC Depot Intern](https://jobright.ai/jobs/info/69626ac2a112b4026610d0d2?utm_campaign=1058&utm_source=git)** | Frederick, MD | On Site | Jan 10 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6962625125e18715077f44e3?utm_campaign=1058&utm_source=git)** | Beaumont, TX | On Site | Jan 10 |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6962630e25e18715077f451b?utm_campaign=1058&utm_source=git)** | Springfield, IL | On Site | Jan 10 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6962625125e18715077f44e3?utm_campaign=1058&utm_source=git)** | Beaumont, TX | On Site | Jan 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6962620aa112b4026610cd50?utm_campaign=1058&utm_source=git)** | Chesterfield, MO | On Site | Jan 10 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6962614da112b4026610cd25?utm_campaign=1058&utm_source=git)** | Mattoon, IL | On Site | Jan 10 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/696260cd25e18715077f4471?utm_campaign=1058&utm_source=git)** | Byron Center, MI | On Site | Jan 10 |
@@ -109,7 +111,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69625ef12cbf4e44756c5de2?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Jan 10 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69625e0ca112b4026610cbd5?utm_campaign=1058&utm_source=git)** | Bloomington, IL | On Site | Jan 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69625dc3a112b4026610cbba?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Jan 10 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69625d632cbf4e44756c5d4a?utm_campaign=1058&utm_source=git)** | Springfield, IL | On Site | Jan 10 |
 | **[Cleveland Foundation](http://clevelandfoundation.org)** | **[Guest Services Intern](https://jobright.ai/jobs/info/6962981c25e18715077f6a21?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Jan 10 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69625ca525e18715077f42ec?utm_campaign=1058&utm_source=git)** | Vienna, VA | On Site | Jan 10 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69625bf82cbf4e44756c5c7e?utm_campaign=1058&utm_source=git)** | Big Rapids, MI | On Site | Jan 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6961c94cf3f4cd132506cc0f?utm_campaign=1058&utm_source=git)** | Tualatin, OR | On Site | Jan 09 |
 | ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6961c4d2a112b40266105434?utm_campaign=1058&utm_source=git)** | Athens, GA | On Site | Jan 09 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Intern](https://jobright.ai/jobs/info/6961bb16a112b40266104bd8?utm_campaign=1058&utm_source=git)** | Elizabeth, NJ | On Site | Jan 09 |
-| **[Health Marketing](http://www.thehealthmarketing.com/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/6961b84aa112b402661048e8?utm_campaign=1058&utm_source=git)** | Mooringsport, LA | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
