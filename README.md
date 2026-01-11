@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Medical Assistant (Credentialed/Certified) - Academic Internal Medicine & Geriatrics](https://jobright.ai/jobs/info/696336992cbf4e44756cfd7b?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 10 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Resident Intern RN OR](https://jobright.ai/jobs/info/6963125a2cbf4e44756cdb90?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Jan 10 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99993 Clinics Billing Specialist, Optometry, Tahlequah](https://jobright.ai/jobs/info/6963100025e18715077fbedb?utm_campaign=1058&utm_source=git)** | Tahlequah, OK | On Site | Jan 10 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6962b48025e18715077f799f?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Jan 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/6961d595e7ed9a5731baa1a0?utm_campaign=1058&utm_source=git)** | Red Chute, LA | On Site | Jan 09 |
 | **[Provident Behavioral Health](https://www.providentstl.org)** | **[Nurse Extern - Nursing Internship - PRN](https://jobright.ai/jobs/info/6961c9d8a112b4026610571f?utm_campaign=1058&utm_source=git)** | Stonewall, LA | On Site | Jan 09 |
 | **[Clinic Service Corporation](http://www.clinicservice.com/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/6961b3cef3f4cd132506ba1c?utm_campaign=1058&utm_source=git)** | Benton, LA | On Site | Jan 09 |
-| **[CARIN Alliance](https://www.carinalliance.com/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/6961b4abf3f4cd132506bafa?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
