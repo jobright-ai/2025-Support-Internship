@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69634e57a112b40266116fa7?utm_campaign=1058&utm_source=git)** | West Jordan, UT | On Site | Jan 10 |
+| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963447e2cbf4e44756d00af?utm_campaign=1058&utm_source=git)** | Anchorage, AK | On Site | Jan 10 |
+| ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/696343302cbf4e44756d0082?utm_campaign=1058&utm_source=git)** | Tualatin, OR | On Site | Jan 10 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS Card Center Student Assistant](https://jobright.ai/jobs/info/6963416b25e18715077fe3fa?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Jan 10 |
 | **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Medical Assistant (Credentialed/Certified) - Academic Internal Medicine & Geriatrics](https://jobright.ai/jobs/info/696336992cbf4e44756cfd7b?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 10 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Resident Intern RN OR](https://jobright.ai/jobs/info/6963125a2cbf4e44756cdb90?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Jan 10 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99993 Clinics Billing Specialist, Optometry, Tahlequah](https://jobright.ai/jobs/info/6963100025e18715077fbedb?utm_campaign=1058&utm_source=git)** | Tahlequah, OK | On Site | Jan 10 |
@@ -66,8 +70,7 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Corporate IT Solutions Partner](https://jobright.ai/jobs/info/6962815925e18715077f5243?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Jan 10 |
 | **[R3 LLC](https://www.r3-it.com)** | **[PC Depot Intern](https://jobright.ai/jobs/info/69626ac2a112b4026610d0d2?utm_campaign=1058&utm_source=git)** | Frederick, MD | On Site | Jan 10 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/696267aca112b4026610cfe3?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 10 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6962630e25e18715077f451b?utm_campaign=1058&utm_source=git)** | Springfield, IL | On Site | Jan 10 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6962625125e18715077f44e3?utm_campaign=1058&utm_source=git)** | Beaumont, TX | On Site | Jan 10 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6962625125e18715077f44e3?utm_campaign=1058&utm_source=git)** | Beaumont, TX | On Site | Jan 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6962620aa112b4026610cd50?utm_campaign=1058&utm_source=git)** | Chesterfield, MO | On Site | Jan 10 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6962614da112b4026610cd25?utm_campaign=1058&utm_source=git)** | Mattoon, IL | On Site | Jan 10 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/696260cd25e18715077f4471?utm_campaign=1058&utm_source=git)** | Byron Center, MI | On Site | Jan 10 |
@@ -80,6 +83,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69625ef12cbf4e44756c5de2?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Jan 10 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69625e0ca112b4026610cbd5?utm_campaign=1058&utm_source=git)** | Bloomington, IL | On Site | Jan 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69625dc3a112b4026610cbba?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Jan 10 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69625d632cbf4e44756c5d4a?utm_campaign=1058&utm_source=git)** | Springfield, IL | On Site | Jan 10 |
 | **[Cleveland Foundation](http://clevelandfoundation.org)** | **[Guest Services Intern](https://jobright.ai/jobs/info/6962981c25e18715077f6a21?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Jan 10 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69625ca525e18715077f42ec?utm_campaign=1058&utm_source=git)** | Vienna, VA | On Site | Jan 10 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69625bf82cbf4e44756c5c7e?utm_campaign=1058&utm_source=git)** | Big Rapids, MI | On Site | Jan 10 |
@@ -122,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Member Assistance Center Intern](https://jobright.ai/jobs/info/6961f662f3f4cd132506e310?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Jan 09 |
 | **[Smilow Cancer Hospital](https://www.ynhh.org/smilow.aspx)** | **[Student Nurse Intern YSC MICU & SDU](https://jobright.ai/jobs/info/69621746a112b40266107ebd?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jan 09 |
 | **[United Surgical Partners International, Inc](http://www.uspi.com/)** | **[FSH RN Med Surg PRN (Internal Only)](https://jobright.ai/jobs/info/6961ebc2e7ed9a5731baab45?utm_campaign=1058&utm_source=git)** | Fresno, CA | On Site | Jan 09 |
-| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS Card Center Student Assistant](https://jobright.ai/jobs/info/696244472cbf4e44756c3415?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Jan 09 |
 | **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Nurse Intern PRN](https://jobright.ai/jobs/info/6961d29ae7ed9a5731baa05a?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Jan 09 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6961ca20a112b40266105753?utm_campaign=1058&utm_source=git)** | Jefferson, GA | On Site | Jan 09 |
 | ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6961c94cf3f4cd132506cc0f?utm_campaign=1058&utm_source=git)** | Tualatin, OR | On Site | Jan 09 |
@@ -137,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, Facilities](https://jobright.ai/jobs/info/6961ab7ee7ed9a5731ba804e?utm_campaign=1058&utm_source=git)** | Verona, WI | On Site | Jan 09 |
 | **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[Computer Systems Technology Co-op Student – 8 Months (May 2026 Start)](https://jobright.ai/jobs/info/6961e3bae7ed9a5731baa76a?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 09 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - Maritime Division](https://jobright.ai/jobs/info/6961aa50a112b40266103bbd?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 09 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Graduate Intern Pharmacist](https://jobright.ai/jobs/info/6961cbc4f3f4cd132506cd60?utm_campaign=1058&utm_source=git)** | Roseville, CA | On Site | Jan 09 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, Facilities](https://jobright.ai/jobs/info/6961a615f3f4cd132506ae76?utm_campaign=1058&utm_source=git)** | Verona, Wisconsin, United States | On Site | Jan 09 |
 | **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[Pharmacy Intern -  West Retail Pharmacy](https://jobright.ai/jobs/info/6961cda1a112b4026610594b?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Jan 09 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6961c4c2a112b4026610542c?utm_campaign=1058&utm_source=git)** | Roseville, CA | On Site | Jan 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[Operations Intern – Buying Support](https://jobright.ai/jobs/info/6961962ba112b40266102df9?utm_campaign=1058&utm_source=git)** | Anaheim, CA | On Site | Jan 09 |
 | **[Health Jeanie](http://jeanie.health)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/6961d843f3f4cd132506d513?utm_campaign=1058&utm_source=git)** | Elm Grove, LA | On Site | Jan 09 |
 | ↳ | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/6961d595e7ed9a5731baa1a0?utm_campaign=1058&utm_source=git)** | Red Chute, LA | On Site | Jan 09 |
-| **[Provident Behavioral Health](https://www.providentstl.org)** | **[Nurse Extern - Nursing Internship - PRN](https://jobright.ai/jobs/info/6961c9d8a112b4026610571f?utm_campaign=1058&utm_source=git)** | Stonewall, LA | On Site | Jan 09 |
-| **[Clinic Service Corporation](http://www.clinicservice.com/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/6961b3cef3f4cd132506ba1c?utm_campaign=1058&utm_source=git)** | Benton, LA | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
