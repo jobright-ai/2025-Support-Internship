@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Resident Intern RN OR](https://jobright.ai/jobs/info/6963125a2cbf4e44756cdb90?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Jan 10 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99993 Clinics Billing Specialist, Optometry, Tahlequah](https://jobright.ai/jobs/info/6963100025e18715077fbedb?utm_campaign=1058&utm_source=git)** | Tahlequah, OK | On Site | Jan 10 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6962b48025e18715077f799f?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Jan 10 |
 | **[Elevare Consulting](elevareconsulting.us)** | **[Accelerated Management Program Associate – Customer Solutions](https://jobright.ai/jobs/info/6962a5d725e18715077f702e?utm_campaign=1058&utm_source=git)** | Alexandria, LA | On Site | Jan 10 |
 | **[BSA Health System](https://bsahs.org/)** | **[Clinical Intern Radiology](https://jobright.ai/jobs/info/696292622cbf4e44756c83d8?utm_campaign=1058&utm_source=git)** | Amarillo, TX | On Site | Jan 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Provident Behavioral Health](https://www.providentstl.org)** | **[Nurse Extern - Nursing Internship - PRN](https://jobright.ai/jobs/info/6961c9d8a112b4026610571f?utm_campaign=1058&utm_source=git)** | Stonewall, LA | On Site | Jan 09 |
 | **[Clinic Service Corporation](http://www.clinicservice.com/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/6961b3cef3f4cd132506ba1c?utm_campaign=1058&utm_source=git)** | Benton, LA | On Site | Jan 09 |
 | **[CARIN Alliance](https://www.carinalliance.com/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/6961b4abf3f4cd132506bafa?utm_campaign=1058&utm_source=git)** | Shreveport, LA | On Site | Jan 09 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69618db2f3f4cd1325069d4f?utm_campaign=1058&utm_source=git)** | Palm Coast, FL | On Site | Jan 09 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Plant Systems Intern](https://jobright.ai/jobs/info/6961893ef3f4cd13250697ca?utm_campaign=1058&utm_source=git)** | Shippensburg, PA | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
