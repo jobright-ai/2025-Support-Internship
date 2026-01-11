@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Badger Meter](http://badgermeter.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/690ead0444146d3b6ec56ad1?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Jan 11 |
 | **[O'Neal Steel](https://www.onealsteel.com/)** | **[Support Center Intern](https://jobright.ai/jobs/info/69637026a112b4026611996a?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Jan 11 |
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Customer Solutions Intern](https://jobright.ai/jobs/info/695c3e9022c9dc0d3d541d94?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Jan 11 |
 | ↳ | **[Customer Solutions Intern](https://jobright.ai/jobs/info/695c2d53f1f8465b79f238a5?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Jan 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Everwise Credit Union](https://www.everwisecu.com)** | **[Vendor Management Intern](https://jobright.ai/jobs/info/6961cb06f3f4cd132506cd07?utm_campaign=1058&utm_source=git)** | South Bend, IN | On Site | Jan 09 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Emergency Department](https://jobright.ai/jobs/info/6961b91da112b402661049bc?utm_campaign=1058&utm_source=git)** | US-WI-Milwaukee | On Site | Jan 09 |
 | **[MMNOVATECH](https://mmnovatech.com)** | **[Support Trainee – CRM & Technical Support](https://jobright.ai/jobs/info/696196c7f3f4cd132506a4ab?utm_campaign=1058&utm_source=git)** | Vaughan, Ontario, Canada | On Site | Jan 09 |
-| **[Cherry Hill Free Clinic](https://www.cherryhillfreeclinic.org/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/6961ceadf3f4cd132506cef8?utm_campaign=1058&utm_source=git)** | Bethany, LA | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
