@@ -75,8 +75,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963af2d2cbf4e44756d61a4?utm_campaign=1058&utm_source=git)** | Verona, WI | On Site | Jan 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963af20a112b4026611c9bb?utm_campaign=1058&utm_source=git)** | Janesville, WI | On Site | Jan 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963aeed2cbf4e44756d6172?utm_campaign=1058&utm_source=git)** | Lebanon, VA | On Site | Jan 11 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963aed02cbf4e44756d615f?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | Jan 11 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[IT Service and Support Intern](https://jobright.ai/jobs/info/6963ae9e25e18715078043c8?utm_campaign=1058&utm_source=git)** | Southfield, MI | On Site | Jan 11 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963ae0225e1871507804355?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | Jan 11 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6963adbe25e1871507804332?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 11 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963ada525e187150780431d?utm_campaign=1058&utm_source=git)** | Oregon Town, WI | On Site | Jan 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963ad8225e18715078042fd?utm_campaign=1058&utm_source=git)** | Nicholasville, KY | On Site | Jan 11 |
