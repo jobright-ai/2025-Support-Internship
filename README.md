@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[O'Neal Steel](https://www.onealsteel.com/)** | **[Support Center Intern](https://jobright.ai/jobs/info/69637026a112b4026611996a?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Jan 11 |
+| **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Customer Solutions Intern](https://jobright.ai/jobs/info/695c3e9022c9dc0d3d541d94?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Jan 11 |
+| ↳ | **[Customer Solutions Intern](https://jobright.ai/jobs/info/695c2d53f1f8465b79f238a5?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Jan 11 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69635cc8a112b4026611759b?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 11 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69634e57a112b40266116fa7?utm_campaign=1058&utm_source=git)** | West Jordan, UT | On Site | Jan 10 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963447e2cbf4e44756d00af?utm_campaign=1058&utm_source=git)** | Anchorage, AK | On Site | Jan 10 |
 | ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/696343302cbf4e44756d0082?utm_campaign=1058&utm_source=git)** | Tualatin, OR | On Site | Jan 10 |
@@ -69,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[BSA Health System](https://bsahs.org/)** | **[Clinical Intern Radiology](https://jobright.ai/jobs/info/696292622cbf4e44756c83d8?utm_campaign=1058&utm_source=git)** | Amarillo, TX | On Site | Jan 10 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Corporate IT Solutions Partner](https://jobright.ai/jobs/info/6962815925e18715077f5243?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Jan 10 |
 | **[R3 LLC](https://www.r3-it.com)** | **[PC Depot Intern](https://jobright.ai/jobs/info/69626ac2a112b4026610d0d2?utm_campaign=1058&utm_source=git)** | Frederick, MD | On Site | Jan 10 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/696267aca112b4026610cfe3?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 10 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6962625125e18715077f44e3?utm_campaign=1058&utm_source=git)** | Beaumont, TX | On Site | Jan 10 |
+| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6962630e25e18715077f451b?utm_campaign=1058&utm_source=git)** | Springfield, IL | On Site | Jan 10 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6962625125e18715077f44e3?utm_campaign=1058&utm_source=git)** | Beaumont, TX | On Site | Jan 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6962620aa112b4026610cd50?utm_campaign=1058&utm_source=git)** | Chesterfield, MO | On Site | Jan 10 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6962614da112b4026610cd25?utm_campaign=1058&utm_source=git)** | Mattoon, IL | On Site | Jan 10 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/696260cd25e18715077f4471?utm_campaign=1058&utm_source=git)** | Byron Center, MI | On Site | Jan 10 |
@@ -101,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952d982f1f8465b79ea22d4?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | Jan 10 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern](https://jobright.ai/jobs/info/6946069463141d188455b42d?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN | On Site | Jan 10 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943e68d94730b7398771073?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Jan 10 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Intern Pharmacist PT24](https://jobright.ai/jobs/info/69626b3f25e18715077f4874?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jan 10 |
 | **[Valvoline Global Operations](https://www.valvolineglobal.com/en/)** | **[IT Intern](https://jobright.ai/jobs/info/691ada8915b415636718b3e6?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Jan 10 |
 | **[NextGen Federal Systems](https://www.nextgenfed.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68b785e8f4e41a61efd999f6?utm_campaign=1058&utm_source=git)** | Morgantown, WV | Hybrid | Jan 10 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[IT Client Service Specialist Intern](https://jobright.ai/jobs/info/6945c67fd1953b5d11bec691?utm_campaign=1058&utm_source=git)** | Seattle, WA | Hybrid | Jan 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Emergency Department](https://jobright.ai/jobs/info/6961b91da112b402661049bc?utm_campaign=1058&utm_source=git)** | US-WI-Milwaukee | On Site | Jan 09 |
 | **[MMNOVATECH](https://mmnovatech.com)** | **[Support Trainee – CRM & Technical Support](https://jobright.ai/jobs/info/696196c7f3f4cd132506a4ab?utm_campaign=1058&utm_source=git)** | Vaughan, Ontario, Canada | On Site | Jan 09 |
 | **[Cherry Hill Free Clinic](https://www.cherryhillfreeclinic.org/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/6961ceadf3f4cd132506cef8?utm_campaign=1058&utm_source=git)** | Bethany, LA | On Site | Jan 09 |
-| **[Emazing Group - INTO THE AM & iHeartRaves](https://emazinggroup.com/)** | **[Operations Intern – Buying Support](https://jobright.ai/jobs/info/6961962ba112b40266102df9?utm_campaign=1058&utm_source=git)** | Anaheim, CA | On Site | Jan 09 |
-| **[Health Jeanie](http://jeanie.health)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/6961d843f3f4cd132506d513?utm_campaign=1058&utm_source=git)** | Elm Grove, LA | On Site | Jan 09 |
-| ↳ | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/6961d595e7ed9a5731baa1a0?utm_campaign=1058&utm_source=git)** | Red Chute, LA | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
