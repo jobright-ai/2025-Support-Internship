@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68ba32e76105227d1189b8f4?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Jan 11 |
 | **[Badger Meter](http://badgermeter.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/690ead0444146d3b6ec56ad1?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Jan 11 |
 | **[O'Neal Steel](https://www.onealsteel.com/)** | **[Support Center Intern](https://jobright.ai/jobs/info/69637026a112b4026611996a?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Jan 11 |
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Customer Solutions Intern](https://jobright.ai/jobs/info/695c3e9022c9dc0d3d541d94?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Jan 11 |
@@ -88,7 +89,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69625ef12cbf4e44756c5de2?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Jan 10 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69625e0ca112b4026610cbd5?utm_campaign=1058&utm_source=git)** | Bloomington, IL | On Site | Jan 10 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69625dc3a112b4026610cbba?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Jan 10 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69625d632cbf4e44756c5d4a?utm_campaign=1058&utm_source=git)** | Springfield, IL | On Site | Jan 10 |
 | **[Cleveland Foundation](http://clevelandfoundation.org)** | **[Guest Services Intern](https://jobright.ai/jobs/info/6962981c25e18715077f6a21?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Jan 10 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69625ca525e18715077f42ec?utm_campaign=1058&utm_source=git)** | Vienna, VA | On Site | Jan 10 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69625bf82cbf4e44756c5c7e?utm_campaign=1058&utm_source=git)** | Big Rapids, MI | On Site | Jan 10 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[Pharmacy Intern - PRN](https://jobright.ai/jobs/info/6961b9a0f3f4cd132506bffb?utm_campaign=1058&utm_source=git)** | US-TN-Memphis | On Site | Jan 09 |
 | **[Everwise Credit Union](https://www.everwisecu.com)** | **[Vendor Management Intern](https://jobright.ai/jobs/info/6961cb06f3f4cd132506cd07?utm_campaign=1058&utm_source=git)** | South Bend, IN | On Site | Jan 09 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Emergency Department](https://jobright.ai/jobs/info/6961b91da112b402661049bc?utm_campaign=1058&utm_source=git)** | US-WI-Milwaukee | On Site | Jan 09 |
-| **[MMNOVATECH](https://mmnovatech.com)** | **[Support Trainee – CRM & Technical Support](https://jobright.ai/jobs/info/696196c7f3f4cd132506a4ab?utm_campaign=1058&utm_source=git)** | Vaughan, Ontario, Canada | On Site | Jan 09 |
+| **[MM NOVA TECH LTD](https://mmnovatech.com)** | **[Support Trainee – CRM & Technical Support](https://jobright.ai/jobs/info/696196c7f3f4cd132506a4ab?utm_campaign=1058&utm_source=git)** | Vaughan, Ontario, Canada | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
