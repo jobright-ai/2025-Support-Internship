@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hilti North America](http://www.hilti.com)** | **[Information Technology Intern - Tulsa, OK - Summer 2026](https://jobright.ai/jobs/info/6964d8522cbf4e44756e4dcb?utm_campaign=1058&utm_source=git)** | Tulsa, OK | On Site | Jan 12 |
+| **[Telecare Corporation](http://www.telecarecorp.com)** | **[Internship Opportunities for All Telecare Locations! FY26](https://jobright.ai/jobs/info/68673bc3afc79b6161e5b82e?utm_campaign=1058&utm_source=git)** | Alameda, CA | Hybrid | Jan 12 |
 | **[UNM Hospital](https://www.unmhjobs.com)** | **[SONOGRAPHER INTERN](https://jobright.ai/jobs/info/6964b7af25e1871507811dff?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Jan 12 |
 | **[Bassett Medical Center](https://www.bassett.org/medical/career-center/bassett-medical-center-regional-site-opportunities)** | **[Clinical Pharmacy Intern](https://jobright.ai/jobs/info/6964b37f2cbf4e44756e3a1c?utm_campaign=1058&utm_source=git)** | Cooperstown, NY | On Site | Jan 12 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #367](https://jobright.ai/jobs/info/6964b3692cbf4e44756e388b?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Jan 12 |
@@ -94,13 +96,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963af2d2cbf4e44756d61a4?utm_campaign=1058&utm_source=git)** | Verona, WI | On Site | Jan 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963af20a112b4026611c9bb?utm_campaign=1058&utm_source=git)** | Janesville, WI | On Site | Jan 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963aeed2cbf4e44756d6172?utm_campaign=1058&utm_source=git)** | Lebanon, VA | On Site | Jan 11 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963aed02cbf4e44756d615f?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | Jan 11 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[IT Service and Support Intern](https://jobright.ai/jobs/info/6963ae9e25e18715078043c8?utm_campaign=1058&utm_source=git)** | Southfield, MI | On Site | Jan 11 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963ae0225e1871507804355?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | Jan 11 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6963adbe25e1871507804332?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 11 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963ada525e187150780431d?utm_campaign=1058&utm_source=git)** | Oregon Town, WI | On Site | Jan 11 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6963ad8225e18715078042fd?utm_campaign=1058&utm_source=git)** | Nicholasville, KY | On Site | Jan 11 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68ba32e76105227d1189b8f4?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Jan 11 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I - CL Med/Surg 3 North BMH Collierville](https://jobright.ai/jobs/info/67d52716d19474209a8c1250?utm_campaign=1058&utm_source=git)** | Collierville, TN | On Site | Jan 11 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I](https://jobright.ai/jobs/info/68d77b88267b154f9a2da486?utm_campaign=1058&utm_source=git)** | Meridian, MS | On Site | Jan 11 |
+| ↳ | **[Intern-Nurse I - CL Med/Surg 3 North BMH Collierville](https://jobright.ai/jobs/info/67d52716d19474209a8c1250?utm_campaign=1058&utm_source=git)** | Collierville, TN | On Site | Jan 11 |
 | **[Badger Meter](http://badgermeter.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/690ead0444146d3b6ec56ad1?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Jan 11 |
 | **[O'Neal Steel](https://www.onealsteel.com/)** | **[Support Center Intern](https://jobright.ai/jobs/info/69637026a112b4026611996a?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Jan 11 |
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Customer Solutions Intern](https://jobright.ai/jobs/info/695c3e9022c9dc0d3d541d94?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Jan 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Manual Quoting Intern](https://jobright.ai/jobs/info/6945b2d763141d18845540c9?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | On Site | Jan 10 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Mail Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6945db149516540735380b8c?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Jan 10 |
 | **[Xometry](https://www.xometry.com)** | **[Manual Quoting Intern](https://jobright.ai/jobs/info/6945b303951654073537ce11?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Jan 10 |
-| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6945afbd951654073537ca12?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | Jan 10 |
-| ↳ | **[Manual Quoting Intern](https://jobright.ai/jobs/info/6945b432d1953b5d11beb164?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | Jan 10 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Technical Communications Specialist, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6912faafc98948514c47fe93?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
