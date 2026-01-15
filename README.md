@@ -59,18 +59,22 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Texas Instruments](http://www.ti.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/696887fe1703f05405aa4982?utm_campaign=1058&utm_source=git)** | EXKI 13560 N. Central Expwy, Dallas, TX, 75243, US | On Site | Jan 14 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/696878361703f05405aa317b?utm_campaign=1058&utm_source=git)** | Prescott, AZ | On Site | Jan 14 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/696870361703f05405aa2861?utm_campaign=1058&utm_source=git)** | Huntington, NY | On Site | Jan 14 |
+| **[StandardAero](http://www.standardaero.com/)** | **[Desktop Lifecycle and Support Technician (Summer Intern)](https://jobright.ai/jobs/info/6968a427f25a380066972a9d?utm_campaign=1058&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 14 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/696870361703f05405aa2861?utm_campaign=1058&utm_source=git)** | Huntington, NY | On Site | Jan 14 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69686f8b1703f05405aa27a8?utm_campaign=1058&utm_source=git)** | Camp Verde, AZ | On Site | Jan 14 |
 | **[United States Senate Sergeant at Arms](https://www.senate.gov/about/officers-staff/sergeant-at-arms.htm)** | **[Summer Intern](https://jobright.ai/jobs/info/695c37ff22c9dc0d3d54165b?utm_campaign=1058&utm_source=git)** | District of Columbia, United States | Hybrid | Jan 14 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69689351639b452fb57e5006?utm_campaign=1058&utm_source=git)** | Temple Hills, MD | On Site | Jan 14 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69689dc7f25a380066972375?utm_campaign=1058&utm_source=git)** | Schenectady, NY | On Site | Jan 14 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69688ffdf25a380066971369?utm_campaign=1058&utm_source=git)** | Patchogue, NY | On Site | Jan 14 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/696889421703f05405aa4be7?utm_campaign=1058&utm_source=git)** | Bullhead City, AZ | On Site | Jan 14 |
+| **[Eco-Justice Center](http://www.ecojusticecenter.org)** | **[Live-In Intern](https://jobright.ai/jobs/info/6968a5be1703f05405aa77ed?utm_campaign=1058&utm_source=git)** | Racine, WI | On Site | Jan 14 |
 | **[Domtar](http://www.domtar.com)** | **[IT Technician - Intern](https://jobright.ai/jobs/info/69688f10639b452fb57e484b?utm_campaign=1058&utm_source=git)** | Domtar - Nekoosa P&amp;P (NK01) | On Site | Jan 14 |
 | **[St. Mary's Medical Center - Huntington, WV](http://www.st-marys.org)** | **[Med Ex Student Intern](https://jobright.ai/jobs/info/696883a8639b452fb57e35a2?utm_campaign=1058&utm_source=git)** | Huntington, WV | On Site | Jan 14 |
 | **[Farmers of Salem](https://www.farmersofsalem.com/)** | **[Claims Adjuster Intern](https://jobright.ai/jobs/info/69689aaa1703f05405aa6f53?utm_campaign=1058&utm_source=git)** | Wilmington, Delaware, United States | On Site | Jan 14 |
 | **[State of Colorado](http://www.colorado.gov)** | **[TEMPORARY Customer Service Representative- Grand Junction, CO.](https://jobright.ai/jobs/info/696890ae639b452fb57e4b03?utm_campaign=1058&utm_source=git)** | Grand Junction, CO | On Site | Jan 14 |
 | **[Philip Morris International](https://www.pmi.com)** | **[Inkompass Head Office - IT B2C Intern](https://jobright.ai/jobs/info/694206cebdcf884a5addbfbb?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 14 |
 | **[Domtar](http://www.domtar.com)** | **[IT Technician - Intern](https://jobright.ai/jobs/info/69688d151703f05405aa52bf?utm_campaign=1058&utm_source=git)** | Nekoosa, WI | On Site | Jan 14 |
+| **[GreenState Credit Union](https://www.uiccu.org)** | **[Mortgage Post Closing Intern](https://jobright.ai/jobs/info/6968aa66f25a3800669731e1?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Jan 14 |
 | **[International Air Transport Association (IATA)](http://www.iata.org)** | **[Intern, BIS Delivery](https://jobright.ai/jobs/info/69684d73639b452fb57decb2?utm_campaign=1058&utm_source=git)** | Montreal, QC, CA | Hybrid | Jan 14 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/69686efa1703f05405aa26f9?utm_campaign=1058&utm_source=git)** | East Wenatchee, WA | On Site | Jan 14 |
 | **[Colorado Department of Revenue](https://linktr.ee/co_revenue)** | **[TEMPORARY Customer Service Representative- Grand Junction, CO](https://jobright.ai/jobs/info/696890091703f05405aa57bb?utm_campaign=1058&utm_source=git)** | Grand Junction, CO | On Site | Jan 14 |
@@ -80,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Student Intern (Multiple Divisions)](https://jobright.ai/jobs/info/696875ce1703f05405aa2d52?utm_campaign=1058&utm_source=git)** | Freehold, NJ | On Site | Jan 14 |
 | **[Sigma](http://sigmacomputing.com)** | **[Technical Writing Intern (Summer 2026)](https://jobright.ai/jobs/info/6968749f1703f05405aa2c34?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 14 |
 | **[Lutheran Health Network](http://www.lutheranhealth.net)** | **[Nursing Student Intern PRN Medical Surgical ICU](https://jobright.ai/jobs/info/69685aa7639b452fb57dfdb8?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Jan 14 |
-| **[United States Senate Employment Office](https://employment.senate.gov/)** | **[Summer Intern](https://jobright.ai/jobs/info/69688a4bf25a380066970713?utm_campaign=1058&utm_source=git)** | District of Columbia, United States | Hybrid | Jan 14 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern II - Float](https://jobright.ai/jobs/info/69686d53f25a38006696dad2?utm_campaign=1058&utm_source=git)** | US-FL-Panama City | On Site | Jan 14 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - Robertson Co.](https://jobright.ai/jobs/info/6968647f1703f05405aa1760?utm_campaign=1058&utm_source=git)** | Hearne, TX | On Site | Jan 14 |
 | **[Texas Health Resources](https://www.texashealth.org/)** | **[Respiratory Care Intern PRN Days](https://jobright.ai/jobs/info/696867ff639b452fb57e0dba?utm_campaign=1058&utm_source=git)** | Arlington, TX | On Site | Jan 14 |
@@ -149,12 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Wawanesa Insurance](https://www.wawanesa.com)** | **[Catastrophe Claims Representative - Intern](https://jobright.ai/jobs/info/6967e2e9f25a380066963e9a?utm_campaign=1058&utm_source=git)** | Onsite - Kitchener | On Site | Jan 14 |
 | ↳ | **[Catastrophe Claims Representative - Intern](https://jobright.ai/jobs/info/6967e2a51703f05405a9884a?utm_campaign=1058&utm_source=git)** | Onsite - Vancouver | On Site | Jan 14 |
 | ↳ | **[Catastrophe Claims Representative - Intern](https://jobright.ai/jobs/info/6967e00bf25a380066963d26?utm_campaign=1058&utm_source=git)** | Onsite - Wawanesa | On Site | Jan 14 |
-| **[Group 1001](https://group1001.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69681df91703f05405a9bc9c?utm_campaign=1058&utm_source=git)** | Zionsville, Indiana | Hybrid | Jan 14 |
-| ↳ | **[Workday Application Intern](https://jobright.ai/jobs/info/696813251703f05405a9b090?utm_campaign=1058&utm_source=git)** | Zionsville, Indiana | Hybrid | Jan 14 |
+| **[Group 1001](https://group1001.com/)** | **[Workday Application Intern](https://jobright.ai/jobs/info/696813251703f05405a9b090?utm_campaign=1058&utm_source=git)** | Zionsville, Indiana | Hybrid | Jan 14 |
+| ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/69681df91703f05405a9bc9c?utm_campaign=1058&utm_source=git)** | Zionsville, Indiana | Hybrid | Jan 14 |
 | **[Morevolved](https://www.in2inn.com/)** | **[Part-Time Office & IT Support Intern](https://jobright.ai/jobs/info/6967ffe41703f05405a99e1f?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Jan 14 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Customer Service Business Analyst Intern](https://jobright.ai/jobs/info/696810ae1703f05405a9ade5?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 14 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT24](https://jobright.ai/jobs/info/6967f89df25a380066964d7a?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jan 14 |
-| ↳ | **[Intern Pharmacist PT24](https://jobright.ai/jobs/info/69680760f25a380066965c3a?utm_campaign=1058&utm_source=git)** | Baldwin Park, CA | On Site | Jan 14 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6967e7bff25a380066964104?utm_campaign=1058&utm_source=git)** | Glassboro, NJ | On Site | Jan 14 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6967e9841703f05405a98b93?utm_campaign=1058&utm_source=git)** | Bayonne, NJ | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
