@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Odessa Regional Medical Center](https://www.odessaregionalmedicalcenter.org)** | **[Nurse Intern - Med/Surg PRN](https://jobright.ai/jobs/info/6969f0a71703f05405abf7b8?utm_campaign=1058&utm_source=git)** | Odessa, Texas, United States | On Site | Jan 16 |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #347](https://jobright.ai/jobs/info/696a06f5639b452fb5800faf?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Jan 15 |
+| **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/695f2346a112b402660deccd?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | Jan 15 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Respiratory Care](https://jobright.ai/jobs/info/6969e1f3f25a38006698a911?utm_campaign=1058&utm_source=git)** | Columbus, MS | On Site | Jan 15 |
 | **[AerSale, Inc.](https://www.aersale.com/)** | **[Shipping/Receiving Intern](https://jobright.ai/jobs/info/6969bf4cf25a3800669876c2?utm_campaign=1058&utm_source=git)** | Medley, FL | On Site | Jan 15 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6969d1fd1703f05405abe0b6?utm_campaign=1058&utm_source=git)** | Bayonne, NJ | On Site | Jan 15 |
@@ -81,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Information Technology Summer Internship 2026](https://jobright.ai/jobs/info/6969ab59f25a380066986248?utm_campaign=1058&utm_source=git)** | US-NJ-Egg Harbor Township | On Site | Jan 15 |
 | **[New Harbor](https://newharbor.co)** | **[Customer Security Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6969a8dd639b452fb57f99b3?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 15 |
 | **[Community Health Systems](http://www.chs.net)** | **[PCT/Student Intern - Dec 26' Grads](https://jobright.ai/jobs/info/69697daef25a3800669822ff?utm_campaign=1058&utm_source=git)** | 2520 EAST DUPONT ROAD, FORT WAYNE, IN, 46825, US | On Site | Jan 15 |
+| **[BMO](http://www.bmo.com)** | **[Trade Desk Support Analyst, Summer 2026  (Co-op/Internship) – 10 Weeks](https://jobright.ai/jobs/info/69697b83f25a38006698211c?utm_campaign=1058&utm_source=git)** | New York, NY, USA | On Site | Jan 15 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Rad Aid Intern](https://jobright.ai/jobs/info/69699a48639b452fb57f8bcc?utm_campaign=1058&utm_source=git)** | Ocala, FL | On Site | Jan 15 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Customer Service Team (Summer 2026)](https://jobright.ai/jobs/info/6969ac031703f05405aba9aa?utm_campaign=1058&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 15 |
 | **[XPO](https://www.xpo.com)** | **[Operations Support Intern](https://jobright.ai/jobs/info/69699293639b452fb57f84c2?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 15 |
@@ -88,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[CRH](http://crh.com)** | **[Intern - Ready Mix](https://jobright.ai/jobs/info/69696735639b452fb57f38f4?utm_campaign=1058&utm_source=git)** | Tell City, IN | On Site | Jan 15 |
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/6969843a1703f05405ab6f79?utm_campaign=1058&utm_source=git)** | North Fulton Hospital | On Site | Jan 15 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Customer Service Intern - West Springfield](https://jobright.ai/jobs/info/6969648e639b452fb57f339a?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-West Springfield-383 Memorial | On Site | Jan 15 |
-| **[BMO](http://www.bmo.com)** | **[Trade Desk Support Analyst, Summer 2026  (Co-op/Internship) – 10 Weeks](https://jobright.ai/jobs/info/696983f61703f05405ab6f39?utm_campaign=1058&utm_source=git)** | New York, NY, USA | On Site | Jan 15 |
 | **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Support Analyst Student](https://jobright.ai/jobs/info/6966daeca112b4026614edd0?utm_campaign=1058&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 15 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/696999fd1703f05405ab99f4?utm_campaign=1058&utm_source=git)** | Athol, MA | On Site | Jan 15 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69699451639b452fb57f85dd?utm_campaign=1058&utm_source=git)** | Brandywine, MD | On Site | Jan 15 |
@@ -102,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Wyndham Grand Pittsburgh Downtown - Hospitality Management Intern](https://jobright.ai/jobs/info/69698ed8639b452fb57f7bf2?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Jan 15 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Customer Service Intern - Dorchester](https://jobright.ai/jobs/info/696973c9639b452fb57f5315?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Boston - 150 Mt. Vernon Street | On Site | Jan 15 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Respiratory Care](https://jobright.ai/jobs/info/696973fef25a380066981864?utm_campaign=1058&utm_source=git)** | 2520 5th Street North, Columbus, MS, 39705, US | On Site | Jan 15 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[PC Support Intern](https://jobright.ai/jobs/info/696971bdf25a3800669813e1?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Boston - 150 Mt. Vernon Street | On Site | Jan 15 |
-| ↳ | **[Customer Service Intern - Dorchester](https://jobright.ai/jobs/info/69696ca3639b452fb57f4425?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Boston - 150 Mt. Vernon Street | On Site | Jan 15 |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Customer Service Intern - Dorchester](https://jobright.ai/jobs/info/69696ca3639b452fb57f4425?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Boston - 150 Mt. Vernon Street | On Site | Jan 15 |
+| ↳ | **[PC Support Intern](https://jobright.ai/jobs/info/696971bdf25a3800669813e1?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Boston - 150 Mt. Vernon Street | On Site | Jan 15 |
 | ↳ | **[Customer Service Intern - Lawrence](https://jobright.ai/jobs/info/69696bf8639b452fb57f42b7?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Lawrence-160 Winthrop Avenue | On Site | Jan 15 |
 | ↳ | **[Customer Service Intern - Worcester](https://jobright.ai/jobs/info/6969691bf25a38006698024a?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-Worcester- 135 Gold Star Blvd | On Site | Jan 15 |
 | ↳ | **[Customer Service Intern - New Bedford](https://jobright.ai/jobs/info/69696b701703f05405ab4c50?utm_campaign=1058&utm_source=git)** | United States-Massachusetts-New Bedford-200TheoHRice Blvd | On Site | Jan 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/696907d6639b452fb57ed1e8?utm_campaign=1058&utm_source=git)** | Carrollton, TX | On Site | Jan 15 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/6969182b639b452fb57ed9b9?utm_campaign=1058&utm_source=git)** | Midland, MI | On Site | Jan 15 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69690de0f25a380066979b77?utm_campaign=1058&utm_source=git)** | La Quinta, CA | On Site | Jan 15 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/696915e9639b452fb57ed88e?utm_campaign=1058&utm_source=git)** | Cookeville, TN | On Site | Jan 15 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69690941f25a3800669799e7?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Jan 15 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69690e42639b452fb57ed52d?utm_campaign=1058&utm_source=git)** | Atlantic City, NJ | On Site | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
