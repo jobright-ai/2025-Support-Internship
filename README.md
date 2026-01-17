@@ -57,8 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Student Nurse Intern- SNI](https://jobright.ai/jobs/info/696b03455fc86241853a4cce?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jan 16 |
+| **[IBM](http://www.ibm.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/696afe97db26b618950e73d5?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | Jan 16 |
+| ↳ | **[Technical Writer Intern](https://jobright.ai/jobs/info/696afbc8350cf43803123942?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Jan 16 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Labor and Delivery](https://jobright.ai/jobs/info/696af3a45fc86241853a39df?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Jan 16 |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - Design](https://jobright.ai/jobs/info/696aeb075fc86241853a273f?utm_campaign=1058&utm_source=git)** | Lufkin, TX | On Site | Jan 16 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[IT Application Delivery Internship](https://jobright.ai/jobs/info/696ae31b350cf43803120bb9?utm_campaign=1058&utm_source=git)** | Fairfax, VA | On Site | Jan 16 |
+| **[Survalent](http://survalent.com/)** | **[Customer Support](https://jobright.ai/jobs/info/696b0099db26b618950e76bd?utm_campaign=1058&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jan 16 |
+| **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/696b022fdb26b618950e7901?utm_campaign=1058&utm_source=git)** | 2300 16TH ST UNIT 203, SAN FRANCISCO, CA, 94103, US | On Site | Jan 16 |
+| **[EO Johnson Business Technologies](https://www.eojohnson.com/)** | **[Intern - IT](https://jobright.ai/jobs/info/696afdda5fc86241853a4586?utm_campaign=1058&utm_source=git)** | Onalaska, WI 54650 | On Site | Jan 16 |
 | **[Smith+Nephew](http://www.smith-nephew.com)** | **[Intern Product Support (Austin,TX)](https://jobright.ai/jobs/info/696ad1945fc862418539f43e?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 16 |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[Cardiovascular Sonographer Intern](https://jobright.ai/jobs/info/696af6d0350cf438031231e6?utm_campaign=1058&utm_source=git)** | Tavares, FL | On Site | Jan 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/696ac984db26b618950e13bd?utm_campaign=1058&utm_source=git)** | Hammond, IN | On Site | Jan 16 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/696ac80bdb26b618950e1162?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 16 |
 | **[CRH](http://crh.com)** | **[Intern - Material Logistics](https://jobright.ai/jobs/info/696ac3de350cf4380311d436?utm_campaign=1058&utm_source=git)** | Bridgeport, WV | On Site | Jan 16 |
@@ -102,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Vistal](vistal.com)** | **[IT Intern](https://jobright.ai/jobs/info/696a8b63350cf43803117988?utm_campaign=1058&utm_source=git)** | West Fargo, ND 58078, USA | On Site | Jan 16 |
 | **[ECHO Incorporated](http://echo-usa.com)** | **[Intern - Customer Service](https://jobright.ai/jobs/info/69659b3ca112b4026613a1d5?utm_campaign=1058&utm_source=git)** | Lake Zurich, IL | On Site | Jan 16 |
 | **[Arapahoe County](https://www.arapahoegov.com)** | **[DA Intern (Non-Legal/Seasonal)](https://jobright.ai/jobs/info/696aa0b65fc8624185399a03?utm_campaign=1058&utm_source=git)** | Centennial, CO | On Site | Jan 16 |
-| **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Medical Assistant (Credentialed/Certified) - Academic Internal Medicine & Geriatrics](https://jobright.ai/jobs/info/696aa275db26b618950dca84?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 16 |
 | **[Children's Mercy](https://www.childrensmercy.org)** | **[Clinical Pharmacy Intern](https://jobright.ai/jobs/info/696a98fc350cf43803118a02?utm_campaign=1058&utm_source=git)** | Adele Hall | On Site | Jan 16 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Pharmacy Intern YR1](https://jobright.ai/jobs/info/696a78ba5fc8624185397869?utm_campaign=1058&utm_source=git)** | Newton, MA | On Site | Jan 16 |
 | **[Gift of Life Donor Program](https://www.donors1.org/)** | **[Guest Services Intern](https://jobright.ai/jobs/info/696a713a5fc8624185397506?utm_campaign=1058&utm_source=git)** | Philadelphia, PA, US | On Site | Jan 16 |
@@ -111,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[Information Technology Intern - Summer 2026](https://jobright.ai/jobs/info/696a6bfcdb26b618950d9ab0?utm_campaign=1058&utm_source=git)** | Novi, Michigan, US | On Site | Jan 16 |
 | ↳ | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/696a699b350cf43803115233?utm_campaign=1058&utm_source=git)** | Troy, Michigan, US | On Site | Jan 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/696a6871db26b618950d8614?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | Jan 16 |
-| **[Racine](http://www.racine.eu)** | **[IT Trainer](https://jobright.ai/jobs/info/696a8254db26b618950dad2f?utm_campaign=1058&utm_source=git)** | Racine, WI | On Site | Jan 16 |
 | **[Mitsubishi Electric Power Products, Inc.](https://www.meppi.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/696a617d5fc86241853953cb?utm_campaign=1058&utm_source=git)** | Pittsburgh Region | On Site | Jan 16 |
 | **[Froedtert Health](http://www.froedtert.com)** | **[Nurse Extern - 7NT Internal Medicine/Innovation Unit](https://jobright.ai/jobs/info/696a77b6db26b618950da719?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Jan 16 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/696a59a5db26b618950d7ef4?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 16 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IQ Storage](http://www.iqstorage.com)** | **[Technical Writer - Intern](https://jobright.ai/jobs/info/696a2197db26b618950d4e67?utm_campaign=1058&utm_source=git)** | United States | On Site | Jan 16 |
 | **[Lumicera Health Services](https://www.lumicera.com/)** | **[Clinical Intern, Specialty Pharmacy](https://jobright.ai/jobs/info/68dc29b066059a42a715c2b9?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Jan 16 |
 | **[Staples](http://www.staples.com)** | **[CRM & Data Analytics Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/6914d7ce286ccf0a15128bf8?utm_campaign=1058&utm_source=git)** | Overland Park, KS | Hybrid | Jan 16 |
-| **[Boldyn Networks](http://www.mobilitie.com)** | **[Field Service Representative Intern](https://jobright.ai/jobs/info/68dbec8a97329f2f77320d4d?utm_campaign=1058&utm_source=git)** | Ithaca, NY | On Site | Jan 16 |
-| **[Aman](https://www.aman.com/)** | **[Food & Beverage 12 month Intern - Amangiri](https://jobright.ai/jobs/info/696a1a25350cf4380311110d?utm_campaign=1058&utm_source=git)** | Page, AZ | On Site | Jan 16 |
-| **[Navitus Health Solutions](https://www.navitus.com/)** | **[Clinical Intern, Specialty Pharmacy](https://jobright.ai/jobs/info/696096307ebc25398eb67939?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Jan 16 |
-| **[University of Michigan Health-Sparrow](https://www.uofmhealthsparrow.org)** | **[RESPIRATORY THERAPIST INTERN - Accepting New Grads](https://jobright.ai/jobs/info/68ef0f7f230ae70a14c3fa4b?utm_campaign=1058&utm_source=git)** | Lansing, MI | On Site | Jan 16 |
-| **[University of Utah Health Research](https://uofuhealth.utah.edu/research)** | **[UU Student - Research Assistant (WS)](https://jobright.ai/jobs/info/696a3b6a5fc8624185393d75?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Jan 16 |
-| **[Trust Automation, Inc.](https://trustautomation.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/696a0ab21703f05405ac2600?utm_campaign=1058&utm_source=git)** | San Luis Obispo, CA | On Site | Jan 16 |
-| **[Odessa Regional Medical Center](https://www.odessaregionalmedicalcenter.org)** | **[Nurse Intern - Telemetry - PRN](https://jobright.ai/jobs/info/696a1079350cf43803110d96?utm_campaign=1058&utm_source=git)** | Odessa, TX | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
