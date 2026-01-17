@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JFK Johnson Rehabilitation Institute](http://JFKJohnson.org)** | **[PHARMACY INTERN - PART TIME](https://jobright.ai/jobs/info/696b53efdb26b618950ee388?utm_campaign=1058&utm_source=git)** | Eatontown, NJ | On Site | Jan 17 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/696b48655fc86241853a9e85?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 17 |
+| **[Smilow Cancer Hospital](https://www.ynhh.org/smilow.aspx)** | **[Student Nurse Intern- SNI](https://jobright.ai/jobs/info/696b47785fc86241853a9e2b?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jan 17 |
+| **[Health Plan of San Mateo (HPSM)](https://www.hpsm.org)** | **[IT Operations Intern](https://jobright.ai/jobs/info/696b45e75fc86241853a9d46?utm_campaign=1058&utm_source=git)** | 801 Gateway Blvd, South San Francisco, CA 94080, USA | On Site | Jan 17 |
+| **[Boys & Girls Clubs of King County](http://positiveplace.org)** | **[YF TeamWork Intern - Mariners](https://jobright.ai/jobs/info/696b449fdb26b618950eca50?utm_campaign=1058&utm_source=git)** | YP YouthForce - Seattle, WA 98108 | On Site | Jan 17 |
+| **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - IT Support](https://jobright.ai/jobs/info/696b40eb350cf43803129150?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 16 |
+| **[Fred Meyer](https://www.fredmeyer.com/)** | **[PHARMACY/PHARMCST-GRAD INTERN](https://jobright.ai/jobs/info/696b4aa0db26b618950ecc98?utm_campaign=1058&utm_source=git)** | East Wenatchee, WA | On Site | Jan 16 |
 | **[Optum](https://www.optum.com/)** | **[Pharmacist Intern (Grad)](https://jobright.ai/jobs/info/696b2e37db26b618950eb63c?utm_campaign=1058&utm_source=git)** | Lancaster, PA | On Site | Jan 16 |
 | **[AARP](http://www.aarp.org)** | **[Member Support and Dispute Intern](https://jobright.ai/jobs/info/691680426f36db06ef05734c?utm_campaign=1058&utm_source=git)** | Washington, DC | Hybrid | Jan 16 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[INTERN - Park Ops](https://jobright.ai/jobs/info/696b2455db26b618950eb202?utm_campaign=1058&utm_source=git)** | Queensbury, NY | On Site | Jan 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/696b1b57350cf4380312761d?utm_campaign=1058&utm_source=git)** | Springfield, NJ | On Site | Jan 16 |
+| **[Duly Health and Care](https://www.dulyhealthandcare.com)** | **[Patient Care Coordination Intern](https://jobright.ai/jobs/info/696b1acfdb26b618950eaa55?utm_campaign=1058&utm_source=git)** | Woodridge, IL | On Site | Jan 16 |
 | **[Leader Bank](http://leaderbank.com)** | **[IT Intern](https://jobright.ai/jobs/info/696b19dcdb26b618950ea9e1?utm_campaign=1058&utm_source=git)** | Arlington, MA | On Site | Jan 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/696b1870350cf438031274e9?utm_campaign=1058&utm_source=git)** | Mechanicsburg, PA | On Site | Jan 16 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/696b16f3350cf438031267ae?utm_campaign=1058&utm_source=git)** | Glendale, AZ | On Site | Jan 16 |
@@ -70,13 +78,11 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/696b0cec5fc86241853a5a83?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Jan 16 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/696b0ceb5fc86241853a5a81?utm_campaign=1058&utm_source=git)** | Chandler, AZ | On Site | Jan 16 |
 | **[Portneuf Medical Center](http://www.portneuf.org)** | **[Pharmacy Student Intern or Technician](https://jobright.ai/jobs/info/696b2e15db26b618950eb636?utm_campaign=1058&utm_source=git)** | Pocatello, ID | On Site | Jan 16 |
-| **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Student Nurse Intern- SNI](https://jobright.ai/jobs/info/696b05a25fc86241853a5052?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jan 16 |
+| **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Student Nurse Intern- SNI](https://jobright.ai/jobs/info/696b03455fc86241853a4cce?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jan 16 |
 | **[IBM](http://www.ibm.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/696afe97db26b618950e73d5?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | Jan 16 |
 | ↳ | **[Technical Writer Intern](https://jobright.ai/jobs/info/696afbc8350cf43803123942?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Jan 16 |
-| **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Student Nurse Intern- SNI](https://jobright.ai/jobs/info/696b14e95fc86241853a60ce?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jan 16 |
 | **[OhioHealth](https://www.ohiohealth.com/)** | **[Pharmacy Intern - Pickerington](https://jobright.ai/jobs/info/69671fa9f25a380066957de7?utm_campaign=1058&utm_source=git)** | Pickerington, OH | On Site | Jan 16 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Labor and Delivery](https://jobright.ai/jobs/info/696af3a45fc86241853a39df?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Jan 16 |
-| **[Duly Health and Care](https://www.dulyhealthandcare.com)** | **[Patient Care Coordination Intern](https://jobright.ai/jobs/info/696b115e350cf4380312543b?utm_campaign=1058&utm_source=git)** | Woodridge, IL | On Site | Jan 16 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - Design](https://jobright.ai/jobs/info/696aeb075fc86241853a273f?utm_campaign=1058&utm_source=git)** | Lufkin, TX | On Site | Jan 16 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, OFFICE AND CLERICAL SUPPORT](https://jobright.ai/jobs/info/696b0dd75fc86241853a5b48?utm_campaign=1058&utm_source=git)** | Los Angeles County, CA | On Site | Jan 16 |
 | ↳ | **[VETERAN INTERN, INFORMATION TECHNOLOGY SUPPORT](https://jobright.ai/jobs/info/696b14165fc86241853a6059?utm_campaign=1058&utm_source=git)** | Los Angeles County, CA | On Site | Jan 16 |
@@ -89,12 +95,11 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/696ac984db26b618950e13bd?utm_campaign=1058&utm_source=git)** | Hammond, IN | On Site | Jan 16 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/696ac80bdb26b618950e1162?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 16 |
 | **[CRH](http://crh.com)** | **[Intern - Material Logistics](https://jobright.ai/jobs/info/696ac3de350cf4380311d436?utm_campaign=1058&utm_source=git)** | Bridgeport, WV | On Site | Jan 16 |
-| **[Magna International](http://www.magna.com/)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/696ac1555fc862418539d88b?utm_campaign=1058&utm_source=git)** | Troy, MI | On Site | Jan 16 |
-| **[TriHealth](http://www.trihealth.com)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/696abbaedb26b618950dfc23?utm_campaign=1058&utm_source=git)** | 375 Dixmyth Avenue, CINCINNATI, OH, 45220, US | On Site | Jan 16 |
 | **[Magna International](http://www.magna.com/)** | **[Information Technology Intern - Summer 2026](https://jobright.ai/jobs/info/696abaa8350cf4380311c394?utm_campaign=1058&utm_source=git)** | Novi, MI | On Site | Jan 16 |
 | **[Tucson Sugar Skulls](https://tucsonsugarskulls.com/)** | **[2026 Game Operations Intern](https://jobright.ai/jobs/info/696aba1b5fc862418539cbf2?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Jan 16 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Order & Sample Management](https://jobright.ai/jobs/info/696ab8ab5fc862418539c97c?utm_campaign=1058&utm_source=git)** | Fairfield, NJ | Hybrid | Jan 16 |
 | **[CRH](http://crh.com)** | **[Intern - Ready Mix](https://jobright.ai/jobs/info/696b1000350cf438031252ef?utm_campaign=1058&utm_source=git)** | Tell City, IN | On Site | Jan 16 |
+| **[Magna International](http://www.magna.com/)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/696ab548350cf4380311bba2?utm_campaign=1058&utm_source=git)** | Troy, MI | On Site | Jan 16 |
 | **[Main Line Health](https://www.mainlinehealth.org/locations/bryn-mawr-hospital)** | **[Intern - IT Field Service](https://jobright.ai/jobs/info/696ab2515fc862418539bf15?utm_campaign=1058&utm_source=git)** | Wynnewood, PA | On Site | Jan 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/696ad560350cf4380311f15b?utm_campaign=1058&utm_source=git)** | Windsor Locks, CT | On Site | Jan 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696ad321db26b618950e24cb?utm_campaign=1058&utm_source=git)** | Torrington, CT | On Site | Jan 16 |
@@ -148,13 +153,8 @@ For a complete list, click the following sortable link below:
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Account Services Intern](https://jobright.ai/jobs/info/696a4f64db26b618950d79b2?utm_campaign=1058&utm_source=git)** | Greater Houston | On Site | Jan 16 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/696a4e4c5fc862418539498c?utm_campaign=1058&utm_source=git)** | Naperville, IL | On Site | Jan 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696a4e21db26b618950d7924?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jan 16 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696a4cca5fc86241853948e3?utm_campaign=1058&utm_source=git)** | Waunakee, WI | On Site | Jan 16 |
+| **[ARES Corporation](http://www.arescorporation.com)** | **[Summer Internship](https://jobright.ai/jobs/info/696b361b350cf43803128694?utm_campaign=1058&utm_source=git)** | Houston, TX, US | On Site | Jan 16 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/696a4cca5fc86241853948e3?utm_campaign=1058&utm_source=git)** | Waunakee, WI | On Site | Jan 16 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/696a4c4fdb26b618950d7808?utm_campaign=1058&utm_source=git)** | Princeton, NJ | On Site | Jan 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696a4ad6350cf43803113be5?utm_campaign=1058&utm_source=git)** | Post Falls, ID | On Site | Jan 16 |
-| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/696a4ac4350cf43803113bd5?utm_campaign=1058&utm_source=git)** | Princeton Junction, NJ | On Site | Jan 16 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696a4aafdb26b618950d76ee?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | Jan 16 |
-| **[GreenState Credit Union](https://www.uiccu.org)** | **[Member Assistance Center Intern](https://jobright.ai/jobs/info/696a6d305fc86241853972bb?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Jan 16 |
-| **[Lionsbridge FC](http://lionsbridgefc.com)** | **[Ticketing & Fan Services Intern (May-July 2026)](https://jobright.ai/jobs/info/696a499ddb26b618950d763a?utm_campaign=1058&utm_source=git)** | Newport News, VA | On Site | Jan 16 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/696a4950350cf43803113ab6?utm_campaign=1058&utm_source=git)** | Howell, NJ | On Site | Jan 16 |
-| ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/696a481f350cf438031139c7?utm_campaign=1058&utm_source=git)** | Toms River, NJ | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
