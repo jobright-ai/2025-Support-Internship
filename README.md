@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[Pharmacy Intern - Part Time](https://jobright.ai/jobs/info/696bfb91350cf438031340f9?utm_campaign=1058&utm_source=git)** | Eatontown, NJ | On Site | Jan 17 |
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Warehouse Intern](https://jobright.ai/jobs/info/696ba7cfdb26b618950f2ab9?utm_campaign=1058&utm_source=git)** | Opa-Locka, FL | Hybrid | Jan 17 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/696ba3c05fc86241853afe74?utm_campaign=1058&utm_source=git)** | St Joseph, MI | On Site | Jan 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696ba3b45fc86241853afe6e?utm_campaign=1058&utm_source=git)** | Bethpage, NY | On Site | Jan 17 |
@@ -121,7 +122,7 @@ For a complete list, click the following sortable link below:
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - IT](https://jobright.ai/jobs/info/69337b2da0dde7020e2ee6d5?utm_campaign=1058&utm_source=git)** | Hilmar, CA | On Site | Jan 17 |
 | **[Henrico, Parham & Retreat Doctors' Hospitals](https://hcavirginia.com/locations/henrico-doctors/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/696b5cd3db26b618950ef460?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Jan 17 |
 | **[JFK Johnson Rehabilitation Institute](http://JFKJohnson.org)** | **[PHARMACY INTERN - PART TIME](https://jobright.ai/jobs/info/696b53efdb26b618950ee388?utm_campaign=1058&utm_source=git)** | Eatontown, NJ | On Site | Jan 17 |
-| **[Smilow Cancer Hospital](https://www.ynhh.org/smilow.aspx)** | **[Student Nurse Intern- SNI](https://jobright.ai/jobs/info/696b496cdb26b618950ecc41?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jan 17 |
+| **[Smilow Cancer Hospital](https://www.ynhh.org/smilow.aspx)** | **[Student Nurse Intern- SNI](https://jobright.ai/jobs/info/696b482a350cf4380312958d?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jan 17 |
 | **[Health Plan of San Mateo (HPSM)](https://www.hpsm.org)** | **[IT Operations Intern](https://jobright.ai/jobs/info/696b45e75fc86241853a9d46?utm_campaign=1058&utm_source=git)** | 801 Gateway Blvd, South San Francisco, CA 94080, USA | On Site | Jan 17 |
 | **[Boys & Girls Clubs of King County](http://positiveplace.org)** | **[YF TeamWork Intern - Mariners](https://jobright.ai/jobs/info/696b449fdb26b618950eca50?utm_campaign=1058&utm_source=git)** | YP YouthForce - Seattle, WA 98108 | On Site | Jan 17 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - IT Support](https://jobright.ai/jobs/info/696b40eb350cf43803129150?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 16 |
@@ -134,15 +135,15 @@ For a complete list, click the following sortable link below:
 | **[Leader Bank](http://leaderbank.com)** | **[IT Intern](https://jobright.ai/jobs/info/696b19dcdb26b618950ea9e1?utm_campaign=1058&utm_source=git)** | Arlington, MA | On Site | Jan 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/696b1870350cf438031274e9?utm_campaign=1058&utm_source=git)** | Mechanicsburg, PA | On Site | Jan 16 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/696b16f3350cf438031267ae?utm_campaign=1058&utm_source=git)** | Glendale, AZ | On Site | Jan 16 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696b118d5fc86241853a5eaa?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 16 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696b1697350cf438031263e3?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 16 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Summer 2026/ Food and Beverage](https://jobright.ai/jobs/info/696b0dd2db26b618950e87e1?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/696b0cec5fc86241853a5a83?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Jan 16 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/696b0ceb5fc86241853a5a81?utm_campaign=1058&utm_source=git)** | Chandler, AZ | On Site | Jan 16 |
+| **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Student Nurse Intern- SNI](https://jobright.ai/jobs/info/696b09b3350cf43803124e0b?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jan 16 |
 | **[Portneuf Medical Center](http://www.portneuf.org)** | **[Pharmacy Student Intern or Technician](https://jobright.ai/jobs/info/696b2e15db26b618950eb636?utm_campaign=1058&utm_source=git)** | Pocatello, ID | On Site | Jan 16 |
 | **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Student Nurse Intern- SNI](https://jobright.ai/jobs/info/696b05a25fc86241853a5052?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jan 16 |
 | **[IBM](http://www.ibm.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/696afe97db26b618950e73d5?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | Jan 16 |
 | ↳ | **[Technical Writer Intern](https://jobright.ai/jobs/info/696afbc8350cf43803123942?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Jan 16 |
-| **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Student Nurse Intern- SNI](https://jobright.ai/jobs/info/696b14e95fc86241853a60ce?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jan 16 |
 | **[OhioHealth](https://www.ohiohealth.com/)** | **[Pharmacy Intern - Pickerington](https://jobright.ai/jobs/info/69671fa9f25a380066957de7?utm_campaign=1058&utm_source=git)** | Pickerington, OH | On Site | Jan 16 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Labor and Delivery](https://jobright.ai/jobs/info/696af3a45fc86241853a39df?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Jan 16 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - Design](https://jobright.ai/jobs/info/696aeb075fc86241853a273f?utm_campaign=1058&utm_source=git)** | Lufkin, TX | On Site | Jan 16 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/696ac984db26b618950e13bd?utm_campaign=1058&utm_source=git)** | Hammond, IN | On Site | Jan 16 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/696ac80bdb26b618950e1162?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 16 |
 | **[CRH](http://crh.com)** | **[Intern - Material Logistics](https://jobright.ai/jobs/info/696ac3de350cf4380311d436?utm_campaign=1058&utm_source=git)** | Bridgeport, WV | On Site | Jan 16 |
-| **[Magna International](http://www.magna.com/)** | **[Information Technology Intern - Summer 2026](https://jobright.ai/jobs/info/696abaa8350cf4380311c394?utm_campaign=1058&utm_source=git)** | Novi, MI | On Site | Jan 16 |
-| **[Tucson Sugar Skulls](https://tucsonsugarskulls.com/)** | **[2026 Game Operations Intern](https://jobright.ai/jobs/info/696aba1b5fc862418539cbf2?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Jan 16 |
+| **[Magna International](http://www.magna.com/)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/696ac1555fc862418539d88b?utm_campaign=1058&utm_source=git)** | Troy, MI | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
