@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Hat](http://www.redhat.com)** | **[Technical Account Manager (TAM) Intern](https://jobright.ai/jobs/info/69349044764507023d1bd6bb?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Jan 18 |
+| **[Hunt Oil Company](http://www.huntoil.com)** | **[IT Service Management Intern - Summer 2026](https://jobright.ai/jobs/info/69337635764507023d1b5f16?utm_campaign=1058&utm_source=git)** | Dallas, TX | Hybrid | Jan 18 |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[IS Help Desk Intern](https://jobright.ai/jobs/info/69165acb286ccf0a15134ddb?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Jan 18 |
 | **[DemaDose](https://www.demadose.com/)** | **[Virtual Assistant](https://jobright.ai/jobs/info/696ca544db26b618950ff207?utm_campaign=1058&utm_source=git)** | Canada | Remote | Jan 18 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/696c9bf85fc86241853bc509?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 18 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/376 PHARMACIST INTERN](https://jobright.ai/jobs/info/696c8a745fc86241853bb029?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Jan 17 |
@@ -77,13 +80,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696ba1b9db26b618950f28c9?utm_campaign=1058&utm_source=git)** | Berlin, MD | On Site | Jan 17 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/696ba1985fc86241853afdbb?utm_campaign=1058&utm_source=git)** | West Des Moines, IA | On Site | Jan 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696ba14e350cf4380312f4fd?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN | On Site | Jan 17 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696ba13f5fc86241853afd81?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696ba10edb26b618950f285f?utm_campaign=1058&utm_source=git)** | Delmar, DE | On Site | Jan 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696ba0cc350cf4380312f492?utm_campaign=1058&utm_source=git)** | Elmira, NY | On Site | Jan 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696ba0975fc86241853afcff?utm_campaign=1058&utm_source=git)** | Wilmington, DE | On Site | Jan 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696ba094350cf4380312f45f?utm_campaign=1058&utm_source=git)** | Laurel, DE | On Site | Jan 17 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/696b9fd85fc86241853afc77?utm_campaign=1058&utm_source=git)** | Toms River, NJ | On Site | Jan 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696b9fc7350cf4380312f3be?utm_campaign=1058&utm_source=git)** | Harrington, DE | On Site | Jan 17 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696b9fbfdb26b618950f2770?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696b9fbd5fc86241853afc64?utm_campaign=1058&utm_source=git)** | New Hyde Park, NY | On Site | Jan 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696b9f92350cf4380312f397?utm_campaign=1058&utm_source=git)** | Philadelphia, MS | On Site | Jan 17 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Registered Nurse RN - Student Intern - Critical Care Unit](https://jobright.ai/jobs/info/696b9f7e350cf4380312f38a?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Jan 17 |
@@ -142,19 +145,16 @@ For a complete list, click the following sortable link below:
 | **[Leader Bank](http://leaderbank.com)** | **[IT Intern](https://jobright.ai/jobs/info/696b19dcdb26b618950ea9e1?utm_campaign=1058&utm_source=git)** | Arlington, MA | On Site | Jan 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/696b1870350cf438031274e9?utm_campaign=1058&utm_source=git)** | Mechanicsburg, PA | On Site | Jan 16 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/696b16f3350cf438031267ae?utm_campaign=1058&utm_source=git)** | Glendale, AZ | On Site | Jan 16 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696b1697350cf438031263e3?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 16 |
+| **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Student Nurse Intern- SNI](https://jobright.ai/jobs/info/696b11945fc86241853a5eaf?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jan 16 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/696b118d5fc86241853a5eaa?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 16 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Summer 2026/ Food and Beverage](https://jobright.ai/jobs/info/696b0dd2db26b618950e87e1?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/696b0cec5fc86241853a5a83?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Jan 16 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/696b0ceb5fc86241853a5a81?utm_campaign=1058&utm_source=git)** | Chandler, AZ | On Site | Jan 16 |
 | **[Portneuf Medical Center](http://www.portneuf.org)** | **[Pharmacy Student Intern or Technician](https://jobright.ai/jobs/info/696b2e15db26b618950eb636?utm_campaign=1058&utm_source=git)** | Pocatello, ID | On Site | Jan 16 |
-| **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Student Nurse Intern- SNI](https://jobright.ai/jobs/info/696b03455fc86241853a4cce?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jan 16 |
+| **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Student Nurse Intern- SNI](https://jobright.ai/jobs/info/696b05a25fc86241853a5052?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jan 16 |
 | **[IBM](http://www.ibm.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/696afe97db26b618950e73d5?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | Jan 16 |
 | ↳ | **[Technical Writer Intern](https://jobright.ai/jobs/info/696afbc8350cf43803123942?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Jan 16 |
-| **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Student Nurse Intern- SNI](https://jobright.ai/jobs/info/696b1406db26b618950e8e4a?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jan 16 |
 | **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/696c8597db26b618950fd31c?utm_campaign=1058&utm_source=git)** | 2300 16TH ST UNIT 203, SAN FRANCISCO, CA, 94103, US | On Site | Jan 16 |
 | **[OhioHealth](https://www.ohiohealth.com/)** | **[Pharmacy Intern - Pickerington](https://jobright.ai/jobs/info/69671fa9f25a380066957de7?utm_campaign=1058&utm_source=git)** | Pickerington, OH | On Site | Jan 16 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Labor and Delivery](https://jobright.ai/jobs/info/696af3a45fc86241853a39df?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Jan 16 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Intern Pharmacist PT24](https://jobright.ai/jobs/info/696c45215fc86241853b6ff3?utm_campaign=1058&utm_source=git)** | Baldwin Park, CA | On Site | Jan 16 |
-| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - Design](https://jobright.ai/jobs/info/696aeb075fc86241853a273f?utm_campaign=1058&utm_source=git)** | Lufkin, TX | On Site | Jan 16 |
-| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[IT Application Delivery Internship](https://jobright.ai/jobs/info/696ae31b350cf43803120bb9?utm_campaign=1058&utm_source=git)** | Fairfax, VA | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
