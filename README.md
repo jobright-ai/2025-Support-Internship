@@ -90,10 +90,10 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](https://www.trimble.com/)** | **[IS Help Desk Intern](https://jobright.ai/jobs/info/69165acb286ccf0a15134ddb?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Jan 18 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/376 PHARMACIST INTERN](https://jobright.ai/jobs/info/696c8a745fc86241853bb029?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Jan 17 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/696c7e88350cf43803139f03?utm_campaign=1058&utm_source=git)** | Lacey, WA | On Site | Jan 17 |
+| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Intern, Multifamily](https://jobright.ai/jobs/info/696dc2d8db26b6189510c0be?utm_campaign=1058&utm_source=git)** | Phoenixville, PA | On Site | Jan 17 |
+| ↳ | **[Intern, Multifamily](https://jobright.ai/jobs/info/696dc35c350cf438031499dd?utm_campaign=1058&utm_source=git)** | Plano, TX | On Site | Jan 17 |
 | **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Student Nurse Intern- SNI](https://jobright.ai/jobs/info/696c5816350cf438031373a1?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jan 17 |
 | **[Parkland Health](https://www.parklandhealth.org)** | **[High School Intern PRN Summer 2026](https://jobright.ai/jobs/info/696c52ecdb26b618950fa13f?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 17 |
-| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Intern, Multifamily](https://jobright.ai/jobs/info/696da7bbdb26b618951098e0?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Jan 17 |
-| ↳ | **[Intern, Multifamily](https://jobright.ai/jobs/info/696da7f8db26b61895109ad1?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 17 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[Pharmacy Intern - Part Time](https://jobright.ai/jobs/info/696bfb91350cf438031340f9?utm_campaign=1058&utm_source=git)** | Eatontown, NJ | On Site | Jan 17 |
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Warehouse Intern](https://jobright.ai/jobs/info/696ba7cfdb26b618950f2ab9?utm_campaign=1058&utm_source=git)** | Opa-Locka, FL | Hybrid | Jan 17 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/696ba3c05fc86241853afe74?utm_campaign=1058&utm_source=git)** | St Joseph, MI | On Site | Jan 17 |
