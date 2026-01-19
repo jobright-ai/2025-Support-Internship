@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CryptocurrencyKE](www.cryptocurrencyke.com)** | **[Tech Support Assistant (Intern)](https://jobright.ai/jobs/info/696d624e5fc86241853c4474?utm_campaign=1058&utm_source=git)** | Texas, United States | Remote | Jan 18 |
 | **[La Jolla LASIK Institute](http://lajollalasik.com)** | **[Medical Office Full Time Paid Intern / Medical Scribe Intern to hire](https://jobright.ai/jobs/info/696d4b31db26b61895106a92?utm_campaign=1058&utm_source=git)** | La Jolla, CA | On Site | Jan 18 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[4 Yr Undergrad Intern I- Information Technology ( IT )](https://jobright.ai/jobs/info/696d4637db26b61895105a88?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 18 |
 | ↳ | **[4 Yr Undergrad Intern I - Landside Operations](https://jobright.ai/jobs/info/696d3e4a350cf43803142354?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 18 |
@@ -91,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Student Nurse Intern- SNI](https://jobright.ai/jobs/info/696c5816350cf438031373a1?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jan 17 |
 | **[Parkland Health](https://www.parklandhealth.org)** | **[High School Intern PRN Summer 2026](https://jobright.ai/jobs/info/696c52ecdb26b618950fa13f?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 17 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[Pharmacy Intern - Part Time](https://jobright.ai/jobs/info/696bfb91350cf438031340f9?utm_campaign=1058&utm_source=git)** | Eatontown, NJ | On Site | Jan 17 |
+| **[Smilow Cancer Hospital](https://www.ynhh.org/smilow.aspx)** | **[Student Nurse Intern- SNI](https://jobright.ai/jobs/info/696bd67c5fc86241853b205a?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jan 17 |
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Warehouse Intern](https://jobright.ai/jobs/info/696ba7cfdb26b618950f2ab9?utm_campaign=1058&utm_source=git)** | Opa-Locka, FL | Hybrid | Jan 17 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/696ba3c05fc86241853afe74?utm_campaign=1058&utm_source=git)** | St Joseph, MI | On Site | Jan 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696ba3b45fc86241853afe6e?utm_campaign=1058&utm_source=git)** | Bethpage, NY | On Site | Jan 17 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - IT](https://jobright.ai/jobs/info/69337b2da0dde7020e2ee6d5?utm_campaign=1058&utm_source=git)** | Hilmar, CA | On Site | Jan 17 |
 | **[Henrico, Parham & Retreat Doctors' Hospitals](https://hcavirginia.com/locations/henrico-doctors/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/696b5cd3db26b618950ef460?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Jan 17 |
 | **[JFK Johnson Rehabilitation Institute](http://JFKJohnson.org)** | **[PHARMACY INTERN - PART TIME](https://jobright.ai/jobs/info/696b53efdb26b618950ee388?utm_campaign=1058&utm_source=git)** | Eatontown, NJ | On Site | Jan 17 |
-| **[Smilow Cancer Hospital](https://www.ynhh.org/smilow.aspx)** | **[Student Nurse Intern- SNI](https://jobright.ai/jobs/info/696b4809350cf4380312957c?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jan 17 |
 | **[Health Plan of San Mateo (HPSM)](https://www.hpsm.org)** | **[IT Operations Intern](https://jobright.ai/jobs/info/696b45e75fc86241853a9d46?utm_campaign=1058&utm_source=git)** | 801 Gateway Blvd, South San Francisco, CA 94080, USA | On Site | Jan 17 |
 | **[Boys & Girls Clubs of King County](http://positiveplace.org)** | **[YF TeamWork Intern - Mariners](https://jobright.ai/jobs/info/696b449fdb26b618950eca50?utm_campaign=1058&utm_source=git)** | YP YouthForce - Seattle, WA 98108 | On Site | Jan 17 |
-| **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - IT Support](https://jobright.ai/jobs/info/696b40eb350cf43803129150?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
