@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baird](http://www.rwbaird.com)** | **[Internship – Service Desk (Louisville, KY Year-Round)](https://jobright.ai/jobs/info/68c7be0f369c3763c743b387?utm_campaign=1058&utm_source=git)** | Louisville, KY | Hybrid | Jan 19 |
+| **[Hyatt](http://www.hyatt.com/)** | **[Summer 2026 - College Intern - Sedona, AZ (Front Office & Recreation)](https://jobright.ai/jobs/info/68fca19ae04ac838fb5ab30d?utm_campaign=1058&utm_source=git)** | Sedona, AZ | On Site | Jan 19 |
+| **[OANDA](http://www.oanda.com)** | **[Intern](https://jobright.ai/jobs/info/696e1795350cf4380314daed?utm_campaign=1058&utm_source=git)** | Toronto | Hybrid | Jan 19 |
+| **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69169c236f36db06ef05842c?utm_campaign=1058&utm_source=git)** | Lenexa, KS | On Site | Jan 19 |
+| **[St. Elizabeth Healthcare](http://www.stelizabeth.com/)** | **[Intern Pharmacy - Retail Outpatient](https://jobright.ai/jobs/info/67fdb2ba2467c92045c0f3c0?utm_campaign=1058&utm_source=git)** | Edgewood, KY | On Site | Jan 19 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Operational Readiness](https://jobright.ai/jobs/info/68a8fdc0d627244576e36c4f?utm_campaign=1058&utm_source=git)** | Stamford, CT | Hybrid | Jan 19 |
+| **[HII](https://hii.com)** | **[IT Application Delivery Internship](https://jobright.ai/jobs/info/696dff925fc86241853cd511?utm_campaign=1058&utm_source=git)** | Fairfax, VA | On Site | Jan 19 |
 | **[Colorado State University](http://www.colostate.edu/)** | **[Temporary BIC Intern](https://jobright.ai/jobs/info/696df424db26b6189510e671?utm_campaign=1058&utm_source=git)** | Saratoga, WY | On Site | Jan 19 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/696de8ff5fc86241853caec4?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 19 |
 | **[Eyes On Eyecare](https://eyesoneyecare.com)** | **[(USA) Optometrist Pre-Grad Intern - Wm (9151 S QUARRY BEND DR, SANDY, UT 84094-7701, United States of America)](https://jobright.ai/jobs/info/696d88f85fc86241853c6764?utm_campaign=1058&utm_source=git)** | Sandy, UT | On Site | Jan 18 |
+| **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Circuit Court Clerk](https://jobright.ai/jobs/info/696e0110350cf4380314d3bc?utm_campaign=1058&utm_source=git)** | Chesterfield, VA | On Site | Jan 18 |
 | **[CryptocurrencyKE](www.cryptocurrencyke.com)** | **[Tech Support Assistant (Intern)](https://jobright.ai/jobs/info/696d624e5fc86241853c4474?utm_campaign=1058&utm_source=git)** | Texas, United States | Remote | Jan 18 |
 | **[La Jolla LASIK Institute](http://lajollalasik.com)** | **[Medical Office Full Time Paid Intern / Medical Scribe Intern to hire](https://jobright.ai/jobs/info/696d4b31db26b61895106a92?utm_campaign=1058&utm_source=git)** | La Jolla, CA | On Site | Jan 18 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[4 Yr Undergrad Intern I- Information Technology ( IT )](https://jobright.ai/jobs/info/696d4637db26b61895105a88?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 18 |
@@ -90,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Red Hat](http://www.redhat.com)** | **[Technical Account Manager (TAM) Intern](https://jobright.ai/jobs/info/69349044764507023d1bd6bb?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Jan 18 |
 | **[Hunt Oil Company](http://www.huntoil.com)** | **[IT Service Management Intern - Summer 2026](https://jobright.ai/jobs/info/69337635764507023d1b5f16?utm_campaign=1058&utm_source=git)** | Dallas, TX | Hybrid | Jan 18 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[IS Help Desk Intern](https://jobright.ai/jobs/info/69165acb286ccf0a15134ddb?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Jan 18 |
-| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Intern, Multifamily](https://jobright.ai/jobs/info/696dfa92db26b6189510f6de?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Jan 18 |
-| ↳ | **[Intern, Multifamily](https://jobright.ai/jobs/info/696dfa7adb26b6189510f5e2?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jan 18 |
+| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Intern, Multifamily](https://jobright.ai/jobs/info/696e104edb26b61895110175?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 18 |
+| ↳ | **[Intern, Multifamily](https://jobright.ai/jobs/info/696e040adb26b6189510fcb7?utm_campaign=1058&utm_source=git)** | Santa Clarita, CA | On Site | Jan 18 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/376 PHARMACIST INTERN](https://jobright.ai/jobs/info/696c8a745fc86241853bb029?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Jan 17 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/696c7e88350cf43803139f03?utm_campaign=1058&utm_source=git)** | Lacey, WA | On Site | Jan 17 |
 | **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Student Nurse Intern- SNI](https://jobright.ai/jobs/info/696c5816350cf438031373a1?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jan 17 |
@@ -110,13 +118,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696ba1b9db26b618950f28c9?utm_campaign=1058&utm_source=git)** | Berlin, MD | On Site | Jan 17 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/696ba1985fc86241853afdbb?utm_campaign=1058&utm_source=git)** | West Des Moines, IA | On Site | Jan 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696ba14e350cf4380312f4fd?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN | On Site | Jan 17 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696ba13f5fc86241853afd81?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696ba10edb26b618950f285f?utm_campaign=1058&utm_source=git)** | Delmar, DE | On Site | Jan 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696ba0cc350cf4380312f492?utm_campaign=1058&utm_source=git)** | Elmira, NY | On Site | Jan 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696ba0975fc86241853afcff?utm_campaign=1058&utm_source=git)** | Wilmington, DE | On Site | Jan 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696ba094350cf4380312f45f?utm_campaign=1058&utm_source=git)** | Laurel, DE | On Site | Jan 17 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/696b9fd85fc86241853afc77?utm_campaign=1058&utm_source=git)** | Toms River, NJ | On Site | Jan 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696b9fc7350cf4380312f3be?utm_campaign=1058&utm_source=git)** | Harrington, DE | On Site | Jan 17 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696b9fbfdb26b618950f2770?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696b9fbd5fc86241853afc64?utm_campaign=1058&utm_source=git)** | New Hyde Park, NY | On Site | Jan 17 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696b9f92350cf4380312f397?utm_campaign=1058&utm_source=git)** | Philadelphia, MS | On Site | Jan 17 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Registered Nurse RN - Student Intern - Critical Care Unit](https://jobright.ai/jobs/info/696b9f7e350cf4380312f38a?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Jan 17 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Graduate Intern - Information Management (MA)](https://jobright.ai/jobs/info/69175650bcdbf3560c9c6f30?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Jan 17 |
 | **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/68f9685da628d10664e8cc77?utm_campaign=1058&utm_source=git)** | Hudson, WI | On Site | Jan 17 |
 | ↳ | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/68f96744a628d10664e8cbc8?utm_campaign=1058&utm_source=git)** | Woodbury, MN | On Site | Jan 17 |
-| **[apexanalytix](https://www.apexanalytix.com)** | **[Support/Implementation Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/68c027e1702aa35207aaaf88?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Jan 17 |
-| **[Ohio Department of Administrative Services](http://das.ohio.gov)** | **[IT Intern (Enterprise Service Management)](https://jobright.ai/jobs/info/691656eb6f36db06ef055399?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Jan 17 |
-| **[Guidepoint](http://www.guidepoint.com)** | **[2024 Tech Intern Pool](https://jobright.ai/jobs/info/667713ec3ab189f6697e9413?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jan 17 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Intern Pharmacist PT16](https://jobright.ai/jobs/info/696bb5f15fc86241853b0270?utm_campaign=1058&utm_source=git)** | Fontana, CA | On Site | Jan 17 |
-| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Help Desk Intern](https://jobright.ai/jobs/info/6959ef9ff1f8465b79f05970?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Jan 17 |
-| **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern - Medical Intermediate- PRN](https://jobright.ai/jobs/info/696b7712db26b618950efd70?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Jan 17 |
-| **[The Chicago Lighthouse](https://chicagolighthouse.org/)** | **[Communications Center Intern](https://jobright.ai/jobs/info/696b6f40350cf4380312c678?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 17 |
-| **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - IT](https://jobright.ai/jobs/info/69337b2da0dde7020e2ee6d5?utm_campaign=1058&utm_source=git)** | Hilmar, CA | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
