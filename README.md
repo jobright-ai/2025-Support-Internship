@@ -90,8 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](https://www.trimble.com/)** | **[IS Help Desk Intern](https://jobright.ai/jobs/info/69165acb286ccf0a15134ddb?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Jan 18 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/376 PHARMACIST INTERN](https://jobright.ai/jobs/info/696c8a745fc86241853bb029?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Jan 17 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/696c7e88350cf43803139f03?utm_campaign=1058&utm_source=git)** | Lacey, WA | On Site | Jan 17 |
-| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Intern, Multifamily](https://jobright.ai/jobs/info/696dc2d8db26b6189510c0be?utm_campaign=1058&utm_source=git)** | Phoenixville, PA | On Site | Jan 17 |
-| ↳ | **[Intern, Multifamily](https://jobright.ai/jobs/info/696dc35c350cf438031499dd?utm_campaign=1058&utm_source=git)** | Plano, TX | On Site | Jan 17 |
 | **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Student Nurse Intern- SNI](https://jobright.ai/jobs/info/696c5816350cf438031373a1?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jan 17 |
 | **[Parkland Health](https://www.parklandhealth.org)** | **[High School Intern PRN Summer 2026](https://jobright.ai/jobs/info/696c52ecdb26b618950fa13f?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 17 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[Pharmacy Intern - Part Time](https://jobright.ai/jobs/info/696bfb91350cf438031340f9?utm_campaign=1058&utm_source=git)** | Eatontown, NJ | On Site | Jan 17 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - IT](https://jobright.ai/jobs/info/69337b2da0dde7020e2ee6d5?utm_campaign=1058&utm_source=git)** | Hilmar, CA | On Site | Jan 17 |
 | **[Henrico, Parham & Retreat Doctors' Hospitals](https://hcavirginia.com/locations/henrico-doctors/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/696b5cd3db26b618950ef460?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Jan 17 |
 | **[JFK Johnson Rehabilitation Institute](http://JFKJohnson.org)** | **[PHARMACY INTERN - PART TIME](https://jobright.ai/jobs/info/696b53efdb26b618950ee388?utm_campaign=1058&utm_source=git)** | Eatontown, NJ | On Site | Jan 17 |
+| **[Smilow Cancer Hospital](https://www.ynhh.org/smilow.aspx)** | **[Student Nurse Intern- SNI](https://jobright.ai/jobs/info/696b4c40db26b618950ece41?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Jan 17 |
+| **[Health Plan of San Mateo (HPSM)](https://www.hpsm.org)** | **[IT Operations Intern](https://jobright.ai/jobs/info/696b45e75fc86241853a9d46?utm_campaign=1058&utm_source=git)** | 801 Gateway Blvd, South San Francisco, CA 94080, USA | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
