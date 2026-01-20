@@ -57,6 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Health Connect America](https://healthconnectamerica.com)** | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fdbfc0f4e0f657ea421eb?utm_campaign=1058&utm_source=git)** | US-GA-Columbus | Hybrid | Jan 20 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fdbd082817106e976e088?utm_campaign=1058&utm_source=git)** | US-GA-Gainesville | Hybrid | Jan 20 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fd9d10f4e0f657ea41f9a?utm_campaign=1058&utm_source=git)** | US-GA-Dalton | Hybrid | Jan 20 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fd99582817106e976ddfc?utm_campaign=1058&utm_source=git)** | Dalton | Hybrid | Jan 20 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fd95682817106e976ddb4?utm_campaign=1058&utm_source=git)** | US-GA-Dallas | Hybrid | Jan 20 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fd8643ed06875134ac0c0?utm_campaign=1058&utm_source=git)** | US-GA-Woodstock | Hybrid | Jan 20 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fd8223ed06875134ac068?utm_campaign=1058&utm_source=git)** | US-GA-Statesboro | Hybrid | Jan 20 |
+| **[Okta](http://www.okta.com)** | **[Technical Account Management Intern (Summer 2026)](https://jobright.ai/jobs/info/696fd7a30f4e0f657ea41d32?utm_campaign=1058&utm_source=git)** | Chicago, Illinois | On Site | Jan 20 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Walk-In Services Intern Spring 2026](https://jobright.ai/jobs/info/6969569c639b452fb57f220b?utm_campaign=1058&utm_source=git)** | Baltimore, MD | Hybrid | Jan 20 |
+| **[Health Connect America](https://healthconnectamerica.com)** | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fd6f10f4e0f657ea41c7b?utm_campaign=1058&utm_source=git)** | US-GA-Jesup | Hybrid | Jan 20 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fd6963ed06875134abe9a?utm_campaign=1058&utm_source=git)** | US-GA-Atlanta | Hybrid | Jan 20 |
+| **[Teledyne Technologies Incorporated](http://www.teledyne.com)** | **[Intern Technical Service/ Customer Support](https://jobright.ai/jobs/info/696fd67982817106e976da6c?utm_campaign=1058&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 20 |
+| **[Apptegy](http://www.apptegy.com)** | **[Client Experience Internship](https://jobright.ai/jobs/info/696fd5083ed06875134abce1?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Jan 20 |
+| **[Boys Town](https://www.boystown.org/Pages/default.aspx)** | **[Pharmacy Intern (Part-Time)](https://jobright.ai/jobs/info/696fcad282817106e976d610?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Jan 20 |
+| **[Okta](http://www.okta.com)** | **[Technical Account Management Intern (Summer 2026)](https://jobright.ai/jobs/info/696fca553ed06875134ab7c6?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
+| **[Empower AI](https://www.empower.ai/)** | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/696fc6e70f4e0f657ea413b0?utm_campaign=1058&utm_source=git)** | Alexandria, VA | On Site | Jan 20 |
+| **[Lansing Board of Water & Light](http://lbwl.com)** | **[Intern, AMI](https://jobright.ai/jobs/info/692e2590fa28370be26a1bf9?utm_campaign=1058&utm_source=git)** | Lansing, MI | On Site | Jan 20 |
+| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[IT Customer Services Summer (STAR) Intern](https://jobright.ai/jobs/info/696fc2e13ed06875134ab39f?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[Information Technology Support Specialist](https://jobright.ai/jobs/info/696fba183ed06875134aaf68?utm_campaign=1058&utm_source=git)** | Newark, NJ | On Site | Jan 20 |
 | **[Lupus Foundation of America Georgia Chapter Inc](https://www.lupus.org/georgia/welcome)** | **[Patient Navigator Intern (Volunteer Unpaid)](https://jobright.ai/jobs/info/696fb8360f4e0f657ea40acc?utm_campaign=1058&utm_source=git)** | Atlanta Metro | On Site | Jan 20 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[IT Customer Services Summer (STAR) Intern](https://jobright.ai/jobs/info/696fb6bd0f4e0f657ea40499?utm_campaign=1058&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | On Site | Jan 20 |
@@ -70,7 +88,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)- Newly Increased Pay Range](https://jobright.ai/jobs/info/696f94ee3ed06875134a84d1?utm_campaign=1058&utm_source=git)** | Brookfield, WI | On Site | Jan 20 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696f94df82817106e976a36d?utm_campaign=1058&utm_source=git)** | Colonia, NJ | On Site | Jan 20 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/696f944482817106e976a303?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Jan 20 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696f94173ed06875134a8450?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696f93a23ed06875134a8408?utm_campaign=1058&utm_source=git)** | Missoula, MT | On Site | Jan 20 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)- Newly Increased Pay Range](https://jobright.ai/jobs/info/696f935f0f4e0f657ea3e2ad?utm_campaign=1058&utm_source=git)** | Oconomowoc, WI | On Site | Jan 20 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/696f92e63ed06875134a8381?utm_campaign=1058&utm_source=git)** | Cranford, NJ | On Site | Jan 20 |
@@ -118,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Property Claims Intern – Summer 2026](https://jobright.ai/jobs/info/696ee0c3350cf4380315d8b4?utm_campaign=1058&utm_source=git)** | West Des Moines, IA, US | On Site | Jan 19 |
 | **[Piedmont](http://www.piedmont.org)** | **[Pharmacy Intern, PRN](https://jobright.ai/jobs/info/696edfd5db26b6189511fd40?utm_campaign=1058&utm_source=git)** | Onsite | On Site | Jan 19 |
 | **[Werfen](http://www.werfen.com/)** | **[Product Support Intern](https://jobright.ai/jobs/info/696edea4db26b6189511fc2c?utm_campaign=1058&utm_source=git)** | US-NY-Orangeburg | On Site | Jan 19 |
-| **[UltraSource LLC](http://www.ultrasourceusa.com)** | **[Intern - Meat Science Applications](https://jobright.ai/jobs/info/696edd47db26b6189511fb54?utm_campaign=1058&utm_source=git)** | 1414 West 29th Street, Kansas City, MO 64108, USA | On Site | Jan 19 |
 | **[Vibra Healthcare](http://vibrahealthcare.com)** | **[Pharmacy Intern Part Time](https://jobright.ai/jobs/info/696edb05350cf4380315d40e?utm_campaign=1058&utm_source=git)** | Fargo, ND | On Site | Jan 19 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/696edb02350cf4380315d40b?utm_campaign=1058&utm_source=git)** | Billings, MT | On Site | Jan 19 |
 | **[Piedmont](http://www.piedmont.org)** | **[Pharmacy Intern, PRN](https://jobright.ai/jobs/info/696ed8e2350cf4380315d1f6?utm_campaign=1058&utm_source=git)** | US-GA-Athens | On Site | Jan 19 |
@@ -137,24 +153,8 @@ For a complete list, click the following sortable link below:
 | **[The Children's Village](https://childrensvillage.org/)** | **[IT Intern](https://jobright.ai/jobs/info/696eb64a5fc86241853d93df?utm_campaign=1058&utm_source=git)** | Dobbs Ferry, NY, US | On Site | Jan 19 |
 | **[Sudbury Catholic District School Board](https://sudburycatholicschools.ca)** | **[Permanent  Intermediate History/Religion 1.0  FTE  (internal/external)](https://jobright.ai/jobs/info/696eafab350cf438031585cf?utm_campaign=1058&utm_source=git)** | Hanmer, Ontario, Canada | On Site | Jan 19 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Property Claims Intern - Summer 2026](https://jobright.ai/jobs/info/696e8e69350cf438031544bf?utm_campaign=1058&utm_source=git)** | West Des Moines, IA | On Site | Jan 19 |
-| **[Old Dominion Freight Line](http://www.odfl.com)** | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696eb71e350cf438031592f6?utm_campaign=1058&utm_source=git)** | Arden, NC | On Site | Jan 19 |
+| **[Old Dominion Freight Line](http://www.odfl.com)** | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696ebe0f5fc86241853dace8?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 19 |
 | ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696ebb35db26b6189511c6ba?utm_campaign=1058&utm_source=git)** | Conover, NC | On Site | Jan 19 |
-| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696ebd08db26b6189511cc0a?utm_campaign=1058&utm_source=git)** | Wilmington, NC | On Site | Jan 19 |
-| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696eb9c05fc86241853d9e6a?utm_campaign=1058&utm_source=git)** | Morrisville, NC | On Site | Jan 19 |
 | ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696ebb725fc86241853da410?utm_campaign=1058&utm_source=git)** | Duncan, SC | On Site | Jan 19 |
-| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696ebaa6db26b6189511c51f?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | On Site | Jan 19 |
-| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696ebed2350cf4380315aa8b?utm_campaign=1058&utm_source=git)** | Kernersville, NC | On Site | Jan 19 |
-| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696eb59c350cf43803158ea1?utm_campaign=1058&utm_source=git)** | Elm City, NC | On Site | Jan 19 |
-| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696ebde65fc86241853dac6d?utm_campaign=1058&utm_source=git)** | Thomasville, NC | On Site | Jan 19 |
-| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696eb5735fc86241853d91ca?utm_campaign=1058&utm_source=git)** | Kings Mountain, NC | On Site | Jan 19 |
-| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696ebe0f5fc86241853dace8?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 19 |
-| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696ebdcadb26b6189511ce53?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Jan 19 |
-| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696eb739350cf43803159374?utm_campaign=1058&utm_source=git)** | Ridgeway, VA | On Site | Jan 19 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/696e8cd45fc86241853d4558?utm_campaign=1058&utm_source=git)** | Hayward, CA | On Site | Jan 19 |
-| **[Meijer](https://www.meijer.com/)** | **[Store Detective Intern](https://jobright.ai/jobs/info/696e8c405fc86241853d44c3?utm_campaign=1058&utm_source=git)** | Grand Rapids Metro | On Site | Jan 19 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/696e8b645fc86241853d43cc?utm_campaign=1058&utm_source=git)** | St George, UT | On Site | Jan 19 |
-| **[FUJIFILM Holdings America Corporation](http://www.fujifilmusa.com/index.html)** | **[Intern, IT](https://jobright.ai/jobs/info/696e8b415fc86241853d43a6?utm_campaign=1058&utm_source=git)** | US-NC-Holly Springs | On Site | Jan 19 |
-| **[FUJIFILM Biotechnologies](https://fujifilmbiotechnologies.fujifilm.com/)** | **[Intern, IT](https://jobright.ai/jobs/info/696e89545fc86241853d419e?utm_campaign=1058&utm_source=git)** | Holly Springs, NC | On Site | Jan 19 |
-| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Front Desk Agent - Intern](https://jobright.ai/jobs/info/696e88155fc86241853d4044?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Jan 19 |
-| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Desktop Support Technician Intern](https://jobright.ai/jobs/info/696e85235fc86241853d3d5c?utm_campaign=1058&utm_source=git)** | Onsite | On Site | Jan 19 |
+| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696eb9c05fc86241853d9e6a?utm_campaign=1058&utm_source=git)** | Morrisville, NC | On Site | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
