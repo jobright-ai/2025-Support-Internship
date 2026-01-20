@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952e5fa935649778e20a49f?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | Jan 20 |
+| **[Kinney Drugs](http://www.kinneydrugs.com)** | **[Pharmacy Intern P3](https://jobright.ai/jobs/info/691e2866a49a885af9a259ed?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | Jan 20 |
+| **[Rheem Manufacturing](http://www.rheem.com)** | **[Intern](https://jobright.ai/jobs/info/6952d93ef1f8465b79ea2287?utm_campaign=1058&utm_source=git)** | Kimberly, WI | On Site | Jan 20 |
+| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952e06ef1f8465b79ea28f5?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 20 |
+| **[Take-Two Interactive](http://www.take2games.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/69379532a0dde7020e30468b?utm_campaign=1058&utm_source=git)** | New York, United States | Hybrid | Jan 20 |
+| **[Hilton](https://www.hilton.com/en/)** | **[Pool Attendant - Intern Summer 2026](https://jobright.ai/jobs/info/696f526d0f4e0f657ea3b37b?utm_campaign=1058&utm_source=git)** | Waldorf Astoria Park City2100 Frostwood Blvd | On Site | Jan 20 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/696f3d149c3c52633455f727?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 20 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[IT Intern](https://jobright.ai/jobs/info/696f310c82817106e9764d79?utm_campaign=1058&utm_source=git)** | 500 Plaza Drive, Secaucus, NJ, 07094, US | Hybrid | Jan 19 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/696f308b82817106e9764d22?utm_campaign=1058&utm_source=git)** | Secaucus, NJ | Hybrid | Jan 19 |
-| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695ab318aa05c26e7ab4364b?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 19 |
 | **[UNM Sandoval Regional Medical Center](http://goto.unm.edu/srmc)** | **[SONOGRAPHER INTERN](https://jobright.ai/jobs/info/696f1d0b0f4e0f657ea3855e?utm_campaign=1058&utm_source=git)** | Rio Rancho, NM | On Site | Jan 19 |
 | **[Sigma](http://sigmacomputing.com)** | **[Technical Writing Intern (Summer 2026)](https://jobright.ai/jobs/info/6968749f1703f05405aa2c34?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 19 |
 | **[Campbell County Health](https://www.cchwyo.org/)** | **[PHARMACY INTERN](https://jobright.ai/jobs/info/696f190d0f4e0f657ea384bb?utm_campaign=1058&utm_source=git)** | Gillette, WY | On Site | Jan 19 |
@@ -92,19 +97,19 @@ For a complete list, click the following sortable link below:
 | **[The Children's Village](https://childrensvillage.org/)** | **[IT Intern](https://jobright.ai/jobs/info/696eb64a5fc86241853d93df?utm_campaign=1058&utm_source=git)** | Dobbs Ferry, NY, US | On Site | Jan 19 |
 | **[Sudbury Catholic District School Board](https://sudburycatholicschools.ca)** | **[Permanent  Intermediate History/Religion 1.0  FTE  (internal/external)](https://jobright.ai/jobs/info/696eafab350cf438031585cf?utm_campaign=1058&utm_source=git)** | Hanmer, Ontario, Canada | On Site | Jan 19 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Property Claims Intern - Summer 2026](https://jobright.ai/jobs/info/696e8e69350cf438031544bf?utm_campaign=1058&utm_source=git)** | West Des Moines, IA | On Site | Jan 19 |
-| **[Old Dominion Freight Line](http://www.odfl.com)** | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696eb739350cf43803159374?utm_campaign=1058&utm_source=git)** | Ridgeway, VA | On Site | Jan 19 |
+| **[Old Dominion Freight Line](http://www.odfl.com)** | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696ebed2350cf4380315aa8b?utm_campaign=1058&utm_source=git)** | Kernersville, NC | On Site | Jan 19 |
 | ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696eb9c05fc86241853d9e6a?utm_campaign=1058&utm_source=git)** | Morrisville, NC | On Site | Jan 19 |
-| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696ebed2350cf4380315aa8b?utm_campaign=1058&utm_source=git)** | Kernersville, NC | On Site | Jan 19 |
-| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696ebd08db26b6189511cc0a?utm_campaign=1058&utm_source=git)** | Wilmington, NC | On Site | Jan 19 |
-| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696ebe0f5fc86241853dace8?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 19 |
-| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696ebde65fc86241853dac6d?utm_campaign=1058&utm_source=git)** | Thomasville, NC | On Site | Jan 19 |
 | ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696ebaa6db26b6189511c51f?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | On Site | Jan 19 |
-| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696eb5735fc86241853d91ca?utm_campaign=1058&utm_source=git)** | Kings Mountain, NC | On Site | Jan 19 |
-| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696ebdcadb26b6189511ce53?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Jan 19 |
-| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696ebb35db26b6189511c6ba?utm_campaign=1058&utm_source=git)** | Conover, NC | On Site | Jan 19 |
-| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696ebb725fc86241853da410?utm_campaign=1058&utm_source=git)** | Duncan, SC | On Site | Jan 19 |
+| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696ebd08db26b6189511cc0a?utm_campaign=1058&utm_source=git)** | Wilmington, NC | On Site | Jan 19 |
 | ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696eb71e350cf438031592f6?utm_campaign=1058&utm_source=git)** | Arden, NC | On Site | Jan 19 |
+| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696ebb725fc86241853da410?utm_campaign=1058&utm_source=git)** | Duncan, SC | On Site | Jan 19 |
+| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696ebde65fc86241853dac6d?utm_campaign=1058&utm_source=git)** | Thomasville, NC | On Site | Jan 19 |
+| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696ebdcadb26b6189511ce53?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Jan 19 |
 | ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696eb59c350cf43803158ea1?utm_campaign=1058&utm_source=git)** | Elm City, NC | On Site | Jan 19 |
+| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696ebe0f5fc86241853dace8?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 19 |
+| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696ebb35db26b6189511c6ba?utm_campaign=1058&utm_source=git)** | Conover, NC | On Site | Jan 19 |
+| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696eb5735fc86241853d91ca?utm_campaign=1058&utm_source=git)** | Kings Mountain, NC | On Site | Jan 19 |
+| ↳ | **[Summer 2026 - IT Internship (On-Site Corporate HQ: Thomasville, NC)](https://jobright.ai/jobs/info/696eb739350cf43803159374?utm_campaign=1058&utm_source=git)** | Ridgeway, VA | On Site | Jan 19 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/696e8cd45fc86241853d4558?utm_campaign=1058&utm_source=git)** | Hayward, CA | On Site | Jan 19 |
 | **[Meijer](https://www.meijer.com/)** | **[Store Detective Intern](https://jobright.ai/jobs/info/696e8c405fc86241853d44c3?utm_campaign=1058&utm_source=git)** | Grand Rapids Metro | On Site | Jan 19 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/696e8b645fc86241853d43cc?utm_campaign=1058&utm_source=git)** | St George, UT | On Site | Jan 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/696e3891350cf438031503ee?utm_campaign=1058&utm_source=git)** | Clayton, MO | On Site | Jan 19 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/696e383b350cf438031503d7?utm_campaign=1058&utm_source=git)** | Glen Carbon, IL | On Site | Jan 19 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Paid Intern (Hendersonville, NC)](https://jobright.ai/jobs/info/6917aa6045fb6f5ead89d5bd?utm_campaign=1058&utm_source=git)** | Hendersonville, NC | On Site | Jan 19 |
-| **[Novant Health](https://www.novanthealth.org/)** | **[Intern (unpaid)](https://jobright.ai/jobs/info/696e2ea8350cf4380314f6b4?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 19 |
-| **[Packaging Corporation of America](http://packagingcorp.com)** | **[INTERN/CO-OP - Spring 2026 - IT](https://jobright.ai/jobs/info/691d5a037481340785ed6d15?utm_campaign=1058&utm_source=git)** | Filer City, MI | On Site | Jan 19 |
-| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Information Technology (IT) Specialist (SkillBridge Intern) - 16988](https://jobright.ai/jobs/info/691ae8c845fb6f5ead8aee22?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Jan 19 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – Service Desk (Louisville, KY Year-Round)](https://jobright.ai/jobs/info/68c7be0f369c3763c743b387?utm_campaign=1058&utm_source=git)** | Louisville, KY | Hybrid | Jan 19 |
-| **[Hyatt](http://www.hyatt.com/)** | **[Summer 2026 - College Intern - Sedona, AZ (Front Office & Recreation)](https://jobright.ai/jobs/info/68fca19ae04ac838fb5ab30d?utm_campaign=1058&utm_source=git)** | Sedona, AZ | On Site | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
