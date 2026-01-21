@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/69711e2651f726477183562b?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Jan 21 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Corporate IT Services - Campus 2026](https://jobright.ai/jobs/info/69711cc3333b6343a14d91de?utm_campaign=1058&utm_source=git)** | US - VA, McLean | On Site | Jan 21 |
+| **[Mauldin & Jenkins](http://mjcpa.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/69711c23333b6343a14d9172?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
+| **[Trinity Life Sciences](https://trinitylifesciences.com)** | **[Information Technology Summer Intern 2026](https://jobright.ai/jobs/info/69711bfa51f7264771835531?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | Jan 21 |
+| **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/69711bca333b6343a14d9134?utm_campaign=1058&utm_source=git)** | Woodbury, MN | On Site | Jan 21 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Corporate IT Services - Campus 2026](https://jobright.ai/jobs/info/69711b4751f72647718354ba?utm_campaign=1058&utm_source=git)** | US - TX, Austin | On Site | Jan 21 |
+| ↳ | **[Intern - Corporate IT Services - Campus 2026](https://jobright.ai/jobs/info/69711ad4587dfa0bb55ea921?utm_campaign=1058&utm_source=git)** | US - IL, Chicago | On Site | Jan 21 |
+| **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/697113cc587dfa0bb55ea5c5?utm_campaign=1058&utm_source=git)** | Hudson, WI | On Site | Jan 21 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Technical Writer Intern - Sunnyvale CA](https://jobright.ai/jobs/info/69710f3251f7264771834dcf?utm_campaign=1058&utm_source=git)** | United States-California-Sunnyvale | On Site | Jan 21 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Corporate Services](https://jobright.ai/jobs/info/69710ec651f7264771834d8e?utm_campaign=1058&utm_source=git)** | Mississauga | On Site | Jan 21 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Call Center Intern – Winter Haven](https://jobright.ai/jobs/info/69710c3b333b6343a14d88b4?utm_campaign=1058&utm_source=git)** | WINTER HAVEN OPERATIONS CENTER | Hybrid | Jan 21 |
@@ -64,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Hilb Group](http://hilbgroup.com)** | **[Commercial Lines Intern](https://jobright.ai/jobs/info/697108dc333b6343a14d8659?utm_campaign=1058&utm_source=git)** | Alpharetta GA | On Site | Jan 21 |
 | **[Qarbon Aerospace](https://qarbonaerospace.com)** | **[Intern, Information Technology](https://jobright.ai/jobs/info/697104d7587dfa0bb55e8bf8?utm_campaign=1058&utm_source=git)** | Red Oak, Red Oak, TX, US | On Site | Jan 21 |
 | **[Syntegon](https://www.syntegon.com/)** | **[Service Order Process Analyst Intern](https://jobright.ai/jobs/info/69606652a1bbea1d9a7b4068?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Jan 21 |
+| **[Wilderness Road Hospitality](https://wildernessroad.com/)** | **[Hospitality Intern](https://jobright.ai/jobs/info/69711cd9587dfa0bb55eaa02?utm_campaign=1058&utm_source=git)** | Stanford, KY | On Site | Jan 21 |
 | **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern- Medical Specialty Unit, PRN](https://jobright.ai/jobs/info/6970fae5587dfa0bb55e7ea9?utm_campaign=1058&utm_source=git)** | Saint Luke's East Hospital   |   100 NE Saint Lukes Blvd   |   Lees Summit   |   MO | On Site | Jan 21 |
 | **[Experience Vacation Rentals](ExperienceVacationRentals.com)** | **[Summer Internship Program / Sales & Customer Service Focused / Premier Guest & Hospitality Experience](https://jobright.ai/jobs/info/6970fa5951f7264771832ac5?utm_campaign=1058&utm_source=git)** | Greater Philadelphia | On Site | Jan 21 |
 | **[ZOLL Cardiac Management Solutions](https://cardiac.zoll.com/)** | **[IT Application Intern](https://jobright.ai/jobs/info/6970f9a0587dfa0bb55e7db3?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 21 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Pharmacy Intern - Mail Center, Per Diem](https://jobright.ai/jobs/info/69705c6151f726477182b1cf?utm_campaign=1058&utm_source=git)** | Manchester, NH | On Site | Jan 20 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Intern Rooms (Front Desk/Guest Services) - Summer 2026](https://jobright.ai/jobs/info/69705a9251f7264771829ece?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Jan 20 |
 | **[UL Standards & Engagement](https://ulse.org)** | **[Summer 2026 IT Operations Intern](https://jobright.ai/jobs/info/69705078587dfa0bb55dd73f?utm_campaign=1058&utm_source=git)** | Evanston, IL | Hybrid | Jan 20 |
-| **[Empyrean](http://www.goempyrean.com)** | **[Client Operations Internship (Minneapolis)](https://jobright.ai/jobs/info/69704d85333b6343a14cbc2c?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Jan 20 |
-| **[CHANDON](https://www.chandon.com.au)** | **[Harvest Internship 2026](https://jobright.ai/jobs/info/69704635587dfa0bb55dc5b7?utm_campaign=1058&utm_source=git)** | Yountville, California, United States | On Site | Jan 20 |
-| **[Wellstar Health System](https://www.wellstar.org)** | **[Anesthesia Intern PRN - Augusta, GA](https://jobright.ai/jobs/info/6970444f333b6343a14caaca?utm_campaign=1058&utm_source=git)** | AU Medical Center, Inc. | On Site | Jan 20 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Customer Experience Strategic Research Graduate Intern](https://jobright.ai/jobs/info/697042e051f7264771827279?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Jan 20 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Student Nursing Intern](https://jobright.ai/jobs/info/697042d651f726477182726f?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Jan 20 |
-| **[USA Health](https://www.usahealthsystem.com/)** | **[Nursing Intern (PRN) - 9th floor - Providence Hospital](https://jobright.ai/jobs/info/6970613a587dfa0bb55e066f?utm_campaign=1058&utm_source=git)** | Mobile, AL | On Site | Jan 20 |
-| **[The Mesothelioma Center at Asbestos.com](https://www.asbestos.com/)** | **[Data Entry Intern](https://jobright.ai/jobs/info/69703fa3587dfa0bb55dc284?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Jan 20 |
-| **[Empyrean](http://www.goempyrean.com)** | **[IT End User Support Internship](https://jobright.ai/jobs/info/697038d851f726477182697f?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Jan 20 |
-| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Information Technology Assistant (Level I) - ITS (Student Employee)](https://jobright.ai/jobs/info/69682650639b452fb57db694?utm_campaign=1058&utm_source=git)** | Conway, SC | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
