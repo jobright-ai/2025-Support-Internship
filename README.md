@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Document Management Solutions Intern Summer 2026](https://jobright.ai/jobs/info/68ffe53f0ab3b222462afb5b?utm_campaign=1058&utm_source=git)** | Cranberry Township, PA | Hybrid | Jan 21 |
+| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/68f6ce4776a51a4307bde5d6?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | Jan 21 |
+| ↳ | **[Pharmacy Intern P1](https://jobright.ai/jobs/info/69069706122e8474c78e046b?utm_campaign=1058&utm_source=git)** | Auburn, NY | On Site | Jan 21 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Technical Project Managed Services Intern](https://jobright.ai/jobs/info/6970b832587dfa0bb55e4890?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | Hybrid | Jan 21 |
+| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/6906980fff462851fe004cd6?utm_campaign=1058&utm_source=git)** | Auburn, NY | On Site | Jan 21 |
+| ↳ | **[Pharmacy Intern P2](https://jobright.ai/jobs/info/6960728c7ebc25398eb668d6?utm_campaign=1058&utm_source=git)** | Ithaca, NY | On Site | Jan 21 |
+| ↳ | **[Pharmacy Intern P1](https://jobright.ai/jobs/info/68f6cb3c9a65fd34585972f6?utm_campaign=1058&utm_source=git)** | Ithaca, NY | On Site | Jan 21 |
+| ↳ | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/6959e379aa05c26e7ab383eb?utm_campaign=1058&utm_source=git)** | Ithaca, NY | On Site | Jan 21 |
+| ↳ | **[Pharmacy Intern P2](https://jobright.ai/jobs/info/69327a2ff131d96e4845c89a?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | Jan 21 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/691be47422a2cb4b9bd17333?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Jan 21 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Food & Beverage Internship- Summer](https://jobright.ai/jobs/info/695485cff1f8465b79ebb836?utm_campaign=1058&utm_source=git)** | Teton Village, WY | On Site | Jan 21 |
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Customer Experience Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69709366587dfa0bb55e25c6?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
@@ -64,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/697091c7333b6343a14d0ca4?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 21 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Internship (Mayfield)](https://jobright.ai/jobs/info/695dd627e4cdbb1454cfccd2?utm_campaign=1058&utm_source=git)** | Mayfield, KY | On Site | Jan 21 |
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Customer Experience Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69708bfa51f726477182d024?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 21 |
+| **[Sukup Manufacturing Co.](https://www.sukup.com/)** | **[IT Internship](https://jobright.ai/jobs/info/6970b0aa333b6343a14d2e9e?utm_campaign=1058&utm_source=git)** | Sheffield, IA | On Site | Jan 20 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, OFFICE AND CLERICAL SUPPORT](https://jobright.ai/jobs/info/697085d9333b6343a14d0788?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jan 20 |
 | **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/695f2346a112b402660deccd?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | Jan 20 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, INFORMATION TECHNOLOGY SUPPORT](https://jobright.ai/jobs/info/69707e08333b6343a14d01de?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jan 20 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Discovery Land Company](http://discoverylandco.com)** | **[Private Events Intern](https://jobright.ai/jobs/info/696fe27582817106e976e79f?utm_campaign=1058&utm_source=git)** | Coeur d'Alene, ID | On Site | Jan 20 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943a5e5dd382f5f5669c041?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 20 |
 | **[Empyrean](http://www.goempyrean.com)** | **[Client Operations Internship (Houston)](https://jobright.ai/jobs/info/697005c982817106e9772326?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Jan 20 |
-| **[Grand Hotel Golf Resort and Spa, Autograph Collection](www.grand1847.com)** | **[Intern/Extern](https://jobright.ai/jobs/info/696ffff982817106e9771d3d?utm_campaign=1058&utm_source=git)** | Point Clear, AL | On Site | Jan 20 |
-| **[Children's Wisconsin](https://childrenswi.org/)** | **[Nurse Intern West 3 Cardiac PICU](https://jobright.ai/jobs/info/696fde393ed06875134ac7ae?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Jan 20 |
-| **[Bismarck Public Schools](https://www.bismarckschools.org)** | **[BPS Technology Support Specialist - Student Intern II](https://jobright.ai/jobs/info/6970049b3ed06875134b04e4?utm_campaign=1058&utm_source=git)** | Bismarck, ND | On Site | Jan 20 |
-| **[Essentia Health](https://www.essentiahealth.org/)** | **[Intern- Pharmacist](https://jobright.ai/jobs/info/696fdd5782817106e976e22d?utm_campaign=1058&utm_source=git)** | Brainerd, MN | On Site | Jan 20 |
-| **[Health Connect America](https://healthconnectamerica.com)** | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fdd0482817106e976e1d6?utm_campaign=1058&utm_source=git)** | US-GA-Tyrone | Hybrid | Jan 20 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fdbfc0f4e0f657ea421eb?utm_campaign=1058&utm_source=git)** | US-GA-Columbus | Hybrid | Jan 20 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fdbd082817106e976e088?utm_campaign=1058&utm_source=git)** | US-GA-Gainesville | Hybrid | Jan 20 |
-| **[Waldron Private Wealth](http://www.waldronprivatewealth.com)** | **[Client Service Intern - Summer 2026](https://jobright.ai/jobs/info/696ff75a3ed06875134af08e?utm_campaign=1058&utm_source=git)** | Bridgeville, PA | On Site | Jan 20 |
-| **[Health Connect America](https://healthconnectamerica.com)** | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fd9d10f4e0f657ea41f9a?utm_campaign=1058&utm_source=git)** | US-GA-Dalton | Hybrid | Jan 20 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fd99582817106e976ddfc?utm_campaign=1058&utm_source=git)** | Dalton | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
