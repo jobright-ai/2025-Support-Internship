@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/691be47422a2cb4b9bd17333?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Jan 21 |
+| **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Food & Beverage Internship- Summer](https://jobright.ai/jobs/info/695485cff1f8465b79ebb836?utm_campaign=1058&utm_source=git)** | Teton Village, WY | On Site | Jan 21 |
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Customer Experience Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69709366587dfa0bb55e25c6?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Intensive Care Unit](https://jobright.ai/jobs/info/69709203333b6343a14d0cb3?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Jan 21 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/697091c7333b6343a14d0ca4?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Waldron Private Wealth](http://www.waldronprivatewealth.com)** | **[Client Service Intern - Summer 2026](https://jobright.ai/jobs/info/696ff75a3ed06875134af08e?utm_campaign=1058&utm_source=git)** | Bridgeville, PA | On Site | Jan 20 |
 | **[Health Connect America](https://healthconnectamerica.com)** | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fd9d10f4e0f657ea41f9a?utm_campaign=1058&utm_source=git)** | US-GA-Dalton | Hybrid | Jan 20 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fd99582817106e976ddfc?utm_campaign=1058&utm_source=git)** | Dalton | Hybrid | Jan 20 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fd95682817106e976ddb4?utm_campaign=1058&utm_source=git)** | US-GA-Dallas | Hybrid | Jan 20 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fd8643ed06875134ac0c0?utm_campaign=1058&utm_source=git)** | US-GA-Woodstock | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
