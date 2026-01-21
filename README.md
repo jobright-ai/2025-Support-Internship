@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum Reach](https://www.spectrumreach.com)** | **[Customer Experience Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69709366587dfa0bb55e25c6?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Intensive Care Unit](https://jobright.ai/jobs/info/69709203333b6343a14d0cb3?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Jan 21 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/697091c7333b6343a14d0ca4?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 21 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Internship (Mayfield)](https://jobright.ai/jobs/info/695dd627e4cdbb1454cfccd2?utm_campaign=1058&utm_source=git)** | Mayfield, KY | On Site | Jan 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fd99582817106e976ddfc?utm_campaign=1058&utm_source=git)** | Dalton | Hybrid | Jan 20 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fd95682817106e976ddb4?utm_campaign=1058&utm_source=git)** | US-GA-Dallas | Hybrid | Jan 20 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fd8643ed06875134ac0c0?utm_campaign=1058&utm_source=git)** | US-GA-Woodstock | Hybrid | Jan 20 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fd8223ed06875134ac068?utm_campaign=1058&utm_source=git)** | US-GA-Statesboro | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
