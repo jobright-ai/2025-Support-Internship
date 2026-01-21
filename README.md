@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/695f2346a112b402660deccd?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | Jan 20 |
+| **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, INFORMATION TECHNOLOGY SUPPORT](https://jobright.ai/jobs/info/69707e08333b6343a14d01de?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jan 20 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS Card Center Student Assistant](https://jobright.ai/jobs/info/697076d251f726477182c566?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Jan 20 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Intern, VeraTech](https://jobright.ai/jobs/info/69706fe551f726477182c378?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | On Site | Jan 20 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/697064c1587dfa0bb55e082c?utm_campaign=1058&utm_source=git)** | Glendale, AZ | On Site | Jan 20 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6970646951f726477182b5f7?utm_campaign=1058&utm_source=git)** | Tenafly, NJ | On Site | Jan 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fd6963ed06875134abe9a?utm_campaign=1058&utm_source=git)** | US-GA-Atlanta | Hybrid | Jan 20 |
 | **[Teledyne Technologies Incorporated](http://www.teledyne.com)** | **[Intern Technical Service/ Customer Support](https://jobright.ai/jobs/info/696fd67982817106e976da6c?utm_campaign=1058&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 20 |
 | **[Apptegy](http://www.apptegy.com)** | **[Client Experience Internship](https://jobright.ai/jobs/info/696fd5083ed06875134abce1?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Jan 20 |
-| **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern Med Surg Intermediate](https://jobright.ai/jobs/info/696ff3ba82817106e977004e?utm_campaign=1058&utm_source=git)** | Saint Luke's South Hospital   |   12300 Metcalf Ave   |   Overland Park   |   KS | On Site | Jan 20 |
-| **[Boys Town](https://www.boystown.org/Pages/default.aspx)** | **[Pharmacy Intern (Part-Time)](https://jobright.ai/jobs/info/696fcad282817106e976d610?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Jan 20 |
-| **[Okta](http://www.okta.com)** | **[Technical Account Management Intern (Summer 2026)](https://jobright.ai/jobs/info/696fca553ed06875134ab7c6?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
