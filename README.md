@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Intern, VeraTech](https://jobright.ai/jobs/info/69706fe551f726477182c378?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | On Site | Jan 20 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/697064c1587dfa0bb55e082c?utm_campaign=1058&utm_source=git)** | Glendale, AZ | On Site | Jan 20 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6970646951f726477182b5f7?utm_campaign=1058&utm_source=git)** | Tenafly, NJ | On Site | Jan 20 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6970644e587dfa0bb55e07f5?utm_campaign=1058&utm_source=git)** | Danville, PA | On Site | Jan 20 |
@@ -99,6 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Parsons Corporation](http://www.parsons.com)** | **[Salesforce 6 month internship (remote)](https://jobright.ai/jobs/info/697016650f4e0f657ea47194?utm_campaign=1058&utm_source=git)** | US - Remote (Any Location) | Remote | Jan 20 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/697011ce3ed06875134b1076?utm_campaign=1058&utm_source=git)** | Chapel Hill, NC | On Site | Jan 20 |
 | **[Aires](https://www.aires.com)** | **[2026 Summer Immigration Intern](https://jobright.ai/jobs/info/697010c73ed06875134b0f51?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 20 |
+| **[1st Source Bank](https://www.1stsource.com/)** | **[Intern, Information Technology Operations Support, South Bend, IN (Summer 2026)](https://jobright.ai/jobs/info/6970693d333b6343a14cf9c1?utm_campaign=1058&utm_source=git)** | South Bend, IN | On Site | Jan 20 |
+| ↳ | **[Intern, Information Technology Delivery, South Bend, IN (Summer 2026)](https://jobright.ai/jobs/info/69706bdd51f726477182c151?utm_campaign=1058&utm_source=git)** | South Bend, IN | On Site | Jan 20 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[IT Client Service Specialist Intern](https://jobright.ai/jobs/info/6945c67fd1953b5d11bec691?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Jan 20 |
 | **[CHANDON](https://www.chandon.com.au)** | **[Harvest Internship 2026](https://jobright.ai/jobs/info/69703b69333b6343a14ca485?utm_campaign=1058&utm_source=git)** | Yountville, CA | On Site | Jan 20 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69700b7482817106e97727af?utm_campaign=1058&utm_source=git)** | Cary, NC | On Site | Jan 20 |
@@ -121,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Ephrata National Bank](http://epnb.com)** | **[IT Service and Support Specialist Intern](https://jobright.ai/jobs/info/696ff6dc3ed06875134aef0b?utm_campaign=1058&utm_source=git)** | Technology Center Building, Ephrata, PA, US | On Site | Jan 20 |
 | **[Gozzer Ranch Golf and Lake Club](https://gozzerranchclub.com/)** | **[Private Events Intern](https://jobright.ai/jobs/info/697018ae82817106e977334f?utm_campaign=1058&utm_source=git)** | Spokane-CdA Area | On Site | Jan 20 |
 | **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern Med Surg Intermediate](https://jobright.ai/jobs/info/69704fb1587dfa0bb55dd696?utm_campaign=1058&utm_source=git)** | Overland Park, KS | On Site | Jan 20 |
+| **[CRH](http://crh.com)** | **[Intern - Ready Mix](https://jobright.ai/jobs/info/69706e1f51f726477182c280?utm_campaign=1058&utm_source=git)** | Tell City, IN | On Site | Jan 20 |
 | **[Brentwood Water & Wastewater](http://www.brentwoodindustries.com)** | **[IT Intern](https://jobright.ai/jobs/info/696ff0e782817106e976f878?utm_campaign=1058&utm_source=git)** | Reading, PA, US | On Site | Jan 20 |
 | **[Guardian Pharmacy](https://guardianpharmacy.com)** | **[Graduate Pharmacist Intern](https://jobright.ai/jobs/info/696fefae0f4e0f657ea43808?utm_campaign=1058&utm_source=git)** | San Diego, California | On Site | Jan 20 |
 | **[IEWC](http://iewc.com)** | **[Customer Service/Sales Intern (Summer 2025)](https://jobright.ai/jobs/info/677783ccd1e4a616434a3332?utm_campaign=1058&utm_source=git)** | New Berlin, WI | On Site | Jan 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern Med Surg Intermediate](https://jobright.ai/jobs/info/696ff3ba82817106e977004e?utm_campaign=1058&utm_source=git)** | Saint Luke's South Hospital   |   12300 Metcalf Ave   |   Overland Park   |   KS | On Site | Jan 20 |
 | **[Boys Town](https://www.boystown.org/Pages/default.aspx)** | **[Pharmacy Intern (Part-Time)](https://jobright.ai/jobs/info/696fcad282817106e976d610?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Jan 20 |
 | **[Okta](http://www.okta.com)** | **[Technical Account Management Intern (Summer 2026)](https://jobright.ai/jobs/info/696fca553ed06875134ab7c6?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
-| **[Empower AI](https://www.empower.ai/)** | **[EUD Desktop Support Technician (Intern)](https://jobright.ai/jobs/info/696fc6e70f4e0f657ea413b0?utm_campaign=1058&utm_source=git)** | Alexandria, VA | On Site | Jan 20 |
-| **[Health Connect America](https://healthconnectamerica.com)** | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fe42c3ed06875134acd6d?utm_campaign=1058&utm_source=git)** | US-GA-Snellville | Hybrid | Jan 20 |
-| **[Lansing Board of Water & Light](http://lbwl.com)** | **[Intern, AMI](https://jobright.ai/jobs/info/692e2590fa28370be26a1bf9?utm_campaign=1058&utm_source=git)** | Lansing, MI | On Site | Jan 20 |
-| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[IT Customer Services Summer (STAR) Intern](https://jobright.ai/jobs/info/696fc2e13ed06875134ab39f?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
