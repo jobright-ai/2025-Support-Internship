@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37f861852e62f007fc3f0?utm_campaign=1058&utm_source=git)** | Riverview, FL | On Site | Jan 21 |
+| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37e29b99ec3563b0e0b8f?utm_campaign=1058&utm_source=git)** | North Charleston, SC | On Site | Jan 21 |
+| **[National Interstate Insurance Company](https://natl.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/693920af56b68f3dc4e69b7e?utm_campaign=1058&utm_source=git)** | Richfield, OH | On Site | Jan 21 |
+| **[Copart](http://www.copart.com)** | **[Corp Support Intern](https://jobright.ai/jobs/info/6906db25ff462851fe005c34?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
+| **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68ccfe0d77add66568abd516?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 21 |
+| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Nuclear Pharmacy Summer Intern](https://jobright.ai/jobs/info/694791237d506e3808f2d262?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Jan 21 |
+| **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/682977756dd7e5f8b5d79e42?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Jan 21 |
+| **[Nokia](http://www.nokia.com)** | **[Customer Technical Support Co-op/Intern](https://jobright.ai/jobs/info/6938ae48b95c305f206dec29?utm_campaign=1058&utm_source=git)** | Kanata, Ontario, Canada | On Site | Jan 21 |
+| **[AbbVie](https://www.abbvie.com)** | **[2026 Pharmacy Intern (PharmD)](https://jobright.ai/jobs/info/6938ad4eaabec14a727d9d38?utm_campaign=1058&utm_source=git)** | North Chicago, IL | On Site | Jan 21 |
+| **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/68c8d822983e6768bc551e9a?utm_campaign=1058&utm_source=git)** | Memphis, TN | Hybrid | Jan 21 |
+| **[Loram Maintenance of Way, Inc.](http://jobs.loram.com)** | **[Technical Communications Intern](https://jobright.ai/jobs/info/6954357b5bb7de448ef71eb6?utm_campaign=1058&utm_source=git)** | Hamel, MN | On Site | Jan 21 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Document Management Solutions Intern Summer 2026](https://jobright.ai/jobs/info/68ffe53f0ab3b222462afb5b?utm_campaign=1058&utm_source=git)** | Cranberry Township, PA | Hybrid | Jan 21 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/68f6ce4776a51a4307bde5d6?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | Jan 21 |
 | ↳ | **[Pharmacy Intern P1](https://jobright.ai/jobs/info/69069706122e8474c78e046b?utm_campaign=1058&utm_source=git)** | Auburn, NY | On Site | Jan 21 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ephrata National Bank](http://epnb.com)** | **[IT Service and Support Specialist Intern](https://jobright.ai/jobs/info/696ff6dc3ed06875134aef0b?utm_campaign=1058&utm_source=git)** | Technology Center Building, Ephrata, PA, US | On Site | Jan 20 |
 | **[Gozzer Ranch Golf and Lake Club](https://gozzerranchclub.com/)** | **[Private Events Intern](https://jobright.ai/jobs/info/697018ae82817106e977334f?utm_campaign=1058&utm_source=git)** | Spokane-CdA Area | On Site | Jan 20 |
 | **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern Med Surg Intermediate](https://jobright.ai/jobs/info/69704fb1587dfa0bb55dd696?utm_campaign=1058&utm_source=git)** | Overland Park, KS | On Site | Jan 20 |
-| **[CRH](http://crh.com)** | **[Intern - Ready Mix](https://jobright.ai/jobs/info/69706e1f51f726477182c280?utm_campaign=1058&utm_source=git)** | Tell City, IN | On Site | Jan 20 |
-| **[Brentwood Water & Wastewater](http://www.brentwoodindustries.com)** | **[IT Intern](https://jobright.ai/jobs/info/696ff0e782817106e976f878?utm_campaign=1058&utm_source=git)** | Reading, PA, US | On Site | Jan 20 |
-| **[Guardian Pharmacy](https://guardianpharmacy.com)** | **[Graduate Pharmacist Intern](https://jobright.ai/jobs/info/696fefae0f4e0f657ea43808?utm_campaign=1058&utm_source=git)** | San Diego, California | On Site | Jan 20 |
-| **[IEWC](http://iewc.com)** | **[Customer Service/Sales Intern (Summer 2025)](https://jobright.ai/jobs/info/677783ccd1e4a616434a3332?utm_campaign=1058&utm_source=git)** | New Berlin, WI | On Site | Jan 20 |
-| **[McLaren Health Care](http://www.mclaren.org)** | **[Respiratory Intern](https://jobright.ai/jobs/info/696fe8733ed06875134ad2af?utm_campaign=1058&utm_source=git)** | Mount Clemens, MI | On Site | Jan 20 |
-| **[Northmarq](http://www.northmarq.com)** | **[Insurance Intern, Summer 2026](https://jobright.ai/jobs/info/696fe6d10f4e0f657ea42da3?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Jan 20 |
-| **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[Facility Support Systems Summer Intern](https://jobright.ai/jobs/info/692f516cef4b48533d14424f?utm_campaign=1058&utm_source=git)** | Aiken, SC | On Site | Jan 20 |
-| **[Northmarq](http://www.northmarq.com)** | **[Insurance Intern, Summer 2026](https://jobright.ai/jobs/info/696fe3723ed06875134acc9f?utm_campaign=1058&utm_source=git)** | Minneapolis, Minnesota, United States | On Site | Jan 20 |
-| **[Discovery Land Company](http://discoverylandco.com)** | **[Private Events Intern](https://jobright.ai/jobs/info/696fe27582817106e976e79f?utm_campaign=1058&utm_source=git)** | Coeur d'Alene, ID | On Site | Jan 20 |
-| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943a5e5dd382f5f5669c041?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 20 |
-| **[Empyrean](http://www.goempyrean.com)** | **[Client Operations Internship (Houston)](https://jobright.ai/jobs/info/697005c982817106e9772326?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
