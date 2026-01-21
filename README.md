@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Technical Writer Intern - Sunnyvale CA](https://jobright.ai/jobs/info/69710f3251f7264771834dcf?utm_campaign=1058&utm_source=git)** | United States-California-Sunnyvale | On Site | Jan 21 |
+| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Corporate Services](https://jobright.ai/jobs/info/69710ec651f7264771834d8e?utm_campaign=1058&utm_source=git)** | Mississauga | On Site | Jan 21 |
+| **[SouthState Bank](https://southstatebank.com)** | **[Call Center Intern – Winter Haven](https://jobright.ai/jobs/info/69710c3b333b6343a14d88b4?utm_campaign=1058&utm_source=git)** | WINTER HAVEN OPERATIONS CENTER | Hybrid | Jan 21 |
+| **[Parkland Health](https://www.parklandhealth.org)** | **[High School Intern PRN Summer 2026](https://jobright.ai/jobs/info/696c52ecdb26b618950fa13f?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
+| **[Hilb Group](http://hilbgroup.com)** | **[Commercial Lines Intern](https://jobright.ai/jobs/info/697108dc333b6343a14d8659?utm_campaign=1058&utm_source=git)** | Alpharetta GA | On Site | Jan 21 |
+| **[Qarbon Aerospace](https://qarbonaerospace.com)** | **[Intern, Information Technology](https://jobright.ai/jobs/info/697104d7587dfa0bb55e8bf8?utm_campaign=1058&utm_source=git)** | Red Oak, Red Oak, TX, US | On Site | Jan 21 |
 | **[Syntegon](https://www.syntegon.com/)** | **[Service Order Process Analyst Intern](https://jobright.ai/jobs/info/69606652a1bbea1d9a7b4068?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Jan 21 |
 | **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern- Medical Specialty Unit, PRN](https://jobright.ai/jobs/info/6970fae5587dfa0bb55e7ea9?utm_campaign=1058&utm_source=git)** | Saint Luke's East Hospital   |   100 NE Saint Lukes Blvd   |   Lees Summit   |   MO | On Site | Jan 21 |
 | **[Experience Vacation Rentals](ExperienceVacationRentals.com)** | **[Summer Internship Program / Sales & Customer Service Focused / Premier Guest & Hospitality Experience](https://jobright.ai/jobs/info/6970fa5951f7264771832ac5?utm_campaign=1058&utm_source=git)** | Greater Philadelphia | On Site | Jan 21 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Mesothelioma Center at Asbestos.com](https://www.asbestos.com/)** | **[Data Entry Intern](https://jobright.ai/jobs/info/69703fa3587dfa0bb55dc284?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Jan 20 |
 | **[Empyrean](http://www.goempyrean.com)** | **[IT End User Support Internship](https://jobright.ai/jobs/info/697038d851f726477182697f?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Jan 20 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Information Technology Assistant (Level I) - ITS (Student Employee)](https://jobright.ai/jobs/info/69682650639b452fb57db694?utm_campaign=1058&utm_source=git)** | Conway, SC | On Site | Jan 20 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Student Nursing Intern](https://jobright.ai/jobs/info/697034a9333b6343a14c9d7b?utm_campaign=1058&utm_source=git)** | US-FL-Jacksonville | On Site | Jan 20 |
-| **[Empyrean](http://www.goempyrean.com)** | **[Client Operations Internship (Minneapolis)](https://jobright.ai/jobs/info/697033ef333b6343a14c9ceb?utm_campaign=1058&utm_source=git)** | Minneapolis, 15 S 5th St, Minneapolis, Minnesota, United States of America | On Site | Jan 20 |
-| ↳ | **[Client Experience Internship](https://jobright.ai/jobs/info/697050f1333b6343a14cbe66?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Jan 20 |
-| ↳ | **[IT End User Support Internship](https://jobright.ai/jobs/info/6970309e333b6343a14c99c8?utm_campaign=1058&utm_source=git)** | Minneapolis, 15 S 5th St, Minneapolis, Minnesota, United States of America | On Site | Jan 20 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Internship- Food and Beverage (Starting Spring 2026)](https://jobright.ai/jobs/info/69702ede51f7264771825f0c?utm_campaign=1058&utm_source=git)** | US-TX-Fort Worth | On Site | Jan 20 |
-| **[Optum](https://www.optum.com/)** | **[Pharmacist Intern Behavioral Health](https://jobright.ai/jobs/info/69702d02587dfa0bb55daf34?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
