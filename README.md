@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Intensive Care Unit](https://jobright.ai/jobs/info/69709203333b6343a14d0cb3?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Jan 21 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/697091c7333b6343a14d0ca4?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 21 |
+| **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Internship (Mayfield)](https://jobright.ai/jobs/info/695dd627e4cdbb1454cfccd2?utm_campaign=1058&utm_source=git)** | Mayfield, KY | On Site | Jan 21 |
+| **[Spectrum Reach](https://www.spectrumreach.com)** | **[Customer Experience Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/69708bfa51f726477182d024?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 21 |
+| **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, OFFICE AND CLERICAL SUPPORT](https://jobright.ai/jobs/info/697085d9333b6343a14d0788?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jan 20 |
 | **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/695f2346a112b402660deccd?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | Jan 20 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, INFORMATION TECHNOLOGY SUPPORT](https://jobright.ai/jobs/info/69707e08333b6343a14d01de?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jan 20 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[FWS Card Center Student Assistant](https://jobright.ai/jobs/info/697076d251f726477182c566?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Jan 20 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Intern, VeraTech](https://jobright.ai/jobs/info/69706fe551f726477182c378?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | On Site | Jan 20 |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/697087be333b6343a14d08e3?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Jan 20 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/697064c1587dfa0bb55e082c?utm_campaign=1058&utm_source=git)** | Glendale, AZ | On Site | Jan 20 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6970646951f726477182b5f7?utm_campaign=1058&utm_source=git)** | Tenafly, NJ | On Site | Jan 20 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6970644e587dfa0bb55e07f5?utm_campaign=1058&utm_source=git)** | Danville, PA | On Site | Jan 20 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fd95682817106e976ddb4?utm_campaign=1058&utm_source=git)** | US-GA-Dallas | Hybrid | Jan 20 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fd8643ed06875134ac0c0?utm_campaign=1058&utm_source=git)** | US-GA-Woodstock | Hybrid | Jan 20 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fd8223ed06875134ac068?utm_campaign=1058&utm_source=git)** | US-GA-Statesboro | Hybrid | Jan 20 |
-| **[Okta](http://www.okta.com)** | **[Technical Account Management Intern (Summer 2026)](https://jobright.ai/jobs/info/696fd7a30f4e0f657ea41d32?utm_campaign=1058&utm_source=git)** | Chicago, Illinois | On Site | Jan 20 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Walk-In Services Intern Spring 2026](https://jobright.ai/jobs/info/6969569c639b452fb57f220b?utm_campaign=1058&utm_source=git)** | Baltimore, MD | Hybrid | Jan 20 |
-| **[Health Connect America](https://healthconnectamerica.com)** | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fd6f10f4e0f657ea41c7b?utm_campaign=1058&utm_source=git)** | US-GA-Jesup | Hybrid | Jan 20 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/696fd6963ed06875134abe9a?utm_campaign=1058&utm_source=git)** | US-GA-Atlanta | Hybrid | Jan 20 |
-| **[Teledyne Technologies Incorporated](http://www.teledyne.com)** | **[Intern Technical Service/ Customer Support](https://jobright.ai/jobs/info/696fd67982817106e976da6c?utm_campaign=1058&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 20 |
-| **[Apptegy](http://www.apptegy.com)** | **[Client Experience Internship](https://jobright.ai/jobs/info/696fd5083ed06875134abce1?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
