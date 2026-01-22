@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MercyOne](https://www.mercyone.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69719cff333b6343a14e362a?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
+| **[The Hartford](http://www.thehartford.com)** | **[Intern, PL Eastern Claims](https://jobright.ai/jobs/info/69719cdd587dfa0bb55f4bc5?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Jan 21 |
+| ↳ | **[Intern, PL Eastern Claims](https://jobright.ai/jobs/info/69719b2251f726477183f52d?utm_campaign=1058&utm_source=git)** | Hartford, CT | On Site | Jan 21 |
+| **[Cub](https://www.cub.com)** | **[Cub Pharmacy Intern - Saint Anthony](https://jobright.ai/jobs/info/69719881333b6343a14e3250?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Jan 21 |
+| **[Gray](http://ow.ly/Ed7S50BKOV3)** | **[IT Services Intern](https://jobright.ai/jobs/info/6971978f333b6343a14e3197?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Jan 21 |
+| **[BayCare Health System](https://baycare.org/bmg)** | **[BayCare EAYL Patient Care Tech Internship Program- January 2026- Mease Countryside](https://jobright.ai/jobs/info/6971913751f726477183ecc5?utm_campaign=1058&utm_source=git)** | Safety Harbor, FL | On Site | Jan 21 |
 | **[UL Research Institutes](https://ul.org)** | **[Summer 2026 Intern Library & Researcher Information Services](https://jobright.ai/jobs/info/69718f28333b6343a14e2a10?utm_campaign=1058&utm_source=git)** | Evanston, IL | Hybrid | Jan 21 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Warehouse Support Intern](https://jobright.ai/jobs/info/69718e39587dfa0bb55f3efb?utm_campaign=1058&utm_source=git)** | Washington, United States | Hybrid | Jan 21 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69718e13587dfa0bb55f3ee6?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
@@ -69,12 +75,15 @@ For a complete list, click the following sortable link below:
 | **[Janus Henderson Investors](https://www.janushenderson.com/henderson)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69717e0e51f726477183da80?utm_campaign=1058&utm_source=git)** | Denver, CO | Hybrid | Jan 21 |
 | **[SerenaGroup Inc.](https://serenagroups.com/)** | **[Medical Writer Intern](https://jobright.ai/jobs/info/69717cc8333b6343a14e1872?utm_campaign=1058&utm_source=git)** | Remote Worker - N/A | Remote | Jan 21 |
 | **[Precision Castparts](http://precast.com)** | **[IT Intern](https://jobright.ai/jobs/info/69717c8e333b6343a14e1831?utm_campaign=1058&utm_source=git)** | Spanish Fork, UT | On Site | Jan 21 |
+| **[Community Memorial Healthcare](https://www.mycmh.org)** | **[Intern Pharmacist](https://jobright.ai/jobs/info/697197c5587dfa0bb55f47a5?utm_campaign=1058&utm_source=git)** | Ventura, CA | On Site | Jan 21 |
 | **[City of Kenosha](https://www.kenosha.org)** | **[Special Events Intern](https://jobright.ai/jobs/info/697179dc51f726477183d5b2?utm_campaign=1058&utm_source=git)** | Kenosha, WI | On Site | Jan 21 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Data Support Analyst Intern – Supply Chain](https://jobright.ai/jobs/info/697179d851f726477183d5ab?utm_campaign=1058&utm_source=git)** | 19 - Toronto Head Office150 King Street West | On Site | Jan 21 |
+| **[Bayhealth](https://www.bayhealth.org/)** | **[Nursing Assistant Intern](https://jobright.ai/jobs/info/69719d76333b6343a14e366a?utm_campaign=1058&utm_source=git)** | Dover, DE | On Site | Jan 21 |
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Medical Imaging Intern](https://jobright.ai/jobs/info/69717945333b6343a14e145b?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Jan 21 |
 | **[Bandit Lites, Inc.](http://banditlites.com)** | **[IT Internship](https://jobright.ai/jobs/info/6971782d587dfa0bb55f2a1f?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Jan 21 |
 | **[Heritage Landscape Supply Group, Inc.](https://www.heritagelandscapesupplygroup.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/6971777851f726477183d3a5?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | Jan 21 |
 | **[Optum](https://www.optum.com/)** | **[Pharmacist Intern Behavioral Health](https://jobright.ai/jobs/info/697176e951f726477183d360?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Jan 21 |
+| **[Alston Construction](https://alstonco.com/)** | **[Field Intern - Mission Critical](https://jobright.ai/jobs/info/69719c0051f726477183f5d9?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/697170f3587dfa0bb55f0e7f?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Jan 21 |
 | **[Philadelphia Eagles](http://www.philadelphiaeagles.com)** | **[Ticket and Fan Services Academic Internship (Summer 2026)](https://jobright.ai/jobs/info/69716eda587dfa0bb55f0d6a?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
 | **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern - Technical Services (May 2026)](https://jobright.ai/jobs/info/69716e1d587dfa0bb55f0ce5?utm_campaign=1058&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 21 |
@@ -104,6 +113,8 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Research, Training, & Processing Intern – Paid Internship (Church History Library)](https://jobright.ai/jobs/info/69714c5251f726477183928c?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jan 21 |
 | **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/69714a2d587dfa0bb55ee227?utm_campaign=1058&utm_source=git)** | McKinney, Texas | On Site | Jan 21 |
 | **[Aquarion Water Company](http://www.aquarionwater.com)** | **[Intern, Service](https://jobright.ai/jobs/info/6971491e333b6343a14dc840?utm_campaign=1058&utm_source=git)** | Bridgeport, CT, US, 06606 | On Site | Jan 21 |
+| **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern- Medical Telemetry, PRN](https://jobright.ai/jobs/info/697197fa333b6343a14e31e4?utm_campaign=1058&utm_source=git)** | Lees Summit, MO | On Site | Jan 21 |
+| ↳ | **[Nursing Intern- Medical Specialty Unit, PRN](https://jobright.ai/jobs/info/697197e4587dfa0bb55f47c4?utm_campaign=1058&utm_source=git)** | Lees Summit, MO | On Site | Jan 21 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Corporate Services](https://jobright.ai/jobs/info/69716685333b6343a14def66?utm_campaign=1058&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 21 |
 | **[ZOLL Cardiac Management Solutions](https://cardiac.zoll.com/)** | **[IT Application Intern](https://jobright.ai/jobs/info/6971460b587dfa0bb55ed7f8?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 21 |
 | **[Gray](http://ow.ly/Ed7S50BKOV3)** | **[IT Services Intern](https://jobright.ai/jobs/info/69714419587dfa0bb55ed36a?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Jan 21 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/69711e2651f726477183562b?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Jan 21 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Corporate IT Services - Campus 2026](https://jobright.ai/jobs/info/69711cc3333b6343a14d91de?utm_campaign=1058&utm_source=git)** | US - VA, McLean | On Site | Jan 21 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/69711c23333b6343a14d9172?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
-| **[Trinity Life Sciences](https://trinitylifesciences.com)** | **[Information Technology Summer Intern 2026](https://jobright.ai/jobs/info/69711bfa51f7264771835531?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | Jan 21 |
-| **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/69711bca333b6343a14d9134?utm_campaign=1058&utm_source=git)** | Woodbury, MN | On Site | Jan 21 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Corporate IT Services - Campus 2026](https://jobright.ai/jobs/info/69711b4751f72647718354ba?utm_campaign=1058&utm_source=git)** | US - TX, Austin | On Site | Jan 21 |
-| ↳ | **[Intern - Corporate IT Services - Campus 2026](https://jobright.ai/jobs/info/69711ad4587dfa0bb55ea921?utm_campaign=1058&utm_source=git)** | US - IL, Chicago | On Site | Jan 21 |
-| **[Lumicera Health Services](https://www.lumicera.com/)** | **[Technical Writer Summer Intern](https://jobright.ai/jobs/info/69713b85587dfa0bb55ec689?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 21 |
-| **[Tri-County Electric Cooperative, Inc.](https://www.tricountyelectric.org/)** | **[Summer Office Intern](https://jobright.ai/jobs/info/69718e0751f726477183e971?utm_campaign=1058&utm_source=git)** | Lancaster,MO,US | On Site | Jan 21 |
-| **[Stifel Financial Corp.](http://www.stifel.com)** | **[Operations - Technical Support Intern- Summer 2026](https://jobright.ai/jobs/info/6971397a333b6343a14dab8c?utm_campaign=1058&utm_source=git)** | US-MO-Saint Louis | On Site | Jan 21 |
-| **[Cencora](http://www.cencora.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6971333251f72647718368be?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
-| **[Henry Ford Health](http://www.henryford.com/)** | **[Pharmacy Intern - Contingent - Wyandotte](https://jobright.ai/jobs/info/69715d48333b6343a14de85b?utm_campaign=1058&utm_source=git)** | Wyandotte, Michigan | On Site | Jan 21 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Information Technology Intern](https://jobright.ai/jobs/info/6971357e333b6343a14da760?utm_campaign=1058&utm_source=git)** | Davidson NC  800D Beaty St, Davidson, North Carolina, United States | On Site | Jan 21 |
-| **[Spectrum](https://www.spectrum.com)** | **[Customer Experience Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697131fd587dfa0bb55ebaf9?utm_campaign=1058&utm_source=git)** | Charlotte, North Carolina | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
