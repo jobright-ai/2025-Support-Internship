@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Atrium Health Navicent](http://www.navicenthealth.org)** | **[Summer Rehab Aide Internship](https://jobright.ai/jobs/info/6971b6a9333b6343a14e6c38?utm_campaign=1058&utm_source=git)** | Macon, GA | On Site | Jan 21 |
+| **[AHMC HealthCare](http://AHMChealth.com)** | **[Intern Pharmacist-Per Diem](https://jobright.ai/jobs/info/6971c72251f7264771843981?utm_campaign=1058&utm_source=git)** | Anaheim, CA | On Site | Jan 21 |
+| **[Rapsodo](http://rapsodo.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6971c6c051f726477184396d?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Jan 21 |
+| **[Tri-City Medical Center](https://www.tricitymed.org)** | **[EKG TECHNICIAN INTERN](https://jobright.ai/jobs/info/6971c551587dfa0bb55f8f09?utm_campaign=1058&utm_source=git)** | Oceanside, CA | On Site | Jan 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6971b53c333b6343a14e6b2d?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Jan 21 |
 | **[Siemens](https://www.siemens.com)** | **[Customer Experience & Support Internship](https://jobright.ai/jobs/info/6971ac71333b6343a14e5613?utm_campaign=1058&utm_source=git)** | Wendell, NC | On Site | Jan 21 |
 | **[MercyOne](https://www.mercyone.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6971aaf851f7264771842054?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Summer Rehab Aide Internship](https://jobright.ai/jobs/info/6971475d587dfa0bb55edb72?utm_campaign=1058&utm_source=git)** | Navicent Rehabilitation Hospital - 3351 Northside Dr, Macon, GA | On Site | Jan 21 |
 | ↳ | **[Summer Rehab Aide Internship](https://jobright.ai/jobs/info/69714fc051f7264771839a0b?utm_campaign=1058&utm_source=git)** | Navicent Rehabilitation Hospital - 3351 Northside Dr, Macon, GA | On Site | Jan 21 |
 | **[Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the-johns-hopkins-hospital)** | **[Patient Care Tech Intern- Zayed 12W (Day 40)](https://jobright.ai/jobs/info/69712563333b6343a14d969f?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Jan 21 |
-| **[Gray](http://ow.ly/Ed7S50BKOV3)** | **[IT Services Intern](https://jobright.ai/jobs/info/697124dd51f726477183597a?utm_campaign=1058&utm_source=git)** | US-KY-Lexington | On Site | Jan 21 |
-| **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/69712498333b6343a14d95eb?utm_campaign=1058&utm_source=git)** | Eau Claire, WI | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
