@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[Pharmacy Intern - Inpatient](https://jobright.ai/jobs/info/69724c109b83b424830e36b6?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Jan 22 |
+| **[Tricentis](https://tricentis.com)** | **[Support Intern](https://jobright.ai/jobs/info/697262d1584a1c1ef6fd6643?utm_campaign=1058&utm_source=git)** | US - Atlanta | Hybrid | Jan 22 |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[Registered Nurse - Internal Travel Team](https://jobright.ai/jobs/info/697262839b83b424830e5a49?utm_campaign=1058&utm_source=git)** | New Britain, CT | On Site | Jan 22 |
+| **[Wave Life Sciences](http://wavelifesciences.com)** | **[IT Lab Systems Support Intern (Summer 2026)](https://jobright.ai/jobs/info/69726163584a1c1ef6fd6547?utm_campaign=1058&utm_source=git)** | Lexington, MA | On Site | Jan 22 |
+| **[DLL](http://dllgroup.com)** | **[IT Customer Experience Intern](https://jobright.ai/jobs/info/69725cd09b83b424830e572e?utm_campaign=1058&utm_source=git)** | Wayne, PA, United States | Remote | Jan 22 |
+| ↳ | **[Customer Service - Intern](https://jobright.ai/jobs/info/69725a1c584a1c1ef6fd57ff?utm_campaign=1058&utm_source=git)** | Des Moines, IA, United States | Hybrid | Jan 22 |
+| **[Ephrata National Bank](http://epnb.com)** | **[IT Application Delivery Intern](https://jobright.ai/jobs/info/6972599b9b83b424830e49d6?utm_campaign=1058&utm_source=git)** | Technology Center Building, Ephrata, PA, US | On Site | Jan 22 |
+| **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[Pharmacy Intern - Inpatient](https://jobright.ai/jobs/info/697258f54ccbf64f8df249d3?utm_campaign=1058&utm_source=git)** | Nashville Metro | On Site | Jan 22 |
+| **[Mouser Electronics](http://mouser.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/697257169b83b424830e4054?utm_campaign=1058&utm_source=git)** | Mansfield, TX, United States | On Site | Jan 22 |
 | **[UMB Bank](https://www.umb.com/)** | **[Institutional Custody Administration Intern](https://jobright.ai/jobs/info/69724b0c4ccbf64f8df2350e?utm_campaign=1058&utm_source=git)** | Kansas City MO | Hybrid | Jan 22 |
 | **[Iowa Select Farms](http://iowaselect.com)** | **[Bilingual Process Documentation Intern (Part time)-Des Moines](https://jobright.ai/jobs/info/697244034ccbf64f8df2322c?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Jan 22 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6972434d4ccbf64f8df231cb?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 22 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern - Technical Services (May 2026)](https://jobright.ai/jobs/info/69716e1d587dfa0bb55f0ce5?utm_campaign=1058&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 21 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Intern Rooms (Front Desk/Guest Services) - Spring 2026](https://jobright.ai/jobs/info/69718b53333b6343a14e264c?utm_campaign=1058&utm_source=git)** | US-TX-Fort Worth | On Site | Jan 21 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Global Customer Support Primary Stains](https://jobright.ai/jobs/info/69715263333b6343a14ddc4d?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Jan 21 |
-| **[SerenaGroup Inc.](https://serenagroups.com/)** | **[Medical Writer Intern](https://jobright.ai/jobs/info/69718a2351f726477183e581?utm_campaign=1058&utm_source=git)** | Fully Remote | Remote | Jan 21 |
-| **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Data Support Analyst Intern – Supply Chain](https://jobright.ai/jobs/info/69718d8c587dfa0bb55f3e71?utm_campaign=1058&utm_source=git)** | Canada | Remote | Jan 21 |
-| **[World Insurance Associates LLC](https://www.worldinsurance.com)** | **[Risk Management Client Service Intern, Commercial Lines - Woodbury, NY](https://jobright.ai/jobs/info/69718f7e587dfa0bb55f3fff?utm_campaign=1058&utm_source=git)** | Woodbury, NY | On Site | Jan 21 |
-| **[UL Standards & Engagement](https://ulse.org)** | **[Summer 2026 Intern Library & Researcher Information Services](https://jobright.ai/jobs/info/697167f3587dfa0bb55f086a?utm_campaign=1058&utm_source=git)** | Evanston, IL | On Site | Jan 21 |
-| **[WellDyne](https://welldyne.com)** | **[Intern](https://jobright.ai/jobs/info/697163b251f726477183aea1?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 21 |
-| **[Aquarion Water Company](http://www.aquarionwater.com)** | **[Intern, Service](https://jobright.ai/jobs/info/697161f6333b6343a14deada?utm_campaign=1058&utm_source=git)** | Bridgeport, CT | On Site | Jan 21 |
-| **[Stifel Financial Corp.](http://www.stifel.com)** | **[Operations - Technical Support Intern- Summer 2026](https://jobright.ai/jobs/info/6971616c587dfa0bb55f03b6?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
