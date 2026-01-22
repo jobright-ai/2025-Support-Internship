@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MercyOne](https://www.mercyone.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6971aaf851f7264771842054?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6971a97551f7264771840f97?utm_campaign=1058&utm_source=git)** | Tewksbury, MA | On Site | Jan 21 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6971a891587dfa0bb55f5be2?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Jan 21 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Research, Training, & Processing Intern – Paid Internship (Church History Library)](https://jobright.ai/jobs/info/6971a19a51f726477183f997?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Jan 21 |
 | **[MercyOne](https://www.mercyone.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69719cff333b6343a14e362a?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, PL Eastern Claims](https://jobright.ai/jobs/info/69719cdd587dfa0bb55f4bc5?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Jan 21 |
 | ↳ | **[Intern, PL Eastern Claims](https://jobright.ai/jobs/info/69719b2251f726477183f52d?utm_campaign=1058&utm_source=git)** | Hartford, CT | On Site | Jan 21 |
@@ -66,8 +70,10 @@ For a complete list, click the following sortable link below:
 | **[UL Research Institutes](https://ul.org)** | **[Summer 2026 Intern Library & Researcher Information Services](https://jobright.ai/jobs/info/69718f28333b6343a14e2a10?utm_campaign=1058&utm_source=git)** | Evanston, IL | Hybrid | Jan 21 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Warehouse Support Intern](https://jobright.ai/jobs/info/69718e39587dfa0bb55f3efb?utm_campaign=1058&utm_source=git)** | Washington, United States | Hybrid | Jan 21 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69718e13587dfa0bb55f3ee6?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
+| **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Summer Rehab Aide Internship](https://jobright.ai/jobs/info/6971a989587dfa0bb55f5eff?utm_campaign=1058&utm_source=git)** | Macon, GA | On Site | Jan 21 |
 | **[The Classic Center](http://classiccenter.com)** | **[Arena Guest Services Internship](https://jobright.ai/jobs/info/69718509333b6343a14e2088?utm_campaign=1058&utm_source=git)** | Athens, Georgia, United States | On Site | Jan 21 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69718279333b6343a14e1dd0?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Jan 21 |
+| **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Florence)](https://jobright.ai/jobs/info/695dd91889be3415c746348b?utm_campaign=1058&utm_source=git)** | Florence, KY | On Site | Jan 21 |
 | **[Sentara Health](http://www.sentara.com)** | **[Registered Nurse Student Internship (SHIP) Sentara Martha Jefferson 2026](https://jobright.ai/jobs/info/697181c0333b6343a14e1d0a?utm_campaign=1058&utm_source=git)** | Charlottesville, VA | On Site | Jan 21 |
 | **[Canyon AeroConnect](https://www.canyonaeroconnect.com)** | **[Help Desk Specialist Intern](https://jobright.ai/jobs/info/6971808d333b6343a14e1c3f?utm_campaign=1058&utm_source=git)** | Prescott, Arizona, United States | On Site | Jan 21 |
 | **[Heritage Pool Supply Group, Inc.](https://www.heritagepoolsupplygroup.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/69717e93333b6343a14e1a6b?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | Jan 21 |
@@ -78,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Community Memorial Healthcare](https://www.mycmh.org)** | **[Intern Pharmacist](https://jobright.ai/jobs/info/697197c5587dfa0bb55f47a5?utm_campaign=1058&utm_source=git)** | Ventura, CA | On Site | Jan 21 |
 | **[City of Kenosha](https://www.kenosha.org)** | **[Special Events Intern](https://jobright.ai/jobs/info/697179dc51f726477183d5b2?utm_campaign=1058&utm_source=git)** | Kenosha, WI | On Site | Jan 21 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Data Support Analyst Intern – Supply Chain](https://jobright.ai/jobs/info/697179d851f726477183d5ab?utm_campaign=1058&utm_source=git)** | 19 - Toronto Head Office150 King Street West | On Site | Jan 21 |
-| **[Bayhealth](https://www.bayhealth.org/)** | **[Nursing Assistant Intern](https://jobright.ai/jobs/info/69719d76333b6343a14e366a?utm_campaign=1058&utm_source=git)** | Dover, DE | On Site | Jan 21 |
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Medical Imaging Intern](https://jobright.ai/jobs/info/69717945333b6343a14e145b?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Jan 21 |
 | **[Bandit Lites, Inc.](http://banditlites.com)** | **[IT Internship](https://jobright.ai/jobs/info/6971782d587dfa0bb55f2a1f?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Jan 21 |
 | **[Heritage Landscape Supply Group, Inc.](https://www.heritagelandscapesupplygroup.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/6971777851f726477183d3a5?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | Jan 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Respiratory Therapy Internship - Monroe Campus](https://jobright.ai/jobs/info/69714d8351f72647718394b5?utm_campaign=1058&utm_source=git)** | Stroudsburg, PA - 100 St. Lukes Lane | On Site | Jan 21 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Global Customer Support Primary Stains](https://jobright.ai/jobs/info/69714bfd51f72647718391f7?utm_campaign=1058&utm_source=git)** | Tucson | On Site | Jan 21 |
 | **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/69711fe251f7264771835727?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Jan 21 |
-| **[Saint Joseph Mercy Health System](http://www.stjoeshealth.org)** | **[Licensed Pharmacy Intern](https://jobright.ai/jobs/info/69711fbb333b6343a14d936b?utm_campaign=1058&utm_source=git)** | Pontiac, MI | On Site | Jan 21 |
-| **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69713bff587dfa0bb55ec6c2?utm_campaign=1058&utm_source=git)** | La Crosse, WI | On Site | Jan 21 |
-| **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/69711e2651f726477183562b?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Jan 21 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Corporate IT Services - Campus 2026](https://jobright.ai/jobs/info/69711cc3333b6343a14d91de?utm_campaign=1058&utm_source=git)** | US - VA, McLean | On Site | Jan 21 |
-| **[Mauldin & Jenkins](http://mjcpa.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/69711c23333b6343a14d9172?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
