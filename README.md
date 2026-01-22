@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cintas](https://www.cintas.com)** | **[IT Intern - Mobility](https://jobright.ai/jobs/info/6972113447b64f4e963e4334?utm_campaign=1058&utm_source=git)** | Mason, OH | On Site | Jan 22 |
 | **[Sentara Health](http://www.sentara.com)** | **[Registered Nurse Student Internship (SHIP) Sentara Martha Jefferson 2026](https://jobright.ai/jobs/info/6972023947b64f4e963e3d60?utm_campaign=1058&utm_source=git)** | Charlottesville, VA | On Site | Jan 22 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Agriculture Product Technical Support Specialist Intern](https://jobright.ai/jobs/info/69676ec51703f05405a91f4f?utm_campaign=1058&utm_source=git)** | Holland, IA | On Site | Jan 22 |
 | **[SOPFEU - Société de protection des forêts contre le feu](http://www.sopfeu.qc.ca)** | **[Stagiaire en support informatique - N1](https://jobright.ai/jobs/info/6971fa9bcda45e69535836e9?utm_campaign=1058&utm_source=git)** | Roberval, Quebec, Canada | Hybrid | Jan 22 |
 | **[Cibola General Hospital](https://www.cibolahospital.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/6971f87447b64f4e963e3c10?utm_campaign=1058&utm_source=git)** | Grants, NM | On Site | Jan 22 |
+| **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Circuit Court Clerk](https://jobright.ai/jobs/info/69721a5647b64f4e963e4a1b?utm_campaign=1058&utm_source=git)** | Chesterfield, VA | On Site | Jan 22 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Arena Ticketing Intern](https://jobright.ai/jobs/info/6971e684b707bf728a4b815b?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Service Desk Co-op (July to December)](https://jobright.ai/jobs/info/6971e65dcda45e69535813aa?utm_campaign=1058&utm_source=git)** | Needham, MA | On Site | Jan 22 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/6971e658cda45e695358139b?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hilb Group](http://hilbgroup.com)** | **[Commercial Lines Intern](https://jobright.ai/jobs/info/697138d351f7264771836f9d?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Jan 21 |
 | **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/69716c9451f726477183b66d?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | Jan 21 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/6971362e333b6343a14da835?utm_campaign=1058&utm_source=git)** | Pflugerville, TX | On Site | Jan 21 |
-| **[REETECH](https://www.reetechusa.com/)** | **[SharePoint Administrator (Junior/Intern Level)](https://jobright.ai/jobs/info/697157d3587dfa0bb55ef881?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 21 |
-| **[Henry Ford Health](http://www.henryford.com/)** | **[Pharmacy Intern - Contingent - Wyandotte](https://jobright.ai/jobs/info/69716e67333b6343a14df5f3?utm_campaign=1058&utm_source=git)** | Wyandotte, MI | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
