@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mount Carmel Health System](https://www.mountcarmelhealth.com/)** | **[Pharmacy Intern I - Mount Carmel East](https://jobright.ai/jobs/info/695582da9f1b381eb26eccec?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Jan 22 |
 | **[Cintas](https://www.cintas.com)** | **[IT Intern - Mobility](https://jobright.ai/jobs/info/6972113447b64f4e963e4334?utm_campaign=1058&utm_source=git)** | Mason, OH | On Site | Jan 22 |
 | **[Sentara Health](http://www.sentara.com)** | **[Registered Nurse Student Internship (SHIP) Sentara Martha Jefferson 2026](https://jobright.ai/jobs/info/6972023947b64f4e963e3d60?utm_campaign=1058&utm_source=git)** | Charlottesville, VA | On Site | Jan 22 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Agriculture Product Technical Support Specialist Intern](https://jobright.ai/jobs/info/69676ec51703f05405a91f4f?utm_campaign=1058&utm_source=git)** | Holland, IA | On Site | Jan 22 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Arena Ticketing Intern](https://jobright.ai/jobs/info/6971e684b707bf728a4b815b?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Service Desk Co-op (July to December)](https://jobright.ai/jobs/info/6971e65dcda45e69535813aa?utm_campaign=1058&utm_source=git)** | Needham, MA | On Site | Jan 22 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/6971e658cda45e695358139b?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 22 |
+| **[Health Connect America](https://healthconnectamerica.com)** | **[Intern - Client Support Specialist - Bachelors level](https://jobright.ai/jobs/info/69721f1447b64f4e963e645b?utm_campaign=1058&utm_source=git)** | Woodstock, GA | On Site | Jan 22 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6971e27547b64f4e963e152b?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Jan 22 |
 | **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Information Technology Help Desk Intern](https://jobright.ai/jobs/info/6971dd21b707bf728a4b667b?utm_campaign=1058&utm_source=git)** | Tacoma, WA | On Site | Jan 22 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Arena Ticketing Intern](https://jobright.ai/jobs/info/6971d919b707bf728a4b633e?utm_campaign=1058&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jan 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Respiratory Therapy Internship - Monroe Campus](https://jobright.ai/jobs/info/69715ddd51f726477183aac0?utm_campaign=1058&utm_source=git)** | East Stroudsburg, PA | On Site | Jan 21 |
 | **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern - Poison Center](https://jobright.ai/jobs/info/6971564c333b6343a14ddffe?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Jan 21 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Commercial Lines Intern](https://jobright.ai/jobs/info/697138d351f7264771836f9d?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Jan 21 |
-| **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/69716c9451f726477183b66d?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | Jan 21 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/6971362e333b6343a14da835?utm_campaign=1058&utm_source=git)** | Pflugerville, TX | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
