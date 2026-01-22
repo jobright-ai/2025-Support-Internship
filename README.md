@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6971e27547b64f4e963e152b?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Jan 22 |
+| **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Information Technology Help Desk Intern](https://jobright.ai/jobs/info/6971dd21b707bf728a4b667b?utm_campaign=1058&utm_source=git)** | Tacoma, WA | On Site | Jan 22 |
+| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Arena Ticketing Intern](https://jobright.ai/jobs/info/6971d919b707bf728a4b633e?utm_campaign=1058&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jan 22 |
+| **[Cibola General Hospital](https://www.cibolahospital.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/6971d255b707bf728a4b5e7d?utm_campaign=1058&utm_source=git)** | Grants, NM | On Site | Jan 21 |
+| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6971cf96cda45e695358040f?utm_campaign=1058&utm_source=git)** | Renton, WA | On Site | Jan 21 |
 | **[AHMC HealthCare](http://AHMChealth.com)** | **[Intern Pharmacist-Per Diem](https://jobright.ai/jobs/info/6971c72251f7264771843981?utm_campaign=1058&utm_source=git)** | Anaheim, CA | On Site | Jan 21 |
 | **[Rapsodo](http://rapsodo.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6971c6c051f726477184396d?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Jan 21 |
 | **[Tri-City Medical Center](https://www.tricitymed.org)** | **[EKG TECHNICIAN INTERN](https://jobright.ai/jobs/info/6971c551587dfa0bb55f8f09?utm_campaign=1058&utm_source=git)** | Oceanside, CA | On Site | Jan 21 |
@@ -74,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[BayCare Health System](https://baycare.org/bmg)** | **[BayCare EAYL Patient Care Tech Internship Program- January 2026- Mease Countryside](https://jobright.ai/jobs/info/6971913751f726477183ecc5?utm_campaign=1058&utm_source=git)** | Safety Harbor, FL | On Site | Jan 21 |
 | **[UL Research Institutes](https://ul.org)** | **[Summer 2026 Intern Library & Researcher Information Services](https://jobright.ai/jobs/info/69718f28333b6343a14e2a10?utm_campaign=1058&utm_source=git)** | Evanston, IL | Hybrid | Jan 21 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Warehouse Support Intern](https://jobright.ai/jobs/info/69718e39587dfa0bb55f3efb?utm_campaign=1058&utm_source=git)** | Washington, United States | Hybrid | Jan 21 |
-| **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69718e13587dfa0bb55f3ee6?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, PL Eastern Claims](https://jobright.ai/jobs/info/6971ad67333b6343a14e5f34?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Jan 21 |
 | **[The Classic Center](http://classiccenter.com)** | **[Arena Guest Services Internship](https://jobright.ai/jobs/info/69718509333b6343a14e2088?utm_campaign=1058&utm_source=git)** | Athens, Georgia, United States | On Site | Jan 21 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69718279333b6343a14e1dd0?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Jan 21 |
@@ -106,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[WellDyne](https://welldyne.com)** | **[Intern](https://jobright.ai/jobs/info/697163b251f726477183aea1?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Aquarion Water Company](http://www.aquarionwater.com)** | **[Intern, Service](https://jobright.ai/jobs/info/697161f6333b6343a14deada?utm_campaign=1058&utm_source=git)** | Bridgeport, CT | On Site | Jan 21 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Operations - Technical Support Intern- Summer 2026](https://jobright.ai/jobs/info/6971616c587dfa0bb55f03b6?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Jan 21 |
-| **[Sentara Health](http://www.sentara.com)** | **[Radiology Operations Coordinator - CT Intern](https://jobright.ai/jobs/info/69715dce587dfa0bb55effd1?utm_campaign=1058&utm_source=git)** | Harrisonburg, VA | On Site | Jan 21 |
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69717d19333b6343a14e18d1?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Jan 21 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, PL Eastern Claims](https://jobright.ai/jobs/info/69715c58333b6343a14de727?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Jan 21 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Call Center Intern (WINTER HAVEN)](https://jobright.ai/jobs/info/69715be0587dfa0bb55efd70?utm_campaign=1058&utm_source=git)** | Winter Haven, FL | Hybrid | Jan 21 |
@@ -116,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Corporate IT Services - Campus 2026](https://jobright.ai/jobs/info/6971576c587dfa0bb55ef80a?utm_campaign=1058&utm_source=git)** | McLean, VA | On Site | Jan 21 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, PL Eastern Claims](https://jobright.ai/jobs/info/697156ac587dfa0bb55ef73e?utm_campaign=1058&utm_source=git)** | Hartford, CT | On Site | Jan 21 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[Information Technology Support Specialist](https://jobright.ai/jobs/info/6971565a333b6343a14de012?utm_campaign=1058&utm_source=git)** | Detroit, MI | Remote | Jan 21 |
+| **[Sentara Health](http://www.sentara.com)** | **[Radiology Operations Coordinator - CT Intern](https://jobright.ai/jobs/info/6971563f51f726477183a1d9?utm_campaign=1058&utm_source=git)** | Harrisonburg, VA | On Site | Jan 21 |
 | **[DASNY (Dormitory Authority - State of New York )](https://www.dasny.org)** | **[Student Intern - File Clerk - Albany, NY](https://jobright.ai/jobs/info/69715551333b6343a14ddeec?utm_campaign=1058&utm_source=git)** | Albany, NY | On Site | Jan 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69715284333b6343a14ddc66?utm_campaign=1058&utm_source=git)** | New Bern, NC | On Site | Jan 21 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/6971526d333b6343a14ddc55?utm_campaign=1058&utm_source=git)** | San Marcos, TX | On Site | Jan 21 |
@@ -134,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Practice Support Intern (Year-Round)](https://jobright.ai/jobs/info/697140c3333b6343a14db501?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[Mount Sinai Medical Center](https://www.msmc.com/)** | **[Registered Nurse Intern Acute Care](https://jobright.ai/jobs/info/697165fc51f726477183b0f9?utm_campaign=1058&utm_source=git)** | Miami Beach, FL | On Site | Jan 21 |
 | **[Trinity Health MI](https://bit.ly/3y0fhsr)** | **[Licensed Pharmacy Intern](https://jobright.ai/jobs/info/6971653551f726477183b037?utm_campaign=1058&utm_source=git)** | Pontiac, MI | On Site | Jan 21 |
-| **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/6963b08b2cbf4e44756d629e?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Jan 21 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Nurse Intern - Family Birthing](https://jobright.ai/jobs/info/69713d87333b6343a14dae90?utm_campaign=1058&utm_source=git)** | Mount Clemens, MI | On Site | Jan 21 |
 | **[Tampa Bay Rays](https://www.mlb.com/rays)** | **[Intern, Ticket Services and Technology](https://jobright.ai/jobs/info/69713c9451f72647718371f8?utm_campaign=1058&utm_source=git)** | St. Petersburg, FL | On Site | Jan 21 |
 | **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69715bcf51f726477183a82b?utm_campaign=1058&utm_source=git)** | Inglewood, CA | On Site | Jan 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Senior Nurse Intern](https://jobright.ai/jobs/info/69712d1651f72647718361c6?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Jan 21 |
 | **[Columbia Insurance](https://www.colinsgrp.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/69712bff51f7264771836080?utm_campaign=1058&utm_source=git)** | Columbia, MO | On Site | Jan 21 |
 | **[Navitus Health Solutions](https://www.navitus.com/)** | **[Technical Writer Summer Intern](https://jobright.ai/jobs/info/697129e4333b6343a14d9a9a?utm_campaign=1058&utm_source=git)** | US- | Remote | Jan 21 |
-| **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Summer Rehab Aide Internship](https://jobright.ai/jobs/info/6971475d587dfa0bb55edb72?utm_campaign=1058&utm_source=git)** | Navicent Rehabilitation Hospital - 3351 Northside Dr, Macon, GA | On Site | Jan 21 |
-| ↳ | **[Summer Rehab Aide Internship](https://jobright.ai/jobs/info/69714fc051f7264771839a0b?utm_campaign=1058&utm_source=git)** | Navicent Rehabilitation Hospital - 3351 Northside Dr, Macon, GA | On Site | Jan 21 |
-| **[Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the-johns-hopkins-hospital)** | **[Patient Care Tech Intern- Zayed 12W (Day 40)](https://jobright.ai/jobs/info/69712563333b6343a14d969f?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
