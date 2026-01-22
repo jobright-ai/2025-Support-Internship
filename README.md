@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sentara Health](http://www.sentara.com)** | **[Registered Nurse Student Internship (SHIP) Sentara Martha Jefferson 2026](https://jobright.ai/jobs/info/6972023947b64f4e963e3d60?utm_campaign=1058&utm_source=git)** | Charlottesville, VA | On Site | Jan 22 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Agriculture Product Technical Support Specialist Intern](https://jobright.ai/jobs/info/69676ec51703f05405a91f4f?utm_campaign=1058&utm_source=git)** | Holland, IA | On Site | Jan 22 |
 | **[SOPFEU - Société de protection des forêts contre le feu](http://www.sopfeu.qc.ca)** | **[Stagiaire en support informatique - N1](https://jobright.ai/jobs/info/6971fa9bcda45e69535836e9?utm_campaign=1058&utm_source=git)** | Roberval, Quebec, Canada | Hybrid | Jan 22 |
 | **[Cibola General Hospital](https://www.cibolahospital.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/6971f87447b64f4e963e3c10?utm_campaign=1058&utm_source=git)** | Grants, NM | On Site | Jan 22 |
@@ -89,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[The Classic Center](http://classiccenter.com)** | **[Arena Guest Services Internship](https://jobright.ai/jobs/info/69718509333b6343a14e2088?utm_campaign=1058&utm_source=git)** | Athens, Georgia, United States | On Site | Jan 21 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69718279333b6343a14e1dd0?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Jan 21 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Florence)](https://jobright.ai/jobs/info/695dd91889be3415c746348b?utm_campaign=1058&utm_source=git)** | Florence, KY | On Site | Jan 21 |
-| **[Sentara Health](http://www.sentara.com)** | **[Registered Nurse Student Internship (SHIP) Sentara Martha Jefferson 2026](https://jobright.ai/jobs/info/697181c0333b6343a14e1d0a?utm_campaign=1058&utm_source=git)** | Charlottesville, VA | On Site | Jan 21 |
 | **[Canyon AeroConnect](https://www.canyonaeroconnect.com)** | **[Help Desk Specialist Intern](https://jobright.ai/jobs/info/6971808d333b6343a14e1c3f?utm_campaign=1058&utm_source=git)** | Prescott, Arizona, United States | On Site | Jan 21 |
 | **[Heritage Pool Supply Group, Inc.](https://www.heritagepoolsupplygroup.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/69717e93333b6343a14e1a6b?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | Jan 21 |
 | **[World Insurance Associates](https://toinsurance.com/)** | **[Risk Management Client Service Intern, Commercial Lines - Woodbury, NY](https://jobright.ai/jobs/info/69717e7851f726477183dafa?utm_campaign=1058&utm_source=git)** | Woodbury, NY | On Site | Jan 21 |
@@ -129,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[DASNY (Dormitory Authority - State of New York )](https://www.dasny.org)** | **[Student Intern - File Clerk - Albany, NY](https://jobright.ai/jobs/info/69715551333b6343a14ddeec?utm_campaign=1058&utm_source=git)** | Albany, NY | On Site | Jan 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69715284333b6343a14ddc66?utm_campaign=1058&utm_source=git)** | New Bern, NC | On Site | Jan 21 |
 | **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Leasing Community Intern](https://jobright.ai/jobs/info/6971526d333b6343a14ddc55?utm_campaign=1058&utm_source=git)** | San Marcos, TX | On Site | Jan 21 |
+| **[Sentara Health](http://www.sentara.com)** | **[Radiology Operations Coordinator - CT Intern](https://jobright.ai/jobs/info/697206fbcda45e6953583b58?utm_campaign=1058&utm_source=git)** | Harrisonburg, VA | Hybrid | Jan 21 |
 | **[Unity Health](https://www.unity-health.org)** | **[Pharmacy Intern, PRN](https://jobright.ai/jobs/info/69714c6551f72647718392b0?utm_campaign=1058&utm_source=git)** | Searcy, AR, US | On Site | Jan 21 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Research, Training, & Processing Intern – Paid Internship (Church History Library)](https://jobright.ai/jobs/info/69714c5251f726477183928c?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jan 21 |
 | **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/69714a2d587dfa0bb55ee227?utm_campaign=1058&utm_source=git)** | McKinney, Texas | On Site | Jan 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/6971362e333b6343a14da835?utm_campaign=1058&utm_source=git)** | Pflugerville, TX | On Site | Jan 21 |
 | **[REETECH](https://www.reetechusa.com/)** | **[SharePoint Administrator (Junior/Intern Level)](https://jobright.ai/jobs/info/697157d3587dfa0bb55ef881?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 21 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Pharmacy Intern - Contingent - Wyandotte](https://jobright.ai/jobs/info/69716e67333b6343a14df5f3?utm_campaign=1058&utm_source=git)** | Wyandotte, MI | On Site | Jan 21 |
-| **[Philadelphia Eagles](http://www.philadelphiaeagles.com)** | **[Ticket and Fan Services Academic Internship (Summer 2026)](https://jobright.ai/jobs/info/6971300551f7264771836508?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
