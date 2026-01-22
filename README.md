@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Atrium Health Navicent](http://www.navicenthealth.org)** | **[Summer Rehab Aide Internship](https://jobright.ai/jobs/info/6971b6a9333b6343a14e6c38?utm_campaign=1058&utm_source=git)** | Macon, GA | On Site | Jan 21 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6971b53c333b6343a14e6b2d?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Jan 21 |
+| **[Siemens](https://www.siemens.com)** | **[Customer Experience & Support Internship](https://jobright.ai/jobs/info/6971ac71333b6343a14e5613?utm_campaign=1058&utm_source=git)** | Wendell, NC | On Site | Jan 21 |
 | **[MercyOne](https://www.mercyone.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6971aaf851f7264771842054?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6971a97551f7264771840f97?utm_campaign=1058&utm_source=git)** | Tewksbury, MA | On Site | Jan 21 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6971a891587dfa0bb55f5be2?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Jan 21 |
@@ -70,7 +73,7 @@ For a complete list, click the following sortable link below:
 | **[UL Research Institutes](https://ul.org)** | **[Summer 2026 Intern Library & Researcher Information Services](https://jobright.ai/jobs/info/69718f28333b6343a14e2a10?utm_campaign=1058&utm_source=git)** | Evanston, IL | Hybrid | Jan 21 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Warehouse Support Intern](https://jobright.ai/jobs/info/69718e39587dfa0bb55f3efb?utm_campaign=1058&utm_source=git)** | Washington, United States | Hybrid | Jan 21 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69718e13587dfa0bb55f3ee6?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
-| **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Summer Rehab Aide Internship](https://jobright.ai/jobs/info/6971a989587dfa0bb55f5eff?utm_campaign=1058&utm_source=git)** | Macon, GA | On Site | Jan 21 |
+| **[The Hartford](http://www.thehartford.com)** | **[Intern, PL Eastern Claims](https://jobright.ai/jobs/info/6971ad67333b6343a14e5f34?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Jan 21 |
 | **[The Classic Center](http://classiccenter.com)** | **[Arena Guest Services Internship](https://jobright.ai/jobs/info/69718509333b6343a14e2088?utm_campaign=1058&utm_source=git)** | Athens, Georgia, United States | On Site | Jan 21 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69718279333b6343a14e1dd0?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Jan 21 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Florence)](https://jobright.ai/jobs/info/695dd91889be3415c746348b?utm_campaign=1058&utm_source=git)** | Florence, KY | On Site | Jan 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the-johns-hopkins-hospital)** | **[Patient Care Tech Intern- Zayed 12W (Day 40)](https://jobright.ai/jobs/info/69712563333b6343a14d969f?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Jan 21 |
 | **[Gray](http://ow.ly/Ed7S50BKOV3)** | **[IT Services Intern](https://jobright.ai/jobs/info/697124dd51f726477183597a?utm_campaign=1058&utm_source=git)** | US-KY-Lexington | On Site | Jan 21 |
 | **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/69712498333b6343a14d95eb?utm_campaign=1058&utm_source=git)** | Eau Claire, WI | On Site | Jan 21 |
-| **[St. Luke's University Health Network](http://www.slhn.org/)** | **[Respiratory Therapy Internship - Monroe Campus](https://jobright.ai/jobs/info/69714d8351f72647718394b5?utm_campaign=1058&utm_source=git)** | Stroudsburg, PA - 100 St. Lukes Lane | On Site | Jan 21 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Global Customer Support Primary Stains](https://jobright.ai/jobs/info/69714bfd51f72647718391f7?utm_campaign=1058&utm_source=git)** | Tucson | On Site | Jan 21 |
-| **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/69711fe251f7264771835727?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
