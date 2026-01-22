@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CNH](http://www.cnhindustrial.com)** | **[Agriculture Product Technical Support Specialist Intern](https://jobright.ai/jobs/info/69676ec51703f05405a91f4f?utm_campaign=1058&utm_source=git)** | Holland, IA | On Site | Jan 22 |
+| **[SOPFEU - Société de protection des forêts contre le feu](http://www.sopfeu.qc.ca)** | **[Stagiaire en support informatique - N1](https://jobright.ai/jobs/info/6971fa9bcda45e69535836e9?utm_campaign=1058&utm_source=git)** | Roberval, Quebec, Canada | Hybrid | Jan 22 |
+| **[Cibola General Hospital](https://www.cibolahospital.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/6971f87447b64f4e963e3c10?utm_campaign=1058&utm_source=git)** | Grants, NM | On Site | Jan 22 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Arena Ticketing Intern](https://jobright.ai/jobs/info/6971e684b707bf728a4b815b?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Service Desk Co-op (July to December)](https://jobright.ai/jobs/info/6971e65dcda45e69535813aa?utm_campaign=1058&utm_source=git)** | Needham, MA | On Site | Jan 22 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/6971e658cda45e695358139b?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 22 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6971e27547b64f4e963e152b?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Jan 22 |
 | **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Information Technology Help Desk Intern](https://jobright.ai/jobs/info/6971dd21b707bf728a4b667b?utm_campaign=1058&utm_source=git)** | Tacoma, WA | On Site | Jan 22 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Arena Ticketing Intern](https://jobright.ai/jobs/info/6971d919b707bf728a4b633e?utm_campaign=1058&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jan 22 |
-| **[Cibola General Hospital](https://www.cibolahospital.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/6971d255b707bf728a4b5e7d?utm_campaign=1058&utm_source=git)** | Grants, NM | On Site | Jan 21 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6971cf96cda45e695358040f?utm_campaign=1058&utm_source=git)** | Renton, WA | On Site | Jan 21 |
 | **[AHMC HealthCare](http://AHMChealth.com)** | **[Intern Pharmacist-Per Diem](https://jobright.ai/jobs/info/6971c72251f7264771843981?utm_campaign=1058&utm_source=git)** | Anaheim, CA | On Site | Jan 21 |
 | **[Rapsodo](http://rapsodo.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6971c6c051f726477184396d?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Jan 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[REETECH](https://www.reetechusa.com/)** | **[SharePoint Administrator (Junior/Intern Level)](https://jobright.ai/jobs/info/697157d3587dfa0bb55ef881?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 21 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Pharmacy Intern - Contingent - Wyandotte](https://jobright.ai/jobs/info/69716e67333b6343a14df5f3?utm_campaign=1058&utm_source=git)** | Wyandotte, MI | On Site | Jan 21 |
 | **[Philadelphia Eagles](http://www.philadelphiaeagles.com)** | **[Ticket and Fan Services Academic Internship (Summer 2026)](https://jobright.ai/jobs/info/6971300551f7264771836508?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
-| **[Surgery Partners, Inc](http://www.surgerypartners.com/)** | **[Surgical Technologist Intern](https://jobright.ai/jobs/info/69712fd5333b6343a14da119?utm_campaign=1058&utm_source=git)** | Durham, North Carolina, United States | On Site | Jan 21 |
-| **[Howard Hughes Medical Institute (HHMI)](http://www.hhmi.org/)** | **[Conference Services Intern](https://jobright.ai/jobs/info/695f1c42a112b402660de628?utm_campaign=1058&utm_source=git)** | Chevy Chase, MD | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
