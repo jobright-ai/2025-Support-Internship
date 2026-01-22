@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Holiday Inn Club Vacations](http://jobs.holidayinnclub.com/)** | **[Resort Activities Intern](https://jobright.ai/jobs/info/69727c254ccbf64f8df26e4d?utm_campaign=1058&utm_source=git)** | South Lee, Massachusetts, United States | On Site | Jan 22 |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship - IT - Summer 2026 - New York](https://jobright.ai/jobs/info/69727a189b83b424830e6961?utm_campaign=1058&utm_source=git)** | New York, NY, US | On Site | Jan 22 |
+| **[Moog Inc.](http://www.moog.com)** | **[Intern, IT Computer Science](https://jobright.ai/jobs/info/6972785c584a1c1ef6fd72bc?utm_campaign=1058&utm_source=git)** | Blacksburg, VA | Hybrid | Jan 22 |
 | **[I.B. Abel, Inc.](https://www.ib-abel.com/)** | **[IT Intern](https://jobright.ai/jobs/info/697264979b83b424830e5b37?utm_campaign=1058&utm_source=git)** | York, PA | On Site | Jan 22 |
 | **[Tricentis](https://tricentis.com)** | **[Support Intern](https://jobright.ai/jobs/info/697262d1584a1c1ef6fd6643?utm_campaign=1058&utm_source=git)** | US - Atlanta | Hybrid | Jan 22 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Registered Nurse - Internal Travel Team](https://jobright.ai/jobs/info/697262839b83b424830e5a49?utm_campaign=1058&utm_source=git)** | New Britain, CT | On Site | Jan 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Heritage Landscape Supply Group, Inc.](https://www.heritagelandscapesupplygroup.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/6971777851f726477183d3a5?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | Jan 21 |
 | **[Optum](https://www.optum.com/)** | **[Pharmacist Intern Behavioral Health](https://jobright.ai/jobs/info/697176e951f726477183d360?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Jan 21 |
 | **[Alston Construction](https://alstonco.com/)** | **[Field Intern - Mission Critical](https://jobright.ai/jobs/info/69719c0051f726477183f5d9?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 21 |
-| **[Children's Minnesota](https://www.childrensmn.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/697170f3587dfa0bb55f0e7f?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Jan 21 |
-| **[Philadelphia Eagles](http://www.philadelphiaeagles.com)** | **[Ticket and Fan Services Academic Internship (Summer 2026)](https://jobright.ai/jobs/info/69716eda587dfa0bb55f0d6a?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
-| **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern - Technical Services (May 2026)](https://jobright.ai/jobs/info/69716e1d587dfa0bb55f0ce5?utm_campaign=1058&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
