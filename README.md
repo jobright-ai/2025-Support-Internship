@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[Pharmacy Intern - Inpatient](https://jobright.ai/jobs/info/69724c109b83b424830e36b6?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Jan 22 |
+| **[UMB Bank](https://www.umb.com/)** | **[Institutional Custody Administration Intern](https://jobright.ai/jobs/info/69724b0c4ccbf64f8df2350e?utm_campaign=1058&utm_source=git)** | Kansas City MO | Hybrid | Jan 22 |
 | **[Iowa Select Farms](http://iowaselect.com)** | **[Bilingual Process Documentation Intern (Part time)-Des Moines](https://jobright.ai/jobs/info/697244034ccbf64f8df2322c?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Jan 22 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6972434d4ccbf64f8df231cb?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 22 |
 | **[FMOL Health](https://fmolhs.org)** | **[Intern](https://jobright.ai/jobs/info/69724259584a1c1ef6fd3b61?utm_campaign=1058&utm_source=git)** | 4200 Essen Lane, Baton Rouge, LA, 70809, US | On Site | Jan 22 |
@@ -81,7 +83,15 @@ For a complete list, click the following sortable link below:
 | **[Mount Carmel Health System](https://www.mountcarmelhealth.com/)** | **[Pharmacy Intern I - Mount Carmel East](https://jobright.ai/jobs/info/695582da9f1b381eb26eccec?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Jan 22 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6972440f9b83b424830e309e?utm_campaign=1058&utm_source=git)** | Overland Park, KS | On Site | Jan 22 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697244b09b83b424830e30d3?utm_campaign=1058&utm_source=git)** | Overland Park, KS | On Site | Jan 22 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697247fa4ccbf64f8df233e5?utm_campaign=1058&utm_source=git)** | Mooresville, NC | On Site | Jan 22 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697245e64ccbf64f8df232d4?utm_campaign=1058&utm_source=git)** | Liberty, MO | On Site | Jan 22 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697247c1584a1c1ef6fd3e17?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 22 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69724961584a1c1ef6fd3f07?utm_campaign=1058&utm_source=git)** | Lees Summit, MO | On Site | Jan 22 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6972466d9b83b424830e3167?utm_campaign=1058&utm_source=git)** | Rahway, NJ | On Site | Jan 22 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697243cd584a1c1ef6fd3c47?utm_campaign=1058&utm_source=git)** | Lees Summit, MO | On Site | Jan 22 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697245d74ccbf64f8df232cc?utm_campaign=1058&utm_source=git)** | Lenoir, NC | On Site | Jan 22 |
+| **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern, Chartwell](https://jobright.ai/jobs/info/693a905c383bf9631983aaa4?utm_campaign=1058&utm_source=git)** | Oakdale, PA | On Site | Jan 22 |
+| **[Stephens](https://www.stephens.com)** | **[Stephens Insurance Summer Intern](https://jobright.ai/jobs/info/693a19ba56b68f3dc4e7729d?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Jan 22 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Branch Intern - Paid Internship (Birmingham, AL)](https://jobright.ai/jobs/info/69018661d5259a1b3cff5d2c?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Jan 22 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Technical Support Analyst Intern (Hybrid) (Summer 2026 Internship)](https://jobright.ai/jobs/info/691cf37b22a2cb4b9bd1f0f6?utm_campaign=1058&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 22 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II  Med Surg Collierville](https://jobright.ai/jobs/info/697237b24ccbf64f8df225f9?utm_campaign=1058&utm_source=git)** | Collierville, TN | On Site | Jan 22 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WellDyne](https://welldyne.com)** | **[Intern](https://jobright.ai/jobs/info/697163b251f726477183aea1?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Aquarion Water Company](http://www.aquarionwater.com)** | **[Intern, Service](https://jobright.ai/jobs/info/697161f6333b6343a14deada?utm_campaign=1058&utm_source=git)** | Bridgeport, CT | On Site | Jan 21 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Operations - Technical Support Intern- Summer 2026](https://jobright.ai/jobs/info/6971616c587dfa0bb55f03b6?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Jan 21 |
-| **[Children's Minnesota](https://www.childrensmn.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69717d19333b6343a14e18d1?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Jan 21 |
-| **[The Hartford](http://www.thehartford.com)** | **[Intern, PL Eastern Claims](https://jobright.ai/jobs/info/69715c58333b6343a14de727?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Jan 21 |
-| **[SouthState Bank](https://southstatebank.com)** | **[Call Center Intern (WINTER HAVEN)](https://jobright.ai/jobs/info/69715be0587dfa0bb55efd70?utm_campaign=1058&utm_source=git)** | Winter Haven, FL | Hybrid | Jan 21 |
-| **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69715bd2587dfa0bb55efd5d?utm_campaign=1058&utm_source=git)** | MMCIA - MercyOne Des Moines Medical Center Central IA | On Site | Jan 21 |
-| **[Ever.Ag](https://www.ever.ag)** | **[Implementation & Delivery Intern](https://jobright.ai/jobs/info/69092f064a1b456627afdae3?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 21 |
-| **[The Hartford](http://www.thehartford.com)** | **[Intern, PL Eastern Claims](https://jobright.ai/jobs/info/69715b5251f726477183a78e?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Jan 21 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Corporate IT Services - Campus 2026](https://jobright.ai/jobs/info/6971576c587dfa0bb55ef80a?utm_campaign=1058&utm_source=git)** | McLean, VA | On Site | Jan 21 |
-| **[The Hartford](http://www.thehartford.com)** | **[Intern, PL Eastern Claims](https://jobright.ai/jobs/info/697156ac587dfa0bb55ef73e?utm_campaign=1058&utm_source=git)** | Hartford, CT | On Site | Jan 21 |
-| **[Per Scholas](http://www.perscholas.org/)** | **[Information Technology Support Specialist](https://jobright.ai/jobs/info/6971565a333b6343a14de012?utm_campaign=1058&utm_source=git)** | Detroit, MI | Remote | Jan 21 |
-| **[Sentara Health](http://www.sentara.com)** | **[Radiology Operations Coordinator - CT Intern](https://jobright.ai/jobs/info/6971563f51f726477183a1d9?utm_campaign=1058&utm_source=git)** | Harrisonburg, VA | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
