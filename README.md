@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[I.B. Abel, Inc.](https://www.ib-abel.com/)** | **[IT Intern](https://jobright.ai/jobs/info/697264979b83b424830e5b37?utm_campaign=1058&utm_source=git)** | York, PA | On Site | Jan 22 |
 | **[Tricentis](https://tricentis.com)** | **[Support Intern](https://jobright.ai/jobs/info/697262d1584a1c1ef6fd6643?utm_campaign=1058&utm_source=git)** | US - Atlanta | Hybrid | Jan 22 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Registered Nurse - Internal Travel Team](https://jobright.ai/jobs/info/697262839b83b424830e5a49?utm_campaign=1058&utm_source=git)** | New Britain, CT | On Site | Jan 22 |
 | **[Wave Life Sciences](http://wavelifesciences.com)** | **[IT Lab Systems Support Intern (Summer 2026)](https://jobright.ai/jobs/info/69726163584a1c1ef6fd6547?utm_campaign=1058&utm_source=git)** | Lexington, MA | On Site | Jan 22 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[Pharmacy Intern - Inpatient](https://jobright.ai/jobs/info/697258f54ccbf64f8df249d3?utm_campaign=1058&utm_source=git)** | Nashville Metro | On Site | Jan 22 |
 | **[Mouser Electronics](http://mouser.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/697257169b83b424830e4054?utm_campaign=1058&utm_source=git)** | Mansfield, TX, United States | On Site | Jan 22 |
 | **[UMB Bank](https://www.umb.com/)** | **[Institutional Custody Administration Intern](https://jobright.ai/jobs/info/69724b0c4ccbf64f8df2350e?utm_campaign=1058&utm_source=git)** | Kansas City MO | Hybrid | Jan 22 |
+| **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[Nurse Intern- Medical Trauma 5E](https://jobright.ai/jobs/info/69726a8c4ccbf64f8df261b9?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Jan 22 |
 | **[Iowa Select Farms](http://iowaselect.com)** | **[Bilingual Process Documentation Intern (Part time)-Des Moines](https://jobright.ai/jobs/info/697244034ccbf64f8df2322c?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Jan 22 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6972434d4ccbf64f8df231cb?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 22 |
 | **[FMOL Health](https://fmolhs.org)** | **[Intern](https://jobright.ai/jobs/info/69724259584a1c1ef6fd3b61?utm_campaign=1058&utm_source=git)** | 4200 Essen Lane, Baton Rouge, LA, 70809, US | On Site | Jan 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/697170f3587dfa0bb55f0e7f?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Jan 21 |
 | **[Philadelphia Eagles](http://www.philadelphiaeagles.com)** | **[Ticket and Fan Services Academic Internship (Summer 2026)](https://jobright.ai/jobs/info/69716eda587dfa0bb55f0d6a?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
 | **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern - Technical Services (May 2026)](https://jobright.ai/jobs/info/69716e1d587dfa0bb55f0ce5?utm_campaign=1058&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 21 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Intern Rooms (Front Desk/Guest Services) - Spring 2026](https://jobright.ai/jobs/info/69718b53333b6343a14e264c?utm_campaign=1058&utm_source=git)** | US-TX-Fort Worth | On Site | Jan 21 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Global Customer Support Primary Stains](https://jobright.ai/jobs/info/69715263333b6343a14ddc4d?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
