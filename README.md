@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Arena Ticketing Intern](https://jobright.ai/jobs/info/6971e684b707bf728a4b815b?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Service Desk Co-op (July to December)](https://jobright.ai/jobs/info/6971e65dcda45e69535813aa?utm_campaign=1058&utm_source=git)** | Needham, MA | On Site | Jan 22 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/6971e658cda45e695358139b?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 22 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6971e27547b64f4e963e152b?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Jan 22 |
 | **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Information Technology Help Desk Intern](https://jobright.ai/jobs/info/6971dd21b707bf728a4b667b?utm_campaign=1058&utm_source=git)** | Tacoma, WA | On Site | Jan 22 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Arena Ticketing Intern](https://jobright.ai/jobs/info/6971d919b707bf728a4b633e?utm_campaign=1058&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jan 22 |
@@ -65,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[AHMC HealthCare](http://AHMChealth.com)** | **[Intern Pharmacist-Per Diem](https://jobright.ai/jobs/info/6971c72251f7264771843981?utm_campaign=1058&utm_source=git)** | Anaheim, CA | On Site | Jan 21 |
 | **[Rapsodo](http://rapsodo.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6971c6c051f726477184396d?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Jan 21 |
 | **[Tri-City Medical Center](https://www.tricitymed.org)** | **[EKG TECHNICIAN INTERN](https://jobright.ai/jobs/info/6971c551587dfa0bb55f8f09?utm_campaign=1058&utm_source=git)** | Oceanside, CA | On Site | Jan 21 |
+| **[Trinity Partners](http://www.trinity-partners.com)** | **[Information Technology Summer Intern 2026](https://jobright.ai/jobs/info/6971ecd947b64f4e963e2d07?utm_campaign=1058&utm_source=git)** | Waltham, MA | On Site | Jan 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6971b53c333b6343a14e6b2d?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Jan 21 |
 | **[Siemens](https://www.siemens.com)** | **[Customer Experience & Support Internship](https://jobright.ai/jobs/info/6971ac71333b6343a14e5613?utm_campaign=1058&utm_source=git)** | Wendell, NC | On Site | Jan 21 |
 | **[MercyOne](https://www.mercyone.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6971aaf851f7264771842054?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Jan 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Philadelphia Eagles](http://www.philadelphiaeagles.com)** | **[Ticket and Fan Services Academic Internship (Summer 2026)](https://jobright.ai/jobs/info/6971300551f7264771836508?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
 | **[Surgery Partners, Inc](http://www.surgerypartners.com/)** | **[Surgical Technologist Intern](https://jobright.ai/jobs/info/69712fd5333b6343a14da119?utm_campaign=1058&utm_source=git)** | Durham, North Carolina, United States | On Site | Jan 21 |
 | **[Howard Hughes Medical Institute (HHMI)](http://www.hhmi.org/)** | **[Conference Services Intern](https://jobright.ai/jobs/info/695f1c42a112b402660de628?utm_campaign=1058&utm_source=git)** | Chevy Chase, MD | On Site | Jan 21 |
-| **[Bismarck Public Schools](https://www.bismarckschools.org)** | **[BPS Technology Support Specialist - Student Intern I](https://jobright.ai/jobs/info/69712d6f587dfa0bb55eb5a5?utm_campaign=1058&utm_source=git)** | Bismarck, ND | On Site | Jan 21 |
-| **[Orlando Health](https://www.orlandohealth.com/)** | **[Senior Nurse Intern](https://jobright.ai/jobs/info/69712d1651f72647718361c6?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Jan 21 |
-| **[Columbia Insurance](https://www.colinsgrp.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/69712bff51f7264771836080?utm_campaign=1058&utm_source=git)** | Columbia, MO | On Site | Jan 21 |
-| **[Navitus Health Solutions](https://www.navitus.com/)** | **[Technical Writer Summer Intern](https://jobright.ai/jobs/info/697129e4333b6343a14d9a9a?utm_campaign=1058&utm_source=git)** | US- | Remote | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
