@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Intern (Multiple Divisions)](https://jobright.ai/jobs/info/6967fa561703f05405a99882?utm_campaign=1058&utm_source=git)** | Hackensack, NJ | On Site | Jan 23 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/6973d82937785856350daa9f?utm_campaign=1058&utm_source=git)** | Kalamazoo, MI | On Site | Jan 23 |
+| **[Kirby Risk](https://www.kirbyrisk.com)** | **[IT Intern (Starting May 2026!) - Cybersecurity](https://jobright.ai/jobs/info/6973d5b0bc8e722e7b18a4ba?utm_campaign=1058&utm_source=git)** | Lafayette, IN | On Site | Jan 23 |
+| **[Stellar](http://stellarindustries.com)** | **[IT Infrastructure Support Intern - Spring Semester 2026](https://jobright.ai/jobs/info/6973d17f206da320f49dcbea?utm_campaign=1058&utm_source=git)** | Garner,IA,US | On Site | Jan 23 |
 | **[PGT Trucking, Inc.](https://www.pgttrucking.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6973cfc437785856350da23a?utm_campaign=1058&utm_source=git)** | Aliquippa, PA, United States | On Site | Jan 23 |
 | **[Center for Internet Security](http://cisecurity.org/)** | **[IT Intern - Albany, NY](https://jobright.ai/jobs/info/6973cf85206da320f49dc996?utm_campaign=1058&utm_source=git)** | East Greenbush, NY | On Site | Jan 23 |
 | **[LEXR](http://www.lexr.com)** | **[Working Student](https://jobright.ai/jobs/info/6973cc9137785856350d9e79?utm_campaign=1058&utm_source=git)** | Washington County, OR | On Site | Jan 23 |
-| **[HomeTown Credit Union, Minnesota](https://www.hometowncu.coop/)** | **[High School Intern - Teller / Member Services Representative (MSR)](https://jobright.ai/jobs/info/6973cc29206da320f49dc57a?utm_campaign=1058&utm_source=git)** | 150 18th Street Southwest, Owatonna, MN, USA | On Site | Jan 23 |
 | **[Center for Internet Security](http://cisecurity.org/)** | **[IT Intern - Albany, NY](https://jobright.ai/jobs/info/6973cb85206da320f49dc4c1?utm_campaign=1058&utm_source=git)** | East Greenbush Headquarters | On Site | Jan 23 |
 | **[Stellar](http://stellarindustries.com)** | **[IT Infrastructure Support Intern - Summer 2026](https://jobright.ai/jobs/info/6973c914bc8e722e7b189709?utm_campaign=1058&utm_source=git)** | Garner,IA,US | On Site | Jan 23 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - RTI Division](https://jobright.ai/jobs/info/6973c487206da320f49dbc4d?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 23 |
@@ -69,9 +72,11 @@ For a complete list, click the following sortable link below:
 | **[Move United](https://moveunitedsport.org)** | **[USAWFL INTERN (8/1-11/22)](https://jobright.ai/jobs/info/6973baee206da320f49db798?utm_campaign=1058&utm_source=git)** | Rockville, MD | Remote | Jan 23 |
 | **[Sedgwick](http://www.sedgwick.com)** | **[IT Intern](https://jobright.ai/jobs/info/6973ba5a206da320f49db720?utm_campaign=1058&utm_source=git)** | Memphis, TN | Hybrid | Jan 23 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Salesforce 6 month internship (remote)](https://jobright.ai/jobs/info/697023143ed06875134b226a?utm_campaign=1058&utm_source=git)** | Virginia, United States | Remote | Jan 23 |
+| **[Riverhead Building Supply](https://www.rbscorp.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6973d843bc8e722e7b18a78d?utm_campaign=1058&utm_source=git)** | Calverton, NY, US | On Site | Jan 23 |
 | **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68cd9657b2a74e1837ed9323?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Advanced Practice Nurse Intern - Critical Care - Nights](https://jobright.ai/jobs/info/6973b335206da320f49db394?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jan 23 |
 | **[Aires](https://www.aires.com)** | **[2026 Summer IT Intern - Applications Support](https://jobright.ai/jobs/info/6973af10bc8e722e7b188710?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 23 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Gastro - APRN/PA - Instrc. I - Internal Medicine](https://jobright.ai/jobs/info/6973d0df37785856350da377?utm_campaign=1058&utm_source=git)** | Florida, United States | On Site | Jan 23 |
 | **[Viaero Wireless](http://www.viaero.com)** | **[Warehouse Intern](https://jobright.ai/jobs/info/6973c8b1206da320f49dc13e?utm_campaign=1058&utm_source=git)** | Fort Morgan, CO | On Site | Jan 23 |
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Healthcare Navigation Intern](https://jobright.ai/jobs/info/6973a875bc8e722e7b186c07?utm_campaign=1058&utm_source=git)** | Lahey Hospital and Medical Center | On Site | Jan 23 |
 | **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/6875a21b5cebcd1dd51c233d?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Jan 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Mobility Customer Support Program Undergraduate Intern - Summer 2026](https://jobright.ai/jobs/info/69730af9694e99351d145add?utm_campaign=1058&utm_source=git)** | Livermore, CA | On Site | Jan 22 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[IT Summer Intern](https://jobright.ai/jobs/info/6972e51498522904c697b8ca?utm_campaign=1058&utm_source=git)** | Dayton, OH | Hybrid | Jan 22 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY AUTHORIZATIONS & PROFILES TEAM SPECIALIST I](https://jobright.ai/jobs/info/6972e1571d55d64a20534458?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 22 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6972e1251d55d64a20534419?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Jan 22 |
-| **[Kuvare Holdings](http://kuvare.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6972fedd1790715e866beaf6?utm_campaign=1058&utm_source=git)** | Cedar Rapids, IA | On Site | Jan 22 |
-| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Mobility Customer Support Program Graduate Intern - Summer 2026](https://jobright.ai/jobs/info/6972fed0206da320f49cf403?utm_campaign=1058&utm_source=git)** | Livermore, CA | On Site | Jan 22 |
-| **[Parkland Health](https://www.parklandhealth.org)** | **[College Intern PRN Summer 2026](https://jobright.ai/jobs/info/6972fb811790715e866be836?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 22 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6972da991d55d64a20533c40?utm_campaign=1058&utm_source=git)** | Greenwood Village, CO | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
