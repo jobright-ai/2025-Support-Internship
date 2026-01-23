@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6972ed940488fd59f7d5e962?utm_campaign=1058&utm_source=git)** | Issaquah, WA | On Site | Jan 22 |
+| ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6972ebc81d55d64a20534d02?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Jan 22 |
+| **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6944700a94730b7398779ac1?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Jan 22 |
+| **[Mouser Electronics](http://mouser.com)** | **[Customer Accounts Intern](https://jobright.ai/jobs/info/6972e63e0488fd59f7d5e401?utm_campaign=1058&utm_source=git)** | Mansfield, TX | On Site | Jan 22 |
+| **[DCS Corp](http://www.dcscorp.com)** | **[IT Summer Intern](https://jobright.ai/jobs/info/6972e51498522904c697b8ca?utm_campaign=1058&utm_source=git)** | Dayton, OH | Hybrid | Jan 22 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY AUTHORIZATIONS & PROFILES TEAM SPECIALIST I](https://jobright.ai/jobs/info/6972e1571d55d64a20534458?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 22 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6972e1251d55d64a20534419?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Jan 22 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6972da991d55d64a20533c40?utm_campaign=1058&utm_source=git)** | Greenwood Village, CO | On Site | Jan 22 |
@@ -66,9 +71,14 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (Bay Area)](https://jobright.ai/jobs/info/6972d5570488fd59f7d5ce56?utm_campaign=1058&utm_source=git)** | Walnut Creek, CA, US | On Site | Jan 22 |
 | **[ASML](https://www.asml.com)** | **[Internship - Customer Support DUV- Chandler](https://jobright.ai/jobs/info/6972d3381d55d64a205332ff?utm_campaign=1058&utm_source=git)** | Chandler, AZ | On Site | Jan 22 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6972d1f50488fd59f7d5c9a8?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | Jan 22 |
+| **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[IT Support Specialist Intern](https://jobright.ai/jobs/info/6972e9d50488fd59f7d5e645?utm_campaign=1058&utm_source=git)** | Downers Grove, IL | On Site | Jan 22 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Part-Time Information Technology Intern](https://jobright.ai/jobs/info/6972eaec1d55d64a20534c5e?utm_campaign=1058&utm_source=git)** | West Palm Beach, FL | On Site | Jan 22 |
+| ↳ | **[Information Technology Intern](https://jobright.ai/jobs/info/6972e9120488fd59f7d5e5dc?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Jan 22 |
+| **[UNC Health Blue Ridge](https://www.unchealthblueridge.org)** | **[Certified Nursing Assistant I Intern PRN](https://jobright.ai/jobs/info/6972eb671d55d64a20534cb9?utm_campaign=1058&utm_source=git)** | Morganton, NC | On Site | Jan 22 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Intern, Imaging Services](https://jobright.ai/jobs/info/6972c0d54ccbf64f8df2cc0e?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Jan 22 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern](https://jobright.ai/jobs/info/6972c04d4ccbf64f8df2cb7c?utm_campaign=1058&utm_source=git)** | Mercy Hospital Waldron | On Site | Jan 22 |
 | **[Okta](http://www.okta.com)** | **[IT Support Intern (Summer 2026)](https://jobright.ai/jobs/info/6972bec44ccbf64f8df2c9c9?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Jan 22 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Clinical Intern - Sonography](https://jobright.ai/jobs/info/6972e46f98522904c697b823?utm_campaign=1058&utm_source=git)** | US-TN-Nashville | On Site | Jan 22 |
 | **[Tricentis](https://tricentis.com)** | **[Support Intern](https://jobright.ai/jobs/info/6972bcf8584a1c1ef6fdcea9?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
 | **[Sosuite](https://staysosuite.com/)** | **[Part-Time Leasing Intern](https://jobright.ai/jobs/info/6972dd920488fd59f7d5d8db?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 22 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern I](https://jobright.ai/jobs/info/6972b8274ccbf64f8df2c3c5?utm_campaign=1058&utm_source=git)** | Mercy Hospital Booneville | On Site | Jan 22 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697245e64ccbf64f8df232d4?utm_campaign=1058&utm_source=git)** | Liberty, MO | On Site | Jan 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697247c1584a1c1ef6fd3e17?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69724961584a1c1ef6fd3f07?utm_campaign=1058&utm_source=git)** | Lees Summit, MO | On Site | Jan 22 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6972466d9b83b424830e3167?utm_campaign=1058&utm_source=git)** | Rahway, NJ | On Site | Jan 22 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697243cd584a1c1ef6fd3c47?utm_campaign=1058&utm_source=git)** | Lees Summit, MO | On Site | Jan 22 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697245d74ccbf64f8df232cc?utm_campaign=1058&utm_source=git)** | Lenoir, NC | On Site | Jan 22 |
-| **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern, Chartwell](https://jobright.ai/jobs/info/693a905c383bf9631983aaa4?utm_campaign=1058&utm_source=git)** | Oakdale, PA | On Site | Jan 22 |
-| **[Stephens](https://www.stephens.com)** | **[Stephens Insurance Summer Intern](https://jobright.ai/jobs/info/693a19ba56b68f3dc4e7729d?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Jan 22 |
-| **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Branch Intern - Paid Internship (Birmingham, AL)](https://jobright.ai/jobs/info/69018661d5259a1b3cff5d2c?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Jan 22 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Technical Support Analyst Intern (Hybrid) (Summer 2026 Internship)](https://jobright.ai/jobs/info/691cf37b22a2cb4b9bd1f0f6?utm_campaign=1058&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 22 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II  Med Surg Collierville](https://jobright.ai/jobs/info/697237b24ccbf64f8df225f9?utm_campaign=1058&utm_source=git)** | Collierville, TN | On Site | Jan 22 |
-| **[Cintas](https://www.cintas.com)** | **[IT Intern - Mobility](https://jobright.ai/jobs/info/6972113447b64f4e963e4334?utm_campaign=1058&utm_source=git)** | Mason, OH | On Site | Jan 22 |
-| **[Dean Dorton](http://www.deandorton.com)** | **[Technology Apprentice](https://jobright.ai/jobs/info/68ffdc5b0ab3b222462af288?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
