@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern](https://jobright.ai/jobs/info/697314111790715e866c16e3?utm_campaign=1058&utm_source=git)** | Waldron, AR | On Site | Jan 22 |
+| ↳ | **[Radiology Intern I](https://jobright.ai/jobs/info/697313c4206da320f49d1f2c?utm_campaign=1058&utm_source=git)** | Booneville, AR | On Site | Jan 22 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (Bay Area)](https://jobright.ai/jobs/info/6972f908206da320f49cef2f?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Jan 22 |
 | **[Adventist Health](https://www.adventisthealth.org/)** | **[Pharmacist (Intern)](https://jobright.ai/jobs/info/6972f70b206da320f49cedfc?utm_campaign=1058&utm_source=git)** | ONE Adventist Health Way, Roseville, CA, 95661, US | On Site | Jan 22 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (Bay Area)](https://jobright.ai/jobs/info/6972f6b5694e99351d143ea9?utm_campaign=1058&utm_source=git)** | Walnut Creek, CA | On Site | Jan 22 |
@@ -138,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[DLL](http://dllgroup.com)** | **[IT Customer Experience Intern](https://jobright.ai/jobs/info/69725cd09b83b424830e572e?utm_campaign=1058&utm_source=git)** | Wayne, PA, United States | Remote | Jan 22 |
 | ↳ | **[Customer Service - Intern](https://jobright.ai/jobs/info/69725a1c584a1c1ef6fd57ff?utm_campaign=1058&utm_source=git)** | Des Moines, IA, United States | Hybrid | Jan 22 |
 | **[Ephrata National Bank](http://epnb.com)** | **[IT Application Delivery Intern](https://jobright.ai/jobs/info/6972599b9b83b424830e49d6?utm_campaign=1058&utm_source=git)** | Technology Center Building, Ephrata, PA, US | On Site | Jan 22 |
-| **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[Pharmacy Intern - Inpatient](https://jobright.ai/jobs/info/697258f54ccbf64f8df249d3?utm_campaign=1058&utm_source=git)** | Nashville Metro | On Site | Jan 22 |
 | **[Mouser Electronics](http://mouser.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/697257169b83b424830e4054?utm_campaign=1058&utm_source=git)** | Mansfield, TX, United States | On Site | Jan 22 |
 | **[UMB Bank](https://www.umb.com/)** | **[Institutional Custody Administration Intern](https://jobright.ai/jobs/info/69724b0c4ccbf64f8df2350e?utm_campaign=1058&utm_source=git)** | Kansas City MO | Hybrid | Jan 22 |
 | **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[Nurse Intern- Medical Trauma 5E](https://jobright.ai/jobs/info/69726a8c4ccbf64f8df261b9?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Jan 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69723c82584a1c1ef6fd3875?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Jan 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69723acb4ccbf64f8df22d15?utm_campaign=1058&utm_source=git)** | Hickory, NC | On Site | Jan 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697239cf584a1c1ef6fd36b8?utm_campaign=1058&utm_source=git)** | Olathe, KS | On Site | Jan 22 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e380071852e62f007fc45d?utm_campaign=1058&utm_source=git)** | Myrtle Beach, SC | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
