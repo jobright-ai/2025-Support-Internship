@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[INTEGRIS Health](https://www.integrisok.com)** | **[Advanced Practice Nurse Intern - Critical Care - Nights](https://jobright.ai/jobs/info/6973b335206da320f49db394?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jan 23 |
+| **[Aires](https://www.aires.com)** | **[2026 Summer IT Intern - Applications Support](https://jobright.ai/jobs/info/6973af10bc8e722e7b188710?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 23 |
+| **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Healthcare Navigation Intern](https://jobright.ai/jobs/info/6973a875bc8e722e7b186c07?utm_campaign=1058&utm_source=git)** | Lahey Hospital and Medical Center | On Site | Jan 23 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Health & Safety](https://jobright.ai/jobs/info/69739fa4bc8e722e7b1867f0?utm_campaign=1058&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jan 23 |
 | **[Symbria](https://www.symbria.com/)** | **[Active Pharmacy Student/Intern Tech - PRN](https://jobright.ai/jobs/info/6973983f206da320f49d8db2?utm_campaign=1058&utm_source=git)** | Sharpsburg, PA | On Site | Jan 23 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6973927837785856350d632d?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Jan 23 |
@@ -88,7 +91,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697385ac206da320f49d843c?utm_campaign=1058&utm_source=git)** | Manistee, MI | On Site | Jan 23 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69738579bc8e722e7b1859fd?utm_campaign=1058&utm_source=git)** | Marquette, MI | On Site | Jan 23 |
 | **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/69025b63ff462851fefe2489?utm_campaign=1058&utm_source=git)** | Waukegan, IL | On Site | Jan 23 |
-| **[Deepiri](https://deepiri.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6973a04f37785856350d6957?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 23 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Branch Intern - Paid Internship (Huntsville, AL)](https://jobright.ai/jobs/info/69018291d5259a1b3cff597b?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | Jan 23 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Technical Support Analyst Intern](https://jobright.ai/jobs/info/69018a94f8ce7a040fdc0a5b?utm_campaign=1058&utm_source=git)** | Sheboygan, WI | On Site | Jan 23 |
 | **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/6902a6b8ff462851fefe5852?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UNC Health Blue Ridge](https://www.unchealthblueridge.org)** | **[Certified Nursing Assistant I Intern PRN](https://jobright.ai/jobs/info/6972eb671d55d64a20534cb9?utm_campaign=1058&utm_source=git)** | Morganton, NC | On Site | Jan 22 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Intern, Imaging Services](https://jobright.ai/jobs/info/6972c0d54ccbf64f8df2cc0e?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Jan 22 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern](https://jobright.ai/jobs/info/6972c04d4ccbf64f8df2cb7c?utm_campaign=1058&utm_source=git)** | Mercy Hospital Waldron | On Site | Jan 22 |
-| **[Okta](http://www.okta.com)** | **[IT Support Intern (Summer 2026)](https://jobright.ai/jobs/info/6972bec44ccbf64f8df2c9c9?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Jan 22 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Clinical Intern - Sonography](https://jobright.ai/jobs/info/6972e46f98522904c697b823?utm_campaign=1058&utm_source=git)** | US-TN-Nashville | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
