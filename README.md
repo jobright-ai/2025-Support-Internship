@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Customer Satisfaction Interviewer Intern](https://jobright.ai/jobs/info/693aebe2b309e3780086a4cf?utm_campaign=1058&utm_source=git)** | Dayton Metropolitan Area | On Site | Jan 23 |
 | **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/6921352a00c9ee50eaeccdcf?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | Hybrid | Jan 23 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69734b2c206da320f49d5777?utm_campaign=1058&utm_source=git)** | Waukegan, IL | On Site | Jan 23 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69734a36206da320f49d5706?utm_campaign=1058&utm_source=git)** | Santa Paula, CA | On Site | Jan 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6972434d4ccbf64f8df231cb?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 22 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697242484ccbf64f8df23133?utm_campaign=1058&utm_source=git)** | Liberty, MO | On Site | Jan 22 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6972420f584a1c1ef6fd3b3a?utm_campaign=1058&utm_source=git)** | Abilene, TX | On Site | Jan 22 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697240fc4ccbf64f8df23058?utm_campaign=1058&utm_source=git)** | Troutman, NC | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
