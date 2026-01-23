@@ -57,14 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Guardian Pharmacy](https://guardianpharmacy.com)** | **[Pharmacist Pre - Grad Intern](https://jobright.ai/jobs/info/6973f8f937785856350ddcd6?utm_campaign=1058&utm_source=git)** | Seattle, Washington | On Site | Jan 23 |
+| **[WVU Medicine](https://wvumedicine.org/)** | **[Intern/Extern - Critical Care](https://jobright.ai/jobs/info/6973f8a7bc8e722e7b18df2f?utm_campaign=1058&utm_source=git)** | Thomas Memorial Hospital (TMH) | On Site | Jan 23 |
+| **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern - UPMC Harrisburg](https://jobright.ai/jobs/info/6973f0f637785856350dc3f2?utm_campaign=1058&utm_source=git)** | Harrisburg, PA | On Site | Jan 23 |
+| **[Stellar](http://stellarindustries.com)** | **[IT Infrastructure Support Intern - Spring Semester 2026](https://jobright.ai/jobs/info/6973f0a1bc8e722e7b18d6b3?utm_campaign=1058&utm_source=git)** | Garner, IA | On Site | Jan 23 |
+| **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Healthcare Navigation Intern](https://jobright.ai/jobs/info/6973f08337785856350dc2a4?utm_campaign=1058&utm_source=git)** | Burlington, MA | On Site | Jan 23 |
+| **[WVU Medicine](https://wvumedicine.org/)** | **[Intern/Extern-Critical Care](https://jobright.ai/jobs/info/6973ee6dbc8e722e7b18d2f3?utm_campaign=1058&utm_source=git)** | Thomas Memorial Hospital (TMH) | On Site | Jan 23 |
 | **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Business Systems Analyst](https://jobright.ai/jobs/info/6973ea28206da320f49de23c?utm_campaign=1058&utm_source=git)** | NY LI Jericho | On Site | Jan 23 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Hospitality - Summer 2026](https://jobright.ai/jobs/info/6973e23f37785856350db30b?utm_campaign=1058&utm_source=git)** | Brillion, WI | On Site | Jan 23 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Intern (Multiple Divisions)](https://jobright.ai/jobs/info/6967fa561703f05405a99882?utm_campaign=1058&utm_source=git)** | Hackensack, NJ | On Site | Jan 23 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/6973d82937785856350daa9f?utm_campaign=1058&utm_source=git)** | Kalamazoo, MI | On Site | Jan 23 |
+| **[Stellar](http://stellarindustries.com)** | **[IT Infrastructure Support Intern - Summer 2026](https://jobright.ai/jobs/info/6973f5a1206da320f49df99c?utm_campaign=1058&utm_source=git)** | Garner, IA | On Site | Jan 23 |
 | **[Kirby Risk](https://www.kirbyrisk.com)** | **[IT Intern (Starting May 2026!) - Cybersecurity](https://jobright.ai/jobs/info/6973d5b0bc8e722e7b18a4ba?utm_campaign=1058&utm_source=git)** | Lafayette, IN | On Site | Jan 23 |
+| **[Saint Francis Healthcare Memphis-Bartlett](https://www.saintfrancishosp.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6973ef05bc8e722e7b18d4ba?utm_campaign=1058&utm_source=git)** | Bartlett, TN | On Site | Jan 23 |
 | **[Stellar](http://stellarindustries.com)** | **[IT Infrastructure Support Intern - Spring Semester 2026](https://jobright.ai/jobs/info/6973d17f206da320f49dcbea?utm_campaign=1058&utm_source=git)** | Garner,IA,US | On Site | Jan 23 |
-| **[PGT Trucking, Inc.](https://www.pgttrucking.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6973cfc437785856350da23a?utm_campaign=1058&utm_source=git)** | Aliquippa, PA, United States | On Site | Jan 23 |
 | **[Center for Internet Security](http://cisecurity.org/)** | **[IT Intern - Albany, NY](https://jobright.ai/jobs/info/6973cf85206da320f49dc996?utm_campaign=1058&utm_source=git)** | East Greenbush, NY | On Site | Jan 23 |
+| **[Dickinson ISD](http://www.dickinsonisd.org)** | **[Computer Technician Intern](https://jobright.ai/jobs/info/6973f7ee37785856350dd9f9?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Jan 23 |
 | **[LEXR](http://www.lexr.com)** | **[Working Student](https://jobright.ai/jobs/info/6973cc9137785856350d9e79?utm_campaign=1058&utm_source=git)** | Washington County, OR | On Site | Jan 23 |
 | **[Center for Internet Security](http://cisecurity.org/)** | **[IT Intern - Albany, NY](https://jobright.ai/jobs/info/6973cb85206da320f49dc4c1?utm_campaign=1058&utm_source=git)** | East Greenbush Headquarters | On Site | Jan 23 |
 | **[Stellar](http://stellarindustries.com)** | **[IT Infrastructure Support Intern - Summer 2026](https://jobright.ai/jobs/info/6973c914bc8e722e7b189709?utm_campaign=1058&utm_source=git)** | Garner,IA,US | On Site | Jan 23 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern](https://jobright.ai/jobs/info/697314111790715e866c16e3?utm_campaign=1058&utm_source=git)** | Waldron, AR | On Site | Jan 22 |
 | ↳ | **[Radiology Intern I](https://jobright.ai/jobs/info/697313c4206da320f49d1f2c?utm_campaign=1058&utm_source=git)** | Booneville, AR | On Site | Jan 22 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #385](https://jobright.ai/jobs/info/69733d2a206da320f49d3fc3?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Jan 22 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (Bay Area)](https://jobright.ai/jobs/info/6972f908206da320f49cef2f?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Jan 22 |
-| **[Adventist Health](https://www.adventisthealth.org/)** | **[Pharmacist (Intern)](https://jobright.ai/jobs/info/6972f70b206da320f49cedfc?utm_campaign=1058&utm_source=git)** | ONE Adventist Health Way, Roseville, CA, 95661, US | On Site | Jan 22 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (Bay Area)](https://jobright.ai/jobs/info/6972f6b5694e99351d143ea9?utm_campaign=1058&utm_source=git)** | Walnut Creek, CA | On Site | Jan 22 |
-| **[Adventist Health](https://www.adventisthealth.org/)** | **[Pharmacist (Intern)](https://jobright.ai/jobs/info/6972f59a694e99351d143dae?utm_campaign=1058&utm_source=git)** | Roseville, CA | On Site | Jan 22 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6972ed940488fd59f7d5e962?utm_campaign=1058&utm_source=git)** | Issaquah, WA | On Site | Jan 22 |
-| ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6972ebc81d55d64a20534d02?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Jan 22 |
-| **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6944700a94730b7398779ac1?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Jan 22 |
-| **[Mouser Electronics](http://mouser.com)** | **[Customer Accounts Intern](https://jobright.ai/jobs/info/6972e63e0488fd59f7d5e401?utm_campaign=1058&utm_source=git)** | Mansfield, TX | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
