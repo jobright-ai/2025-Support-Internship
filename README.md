@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Daifuku](https://www.daifuku.com/)** | **[IT Co-Op/Intern](https://jobright.ai/jobs/info/6973450e206da320f49d52fa?utm_campaign=1058&utm_source=git)** | Novi, MI | On Site | Jan 23 |
+| **[Bassett Medical Center](https://www.bassett.org/medical/career-center/bassett-medical-center-regional-site-opportunities)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/697342de1790715e866c454c?utm_campaign=1058&utm_source=git)** | Cooperstown, NY | On Site | Jan 23 |
+| **[FirstOntario Credit Union](https://www.firstontario.com)** | **[Member Service Representative (Summer Student)](https://jobright.ai/jobs/info/69734251206da320f49d4b2a?utm_campaign=1058&utm_source=git)** | Niagara Falls, Ontario, Canada | Hybrid | Jan 23 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69733aee1790715e866c31c9?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 23 |
+| **[Sosuite](https://staysosuite.com/)** | **[Part-Time Leasing Intern](https://jobright.ai/jobs/info/697336341790715e866c2b49?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
+| **[McLaren Health Care](http://www.mclaren.org)** | **[Respiratory Intern](https://jobright.ai/jobs/info/69732e3e1790715e866c2805?utm_campaign=1058&utm_source=git)** | Lansing, MI | On Site | Jan 23 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern](https://jobright.ai/jobs/info/697314111790715e866c16e3?utm_campaign=1058&utm_source=git)** | Waldron, AR | On Site | Jan 22 |
 | ↳ | **[Radiology Intern I](https://jobright.ai/jobs/info/697313c4206da320f49d1f2c?utm_campaign=1058&utm_source=git)** | Booneville, AR | On Site | Jan 22 |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #385](https://jobright.ai/jobs/info/69733d2a206da320f49d3fc3?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Jan 22 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (Bay Area)](https://jobright.ai/jobs/info/6972f908206da320f49cef2f?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Jan 22 |
 | **[Adventist Health](https://www.adventisthealth.org/)** | **[Pharmacist (Intern)](https://jobright.ai/jobs/info/6972f70b206da320f49cedfc?utm_campaign=1058&utm_source=git)** | ONE Adventist Health Way, Roseville, CA, 95661, US | On Site | Jan 22 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (Bay Area)](https://jobright.ai/jobs/info/6972f6b5694e99351d143ea9?utm_campaign=1058&utm_source=git)** | Walnut Creek, CA | On Site | Jan 22 |
@@ -73,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6972e1251d55d64a20534419?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Jan 22 |
 | **[Kuvare Holdings](http://kuvare.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6972fedd1790715e866beaf6?utm_campaign=1058&utm_source=git)** | Cedar Rapids, IA | On Site | Jan 22 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Mobility Customer Support Program Graduate Intern - Summer 2026](https://jobright.ai/jobs/info/6972fed0206da320f49cf403?utm_campaign=1058&utm_source=git)** | Livermore, CA | On Site | Jan 22 |
-| ↳ | **[Computer Support Technician Undergraduate Intern - Summer 2026](https://jobright.ai/jobs/info/6972fd4c1790715e866be9b0?utm_campaign=1058&utm_source=git)** | Livermore, CA | On Site | Jan 22 |
 | **[Parkland Health](https://www.parklandhealth.org)** | **[College Intern PRN Summer 2026](https://jobright.ai/jobs/info/6972fb811790715e866be836?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 22 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6972da991d55d64a20533c40?utm_campaign=1058&utm_source=git)** | Greenwood Village, CO | On Site | Jan 22 |
 | ↳ | **[Information Technology Intern](https://jobright.ai/jobs/info/6972da1198522904c697aca4?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
@@ -93,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Okta](http://www.okta.com)** | **[IT Support Intern (Summer 2026)](https://jobright.ai/jobs/info/6972bec44ccbf64f8df2c9c9?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Jan 22 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Clinical Intern - Sonography](https://jobright.ai/jobs/info/6972e46f98522904c697b823?utm_campaign=1058&utm_source=git)** | US-TN-Nashville | On Site | Jan 22 |
 | **[Tricentis](https://tricentis.com)** | **[Support Intern](https://jobright.ai/jobs/info/6972bcf8584a1c1ef6fdcea9?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
-| **[Sosuite](https://staysosuite.com/)** | **[Part-Time Leasing Intern](https://jobright.ai/jobs/info/6972dd920488fd59f7d5d8db?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 22 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern I](https://jobright.ai/jobs/info/6972b8274ccbf64f8df2c3c5?utm_campaign=1058&utm_source=git)** | Mercy Hospital Booneville | On Site | Jan 22 |
 | **[MyMichigan Health](https://www.mymichigan.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6972af259b83b424830eb796?utm_campaign=1058&utm_source=git)** | Alma, MI | On Site | Jan 22 |
 | **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[Nurse Intern- NICU](https://jobright.ai/jobs/info/6972c72e4ccbf64f8df2d2a2?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Jan 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69723f2d4ccbf64f8df22f4d?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Jan 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69723ed99b83b424830e2d84?utm_campaign=1058&utm_source=git)** | Maiden, NC | On Site | Jan 22 |
 | **[HCA Florida Westside Hospital](https://www.hcafloridahealthcare.com/locations/westside-hospital/)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/6939b8ddac80bb5492bc3799?utm_campaign=1058&utm_source=git)** | Plantation, FL | On Site | Jan 22 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69723da64ccbf64f8df22eb7?utm_campaign=1058&utm_source=git)** | Wilmington, DE | On Site | Jan 22 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69723c82584a1c1ef6fd3875?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Jan 22 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69723acb4ccbf64f8df22d15?utm_campaign=1058&utm_source=git)** | Hickory, NC | On Site | Jan 22 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697239cf584a1c1ef6fd36b8?utm_campaign=1058&utm_source=git)** | Olathe, KS | On Site | Jan 22 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e380071852e62f007fc45d?utm_campaign=1058&utm_source=git)** | Myrtle Beach, SC | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
