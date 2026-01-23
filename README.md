@@ -99,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[Nurse Intern- NICU](https://jobright.ai/jobs/info/6972c72e4ccbf64f8df2d2a2?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Jan 22 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Technical Writer Intern - Sunnyvale CA - R10220110](https://jobright.ai/jobs/info/6972a39b584a1c1ef6fdb47e?utm_campaign=1058&utm_source=git)** | Sunnyvale, CA | On Site | Jan 22 |
 | **[Mouser Electronics](http://mouser.com)** | **[Customer Accounts Intern](https://jobright.ai/jobs/info/69729fa6584a1c1ef6fdab61?utm_campaign=1058&utm_source=git)** | Mansfield, TX, United States | On Site | Jan 22 |
-| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Computer Support Technician Undergraduate Intern - Summer 2026](https://jobright.ai/jobs/info/69729e53584a1c1ef6fda833?utm_campaign=1058&utm_source=git)** | Livermore, CA | On Site | Jan 22 |
 | **[Jefferson Health](http://JeffersonHealth.org)** | **[Pharmacy Intern - Per Diem - Jefferson Center City](https://jobright.ai/jobs/info/69729e239b83b424830e9fe8?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 22 |
 | **[ELLWOOD](https://www.ellwoodepps.com)** | **[Intern - IT](https://jobright.ai/jobs/info/69729cfe4ccbf64f8df29f41?utm_campaign=1058&utm_source=git)** | New Castle, PA | On Site | Jan 22 |
 | **[Jefferson Health](http://JeffersonHealth.org)** | **[Pharmacy Intern - Per Diem - Center City](https://jobright.ai/jobs/info/69729cd7584a1c1ef6fda534?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69723c82584a1c1ef6fd3875?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Jan 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69723acb4ccbf64f8df22d15?utm_campaign=1058&utm_source=git)** | Hickory, NC | On Site | Jan 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697239cf584a1c1ef6fd36b8?utm_campaign=1058&utm_source=git)** | Olathe, KS | On Site | Jan 22 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e380071852e62f007fc45d?utm_campaign=1058&utm_source=git)** | Myrtle Beach, SC | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
