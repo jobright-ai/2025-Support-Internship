@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/6902a6b8ff462851fefe5852?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Jan 23 |
+| **[Teracloud](https://www.linkedin.com/company/68699349)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/697379f9bc8e722e7b18534f?utm_campaign=1058&utm_source=git)** | Morehead City, North Carolina, United States | On Site | Jan 23 |
+| **[Prologis](http://www.prologis.com)** | **[Intern, RECX/Property Management](https://jobright.ai/jobs/info/6901db01f8ce7a040fdc2fc4?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
+| **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/690254f8ff462851fefe1fc3?utm_campaign=1058&utm_source=git)** | Racine, WI | On Site | Jan 23 |
+| **[Rogers Electric](https://www.rogerselectric.com)** | **[IT Intern](https://jobright.ai/jobs/info/68cba2669e3a822f5d249752?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Jan 23 |
+| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/697238519b83b424830e285d?utm_campaign=1058&utm_source=git)** | Atlanta, GA | Hybrid | Jan 23 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Pharmacy Intern - Mail Center, Per Diem](https://jobright.ai/jobs/info/6973648f206da320f49d5d97?utm_campaign=1058&utm_source=git)** | Manchester, NH | On Site | Jan 23 |
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[IT Support Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/691e33f709cc522e877376d9?utm_campaign=1058&utm_source=git)** | Greater Chicago Area | On Site | Jan 23 |
 | **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/696db6f7db26b6189510ba2f?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 23 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, IT Computer Science](https://jobright.ai/jobs/info/6972785c584a1c1ef6fd72bc?utm_campaign=1058&utm_source=git)** | Blacksburg, VA | Hybrid | Jan 22 |
 | **[MemorialCare](https://www.memorialcare.org)** | **[Pharmacy Intern Per Diem](https://jobright.ai/jobs/info/69728e869b83b424830e7e55?utm_campaign=1058&utm_source=git)** | Fountain Valley, CA | On Site | Jan 22 |
 | **[Okaloosa County Clerk of Circuit Court & Comptroller](https://www.okaloosaclerk.com)** | **[Internship - Information Technology](https://jobright.ai/jobs/info/69728415584a1c1ef6fd7f4b?utm_campaign=1058&utm_source=git)** | Crestview or Fort Walton Beach | On Site | Jan 22 |
-| **[I.B. Abel, Inc.](https://www.ib-abel.com/)** | **[IT Intern](https://jobright.ai/jobs/info/697264979b83b424830e5b37?utm_campaign=1058&utm_source=git)** | York, PA | On Site | Jan 22 |
-| **[Tricentis](https://tricentis.com)** | **[Support Intern](https://jobright.ai/jobs/info/697262d1584a1c1ef6fd6643?utm_campaign=1058&utm_source=git)** | US - Atlanta | Hybrid | Jan 22 |
-| **[DaVita Kidney Care](http://www.davita.com)** | **[Registered Nurse - Internal Travel Team](https://jobright.ai/jobs/info/697262839b83b424830e5a49?utm_campaign=1058&utm_source=git)** | New Britain, CT | On Site | Jan 22 |
-| **[Wave Life Sciences](http://wavelifesciences.com)** | **[IT Lab Systems Support Intern (Summer 2026)](https://jobright.ai/jobs/info/69726163584a1c1ef6fd6547?utm_campaign=1058&utm_source=git)** | Lexington, MA | On Site | Jan 22 |
-| **[Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the-johns-hopkins-hospital)** | **[Patient Care Tech Intern - CNA - Cardiac Surgery Stepdown](https://jobright.ai/jobs/info/6972804d584a1c1ef6fd7ba1?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Jan 22 |
-| **[DLL](http://dllgroup.com)** | **[IT Customer Experience Intern](https://jobright.ai/jobs/info/69725cd09b83b424830e572e?utm_campaign=1058&utm_source=git)** | Wayne, PA, United States | Remote | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
