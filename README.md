@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/6921352a00c9ee50eaeccdcf?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | Hybrid | Jan 23 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69734b2c206da320f49d5777?utm_campaign=1058&utm_source=git)** | Waukegan, IL | On Site | Jan 23 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69734a36206da320f49d5706?utm_campaign=1058&utm_source=git)** | Santa Paula, CA | On Site | Jan 23 |
+| **[FirstOntario Credit Union](https://www.firstontario.com)** | **[Member Service Representative (Summer Student)](https://jobright.ai/jobs/info/6973487a37785856350d2950?utm_campaign=1058&utm_source=git)** | Niagara Falls, Ontario, Canada | On Site | Jan 23 |
 | **[Daifuku](https://www.daifuku.com/)** | **[IT Co-Op/Intern](https://jobright.ai/jobs/info/6973450e206da320f49d52fa?utm_campaign=1058&utm_source=git)** | Novi, MI | On Site | Jan 23 |
 | **[Bassett Medical Center](https://www.bassett.org/medical/career-center/bassett-medical-center-regional-site-opportunities)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/697342de1790715e866c454c?utm_campaign=1058&utm_source=git)** | Cooperstown, NY | On Site | Jan 23 |
 | **[FirstOntario Credit Union](https://www.firstontario.com)** | **[Member Service Representative (Summer Student)](https://jobright.ai/jobs/info/69734251206da320f49d4b2a?utm_campaign=1058&utm_source=git)** | Niagara Falls, Ontario, Canada | Hybrid | Jan 23 |
@@ -145,6 +149,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Service - Intern](https://jobright.ai/jobs/info/69725a1c584a1c1ef6fd57ff?utm_campaign=1058&utm_source=git)** | Des Moines, IA, United States | Hybrid | Jan 22 |
 | **[Ephrata National Bank](http://epnb.com)** | **[IT Application Delivery Intern](https://jobright.ai/jobs/info/6972599b9b83b424830e49d6?utm_campaign=1058&utm_source=git)** | Technology Center Building, Ephrata, PA, US | On Site | Jan 22 |
 | **[Mouser Electronics](http://mouser.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/697257169b83b424830e4054?utm_campaign=1058&utm_source=git)** | Mansfield, TX, United States | On Site | Jan 22 |
+| **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[Pharmacy Intern - Inpatient](https://jobright.ai/jobs/info/697346a537785856350d27cf?utm_campaign=1058&utm_source=git)** | Nashville Metro | On Site | Jan 22 |
 | **[UMB Bank](https://www.umb.com/)** | **[Institutional Custody Administration Intern](https://jobright.ai/jobs/info/69724b0c4ccbf64f8df2350e?utm_campaign=1058&utm_source=git)** | Kansas City MO | Hybrid | Jan 22 |
 | **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[Nurse Intern- Medical Trauma 5E](https://jobright.ai/jobs/info/69726a8c4ccbf64f8df261b9?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Jan 22 |
 | **[Iowa Select Farms](http://iowaselect.com)** | **[Bilingual Process Documentation Intern (Part time)-Des Moines](https://jobright.ai/jobs/info/697244034ccbf64f8df2322c?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Jan 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697242484ccbf64f8df23133?utm_campaign=1058&utm_source=git)** | Liberty, MO | On Site | Jan 22 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6972420f584a1c1ef6fd3b3a?utm_campaign=1058&utm_source=git)** | Abilene, TX | On Site | Jan 22 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697240fc4ccbf64f8df23058?utm_campaign=1058&utm_source=git)** | Troutman, NC | On Site | Jan 22 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697240d74ccbf64f8df23044?utm_campaign=1058&utm_source=git)** | Fullerton, CA | On Site | Jan 22 |
-| **[Wave Life Sciences](http://wavelifesciences.com)** | **[IT Lab Systems Support Intern (Summer 2026)](https://jobright.ai/jobs/info/6972403a4ccbf64f8df22fe2?utm_campaign=1058&utm_source=git)** | Lexington, MA, United States | On Site | Jan 22 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69723f2d4ccbf64f8df22f4d?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Jan 22 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69723ed99b83b424830e2d84?utm_campaign=1058&utm_source=git)** | Maiden, NC | On Site | Jan 22 |
-| **[HCA Florida Westside Hospital](https://www.hcafloridahealthcare.com/locations/westside-hospital/)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/6939b8ddac80bb5492bc3799?utm_campaign=1058&utm_source=git)** | Plantation, FL | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
