@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Business Systems Analyst](https://jobright.ai/jobs/info/6973ea28206da320f49de23c?utm_campaign=1058&utm_source=git)** | NY LI Jericho | On Site | Jan 23 |
+| **[AriensCo](https://www.ariensco.com/)** | **[Intern, Hospitality - Summer 2026](https://jobright.ai/jobs/info/6973e23f37785856350db30b?utm_campaign=1058&utm_source=git)** | Brillion, WI | On Site | Jan 23 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Intern (Multiple Divisions)](https://jobright.ai/jobs/info/6967fa561703f05405a99882?utm_campaign=1058&utm_source=git)** | Hackensack, NJ | On Site | Jan 23 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/6973d82937785856350daa9f?utm_campaign=1058&utm_source=git)** | Kalamazoo, MI | On Site | Jan 23 |
 | **[Kirby Risk](https://www.kirbyrisk.com)** | **[IT Intern (Starting May 2026!) - Cybersecurity](https://jobright.ai/jobs/info/6973d5b0bc8e722e7b18a4ba?utm_campaign=1058&utm_source=git)** | Lafayette, IN | On Site | Jan 23 |
@@ -66,13 +68,14 @@ For a complete list, click the following sortable link below:
 | **[LEXR](http://www.lexr.com)** | **[Working Student](https://jobright.ai/jobs/info/6973cc9137785856350d9e79?utm_campaign=1058&utm_source=git)** | Washington County, OR | On Site | Jan 23 |
 | **[Center for Internet Security](http://cisecurity.org/)** | **[IT Intern - Albany, NY](https://jobright.ai/jobs/info/6973cb85206da320f49dc4c1?utm_campaign=1058&utm_source=git)** | East Greenbush Headquarters | On Site | Jan 23 |
 | **[Stellar](http://stellarindustries.com)** | **[IT Infrastructure Support Intern - Summer 2026](https://jobright.ai/jobs/info/6973c914bc8e722e7b189709?utm_campaign=1058&utm_source=git)** | Garner,IA,US | On Site | Jan 23 |
+| **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – IT Production Management & Application Support](https://jobright.ai/jobs/info/6973e4dd206da320f49ddd80?utm_campaign=1058&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 23 |
+| **[Aires](https://www.aires.com)** | **[2026 Summer IT Intern - Applications Support](https://jobright.ai/jobs/info/6973e5bb206da320f49dddf4?utm_campaign=1058&utm_source=git)** | 6 Penn Center Blvd, Pittsburgh, PA 15205, USA | Hybrid | Jan 23 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - RTI Division](https://jobright.ai/jobs/info/6973c487206da320f49dbc4d?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 23 |
 | **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Wish Coordinating Intern, Create](https://jobright.ai/jobs/info/6973c3eb206da320f49dbb94?utm_campaign=1058&utm_source=git)** | Chicago,IL,US | Hybrid | Jan 23 |
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Advanced Practice Nurse Intern - Critical Care - Nights](https://jobright.ai/jobs/info/6973bd7dbc8e722e7b188f19?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Jan 23 |
 | **[Move United](https://moveunitedsport.org)** | **[USAWFL INTERN (8/1-11/22)](https://jobright.ai/jobs/info/6973baee206da320f49db798?utm_campaign=1058&utm_source=git)** | Rockville, MD | Remote | Jan 23 |
 | **[Sedgwick](http://www.sedgwick.com)** | **[IT Intern](https://jobright.ai/jobs/info/6973ba5a206da320f49db720?utm_campaign=1058&utm_source=git)** | Memphis, TN | Hybrid | Jan 23 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Salesforce 6 month internship (remote)](https://jobright.ai/jobs/info/697023143ed06875134b226a?utm_campaign=1058&utm_source=git)** | Virginia, United States | Remote | Jan 23 |
-| **[Riverhead Building Supply](https://www.rbscorp.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6973d843bc8e722e7b18a78d?utm_campaign=1058&utm_source=git)** | Calverton, NY, US | On Site | Jan 23 |
 | **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68cd9657b2a74e1837ed9323?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Advanced Practice Nurse Intern - Critical Care - Nights](https://jobright.ai/jobs/info/6973b335206da320f49db394?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jan 23 |
 | **[Aires](https://www.aires.com)** | **[2026 Summer IT Intern - Applications Support](https://jobright.ai/jobs/info/6973af10bc8e722e7b188710?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6972ebc81d55d64a20534d02?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Jan 22 |
 | **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6944700a94730b7398779ac1?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Jan 22 |
 | **[Mouser Electronics](http://mouser.com)** | **[Customer Accounts Intern](https://jobright.ai/jobs/info/6972e63e0488fd59f7d5e401?utm_campaign=1058&utm_source=git)** | Mansfield, TX | On Site | Jan 22 |
-| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Mobility Customer Support Program Undergraduate Intern - Summer 2026](https://jobright.ai/jobs/info/69730af9694e99351d145add?utm_campaign=1058&utm_source=git)** | Livermore, CA | On Site | Jan 22 |
-| **[DCS Corp](http://www.dcscorp.com)** | **[IT Summer Intern](https://jobright.ai/jobs/info/6972e51498522904c697b8ca?utm_campaign=1058&utm_source=git)** | Dayton, OH | Hybrid | Jan 22 |
-| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY AUTHORIZATIONS & PROFILES TEAM SPECIALIST I](https://jobright.ai/jobs/info/6972e1571d55d64a20534458?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
