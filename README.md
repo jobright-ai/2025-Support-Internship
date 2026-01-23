@@ -57,15 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY AUTHORIZATIONS & PROFILES TEAM SPECIALIST I](https://jobright.ai/jobs/info/6972e1571d55d64a20534458?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 22 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6972e1251d55d64a20534419?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Jan 22 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6972da991d55d64a20533c40?utm_campaign=1058&utm_source=git)** | Greenwood Village, CO | On Site | Jan 22 |
+| ↳ | **[Information Technology Intern](https://jobright.ai/jobs/info/6972da1198522904c697aca4?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
+| **[UC San Diego Health](https://health.ucsd.edu/)** | **[Inpatient Pharmacy Intern - Hillcrest - 138208](https://jobright.ai/jobs/info/6972d9e61d55d64a20533b58?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Jan 22 |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Engineering Support - Information Technology Div.](https://jobright.ai/jobs/info/6972d6ed0488fd59f7d5d07a?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 22 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (Bay Area)](https://jobright.ai/jobs/info/6972d5570488fd59f7d5ce56?utm_campaign=1058&utm_source=git)** | Walnut Creek, CA, US | On Site | Jan 22 |
 | **[ASML](https://www.asml.com)** | **[Internship - Customer Support DUV- Chandler](https://jobright.ai/jobs/info/6972d3381d55d64a205332ff?utm_campaign=1058&utm_source=git)** | Chandler, AZ | On Site | Jan 22 |
-| **[AdventHealth](https://www.adventhealth.com/)** | **[RMR Heritage Nurse Intern PRN](https://jobright.ai/jobs/info/6972d3251d55d64a205332ec?utm_campaign=1058&utm_source=git)** | Littleton, CO | On Site | Jan 22 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6972d1f50488fd59f7d5c9a8?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | Jan 22 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Student Intern, Imaging Services](https://jobright.ai/jobs/info/6972c0d54ccbf64f8df2cc0e?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Jan 22 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern](https://jobright.ai/jobs/info/6972c04d4ccbf64f8df2cb7c?utm_campaign=1058&utm_source=git)** | Mercy Hospital Waldron | On Site | Jan 22 |
 | **[Okta](http://www.okta.com)** | **[IT Support Intern (Summer 2026)](https://jobright.ai/jobs/info/6972bec44ccbf64f8df2c9c9?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Jan 22 |
 | **[Tricentis](https://tricentis.com)** | **[Support Intern](https://jobright.ai/jobs/info/6972bcf8584a1c1ef6fdcea9?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
+| **[Sosuite](https://staysosuite.com/)** | **[Part-Time Leasing Intern](https://jobright.ai/jobs/info/6972dd920488fd59f7d5d8db?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 22 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern I](https://jobright.ai/jobs/info/6972b8274ccbf64f8df2c3c5?utm_campaign=1058&utm_source=git)** | Mercy Hospital Booneville | On Site | Jan 22 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6972b2e8584a1c1ef6fdc5f3?utm_campaign=1058&utm_source=git)** | Wayne, NJ | On Site | Jan 22 |
 | **[MyMichigan Health](https://www.mymichigan.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6972af259b83b424830eb796?utm_campaign=1058&utm_source=git)** | Alma, MI | On Site | Jan 22 |
 | **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[Nurse Intern- NICU](https://jobright.ai/jobs/info/6972c72e4ccbf64f8df2d2a2?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Jan 22 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Technical Writer Intern - Sunnyvale CA - R10220110](https://jobright.ai/jobs/info/6972a39b584a1c1ef6fdb47e?utm_campaign=1058&utm_source=git)** | Sunnyvale, CA | On Site | Jan 22 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II  Med Surg Collierville](https://jobright.ai/jobs/info/697237b24ccbf64f8df225f9?utm_campaign=1058&utm_source=git)** | Collierville, TN | On Site | Jan 22 |
 | **[Cintas](https://www.cintas.com)** | **[IT Intern - Mobility](https://jobright.ai/jobs/info/6972113447b64f4e963e4334?utm_campaign=1058&utm_source=git)** | Mason, OH | On Site | Jan 22 |
 | **[Dean Dorton](http://www.deandorton.com)** | **[Technology Apprentice](https://jobright.ai/jobs/info/68ffdc5b0ab3b222462af288?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Jan 22 |
-| **[CNH](http://www.cnhindustrial.com)** | **[Agriculture Product Technical Support Specialist Intern](https://jobright.ai/jobs/info/69676ec51703f05405a91f4f?utm_campaign=1058&utm_source=git)** | Holland, IA | On Site | Jan 22 |
-| **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Field Support Intern](https://jobright.ai/jobs/info/691d4ae7bcdbf3560c9ef8ed?utm_campaign=1058&utm_source=git)** | Conyers, GA | On Site | Jan 22 |
-| **[SOPFEU - Société de protection des forêts contre le feu](http://www.sopfeu.qc.ca)** | **[Stagiaire en support informatique - N1](https://jobright.ai/jobs/info/6971fa9bcda45e69535836e9?utm_campaign=1058&utm_source=git)** | Roberval, Quebec, Canada | Hybrid | Jan 22 |
-| **[Cibola General Hospital](https://www.cibolahospital.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/6971f87447b64f4e963e3c10?utm_campaign=1058&utm_source=git)** | Grants, NM | On Site | Jan 22 |
-| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Arena Ticketing Intern](https://jobright.ai/jobs/info/6971e684b707bf728a4b815b?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Service Desk Co-op (July to December)](https://jobright.ai/jobs/info/6971e65dcda45e69535813aa?utm_campaign=1058&utm_source=git)** | Needham, MA | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
