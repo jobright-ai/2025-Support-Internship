@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PGT Trucking, Inc.](https://www.pgttrucking.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6973cfc437785856350da23a?utm_campaign=1058&utm_source=git)** | Aliquippa, PA, United States | On Site | Jan 23 |
+| **[Center for Internet Security](http://cisecurity.org/)** | **[IT Intern - Albany, NY](https://jobright.ai/jobs/info/6973cf85206da320f49dc996?utm_campaign=1058&utm_source=git)** | East Greenbush, NY | On Site | Jan 23 |
+| **[LEXR](http://www.lexr.com)** | **[Working Student](https://jobright.ai/jobs/info/6973cc9137785856350d9e79?utm_campaign=1058&utm_source=git)** | Washington County, OR | On Site | Jan 23 |
+| **[HomeTown Credit Union, Minnesota](https://www.hometowncu.coop/)** | **[High School Intern - Teller / Member Services Representative (MSR)](https://jobright.ai/jobs/info/6973cc29206da320f49dc57a?utm_campaign=1058&utm_source=git)** | 150 18th Street Southwest, Owatonna, MN, USA | On Site | Jan 23 |
+| **[Center for Internet Security](http://cisecurity.org/)** | **[IT Intern - Albany, NY](https://jobright.ai/jobs/info/6973cb85206da320f49dc4c1?utm_campaign=1058&utm_source=git)** | East Greenbush Headquarters | On Site | Jan 23 |
+| **[Stellar](http://stellarindustries.com)** | **[IT Infrastructure Support Intern - Summer 2026](https://jobright.ai/jobs/info/6973c914bc8e722e7b189709?utm_campaign=1058&utm_source=git)** | Garner,IA,US | On Site | Jan 23 |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - RTI Division](https://jobright.ai/jobs/info/6973c487206da320f49dbc4d?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 23 |
+| **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Wish Coordinating Intern, Create](https://jobright.ai/jobs/info/6973c3eb206da320f49dbb94?utm_campaign=1058&utm_source=git)** | Chicago,IL,US | Hybrid | Jan 23 |
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Advanced Practice Nurse Intern - Critical Care - Nights](https://jobright.ai/jobs/info/6973bd7dbc8e722e7b188f19?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Jan 23 |
 | **[Move United](https://moveunitedsport.org)** | **[USAWFL INTERN (8/1-11/22)](https://jobright.ai/jobs/info/6973baee206da320f49db798?utm_campaign=1058&utm_source=git)** | Rockville, MD | Remote | Jan 23 |
 | **[Sedgwick](http://www.sedgwick.com)** | **[IT Intern](https://jobright.ai/jobs/info/6973ba5a206da320f49db720?utm_campaign=1058&utm_source=git)** | Memphis, TN | Hybrid | Jan 23 |
@@ -64,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68cd9657b2a74e1837ed9323?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Advanced Practice Nurse Intern - Critical Care - Nights](https://jobright.ai/jobs/info/6973b335206da320f49db394?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jan 23 |
 | **[Aires](https://www.aires.com)** | **[2026 Summer IT Intern - Applications Support](https://jobright.ai/jobs/info/6973af10bc8e722e7b188710?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 23 |
+| **[Viaero Wireless](http://www.viaero.com)** | **[Warehouse Intern](https://jobright.ai/jobs/info/6973c8b1206da320f49dc13e?utm_campaign=1058&utm_source=git)** | Fort Morgan, CO | On Site | Jan 23 |
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Healthcare Navigation Intern](https://jobright.ai/jobs/info/6973a875bc8e722e7b186c07?utm_campaign=1058&utm_source=git)** | Lahey Hospital and Medical Center | On Site | Jan 23 |
 | **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/6875a21b5cebcd1dd51c233d?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Jan 23 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Health & Safety](https://jobright.ai/jobs/info/69739fa4bc8e722e7b1867f0?utm_campaign=1058&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jan 23 |
@@ -107,7 +116,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/6902689700a1816c41e9dc73?utm_campaign=1058&utm_source=git)** | Kenosha, WI | On Site | Jan 23 |
 | ↳ | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/6902a39598707b2b0fe71c79?utm_campaign=1058&utm_source=git)** | Allentown, PA | On Site | Jan 23 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[IT Intern](https://jobright.ai/jobs/info/68cba2669e3a822f5d249752?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Jan 23 |
-| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/697238519b83b424830e285d?utm_campaign=1058&utm_source=git)** | Atlanta, GA | Hybrid | Jan 23 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Branch Intern - Paid Internship (Kennesaw, GA)](https://jobright.ai/jobs/info/690190c8d5259a1b3cff63de?utm_campaign=1058&utm_source=git)** | Kennesaw, GA | On Site | Jan 23 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Pharmacy Intern - Mail Center, Per Diem](https://jobright.ai/jobs/info/6973648f206da320f49d5d97?utm_campaign=1058&utm_source=git)** | Manchester, NH | On Site | Jan 23 |
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[IT Support Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/691e33f709cc522e877376d9?utm_campaign=1058&utm_source=git)** | Greater Chicago Area | On Site | Jan 23 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Mobility Customer Support Program Graduate Intern - Summer 2026](https://jobright.ai/jobs/info/6972fed0206da320f49cf403?utm_campaign=1058&utm_source=git)** | Livermore, CA | On Site | Jan 22 |
 | **[Parkland Health](https://www.parklandhealth.org)** | **[College Intern PRN Summer 2026](https://jobright.ai/jobs/info/6972fb811790715e866be836?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 22 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6972da991d55d64a20533c40?utm_campaign=1058&utm_source=git)** | Greenwood Village, CO | On Site | Jan 22 |
-| ↳ | **[Information Technology Intern](https://jobright.ai/jobs/info/6972da1198522904c697aca4?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
-| **[UC San Diego Health](https://health.ucsd.edu/)** | **[Inpatient Pharmacy Intern - Hillcrest - 138208](https://jobright.ai/jobs/info/6972d9e61d55d64a20533b58?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Jan 22 |
-| **[Vendelux](https://vendelux.com)** | **[Tech Internship](https://jobright.ai/jobs/info/6972fcdf694e99351d1442ad?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 22 |
-| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Engineering Support - Information Technology Div.](https://jobright.ai/jobs/info/6972d6ed0488fd59f7d5d07a?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 22 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (Bay Area)](https://jobright.ai/jobs/info/6972d5570488fd59f7d5ce56?utm_campaign=1058&utm_source=git)** | Walnut Creek, CA, US | On Site | Jan 22 |
-| **[ASML](https://www.asml.com)** | **[Internship - Customer Support DUV- Chandler](https://jobright.ai/jobs/info/6972d3381d55d64a205332ff?utm_campaign=1058&utm_source=git)** | Chandler, AZ | On Site | Jan 22 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6972d1f50488fd59f7d5c9a8?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | Jan 22 |
-| **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[IT Support Specialist Intern](https://jobright.ai/jobs/info/6972e9d50488fd59f7d5e645?utm_campaign=1058&utm_source=git)** | Downers Grove, IL | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
