@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[World Insurance Associates](https://toinsurance.com/)** | **[Risk Management Client Service Intern, Commercial Lines - Woodbury, NY](https://jobright.ai/jobs/info/6975230b37785856350f1210?utm_campaign=1058&utm_source=git)** | Woodbury, NY | On Site | Jan 24 |
+| **[Perkins Eastman | Pfeiffer ](http://www.pfeifferpartners.com)** | **[2026 Summer Internship - Information Technology - New York](https://jobright.ai/jobs/info/697519eb206da320f49f3352?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 24 |
+| **[Perkins Eastman](http://www.perkinseastman.com)** | **[2026 Summer Internship - Information Technology - New York](https://jobright.ai/jobs/info/697516eabc8e722e7b1a03dd?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Racine](http://www.racine.eu)** | **[IT Trainer](https://jobright.ai/jobs/info/6974ff06bc8e722e7b19fea3?utm_campaign=1058&utm_source=git)** | Racine, WI | On Site | Jan 24 |
 | **[Inova Health](http://www.inova.org/itmi/home)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974fe1037785856350f061e?utm_campaign=1058&utm_source=git)** | Fairfax, VA | On Site | Jan 24 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I](https://jobright.ai/jobs/info/6974fa8d37785856350f059c?utm_campaign=1058&utm_source=git)** | Jonesboro, AR | On Site | Jan 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Columbia Hospitality](http://www.columbiahospitality.com)** | **[Food & Beverage Intern / Semiahmoo Resort](https://jobright.ai/jobs/info/69741d2a206da320f49e3e60?utm_campaign=1058&utm_source=git)** | Blaine, WA | On Site | Jan 23 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Pharmacy Intern - Contingent Rotating - Pharmacy Advantage](https://jobright.ai/jobs/info/69741d20206da320f49e3e52?utm_campaign=1058&utm_source=git)** | Rochester Hills, Michigan | On Site | Jan 23 |
 | **[Bold Steps Behavioral Health](https://boldstepsbh.com/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69741ce7206da320f49e3e14?utm_campaign=1058&utm_source=git)** | Princeton, LA | On Site | Jan 23 |
-| **[DayToDay Health](https://www.daytoday.health)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69741cb9206da320f49e3dd7?utm_campaign=1058&utm_source=git)** | Haughton, LA | On Site | Jan 23 |
-| **[Cherry Hill Free Clinic](https://www.cherryhillfreeclinic.org/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69741bf4206da320f49e3cf2?utm_campaign=1058&utm_source=git)** | Keachi, LA | On Site | Jan 23 |
-| **[Gibson Energy](https://www.gibsonenergy.com)** | **[Information Services Analyst (Student or New Grad)](https://jobright.ai/jobs/info/697418c9bc8e722e7b190f7f?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
