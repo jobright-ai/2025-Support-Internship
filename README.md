@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Perkins Eastman](http://www.perkinseastman.com)** | **[2026 Summer Internship - Information Technology - New York](https://jobright.ai/jobs/info/69752bf4206da320f49f3bbd?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 24 |
+| **[Shoppers Drug Mart](http://www.shoppersdrugmart.ca)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6975285a206da320f49f3a99?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 24 |
 | **[World Insurance Associates](https://toinsurance.com/)** | **[Risk Management Client Service Intern, Commercial Lines - Woodbury, NY](https://jobright.ai/jobs/info/6975230b37785856350f1210?utm_campaign=1058&utm_source=git)** | Woodbury, NY | On Site | Jan 24 |
 | **[Perkins Eastman | Pfeiffer ](http://www.pfeifferpartners.com)** | **[2026 Summer Internship - Information Technology - New York](https://jobright.ai/jobs/info/697519eb206da320f49f3352?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[2026 Summer Internship - Information Technology - New York](https://jobright.ai/jobs/info/697516eabc8e722e7b1a03dd?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 24 |
@@ -112,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Hilton](https://www.hilton.com/en/)** | **[Food and Beverage Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/69585bbdaa05c26e7ab23c1a?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Jan 24 |
 | **[Culligan International](http://www.culligan.com/)** | **[Customer Relations Intern](https://jobright.ai/jobs/info/69583205aa05c26e7ab20ded?utm_campaign=1058&utm_source=git)** | Rosemont, IL | On Site | Jan 24 |
 | **[S&P Global](https://www.spglobal.com)** | **[Strategic Product Support Intern](https://jobright.ai/jobs/info/697488e5206da320f49ec108?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
-| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/6974880f206da320f49ebe99?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 24 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Florence)](https://jobright.ai/jobs/info/695dd91889be3415c746348b?utm_campaign=1058&utm_source=git)** | Florence, KY | On Site | Jan 24 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6974755437785856350e8cdc?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Jan 23 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6974750937785856350e8ca4?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Jan 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[Jr. Technical Writer- Summer 2026 Internship](https://jobright.ai/jobs/info/69742054206da320f49e41ca?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
 | **[Columbia Hospitality](http://www.columbiahospitality.com)** | **[Food & Beverage Intern / Semiahmoo Resort](https://jobright.ai/jobs/info/69741d2a206da320f49e3e60?utm_campaign=1058&utm_source=git)** | Blaine, WA | On Site | Jan 23 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Pharmacy Intern - Contingent Rotating - Pharmacy Advantage](https://jobright.ai/jobs/info/69741d20206da320f49e3e52?utm_campaign=1058&utm_source=git)** | Rochester Hills, Michigan | On Site | Jan 23 |
-| **[Bold Steps Behavioral Health](https://boldstepsbh.com/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69741ce7206da320f49e3e14?utm_campaign=1058&utm_source=git)** | Princeton, LA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
