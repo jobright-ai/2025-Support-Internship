@@ -123,7 +123,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69744e95bc8e722e7b195312?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Jan 23 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69744e1ebc8e722e7b194e6e?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | On Site | Jan 23 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69744d8137785856350e49e6?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | Jan 23 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69744d3a206da320f49e727d?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Jan 23 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69744cbbbc8e722e7b19455a?utm_campaign=1058&utm_source=git)** | Grand Prairie, TX | On Site | Jan 23 |
 | **[HCA HealthONE](http://www.healthonecares.com/)** | **[Ultrasound Student Intern PRN](https://jobright.ai/jobs/info/69744016bc8e722e7b1939aa?utm_campaign=1058&utm_source=git)** | Aurora, CO | On Site | Jan 23 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69743fbbbc8e722e7b193950?utm_campaign=1058&utm_source=git)** | Richmond VA (Corp) | On Site | Jan 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Cherry Hill Free Clinic](https://www.cherryhillfreeclinic.org/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69741bf4206da320f49e3cf2?utm_campaign=1058&utm_source=git)** | Keachi, LA | On Site | Jan 23 |
 | **[Gibson Energy](https://www.gibsonenergy.com)** | **[Information Services Analyst (Student or New Grad)](https://jobright.ai/jobs/info/697418c9bc8e722e7b190f7f?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 23 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[IT Summer Intern](https://jobright.ai/jobs/info/6974dfa137785856350ee695?utm_campaign=1058&utm_source=git)** | Sterling Heights, MI, US | On Site | Jan 23 |
+| **[Waccamaw Management, LLC](https://www.waccamawmanagement.com/)** | **[Service Center Intern](https://jobright.ai/jobs/info/697491ed206da320f49eda8c?utm_campaign=1058&utm_source=git)** | Honolulu, HI | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
