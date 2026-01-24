@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Strata-G Solutions, LLC](https://stratag-llc.com)** | **[IT Intern](https://jobright.ai/jobs/info/69753a3a37785856350f30f8?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | Jan 24 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[2026 Summer Internship - Information Technology - New York](https://jobright.ai/jobs/info/69752bf4206da320f49f3bbd?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Shoppers Drug Mart](http://www.shoppersdrugmart.ca)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6975285a206da320f49f3a99?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 24 |
 | **[World Insurance Associates](https://toinsurance.com/)** | **[Risk Management Client Service Intern, Commercial Lines - Woodbury, NY](https://jobright.ai/jobs/info/6975230b37785856350f1210?utm_campaign=1058&utm_source=git)** | Woodbury, NY | On Site | Jan 24 |
+| **[Sudbury Catholic District School Board](https://sudburycatholicschools.ca)** | **[Permanent  Intermediate/Senior - English 1.00 FTE  (internal/external)](https://jobright.ai/jobs/info/697540fb206da320f49f5887?utm_campaign=1058&utm_source=git)** | Sudbury, Ontario, Canada | On Site | Jan 24 |
 | **[Perkins Eastman | Pfeiffer ](http://www.pfeifferpartners.com)** | **[2026 Summer Internship - Information Technology - New York](https://jobright.ai/jobs/info/697519eb206da320f49f3352?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[2026 Summer Internship - Information Technology - New York](https://jobright.ai/jobs/info/697516eabc8e722e7b1a03dd?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Racine](http://www.racine.eu)** | **[IT Trainer](https://jobright.ai/jobs/info/6974ff06bc8e722e7b19fea3?utm_campaign=1058&utm_source=git)** | Racine, WI | On Site | Jan 24 |
