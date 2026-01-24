@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6974537f37785856350e66b1?utm_campaign=1058&utm_source=git)** | Plymouth, IN | On Site | Jan 23 |
+| **[WVU Medicine Thomas Hospitals](https://thomashealth.org)** | **[Intern/Extern - Critical Care](https://jobright.ai/jobs/info/697452babc8e722e7b196137?utm_campaign=1058&utm_source=git)** | South Charleston, WV | On Site | Jan 23 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Technical Project Managed Services Intern](https://jobright.ai/jobs/info/6970b832587dfa0bb55e4890?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | Hybrid | Jan 23 |
 | **[Overland Park Regional Medical Center](https://www.oprmc.com)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/69744edc37785856350e5331?utm_campaign=1058&utm_source=git)** | Overland Park, KS | On Site | Jan 23 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69744ea837785856350e513d?utm_campaign=1058&utm_source=git)** | Marlton, NJ | On Site | Jan 23 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69744e95bc8e722e7b195312?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Jan 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69738c7137785856350d600c?utm_campaign=1058&utm_source=git)** | Vernon Hills, IL | On Site | Jan 23 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69738bcc37785856350d5fa4?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Jan 23 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69738bc6bc8e722e7b185d6d?utm_campaign=1058&utm_source=git)** | Lexington, SC | On Site | Jan 23 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69738a6037785856350d5eab?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Jan 23 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697389f3bc8e722e7b185c12?utm_campaign=1058&utm_source=git)** | Houghton, MI | On Site | Jan 23 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697389bebc8e722e7b185beb?utm_campaign=1058&utm_source=git)** | Prudenville, MI | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
