@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[S&P Global](https://www.spglobal.com)** | **[Strategic Product Support Intern](https://jobright.ai/jobs/info/697488e5206da320f49ec108?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/6974880f206da320f49ebe99?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 24 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Florence)](https://jobright.ai/jobs/info/695dd91889be3415c746348b?utm_campaign=1058&utm_source=git)** | Florence, KY | On Site | Jan 24 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6974755437785856350e8cdc?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Jan 23 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6974750937785856350e8ca4?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Jan 23 |
@@ -105,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[DayToDay Health](https://www.daytoday.health)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69741cb9206da320f49e3dd7?utm_campaign=1058&utm_source=git)** | Haughton, LA | On Site | Jan 23 |
 | **[Cherry Hill Free Clinic](https://www.cherryhillfreeclinic.org/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69741bf4206da320f49e3cf2?utm_campaign=1058&utm_source=git)** | Keachi, LA | On Site | Jan 23 |
 | **[Gibson Energy](https://www.gibsonenergy.com)** | **[Information Services Analyst (Student or New Grad)](https://jobright.ai/jobs/info/697418c9bc8e722e7b190f7f?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 23 |
+| **[Waccamaw Management, LLC](https://www.waccamawmanagement.com/)** | **[Service Center Intern](https://jobright.ai/jobs/info/697491ed206da320f49eda8c?utm_campaign=1058&utm_source=git)** | Honolulu, HI | On Site | Jan 23 |
 | **[Apex Home Health, Hospice & Home Care](http://apexhomehealth.com)** | **[Mammography Technologist Intern - Full Time - Evenings](https://jobright.ai/jobs/info/69742cfe37785856350e26e1?utm_campaign=1058&utm_source=git)** | Pembroke Pines, FL | On Site | Jan 23 |
 | **[Provident Behavioral Health](https://www.providentstl.org)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69742fb937785856350e2a23?utm_campaign=1058&utm_source=git)** | Red Chute, LA | On Site | Jan 23 |
 | **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern MICU](https://jobright.ai/jobs/info/697429c537785856350e2345?utm_campaign=1058&utm_source=git)** | 1026 GOODYEAR AVENUE, GADSDEN, AL, 35903, US | On Site | Jan 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6973926f37785856350d6328?utm_campaign=1058&utm_source=git)** | Alpena, MI | On Site | Jan 23 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6973919bbc8e722e7b1860e2?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Jan 23 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69739174206da320f49d8b2f?utm_campaign=1058&utm_source=git)** | Traverse City, MI | On Site | Jan 23 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69739129206da320f49d8afe?utm_campaign=1058&utm_source=git)** | West Columbia, SC | On Site | Jan 23 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697390bb206da320f49d8abc?utm_campaign=1058&utm_source=git)** | West Columbia, SC | On Site | Jan 23 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69738fe1206da320f49d8a6c?utm_campaign=1058&utm_source=git)** | Lexington, SC | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
