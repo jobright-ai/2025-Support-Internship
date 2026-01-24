@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Inova Health](http://www.inova.org/itmi/home)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974e35137785856350ee7c3?utm_campaign=1058&utm_source=git)** | Fairfax, VA, United States | On Site | Jan 24 |
+| **[Racine](http://www.racine.eu)** | **[IT Trainer](https://jobright.ai/jobs/info/6974ff06bc8e722e7b19fea3?utm_campaign=1058&utm_source=git)** | Racine, WI | On Site | Jan 24 |
+| **[Inova Health](http://www.inova.org/itmi/home)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974fe1037785856350f061e?utm_campaign=1058&utm_source=git)** | Fairfax, VA | On Site | Jan 24 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I](https://jobright.ai/jobs/info/6974fa8d37785856350f059c?utm_campaign=1058&utm_source=git)** | Jonesboro, AR | On Site | Jan 24 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974e311bc8e722e7b19e0ce?utm_campaign=1058&utm_source=git)** | Lima, OH | On Site | Jan 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974e251bc8e722e7b19e08e?utm_campaign=1058&utm_source=git)** | Toledo, OH | On Site | Jan 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974e23f206da320f49f0e42?utm_campaign=1058&utm_source=git)** | Greeneville, TN | On Site | Jan 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DayToDay Health](https://www.daytoday.health)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69741cb9206da320f49e3dd7?utm_campaign=1058&utm_source=git)** | Haughton, LA | On Site | Jan 23 |
 | **[Cherry Hill Free Clinic](https://www.cherryhillfreeclinic.org/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69741bf4206da320f49e3cf2?utm_campaign=1058&utm_source=git)** | Keachi, LA | On Site | Jan 23 |
 | **[Gibson Energy](https://www.gibsonenergy.com)** | **[Information Services Analyst (Student or New Grad)](https://jobright.ai/jobs/info/697418c9bc8e722e7b190f7f?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 23 |
-| **[DCS Corp](http://www.dcscorp.com)** | **[IT Summer Intern](https://jobright.ai/jobs/info/6974dfa137785856350ee695?utm_campaign=1058&utm_source=git)** | Sterling Heights, MI, US | On Site | Jan 23 |
-| **[Waccamaw Management, LLC](https://www.waccamawmanagement.com/)** | **[Service Center Intern](https://jobright.ai/jobs/info/697491ed206da320f49eda8c?utm_campaign=1058&utm_source=git)** | Honolulu, HI | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
