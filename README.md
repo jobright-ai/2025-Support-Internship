@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern I](https://jobright.ai/jobs/info/697467bebc8e722e7b197e04?utm_campaign=1058&utm_source=git)** | Booneville, AR | On Site | Jan 23 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6974537f37785856350e66b1?utm_campaign=1058&utm_source=git)** | Plymouth, IN | On Site | Jan 23 |
 | **[WVU Medicine Thomas Hospitals](https://thomashealth.org)** | **[Intern/Extern - Critical Care](https://jobright.ai/jobs/info/697452babc8e722e7b196137?utm_campaign=1058&utm_source=git)** | South Charleston, WV | On Site | Jan 23 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Technical Project Managed Services Intern](https://jobright.ai/jobs/info/6970b832587dfa0bb55e4890?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | Hybrid | Jan 23 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69744e95bc8e722e7b195312?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Jan 23 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69744e1ebc8e722e7b194e6e?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | On Site | Jan 23 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69744d8137785856350e49e6?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | Jan 23 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69744d3a206da320f49e727d?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Jan 23 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69744cbbbc8e722e7b19455a?utm_campaign=1058&utm_source=git)** | Grand Prairie, TX | On Site | Jan 23 |
 | **[HCA HealthONE](http://www.healthonecares.com/)** | **[Ultrasound Student Intern PRN](https://jobright.ai/jobs/info/69744016bc8e722e7b1939aa?utm_campaign=1058&utm_source=git)** | Aurora, CO | On Site | Jan 23 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69743fbbbc8e722e7b193950?utm_campaign=1058&utm_source=git)** | Richmond VA (Corp) | On Site | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69738d8237785856350d60d8?utm_campaign=1058&utm_source=git)** | Irmo, SC | On Site | Jan 23 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69738d71206da320f49d894c?utm_campaign=1058&utm_source=git)** | Ludington, MI | On Site | Jan 23 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69738c7137785856350d600c?utm_campaign=1058&utm_source=git)** | Vernon Hills, IL | On Site | Jan 23 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69738bcc37785856350d5fa4?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Jan 23 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69738bc6bc8e722e7b185d6d?utm_campaign=1058&utm_source=git)** | Lexington, SC | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
