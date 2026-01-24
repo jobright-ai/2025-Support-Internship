@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship -nCino](https://jobright.ai/jobs/info/69583bcb9f1b381eb2712555?utm_campaign=1058&utm_source=git)** | Union, NJ | On Site | Jan 24 |
+| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Field Service Representative ( 4 to 12 months) - Delta, BC, Canada](https://jobright.ai/jobs/info/6965dc602cbf4e44756f9563?utm_campaign=1058&utm_source=git)** | Kamloops, British Columbia, Canada | On Site | Jan 24 |
+| ↳ | **[Internship: Field Service Representative ( 4 to 12 months) - Delta, BC, Canada](https://jobright.ai/jobs/info/695b271daa05c26e7ab485eb?utm_campaign=1058&utm_source=git)** | Delta, British Columbia, Canada | On Site | Jan 24 |
 | **[American Industrial Transport - AITX](https://aitx.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/695832c99f1b381eb2710df3?utm_campaign=1058&utm_source=git)** | St Charles, MO | On Site | Jan 24 |
 | **[Hilton](https://www.hilton.com/en/)** | **[Revenue Management Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/695863fd9f1b381eb271405b?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Jan 24 |
-| ↳ | **[Food and Beverage Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/69585bbdaa05c26e7ab23c1a?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Jan 24 |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[Geospatial Product Support Analyst Intern](https://jobright.ai/jobs/info/691f48063f782d2f1afb9ddc?utm_campaign=1058&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Jan 24 |
+| **[Hilton](https://www.hilton.com/en/)** | **[Food and Beverage Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/69585bbdaa05c26e7ab23c1a?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Jan 24 |
 | **[S&P Global](https://www.spglobal.com)** | **[Strategic Product Support Intern](https://jobright.ai/jobs/info/697488e5206da320f49ec108?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/6974880f206da320f49ebe99?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 24 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Florence)](https://jobright.ai/jobs/info/695dd91889be3415c746348b?utm_campaign=1058&utm_source=git)** | Florence, KY | On Site | Jan 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Viaero Wireless](http://www.viaero.com)** | **[Warehouse Intern](https://jobright.ai/jobs/info/6973c8b1206da320f49dc13e?utm_campaign=1058&utm_source=git)** | Fort Morgan, CO | On Site | Jan 23 |
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Healthcare Navigation Intern](https://jobright.ai/jobs/info/6973a875bc8e722e7b186c07?utm_campaign=1058&utm_source=git)** | Lahey Hospital and Medical Center | On Site | Jan 23 |
 | **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/6875a21b5cebcd1dd51c233d?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Jan 23 |
-| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Health & Safety](https://jobright.ai/jobs/info/69739fa4bc8e722e7b1867f0?utm_campaign=1058&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jan 23 |
-| **[Symbria](https://www.symbria.com/)** | **[Active Pharmacy Student/Intern Tech - PRN](https://jobright.ai/jobs/info/6973983f206da320f49d8db2?utm_campaign=1058&utm_source=git)** | Sharpsburg, PA | On Site | Jan 23 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6973927837785856350d632d?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Jan 23 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6973926f37785856350d6328?utm_campaign=1058&utm_source=git)** | Alpena, MI | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
