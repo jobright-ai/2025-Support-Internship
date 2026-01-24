@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/6974329dbc8e722e7b19286d?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Jan 23 |
+| **[PACCAR](http://www.paccar.com/)** | **[IT Summer 2026 Interns - Salesforce Intern](https://jobright.ai/jobs/info/69743269bc8e722e7b19284d?utm_campaign=1058&utm_source=git)** | Renton, WA | On Site | Jan 23 |
+| **[DCS Corp](http://www.dcscorp.com)** | **[IT Summer Intern](https://jobright.ai/jobs/info/6974311e206da320f49e52c5?utm_campaign=1058&utm_source=git)** | Sterling Heights, MI | On Site | Jan 23 |
+| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Student Intern (Multiple Divisions)](https://jobright.ai/jobs/info/696875ce1703f05405aa2d52?utm_campaign=1058&utm_source=git)** | Freehold, NJ | On Site | Jan 23 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69742b34bc8e722e7b192118?utm_campaign=1058&utm_source=git)** | Brookfield, WI | On Site | Jan 23 |
+| **[iManage](https://imanage.com)** | **[Technical Support Engineer Intern](https://jobright.ai/jobs/info/6974297d206da320f49e4b46?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
+| **[McLaren Health Care](http://www.mclaren.org)** | **[Pharmacy Intern - KSP](https://jobright.ai/jobs/info/6974261137785856350e2038?utm_campaign=1058&utm_source=git)** | Troy, MI | On Site | Jan 23 |
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974249837785856350e1e95?utm_campaign=1058&utm_source=git)** | Columbus, OH, US | On Site | Jan 23 |
 | **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Business Systems Analyst](https://jobright.ai/jobs/info/6974244f37785856350e1e3e?utm_campaign=1058&utm_source=git)** | Jericho, NY | On Site | Jan 23 |
 | **[Preferred Home Health Care & Nursing Services](https://www.preferredcares.com)** | **[Nurse Extern - Nursing Internship - PRN](https://jobright.ai/jobs/info/697423d0bc8e722e7b191927?utm_campaign=1058&utm_source=git)** | Benton, LA | On Site | Jan 23 |
@@ -73,6 +80,10 @@ For a complete list, click the following sortable link below:
 | **[DayToDay Health](https://www.daytoday.health)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69741cb9206da320f49e3dd7?utm_campaign=1058&utm_source=git)** | Haughton, LA | On Site | Jan 23 |
 | **[Cherry Hill Free Clinic](https://www.cherryhillfreeclinic.org/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69741bf4206da320f49e3cf2?utm_campaign=1058&utm_source=git)** | Keachi, LA | On Site | Jan 23 |
 | **[Gibson Energy](https://www.gibsonenergy.com)** | **[Information Services Analyst (Student or New Grad)](https://jobright.ai/jobs/info/697418c9bc8e722e7b190f7f?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 23 |
+| **[Apex Home Health, Hospice & Home Care](http://apexhomehealth.com)** | **[Mammography Technologist Intern - Full Time - Evenings](https://jobright.ai/jobs/info/69742cfe37785856350e26e1?utm_campaign=1058&utm_source=git)** | Pembroke Pines, FL | On Site | Jan 23 |
+| **[Provident Behavioral Health](https://www.providentstl.org)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69742fb937785856350e2a23?utm_campaign=1058&utm_source=git)** | Red Chute, LA | On Site | Jan 23 |
+| **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern MICU](https://jobright.ai/jobs/info/697429c537785856350e2345?utm_campaign=1058&utm_source=git)** | 1026 GOODYEAR AVENUE, GADSDEN, AL, 35903, US | On Site | Jan 23 |
+| **[Cherry Hill Free Clinic](https://www.cherryhillfreeclinic.org/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69742550206da320f49e476a?utm_campaign=1058&utm_source=git)** | Eastwood, LA | On Site | Jan 23 |
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Applications Intern](https://jobright.ai/jobs/info/6974091737785856350df0c2?utm_campaign=1058&utm_source=git)** | RENAM_Indiana | Remote | Jan 23 |
 | **[Lovelace Health System](http://lovelace.com/)** | **[Radiology Intern](https://jobright.ai/jobs/info/69740653bc8e722e7b18eaa4?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Jan 23 |
 | **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69604689a112b402660f13dc?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Jan 23 |
@@ -106,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Move United](https://moveunitedsport.org)** | **[USAWFL INTERN (8/1-11/22)](https://jobright.ai/jobs/info/6973baee206da320f49db798?utm_campaign=1058&utm_source=git)** | Rockville, MD | Remote | Jan 23 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Salesforce 6 month internship (remote)](https://jobright.ai/jobs/info/697023143ed06875134b226a?utm_campaign=1058&utm_source=git)** | Virginia, United States | Remote | Jan 23 |
 | **[HomeTown Credit Union, Minnesota](https://www.hometowncu.coop/)** | **[High School Intern - Teller / Member Services Representative (MSR)](https://jobright.ai/jobs/info/69741bea206da320f49e3ce4?utm_campaign=1058&utm_source=git)** | 150 18th Street Southwest, Owatonna, MN, USA | On Site | Jan 23 |
+| **[PGT Trucking, Inc.](https://www.pgttrucking.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69742ee937785856350e2926?utm_campaign=1058&utm_source=git)** | Aliquippa, PA, United States | On Site | Jan 23 |
 | **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68cd9657b2a74e1837ed9323?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Advanced Practice Nurse Intern - Critical Care - Nights](https://jobright.ai/jobs/info/6973b335206da320f49db394?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jan 23 |
 | **[Aires](https://www.aires.com)** | **[2026 Summer IT Intern - Applications Support](https://jobright.ai/jobs/info/6973af10bc8e722e7b188710?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 23 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69738579bc8e722e7b1859fd?utm_campaign=1058&utm_source=git)** | Marquette, MI | On Site | Jan 23 |
 | **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/69025b63ff462851fefe2489?utm_campaign=1058&utm_source=git)** | Waukegan, IL | On Site | Jan 23 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Branch Intern - Paid Internship (Huntsville, AL)](https://jobright.ai/jobs/info/69018291d5259a1b3cff597b?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | Jan 23 |
-| **[Acuity Insurance](http://www.acuity.com)** | **[Technical Support Analyst Intern](https://jobright.ai/jobs/info/69018a94f8ce7a040fdc0a5b?utm_campaign=1058&utm_source=git)** | Sheboygan, WI | On Site | Jan 23 |
-| **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/6902a6b8ff462851fefe5852?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Jan 23 |
-| **[Teracloud](https://www.linkedin.com/company/68699349)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/697379f9bc8e722e7b18534f?utm_campaign=1058&utm_source=git)** | Morehead City, North Carolina, United States | On Site | Jan 23 |
-| **[Prologis](http://www.prologis.com)** | **[Intern, RECX/Property Management](https://jobright.ai/jobs/info/6901db01f8ce7a040fdc2fc4?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69739d40bc8e722e7b186671?utm_campaign=1058&utm_source=git)** | O'Fallon, MO | On Site | Jan 23 |
-| **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/690254f8ff462851fefe1fc3?utm_campaign=1058&utm_source=git)** | Racine, WI | On Site | Jan 23 |
-| ↳ | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/6902689700a1816c41e9dc73?utm_campaign=1058&utm_source=git)** | Kenosha, WI | On Site | Jan 23 |
-| ↳ | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/6902a39598707b2b0fe71c79?utm_campaign=1058&utm_source=git)** | Allentown, PA | On Site | Jan 23 |
-| **[Rogers Electric](https://www.rogerselectric.com)** | **[IT Intern](https://jobright.ai/jobs/info/68cba2669e3a822f5d249752?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Jan 23 |
-| **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Branch Intern - Paid Internship (Kennesaw, GA)](https://jobright.ai/jobs/info/690190c8d5259a1b3cff63de?utm_campaign=1058&utm_source=git)** | Kennesaw, GA | On Site | Jan 23 |
-| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69741b0f206da320f49e3bef?utm_campaign=1058&utm_source=git)** | Atlanta, GA | Hybrid | Jan 23 |
-| **[21CS](https://www.21stcenturysoftware.com/)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/697408e2206da320f49e18b4?utm_campaign=1058&utm_source=git)** | Morehead City, North Carolina, United States | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
