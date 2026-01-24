@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lovelace Health System](http://lovelace.com/)** | **[Radiology Intern](https://jobright.ai/jobs/info/69740653bc8e722e7b18eaa4?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Jan 23 |
+| **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69604689a112b402660f13dc?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Jan 23 |
+| **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – IT Production Management & Application Support](https://jobright.ai/jobs/info/697405e0206da320f49e1643?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Jan 23 |
+| **[Pittsburgh Steelers](http://www.steelers.com/)** | **[Guest Experience Intern (FT/Post Graduate)](https://jobright.ai/jobs/info/697405c8bc8e722e7b18ea34?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Jan 23 |
 | **[Guardian Pharmacy](https://guardianpharmacy.com)** | **[Pharmacist Pre - Grad Intern](https://jobright.ai/jobs/info/6973f8f937785856350ddcd6?utm_campaign=1058&utm_source=git)** | Seattle, Washington | On Site | Jan 23 |
 | **[WVU Medicine](https://wvumedicine.org/)** | **[Intern/Extern - Critical Care](https://jobright.ai/jobs/info/6973f8a7bc8e722e7b18df2f?utm_campaign=1058&utm_source=git)** | Thomas Memorial Hospital (TMH) | On Site | Jan 23 |
 | **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern - UPMC Harrisburg](https://jobright.ai/jobs/info/6973f0f637785856350dc3f2?utm_campaign=1058&utm_source=git)** | Harrisburg, PA | On Site | Jan 23 |
@@ -65,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[WVU Medicine](https://wvumedicine.org/)** | **[Intern/Extern-Critical Care](https://jobright.ai/jobs/info/6973ee6dbc8e722e7b18d2f3?utm_campaign=1058&utm_source=git)** | Thomas Memorial Hospital (TMH) | On Site | Jan 23 |
 | **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Business Systems Analyst](https://jobright.ai/jobs/info/6973ea28206da320f49de23c?utm_campaign=1058&utm_source=git)** | NY LI Jericho | On Site | Jan 23 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Hospitality - Summer 2026](https://jobright.ai/jobs/info/6973e23f37785856350db30b?utm_campaign=1058&utm_source=git)** | Brillion, WI | On Site | Jan 23 |
+| **[Physics World](https://physicsworld.com/)** | **[Mobility Customer Support Program Graduate Intern - Summer 2026](https://jobright.ai/jobs/info/697400ff37785856350de941?utm_campaign=1058&utm_source=git)** | Livermore, CA | On Site | Jan 23 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Intern (Multiple Divisions)](https://jobright.ai/jobs/info/6967fa561703f05405a99882?utm_campaign=1058&utm_source=git)** | Hackensack, NJ | On Site | Jan 23 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/6973d82937785856350daa9f?utm_campaign=1058&utm_source=git)** | Kalamazoo, MI | On Site | Jan 23 |
 | **[Stellar](http://stellarindustries.com)** | **[IT Infrastructure Support Intern - Summer 2026](https://jobright.ai/jobs/info/6973f5a1206da320f49df99c?utm_campaign=1058&utm_source=git)** | Garner, IA | On Site | Jan 23 |
@@ -82,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Wish Coordinating Intern, Create](https://jobright.ai/jobs/info/6973c3eb206da320f49dbb94?utm_campaign=1058&utm_source=git)** | Chicago,IL,US | Hybrid | Jan 23 |
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Advanced Practice Nurse Intern - Critical Care - Nights](https://jobright.ai/jobs/info/6973bd7dbc8e722e7b188f19?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Jan 23 |
 | **[Move United](https://moveunitedsport.org)** | **[USAWFL INTERN (8/1-11/22)](https://jobright.ai/jobs/info/6973baee206da320f49db798?utm_campaign=1058&utm_source=git)** | Rockville, MD | Remote | Jan 23 |
-| **[Sedgwick](http://www.sedgwick.com)** | **[IT Intern](https://jobright.ai/jobs/info/6973ba5a206da320f49db720?utm_campaign=1058&utm_source=git)** | Memphis, TN | Hybrid | Jan 23 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Salesforce 6 month internship (remote)](https://jobright.ai/jobs/info/697023143ed06875134b226a?utm_campaign=1058&utm_source=git)** | Virginia, United States | Remote | Jan 23 |
 | **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68cd9657b2a74e1837ed9323?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Advanced Practice Nurse Intern - Critical Care - Nights](https://jobright.ai/jobs/info/6973b335206da320f49db394?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jan 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FirstOntario Credit Union](https://www.firstontario.com)** | **[Member Service Representative (Summer Student)](https://jobright.ai/jobs/info/69734251206da320f49d4b2a?utm_campaign=1058&utm_source=git)** | Niagara Falls, Ontario, Canada | Hybrid | Jan 23 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69733aee1790715e866c31c9?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 23 |
 | **[Sosuite](https://staysosuite.com/)** | **[Part-Time Leasing Intern](https://jobright.ai/jobs/info/697336341790715e866c2b49?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
-| **[McLaren Health Care](http://www.mclaren.org)** | **[Respiratory Intern](https://jobright.ai/jobs/info/69732e3e1790715e866c2805?utm_campaign=1058&utm_source=git)** | Lansing, MI | On Site | Jan 23 |
-| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern](https://jobright.ai/jobs/info/697314111790715e866c16e3?utm_campaign=1058&utm_source=git)** | Waldron, AR | On Site | Jan 22 |
-| ↳ | **[Radiology Intern I](https://jobright.ai/jobs/info/697313c4206da320f49d1f2c?utm_campaign=1058&utm_source=git)** | Booneville, AR | On Site | Jan 22 |
-| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #385](https://jobright.ai/jobs/info/69733d2a206da320f49d3fc3?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
