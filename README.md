@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Applications Intern](https://jobright.ai/jobs/info/6974091737785856350df0c2?utm_campaign=1058&utm_source=git)** | RENAM_Indiana | Remote | Jan 23 |
 | **[Lovelace Health System](http://lovelace.com/)** | **[Radiology Intern](https://jobright.ai/jobs/info/69740653bc8e722e7b18eaa4?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Jan 23 |
 | **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69604689a112b402660f13dc?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Jan 23 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – IT Production Management & Application Support](https://jobright.ai/jobs/info/697405e0206da320f49e1643?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Jan 23 |
@@ -137,6 +138,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/6902a39598707b2b0fe71c79?utm_campaign=1058&utm_source=git)** | Allentown, PA | On Site | Jan 23 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[IT Intern](https://jobright.ai/jobs/info/68cba2669e3a822f5d249752?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Jan 23 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Branch Intern - Paid Internship (Kennesaw, GA)](https://jobright.ai/jobs/info/690190c8d5259a1b3cff63de?utm_campaign=1058&utm_source=git)** | Kennesaw, GA | On Site | Jan 23 |
+| **[21CS](https://www.21stcenturysoftware.com/)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/697408e2206da320f49e18b4?utm_campaign=1058&utm_source=git)** | Morehead City, North Carolina, United States | On Site | Jan 23 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Pharmacy Intern - Mail Center, Per Diem](https://jobright.ai/jobs/info/6973648f206da320f49d5d97?utm_campaign=1058&utm_source=git)** | Manchester, NH | On Site | Jan 23 |
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[IT Support Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/691e33f709cc522e877376d9?utm_campaign=1058&utm_source=git)** | Greater Chicago Area | On Site | Jan 23 |
 | **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/696db6f7db26b6189510ba2f?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Daifuku](https://www.daifuku.com/)** | **[IT Co-Op/Intern](https://jobright.ai/jobs/info/6973450e206da320f49d52fa?utm_campaign=1058&utm_source=git)** | Novi, MI | On Site | Jan 23 |
 | **[Bassett Medical Center](https://www.bassett.org/medical/career-center/bassett-medical-center-regional-site-opportunities)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/697342de1790715e866c454c?utm_campaign=1058&utm_source=git)** | Cooperstown, NY | On Site | Jan 23 |
 | **[FirstOntario Credit Union](https://www.firstontario.com)** | **[Member Service Representative (Summer Student)](https://jobright.ai/jobs/info/69734251206da320f49d4b2a?utm_campaign=1058&utm_source=git)** | Niagara Falls, Ontario, Canada | Hybrid | Jan 23 |
-| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69733aee1790715e866c31c9?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 23 |
-| **[Sosuite](https://staysosuite.com/)** | **[Part-Time Leasing Intern](https://jobright.ai/jobs/info/697336341790715e866c2b49?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
