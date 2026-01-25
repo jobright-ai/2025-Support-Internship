@@ -124,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/697473cd206da320f49eb2d9?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Jan 23 |
 | ↳ | **[PHARMACY/304 PHARMACIST INTERN](https://jobright.ai/jobs/info/697473ab206da320f49eb2be?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Jan 23 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern I](https://jobright.ai/jobs/info/697467bebc8e722e7b197e04?utm_campaign=1058&utm_source=git)** | Booneville, AR | On Site | Jan 23 |
+| **[Alpha Home Health and Hospice](https://alphahomehealthhospice.com/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69757291bc8e722e7b1a49c2?utm_campaign=1058&utm_source=git)** | Bethany, LA | On Site | Jan 23 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6974537f37785856350e66b1?utm_campaign=1058&utm_source=git)** | Plymouth, IN | On Site | Jan 23 |
 | **[WVU Medicine Thomas Hospitals](https://thomashealth.org)** | **[Intern/Extern - Critical Care](https://jobright.ai/jobs/info/697452babc8e722e7b196137?utm_campaign=1058&utm_source=git)** | South Charleston, WV | On Site | Jan 23 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Technical Project Managed Services Intern](https://jobright.ai/jobs/info/6970b832587dfa0bb55e4890?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | Hybrid | Jan 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/697421cbbc8e722e7b1916e6?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Jan 23 |
 | **[Lake Granbury Medical Center](https://www.lakegranburymedicalcenter.com)** | **[Nurse Intern PRN Days](https://jobright.ai/jobs/info/69743e6937785856350e37f8?utm_campaign=1058&utm_source=git)** | Granbury, TX | On Site | Jan 23 |
 | **[Clinic Service Corporation](http://www.clinicservice.com/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69742107206da320f49e4291?utm_campaign=1058&utm_source=git)** | Keithville, LA | On Site | Jan 23 |
-| **[Seacrest Behavioral Health](https://www.seacrestrecoverycenter.com)** | **[Nurse Extern - Nursing Internship - PRN](https://jobright.ai/jobs/info/697420fcbc8e722e7b1915ee?utm_campaign=1058&utm_source=git)** | Gilliam, LA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
