@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mednevo](https://mednevo.com)** | **[Medical Doctor Intern](https://jobright.ai/jobs/info/69758b69206da320f49f85f8?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Inova Fair Oaks Hospital](https://www.inova.org/locations/inova-fair-oaks-hospital)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6975610b37785856350f34cb?utm_campaign=1058&utm_source=git)** | Fairfax, VA | On Site | Jan 24 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69755d9537785856350f348c?utm_campaign=1058&utm_source=git)** | Scotts Valley, CA | On Site | Jan 24 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[2026 Summer Internship - Information Technology - New York](https://jobright.ai/jobs/info/69752bf4206da320f49f3bbd?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 24 |
@@ -118,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Culligan International](http://www.culligan.com/)** | **[Customer Relations Intern](https://jobright.ai/jobs/info/69583205aa05c26e7ab20ded?utm_campaign=1058&utm_source=git)** | Rosemont, IL | On Site | Jan 24 |
 | **[S&P Global](https://www.spglobal.com)** | **[Strategic Product Support Intern](https://jobright.ai/jobs/info/697488e5206da320f49ec108?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Florence)](https://jobright.ai/jobs/info/695dd91889be3415c746348b?utm_campaign=1058&utm_source=git)** | Florence, KY | On Site | Jan 24 |
+| **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Wish Coordinating Intern, Create](https://jobright.ai/jobs/info/6975896b37785856350f5ded?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Jan 24 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6974755437785856350e8cdc?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Jan 23 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6974750937785856350e8ca4?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Jan 23 |
 | **[Gadsden Regional Medical Center](https://www.gadsdenregional.com/)** | **[Nurse Intern MICU](https://jobright.ai/jobs/info/69747452206da320f49eb349?utm_campaign=1058&utm_source=git)** | Gadsden, AL | On Site | Jan 23 |
@@ -139,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[WVU Medicine Thomas Hospitals](https://thomashealth.org)** | **[Intern/Extern-Critical Care](https://jobright.ai/jobs/info/6974697f37785856350e838c?utm_campaign=1058&utm_source=git)** | South Charleston, WV | On Site | Jan 23 |
 | **[S&P Global](https://www.spglobal.com)** | **[Strategic Product Support Intern](https://jobright.ai/jobs/info/69743e41206da320f49e638c?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Jan 23 |
 | **[Sonova Group](http://www.sonova.com)** | **[Intern HCP - West Van, BC](https://jobright.ai/jobs/info/6974364d206da320f49e5647?utm_campaign=1058&utm_source=git)** | Vancouver, Canada | On Site | Jan 23 |
+| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/697589a1206da320f49f8393?utm_campaign=1058&utm_source=git)** | Happy Valley, OR | On Site | Jan 23 |
 | **[Healix, LLC](http://healix.net/)** | **[CERTIFIED PHARMACY INTERN](https://jobright.ai/jobs/info/6974341e206da320f49e549c?utm_campaign=1058&utm_source=git)** | Fayetteville, AR 72703 | On Site | Jan 23 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/6974329dbc8e722e7b19286d?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Jan 23 |
 | **[PACCAR](http://www.paccar.com/)** | **[IT Summer 2026 Interns - Salesforce Intern](https://jobright.ai/jobs/info/69743269bc8e722e7b19284d?utm_campaign=1058&utm_source=git)** | Renton, WA | On Site | Jan 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cherry Hill Free Clinic](https://www.cherryhillfreeclinic.org/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/6974237a37785856350e1d43?utm_campaign=1058&utm_source=git)** | Waskom, TX | On Site | Jan 23 |
 | **[Massachusetts Health & Hospital Association](https://www.mhalink.org/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/697422fcbc8e722e7b19183e?utm_campaign=1058&utm_source=git)** | Elm Grove, LA | On Site | Jan 23 |
 | **[Guardian Pharmacy](https://guardianpharmacy.com)** | **[Pharmacist Pre - Grad Intern](https://jobright.ai/jobs/info/6974220b206da320f49e43c5?utm_campaign=1058&utm_source=git)** | Mountlake Terrace, WA | On Site | Jan 23 |
-| **[McLaren Health Care](http://www.mclaren.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/697421cbbc8e722e7b1916e6?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Jan 23 |
-| **[Lake Granbury Medical Center](https://www.lakegranburymedicalcenter.com)** | **[Nurse Intern PRN Days](https://jobright.ai/jobs/info/69743e6937785856350e37f8?utm_campaign=1058&utm_source=git)** | Granbury, TX | On Site | Jan 23 |
-| **[Clinic Service Corporation](http://www.clinicservice.com/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69742107206da320f49e4291?utm_campaign=1058&utm_source=git)** | Keithville, LA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
