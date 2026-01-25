@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wellstar Health System](https://www.wellstar.org)** | **[Resp Care Intern , PRN - Lagrange, GA](https://jobright.ai/jobs/info/6975afc7206da320f49fbcea?utm_campaign=1058&utm_source=git)** | LaGrange, GA | On Site | Jan 24 |
 | **[Mednevo](https://mednevo.com)** | **[Medical Doctor Intern](https://jobright.ai/jobs/info/69758b69206da320f49f85f8?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Inova Fair Oaks Hospital](https://www.inova.org/locations/inova-fair-oaks-hospital)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6975610b37785856350f34cb?utm_campaign=1058&utm_source=git)** | Fairfax, VA | On Site | Jan 24 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69755d9537785856350f348c?utm_campaign=1058&utm_source=git)** | Scotts Valley, CA | On Site | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974249837785856350e1e95?utm_campaign=1058&utm_source=git)** | Columbus, OH, US | On Site | Jan 23 |
 | **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Business Systems Analyst](https://jobright.ai/jobs/info/6974244f37785856350e1e3e?utm_campaign=1058&utm_source=git)** | Jericho, NY | On Site | Jan 23 |
 | **[Preferred Home Health Care & Nursing Services](https://www.preferredcares.com)** | **[Nurse Extern - Nursing Internship - PRN](https://jobright.ai/jobs/info/697423d0bc8e722e7b191927?utm_campaign=1058&utm_source=git)** | Benton, LA | On Site | Jan 23 |
-| **[Cherry Hill Free Clinic](https://www.cherryhillfreeclinic.org/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/6974237a37785856350e1d43?utm_campaign=1058&utm_source=git)** | Waskom, TX | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
