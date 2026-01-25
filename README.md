@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Inova Fair Oaks Hospital](https://www.inova.org/locations/inova-fair-oaks-hospital)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6975610b37785856350f34cb?utm_campaign=1058&utm_source=git)** | Fairfax, VA | On Site | Jan 24 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69755d9537785856350f348c?utm_campaign=1058&utm_source=git)** | Scotts Valley, CA | On Site | Jan 24 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[2026 Summer Internship - Information Technology - New York](https://jobright.ai/jobs/info/69752bf4206da320f49f3bbd?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Shoppers Drug Mart](http://www.shoppersdrugmart.ca)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6975285a206da320f49f3a99?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 24 |
 | **[World Insurance Associates](https://toinsurance.com/)** | **[Risk Management Client Service Intern, Commercial Lines - Woodbury, NY](https://jobright.ai/jobs/info/6975230b37785856350f1210?utm_campaign=1058&utm_source=git)** | Woodbury, NY | On Site | Jan 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lake Granbury Medical Center](https://www.lakegranburymedicalcenter.com)** | **[Nurse Intern PRN Days](https://jobright.ai/jobs/info/69743e6937785856350e37f8?utm_campaign=1058&utm_source=git)** | Granbury, TX | On Site | Jan 23 |
 | **[Clinic Service Corporation](http://www.clinicservice.com/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69742107206da320f49e4291?utm_campaign=1058&utm_source=git)** | Keithville, LA | On Site | Jan 23 |
 | **[Seacrest Behavioral Health](https://www.seacrestrecoverycenter.com)** | **[Nurse Extern - Nursing Internship - PRN](https://jobright.ai/jobs/info/697420fcbc8e722e7b1915ee?utm_campaign=1058&utm_source=git)** | Gilliam, LA | On Site | Jan 23 |
-| **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[Jr. Technical Writer- Summer 2026 Internship](https://jobright.ai/jobs/info/69742054206da320f49e41ca?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
-| **[Columbia Hospitality](http://www.columbiahospitality.com)** | **[Food & Beverage Intern / Semiahmoo Resort](https://jobright.ai/jobs/info/69741d2a206da320f49e3e60?utm_campaign=1058&utm_source=git)** | Blaine, WA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
