@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rady Children's Hospital-San Diego](https://radychildrens.org)** | **[Pharmacist Intern (Per Diem) - Pharmacy](https://jobright.ai/jobs/info/69764945206da320f4a02a64?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Jan 25 |
 | **[The Shella Foundation](http://www.shellafoundation.org)** | **[Data Entry Intern](https://jobright.ai/jobs/info/69762aa637785856350fea87?utm_campaign=1058&utm_source=git)** | Colorado, United States | Remote | Jan 25 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6976285a206da320f4a00e3a?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 25 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697625ab37785856350fe960?utm_campaign=1058&utm_source=git)** | Waldwick, NJ | On Site | Jan 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern I](https://jobright.ai/jobs/info/697467bebc8e722e7b197e04?utm_campaign=1058&utm_source=git)** | Booneville, AR | On Site | Jan 23 |
 | **[Alpha Home Health and Hospice](https://alphahomehealthhospice.com/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/69757291bc8e722e7b1a49c2?utm_campaign=1058&utm_source=git)** | Bethany, LA | On Site | Jan 23 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6974537f37785856350e66b1?utm_campaign=1058&utm_source=git)** | Plymouth, IN | On Site | Jan 23 |
-| **[WVU Medicine Thomas Hospitals](https://thomashealth.org)** | **[Intern/Extern - Critical Care](https://jobright.ai/jobs/info/697452babc8e722e7b196137?utm_campaign=1058&utm_source=git)** | South Charleston, WV | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
