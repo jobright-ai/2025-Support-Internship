@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/6975d4dd37785856350fa7d8?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 25 |
+| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6975cf5a37785856350fa5f5?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 25 |
+| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6975cd79bc8e722e7b1a9af9?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Jan 24 |
 | **[The Shella Foundation](http://www.shellafoundation.org)** | **[Data Entry Intern](https://jobright.ai/jobs/info/6975c859206da320f49fc84e?utm_campaign=1058&utm_source=git)** | Colorado, Colorado, United States | Remote | Jan 24 |
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Resp Care Intern , PRN - Lagrange, GA](https://jobright.ai/jobs/info/6975afc7206da320f49fbcea?utm_campaign=1058&utm_source=git)** | LaGrange, GA | On Site | Jan 24 |
 | **[Mednevo](https://mednevo.com)** | **[Medical Doctor Intern](https://jobright.ai/jobs/info/69758b69206da320f49f85f8?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Student Intern (Multiple Divisions)](https://jobright.ai/jobs/info/696875ce1703f05405aa2d52?utm_campaign=1058&utm_source=git)** | Freehold, NJ | On Site | Jan 23 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69742b34bc8e722e7b192118?utm_campaign=1058&utm_source=git)** | Brookfield, WI | On Site | Jan 23 |
 | **[iManage](https://imanage.com)** | **[Technical Support Engineer Intern](https://jobright.ai/jobs/info/6974297d206da320f49e4b46?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
-| **[McLaren Health Care](http://www.mclaren.org)** | **[Pharmacy Intern - KSP](https://jobright.ai/jobs/info/6974261137785856350e2038?utm_campaign=1058&utm_source=git)** | Troy, MI | On Site | Jan 23 |
-| **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974249837785856350e1e95?utm_campaign=1058&utm_source=git)** | Columbus, OH, US | On Site | Jan 23 |
-| **[Webster Bank](https://www.websterbank.com)** | **[IT Intern - Business Systems Analyst](https://jobright.ai/jobs/info/6974244f37785856350e1e3e?utm_campaign=1058&utm_source=git)** | Jericho, NY | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
