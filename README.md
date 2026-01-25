@@ -81,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[KLA](https://www.kla.com)** | **[Service Support Intern](https://jobright.ai/jobs/info/69340b5af131d96e484691ea?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Jan 25 |
 | **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[Pharmacy Intern - Inpatient](https://jobright.ai/jobs/info/697346a537785856350d27cf?utm_campaign=1058&utm_source=git)** | Nashville Metro | On Site | Jan 25 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Intern - Customer Experience](https://jobright.ai/jobs/info/6903c00cd64a22104aa92774?utm_campaign=1058&utm_source=git)** | Colmar, PA | On Site | Jan 25 |
-| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/6975d4dd37785856350fa7d8?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 25 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6975cf5a37785856350fa5f5?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 25 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6975cd79bc8e722e7b1a9af9?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Jan 24 |
 | **[The Shella Foundation](http://www.shellafoundation.org)** | **[Data Entry Intern](https://jobright.ai/jobs/info/6975c859206da320f49fc84e?utm_campaign=1058&utm_source=git)** | Colorado, Colorado, United States | Remote | Jan 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6974537f37785856350e66b1?utm_campaign=1058&utm_source=git)** | Plymouth, IN | On Site | Jan 23 |
 | **[WVU Medicine Thomas Hospitals](https://thomashealth.org)** | **[Intern/Extern - Critical Care](https://jobright.ai/jobs/info/697452babc8e722e7b196137?utm_campaign=1058&utm_source=git)** | South Charleston, WV | On Site | Jan 23 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Technical Project Managed Services Intern](https://jobright.ai/jobs/info/6970b832587dfa0bb55e4890?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | Hybrid | Jan 23 |
+| **[Overland Park Regional Medical Center](https://www.oprmc.com)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/69744edc37785856350e5331?utm_campaign=1058&utm_source=git)** | Overland Park, KS | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
