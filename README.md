@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dorman Products](https://www.dormanproducts.com/)** | **[Intern - Customer Experience](https://jobright.ai/jobs/info/6903c00cd64a22104aa92774?utm_campaign=1058&utm_source=git)** | Colmar, PA | On Site | Jan 25 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/6975d4dd37785856350fa7d8?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 25 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6975cf5a37785856350fa5f5?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 25 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6975cd79bc8e722e7b1a9af9?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Student Intern (Multiple Divisions)](https://jobright.ai/jobs/info/696875ce1703f05405aa2d52?utm_campaign=1058&utm_source=git)** | Freehold, NJ | On Site | Jan 23 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69742b34bc8e722e7b192118?utm_campaign=1058&utm_source=git)** | Brookfield, WI | On Site | Jan 23 |
 | **[iManage](https://imanage.com)** | **[Technical Support Engineer Intern](https://jobright.ai/jobs/info/6974297d206da320f49e4b46?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
-| **[McLaren Health Care](http://www.mclaren.org)** | **[Pharmacy Intern - KSP](https://jobright.ai/jobs/info/6974261137785856350e2038?utm_campaign=1058&utm_source=git)** | Troy, MI | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
