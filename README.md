@@ -119,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Culligan International](http://www.culligan.com/)** | **[Customer Relations Intern](https://jobright.ai/jobs/info/69583205aa05c26e7ab20ded?utm_campaign=1058&utm_source=git)** | Rosemont, IL | On Site | Jan 24 |
 | **[S&P Global](https://www.spglobal.com)** | **[Strategic Product Support Intern](https://jobright.ai/jobs/info/697488e5206da320f49ec108?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Florence)](https://jobright.ai/jobs/info/695dd91889be3415c746348b?utm_campaign=1058&utm_source=git)** | Florence, KY | On Site | Jan 24 |
-| **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Wish Coordinating Intern, Create](https://jobright.ai/jobs/info/6975896b37785856350f5ded?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Jan 24 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6974755437785856350e8cdc?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Jan 23 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6974750937785856350e8ca4?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Jan 23 |
 | **[Gadsden Regional Medical Center](https://www.gadsdenregional.com/)** | **[Nurse Intern MICU](https://jobright.ai/jobs/info/69747452206da320f49eb349?utm_campaign=1058&utm_source=git)** | Gadsden, AL | On Site | Jan 23 |
@@ -136,6 +135,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69744e1ebc8e722e7b194e6e?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | On Site | Jan 23 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69744d8137785856350e49e6?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | Jan 23 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69744cbbbc8e722e7b19455a?utm_campaign=1058&utm_source=git)** | Grand Prairie, TX | On Site | Jan 23 |
+| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/6975a078206da320f49fae86?utm_campaign=1058&utm_source=git)** | Atlanta, GA | Hybrid | Jan 23 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Services Internship, Price Modeling (Summer 2026)](https://jobright.ai/jobs/info/697597ecbc8e722e7b1a5baf?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Jan 23 |
 | **[HCA HealthONE](http://www.healthonecares.com/)** | **[Ultrasound Student Intern PRN](https://jobright.ai/jobs/info/69744016bc8e722e7b1939aa?utm_campaign=1058&utm_source=git)** | Aurora, CO | On Site | Jan 23 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69743fbbbc8e722e7b193950?utm_campaign=1058&utm_source=git)** | Richmond VA (Corp) | On Site | Jan 23 |
 | **[WVU Medicine Thomas Hospitals](https://thomashealth.org)** | **[Intern/Extern-Critical Care](https://jobright.ai/jobs/info/6974697f37785856350e838c?utm_campaign=1058&utm_source=git)** | South Charleston, WV | On Site | Jan 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Preferred Home Health Care & Nursing Services](https://www.preferredcares.com)** | **[Nurse Extern - Nursing Internship - PRN](https://jobright.ai/jobs/info/697423d0bc8e722e7b191927?utm_campaign=1058&utm_source=git)** | Benton, LA | On Site | Jan 23 |
 | **[Cherry Hill Free Clinic](https://www.cherryhillfreeclinic.org/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/6974237a37785856350e1d43?utm_campaign=1058&utm_source=git)** | Waskom, TX | On Site | Jan 23 |
 | **[Massachusetts Health & Hospital Association](https://www.mhalink.org/)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/697422fcbc8e722e7b19183e?utm_campaign=1058&utm_source=git)** | Elm Grove, LA | On Site | Jan 23 |
-| **[Guardian Pharmacy](https://guardianpharmacy.com)** | **[Pharmacist Pre - Grad Intern](https://jobright.ai/jobs/info/6974220b206da320f49e43c5?utm_campaign=1058&utm_source=git)** | Mountlake Terrace, WA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
