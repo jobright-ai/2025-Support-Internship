@@ -79,8 +79,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974e23f206da320f49f0e42?utm_campaign=1058&utm_source=git)** | Greeneville, TN | On Site | Jan 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974e23737785856350ee7a0?utm_campaign=1058&utm_source=git)** | Loudonville, NY | On Site | Jan 24 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6974e1bfbc8e722e7b19e073?utm_campaign=1058&utm_source=git)** | Hasbrouck Heights, NJ | On Site | Jan 24 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6974e17737785856350ee762?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 24 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974e0e1206da320f49f0dd3?utm_campaign=1058&utm_source=git)** | Spring, TX | On Site | Jan 24 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974e0e1206da320f49f0dd3?utm_campaign=1058&utm_source=git)** | Spring, TX | On Site | Jan 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974e07237785856350ee712?utm_campaign=1058&utm_source=git)** | Germantown, TN | On Site | Jan 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974e02637785856350ee6e9?utm_campaign=1058&utm_source=git)** | Findlay, OH | On Site | Jan 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974e01537785856350ee6de?utm_campaign=1058&utm_source=git)** | Port St Lucie, FL | On Site | Jan 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Student Intern (Multiple Divisions)](https://jobright.ai/jobs/info/696875ce1703f05405aa2d52?utm_campaign=1058&utm_source=git)** | Freehold, NJ | On Site | Jan 23 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69742b34bc8e722e7b192118?utm_campaign=1058&utm_source=git)** | Brookfield, WI | On Site | Jan 23 |
 | **[iManage](https://imanage.com)** | **[Technical Support Engineer Intern](https://jobright.ai/jobs/info/6974297d206da320f49e4b46?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
+| **[McLaren Health Care](http://www.mclaren.org)** | **[Pharmacy Intern - KSP](https://jobright.ai/jobs/info/6974261137785856350e2038?utm_campaign=1058&utm_source=git)** | Troy, MI | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
