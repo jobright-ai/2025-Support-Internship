@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Pharmacy Intern - PRN - University Hospital](https://jobright.ai/jobs/info/68c86b9495f5211cd2ce4db9?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Jan 25 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Intern IT - Summer 2026](https://jobright.ai/jobs/info/69562bd19f1b381eb26f651c?utm_campaign=1058&utm_source=git)** | Saegertown, PA | On Site | Jan 25 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/69679233639b452fb57d20b8?utm_campaign=1058&utm_source=git)** | Sparks, NV | On Site | Jan 25 |
 | **[Genmab](https://www.genmab.com)** | **[Patient Support Services Intern](https://jobright.ai/jobs/info/695a533a9f1b381eb272f463?utm_campaign=1058&utm_source=git)** | Berkeley Heights, NJ | Hybrid | Jan 25 |
 | **[KLA](https://www.kla.com)** | **[Service Support Intern](https://jobright.ai/jobs/info/69340b5af131d96e484691ea?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Jan 25 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Perkins Eastman | Pfeiffer ](http://www.pfeifferpartners.com)** | **[2026 Summer Internship - Information Technology - New York](https://jobright.ai/jobs/info/697519eb206da320f49f3352?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[2026 Summer Internship - Information Technology - New York](https://jobright.ai/jobs/info/697516eabc8e722e7b1a03dd?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Racine](http://www.racine.eu)** | **[IT Trainer](https://jobright.ai/jobs/info/6974ff06bc8e722e7b19fea3?utm_campaign=1058&utm_source=git)** | Racine, WI | On Site | Jan 24 |
-| **[Inova Health](http://www.inova.org/itmi/home)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974fe1037785856350f061e?utm_campaign=1058&utm_source=git)** | Fairfax, VA | On Site | Jan 24 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I](https://jobright.ai/jobs/info/6974fa8d37785856350f059c?utm_campaign=1058&utm_source=git)** | Jonesboro, AR | On Site | Jan 24 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974e311bc8e722e7b19e0ce?utm_campaign=1058&utm_source=git)** | Lima, OH | On Site | Jan 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974e251bc8e722e7b19e08e?utm_campaign=1058&utm_source=git)** | Toledo, OH | On Site | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/6974329dbc8e722e7b19286d?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Jan 23 |
 | **[PACCAR](http://www.paccar.com/)** | **[IT Summer 2026 Interns - Salesforce Intern](https://jobright.ai/jobs/info/69743269bc8e722e7b19284d?utm_campaign=1058&utm_source=git)** | Renton, WA | On Site | Jan 23 |
 | **[Renaissance Life & Health Insurance Company of America](https://renaissancebenefits.com/)** | **[Applications Intern](https://jobright.ai/jobs/info/6974e56b206da320f49f0f0c?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | Remote | Jan 23 |
-| **[DCS Corp](http://www.dcscorp.com)** | **[IT Summer Intern](https://jobright.ai/jobs/info/6974311e206da320f49e52c5?utm_campaign=1058&utm_source=git)** | Sterling Heights, MI | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
