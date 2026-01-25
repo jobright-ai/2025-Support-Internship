@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/69679233639b452fb57d20b8?utm_campaign=1058&utm_source=git)** | Sparks, NV | On Site | Jan 25 |
+| **[Genmab](https://www.genmab.com)** | **[Patient Support Services Intern](https://jobright.ai/jobs/info/695a533a9f1b381eb272f463?utm_campaign=1058&utm_source=git)** | Berkeley Heights, NJ | Hybrid | Jan 25 |
+| **[KLA](https://www.kla.com)** | **[Service Support Intern](https://jobright.ai/jobs/info/69340b5af131d96e484691ea?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Jan 25 |
+| **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[Pharmacy Intern - Inpatient](https://jobright.ai/jobs/info/697346a537785856350d27cf?utm_campaign=1058&utm_source=git)** | Nashville Metro | On Site | Jan 25 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Intern - Customer Experience](https://jobright.ai/jobs/info/6903c00cd64a22104aa92774?utm_campaign=1058&utm_source=git)** | Colmar, PA | On Site | Jan 25 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/6975d4dd37785856350fa7d8?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 25 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6975cf5a37785856350fa5f5?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 25 |
@@ -141,7 +145,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69744e1ebc8e722e7b194e6e?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | On Site | Jan 23 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69744d8137785856350e49e6?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | Jan 23 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69744cbbbc8e722e7b19455a?utm_campaign=1058&utm_source=git)** | Grand Prairie, TX | On Site | Jan 23 |
-| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/6975a078206da320f49fae86?utm_campaign=1058&utm_source=git)** | Atlanta, GA | Hybrid | Jan 23 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Services Internship, Price Modeling (Summer 2026)](https://jobright.ai/jobs/info/697597ecbc8e722e7b1a5baf?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Jan 23 |
 | **[HCA HealthONE](http://www.healthonecares.com/)** | **[Ultrasound Student Intern PRN](https://jobright.ai/jobs/info/69744016bc8e722e7b1939aa?utm_campaign=1058&utm_source=git)** | Aurora, CO | On Site | Jan 23 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69743fbbbc8e722e7b193950?utm_campaign=1058&utm_source=git)** | Richmond VA (Corp) | On Site | Jan 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PACCAR](http://www.paccar.com/)** | **[IT Summer 2026 Interns - Salesforce Intern](https://jobright.ai/jobs/info/69743269bc8e722e7b19284d?utm_campaign=1058&utm_source=git)** | Renton, WA | On Site | Jan 23 |
 | **[Renaissance Life & Health Insurance Company of America](https://renaissancebenefits.com/)** | **[Applications Intern](https://jobright.ai/jobs/info/6974e56b206da320f49f0f0c?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | Remote | Jan 23 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[IT Summer Intern](https://jobright.ai/jobs/info/6974311e206da320f49e52c5?utm_campaign=1058&utm_source=git)** | Sterling Heights, MI | On Site | Jan 23 |
-| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Paid Student Intern (Multiple Divisions)](https://jobright.ai/jobs/info/696875ce1703f05405aa2d52?utm_campaign=1058&utm_source=git)** | Freehold, NJ | On Site | Jan 23 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69742b34bc8e722e7b192118?utm_campaign=1058&utm_source=git)** | Brookfield, WI | On Site | Jan 23 |
-| **[iManage](https://imanage.com)** | **[Technical Support Engineer Intern](https://jobright.ai/jobs/info/6974297d206da320f49e4b46?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
