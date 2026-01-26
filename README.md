@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MathWorks](http://www.mathworks.com)** | **[Technical Documentation Intern - Undergraduate](https://jobright.ai/jobs/info/695216b729655e4dd65aefe1?utm_campaign=1058&utm_source=git)** | Natick, MA | Hybrid | Jan 26 |
+| ↳ | **[Technical Documentation Intern - Graduate](https://jobright.ai/jobs/info/695216b429655e4dd65aefc3?utm_campaign=1058&utm_source=git)** | Natick, MA | Hybrid | Jan 26 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69772402fdeb8243a279f392?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 26 |
 | **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - Demo Operations](https://jobright.ai/jobs/info/697723dafdeb8243a279f389?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 26 |
 | **[HNTB](http://www.hntb.com/)** | **[Tolling Intern - Summer 2026](https://jobright.ai/jobs/info/69771e98fdeb8243a279f293?utm_campaign=1058&utm_source=git)** | Parsippany, NJ | On Site | Jan 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Industrial Transport - AITX](https://aitx.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/695832c99f1b381eb2710df3?utm_campaign=1058&utm_source=git)** | St Charles, MO | On Site | Jan 24 |
 | **[Hilton](https://www.hilton.com/en/)** | **[Revenue Management Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/695863fd9f1b381eb271405b?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Jan 24 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Geospatial Product Support Analyst Intern](https://jobright.ai/jobs/info/691f48063f782d2f1afb9ddc?utm_campaign=1058&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Jan 24 |
-| **[Hilton](https://www.hilton.com/en/)** | **[Food and Beverage Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/69585bbdaa05c26e7ab23c1a?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Jan 24 |
-| **[Culligan International](http://www.culligan.com/)** | **[Customer Relations Intern](https://jobright.ai/jobs/info/69583205aa05c26e7ab20ded?utm_campaign=1058&utm_source=git)** | Rosemont, IL | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
