@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Campbell County Health](https://www.cchwyo.org/)** | **[PHARMACY INTERN](https://jobright.ai/jobs/info/6977050352f3c27ec6431319?utm_campaign=1058&utm_source=git)** | Gillette, WY | On Site | Jan 25 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6976eb8988e2b47213babbb6?utm_campaign=1058&utm_source=git)** | Plainville, CT | On Site | Jan 25 |
 | **[Six Flags](https://www.sixflags.com)** | **[Rentals Leadership Internship](https://jobright.ai/jobs/info/6976eb41fdeb8243a279b387?utm_campaign=1058&utm_source=git)** | Waukegan, IL | On Site | Jan 25 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6976ea9488e2b47213babb49?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Jan 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gadsden Regional Medical Center](https://www.gadsdenregional.com/)** | **[Nurse Intern MICU](https://jobright.ai/jobs/info/69747452206da320f49eb349?utm_campaign=1058&utm_source=git)** | Gadsden, AL | On Site | Jan 23 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/697473cd206da320f49eb2d9?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Jan 23 |
 | ↳ | **[PHARMACY/304 PHARMACIST INTERN](https://jobright.ai/jobs/info/697473ab206da320f49eb2be?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Jan 23 |
-| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern I](https://jobright.ai/jobs/info/697467bebc8e722e7b197e04?utm_campaign=1058&utm_source=git)** | Booneville, AR | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
