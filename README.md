@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/6975a004206da320f49fabf2?utm_campaign=1058&utm_source=git)** | Denver, CO | Hybrid | Jan 26 |
+| **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Operations (Client Support Services)](https://jobright.ai/jobs/info/693fefa9aa598a08c3efa8c3?utm_campaign=1058&utm_source=git)** | Cary, NC | Hybrid | Jan 26 |
+| **[Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org)** | **[Undergrad Technology Intern](https://jobright.ai/jobs/info/6905c1b063502c0aded7dc5b?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Jan 26 |
+| **[Guthrie](http://www.guthrie.org)** | **[Pharmacy Intern - Pharmacy - Per Diem](https://jobright.ai/jobs/info/683e0b6ea41241a3a99d52f1?utm_campaign=1058&utm_source=git)** | Binghamton, NY | On Site | Jan 26 |
+| **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - IT Support](https://jobright.ai/jobs/info/68cd2c161ad6b16f028960fc?utm_campaign=1058&utm_source=git)** | Toledo, OH | On Site | Jan 26 |
+| ↳ | **[Summer '26 Intern - IT Support](https://jobright.ai/jobs/info/68c793b4c96a22563ecf28a7?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 26 |
 | **[MathWorks](http://www.mathworks.com)** | **[Technical Documentation Intern - Undergraduate](https://jobright.ai/jobs/info/695216b729655e4dd65aefe1?utm_campaign=1058&utm_source=git)** | Natick, MA | Hybrid | Jan 26 |
 | ↳ | **[Technical Documentation Intern - Graduate](https://jobright.ai/jobs/info/695216b429655e4dd65aefc3?utm_campaign=1058&utm_source=git)** | Natick, MA | Hybrid | Jan 26 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69772402fdeb8243a279f392?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 26 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Field Service Tech Intern](https://jobright.ai/jobs/info/6974d81937785856350ee19c?utm_campaign=1058&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 24 |
 | **[StandardAero](http://www.standardaero.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6975a0e537785856350f8ac5?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
 | **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern - Guest Services](https://jobright.ai/jobs/info/693ca04f49a7695fbd036e8d?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 24 |
-| **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship -nCino](https://jobright.ai/jobs/info/69583bcb9f1b381eb2712555?utm_campaign=1058&utm_source=git)** | Union, NJ | On Site | Jan 24 |
-| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Field Service Representative ( 4 to 12 months) - Delta, BC, Canada](https://jobright.ai/jobs/info/6965dc602cbf4e44756f9563?utm_campaign=1058&utm_source=git)** | Kamloops, British Columbia, Canada | On Site | Jan 24 |
-| ↳ | **[Internship: Field Service Representative ( 4 to 12 months) - Delta, BC, Canada](https://jobright.ai/jobs/info/695b271daa05c26e7ab485eb?utm_campaign=1058&utm_source=git)** | Delta, British Columbia, Canada | On Site | Jan 24 |
-| **[American Industrial Transport - AITX](https://aitx.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/695832c99f1b381eb2710df3?utm_campaign=1058&utm_source=git)** | St Charles, MO | On Site | Jan 24 |
-| **[Hilton](https://www.hilton.com/en/)** | **[Revenue Management Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/695863fd9f1b381eb271405b?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Jan 24 |
-| **[Trimble Inc.](https://www.trimble.com/)** | **[Geospatial Product Support Analyst Intern](https://jobright.ai/jobs/info/691f48063f782d2f1afb9ddc?utm_campaign=1058&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
