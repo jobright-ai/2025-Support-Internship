@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Technical Writer Intern, NYC](https://jobright.ai/jobs/info/690566c863502c0aded7ad77?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
+| **[Crane Currency](http://www.cranecurrency.com/)** | **[IT Internship](https://jobright.ai/jobs/info/693fd3b0aa598a08c3efa380?utm_campaign=1058&utm_source=git)** | Dalton, MA | On Site | Jan 26 |
+| **[Ontario Teachers'​ Pension Plan](https://www.otpp.com/en-ca/investments/our-investments/teachers-venture-growth/)** | **[Intern - End-User Technology (May 2026 - 12 months)](https://jobright.ai/jobs/info/695b9405aa05c26e7ab4f056?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 26 |
+| **[United Airlines](https://www.united.com)** | **[Intern - Flight Dispatch (Summer 2026)](https://jobright.ai/jobs/info/696710ed6f782b4e8d52c186?utm_campaign=1058&utm_source=git)** | Arlington Heights, IL | On Site | Jan 26 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Technical Support Representative Intern](https://jobright.ai/jobs/info/68e85ea5cc49a84b7e105872?utm_campaign=1058&utm_source=git)** | Westfield Center, OH | Hybrid | Jan 26 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/6975a004206da320f49fabf2?utm_campaign=1058&utm_source=git)** | Denver, CO | Hybrid | Jan 26 |
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Operations (Client Support Services)](https://jobright.ai/jobs/info/693fefa9aa598a08c3efa8c3?utm_campaign=1058&utm_source=git)** | Cary, NC | Hybrid | Jan 26 |
@@ -134,7 +138,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974de63206da320f49f0c48?utm_campaign=1058&utm_source=git)** | Mount Juliet, TN | On Site | Jan 24 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952d982f1f8465b79ea22d4?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | Jan 24 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974dd77206da320f49f0bad?utm_campaign=1058&utm_source=git)** | Tomball, TX | On Site | Jan 24 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974dbf6bc8e722e7b19dcc8?utm_campaign=1058&utm_source=git)** | Spring, TX | On Site | Jan 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974dbe537785856350ee3f9?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | On Site | Jan 24 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Customer Care Internship](https://jobright.ai/jobs/info/68e68748ae2b894b1d71afbf?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Jan 24 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974db08bc8e722e7b19dc28?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Jan 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Intern, IT Support](https://jobright.ai/jobs/info/690118814539ea1f2141c5ad?utm_campaign=1058&utm_source=git)** | Nashville, TN | Hybrid | Jan 24 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Service Desk (Milwaukee, WI Year-Round)](https://jobright.ai/jobs/info/6902b025ff462851fefe5bf8?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 24 |
 | **[Honeywell](http://www.honeywell.com)** | **[Intern Field Service Technician](https://jobright.ai/jobs/info/6974d7d137785856350ee170?utm_campaign=1058&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 24 |
-| ↳ | **[Field Service Tech Intern](https://jobright.ai/jobs/info/6974d81937785856350ee19c?utm_campaign=1058&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 24 |
-| **[StandardAero](http://www.standardaero.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6975a0e537785856350f8ac5?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
-| **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern - Guest Services](https://jobright.ai/jobs/info/693ca04f49a7695fbd036e8d?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
