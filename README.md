@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69772402fdeb8243a279f392?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 26 |
+| **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - Demo Operations](https://jobright.ai/jobs/info/697723dafdeb8243a279f389?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 26 |
 | **[HNTB](http://www.hntb.com/)** | **[Tolling Intern - Summer 2026](https://jobright.ai/jobs/info/69771e98fdeb8243a279f293?utm_campaign=1058&utm_source=git)** | Parsippany, NJ | On Site | Jan 25 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Information Technology Assistant (Level I) - ITS (Student Employee)](https://jobright.ai/jobs/info/69682650639b452fb57db694?utm_campaign=1058&utm_source=git)** | Conway, SC | On Site | Jan 25 |
 | **[The GSI Group](http://thegsigroup.com/)** | **[Intern, Technical Services](https://jobright.ai/jobs/info/69770e31fdeb8243a279ea06?utm_campaign=1058&utm_source=git)** | Assumption, IL | On Site | Jan 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Geospatial Product Support Analyst Intern](https://jobright.ai/jobs/info/691f48063f782d2f1afb9ddc?utm_campaign=1058&utm_source=git)** | Richmond Hill, Ontario, Canada | On Site | Jan 24 |
 | **[Hilton](https://www.hilton.com/en/)** | **[Food and Beverage Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/69585bbdaa05c26e7ab23c1a?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Jan 24 |
 | **[Culligan International](http://www.culligan.com/)** | **[Customer Relations Intern](https://jobright.ai/jobs/info/69583205aa05c26e7ab20ded?utm_campaign=1058&utm_source=git)** | Rosemont, IL | On Site | Jan 24 |
-| **[S&P Global](https://www.spglobal.com)** | **[Strategic Product Support Intern](https://jobright.ai/jobs/info/697488e5206da320f49ec108?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
-| **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Florence)](https://jobright.ai/jobs/info/695dd91889be3415c746348b?utm_campaign=1058&utm_source=git)** | Florence, KY | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
