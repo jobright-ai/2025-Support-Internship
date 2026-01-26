@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Optum](https://www.optum.com/)** | **[Pharmacist Intern Behavioral Health](https://jobright.ai/jobs/info/6977afe252f3c27ec643caa3?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Jan 26 |
+| ↳ | **[Pharmacist Intern Behavioral Health](https://jobright.ai/jobs/info/6977ad7b52f3c27ec643c6a2?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Jan 26 |
+| ↳ | **[Pharmacist Intern Behavioral Health](https://jobright.ai/jobs/info/6977ac5688e2b47213bb98cd?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Jan 26 |
 | **[Midwest Groundcovers](https://www.midwestgroundcovers.com/)** | **[Wholesale Yard Intern](https://jobright.ai/jobs/info/6977a7d652f3c27ec643bcbf?utm_campaign=1058&utm_source=git)** | St Charles, IL | On Site | Jan 26 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/697798c952f3c27ec643abef?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Jan 26 |
 | **[MyMichigan Health](https://www.mymichigan.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6972af259b83b424830eb796?utm_campaign=1058&utm_source=git)** | Alma, MI | On Site | Jan 26 |
 | **[Michelin](http://www.michelin.com/)** | **[2026 Summer IT Intern Greenville, SC](https://jobright.ai/jobs/info/6933b770a0dde7020e2f0ca2?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Jan 26 |
 | **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Wealth Technology Salesforce Intern](https://jobright.ai/jobs/info/697788f652f3c27ec6439672?utm_campaign=1058&utm_source=git)** | St. Louis, MO | Hybrid | Jan 26 |
+| **[Brunswick Corporation](http://www.brunswick.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/6977ad54fdeb8243a27a92a5?utm_campaign=1058&utm_source=git)** | Fond du Lac, WI | Hybrid | Jan 26 |
 | **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6944725ddd382f5f566a98cc?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 26 |
 | **[Crane Currency](http://www.cranecurrency.com/)** | **[IT Internship](https://jobright.ai/jobs/info/693fd3b0aa598a08c3efa380?utm_campaign=1058&utm_source=git)** | Dalton, MA | On Site | Jan 26 |
 | **[Ontario Teachers'​ Pension Plan](https://www.otpp.com/en-ca/investments/our-investments/teachers-venture-growth/)** | **[Intern - End-User Technology (May 2026 - 12 months)](https://jobright.ai/jobs/info/695b9405aa05c26e7ab4f056?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 26 |
@@ -116,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6975cd79bc8e722e7b1a9af9?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Jan 24 |
 | **[The Shella Foundation](http://www.shellafoundation.org)** | **[Data Entry Intern](https://jobright.ai/jobs/info/6975c859206da320f49fc84e?utm_campaign=1058&utm_source=git)** | Colorado, Colorado, United States | Remote | Jan 24 |
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Resp Care Intern , PRN - Lagrange, GA](https://jobright.ai/jobs/info/6975afc7206da320f49fbcea?utm_campaign=1058&utm_source=git)** | LaGrange, GA | On Site | Jan 24 |
-| **[Inova Health](http://www.inova.org/itmi/home)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6976d6ba3778585635105d78?utm_campaign=1058&utm_source=git)** | Fairfax, VA | On Site | Jan 24 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69755d9537785856350f348c?utm_campaign=1058&utm_source=git)** | Scotts Valley, CA | On Site | Jan 24 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[2026 Summer Internship - Information Technology - New York](https://jobright.ai/jobs/info/69752bf4206da320f49f3bbd?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Shoppers Drug Mart](http://www.shoppersdrugmart.ca)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6975285a206da320f49f3a99?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/6902a778ff462851fefe58c5?utm_campaign=1058&utm_source=git)** | Lehighton, PA | On Site | Jan 24 |
 | ↳ | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/6902611dff462851fefe26d5?utm_campaign=1058&utm_source=git)** | Gurnee, IL | On Site | Jan 24 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Branch Intern - Paid Internship (Pflugerville, TX)](https://jobright.ai/jobs/info/6902d990ff462851fefe6ebf?utm_campaign=1058&utm_source=git)** | Pflugerville, TX | On Site | Jan 24 |
-| **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/6902a778ff462851fefe58c6?utm_campaign=1058&utm_source=git)** | Easton, PA | On Site | Jan 24 |
-| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Spring 2026 Information Systems Intern/Co-Op](https://jobright.ai/jobs/info/68e6fbb41852e62f0082107c?utm_campaign=1058&utm_source=git)** | De Ridder, LA | On Site | Jan 24 |
-| **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Intern, Technology Service Desk (Houston)](https://jobright.ai/jobs/info/693908c8d52e071e1986483b?utm_campaign=1058&utm_source=git)** | Houston, TX | Remote | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
