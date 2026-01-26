@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Midwest Groundcovers](https://www.midwestgroundcovers.com/)** | **[Wholesale Yard Intern](https://jobright.ai/jobs/info/6977a7d652f3c27ec643bcbf?utm_campaign=1058&utm_source=git)** | St Charles, IL | On Site | Jan 26 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/697798c952f3c27ec643abef?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Jan 26 |
+| **[MyMichigan Health](https://www.mymichigan.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6972af259b83b424830eb796?utm_campaign=1058&utm_source=git)** | Alma, MI | On Site | Jan 26 |
+| **[Michelin](http://www.michelin.com/)** | **[2026 Summer IT Intern Greenville, SC](https://jobright.ai/jobs/info/6933b770a0dde7020e2f0ca2?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Jan 26 |
+| **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Wealth Technology Salesforce Intern](https://jobright.ai/jobs/info/697788f652f3c27ec6439672?utm_campaign=1058&utm_source=git)** | St. Louis, MO | Hybrid | Jan 26 |
 | **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6944725ddd382f5f566a98cc?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 26 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Technical Writer Intern, NYC](https://jobright.ai/jobs/info/690566c863502c0aded7ad77?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
 | **[Crane Currency](http://www.cranecurrency.com/)** | **[IT Internship](https://jobright.ai/jobs/info/693fd3b0aa598a08c3efa380?utm_campaign=1058&utm_source=git)** | Dalton, MA | On Site | Jan 26 |
 | **[Ontario Teachers'​ Pension Plan](https://www.otpp.com/en-ca/investments/our-investments/teachers-venture-growth/)** | **[Intern - End-User Technology (May 2026 - 12 months)](https://jobright.ai/jobs/info/695b9405aa05c26e7ab4f056?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 26 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Flight Dispatch (Summer 2026)](https://jobright.ai/jobs/info/696710ed6f782b4e8d52c186?utm_campaign=1058&utm_source=git)** | Arlington Heights, IL | On Site | Jan 26 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69778e7e52f3c27ec6439cf2?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 26 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Technical Support Representative Intern](https://jobright.ai/jobs/info/68e85ea5cc49a84b7e105872?utm_campaign=1058&utm_source=git)** | Westfield Center, OH | Hybrid | Jan 26 |
-| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/6975a004206da320f49fabf2?utm_campaign=1058&utm_source=git)** | Denver, CO | Hybrid | Jan 26 |
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Operations (Client Support Services)](https://jobright.ai/jobs/info/693fefa9aa598a08c3efa8c3?utm_campaign=1058&utm_source=git)** | Cary, NC | Hybrid | Jan 26 |
 | **[Trinity Health MI](https://bit.ly/3y0fhsr)** | **[Community Pharmacy Intern](https://jobright.ai/jobs/info/695a2ea49f1b381eb272c9f8?utm_campaign=1058&utm_source=git)** | Muskegon, MI | On Site | Jan 26 |
 | **[Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org)** | **[Undergrad Technology Intern](https://jobright.ai/jobs/info/6905c1b063502c0aded7dc5b?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Jan 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/6902a778ff462851fefe58c6?utm_campaign=1058&utm_source=git)** | Easton, PA | On Site | Jan 24 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Spring 2026 Information Systems Intern/Co-Op](https://jobright.ai/jobs/info/68e6fbb41852e62f0082107c?utm_campaign=1058&utm_source=git)** | De Ridder, LA | On Site | Jan 24 |
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Intern, Technology Service Desk (Houston)](https://jobright.ai/jobs/info/693908c8d52e071e1986483b?utm_campaign=1058&utm_source=git)** | Houston, TX | Remote | Jan 24 |
-| ↳ | **[Intern, Technology Service Desk (Encino, CA)](https://jobright.ai/jobs/info/6920077109cc522e877476a2?utm_campaign=1058&utm_source=git)** | LA Metro Area | Remote | Jan 24 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/6902bdb000a1816c41ea111c?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Jan 24 |
-| **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/6902584500a1816c41e9d256?utm_campaign=1058&utm_source=git)** | Pleasant Prairie, WI | On Site | Jan 24 |
-| **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68c7b5f15c25e576f7b29d6d?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
