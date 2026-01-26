@@ -84,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6975cd79bc8e722e7b1a9af9?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Jan 24 |
 | **[The Shella Foundation](http://www.shellafoundation.org)** | **[Data Entry Intern](https://jobright.ai/jobs/info/6975c859206da320f49fc84e?utm_campaign=1058&utm_source=git)** | Colorado, Colorado, United States | Remote | Jan 24 |
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Resp Care Intern , PRN - Lagrange, GA](https://jobright.ai/jobs/info/6975afc7206da320f49fbcea?utm_campaign=1058&utm_source=git)** | LaGrange, GA | On Site | Jan 24 |
-| **[Inova Fair Oaks Hospital](https://www.inova.org/locations/inova-fair-oaks-hospital)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6975610b37785856350f34cb?utm_campaign=1058&utm_source=git)** | Fairfax, VA | On Site | Jan 24 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69755d9537785856350f348c?utm_campaign=1058&utm_source=git)** | Scotts Valley, CA | On Site | Jan 24 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[2026 Summer Internship - Information Technology - New York](https://jobright.ai/jobs/info/69752bf4206da320f49f3bbd?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 24 |
 | **[Shoppers Drug Mart](http://www.shoppersdrugmart.ca)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6975285a206da320f49f3a99?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 24 |
@@ -113,6 +112,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974de63206da320f49f0c48?utm_campaign=1058&utm_source=git)** | Mount Juliet, TN | On Site | Jan 24 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952d982f1f8465b79ea22d4?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | Jan 24 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974dd77206da320f49f0bad?utm_campaign=1058&utm_source=git)** | Tomball, TX | On Site | Jan 24 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974dbf6bc8e722e7b19dcc8?utm_campaign=1058&utm_source=git)** | Spring, TX | On Site | Jan 24 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974dbe537785856350ee3f9?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | On Site | Jan 24 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Customer Care Internship](https://jobright.ai/jobs/info/68e68748ae2b894b1d71afbf?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Jan 24 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6974db08bc8e722e7b19dc28?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Jan 24 |
