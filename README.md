@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Four Hands](https://fourhands.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/6979137988e2b47213bd2e7a?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 27 |
+| **[One Source](https://www.onesource.net/)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/6979119339f7f96cc6d16dfd?utm_campaign=1058&utm_source=git)** | US-NC-Greenville | On Site | Jan 27 |
+| **[Phillips Edison & Company](http://phillipsedison.com)** | **[Customer Experience Intern (Fall 2026)](https://jobright.ai/jobs/info/69790e3852f3c27ec64555fe?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Jan 27 |
+| **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/68596a3df7e1d7c7ec214cfc?utm_campaign=1058&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Jan 27 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern  Summer 2026- Information Technology](https://jobright.ai/jobs/info/6979061288e2b47213bd17b4?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Jan 27 |
+| ↳ | **[Intern - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/6979055c52f3c27ec6454eb3?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Jan 27 |
+| **[Ponsse](http://www.ponsse.com/)** | **[Shipping & Receiving - Student Intern](https://jobright.ai/jobs/info/6978fbbe52f3c27ec6454723?utm_campaign=1058&utm_source=git)** | Rhinelander, WI | On Site | Jan 27 |
 | **[SSM Health](https://www.ssmhealth.com/)** | **[Radiology Student Intern](https://jobright.ai/jobs/info/6978f5df39f7f96cc6d1498d?utm_campaign=1058&utm_source=git)** | Greater St. Louis | On Site | Jan 27 |
 | **[Phillips Edison & Company](http://phillipsedison.com)** | **[Information Technology Intern (Fall 2026 - Operations & Infrastructure)](https://jobright.ai/jobs/info/6978f4f252f3c27ec645390b?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Jan 27 |
 | **[RTX](http://www.raytheon.com)** | **[Customer / Product Support Management Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/6978f3ab88e2b47213bd01ee?utm_campaign=1058&utm_source=git)** | US-IA-CEDAR RAPIDS-124 ~ 400 Collins Rd NE ~ BLDG 124 | On Site | Jan 27 |
@@ -128,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Internship / Montage Palmetto Bluff](https://jobright.ai/jobs/info/695c39d1aa05c26e7ab58a1c?utm_campaign=1058&utm_source=git)** | Bluffton, SC | On Site | Jan 26 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[IT Intern](https://jobright.ai/jobs/info/695c72bcf1f8465b79f29632?utm_campaign=1058&utm_source=git)** | Denver Metropolitan Area | On Site | Jan 26 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Gastro - APRN/PA - Instrc. I - Internal Medicine](https://jobright.ai/jobs/info/697865f239f7f96cc6d0cfb8?utm_campaign=1058&utm_source=git)** | Florida, United States | On Site | Jan 26 |
-| **[Wellstar Health System](https://www.wellstar.org)** | **[Pharmacy Technician Intern - Pharmacy](https://jobright.ai/jobs/info/69785ea488e2b47213bc8569?utm_campaign=1058&utm_source=git)** | Austell, GA | On Site | Jan 26 |
 | **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern-1](https://jobright.ai/jobs/info/69787a8b39f7f96cc6d0dfe7?utm_campaign=1058&utm_source=git)** | 405 W. Country Club Road, Roswell, NM, 88201, US | On Site | Jan 26 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #495](https://jobright.ai/jobs/info/697880f088e2b47213bcac9d?utm_campaign=1058&utm_source=git)** | West Jordan, UT | On Site | Jan 26 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Technology Services](https://jobright.ai/jobs/info/69731c32206da320f49d21ea?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 26 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Optum](https://www.optum.com/)** | **[Pharmacist Intern Behavioral Health](https://jobright.ai/jobs/info/69781d65fdeb8243a27b1130?utm_campaign=1058&utm_source=git)** | Logansport, IN | On Site | Jan 26 |
 | **[Garda Capital Partners](https://www.gardacp.com/)** | **[Infrastructure Support Intern](https://jobright.ai/jobs/info/69781cb188e2b47213bc1c2d?utm_campaign=1058&utm_source=git)** | Wayzata, Minnesota, United States | On Site | Jan 26 |
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[Customer Care Agent Intern- Summer 2026 Internship](https://jobright.ai/jobs/info/69781c7188e2b47213bc1be1?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jan 26 |
-| **[SAP](https://www.sap.com)** | **[SAP NS2 Customer Services & Delivery Intern](https://jobright.ai/jobs/info/6978386339f7f96cc6d0830f?utm_campaign=1058&utm_source=git)** | Herndon, VA, US, 20171 | Hybrid | Jan 26 |
-| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Event Intern](https://jobright.ai/jobs/info/6978190688e2b47213bc180d?utm_campaign=1058&utm_source=git)** | Westfield Center, OH | On Site | Jan 26 |
-| **[UnitedHealthcare](http://www.uhc.com)** | **[Pharmacist Intern Managed Care](https://jobright.ai/jobs/info/697818ec88e2b47213bc17f0?utm_campaign=1058&utm_source=git)** | Downers Grove, IL | Hybrid | Jan 26 |
-| **[Delaware North](http://www.delawarenorth.com/)** | **[IT Internship, Great American Ball Park](https://jobright.ai/jobs/info/6978184788e2b47213bc1743?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Jan 26 |
-| **[Players Pins](playerspins.com)** | **[Data Entry Coordinator](https://jobright.ai/jobs/info/69783b1f39f7f96cc6d0870d?utm_campaign=1058&utm_source=git)** | California, United States | Remote | Jan 26 |
-| **[UnitedHealthcare](http://www.uhc.com)** | **[Pharmacist Intern Managed Care - Remote](https://jobright.ai/jobs/info/6978154d52f3c27ec644430b?utm_campaign=1058&utm_source=git)** | Eden Prairie, MN | Remote | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
