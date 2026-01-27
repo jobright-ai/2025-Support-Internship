@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/697876e139f7f96cc6d0dde1?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 27 |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Intern-University of Memphis Call Center (Spring 2026)](https://jobright.ai/jobs/info/6978760c39f7f96cc6d0dd8f?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Jan 27 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II- CVSD](https://jobright.ai/jobs/info/695ca1925e4962051b59d540?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Jan 27 |
 | **[Cochener Garvey Capital Partners, Inc.](https://www.cgcpi.com/)** | **[IT Apprentice](https://jobright.ai/jobs/info/697296bf4ccbf64f8df290f8?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Jan 27 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: IT Implementation Coordinator](https://jobright.ai/jobs/info/695c55d522c9dc0d3d5450e7?utm_campaign=1058&utm_source=git)** | Columbia, MO | On Site | Jan 26 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/6968afd1f25a3800669738ae?utm_campaign=1058&utm_source=git)** | Raleigh, NC | Hybrid | Jan 26 |
@@ -64,9 +67,11 @@ For a complete list, click the following sortable link below:
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[IT Intern](https://jobright.ai/jobs/info/695c72bcf1f8465b79f29632?utm_campaign=1058&utm_source=git)** | Denver Metropolitan Area | On Site | Jan 26 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Gastro - APRN/PA - Instrc. I - Internal Medicine](https://jobright.ai/jobs/info/697865f239f7f96cc6d0cfb8?utm_campaign=1058&utm_source=git)** | Florida, United States | On Site | Jan 26 |
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Pharmacy Technician Intern - Pharmacy](https://jobright.ai/jobs/info/69785ea488e2b47213bc8569?utm_campaign=1058&utm_source=git)** | Austell, GA | On Site | Jan 26 |
+| **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern-1](https://jobright.ai/jobs/info/69787a8b39f7f96cc6d0dfe7?utm_campaign=1058&utm_source=git)** | 405 W. Country Club Road, Roswell, NM, 88201, US | On Site | Jan 26 |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #495](https://jobright.ai/jobs/info/697880f088e2b47213bcac9d?utm_campaign=1058&utm_source=git)** | West Jordan, UT | On Site | Jan 26 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Technology Services](https://jobright.ai/jobs/info/69731c32206da320f49d21ea?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 26 |
 | **[State of Missouri](http://mo.gov)** | **[Summer Intern - Springfield General Services & Facilities](https://jobright.ai/jobs/info/6978507688e2b47213bc78c5?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jan 26 |
-| **[keycentrix™](https://keycentrix.com/)** | **[IT Apprentice](https://jobright.ai/jobs/info/697870b688e2b47213bc969e?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Jan 26 |
+| **[keycentrix™](https://keycentrix.com/)** | **[IT Apprentice](https://jobright.ai/jobs/info/69787a0088e2b47213bc9c68?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Jan 26 |
 | **[Mountain America Credit Union](https://www.macu.com/)** | **[Member Service Intern](https://jobright.ai/jobs/info/695bf181f1f8465b79f1f922?utm_campaign=1058&utm_source=git)** | Rexburg, ID | On Site | Jan 26 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[S&I Support Intern](https://jobright.ai/jobs/info/6978455039f7f96cc6d09d00?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 26 |
 | **[WVU Medicine Thomas Hospitals](https://thomashealth.org)** | **[Intern/Extern - Critical Care](https://jobright.ai/jobs/info/697452babc8e722e7b196137?utm_campaign=1058&utm_source=git)** | South Charleston, WV | On Site | Jan 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mercury Marine](http://mercurymarine.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/6977cac4fdeb8243a27ab76d?utm_campaign=1058&utm_source=git)** | Fond du Lac, WI | Hybrid | Jan 26 |
 | **[Option Care Health](https://optioncarehealth.com)** | **[Intern, Pharmacy Technician - Per Diem](https://jobright.ai/jobs/info/6977e8e788e2b47213bbe7ed?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 26 |
 | **[Rush Oak Park Hospital](http://www.roph.org)** | **[Pharmacy Intern-23568](https://jobright.ai/jobs/info/6977e64752f3c27ec6440fe6?utm_campaign=1058&utm_source=git)** | Oak Park, IL | On Site | Jan 26 |
-| **[QTC Management, Inc.](http://www.qtcm.com)** | **[IT Intern](https://jobright.ai/jobs/info/6977c538fdeb8243a27ab16b?utm_campaign=1058&utm_source=git)** | Orlando, Florida, United States | Remote | Jan 26 |
-| **[Swift Transportation](http://www.swifttrans.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6977e84088e2b47213bbe6ca?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Jan 26 |
-| **[iManage](https://imanage.com)** | **[Customer Experience Operations Intern](https://jobright.ai/jobs/info/6977c38c88e2b47213bbb8fc?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
-| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Internal Only- Clinic Admissions Associate](https://jobright.ai/jobs/info/6977e19dfdeb8243a27ad35a?utm_campaign=1058&utm_source=git)** | Texas City, TX | On Site | Jan 26 |
-| **[Sika](http://www.sika.com/)** | **[INTERNSHIP: Customer Service Representative (4 months)](https://jobright.ai/jobs/info/6977c33588e2b47213bbb8a8?utm_campaign=1058&utm_source=git)** | Brantford, Ontario, Canada | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
