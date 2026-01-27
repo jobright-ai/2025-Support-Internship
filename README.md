@@ -57,11 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: IT Implementation Coordinator](https://jobright.ai/jobs/info/695c55d522c9dc0d3d5450e7?utm_campaign=1058&utm_source=git)** | Columbia, MO | On Site | Jan 26 |
+| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/6968afd1f25a3800669738ae?utm_campaign=1058&utm_source=git)** | Raleigh, NC | Hybrid | Jan 26 |
+| **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Internship / Montage Palmetto Bluff](https://jobright.ai/jobs/info/695c39d1aa05c26e7ab58a1c?utm_campaign=1058&utm_source=git)** | Bluffton, SC | On Site | Jan 26 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[IT Intern](https://jobright.ai/jobs/info/695c72bcf1f8465b79f29632?utm_campaign=1058&utm_source=git)** | Denver Metropolitan Area | On Site | Jan 26 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Gastro - APRN/PA - Instrc. I - Internal Medicine](https://jobright.ai/jobs/info/697865f239f7f96cc6d0cfb8?utm_campaign=1058&utm_source=git)** | Florida, United States | On Site | Jan 26 |
+| **[Wellstar Health System](https://www.wellstar.org)** | **[Pharmacy Technician Intern - Pharmacy](https://jobright.ai/jobs/info/69785ea488e2b47213bc8569?utm_campaign=1058&utm_source=git)** | Austell, GA | On Site | Jan 26 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Technology Services](https://jobright.ai/jobs/info/69731c32206da320f49d21ea?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 26 |
 | **[State of Missouri](http://mo.gov)** | **[Summer Intern - Springfield General Services & Facilities](https://jobright.ai/jobs/info/6978507688e2b47213bc78c5?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jan 26 |
 | **[Mountain America Credit Union](https://www.macu.com/)** | **[Member Service Intern](https://jobright.ai/jobs/info/695bf181f1f8465b79f1f922?utm_campaign=1058&utm_source=git)** | Rexburg, ID | On Site | Jan 26 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[S&I Support Intern](https://jobright.ai/jobs/info/6978455039f7f96cc6d09d00?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 26 |
 | **[WVU Medicine Thomas Hospitals](https://thomashealth.org)** | **[Intern/Extern - Critical Care](https://jobright.ai/jobs/info/697452babc8e722e7b196137?utm_campaign=1058&utm_source=git)** | South Charleston, WV | On Site | Jan 26 |
+| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6948ed3863141d1884589708?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | Jan 26 |
 | **[TriStar Southern Hills Medical Center](https://tristarsouthernhills.com/)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/69783a1888e2b47213bc427e?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Jan 26 |
 | **[IBM](http://www.ibm.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/6978360488e2b47213bc3c8c?utm_campaign=1058&utm_source=git)** | San Jose, CA | Hybrid | Jan 26 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6978539e52f3c27ec644aae7?utm_campaign=1058&utm_source=git)** | Ventura, CA | On Site | Jan 26 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sika](http://www.sika.com/)** | **[INTERNSHIP: Customer Service Representative (4 months)](https://jobright.ai/jobs/info/6977c33588e2b47213bbb8a8?utm_campaign=1058&utm_source=git)** | Brantford, Ontario, Canada | On Site | Jan 26 |
 | **[Northside Hospital](http://www.northside.com)** | **[Anesthesia Tech Intern, Surgical Services](https://jobright.ai/jobs/info/6977c238fdeb8243a27aae5f?utm_campaign=1058&utm_source=git)** | Atlanta, GA, US | On Site | Jan 26 |
 | **[First Supply LLC](https://firstsupply.com)** | **[Intern, IT Help Desk](https://jobright.ai/jobs/info/6977c21f52f3c27ec643e3e9?utm_campaign=1058&utm_source=git)** | West Salem, WI | On Site | Jan 26 |
-| **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Intern - Supply Chain Technical Support](https://jobright.ai/jobs/info/6977c21488e2b47213bbb795?utm_campaign=1058&utm_source=git)** | Lakeland Florida | On Site | Jan 26 |
-| **[EUA](http://www.eua.com/)** | **[Data + Technology Student Intern](https://jobright.ai/jobs/info/6977c18dfdeb8243a27aad97?utm_campaign=1058&utm_source=git)** | Milwaukee, WI 53202, USA | Hybrid | Jan 26 |
-| **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Intern - Retail  Pharmacy Support Services](https://jobright.ai/jobs/info/6977c17e52f3c27ec643e352?utm_campaign=1058&utm_source=git)** | 3300 Publix Corporate Parkway | On Site | Jan 26 |
-| ↳ | **[Intern - Retail  Pharmacy Support Services](https://jobright.ai/jobs/info/6977c152fdeb8243a27aad73?utm_campaign=1058&utm_source=git)** | Lakeland, FL | On Site | Jan 26 |
-| **[Schindler Group](http://www.schindler.com/)** | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/696ec886350cf4380315b071?utm_campaign=1058&utm_source=git)** | Morristown, NJ | On Site | Jan 26 |
-| **[CERATIZIT](http://www.ceratizit.com/)** | **[Medical Co-op/Intern](https://jobright.ai/jobs/info/6977e51588e2b47213bbe15c?utm_campaign=1058&utm_source=git)** | Towanda, PA, USA | On Site | Jan 26 |
-| **[Gadsden Regional Medical Center](https://www.gadsdenregional.com/)** | **[Nurse Intern MICU](https://jobright.ai/jobs/info/69747452206da320f49eb349?utm_campaign=1058&utm_source=git)** | Gadsden, AL | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
