@@ -57,12 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Corsair](http://www.corsair.com)** | **[Customer Care IT Intern](https://jobright.ai/jobs/info/69406de7aa598a08c3f00c91?utm_campaign=1058&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
+| **[MyMichigan Health](https://www.mymichigan.org)** | **[Pharmacist Intern - Saginaw](https://jobright.ai/jobs/info/66d8c7e37c3120158f81b4c4?utm_campaign=1058&utm_source=git)** | Saginaw, MI | On Site | Jan 27 |
+| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/69407a6150bbaf7650527a7a?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 27 |
+| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6940755649a7695fbd05f55c?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Jan 27 |
+| ↳ | **[Case Management Intern](https://jobright.ai/jobs/info/6940779349a7695fbd05f6a3?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | Jan 27 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Information Technology)](https://jobright.ai/jobs/info/694088b5aa598a08c3f0356e?utm_campaign=1058&utm_source=git)** | St. Petersburg, FL | On Site | Jan 27 |
 | **[CalPortland](https://www.calportland.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/6940d22749a7695fbd065992?utm_campaign=1058&utm_source=git)** | Glendora, CA | On Site | Jan 27 |
 | **[Brother USA](https://brother-usa.com)** | **[IT Service Management Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf399aa05c26e7ab54944?utm_campaign=1058&utm_source=git)** | Memphis, TN | Hybrid | Jan 27 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/6941ef0150bbaf765053bd7a?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 27 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6922ebeec0cefa13343d9df2?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Jan 27 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Ultrasound Intern, Mercy South](https://jobright.ai/jobs/info/695c671a5e4962051b5982e2?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Jan 27 |
+| **[Guthrie](http://www.guthrie.org)** | **[Pharmacy Intern - Pharmacy - Per Diem](https://jobright.ai/jobs/info/683e1a591ef6a607193d3ec8?utm_campaign=1058&utm_source=git)** | Binghamton, NY | On Site | Jan 27 |
+| ↳ | **[Pharmacy Intern - Pharmacy - Full Time](https://jobright.ai/jobs/info/6894bdb973b3a600fe881c25?utm_campaign=1058&utm_source=git)** | Corning, NY | On Site | Jan 27 |
 | **[Endeavor Air](http://www.endeavorair.com/)** | **[Ground Operations/ACS (Airport Customer Service) Intern](https://jobright.ai/jobs/info/6978925352f3c27ec644ea4e?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Jan 27 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/695c65a3aa05c26e7ab5cef3?utm_campaign=1058&utm_source=git)** | Prescott, AZ | On Site | Jan 27 |
 | **[Northside Hospital](http://www.northside.com)** | **[Anesthesia Tech Intern, Surgical Services](https://jobright.ai/jobs/info/697889b539f7f96cc6d0fb8d?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jan 27 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[S&I Support Intern](https://jobright.ai/jobs/info/6977d93188e2b47213bbd2a0?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | Remote | Jan 26 |
 | **[Aviva Canada](https://www.avivacanada.com/)** | **[Customer Service Internship](https://jobright.ai/jobs/info/6977f80888e2b47213bc05d1?utm_campaign=1058&utm_source=git)** | Markham | Hybrid | Jan 26 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Business Support Intern - Winter 2026](https://jobright.ai/jobs/info/6977d69788e2b47213bbcf3b?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Jan 26 |
-| **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[Intern: End User Support Analyst](https://jobright.ai/jobs/info/6977f803fdeb8243a27afc74?utm_campaign=1058&utm_source=git)** | Hickory, NC | Hybrid | Jan 26 |
-| **[LWCC](https://www.lwcc.com/)** | **[Service Desk Intern](https://jobright.ai/jobs/info/6939e4b248a8ce22990ddde2?utm_campaign=1058&utm_source=git)** | Baton Rouge Metro | On Site | Jan 26 |
-| **[EUA](http://www.eua.com/)** | **[Data + Technology Student Intern](https://jobright.ai/jobs/info/6977f285fdeb8243a27af101?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Jan 26 |
-| **[The University of Kansas Health System](https://www.kansashealthsystem.com)** | **[Pharmacy Intern - All Programs (Current P1, P2)](https://jobright.ai/jobs/info/6977f9d3fdeb8243a27afdd4?utm_campaign=1058&utm_source=git)** | Kansas City, KS | On Site | Jan 26 |
-| **[Option Care Home Health LLC](https://optioncarehealth.com/)** | **[Intern, Pharmacy Technician - Per Diem](https://jobright.ai/jobs/info/6977d23388e2b47213bbc89a?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 26 |
-| **[Centric Consulting](http://centricconsulting.com/)** | **[Salesforce Intern](https://jobright.ai/jobs/info/6977f22988e2b47213bbfa65?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 26 |
-| **[Viega LLC](https://viega.us)** | **[VMI Intern](https://jobright.ai/jobs/info/6977eb7452f3c27ec64418e7?utm_campaign=1058&utm_source=git)** | McPherson, KS | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
