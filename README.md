@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brookfield](https://bam.brookfield.com)** | **[Intern, Technology Services](https://jobright.ai/jobs/info/69731c32206da320f49d21ea?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 26 |
+| **[State of Missouri](http://mo.gov)** | **[Summer Intern - Springfield General Services & Facilities](https://jobright.ai/jobs/info/6978507688e2b47213bc78c5?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jan 26 |
+| **[Mountain America Credit Union](https://www.macu.com/)** | **[Member Service Intern](https://jobright.ai/jobs/info/695bf181f1f8465b79f1f922?utm_campaign=1058&utm_source=git)** | Rexburg, ID | On Site | Jan 26 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[S&I Support Intern](https://jobright.ai/jobs/info/6978455039f7f96cc6d09d00?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 26 |
+| **[WVU Medicine Thomas Hospitals](https://thomashealth.org)** | **[Intern/Extern - Critical Care](https://jobright.ai/jobs/info/697452babc8e722e7b196137?utm_campaign=1058&utm_source=git)** | South Charleston, WV | On Site | Jan 26 |
 | **[TriStar Southern Hills Medical Center](https://tristarsouthernhills.com/)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/69783a1888e2b47213bc427e?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Jan 26 |
 | **[IBM](http://www.ibm.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/6978360488e2b47213bc3c8c?utm_campaign=1058&utm_source=git)** | San Jose, CA | Hybrid | Jan 26 |
-| ↳ | **[Technical Writer Intern](https://jobright.ai/jobs/info/697834a739f7f96cc6d07dfa?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | Jan 26 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6978539e52f3c27ec644aae7?utm_campaign=1058&utm_source=git)** | Ventura, CA | On Site | Jan 26 |
+| **[IBM](http://www.ibm.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/697834a739f7f96cc6d07dfa?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | Jan 26 |
+| **[Ever.Ag](https://www.ever.ag)** | **[Implementation & Delivery Intern](https://jobright.ai/jobs/info/69092f064a1b456627afdae3?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 26 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Customer Services & Delivery Intern](https://jobright.ai/jobs/info/6978311a88e2b47213bc382d?utm_campaign=1058&utm_source=git)** | Herndon, VA | Hybrid | Jan 26 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Nuclear Pharmacy Summer Intern](https://jobright.ai/jobs/info/6978308288e2b47213bc3782?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Jan 26 |
 | **[Videotron](http://www.videotron.com)** | **[Stagiaire - Soutien informatique](https://jobright.ai/jobs/info/69782f3439f7f96cc6d076f3?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | Remote | Jan 26 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schindler Group](http://www.schindler.com/)** | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/696ec886350cf4380315b071?utm_campaign=1058&utm_source=git)** | Morristown, NJ | On Site | Jan 26 |
 | **[CERATIZIT](http://www.ceratizit.com/)** | **[Medical Co-op/Intern](https://jobright.ai/jobs/info/6977e51588e2b47213bbe15c?utm_campaign=1058&utm_source=git)** | Towanda, PA, USA | On Site | Jan 26 |
 | **[Gadsden Regional Medical Center](https://www.gadsdenregional.com/)** | **[Nurse Intern MICU](https://jobright.ai/jobs/info/69747452206da320f49eb349?utm_campaign=1058&utm_source=git)** | Gadsden, AL | On Site | Jan 26 |
-| **[UC San Diego Health](https://health.ucsd.edu/)** | **[Inpatient Pharmacy Intern - La Jolla - 138247](https://jobright.ai/jobs/info/6977da8188e2b47213bbd489?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Jan 26 |
-| **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Wealth Technology Salesforce Intern](https://jobright.ai/jobs/info/6977b9a788e2b47213bbafb9?utm_campaign=1058&utm_source=git)** | St Louis, MO | Hybrid | Jan 26 |
-| **[Wolf Consulting LLC](https://www.wolfconsulting.com/)** | **[IT Service Intern](https://jobright.ai/jobs/info/6977e72ffdeb8243a27adc5a?utm_campaign=1058&utm_source=git)** | Monroeville, Pennsylvania, United States | On Site | Jan 26 |
-| **[NEMERA](http://www.nemera.net/)** | **[IT Intern](https://jobright.ai/jobs/info/6977b7dbfdeb8243a27aa38e?utm_campaign=1058&utm_source=git)** | Buffalo Grove, IL | On Site | Jan 26 |
-| **[USA Rare Earth, Inc. (Nasdaq: USAR)](https://usare.com)** | **[IT Intern](https://jobright.ai/jobs/info/6977b72452f3c27ec643d645?utm_campaign=1058&utm_source=git)** | Stillwater, OK | On Site | Jan 26 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Technical Writing and Research Intern](https://jobright.ai/jobs/info/6977e6dbfdeb8243a27adbff?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
-| **[Tech-Keys](https://tech-keys.com/)** | **[IT Administrative Support Intern](https://jobright.ai/jobs/info/6977b516fdeb8243a27a9ed7?utm_campaign=1058&utm_source=git)** | Howell, NJ | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
