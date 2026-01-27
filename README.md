@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cochener Garvey Capital Partners, Inc.](https://www.cgcpi.com/)** | **[IT Apprentice](https://jobright.ai/jobs/info/697296bf4ccbf64f8df290f8?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Jan 27 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: IT Implementation Coordinator](https://jobright.ai/jobs/info/695c55d522c9dc0d3d5450e7?utm_campaign=1058&utm_source=git)** | Columbia, MO | On Site | Jan 26 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/6968afd1f25a3800669738ae?utm_campaign=1058&utm_source=git)** | Raleigh, NC | Hybrid | Jan 26 |
 | **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Internship / Montage Palmetto Bluff](https://jobright.ai/jobs/info/695c39d1aa05c26e7ab58a1c?utm_campaign=1058&utm_source=git)** | Bluffton, SC | On Site | Jan 26 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Pharmacy Technician Intern - Pharmacy](https://jobright.ai/jobs/info/69785ea488e2b47213bc8569?utm_campaign=1058&utm_source=git)** | Austell, GA | On Site | Jan 26 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Technology Services](https://jobright.ai/jobs/info/69731c32206da320f49d21ea?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 26 |
 | **[State of Missouri](http://mo.gov)** | **[Summer Intern - Springfield General Services & Facilities](https://jobright.ai/jobs/info/6978507688e2b47213bc78c5?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jan 26 |
+| **[keycentrix™](https://keycentrix.com/)** | **[IT Apprentice](https://jobright.ai/jobs/info/697870b688e2b47213bc969e?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Jan 26 |
 | **[Mountain America Credit Union](https://www.macu.com/)** | **[Member Service Intern](https://jobright.ai/jobs/info/695bf181f1f8465b79f1f922?utm_campaign=1058&utm_source=git)** | Rexburg, ID | On Site | Jan 26 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[S&I Support Intern](https://jobright.ai/jobs/info/6978455039f7f96cc6d09d00?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 26 |
 | **[WVU Medicine Thomas Hospitals](https://thomashealth.org)** | **[Intern/Extern - Critical Care](https://jobright.ai/jobs/info/697452babc8e722e7b196137?utm_campaign=1058&utm_source=git)** | South Charleston, WV | On Site | Jan 26 |
@@ -102,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Event Intern](https://jobright.ai/jobs/info/6978032352f3c27ec6443ae4?utm_campaign=1058&utm_source=git)** | One Park Circle, Westfield Center, OH, 44251-5001, US | On Site | Jan 26 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Elizabethtown)](https://jobright.ai/jobs/info/69782056fdeb8243a27b1465?utm_campaign=1058&utm_source=git)** | Elizabethtown, KY, US | On Site | Jan 26 |
 | **[Rubrik](http://rubrik.com)** | **[Customer Support Internship, Summer 2026](https://jobright.ai/jobs/info/6978253588e2b47213bc25c8?utm_campaign=1058&utm_source=git)** | Morrisville, NC | On Site | Jan 26 |
-| **[Northside Hospital](http://www.northside.com)** | **[Patient Care Tech Intern, Trauma/Surgical/Neuro ICU](https://jobright.ai/jobs/info/69781d91fdeb8243a27b115d?utm_campaign=1058&utm_source=git)** | US-GA-Lawrenceville | On Site | Jan 26 |
-| ↳ | **[Patient Care Tech Intern, Trauma/Surgical/Neuro ICU](https://jobright.ai/jobs/info/6978215988e2b47213bc216d?utm_campaign=1058&utm_source=git)** | Lawrenceville, GA, US | On Site | Jan 26 |
+| **[Northside Hospital](http://www.northside.com)** | **[Patient Care Tech Intern, Trauma/Surgical/Neuro ICU](https://jobright.ai/jobs/info/6978215988e2b47213bc216d?utm_campaign=1058&utm_source=git)** | Lawrenceville, GA, US | On Site | Jan 26 |
+| ↳ | **[Patient Care Tech Intern, Trauma/Surgical/Neuro ICU](https://jobright.ai/jobs/info/69781d91fdeb8243a27b115d?utm_campaign=1058&utm_source=git)** | US-GA-Lawrenceville | On Site | Jan 26 |
 | **[Cape Cod Healthcare](http://www.capecodhealth.org/)** | **[* Diagnostic Technician (Phlebotomy & EKG) Apprenticeship](https://jobright.ai/jobs/info/6977ffcb52f3c27ec6443896?utm_campaign=1058&utm_source=git)** | Hyannis, MA | On Site | Jan 26 |
 | **[Aurubis](https://www.aurubis.com/en)** | **[IT Intern](https://jobright.ai/jobs/info/6977ffa288e2b47213bc0b75?utm_campaign=1058&utm_source=git)** | Augusta, GA | On Site | Jan 26 |
 | **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69604689a112b402660f13dc?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Jan 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[iManage](https://imanage.com)** | **[Customer Experience Operations Intern](https://jobright.ai/jobs/info/6977c38c88e2b47213bbb8fc?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[Internal Only- Clinic Admissions Associate](https://jobright.ai/jobs/info/6977e19dfdeb8243a27ad35a?utm_campaign=1058&utm_source=git)** | Texas City, TX | On Site | Jan 26 |
 | **[Sika](http://www.sika.com/)** | **[INTERNSHIP: Customer Service Representative (4 months)](https://jobright.ai/jobs/info/6977c33588e2b47213bbb8a8?utm_campaign=1058&utm_source=git)** | Brantford, Ontario, Canada | On Site | Jan 26 |
-| **[Northside Hospital](http://www.northside.com)** | **[Anesthesia Tech Intern, Surgical Services](https://jobright.ai/jobs/info/6977c238fdeb8243a27aae5f?utm_campaign=1058&utm_source=git)** | Atlanta, GA, US | On Site | Jan 26 |
-| **[First Supply LLC](https://firstsupply.com)** | **[Intern, IT Help Desk](https://jobright.ai/jobs/info/6977c21f52f3c27ec643e3e9?utm_campaign=1058&utm_source=git)** | West Salem, WI | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
