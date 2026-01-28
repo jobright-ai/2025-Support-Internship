@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Teamworks](http://www.teamworks.com)** | **[Customer Education Intern](https://jobright.ai/jobs/info/694162c814ee092a69ff83c2?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 28 |
+| **[Everus](http://www.mducsg.com/)** | **[IT Support Services Intern - Summer 2026](https://jobright.ai/jobs/info/6941c07550bbaf7650538fde?utm_campaign=1058&utm_source=git)** | Bismarck, ND | On Site | Jan 28 |
+| **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Technical Support Student](https://jobright.ai/jobs/info/6979f64da8de441ca7351c61?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 28 |
+| **[Anton Paar USA](http://www.anton-paar.com/)** | **[Internship](https://jobright.ai/jobs/info/69423db150bbaf7650542127?utm_campaign=1058&utm_source=git)** | Greater Houston | On Site | Jan 28 |
+| **[Nebraska Medicine](https://www.nebraskamed.com)** | **[Heart Monitoring Unit Internship](https://jobright.ai/jobs/info/6967c70ef25a3800669615f7?utm_campaign=1058&utm_source=git)** | Omaha Metropolitan Area | On Site | Jan 28 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Pharmacy intern](https://jobright.ai/jobs/info/692598bcd47de4798ecd08e9?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 28 |
+| **[Nokia](http://www.nokia.com)** | **[Software Support Co-op/Intern](https://jobright.ai/jobs/info/69424bda14ee092a69009635?utm_campaign=1058&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Jan 28 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/694a059763141d1884599a0d?utm_campaign=1058&utm_source=git)** | Bisbee, AZ | Hybrid | Jan 28 |
 | **[Liberty Hospital](https://www.libertyhospital.org/)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/6979e474a5b9804527dfae7f?utm_campaign=1058&utm_source=git)** | Liberty, MO | On Site | Jan 28 |
 | **[Trinity Health MI](https://bit.ly/3y0fhsr)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/695e274026f1314697ad031e?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 28 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/6979c7c60791bc1d72308bdf?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 28 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Four Hands](https://fourhands.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/6979137988e2b47213bd2e7a?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 27 |
 | **[One Source](https://www.onesource.net/)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/6979119339f7f96cc6d16dfd?utm_campaign=1058&utm_source=git)** | US-NC-Greenville | On Site | Jan 27 |
 | **[Lendistry](http://www.Lendistry.com)** | **[Helpdesk Intern](https://jobright.ai/jobs/info/697972ad0791bc1d72301b0a?utm_campaign=1058&utm_source=git)** | LA Metro Area | On Site | Jan 27 |
-| **[Phillips Edison & Company](http://phillipsedison.com)** | **[Customer Experience Intern (Fall 2026)](https://jobright.ai/jobs/info/69790e3852f3c27ec64555fe?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Jan 27 |
-| **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/68596a3df7e1d7c7ec214cfc?utm_campaign=1058&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Jan 27 |
-| **[San Juan College](http://www.sanjuancollege.edu/)** | **[Data Entry Intern](https://jobright.ai/jobs/info/6979382588e2b47213bd5deb?utm_campaign=1058&utm_source=git)** | Central New Mexico, Albuquerque, NM | On Site | Jan 27 |
-| **[Grote Industries](http://grote.com)** | **[Intern-IS](https://jobright.ai/jobs/info/6979358e39f7f96cc6d19dc0?utm_campaign=1058&utm_source=git)** | Madison, IN, USA | On Site | Jan 27 |
-| **[Eastern New Mexico Medical Center](https://www.enmmc.com/)** | **[Nurse Intern-1](https://jobright.ai/jobs/info/6979309952f3c27ec64579e5?utm_campaign=1058&utm_source=git)** | Roswell, NM | On Site | Jan 27 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern  Summer 2026- Information Technology](https://jobright.ai/jobs/info/6979061288e2b47213bd17b4?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Jan 27 |
-| ↳ | **[Intern - Information Technology (Summer 2026)](https://jobright.ai/jobs/info/6979055c52f3c27ec6454eb3?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
