@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Driftwood Hospitality Management](https://driftwoodhospitality.com)** | **[College Internship - Front Desk Agent - Summer 2026](https://jobright.ai/jobs/info/695da6b7fbd62a0a65665aaa?utm_campaign=1058&utm_source=git)** | Osage Beach, MO | On Site | Jan 27 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943a5e5dd382f5f5669c041?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 27 |
 | **[UPMC](https://www.upmc.com/)** | **[Pharmacy Intern, Falk Pharmacy](https://jobright.ai/jobs/info/695dde5c89be3415c7463dcb?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Jan 27 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Pharmacy Intern - Mail Center, Per Diem](https://jobright.ai/jobs/info/6979a032d7df290257fc1071?utm_campaign=1058&utm_source=git)** | Manchester, NH | On Site | Jan 27 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Phillips Edison & Company](http://phillipsedison.com)** | **[Customer Experience Intern (Fall 2026)](https://jobright.ai/jobs/info/69792fbf52f3c27ec64578a8?utm_campaign=1058&utm_source=git)** | Cincinnati, Ohio, United States | On Site | Jan 27 |
 | **[SBA Communications](http://www.sbasite.com)** | **[2026 Summer Internship - Helpdesk Support](https://jobright.ai/jobs/info/697929d088e2b47213bd471e?utm_campaign=1058&utm_source=git)** | Boca Raton, FL Corporate Office | On Site | Jan 27 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Summer Intern - Information Technology Clinical](https://jobright.ai/jobs/info/69791e3739f7f96cc6d17c41?utm_campaign=1058&utm_source=git)** | Camden, NJ, US | On Site | Jan 27 |
-| ↳ | **[Summer Intern - Information Technology](https://jobright.ai/jobs/info/6979254788e2b47213bd42c1?utm_campaign=1058&utm_source=git)** | US-NJ-Camden | On Site | Jan 27 |
 | ↳ | **[Summer Intern - Information Technology Clinical](https://jobright.ai/jobs/info/69791eff88e2b47213bd3ab5?utm_campaign=1058&utm_source=git)** | US-NJ-Camden | On Site | Jan 27 |
+| ↳ | **[Summer Intern - Information Technology](https://jobright.ai/jobs/info/6979254788e2b47213bd42c1?utm_campaign=1058&utm_source=git)** | US-NJ-Camden | On Site | Jan 27 |
 | **[Imagine IT, Inc.](http://imagineiti.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/69792dd388e2b47213bd4cc0?utm_campaign=1058&utm_source=git)** | Bloomington, MN | Hybrid | Jan 27 |
-| **[Hastings Insurance Company](https://www.hastingsmutual.com)** | **[Summer 2026 IT Infrastructure Intern](https://jobright.ai/jobs/info/6979281088e2b47213bd45db?utm_campaign=1058&utm_source=git)** | Hastings, Michigan, United States | Hybrid | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
