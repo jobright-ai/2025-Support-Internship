@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[World Insurance Associates LLC](https://www.worldinsurance.com)** | **[Risk Management Client Service Intern, Surety/Bonds - West Hartford, CT](https://jobright.ai/jobs/info/6908f8debcccf20de59d5777?utm_campaign=1058&utm_source=git)** | West Hartford, CT | On Site | Jan 28 |
+| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Logistics Support Intern](https://jobright.ai/jobs/info/69421a0b14ee092a6900415c?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Jan 28 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/680da16b660234ea4d9785b2?utm_campaign=1058&utm_source=git)** | Kindred, ND | On Site | Jan 28 |
+| **[Baptist Health](http://careers.baptisthealth.net)** | **[Nurse Intern, 4/5 Main Med Surg, Per Diem, 7am to 7:30pm](https://jobright.ai/jobs/info/695e29962847344df473b39d?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Jan 28 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Internship (OT/OTA Hospital Inpatient) Winter 2026 OT Fieldwork](https://jobright.ai/jobs/info/689441eaa9199876488e403f?utm_campaign=1058&utm_source=git)** | Elkridge, MD | On Site | Jan 28 |
 | **[Teamworks](http://www.teamworks.com)** | **[Customer Education Intern](https://jobright.ai/jobs/info/694162c814ee092a69ff83c2?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 28 |
 | **[Everus](http://www.mducsg.com/)** | **[IT Support Services Intern - Summer 2026](https://jobright.ai/jobs/info/6941c07550bbaf7650538fde?utm_campaign=1058&utm_source=git)** | Bismarck, ND | On Site | Jan 28 |
 | **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Technical Support Student](https://jobright.ai/jobs/info/6979f64da8de441ca7351c61?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[One Source](https://www.onesource.net/)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/697918b088e2b47213bd333d?utm_campaign=1058&utm_source=git)** | Greenville, NC, US | On Site | Jan 27 |
 | **[Harry Meyering Center, Inc](https://www.harrymeyeringcenter.org)** | **[IT Services Intern](https://jobright.ai/jobs/info/697918a539f7f96cc6d17506?utm_campaign=1058&utm_source=git)** | Mankato, MN | On Site | Jan 27 |
 | **[ATCS](http://atcsplc.com)** | **[IT Internship - Summer 2026](https://jobright.ai/jobs/info/6979188b52f3c27ec6455d08?utm_campaign=1058&utm_source=git)** | Herndon, VA | On Site | Jan 27 |
-| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[Summer Intern - Information Technology](https://jobright.ai/jobs/info/6979171339f7f96cc6d17366?utm_campaign=1058&utm_source=git)** | Camden, NJ, US | On Site | Jan 27 |
-| **[Wolf Consulting LLC](https://www.wolfconsulting.com/)** | **[IT Service Intern](https://jobright.ai/jobs/info/697934a352f3c27ec6457daa?utm_campaign=1058&utm_source=git)** | Monroeville, PA | Hybrid | Jan 27 |
-| **[Four Hands](https://fourhands.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/6979137988e2b47213bd2e7a?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 27 |
-| **[One Source](https://www.onesource.net/)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/6979119339f7f96cc6d16dfd?utm_campaign=1058&utm_source=git)** | US-NC-Greenville | On Site | Jan 27 |
-| **[Lendistry](http://www.Lendistry.com)** | **[Helpdesk Intern](https://jobright.ai/jobs/info/697972ad0791bc1d72301b0a?utm_campaign=1058&utm_source=git)** | LA Metro Area | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
