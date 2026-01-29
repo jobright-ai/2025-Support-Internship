@@ -57,12 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3f4d078b81ad160fd46?utm_campaign=1058&utm_source=git)** | Carmel, IN | On Site | Jan 29 |
+| **[Winsupply](http://www.winsupplyinc.com)** | **[Client Support Intern](https://jobright.ai/jobs/info/68b711d5f4e41a61efd95790?utm_campaign=1058&utm_source=git)** | Moraine, OH | On Site | Jan 29 |
+| **[The Bancorp](http://www.thebancorp.com)** | **[Client Account Specialist Intern](https://jobright.ai/jobs/info/69262e16f0beb07232622dd2?utm_campaign=1058&utm_source=git)** | Greater Sioux Falls Area | On Site | Jan 29 |
+| **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Litigation Support Intern - Summer 2026](https://jobright.ai/jobs/info/69730f851790715e866c0f62?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Jan 29 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/697b555c0b88cc7d642210c9?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
 | ↳ | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/697b54dd0b88cc7d64220f07?utm_campaign=1058&utm_source=git)** | Cleveland, OH | Hybrid | Jan 29 |
 | ↳ | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/697b526f1423772304eb6f74?utm_campaign=1058&utm_source=git)** | Irving, TX | Hybrid | Jan 29 |
 | **[Jewel-Osco](http://www.jewelosco.com)** | **[Pharmacy Summer Intern - Jewel Osco](https://jobright.ai/jobs/info/697b49ac1423772304eb6baf?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | On Site | Jan 29 |
 | **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/69434b5850bbaf765055302e?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Jan 29 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Four Seasons Minneapolis Internship (Food & Beverage, Summer 2026)](https://jobright.ai/jobs/info/68d1f3c6a54edb3bf3e17f04?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Jan 29 |
+| **[Jewel-Osco](http://www.jewelosco.com)** | **[Pharmacy Summer Intern - Jewel Osco](https://jobright.ai/jobs/info/697b5ca90b88cc7d64221617?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 29 |
+| ↳ | **[Pharmacy Summer Intern - Jewel Osco](https://jobright.ai/jobs/info/697b600a1423772304eb7d8a?utm_campaign=1058&utm_source=git)** | Orland Park, IL | On Site | Jan 29 |
+| ↳ | **[Pharmacy Summer Intern - Jewel Osco](https://jobright.ai/jobs/info/697b5c4e1136d179eeeecde8?utm_campaign=1058&utm_source=git)** | Waukegan, IL | On Site | Jan 29 |
 | **[Knapheide](http://knapheide.com)** | **[Information Technology Internship - Operations](https://jobright.ai/jobs/info/697b3a6d1423772304eb6381?utm_campaign=1058&utm_source=git)** | Quincy, IL | On Site | Jan 29 |
 | **[Odessa Regional Medical Center](https://www.odessaregionalmedicalcenter.org)** | **[Respiratory Care Assistant PRN (Student Intern](https://jobright.ai/jobs/info/697b2c9e1423772304eb54e3?utm_campaign=1058&utm_source=git)** | Odessa, TX | On Site | Jan 29 |
 | **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[Pharmacy Intern PRN - Pharmacy - Perrysburg Medical Center](https://jobright.ai/jobs/info/697b1f5c1423772304eb382e?utm_campaign=1058&utm_source=git)** | Perrysburg, OH | On Site | Jan 29 |
@@ -138,23 +145,16 @@ For a complete list, click the following sortable link below:
 | **[Linamar Corporation](http://www.linamar.com/)** | **[IT Intern](https://jobright.ai/jobs/info/697a91809d60e431a16c2064?utm_campaign=1058&utm_source=git)** | Fruitport, MI | On Site | Jan 28 |
 | **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab532f6fc293b0a2ca967?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ac0b58dbbf73badc8106f?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Jan 28 |
-| ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab2c89d60e431a16c530e?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Jan 28 |
-| ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab6e79d60e431a16c5e06?utm_campaign=1058&utm_source=git)** | Santa Barbara, CA | On Site | Jan 28 |
-| ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/697aba039d60e431a16c644f?utm_campaign=1058&utm_source=git)** | Morristown, NJ | On Site | Jan 28 |
 | ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab33e9d60e431a16c542d?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Jan 28 |
-| ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab7e69d60e431a16c6060?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Jan 28 |
+| ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/697aba039d60e431a16c644f?utm_campaign=1058&utm_source=git)** | Morristown, NJ | On Site | Jan 28 |
+| ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab6e79d60e431a16c5e06?utm_campaign=1058&utm_source=git)** | Santa Barbara, CA | On Site | Jan 28 |
+| ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab2c89d60e431a16c530e?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Jan 28 |
 | ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab65f8dbbf73badc8023a?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Jan 28 |
+| ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab7e69d60e431a16c6060?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Jan 28 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Rooms Omni Care Intern / Summer 2026](https://jobright.ai/jobs/info/697a90c79d60e431a16c1ef3?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 28 |
 | **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab5cb8dbbf73badc800e7?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Jan 28 |
 | ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab2289d60e431a16c51b2?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Jan 28 |
 | ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab8c08dbbf73badc808ba?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Jan 28 |
 | **[Denver Water](https://www.denverwater.org/)** | **[IT Support Specialist Intern](https://jobright.ai/jobs/info/697a8db28dbbf73badc7bceb?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Jan 28 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/697a8ce68dbbf73badc7bbb9?utm_campaign=1058&utm_source=git)** | Roseville, CA | On Site | Jan 28 |
-| **[Mitsubishi Chemical America](https://us.mitsubishi-chemical.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/697aadd38dbbf73badc7eedc?utm_campaign=1058&utm_source=git)** | Glen Rock, PA | On Site | Jan 28 |
-| **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Record Services Student Internship (9026)](https://jobright.ai/jobs/info/697a88659d60e431a16c1003?utm_campaign=1058&utm_source=git)** | Brooksville, FL | On Site | Jan 28 |
-| **[Berkley Accident and Health (a Berkley Company)](http://berkleyah.com)** | **[Intern- Claims](https://jobright.ai/jobs/info/697a87069d60e431a16c0d5a?utm_campaign=1058&utm_source=git)** | Marlborough, MA | On Site | Jan 28 |
-| **[Dialight](http://www.dialight.com/)** | **[IT Intern](https://jobright.ai/jobs/info/697a86fb8dbbf73badc7b1a1?utm_campaign=1058&utm_source=git)** | Farmingdale, NJ, US | On Site | Jan 28 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Research Analyst, Emerging Talent Internship (Summer)](https://jobright.ai/jobs/info/697aa7a68dbbf73badc7e5d1?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 28 |
-| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Service Desk Intern - LIC](https://jobright.ai/jobs/info/697a855af6fc293b0a2c5b22?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 28 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Technology - Digital Workplace Technology & Support](https://jobright.ai/jobs/info/697aadea9d60e431a16c482a?utm_campaign=1058&utm_source=git)** | Nashville, TN | Hybrid | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
