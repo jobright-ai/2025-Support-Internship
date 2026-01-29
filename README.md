@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascension](https://healthcare.ascension.org)** | **[Surgical Services Intern](https://jobright.ai/jobs/info/697aceb98dbbf73badc81c76?utm_campaign=1058&utm_source=git)** | Carmel, IN | On Site | Jan 28 |
+| **[HCA Florida Osceola Hospital​](http://osceolaregional.com)** | **[Radiology Student Intern PRN](https://jobright.ai/jobs/info/695ed7e30badca5763af4efd?utm_campaign=1058&utm_source=git)** | Kissimmee, FL | On Site | Jan 28 |
+| **[State Bar of California](http://calbar.ca.gov)** | **[Information Technology Intern](https://jobright.ai/jobs/info/697acbf39d60e431a16c73b1?utm_campaign=1058&utm_source=git)** | LA Metro Area | Hybrid | Jan 28 |
+| **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Computer Specialist Intern - Summer 2026](https://jobright.ai/jobs/info/697ac8b69d60e431a16c70ea?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Jan 28 |
+| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Information Technology Assistant (Level I) - ITS (Student Employee)](https://jobright.ai/jobs/info/69682650639b452fb57db694?utm_campaign=1058&utm_source=git)** | Conway, SC | On Site | Jan 28 |
 | **[Columbia Hospitality](http://www.columbiahospitality.com)** | **[Rooms (Hotel) Intern / The SOMM Hotel & Spa](https://jobright.ai/jobs/info/697abe9e9d60e431a16c6794?utm_campaign=1058&utm_source=git)** | Woodinville, WA | On Site | Jan 28 |
 | **[Johns Hopkins Howard County Medical Center](https://www.hopkinsmedicine.org/johns-hopkins-howard-county)** | **[Patient Care Tech Intern - ICU/SCU](https://jobright.ai/jobs/info/697abc449d60e431a16c6564?utm_campaign=1058&utm_source=git)** | Columbia, MD | On Site | Jan 28 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Summer Intern Support Technician - Yoakum District Headquarters](https://jobright.ai/jobs/info/697ab9fff6fc293b0a2cb663?utm_campaign=1058&utm_source=git)** | Yoakum, TX | On Site | Jan 28 |
@@ -71,10 +76,13 @@ For a complete list, click the following sortable link below:
 | **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Customer Applications](https://jobright.ai/jobs/info/697aac26f6fc293b0a2c9776?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Jan 28 |
 | **[Almodovar Group, LLC](https://www.almodovar.co)** | **[Intern](https://jobright.ai/jobs/info/697aaac09d60e431a16c44f4?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 28 |
 | **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/697aaaa3f6fc293b0a2c9534?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Jan 28 |
-| ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697aa70bf6fc293b0a2c9027?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 28 |
+| **[Sandpiper Hospitality](https://www.sandpiperhospitality.com)** | **[IT Intern](https://jobright.ai/jobs/info/697ac6f88dbbf73badc8163e?utm_campaign=1058&utm_source=git)** | Sandpiper Hospitality, LLC, Richmond, VA, US | On Site | Jan 28 |
+| **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/697aa70bf6fc293b0a2c9027?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 28 |
+| **[Phelps Health](https://phelpshealth.org/)** | **[Student Nurse Intern - AMS 0.1 IPT](https://jobright.ai/jobs/info/697ac7579d60e431a16c6f8f?utm_campaign=1058&utm_source=git)** | Rolla, MO | On Site | Jan 28 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[IT Client Support, Tech & Engineering Fellow (Summer)](https://jobright.ai/jobs/info/697aa61b8dbbf73badc7e36d?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/697aa5b78dbbf73badc7e2b1?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 28 |
 | ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697aa590f6fc293b0a2c8e10?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Jan 28 |
+| **[Sentinel Technologies](https://sentinel.com)** | **[Help Desk Intern](https://jobright.ai/jobs/info/697aced68dbbf73badc81c94?utm_campaign=1058&utm_source=git)** | Downers Grove, IL, US | On Site | Jan 28 |
 | **[Newpark](https://www.newpark.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/697aa5509d60e431a16c3c72?utm_campaign=1058&utm_source=git)** | Katy, TX | On Site | Jan 28 |
 | **[Odessa Regional Medical Center](https://www.odessaregionalmedicalcenter.org)** | **[Respiratory Care Assistant PRN (Student Intern](https://jobright.ai/jobs/info/697ac1daf6fc293b0a2cbc98?utm_campaign=1058&utm_source=git)** | Odessa, Texas, United States | On Site | Jan 28 |
 | **[Amazon](https://amazon.com)** | **[Technical Writer Summer Internship – 2026 (US)](https://jobright.ai/jobs/info/697aa38bf6fc293b0a2c8baa?utm_campaign=1058&utm_source=git)** | Seattle, Washington, USA | On Site | Jan 28 |
@@ -93,10 +101,10 @@ For a complete list, click the following sortable link below:
 | **[Linamar Corporation](http://www.linamar.com/)** | **[IT Intern](https://jobright.ai/jobs/info/697a91809d60e431a16c2064?utm_campaign=1058&utm_source=git)** | Fruitport, MI | On Site | Jan 28 |
 | **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab532f6fc293b0a2ca967?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ac0b58dbbf73badc8106f?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Jan 28 |
-| ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab2c89d60e431a16c530e?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Jan 28 |
 | ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/697aba039d60e431a16c644f?utm_campaign=1058&utm_source=git)** | Morristown, NJ | On Site | Jan 28 |
-| ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab33e9d60e431a16c542d?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Jan 28 |
 | ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab6e79d60e431a16c5e06?utm_campaign=1058&utm_source=git)** | Santa Barbara, CA | On Site | Jan 28 |
+| ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab2c89d60e431a16c530e?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Jan 28 |
+| ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab33e9d60e431a16c542d?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Jan 28 |
 | ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab7e69d60e431a16c6060?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Jan 28 |
 | ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab65f8dbbf73badc8023a?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Jan 28 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Rooms Omni Care Intern / Summer 2026](https://jobright.ai/jobs/info/697a90c79d60e431a16c1ef3?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 28 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Pharmacy Intern - PRN](https://jobright.ai/jobs/info/695eb30c0badca5763af290d?utm_campaign=1058&utm_source=git)** | Ponca City, OK | On Site | Jan 28 |
 | **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/697a5a26a5b9804527e02a9b?utm_campaign=1058&utm_source=git)** | Kenosha, WI | On Site | Jan 28 |
 | ↳ | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/697a59eeb4589b4ee87ca217?utm_campaign=1058&utm_source=git)** | Lehighton, PA | On Site | Jan 28 |
-| ↳ | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/697a59b6a8de441ca7358275?utm_campaign=1058&utm_source=git)** | Pleasant Prairie, WI | On Site | Jan 28 |
-| **[TTX Company](http://www.ttx.com)** | **[Digital Service Management Intern](https://jobright.ai/jobs/info/697a98698dbbf73badc7d3d5?utm_campaign=1058&utm_source=git)** | 2151 Hawkins St, Charlotte, NC, 28203, US | On Site | Jan 28 |
-| **[Capital Power](http://www.capitalpower.com)** | **[IS Support Intern](https://jobright.ai/jobs/info/697a57f7b4589b4ee87ca090?utm_campaign=1058&utm_source=git)** | Edmonton, AB | On Site | Jan 28 |
-| **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/695f2346a112b402660deccd?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | Jan 28 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Technology - Digital Workplace Technology & Support](https://jobright.ai/jobs/info/697a530ea8de441ca7357e47?utm_campaign=1058&utm_source=git)** | Nashville, TN, United States | Hybrid | Jan 28 |
-| **[Linamar Corporation](http://www.linamar.com/)** | **[IT Intern](https://jobright.ai/jobs/info/697a5286b4589b4ee87c9d9a?utm_campaign=1058&utm_source=git)** | 14638 Apple Dr, Fruitport, MI, 49415, US | On Site | Jan 28 |
-| **[Freudenberg Sealing Technologies](https://www.fst.com/)** | **[IT Service Desk Internship](https://jobright.ai/jobs/info/697a71ce8dbbf73badc7961c?utm_campaign=1058&utm_source=git)** | Plymouth, MI | On Site | Jan 28 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Research Analyst, Emerging Talent Internship (Summer)](https://jobright.ai/jobs/info/697a7c979d60e431a16bfd84?utm_campaign=1058&utm_source=git)** | Long Island City, NY | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
