@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/697b09a6c532c4768fe0e69b?utm_campaign=1058&utm_source=git)** | Georgia - Dekalb - Atlanta | On Site | Jan 28 |
+| **[Gifthealth](https://www.gifthealth.com)** | **[Pharmacy Intern – Patient Counseling & Phone Support](https://jobright.ai/jobs/info/697b09a01423772304eb1a6f?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Jan 28 |
 | **[IKO North America](https://www.iko.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/697af62317b11b1c2e41d8b7?utm_campaign=1058&utm_source=git)** | Wilmington, NC | On Site | Jan 28 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/697aed7b17b11b1c2e41ccff?utm_campaign=1058&utm_source=git)** | Spring, TX | On Site | Jan 28 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/697aec141423772304eae114?utm_campaign=1058&utm_source=git)** | Charleston, SC | On Site | Jan 28 |
@@ -88,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[IKO North America](https://www.iko.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/697ab345f6fc293b0a2ca462?utm_campaign=1058&utm_source=git)** | Wilmington - Denny (HSS) | On Site | Jan 28 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Contact Center Technology Intern](https://jobright.ai/jobs/info/697ae1021423772304eac684?utm_campaign=1058&utm_source=git)** | Buffalo, New York, United States | Hybrid | Jan 28 |
 | **[Ponte Vedra Inn & Club](http://www.pontevedra.com)** | **[GUEST ROOMS - INTERN](https://jobright.ai/jobs/info/697aadd1f6fc293b0a2c98b0?utm_campaign=1058&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Jan 28 |
-| **[McLaren Health Care](http://www.mclaren.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/697ae104c532c4768fe098a4?utm_campaign=1058&utm_source=git)** | Mount Pleasant, MI | On Site | Jan 28 |
+| **[McLaren Health Care](http://www.mclaren.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/697adeb31423772304eac33f?utm_campaign=1058&utm_source=git)** | Mount Pleasant, MI | On Site | Jan 28 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Patient Care Technician Internal Travel](https://jobright.ai/jobs/info/697aac428dbbf73badc7edd4?utm_campaign=1058&utm_source=git)** | Lorton, VA | On Site | Jan 28 |
 | **[Tucson Electric Power](https://www.tep.com/)** | **[Student Intern, Customer Applications](https://jobright.ai/jobs/info/697aac26f6fc293b0a2c9776?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Jan 28 |
 | **[Almodovar Group, LLC](https://www.almodovar.co)** | **[Intern](https://jobright.ai/jobs/info/697aaac09d60e431a16c44f4?utm_campaign=1058&utm_source=git)** | United States | Remote | Jan 28 |
@@ -122,11 +124,11 @@ For a complete list, click the following sortable link below:
 | **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab532f6fc293b0a2ca967?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ac0b58dbbf73badc8106f?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Jan 28 |
 | ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/697aba039d60e431a16c644f?utm_campaign=1058&utm_source=git)** | Morristown, NJ | On Site | Jan 28 |
-| ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab33e9d60e431a16c542d?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Jan 28 |
-| ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab2c89d60e431a16c530e?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Jan 28 |
 | ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab6e79d60e431a16c5e06?utm_campaign=1058&utm_source=git)** | Santa Barbara, CA | On Site | Jan 28 |
-| ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab65f8dbbf73badc8023a?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Jan 28 |
+| ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab2c89d60e431a16c530e?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Jan 28 |
+| ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab33e9d60e431a16c542d?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Jan 28 |
 | ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab7e69d60e431a16c6060?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Jan 28 |
+| ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab65f8dbbf73badc8023a?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Jan 28 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Rooms Omni Care Intern / Summer 2026](https://jobright.ai/jobs/info/697a90c79d60e431a16c1ef3?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 28 |
 | **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab5cb8dbbf73badc800e7?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Jan 28 |
 | ↳ | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab2289d60e431a16c51b2?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Jan 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PatientPoint®](http://patientpoint.com)** | **[Customer Experience Coordinator Intern](https://jobright.ai/jobs/info/697a76a78dbbf73badc79ac3?utm_campaign=1058&utm_source=git)** | Remote, US | Remote | Jan 28 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Customer Account Management Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/697a76168dbbf73badc79a19?utm_campaign=1058&utm_source=git)** | Wilson, NC | On Site | Jan 28 |
 | **[Consumers Credit Union](http://myconsumers.org)** | **[Card Operations Intern - Summer 2026](https://jobright.ai/jobs/info/696ffaeb3ed06875134afb6b?utm_campaign=1058&utm_source=git)** | Lake Forest, IL | On Site | Jan 28 |
-| **[CNH](http://www.cnhindustrial.com)** | **[Agriculture Product Technical Support Specialist Intern](https://jobright.ai/jobs/info/69676ec51703f05405a91f4f?utm_campaign=1058&utm_source=git)** | Holland, IA | On Site | Jan 28 |
-| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Steve Madden Customer Service - LIC](https://jobright.ai/jobs/info/697a954af6fc293b0a2c789c?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
