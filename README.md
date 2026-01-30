@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/697c6272727747250d5710b9?utm_campaign=1058&utm_source=git)** | Vancouver, WA | On Site | Jan 29 |
+| ↳ | **[Pharmacist Intern](https://jobright.ai/jobs/info/697c5b343f57a33569660925?utm_campaign=1058&utm_source=git)** | Auburn, WA | On Site | Jan 29 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Technologist Surgical](https://jobright.ai/jobs/info/697c57193f57a33569660776?utm_campaign=1058&utm_source=git)** | Jackson, MS | On Site | Jan 29 |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #153](https://jobright.ai/jobs/info/697c56373f57a33569660739?utm_campaign=1058&utm_source=git)** | Midvale, UT | On Site | Jan 29 |
 | **[Enchanted Rock](https://enchantedrock.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/697c4c5dba9f7d5ec9fcc866?utm_campaign=1058&utm_source=git)** | Houston, TX | Hybrid | Jan 29 |
 | **[WestRock Company](http://www.westrock.com)** | **[Customer Service Intern - Summer May - Aug](https://jobright.ai/jobs/info/697304a9694e99351d144c2b?utm_campaign=1058&utm_source=git)** | Guelph, Ontario, Canada | On Site | Jan 29 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/697c42811423772304ecb7f5?utm_campaign=1058&utm_source=git)** | South Bend, IN | On Site | Jan 29 |
@@ -148,13 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/697bc41a1136d179eeef48f9?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Jan 29 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Global Customer Support - Digital Pathology & SW/IT Workflow](https://jobright.ai/jobs/info/697bed800b88cc7d6422d637?utm_campaign=1058&utm_source=git)** | Tucson | On Site | Jan 29 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - District Maintenance](https://jobright.ai/jobs/info/697bbec30b88cc7d64228b04?utm_campaign=1058&utm_source=git)** | Lufkin, TX | On Site | Jan 29 |
-| **[The Hartford](http://www.thehartford.com)** | **[Intern, PL Western Claims](https://jobright.ai/jobs/info/697bdea31136d179eeef75ce?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Jan 29 |
-| ↳ | **[Intern, PL Western Claims](https://jobright.ai/jobs/info/697bde561136d179eeef7502?utm_campaign=1058&utm_source=git)** | Hartford, CT | On Site | Jan 29 |
+| **[The Hartford](http://www.thehartford.com)** | **[Intern, PL Western Claims](https://jobright.ai/jobs/info/697bde561136d179eeef7502?utm_campaign=1058&utm_source=git)** | Hartford, CT | On Site | Jan 29 |
+| ↳ | **[Intern, PL Western Claims](https://jobright.ai/jobs/info/697bdea31136d179eeef75ce?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Jan 29 |
 | **[Essense of Australia](https://www.essensedesigns.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/697bbd0f1423772304ebe8c7?utm_campaign=1058&utm_source=git)** | Lenexa, KS | Hybrid | Jan 29 |
 | **[CloudRx Pharmacy Hub](https://cloudrx.com)** | **[Pharmacist Intern- Years 1-4](https://jobright.ai/jobs/info/697be0cc1423772304ec1f6b?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 29 |
 | **[Mouser Electronics](http://mouser.com)** | **[UAT Specialist Intern](https://jobright.ai/jobs/info/697be7d01423772304ec2a2b?utm_campaign=1058&utm_source=git)** | Mansfield, TX | On Site | Jan 29 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/697bd3431423772304ec03ba?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 29 |
-| **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Information Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/697baf691136d179eeef3461?utm_campaign=1058&utm_source=git)** | Wake County, NC | On Site | Jan 29 |
-| **[Meijer](https://www.meijer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/697baf0b1423772304ebda58?utm_campaign=1058&utm_source=git)** | Louisville, KY | On Site | Jan 29 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Global Customer Support Advanced Staining](https://jobright.ai/jobs/info/697bae760b88cc7d64227b89?utm_campaign=1058&utm_source=git)** | Tucson | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
