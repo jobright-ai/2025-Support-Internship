@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943a5e5dd382f5f5669c041?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 30 |
+| **[Affinity Credit Union](https://www.affinitycu.ca/)** | **[Salesforce Administrator](https://jobright.ai/jobs/info/697c7f323f57a335696643f0?utm_campaign=1058&utm_source=git)** | Saskatchewan, Canada | On Site | Jan 30 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Respiratory Therapist Internship](https://jobright.ai/jobs/info/696098bc7ebc25398eb67b78?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Jan 30 |
 | **[Teledyne Judson Technologies](http://www.teledynejudson.com/)** | **[Intern Technical Service/ Customer Support](https://jobright.ai/jobs/info/697c7935727747250d5728c3?utm_campaign=1058&utm_source=git)** | Canada - Vancouver, BC | On Site | Jan 30 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/697c6aa63f57a33569661aee?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/697bc41a1136d179eeef48f9?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Jan 29 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Global Customer Support - Digital Pathology & SW/IT Workflow](https://jobright.ai/jobs/info/697bed800b88cc7d6422d637?utm_campaign=1058&utm_source=git)** | Tucson | On Site | Jan 29 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - District Maintenance](https://jobright.ai/jobs/info/697bbec30b88cc7d64228b04?utm_campaign=1058&utm_source=git)** | Lufkin, TX | On Site | Jan 29 |
-| **[The Hartford](http://www.thehartford.com)** | **[Intern, PL Western Claims](https://jobright.ai/jobs/info/697bde561136d179eeef7502?utm_campaign=1058&utm_source=git)** | Hartford, CT | On Site | Jan 29 |
-| ↳ | **[Intern, PL Western Claims](https://jobright.ai/jobs/info/697bdea31136d179eeef75ce?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
