@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/697c414b1423772304ecb700?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 29 |
+| **[Enchanted Rock](https://enchantedrock.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/697c4c5dba9f7d5ec9fcc866?utm_campaign=1058&utm_source=git)** | Houston, TX | Hybrid | Jan 29 |
+| **[WestRock Company](http://www.westrock.com)** | **[Customer Service Intern - Summer May - Aug](https://jobright.ai/jobs/info/697304a9694e99351d144c2b?utm_campaign=1058&utm_source=git)** | Guelph, Ontario, Canada | On Site | Jan 29 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/697c42811423772304ecb7f5?utm_campaign=1058&utm_source=git)** | South Bend, IN | On Site | Jan 29 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697c414b1423772304ecb700?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 29 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/697c41461423772304ecb6fc?utm_campaign=1058&utm_source=git)** | Terre Haute, IN | On Site | Jan 29 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/697c41351423772304ecb6ed?utm_campaign=1058&utm_source=git)** | Elkhart, IN | On Site | Jan 29 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/697c3fac1423772304ecb5d2?utm_campaign=1058&utm_source=git)** | Asheville, NC | On Site | Jan 29 |
@@ -72,6 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/697c3c9d1423772304ecb103?utm_campaign=1058&utm_source=git)** | Winamac, IN | On Site | Jan 29 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/697c3c441423772304ecaf40?utm_campaign=1058&utm_source=git)** | Jeffersonville, IN | On Site | Jan 29 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/697c3ab91423772304eca7bf?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Jan 29 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697c3a721423772304eca6d1?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 29 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697c3a561136d179eef00184?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 29 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/697c3a531423772304eca65c?utm_campaign=1058&utm_source=git)** | Clinton, IN | On Site | Jan 29 |
 | **[Henkel](http://www.henkel.com)** | **[Digital Customer Experience & Transformations Intern: Summer - Fall 2026](https://jobright.ai/jobs/info/69602cd1a112b402660ee525?utm_campaign=1058&utm_source=git)** | Rocky Hill, CT | Hybrid | Jan 29 |
@@ -80,8 +84,10 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Digital Customer Experience & Transformations Intern: Summer - Fall 2026](https://jobright.ai/jobs/info/69621ad1a112b40266108473?utm_campaign=1058&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 29 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/697c393c1136d179eeeffb93?utm_campaign=1058&utm_source=git)** | Marion, IN | On Site | Jan 29 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/697c37d50b88cc7d64233cd5?utm_campaign=1058&utm_source=git)** | Vevay, IN | On Site | Jan 29 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697c37d31136d179eeeff46d?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 29 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[IT Operations, Technology & Engineer Fellow (Summer)](https://jobright.ai/jobs/info/697c37761136d179eeeff3ff?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 29 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/697c36831136d179eeeff38d?utm_campaign=1058&utm_source=git)** | New Palestine, IN | On Site | Jan 29 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/697c37091136d179eeeff3d1?utm_campaign=1058&utm_source=git)** | Evansville, IN | On Site | Jan 29 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/697c36831136d179eeeff38d?utm_campaign=1058&utm_source=git)** | New Palestine, IN | On Site | Jan 29 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/697c36290b88cc7d64233bee?utm_campaign=1058&utm_source=git)** | Bakersfield, CA | On Site | Jan 29 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Associate Triage Analyst Intern](https://jobright.ai/jobs/info/697c361b1136d179eeeff35f?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Jan 29 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Global Customer Support - Digital Pathology & SW/IT Workflow](https://jobright.ai/jobs/info/697c36071423772304ec98b4?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Jan 29 |
@@ -90,10 +96,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/697c35490b88cc7d64233b93?utm_campaign=1058&utm_source=git)** | Oak Park, CA | On Site | Jan 29 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/697c34ed0b88cc7d64233b50?utm_campaign=1058&utm_source=git)** | Santa Clarita, CA | On Site | Jan 29 |
 | **[WesBanco](http://wesbanco.com)** | **[Intern - Office of the Customer](https://jobright.ai/jobs/info/697c34a71136d179eeeff2b1?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 29 |
+| **[Henkel](http://www.henkel.com)** | **[Digital Customer Experience & Transformations Intern: Summer - Fall 2026](https://jobright.ai/jobs/info/696093e2a1bbea1d9a7b59e1?utm_campaign=1058&utm_source=git)** | Rocky Hill, CT | Hybrid | Jan 29 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/697c343c0b88cc7d64233ab7?utm_campaign=1058&utm_source=git)** | Summit, NJ | On Site | Jan 29 |
 | **[MyMichigan Health](https://www.mymichigan.org)** | **[Nurse Intern Cohort Summer 2026](https://jobright.ai/jobs/info/697c332c0b88cc7d642339d7?utm_campaign=1058&utm_source=git)** | Sault Ste. Marie, MI | On Site | Jan 29 |
+| **[Henkel](http://www.henkel.com)** | **[Digital Customer Experience & Transformations Intern: Summer - Fall 2026](https://jobright.ai/jobs/info/695f504ba1bbea1d9a7a1c61?utm_campaign=1058&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 29 |
 | **[GradGuard - College Life Protected](https://gradguard.com)** | **[Membership Experience Intern](https://jobright.ai/jobs/info/696036b77ebc25398eb6328c?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Jan 29 |
 | **[UPMC](https://www.upmc.com/)** | **[Audiologist Intern-Hanover](https://jobright.ai/jobs/info/697c271a0b88cc7d64232a6a?utm_campaign=1058&utm_source=git)** | Hanover, PA | On Site | Jan 29 |
+| **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern - Orthopedics](https://jobright.ai/jobs/info/697c49c51423772304ecbe9d?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Jan 29 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Tampa](https://jobright.ai/jobs/info/697c23fa1423772304ec84ba?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Jan 29 |
 | **[HCA HealthONE](http://www.healthonecares.com/)** | **[Pharmacist Intern PRN](https://jobright.ai/jobs/info/696023ff7ebc25398eb613c1?utm_campaign=1058&utm_source=git)** | Lone Tree, CO | On Site | Jan 29 |
 | **[Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)](http://cmhc.ca/en)** | **[Summer 2026 Internship - Information Technology](https://jobright.ai/jobs/info/697c3c3b1423772304ecaefe?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 29 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Information Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/697baf691136d179eeef3461?utm_campaign=1058&utm_source=git)** | Wake County, NC | On Site | Jan 29 |
 | **[Meijer](https://www.meijer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/697baf0b1423772304ebda58?utm_campaign=1058&utm_source=git)** | Louisville, KY | On Site | Jan 29 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Global Customer Support Advanced Staining](https://jobright.ai/jobs/info/697bae760b88cc7d64227b89?utm_campaign=1058&utm_source=git)** | Tucson | On Site | Jan 29 |
-| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Surgical Tech Intern PRN](https://jobright.ai/jobs/info/697baaa31136d179eeef3080?utm_campaign=1058&utm_source=git)** | Mercy Joplin | On Site | Jan 29 |
-| **[Essense of Australia](https://www.essensedesigns.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/697bc0811423772304ebeceb?utm_campaign=1058&utm_source=git)** | US-KS-Lenexa | Hybrid | Jan 29 |
-| ↳ | **[Information Technology Intern](https://jobright.ai/jobs/info/697bcafb0b88cc7d6422989d?utm_campaign=1058&utm_source=git)** | Lenexa, KS, US | Hybrid | Jan 29 |
-| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Student Research Assistant](https://jobright.ai/jobs/info/697ba3f61423772304ebd240?utm_campaign=1058&utm_source=git)** | Orange, CA | On Site | Jan 29 |
-| **[Cardinal Group Companies](https://cardinalgroup.com)** | **[Resident Coordination Intern](https://jobright.ai/jobs/info/697bc8810b88cc7d64229571?utm_campaign=1058&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Jan 29 |
-| **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[IT FINANCIAL APPLICATIONS INTERN](https://jobright.ai/jobs/info/697ba3aa1136d179eeef2c4a?utm_campaign=1058&utm_source=git)** | Fayetteville, NC, United States | On Site | Jan 29 |
-| **[Johnson Outdoors](http://www.johnsonoutdoors.com/)** | **[Business Intern](https://jobright.ai/jobs/info/697bc5271136d179eeef4a49?utm_campaign=1058&utm_source=git)** | Old Town, Maine, United States | On Site | Jan 29 |
-| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6948ed3863141d1884589708?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | Jan 29 |
-| **[Geotab](http://www.geotab.com/)** | **[IT Support Specialist Intern (Summer/May 2026, 8 Months)](https://jobright.ai/jobs/info/697bbe941136d179eeef42b0?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
