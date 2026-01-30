@@ -57,15 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Global Customer Support Advanced Staining](https://jobright.ai/jobs/info/697bde081423772304ec194a?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Jan 29 |
+| **[The Hartford](http://www.thehartford.com)** | **[Intern, PL Western Claims](https://jobright.ai/jobs/info/697bd52c1136d179eeef60f3?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Jan 29 |
+| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Radiology Tech Intern / Casual / Jefferson Hospital](https://jobright.ai/jobs/info/697bd48f0b88cc7d6422a750?utm_campaign=1058&utm_source=git)** | Jefferson Hills PA, 15025, 565 Coal Valley Road | On Site | Jan 29 |
 | **[Riverhead Building Supply](https://www.rbscorp.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/697bd3e21136d179eeef5dc0?utm_campaign=1058&utm_source=git)** | Calverton, NY | On Site | Jan 29 |
 | **[UFP Industries](https://www.ufpi.com/)** | **[IT Intern](https://jobright.ai/jobs/info/697bd1541136d179eeef5821?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Jan 29 |
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Resp Care Intern](https://jobright.ai/jobs/info/697bcfd80b88cc7d64229ce7?utm_campaign=1058&utm_source=git)** | Kennestone Hospital | On Site | Jan 29 |
 | **[BW Converting](http://www.bwconverting.com)** | **[Field Service Intern](https://jobright.ai/jobs/info/695ffcc4a112b402660eaf28?utm_campaign=1058&utm_source=git)** | Green Bay, WI | On Site | Jan 29 |
 | **[Texas Health and Human Services](http://hhs.texas.gov)** | **[Intern Clerk IV](https://jobright.ai/jobs/info/697bc9740b88cc7d6422968c?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 29 |
+| **[Mount Sinai Medical Center](https://www.msmc.com/)** | **[Registered Nurse Intern Acute Care](https://jobright.ai/jobs/info/697165fc51f726477183b0f9?utm_campaign=1058&utm_source=git)** | Miami Beach, FL | On Site | Jan 29 |
 | **[Johnson Outdoors](http://www.johnsonoutdoors.com/)** | **[Business Intern](https://jobright.ai/jobs/info/697bc7b31423772304ebf4aa?utm_campaign=1058&utm_source=git)** | Old Town, ME | On Site | Jan 29 |
 | **[WebFX](https://www.webfx.com)** | **[IT Support Internship](https://jobright.ai/jobs/info/67eec162357dc4681d864247?utm_campaign=1058&utm_source=git)** | Harrisburg, PA | On Site | Jan 29 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/697bc41a1136d179eeef48f9?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Jan 29 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - District Maintenance](https://jobright.ai/jobs/info/697bbec30b88cc7d64228b04?utm_campaign=1058&utm_source=git)** | Lufkin, TX | On Site | Jan 29 |
+| **[The Hartford](http://www.thehartford.com)** | **[Intern, PL Western Claims](https://jobright.ai/jobs/info/697bdea31136d179eeef75ce?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Jan 29 |
+| ↳ | **[Intern, PL Western Claims](https://jobright.ai/jobs/info/697bde561136d179eeef7502?utm_campaign=1058&utm_source=git)** | Hartford, CT | On Site | Jan 29 |
 | **[Essense of Australia](https://www.essensedesigns.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/697bbd0f1423772304ebe8c7?utm_campaign=1058&utm_source=git)** | Lenexa, KS | Hybrid | Jan 29 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/697bd3431423772304ec03ba?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 29 |
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Information Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/697baf691136d179eeef3461?utm_campaign=1058&utm_source=git)** | Wake County, NC | On Site | Jan 29 |
@@ -134,27 +140,21 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed14646e5b153e5a602e1?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Jan 29 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed825d078b81ad1610010?utm_campaign=1058&utm_source=git)** | Cary, NC | On Site | Jan 29 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eedba946e5b153e5a60a30?utm_campaign=1058&utm_source=git)** | Louisville, KY | On Site | Jan 29 |
-| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/691400eee344172248f75d21?utm_campaign=1058&utm_source=git)** | Bloomington, MN | On Site | Jan 29 |
-| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed2dd46e5b153e5a606bc?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 29 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eedb7e46e5b153e5a609f8?utm_campaign=1058&utm_source=git)** | Trevose, PA | On Site | Jan 29 |
+| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed2dd46e5b153e5a606bc?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 29 |
+| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/691400eee344172248f75d21?utm_campaign=1058&utm_source=git)** | Bloomington, MN | On Site | Jan 29 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eedc2e46e5b153e5a60ad0?utm_campaign=1058&utm_source=git)** | Fairfax, VA | On Site | Jan 29 |
-| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed58de0db92422580bfe5?utm_campaign=1058&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Jan 29 |
-| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3abe0db92422580bcbd?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 29 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed20146e5b153e5a604ed?utm_campaign=1058&utm_source=git)** | Bridgewater, NJ | On Site | Jan 29 |
+| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3abe0db92422580bcbd?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 29 |
+| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed58de0db92422580bfe5?utm_campaign=1058&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Jan 29 |
+| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed9dde0db92422580c170?utm_campaign=1058&utm_source=git)** | Tempe, AZ | On Site | Jan 29 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3a1d078b81ad160fcaa?utm_campaign=1058&utm_source=git)** | Dublin, OH | On Site | Jan 29 |
-| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eeccfbd078b81ad160f80a?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Jan 29 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed58de0db92422580bfe4?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Jan 29 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed28c46e5b153e5a605fe?utm_campaign=1058&utm_source=git)** | Coppell, TX | On Site | Jan 29 |
-| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed9dde0db92422580c170?utm_campaign=1058&utm_source=git)** | Tempe, AZ | On Site | Jan 29 |
-| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed54fd078b81ad160ffd6?utm_campaign=1058&utm_source=git)** | Florence, SC | On Site | Jan 29 |
+| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eeccfbd078b81ad160f80a?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Jan 29 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed52fd078b81ad160ff96?utm_campaign=1058&utm_source=git)** | Medina, OH | On Site | Jan 29 |
+| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed54fd078b81ad160ffd6?utm_campaign=1058&utm_source=git)** | Florence, SC | On Site | Jan 29 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed4b8d078b81ad160febb?utm_campaign=1058&utm_source=git)** | Westborough, MA | On Site | Jan 29 |
-| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed21946e5b153e5a60523?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Jan 29 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed2a146e5b153e5a60635?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Jan 29 |
-| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Information Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/697b788f1136d179eeeef8f1?utm_campaign=1058&utm_source=git)** | Wake County, NC | On Site | Jan 29 |
-| **[The Bancorp](http://www.thebancorp.com)** | **[Client Account Specialist Intern](https://jobright.ai/jobs/info/69262e16f0beb07232622dd2?utm_campaign=1058&utm_source=git)** | Greater Sioux Falls Area | On Site | Jan 29 |
-| **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Litigation Support Intern - Summer 2026](https://jobright.ai/jobs/info/69730f851790715e866c0f62?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Jan 29 |
-| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/697b555c0b88cc7d642210c9?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Jan 29 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed9fde0db92422580c190?utm_campaign=1058&utm_source=git)** | Brentwood, TN | On Site | Jan 29 |
-| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/694324b2dd382f5f5669180f?utm_campaign=1058&utm_source=git)** | Webster, SD | On Site | Jan 29 |
+| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed21946e5b153e5a60523?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
