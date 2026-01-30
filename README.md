@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yellowstone Club](https://www.yellowstoneclub.com/)** | **[YC Internship Summer 2026](https://jobright.ai/jobs/info/697cfa40727747250d57b588?utm_campaign=1058&utm_source=git)** | Big Sky, MT | On Site | Jan 30 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, PL Western Claims](https://jobright.ai/jobs/info/697ce7b7137a05102565d0a1?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Jan 30 |
 | ↳ | **[Intern, PL Eastern Claims](https://jobright.ai/jobs/info/697ce6763f57a33569668f01?utm_campaign=1058&utm_source=git)** | Hartford, CT | On Site | Jan 30 |
 | ↳ | **[Intern, PL Eastern Claims](https://jobright.ai/jobs/info/697ce57f727747250d5790b3?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Jan 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Digital Customer Experience & Transformations Intern: Summer - Fall 2026](https://jobright.ai/jobs/info/69602cd1a112b402660ee525?utm_campaign=1058&utm_source=git)** | Rocky Hill, CT | Hybrid | Jan 29 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/697c39b71136d179eeeffe87?utm_campaign=1058&utm_source=git)** | Bloomfield, IN | On Site | Jan 29 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697c39571136d179eeeffc2e?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 29 |
-| **[Henkel](http://www.henkel.com)** | **[Digital Customer Experience & Transformations Intern: Summer - Fall 2026](https://jobright.ai/jobs/info/69621ad1a112b40266108473?utm_campaign=1058&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
