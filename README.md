@@ -64,6 +64,7 @@ For a complete list, click the following sortable link below:
 | **[UFP Industries](https://www.ufpi.com/)** | **[IT Intern](https://jobright.ai/jobs/info/697bd1541136d179eeef5821?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Jan 29 |
 | **[Wellstar Health System](https://www.wellstar.org)** | **[Resp Care Intern](https://jobright.ai/jobs/info/697bcfd80b88cc7d64229ce7?utm_campaign=1058&utm_source=git)** | Kennestone Hospital | On Site | Jan 29 |
 | **[BW Converting](http://www.bwconverting.com)** | **[Field Service Intern](https://jobright.ai/jobs/info/695ffcc4a112b402660eaf28?utm_campaign=1058&utm_source=git)** | Green Bay, WI | On Site | Jan 29 |
+| **[Sony Music Publishing](https://www.sonymusicpub.com/)** | **[Intern, Synchronization](https://jobright.ai/jobs/info/697be73e0b88cc7d6422cb05?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Jan 29 |
 | **[Texas Health and Human Services](http://hhs.texas.gov)** | **[Intern Clerk IV](https://jobright.ai/jobs/info/697bc9740b88cc7d6422968c?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 29 |
 | **[Mount Sinai Medical Center](https://www.msmc.com/)** | **[Registered Nurse Intern Acute Care](https://jobright.ai/jobs/info/697165fc51f726477183b0f9?utm_campaign=1058&utm_source=git)** | Miami Beach, FL | On Site | Jan 29 |
 | **[Johnson Outdoors](http://www.johnsonoutdoors.com/)** | **[Business Intern](https://jobright.ai/jobs/info/697bc7b31423772304ebf4aa?utm_campaign=1058&utm_source=git)** | Old Town, ME | On Site | Jan 29 |
@@ -73,6 +74,8 @@ For a complete list, click the following sortable link below:
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, PL Western Claims](https://jobright.ai/jobs/info/697bdea31136d179eeef75ce?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Jan 29 |
 | ↳ | **[Intern, PL Western Claims](https://jobright.ai/jobs/info/697bde561136d179eeef7502?utm_campaign=1058&utm_source=git)** | Hartford, CT | On Site | Jan 29 |
 | **[Essense of Australia](https://www.essensedesigns.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/697bbd0f1423772304ebe8c7?utm_campaign=1058&utm_source=git)** | Lenexa, KS | Hybrid | Jan 29 |
+| **[CloudRx Pharmacy Hub](https://cloudrx.com)** | **[Pharmacist Intern- Years 1-4](https://jobright.ai/jobs/info/697be0cc1423772304ec1f6b?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 29 |
+| **[Mouser Electronics](http://mouser.com)** | **[UAT Specialist Intern](https://jobright.ai/jobs/info/697be7d01423772304ec2a2b?utm_campaign=1058&utm_source=git)** | Mansfield, TX | On Site | Jan 29 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/697bd3431423772304ec03ba?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 29 |
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[Information Technology Intern (Summer 2026)](https://jobright.ai/jobs/info/697baf691136d179eeef3461?utm_campaign=1058&utm_source=git)** | Wake County, NC | On Site | Jan 29 |
 | **[Meijer](https://www.meijer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/697baf0b1423772304ebda58?utm_campaign=1058&utm_source=git)** | Louisville, KY | On Site | Jan 29 |
@@ -141,20 +144,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed825d078b81ad1610010?utm_campaign=1058&utm_source=git)** | Cary, NC | On Site | Jan 29 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eedba946e5b153e5a60a30?utm_campaign=1058&utm_source=git)** | Louisville, KY | On Site | Jan 29 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eedb7e46e5b153e5a609f8?utm_campaign=1058&utm_source=git)** | Trevose, PA | On Site | Jan 29 |
-| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed2dd46e5b153e5a606bc?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 29 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/691400eee344172248f75d21?utm_campaign=1058&utm_source=git)** | Bloomington, MN | On Site | Jan 29 |
+| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed2dd46e5b153e5a606bc?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 29 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eedc2e46e5b153e5a60ad0?utm_campaign=1058&utm_source=git)** | Fairfax, VA | On Site | Jan 29 |
-| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed20146e5b153e5a604ed?utm_campaign=1058&utm_source=git)** | Bridgewater, NJ | On Site | Jan 29 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3abe0db92422580bcbd?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 29 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed58de0db92422580bfe5?utm_campaign=1058&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Jan 29 |
+| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed20146e5b153e5a604ed?utm_campaign=1058&utm_source=git)** | Bridgewater, NJ | On Site | Jan 29 |
+| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed28c46e5b153e5a605fe?utm_campaign=1058&utm_source=git)** | Coppell, TX | On Site | Jan 29 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed9dde0db92422580c170?utm_campaign=1058&utm_source=git)** | Tempe, AZ | On Site | Jan 29 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed3a1d078b81ad160fcaa?utm_campaign=1058&utm_source=git)** | Dublin, OH | On Site | Jan 29 |
-| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed58de0db92422580bfe4?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Jan 29 |
-| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed28c46e5b153e5a605fe?utm_campaign=1058&utm_source=git)** | Coppell, TX | On Site | Jan 29 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eeccfbd078b81ad160f80a?utm_campaign=1058&utm_source=git)** | Portland, OR | On Site | Jan 29 |
+| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed58de0db92422580bfe4?utm_campaign=1058&utm_source=git)** | Salt Lake City, UT | On Site | Jan 29 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed52fd078b81ad160ff96?utm_campaign=1058&utm_source=git)** | Medina, OH | On Site | Jan 29 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed54fd078b81ad160ffd6?utm_campaign=1058&utm_source=git)** | Florence, SC | On Site | Jan 29 |
-| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed4b8d078b81ad160febb?utm_campaign=1058&utm_source=git)** | Westborough, MA | On Site | Jan 29 |
-| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed2a146e5b153e5a60635?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Jan 29 |
-| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed21946e5b153e5a60523?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
