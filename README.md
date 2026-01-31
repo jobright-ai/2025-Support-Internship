@@ -57,11 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Outsourced IT Intern (Summer 26)](https://jobright.ai/jobs/info/697d679e727747250d584c46?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | Jan 30 |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[IT Intern](https://jobright.ai/jobs/info/697d65bb137a0510256686e6?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Jan 30 |
+| **[United Rentals](http://www.unitedrentals.com)** | **[Operations Support Intern](https://jobright.ai/jobs/info/697d646b727747250d58484b?utm_campaign=1058&utm_source=git)** | Columbia, MS | On Site | Jan 30 |
+| **[Suburban Hospital](http://www.suburbanhospital.org)** | **[Patient Care Tech Intern - PCT- Psych Safety Tech](https://jobright.ai/jobs/info/697d6387137a05102566841a?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Jan 30 |
+| **[Brown University Health](https://www.brownhealth.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/697d63873f57a3356967458e?utm_campaign=1058&utm_source=git)** | Providence, RI | On Site | Jan 30 |
+| **[Austin Regional Clinic: ARC](https://www.austinregionalclinic.com/)** | **[*Centralized HIM Intern](https://jobright.ai/jobs/info/697d6221137a051025668267?utm_campaign=1058&utm_source=git)** | Austin, Texas, United States | On Site | Jan 30 |
+| **[Construction Specialties](https://www.c-sgroup.com/)** | **[ServiceNow Data and Reporting Intern](https://jobright.ai/jobs/info/697d5f57727747250d58430d?utm_campaign=1058&utm_source=git)** | Lebanon, NJ | On Site | Jan 30 |
+| **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, IT Desktop Support](https://jobright.ai/jobs/info/697d5e563f57a3356967400f?utm_campaign=1058&utm_source=git)** | Richmond, VA, US | On Site | Jan 30 |
 | **[Construction Specialties](https://www.c-sgroup.com/)** | **[ServiceNow Data and Reporting Intern](https://jobright.ai/jobs/info/697d5c573f57a33569673dfe?utm_campaign=1058&utm_source=git)** | US-NJ-Lebanon | On Site | Jan 30 |
 | **[Monarch Investment and Management Group](https://www.mimginvestment.com/?utm_medium=organic+social&utm_source=linkedin&utm_content=homepage)** | **[IT, Information Technology Internship (Multifamily Housing Industry) (Summer 2026)](https://jobright.ai/jobs/info/697d5acd3f57a33569673c45?utm_campaign=1058&utm_source=git)** | Franktown, Colorado | On Site | Jan 30 |
 | **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/697ac08df6fc293b0a2cbb70?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Jan 30 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943e68d94730b7398771073?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Jan 30 |
 | **[Essentia Health](https://www.essentiahealth.org/)** | **[Inpatient Pharmacy Intern (0.3 FTE)](https://jobright.ai/jobs/info/697d4f7a137a051025665bc0?utm_campaign=1058&utm_source=git)** | Fargo, ND | On Site | Jan 30 |
+| **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, IT Desktop Support](https://jobright.ai/jobs/info/697d64dc137a0510256685dd?utm_campaign=1058&utm_source=git)** | US-VA-Richmond | On Site | Jan 30 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/697d41f23f57a335696712ce?utm_campaign=1058&utm_source=git)** | Gilbertsville, PA | On Site | Jan 30 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/697d41e4137a0510256652b7?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Jan 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697d3e6e727747250d580fd7?utm_campaign=1058&utm_source=git)** | Souderton, PA | On Site | Jan 30 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697cc5463f57a33569667c2f?utm_campaign=1058&utm_source=git)** | Cave Creek, AZ | On Site | Jan 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697cc5333f57a33569667c21?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Jan 30 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697cc423137a05102565bdab?utm_campaign=1058&utm_source=git)** | Grand Junction, CO | On Site | Jan 30 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697cc405137a05102565bd84?utm_campaign=1058&utm_source=git)** | Littleton, CO | On Site | Jan 30 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697cc3be3f57a33569667abc?utm_campaign=1058&utm_source=git)** | Newark, NJ | On Site | Jan 30 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697cc303137a05102565bc95?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Jan 30 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697cc1a3727747250d577ba2?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Jan 30 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697cc169137a05102565bb33?utm_campaign=1058&utm_source=git)** | New Orleans, LA | On Site | Jan 30 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697cc0b3727747250d577ae2?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 30 |
-| **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern II PRN](https://jobright.ai/jobs/info/69444fa050bbaf7650564df9?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Jan 30 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/6915af316f36db06ef050543?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Jan 30 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697cc03f137a05102565ba4c?utm_campaign=1058&utm_source=git)** | Roseland, NJ | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
