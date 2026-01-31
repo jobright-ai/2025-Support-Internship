@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exiger](http://www.exiger.com)** | **[Application Support Intern (Summer 2026)](https://jobright.ai/jobs/info/6961b69ef3f4cd132506bcf5?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
+| **[XPO](https://www.xpo.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/697de8d07f40342e15d6c9aa?utm_campaign=1058&utm_source=git)** | North Richland Hills, TX | On Site | Jan 31 |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/694568a863141d188454e5a7?utm_campaign=1058&utm_source=git)** | Greater Houston | On Site | Jan 31 |
+| **[Xylem](https://heimplanet.com/)** | **[IT Endpoint Services Intern](https://jobright.ai/jobs/info/6961a30ce7ed9a5731ba7a44?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 31 |
+| **[Granite Construction](https://www.graniteconstruction.com)** | **[IT Intern](https://jobright.ai/jobs/info/6945cbe7951654073537e893?utm_campaign=1058&utm_source=git)** | Watsonville, CA | On Site | Jan 31 |
+| **[Oliver Wyman](http://www.oliverwyman.com)** | **[Oliver Wyman -Vector- Customer Support and Product Ownership Intern](https://jobright.ai/jobs/info/696157a3e7ed9a5731ba1da9?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
+| **[Camping World](https://investor.campingworld.com)** | **[Office 365 Intern](https://jobright.ai/jobs/info/697dd9807f40342e15d6c6d3?utm_campaign=1058&utm_source=git)** | Lincolnshire, IL | Hybrid | Jan 31 |
+| **[Brunswick Corporation](http://www.brunswick.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/6977dc8a88e2b47213bbd819?utm_campaign=1058&utm_source=git)** | Fond du Lac, WI | Hybrid | Jan 31 |
+| **[The Medical Affairs Company (TMAC)](http://www.themedicalaffairscompany.com)** | **[Medical Information Contact Center Intern](https://jobright.ai/jobs/info/69617596e7ed9a5731ba3ce8?utm_campaign=1058&utm_source=git)** | Kennesaw, GA | On Site | Jan 31 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/697dd4b67f40342e15d6c508?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 31 |
+| **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern  P1 Contingent Rotate](https://jobright.ai/jobs/info/696188ada112b40266101db5?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
 | **[Covenant Living Communities and Services](https://covliving.org/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/697db70cce48107c0542062d?utm_campaign=1058&utm_source=git)** | Skokie, IL | On Site | Jan 31 |
 | **[Austin Regional Clinic: ARC](https://www.austinregionalclinic.com/)** | **[*Centralized HIM Intern](https://jobright.ai/jobs/info/697daba57f40342e15d69264?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 30 |
 | **[ALO](https://www.aloyoga.com/)** | **[TechOps Intern](https://jobright.ai/jobs/info/697daac57f40342e15d69189?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, PL Western Claims](https://jobright.ai/jobs/info/697cdf60727747250d578d01?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Jan 30 |
 | **[Virtua Health](https://www.virtua.org/)** | **[IT Technical Support Intern](https://jobright.ai/jobs/info/697cd9fd727747250d578b29?utm_campaign=1058&utm_source=git)** | Camden, NJ | On Site | Jan 30 |
 | ↳ | **[IT Service Desk Intern](https://jobright.ai/jobs/info/697cd7053f57a335696686be?utm_campaign=1058&utm_source=git)** | Marlton, NJ | On Site | Jan 30 |
-| ↳ | **[IT Service Delivery Intern](https://jobright.ai/jobs/info/697cd58b3f57a335696685cb?utm_campaign=1058&utm_source=git)** | Marlton, NJ | On Site | Jan 30 |
-| **[Meijer](https://www.meijer.com/)** | **[Intern Store Detective](https://jobright.ai/jobs/info/697cd561137a05102565c701?utm_campaign=1058&utm_source=git)** | Preston Hwy - Louisville, KY | On Site | Jan 30 |
-| **[Virtua Health](https://www.virtua.org/)** | **[IT Technical Support Intern](https://jobright.ai/jobs/info/697cd4fa137a05102565c6b5?utm_campaign=1058&utm_source=git)** | Mount Holly, NJ | On Site | Jan 30 |
-| ↳ | **[IT Applications Intern](https://jobright.ai/jobs/info/697cd2ad137a05102565c570?utm_campaign=1058&utm_source=git)** | Marlton, NJ | On Site | Jan 30 |
-| ↳ | **[IT Technical Support Intern](https://jobright.ai/jobs/info/697cd19b727747250d57867f?utm_campaign=1058&utm_source=git)** | Voorhees, NJ | On Site | Jan 30 |
-| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Warehouse Associate (4-month) - Milton, ON, Canada](https://jobright.ai/jobs/info/697cd1363f57a335696683ba?utm_campaign=1058&utm_source=git)** | Milton, Ontario, Canada | On Site | Jan 30 |
-| **[Virtua Health](https://www.virtua.org/)** | **[IT Technical Support Intern](https://jobright.ai/jobs/info/697cd0dd727747250d5785fc?utm_campaign=1058&utm_source=git)** | Marlton, NJ | On Site | Jan 30 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/697ccebf137a05102565c387?utm_campaign=1058&utm_source=git)** | Marlton, NJ | On Site | Jan 30 |
-| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Health & Safety](https://jobright.ai/jobs/info/697b39f01423772304eb62e0?utm_campaign=1058&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jan 30 |
-| **[Virtua Health](https://www.virtua.org/)** | **[IT Asset Management Intern](https://jobright.ai/jobs/info/697ccded137a05102565c2de?utm_campaign=1058&utm_source=git)** | Voorhees, NJ | On Site | Jan 30 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697ccb52727747250d5782c9?utm_campaign=1058&utm_source=git)** | Socorro, TX | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
