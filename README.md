@@ -57,19 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[PRIME AE Group, Inc.](http://primeeng.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/697d25943f57a3356966e024?utm_campaign=1058&utm_source=git)** | Maryland - Baltimore, Halethorpe, MD, US | On Site | Jan 30 |
+| **[UMB Bank](https://www.umb.com/)** | **[Shared Support Services Intern](https://jobright.ai/jobs/info/697d2c8b727747250d57f2a7?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Jan 30 |
+| **[Fuyao Glass Corporation of America](https://fuyaousa.com/)** | **[IT Intern - Campus Recruitment - IT Dept](https://jobright.ai/jobs/info/697d28cd727747250d57e90d?utm_campaign=1058&utm_source=git)** | Moraine, OH, US | On Site | Jan 30 |
 | **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Supplemental Specialty Pharmacy Intern](https://jobright.ai/jobs/info/697d2591137a05102566204b?utm_campaign=1058&utm_source=git)** | Katy, TX | On Site | Jan 30 |
-| **[PRIME AE Group, Inc.](http://primeeng.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/697d25293f57a3356966df23?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Jan 30 |
 | **[UMB Bank](https://www.umb.com/)** | **[Shared Support Services Intern](https://jobright.ai/jobs/info/697d2446137a051025661d4b?utm_campaign=1058&utm_source=git)** | Kansas City MO | Hybrid | Jan 30 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Technology Program](https://jobright.ai/jobs/info/697d23bf3f57a3356966dc14?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 30 |
-| **[PRIME AE Group, Inc.](http://primeeng.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/697d237f137a051025661ba2?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Jan 30 |
 | **[South Shore Health](https://www.southshorehealth.org/)** | **[PHARMACY TECHNICIAN INTERN](https://jobright.ai/jobs/info/697d2324727747250d57dbcd?utm_campaign=1058&utm_source=git)** | Weymouth, MA | On Site | Jan 30 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/697d21643f57a3356966d7ba?utm_campaign=1058&utm_source=git)** | Jonesboro, GA | On Site | Jan 30 |
-| **[PRIME AE Group, Inc.](http://primeeng.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/697d207a3f57a3356966d716?utm_campaign=1058&utm_source=git)** | Halethorpe, MD | On Site | Jan 30 |
 | **[VCU Health](https://www.vcuhealth.org)** | **[Student Intern - IT](https://jobright.ai/jobs/info/697d1ac7137a05102566123b?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Jan 30 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Respiratory Therapy Intern](https://jobright.ai/jobs/info/697d18bb3f57a3356966cf40?utm_campaign=1058&utm_source=git)** | Kokomo, IN | On Site | Jan 30 |
 | **[Meijer](https://www.meijer.com/)** | **[Intern Store Detective](https://jobright.ai/jobs/info/697d15283f57a3356966caca?utm_campaign=1058&utm_source=git)** | Louisville, KY | On Site | Jan 30 |
 | **[TTX Company](http://www.ttx.com)** | **[Year-Round Digital Ops Support Intern](https://jobright.ai/jobs/info/697d136e3f57a3356966c897?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Jan 30 |
+| **[PRIME AE Group, Inc.](http://primeeng.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/697d2e09727747250d57f6c8?utm_campaign=1058&utm_source=git)** | Florida - Jacksonville, Jacksonville, FL, US | On Site | Jan 30 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad - Sign-On Bonus &amp; Starting at $40.60 per hour](https://jobright.ai/jobs/info/697d0baf137a051025660103?utm_campaign=1058&utm_source=git)** | 1201 MILLER TRUNK HWY,DULUTH,MN,55811 | On Site | Jan 30 |
 | **[Igloo Products Corp.](http://www.igloocoolers.com)** | **[Customer Service & Call Center Analyst Intern](https://jobright.ai/jobs/info/697d0b94137a0510256600e0?utm_campaign=1058&utm_source=git)** | Katy, TX | Hybrid | Jan 30 |
 | **[Make-A-Wish Metro New York and Western New York](http://metrony.wish.org)** | **[Wish Assist Intern](https://jobright.ai/jobs/info/697d09183f57a3356966bd9b?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Respiratory Therapist Internship](https://jobright.ai/jobs/info/696098bc7ebc25398eb67b78?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Jan 30 |
 | **[Teledyne Judson Technologies](http://www.teledynejudson.com/)** | **[Intern Technical Service/ Customer Support](https://jobright.ai/jobs/info/697c7935727747250d5728c3?utm_campaign=1058&utm_source=git)** | Canada - Vancouver, BC | On Site | Jan 30 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/697c6272727747250d5710b9?utm_campaign=1058&utm_source=git)** | Vancouver, WA | On Site | Jan 29 |
+| ↳ | **[Pharmacist Intern](https://jobright.ai/jobs/info/697c5b343f57a33569660925?utm_campaign=1058&utm_source=git)** | Auburn, WA | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
