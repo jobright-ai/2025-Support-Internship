@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[SUMMER INTERN - INFORMATION TECHNOLOGY CLINICAL](https://jobright.ai/jobs/info/697a3730a5b9804527dffbc2?utm_campaign=1058&utm_source=git)** | Camden, NJ | On Site | Jan 31 |
+| ↳ | **[SUMMER INTERN - INFORMATION TECHNOLOGY](https://jobright.ai/jobs/info/697a230eb4589b4ee87c68d2?utm_campaign=1058&utm_source=git)** | Camden, NJ | On Site | Jan 31 |
 | **[EUA](http://www.eua.com/)** | **[Data Technology Student Intern](https://jobright.ai/jobs/info/697e301d7f40342e15d6fdfa?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Jan 31 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Field Service Representative (4 to 12-month) - Dartmouth, NS Canada / Moncton, NB](https://jobright.ai/jobs/info/697e235a7f40342e15d6faf2?utm_campaign=1058&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | Jan 31 |
 | **[Virtua Health](https://www.virtua.org/)** | **[IT Applications Intern](https://jobright.ai/jobs/info/697e2063ce48107c054260cc?utm_campaign=1058&utm_source=git)** | Marlton, NJ | On Site | Jan 31 |
@@ -71,8 +73,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/697e17d9ce48107c05425cbb?utm_campaign=1058&utm_source=git)** | Lemont, IL | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e17b5ce48107c05425caa?utm_campaign=1058&utm_source=git)** | Chino Hills, CA | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e178dce48107c05425c87?utm_campaign=1058&utm_source=git)** | Pomona, CA | On Site | Jan 31 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e173f7f40342e15d6f604?utm_campaign=1058&utm_source=git)** | Gaylord, MI | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e173f7f40342e15d6f603?utm_campaign=1058&utm_source=git)** | Gilbert, AZ | On Site | Jan 31 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e173f7f40342e15d6f604?utm_campaign=1058&utm_source=git)** | Gaylord, MI | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e16ff7f40342e15d6f5ef?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e16bece48107c05425c19?utm_campaign=1058&utm_source=git)** | Valdosta, GA | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697e169dce48107c05425c0d?utm_campaign=1058&utm_source=git)** | Roxbury Crossing, MA | On Site | Jan 31 |
@@ -138,6 +140,7 @@ For a complete list, click the following sortable link below:
 | **[ALO](https://www.aloyoga.com/)** | **[TechOps Intern](https://jobright.ai/jobs/info/697daac57f40342e15d69189?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
 | **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/695f2346a112b402660deccd?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | Jan 30 |
 | **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, IT Desktop Support](https://jobright.ai/jobs/info/697d9c7ece48107c0541eaec?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Jan 30 |
+| **[Monarch Investment and Management Group](https://www.mimginvestment.com/?utm_medium=organic+social&utm_source=linkedin&utm_content=homepage)** | **[IT, Information Technology Internship (Multifamily Housing Industry) (Summer 2026)](https://jobright.ai/jobs/info/697e33327f40342e15d70efa?utm_campaign=1058&utm_source=git)** | Franktown, CO | On Site | Jan 30 |
 | **[Pace Suburban Bus](https://pacebus.com)** | **[Taxi Rideshare Access Program Intern](https://jobright.ai/jobs/info/697d835babff4c399a9c3ba3?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
 | **[Brown University Health](https://www.brownhealth.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/697d63873f57a3356967458e?utm_campaign=1058&utm_source=git)** | Providence, RI | On Site | Jan 30 |
 | **[XPO](https://www.xpo.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/697d7b013f57a33569676438?utm_campaign=1058&utm_source=git)** | North Richland Hills, TX, US, 76180 | On Site | Jan 30 |
@@ -149,12 +152,9 @@ For a complete list, click the following sortable link below:
 | **[United Rentals](http://www.unitedrentals.com)** | **[Operations Support Intern](https://jobright.ai/jobs/info/697d646b727747250d58484b?utm_campaign=1058&utm_source=git)** | Columbia, MS | On Site | Jan 30 |
 | **[Suburban Hospital](http://www.suburbanhospital.org)** | **[Patient Care Tech Intern - PCT- Psych Safety Tech](https://jobright.ai/jobs/info/697d6387137a05102566841a?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Jan 30 |
 | **[Austin Regional Clinic: ARC](https://www.austinregionalclinic.com/)** | **[*Centralized HIM Intern](https://jobright.ai/jobs/info/697d6221137a051025668267?utm_campaign=1058&utm_source=git)** | Austin, Texas, United States | On Site | Jan 30 |
+| **[Wedgwood Christian Services](https://www.wedgwood.org)** | **[IT Helpdesk Internship (Fall 2026)](https://jobright.ai/jobs/info/697e38f4abff4c399a9d071f?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI, US | On Site | Jan 30 |
 | **[Construction Specialties](https://www.c-sgroup.com/)** | **[ServiceNow Data and Reporting Intern](https://jobright.ai/jobs/info/697d5f57727747250d58430d?utm_campaign=1058&utm_source=git)** | Lebanon, NJ | On Site | Jan 30 |
 | **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, IT Desktop Support](https://jobright.ai/jobs/info/697d5e563f57a3356967400f?utm_campaign=1058&utm_source=git)** | Richmond, VA, US | On Site | Jan 30 |
 | **[Construction Specialties](https://www.c-sgroup.com/)** | **[ServiceNow Data and Reporting Intern](https://jobright.ai/jobs/info/697d5c573f57a33569673dfe?utm_campaign=1058&utm_source=git)** | US-NJ-Lebanon | On Site | Jan 30 |
 | **[Monarch Investment and Management Group](https://www.mimginvestment.com/?utm_medium=organic+social&utm_source=linkedin&utm_content=homepage)** | **[IT, Information Technology Internship (Multifamily Housing Industry) (Summer 2026)](https://jobright.ai/jobs/info/697d5acd3f57a33569673c45?utm_campaign=1058&utm_source=git)** | Franktown, Colorado | On Site | Jan 30 |
-| **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/697ac08df6fc293b0a2cbb70?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Jan 30 |
-| **[Dexcom](http://www.dexcom.com)** | **[Intern I - Customer Experience Research + Insights](https://jobright.ai/jobs/info/697d7662727747250d585f15?utm_campaign=1058&utm_source=git)** | Remote - United States | Remote | Jan 30 |
-| **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[Surgery Summer Intern](https://jobright.ai/jobs/info/697d73b5727747250d585c68?utm_campaign=1058&utm_source=git)** | Toledo, OH | On Site | Jan 30 |
-| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943e68d94730b7398771073?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
