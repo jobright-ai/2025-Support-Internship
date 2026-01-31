@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Operations Support Intern](https://jobright.ai/jobs/info/697e5f5dce48107c05428c83?utm_campaign=1058&utm_source=git)** | Columbia, MS | On Site | Jan 31 |
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[IT Financial Applications Intern](https://jobright.ai/jobs/info/697e5c6eabff4c399a9d13c3?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | Hybrid | Jan 31 |
 | **[MemorialCare](https://www.memorialcare.org)** | **[Pharmacy Intern Per Diem](https://jobright.ai/jobs/info/69728e869b83b424830e7e55?utm_campaign=1058&utm_source=git)** | Fountain Valley, CA | On Site | Jan 31 |
 | **[JSM investments financial](https://www.linkedin.com/company/91304820)** | **[IT Helpdesk Intern (Unpaid) / Hybrid/Remote / Part-Time](https://jobright.ai/jobs/info/697e5543abff4c399a9d0dcb?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Austin Regional Clinic: ARC](https://www.austinregionalclinic.com/)** | **[*Centralized HIM Intern](https://jobright.ai/jobs/info/697d6221137a051025668267?utm_campaign=1058&utm_source=git)** | Austin, Texas, United States | On Site | Jan 30 |
 | **[Wedgwood Christian Services](https://www.wedgwood.org)** | **[IT Helpdesk Internship (Fall 2026)](https://jobright.ai/jobs/info/697e38f4abff4c399a9d071f?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI, US | On Site | Jan 30 |
 | **[Construction Specialties](https://www.c-sgroup.com/)** | **[ServiceNow Data and Reporting Intern](https://jobright.ai/jobs/info/697d5f57727747250d58430d?utm_campaign=1058&utm_source=git)** | Lebanon, NJ | On Site | Jan 30 |
-| **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, IT Desktop Support](https://jobright.ai/jobs/info/697d5e563f57a3356967400f?utm_campaign=1058&utm_source=git)** | Richmond, VA, US | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
