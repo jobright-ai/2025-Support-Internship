@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Austin Regional Clinic: ARC](https://www.austinregionalclinic.com/)** | **[*Centralized HIM Intern](https://jobright.ai/jobs/info/697daba57f40342e15d69264?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 30 |
+| **[ALO](https://www.aloyoga.com/)** | **[TechOps Intern](https://jobright.ai/jobs/info/697daac57f40342e15d69189?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
 | **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/695f2346a112b402660deccd?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | Jan 30 |
 | **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, IT Desktop Support](https://jobright.ai/jobs/info/697d9c7ece48107c0541eaec?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Jan 30 |
 | **[Monarch Investment and Management Group](https://www.mimginvestment.com/?utm_medium=organic+social&utm_source=linkedin&utm_content=homepage)** | **[IT, Information Technology Internship (Multifamily Housing Industry) (Summer 2026)](https://jobright.ai/jobs/info/697d98c97f40342e15d680f8?utm_campaign=1058&utm_source=git)** | Franktown, CO | On Site | Jan 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/697ccebf137a05102565c387?utm_campaign=1058&utm_source=git)** | Marlton, NJ | On Site | Jan 30 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Health & Safety](https://jobright.ai/jobs/info/697b39f01423772304eb62e0?utm_campaign=1058&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jan 30 |
 | **[Virtua Health](https://www.virtua.org/)** | **[IT Asset Management Intern](https://jobright.ai/jobs/info/697ccded137a05102565c2de?utm_campaign=1058&utm_source=git)** | Voorhees, NJ | On Site | Jan 30 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697ccb52727747250d5782c9?utm_campaign=1058&utm_source=git)** | Socorro, TX | On Site | Jan 30 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697ccb3a727747250d5782c0?utm_campaign=1058&utm_source=git)** | Cedarburg, WI | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
