@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Covenant Living Communities and Services](https://covliving.org/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/697db70cce48107c0542062d?utm_campaign=1058&utm_source=git)** | Skokie, IL | On Site | Jan 31 |
 | **[Austin Regional Clinic: ARC](https://www.austinregionalclinic.com/)** | **[*Centralized HIM Intern](https://jobright.ai/jobs/info/697daba57f40342e15d69264?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 30 |
 | **[ALO](https://www.aloyoga.com/)** | **[TechOps Intern](https://jobright.ai/jobs/info/697daac57f40342e15d69189?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
 | **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/695f2346a112b402660deccd?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | Jan 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Virtua Health](https://www.virtua.org/)** | **[IT Technical Support Intern](https://jobright.ai/jobs/info/697cd0dd727747250d5785fc?utm_campaign=1058&utm_source=git)** | Marlton, NJ | On Site | Jan 30 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/697ccebf137a05102565c387?utm_campaign=1058&utm_source=git)** | Marlton, NJ | On Site | Jan 30 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Intern, Health & Safety](https://jobright.ai/jobs/info/697b39f01423772304eb62e0?utm_campaign=1058&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jan 30 |
-| **[Virtua Health](https://www.virtua.org/)** | **[IT Asset Management Intern](https://jobright.ai/jobs/info/697ccded137a05102565c2de?utm_campaign=1058&utm_source=git)** | Voorhees, NJ | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
