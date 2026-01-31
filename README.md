@@ -57,19 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brown University Health](https://www.brownhealth.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/697d63873f57a3356967458e?utm_campaign=1058&utm_source=git)** | Providence, RI | On Site | Jan 30 |
+| **[XPO](https://www.xpo.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/697d7b013f57a33569676438?utm_campaign=1058&utm_source=git)** | North Richland Hills, TX, US, 76180 | On Site | Jan 30 |
+| **[ALO](https://www.aloyoga.com/)** | **[TechOps Intern](https://jobright.ai/jobs/info/697d73ef137a0510256696c8?utm_campaign=1058&utm_source=git)** | Beverly Hills, California, United States | On Site | Jan 30 |
+| **[Dexcom](http://www.dexcom.com)** | **[Intern I - Customer Experience Research + Insights](https://jobright.ai/jobs/info/697d73ec3f57a335696758b5?utm_campaign=1058&utm_source=git)** | United States | On Site | Jan 30 |
+| **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/697237d54ccbf64f8df226a6?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Jan 30 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Outsourced IT Intern (Summer 26)](https://jobright.ai/jobs/info/697d679e727747250d584c46?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | Jan 30 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[IT Intern](https://jobright.ai/jobs/info/697d65bb137a0510256686e6?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Jan 30 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Operations Support Intern](https://jobright.ai/jobs/info/697d646b727747250d58484b?utm_campaign=1058&utm_source=git)** | Columbia, MS | On Site | Jan 30 |
 | **[Suburban Hospital](http://www.suburbanhospital.org)** | **[Patient Care Tech Intern - PCT- Psych Safety Tech](https://jobright.ai/jobs/info/697d6387137a05102566841a?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Jan 30 |
-| **[Brown University Health](https://www.brownhealth.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/697d63873f57a3356967458e?utm_campaign=1058&utm_source=git)** | Providence, RI | On Site | Jan 30 |
 | **[Austin Regional Clinic: ARC](https://www.austinregionalclinic.com/)** | **[*Centralized HIM Intern](https://jobright.ai/jobs/info/697d6221137a051025668267?utm_campaign=1058&utm_source=git)** | Austin, Texas, United States | On Site | Jan 30 |
 | **[Construction Specialties](https://www.c-sgroup.com/)** | **[ServiceNow Data and Reporting Intern](https://jobright.ai/jobs/info/697d5f57727747250d58430d?utm_campaign=1058&utm_source=git)** | Lebanon, NJ | On Site | Jan 30 |
 | **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, IT Desktop Support](https://jobright.ai/jobs/info/697d5e563f57a3356967400f?utm_campaign=1058&utm_source=git)** | Richmond, VA, US | On Site | Jan 30 |
 | **[Construction Specialties](https://www.c-sgroup.com/)** | **[ServiceNow Data and Reporting Intern](https://jobright.ai/jobs/info/697d5c573f57a33569673dfe?utm_campaign=1058&utm_source=git)** | US-NJ-Lebanon | On Site | Jan 30 |
 | **[Monarch Investment and Management Group](https://www.mimginvestment.com/?utm_medium=organic+social&utm_source=linkedin&utm_content=homepage)** | **[IT, Information Technology Internship (Multifamily Housing Industry) (Summer 2026)](https://jobright.ai/jobs/info/697d5acd3f57a33569673c45?utm_campaign=1058&utm_source=git)** | Franktown, Colorado | On Site | Jan 30 |
 | **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/697ac08df6fc293b0a2cbb70?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Jan 30 |
+| **[Dexcom](http://www.dexcom.com)** | **[Intern I - Customer Experience Research + Insights](https://jobright.ai/jobs/info/697d7662727747250d585f15?utm_campaign=1058&utm_source=git)** | Remote - United States | Remote | Jan 30 |
+| **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[Surgery Summer Intern](https://jobright.ai/jobs/info/697d73b5727747250d585c68?utm_campaign=1058&utm_source=git)** | Toledo, OH | On Site | Jan 30 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943e68d94730b7398771073?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Jan 30 |
+| **[Covenant Living Communities and Services](https://covliving.org/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/697d7194727747250d585a50?utm_campaign=1058&utm_source=git)** | Covenant Living Communities and Services- Skokie, IL | On Site | Jan 30 |
 | **[Essentia Health](https://www.essentiahealth.org/)** | **[Inpatient Pharmacy Intern (0.3 FTE)](https://jobright.ai/jobs/info/697d4f7a137a051025665bc0?utm_campaign=1058&utm_source=git)** | Fargo, ND | On Site | Jan 30 |
+| **[The Shella Foundation](http://www.shellafoundation.org)** | **[Data Entry Intern](https://jobright.ai/jobs/info/697d6f2c137a051025669227?utm_campaign=1058&utm_source=git)** | South Carolina, South Carolina, United States | Remote | Jan 30 |
 | **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, IT Desktop Support](https://jobright.ai/jobs/info/697d64dc137a0510256685dd?utm_campaign=1058&utm_source=git)** | US-VA-Richmond | On Site | Jan 30 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/697d41f23f57a335696712ce?utm_campaign=1058&utm_source=git)** | Gilbertsville, PA | On Site | Jan 30 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/697d41e4137a0510256652b7?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Jan 30 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/697cc7e0137a05102565c043?utm_campaign=1058&utm_source=git)** | Belleville, IL | On Site | Jan 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697cc72b137a05102565c021?utm_campaign=1058&utm_source=git)** | Gulfport, MS | On Site | Jan 30 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697cc7043f57a33569667de4?utm_campaign=1058&utm_source=git)** | Wheat Ridge, CO | On Site | Jan 30 |
-| ↳ | **[Pharmacy Intern Grad - Sign-On Bonus & Relocation Available](https://jobright.ai/jobs/info/697cc6a03f57a33569667d80?utm_campaign=1058&utm_source=git)** | Houghton, MI | On Site | Jan 30 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697cc622137a05102565bf5f?utm_campaign=1058&utm_source=git)** | Ontario, CA | On Site | Jan 30 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697cc608727747250d577f8c?utm_campaign=1058&utm_source=git)** | Hazlet, NJ | On Site | Jan 30 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697cc5f33f57a33569667cc8?utm_campaign=1058&utm_source=git)** | Durango, CO | On Site | Jan 30 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697cc5f0727747250d577f73?utm_campaign=1058&utm_source=git)** | Clark, NJ | On Site | Jan 30 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697cc5463f57a33569667c2f?utm_campaign=1058&utm_source=git)** | Cave Creek, AZ | On Site | Jan 30 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697cc5333f57a33569667c21?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Jan 30 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697cc423137a05102565bdab?utm_campaign=1058&utm_source=git)** | Grand Junction, CO | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
