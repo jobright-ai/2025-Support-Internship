@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/695f2346a112b402660deccd?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | Jan 30 |
+| **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, IT Desktop Support](https://jobright.ai/jobs/info/697d9c7ece48107c0541eaec?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Jan 30 |
+| **[Monarch Investment and Management Group](https://www.mimginvestment.com/?utm_medium=organic+social&utm_source=linkedin&utm_content=homepage)** | **[IT, Information Technology Internship (Multifamily Housing Industry) (Summer 2026)](https://jobright.ai/jobs/info/697d98c97f40342e15d680f8?utm_campaign=1058&utm_source=git)** | Franktown, CO | On Site | Jan 30 |
 | **[Pace Suburban Bus](https://pacebus.com)** | **[Taxi Rideshare Access Program Intern](https://jobright.ai/jobs/info/697d835babff4c399a9c3ba3?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Jan 30 |
 | **[Brown University Health](https://www.brownhealth.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/697d63873f57a3356967458e?utm_campaign=1058&utm_source=git)** | Providence, RI | On Site | Jan 30 |
 | **[XPO](https://www.xpo.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/697d7b013f57a33569676438?utm_campaign=1058&utm_source=git)** | North Richland Hills, TX, US, 76180 | On Site | Jan 30 |
@@ -117,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Nemacolin](http://www.nemacolin.com)** | **[Event Concierge Intern](https://jobright.ai/jobs/info/697d4674137a0510256654be?utm_campaign=1058&utm_source=git)** | Farmington, PA | On Site | Jan 30 |
 | **[Carroll Electric Cooperative Corporation](https://www.carrollecc.com/)** | **[Customer Service Representative Intern](https://jobright.ai/jobs/info/697d38943f57a335696706eb?utm_campaign=1058&utm_source=git)** | Bentonville, AR | On Site | Jan 30 |
 | **[Fuyao Group](http://www.fuyaogroup.com)** | **[IT Intern - Campus Recruitment - IT Dept](https://jobright.ai/jobs/info/697d3f1f137a051025664fa8?utm_campaign=1058&utm_source=git)** | Moraine, OH, US | On Site | Jan 30 |
+| **[Banner Health](https://www.bannerhealth.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/697da008abff4c399a9c78c5?utm_campaign=1058&utm_source=git)** | Glendale, AZ | On Site | Jan 30 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad - Sign-On Bonus &amp; Starting at $40.60 per hour](https://jobright.ai/jobs/info/697d0baf137a051025660103?utm_campaign=1058&utm_source=git)** | 1201 MILLER TRUNK HWY,DULUTH,MN,55811 | On Site | Jan 30 |
 | **[Igloo Products Corp.](http://www.igloocoolers.com)** | **[Customer Service & Call Center Analyst Intern](https://jobright.ai/jobs/info/697d0b94137a0510256600e0?utm_campaign=1058&utm_source=git)** | Katy, TX | Hybrid | Jan 30 |
 | **[Make-A-Wish Metro New York and Western New York](http://metrony.wish.org)** | **[Wish Assist Intern](https://jobright.ai/jobs/info/697d09183f57a3356966bd9b?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Virtua Health](https://www.virtua.org/)** | **[IT Asset Management Intern](https://jobright.ai/jobs/info/697ccded137a05102565c2de?utm_campaign=1058&utm_source=git)** | Voorhees, NJ | On Site | Jan 30 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697ccb52727747250d5782c9?utm_campaign=1058&utm_source=git)** | Socorro, TX | On Site | Jan 30 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697ccb3a727747250d5782c0?utm_campaign=1058&utm_source=git)** | Cedarburg, WI | On Site | Jan 30 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697ccb1f727747250d5782ad?utm_campaign=1058&utm_source=git)** | Grand Junction, CO | On Site | Jan 30 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697cca3c727747250d578251?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Jan 30 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/697cca16727747250d578242?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Jan 30 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697cc8a23f57a33569667f79?utm_campaign=1058&utm_source=git)** | Ramsey, NJ | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
