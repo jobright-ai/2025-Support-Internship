@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Advanced Space](https://advancedspace.com/)** | **[2026 IT Support Spring Intern](https://jobright.ai/jobs/info/6945f4a063141d1884558b58?utm_campaign=1058&utm_source=git)** | Westminster, CO | On Site | Jan 31 |
+| **[Valvoline Global Operations](https://www.valvolineglobal.com/en)** | **[IT Intern](https://jobright.ai/jobs/info/691ada8915b415636718b3e6?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Jan 31 |
+| **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab63af6fc293b0a2cabf5?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695dc344efe5dd5cbd3d9d49?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Jan 31 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Mail Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6945db149516540735380b8c?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
 | **[NextGen Federal Systems](https://www.nextgenfed.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68b785e8f4e41a61efd999f6?utm_campaign=1058&utm_source=git)** | Morgantown, WV | Hybrid | Jan 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Flowers Hospital](https://www.flowershospital.com)** | **[Nurse Intern- Post Op Surgical](https://jobright.ai/jobs/info/697d1980137a051025661089?utm_campaign=1058&utm_source=git)** | Dothan, AL | On Site | Jan 30 |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Nurse Intern](https://jobright.ai/jobs/info/697d1d11137a051025661538?utm_campaign=1058&utm_source=git)** | Petoskey, MI | On Site | Jan 30 |
 | **[HELP USA](http://www.helpusa.org/)** | **[IT Intern (Desktop Support)](https://jobright.ai/jobs/info/697d1a93137a0510256611f2?utm_campaign=1058&utm_source=git)** | New York, NY, USA | On Site | Jan 30 |
-| **[United Rentals Europe](http://www.unitedrentals.com/en-gb)** | **[Operations Support Intern](https://jobright.ai/jobs/info/697d11013f57a3356966c5b0?utm_campaign=1058&utm_source=git)** | Columbia, MS, USA | On Site | Jan 30 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad - Sign-On Bonus &amp; Starting at $40.60 per hour](https://jobright.ai/jobs/info/697d1e3a727747250d57d7eb?utm_campaign=1058&utm_source=git)** | 421 PAUL BUNYAN DR NW,BEMIDJI,MN,56601-02435-09633-S | On Site | Jan 30 |
-| **[Make-A-Wish Metro New York and Western New York](http://metrony.wish.org)** | **[Mission Delivery Intern](https://jobright.ai/jobs/info/697d18063f57a3356966ce54?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
