@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695dc344efe5dd5cbd3d9d49?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Jan 31 |
+| **[Rocket](https://www.rocketcompanies.com/)** | **[Mail Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6945db149516540735380b8c?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
+| **[NextGen Federal Systems](https://www.nextgenfed.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/68b785e8f4e41a61efd999f6?utm_campaign=1058&utm_source=git)** | Morgantown, WV | Hybrid | Jan 31 |
+| **[Unified Women's Healthcare](https://unifiedwomenshealthcare.com)** | **[Mammography Technologist Intern R.T. to R.T (M)](https://jobright.ai/jobs/info/69618156f3f4cd1325067b50?utm_campaign=1058&utm_source=git)** | Novi, MI | On Site | Jan 31 |
+| **[Valley Baptist Health System](https://www.valleybaptist.net)** | **[Student Intern Surgical Tech](https://jobright.ai/jobs/info/690d15c1d046ab6061cf28ba?utm_campaign=1058&utm_source=git)** | Brownsville, TX | On Site | Jan 31 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, Facilities](https://jobright.ai/jobs/info/6961ab7ee7ed9a5731ba804e?utm_campaign=1058&utm_source=git)** | Verona, WI | On Site | Jan 31 |
 | **[Xometry](https://www.xometry.com)** | **[Manual Quoting Intern](https://jobright.ai/jobs/info/6945b432d1953b5d11beb164?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | Jan 31 |
 | ↳ | **[Manual Quoting Intern](https://jobright.ai/jobs/info/6945b2d763141d18845540c9?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 31 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United Rentals Europe](http://www.unitedrentals.com/en-gb)** | **[Operations Support Intern](https://jobright.ai/jobs/info/697d11013f57a3356966c5b0?utm_campaign=1058&utm_source=git)** | Columbia, MS, USA | On Site | Jan 30 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad - Sign-On Bonus &amp; Starting at $40.60 per hour](https://jobright.ai/jobs/info/697d1e3a727747250d57d7eb?utm_campaign=1058&utm_source=git)** | 421 PAUL BUNYAN DR NW,BEMIDJI,MN,56601-02435-09633-S | On Site | Jan 30 |
 | **[Make-A-Wish Metro New York and Western New York](http://metrony.wish.org)** | **[Mission Delivery Intern](https://jobright.ai/jobs/info/697d18063f57a3356966ce54?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 30 |
-| **[AtomVie Global Radiopharma Inc.](https://www.atomvie.com/)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/6958341d9f1b381eb2710f96?utm_campaign=1058&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Jan 30 |
-| **[The Hartford](http://www.thehartford.com)** | **[Intern, PL Western Claims](https://jobright.ai/jobs/info/697ce7b7137a05102565d0a1?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Jan 30 |
-| ↳ | **[Intern, PL Eastern Claims](https://jobright.ai/jobs/info/697ce6763f57a33569668f01?utm_campaign=1058&utm_source=git)** | Hartford, CT | On Site | Jan 30 |
-| ↳ | **[Intern, PL Eastern Claims](https://jobright.ai/jobs/info/697ce57f727747250d5790b3?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Jan 30 |
-| **[South Shore Health](https://www.southshorehealth.org/)** | **[PHARMACY TECHNICIAN INTERN](https://jobright.ai/jobs/info/697ce4d9137a05102565cefd?utm_campaign=1058&utm_source=git)** | Weymouth, MA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
