@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deepiri](https://deepiri.com)** | **[IT Support Intern (Read Description)](https://jobright.ai/jobs/info/697fca99abff4c399a9e676a?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 - 6-Month College Intern - Steamboat Springs, CO (Front Office)](https://jobright.ai/jobs/info/697fb6ddabff4c399a9e3ee8?utm_campaign=1058&utm_source=git)** | Steamboat Springs, CO | On Site | Feb 01 |
+| **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[CUSTOMER PROGRAMS INTERN](https://jobright.ai/jobs/info/697fd45f7f40342e15d8882d?utm_campaign=1058&utm_source=git)** | Fayetteville, NC, United States | On Site | Feb 01 |
+| **[Corewell Health](https://corewellhealth.org)** | **[Inpatient Pharmacy Technician Intern Grand Rapids Class of 2030 Students](https://jobright.ai/jobs/info/697fd298abff4c399a9e7673?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Feb 01 |
 | **[Sigma](http://sigmacomputing.com)** | **[Technical Writing Intern (Summer 2026)](https://jobright.ai/jobs/info/697fae1dabff4c399a9e3cbb?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943a5e5dd382f5f5669c041?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 01 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 - 6-Month College Intern - Steamboat Springs, CO (Front Office)](https://jobright.ai/jobs/info/697f92a6abff4c399a9e3339?utm_campaign=1058&utm_source=git)** | Sheraton Steamboat Resort Villas | On Site | Feb 01 |
@@ -121,8 +124,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/697e17d9ce48107c05425cbb?utm_campaign=1058&utm_source=git)** | Lemont, IL | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e17b5ce48107c05425caa?utm_campaign=1058&utm_source=git)** | Chino Hills, CA | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e178dce48107c05425c87?utm_campaign=1058&utm_source=git)** | Pomona, CA | On Site | Jan 31 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e173f7f40342e15d6f604?utm_campaign=1058&utm_source=git)** | Gaylord, MI | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e173f7f40342e15d6f603?utm_campaign=1058&utm_source=git)** | Gilbert, AZ | On Site | Jan 31 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e173f7f40342e15d6f604?utm_campaign=1058&utm_source=git)** | Gaylord, MI | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e16ff7f40342e15d6f5ef?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e16bece48107c05425c19?utm_campaign=1058&utm_source=git)** | Valdosta, GA | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697e169dce48107c05425c0d?utm_campaign=1058&utm_source=git)** | Roxbury Crossing, MA | On Site | Jan 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e0f32abff4c399a9cdfe4?utm_campaign=1058&utm_source=git)** | Madera, CA | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e0effabff4c399a9cdfc9?utm_campaign=1058&utm_source=git)** | Cheboygan, MI | On Site | Jan 31 |
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Helpdesk Support Intern](https://jobright.ai/jobs/info/69282c1af0beb0723262f9bf?utm_campaign=1058&utm_source=git)** | South Sioux City, NE | On Site | Jan 31 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e0ebfabff4c399a9cdf97?utm_campaign=1058&utm_source=git)** | Lakeland, FL | On Site | Jan 31 |
-| **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[Computer Systems Technology Co-op Student – 8 Months (May 2026 Start)](https://jobright.ai/jobs/info/696c5be0350cf43803137539?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 31 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Plant Systems Intern](https://jobright.ai/jobs/info/6961893ef3f4cd13250697ca?utm_campaign=1058&utm_source=git)** | Shippensburg, PA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
