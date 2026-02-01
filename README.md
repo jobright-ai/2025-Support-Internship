@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 - 6-Month College Intern - Steamboat Springs, CO (Front Office)](https://jobright.ai/jobs/info/697fb6ddabff4c399a9e3ee8?utm_campaign=1058&utm_source=git)** | Steamboat Springs, CO | On Site | Feb 01 |
+| **[Sigma](http://sigmacomputing.com)** | **[Technical Writing Intern (Summer 2026)](https://jobright.ai/jobs/info/697fae1dabff4c399a9e3cbb?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943a5e5dd382f5f5669c041?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 01 |
-| **[Sigma](http://sigmacomputing.com)** | **[Technical Writing Intern (Summer 2026)](https://jobright.ai/jobs/info/697f9b40ce48107c0543a50c?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 - 6-Month College Intern - Steamboat Springs, CO (Front Office)](https://jobright.ai/jobs/info/697f92a6abff4c399a9e3339?utm_campaign=1058&utm_source=git)** | Sheraton Steamboat Resort Villas | On Site | Feb 01 |
 | **[SHR (Spectrum Healthcare Resources)](https://www.spectrumhealth.com/)** | **[Internal Medicine Physician](https://jobright.ai/jobs/info/697f8190abff4c399a9e1825?utm_campaign=1058&utm_source=git)** | Montevideo, MN | On Site | Feb 01 |
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Intern, Technology Service Desk  (Houston, TX)](https://jobright.ai/jobs/info/6920312ba49a885af9a37631?utm_campaign=1058&utm_source=git)** | Houston | Remote | Feb 01 |
@@ -88,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Mortgage Post Closing Intern](https://jobright.ai/jobs/info/697f4579abff4c399a9dec06?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Feb 01 |
 | ↳ | **[Member Assistance Center Intern](https://jobright.ai/jobs/info/697f4515ce48107c05435e2f?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Feb 01 |
 | ↳ | **[Mortgage Operations Intern](https://jobright.ai/jobs/info/697f44f5abff4c399a9debf7?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Feb 01 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I](https://jobright.ai/jobs/info/68d77b88267b154f9a2da486?utm_campaign=1058&utm_source=git)** | Meridian, MS | On Site | Feb 01 |
 | **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Guest Service](https://jobright.ai/jobs/info/696417a225e1871507809d7c?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 01 |
 | ↳ | **[Intern - Guest Services](https://jobright.ai/jobs/info/693ca04f49a7695fbd036e8d?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 01 |
 | **[Baptist Health](https://www.baptist-health.com/)** | **[Information Services Intern](https://jobright.ai/jobs/info/697f2a757f40342e15d7e871?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Feb 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Helpdesk Support Intern](https://jobright.ai/jobs/info/69282c1af0beb0723262f9bf?utm_campaign=1058&utm_source=git)** | South Sioux City, NE | On Site | Jan 31 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e0ebfabff4c399a9cdf97?utm_campaign=1058&utm_source=git)** | Lakeland, FL | On Site | Jan 31 |
 | **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[Computer Systems Technology Co-op Student – 8 Months (May 2026 Start)](https://jobright.ai/jobs/info/696c5be0350cf43803137539?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 31 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Plant Systems Intern](https://jobright.ai/jobs/info/6961893ef3f4cd13250697ca?utm_campaign=1058&utm_source=git)** | Shippensburg, PA | On Site | Jan 31 |
-| **[Advanced Space](https://advancedspace.com/)** | **[2026 IT Support Spring Intern](https://jobright.ai/jobs/info/6945f4a063141d1884558b58?utm_campaign=1058&utm_source=git)** | Westminster, CO | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
