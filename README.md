@@ -96,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Sarasota Memorial Health Care System](https://www.smh.com/)** | **[Cardiovascular Services Intern](https://jobright.ai/jobs/info/697f29a97f40342e15d7e63d?utm_campaign=1058&utm_source=git)** | Nokomis, FL | On Site | Feb 01 |
 | **[Campbell County Health](https://www.cchwyo.org/)** | **[PHARMACY INTERN](https://jobright.ai/jobs/info/697f23e57f40342e15d7d857?utm_campaign=1058&utm_source=git)** | Gillette, WY | On Site | Feb 01 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[IT Intern](https://jobright.ai/jobs/info/697f0d98abff4c399a9db804?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Feb 01 |
-| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Gastro - APRN/PA - Instrc. I - Internal Medicine](https://jobright.ai/jobs/info/697f03dc7f40342e15d7c047?utm_campaign=1058&utm_source=git)** | Florida, United States | On Site | Jan 31 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/697ef68c7f40342e15d7b0c6?utm_campaign=1058&utm_source=git)** | Coos Bay, OR | On Site | Jan 31 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Resident Intern RN OR](https://jobright.ai/jobs/info/697ec078abff4c399a9d630c?utm_campaign=1058&utm_source=git)** | Thornton, CO | On Site | Jan 31 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern - TeleHealth](https://jobright.ai/jobs/info/697ea2edabff4c399a9d4f60?utm_campaign=1058&utm_source=git)** | Portland, ME | On Site | Jan 31 |
@@ -122,8 +121,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/697e17d9ce48107c05425cbb?utm_campaign=1058&utm_source=git)** | Lemont, IL | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e17b5ce48107c05425caa?utm_campaign=1058&utm_source=git)** | Chino Hills, CA | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e178dce48107c05425c87?utm_campaign=1058&utm_source=git)** | Pomona, CA | On Site | Jan 31 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e173f7f40342e15d6f603?utm_campaign=1058&utm_source=git)** | Gilbert, AZ | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e173f7f40342e15d6f604?utm_campaign=1058&utm_source=git)** | Gaylord, MI | On Site | Jan 31 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e173f7f40342e15d6f603?utm_campaign=1058&utm_source=git)** | Gilbert, AZ | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e16ff7f40342e15d6f5ef?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e16bece48107c05425c19?utm_campaign=1058&utm_source=git)** | Valdosta, GA | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697e169dce48107c05425c0d?utm_campaign=1058&utm_source=git)** | Roxbury Crossing, MA | On Site | Jan 31 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Helpdesk Support Intern](https://jobright.ai/jobs/info/69282c1af0beb0723262f9bf?utm_campaign=1058&utm_source=git)** | South Sioux City, NE | On Site | Jan 31 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e0ebfabff4c399a9cdf97?utm_campaign=1058&utm_source=git)** | Lakeland, FL | On Site | Jan 31 |
 | **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[Computer Systems Technology Co-op Student – 8 Months (May 2026 Start)](https://jobright.ai/jobs/info/696c5be0350cf43803137539?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 31 |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Plant Systems Intern](https://jobright.ai/jobs/info/6961893ef3f4cd13250697ca?utm_campaign=1058&utm_source=git)** | Shippensburg, PA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
