@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Campbell County Health](https://www.cchwyo.org/)** | **[PHARMACY INTERN](https://jobright.ai/jobs/info/697f23e57f40342e15d7d857?utm_campaign=1058&utm_source=git)** | Gillette, WY | On Site | Feb 01 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/697f0e117f40342e15d7c84e?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 01 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[IT Intern](https://jobright.ai/jobs/info/697f0d98abff4c399a9db804?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Feb 01 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Gastro - APRN/PA - Instrc. I - Internal Medicine](https://jobright.ai/jobs/info/697f03dc7f40342e15d7c047?utm_campaign=1058&utm_source=git)** | Florida, United States | On Site | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ALO](https://www.aloyoga.com/)** | **[TechOps Intern](https://jobright.ai/jobs/info/697d73ef137a0510256696c8?utm_campaign=1058&utm_source=git)** | Beverly Hills, California, United States | On Site | Jan 30 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Customer Experience Research + Insights](https://jobright.ai/jobs/info/697d73ec3f57a335696758b5?utm_campaign=1058&utm_source=git)** | United States | On Site | Jan 30 |
 | **[Coastal Carolina University](http://www.coastal.edu/)** | **[Information Technology Assistant (Level I) - ITS (Student Employee)](https://jobright.ai/jobs/info/69682650639b452fb57db694?utm_campaign=1058&utm_source=git)** | Conway, SC | On Site | Jan 30 |
-| **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/697237d54ccbf64f8df226a6?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
