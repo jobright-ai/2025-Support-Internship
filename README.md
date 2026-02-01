@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sika](http://www.sika.com/)** | **[INTERNSHIP: Customer Service Representative (4 months)](https://jobright.ai/jobs/info/6977c33588e2b47213bbb8a8?utm_campaign=1058&utm_source=git)** | Brantford, Ontario, Canada | On Site | Jan 31 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695ab318aa05c26e7ab4364b?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 31 |
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Operations Support Intern](https://jobright.ai/jobs/info/697e5f5dce48107c05428c83?utm_campaign=1058&utm_source=git)** | Columbia, MS | On Site | Jan 31 |
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[IT Financial Applications Intern](https://jobright.ai/jobs/info/697e5c6eabff4c399a9d13c3?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | Hybrid | Jan 31 |
@@ -138,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Camping World](https://investor.campingworld.com)** | **[Office 365 Intern](https://jobright.ai/jobs/info/697dd9807f40342e15d6c6d3?utm_campaign=1058&utm_source=git)** | Lincolnshire, IL | Hybrid | Jan 31 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/6977dc8a88e2b47213bbd819?utm_campaign=1058&utm_source=git)** | Fond du Lac, WI | Hybrid | Jan 31 |
 | **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern  P1 Contingent Rotate](https://jobright.ai/jobs/info/696188ada112b40266101db5?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
-| **[Baptist Health](https://www.baptist-health.com/)** | **[Information Services Intern](https://jobright.ai/jobs/info/697decae7f40342e15d6ca31?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Jan 31 |
 | **[Covenant Living Communities and Services](https://covliving.org/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/697db70cce48107c0542062d?utm_campaign=1058&utm_source=git)** | Skokie, IL | On Site | Jan 31 |
 | **[Austin Regional Clinic: ARC](https://www.austinregionalclinic.com/)** | **[*Centralized HIM Intern](https://jobright.ai/jobs/info/697daba57f40342e15d69264?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 30 |
 | **[ALO](https://www.aloyoga.com/)** | **[TechOps Intern](https://jobright.ai/jobs/info/697daac57f40342e15d69189?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
