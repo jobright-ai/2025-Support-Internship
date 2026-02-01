@@ -81,8 +81,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/697e17d9ce48107c05425cbb?utm_campaign=1058&utm_source=git)** | Lemont, IL | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e17b5ce48107c05425caa?utm_campaign=1058&utm_source=git)** | Chino Hills, CA | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e178dce48107c05425c87?utm_campaign=1058&utm_source=git)** | Pomona, CA | On Site | Jan 31 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e173f7f40342e15d6f604?utm_campaign=1058&utm_source=git)** | Gaylord, MI | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e173f7f40342e15d6f603?utm_campaign=1058&utm_source=git)** | Gilbert, AZ | On Site | Jan 31 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e173f7f40342e15d6f604?utm_campaign=1058&utm_source=git)** | Gaylord, MI | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e16ff7f40342e15d6f5ef?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e16bece48107c05425c19?utm_campaign=1058&utm_source=git)** | Valdosta, GA | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697e169dce48107c05425c0d?utm_campaign=1058&utm_source=git)** | Roxbury Crossing, MA | On Site | Jan 31 |
@@ -139,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Oliver Wyman](http://www.oliverwyman.com)** | **[Oliver Wyman -Vector- Customer Support and Product Ownership Intern](https://jobright.ai/jobs/info/696157a3e7ed9a5731ba1da9?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
 | **[Camping World](https://investor.campingworld.com)** | **[Office 365 Intern](https://jobright.ai/jobs/info/697dd9807f40342e15d6c6d3?utm_campaign=1058&utm_source=git)** | Lincolnshire, IL | Hybrid | Jan 31 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/6977dc8a88e2b47213bbd819?utm_campaign=1058&utm_source=git)** | Fond du Lac, WI | Hybrid | Jan 31 |
+| **[The Medical Affairs Company (TMAC)](http://www.themedicalaffairscompany.com)** | **[Medical Information Contact Center Intern](https://jobright.ai/jobs/info/697eda9dabff4c399a9d831b?utm_campaign=1058&utm_source=git)** | Kennesaw, GA | On Site | Jan 31 |
 | **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern  P1 Contingent Rotate](https://jobright.ai/jobs/info/696188ada112b40266101db5?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
 | **[Covenant Living Communities and Services](https://covliving.org/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/697db70cce48107c0542062d?utm_campaign=1058&utm_source=git)** | Skokie, IL | On Site | Jan 31 |
 | **[Austin Regional Clinic: ARC](https://www.austinregionalclinic.com/)** | **[*Centralized HIM Intern](https://jobright.ai/jobs/info/697daba57f40342e15d69264?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Jan 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United Rentals](http://www.unitedrentals.com)** | **[Operations Support Intern](https://jobright.ai/jobs/info/697d646b727747250d58484b?utm_campaign=1058&utm_source=git)** | Columbia, MS | On Site | Jan 30 |
 | **[Suburban Hospital](http://www.suburbanhospital.org)** | **[Patient Care Tech Intern - PCT- Psych Safety Tech](https://jobright.ai/jobs/info/697d6387137a05102566841a?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Jan 30 |
 | **[Austin Regional Clinic: ARC](https://www.austinregionalclinic.com/)** | **[*Centralized HIM Intern](https://jobright.ai/jobs/info/697d6221137a051025668267?utm_campaign=1058&utm_source=git)** | Austin, Texas, United States | On Site | Jan 30 |
-| **[Wedgwood Christian Services](https://www.wedgwood.org)** | **[IT Helpdesk Internship (Fall 2026)](https://jobright.ai/jobs/info/697e38f4abff4c399a9d071f?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI, US | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
