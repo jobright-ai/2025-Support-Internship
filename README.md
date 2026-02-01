@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943a5e5dd382f5f5669c041?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 01 |
+| **[Sigma](http://sigmacomputing.com)** | **[Technical Writing Intern (Summer 2026)](https://jobright.ai/jobs/info/697f9b40ce48107c0543a50c?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
+| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 - 6-Month College Intern - Steamboat Springs, CO (Front Office)](https://jobright.ai/jobs/info/697f92a6abff4c399a9e3339?utm_campaign=1058&utm_source=git)** | Sheraton Steamboat Resort Villas | On Site | Feb 01 |
 | **[SHR (Spectrum Healthcare Resources)](https://www.spectrumhealth.com/)** | **[Internal Medicine Physician](https://jobright.ai/jobs/info/697f8190abff4c399a9e1825?utm_campaign=1058&utm_source=git)** | Montevideo, MN | On Site | Feb 01 |
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Intern, Technology Service Desk  (Houston, TX)](https://jobright.ai/jobs/info/6920312ba49a885af9a37631?utm_campaign=1058&utm_source=git)** | Houston | Remote | Feb 01 |
 | **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Software Applications Support Intern](https://jobright.ai/jobs/info/697f71b87f40342e15d82551?utm_campaign=1058&utm_source=git)** | Richmond, VA | Hybrid | Feb 01 |
@@ -90,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health](https://www.baptist-health.com/)** | **[Information Services Intern](https://jobright.ai/jobs/info/697f2a757f40342e15d7e871?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Feb 01 |
 | **[Sarasota Memorial Health Care System](https://www.smh.com/)** | **[Cardiovascular Services Intern](https://jobright.ai/jobs/info/697f29a97f40342e15d7e63d?utm_campaign=1058&utm_source=git)** | Nokomis, FL | On Site | Feb 01 |
 | **[Campbell County Health](https://www.cchwyo.org/)** | **[PHARMACY INTERN](https://jobright.ai/jobs/info/697f23e57f40342e15d7d857?utm_campaign=1058&utm_source=git)** | Gillette, WY | On Site | Feb 01 |
-| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/697f0e117f40342e15d7c84e?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 01 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[IT Intern](https://jobright.ai/jobs/info/697f0d98abff4c399a9db804?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Feb 01 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Gastro - APRN/PA - Instrc. I - Internal Medicine](https://jobright.ai/jobs/info/697f03dc7f40342e15d7c047?utm_campaign=1058&utm_source=git)** | Florida, United States | On Site | Jan 31 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/697ef68c7f40342e15d7b0c6?utm_campaign=1058&utm_source=git)** | Coos Bay, OR | On Site | Jan 31 |
@@ -118,8 +120,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/697e17d9ce48107c05425cbb?utm_campaign=1058&utm_source=git)** | Lemont, IL | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e17b5ce48107c05425caa?utm_campaign=1058&utm_source=git)** | Chino Hills, CA | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e178dce48107c05425c87?utm_campaign=1058&utm_source=git)** | Pomona, CA | On Site | Jan 31 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e173f7f40342e15d6f604?utm_campaign=1058&utm_source=git)** | Gaylord, MI | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e173f7f40342e15d6f603?utm_campaign=1058&utm_source=git)** | Gilbert, AZ | On Site | Jan 31 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e173f7f40342e15d6f604?utm_campaign=1058&utm_source=git)** | Gaylord, MI | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e16ff7f40342e15d6f5ef?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e16bece48107c05425c19?utm_campaign=1058&utm_source=git)** | Valdosta, GA | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697e169dce48107c05425c0d?utm_campaign=1058&utm_source=git)** | Roxbury Crossing, MA | On Site | Jan 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[Computer Systems Technology Co-op Student – 8 Months (May 2026 Start)](https://jobright.ai/jobs/info/696c5be0350cf43803137539?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 31 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Plant Systems Intern](https://jobright.ai/jobs/info/6961893ef3f4cd13250697ca?utm_campaign=1058&utm_source=git)** | Shippensburg, PA | On Site | Jan 31 |
 | **[Advanced Space](https://advancedspace.com/)** | **[2026 IT Support Spring Intern](https://jobright.ai/jobs/info/6945f4a063141d1884558b58?utm_campaign=1058&utm_source=git)** | Westminster, CO | On Site | Jan 31 |
-| **[Valvoline Global Operations](https://www.valvolineglobal.com/en)** | **[IT Intern](https://jobright.ai/jobs/info/691ada8915b415636718b3e6?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Jan 31 |
-| **[Schindler Group](http://www.schindler.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/697ab63af6fc293b0a2cabf5?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
