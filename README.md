@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Resident Intern RN OR](https://jobright.ai/jobs/info/697ec078abff4c399a9d630c?utm_campaign=1058&utm_source=git)** | Thornton, CO | On Site | Jan 31 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern - TeleHealth](https://jobright.ai/jobs/info/697ea2edabff4c399a9d4f60?utm_campaign=1058&utm_source=git)** | Portland, ME | On Site | Jan 31 |
 | **[Sika](http://www.sika.com/)** | **[INTERNSHIP: Customer Service Representative (4 months)](https://jobright.ai/jobs/info/6977c33588e2b47213bbb8a8?utm_campaign=1058&utm_source=git)** | Brantford, Ontario, Canada | On Site | Jan 31 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695ab318aa05c26e7ab4364b?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 31 |
@@ -152,7 +153,6 @@ For a complete list, click the following sortable link below:
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Customer Experience Research + Insights](https://jobright.ai/jobs/info/697d73ec3f57a335696758b5?utm_campaign=1058&utm_source=git)** | United States | On Site | Jan 30 |
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Technical Writing Intern](https://jobright.ai/jobs/info/697237d54ccbf64f8df226a6?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Jan 30 |
 | **[Eide Bailly LLP](http://www.eidebailly.com)** | **[Outsourced IT Intern (Summer 26)](https://jobright.ai/jobs/info/697d679e727747250d584c46?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | Jan 30 |
-| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[IT Intern](https://jobright.ai/jobs/info/697d65bb137a0510256686e6?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Jan 30 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Operations Support Intern](https://jobright.ai/jobs/info/697d646b727747250d58484b?utm_campaign=1058&utm_source=git)** | Columbia, MS | On Site | Jan 30 |
 | **[Suburban Hospital](http://www.suburbanhospital.org)** | **[Patient Care Tech Intern - PCT- Psych Safety Tech](https://jobright.ai/jobs/info/697d6387137a05102566841a?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Jan 30 |
 | **[Austin Regional Clinic: ARC](https://www.austinregionalclinic.com/)** | **[*Centralized HIM Intern](https://jobright.ai/jobs/info/697d6221137a051025668267?utm_campaign=1058&utm_source=git)** | Austin, Texas, United States | On Site | Jan 30 |
