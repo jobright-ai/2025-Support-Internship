@@ -80,8 +80,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/697e17d9ce48107c05425cbb?utm_campaign=1058&utm_source=git)** | Lemont, IL | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e17b5ce48107c05425caa?utm_campaign=1058&utm_source=git)** | Chino Hills, CA | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e178dce48107c05425c87?utm_campaign=1058&utm_source=git)** | Pomona, CA | On Site | Jan 31 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e173f7f40342e15d6f604?utm_campaign=1058&utm_source=git)** | Gaylord, MI | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e173f7f40342e15d6f603?utm_campaign=1058&utm_source=git)** | Gilbert, AZ | On Site | Jan 31 |
+| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e173f7f40342e15d6f604?utm_campaign=1058&utm_source=git)** | Gaylord, MI | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e16ff7f40342e15d6f5ef?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e16bece48107c05425c19?utm_campaign=1058&utm_source=git)** | Valdosta, GA | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697e169dce48107c05425c0d?utm_campaign=1058&utm_source=git)** | Roxbury Crossing, MA | On Site | Jan 31 |
