@@ -65,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[CUSTOMER PROGRAMS INTERN](https://jobright.ai/jobs/info/697fd45f7f40342e15d8882d?utm_campaign=1058&utm_source=git)** | Fayetteville, NC, United States | On Site | Feb 01 |
 | **[Sigma](http://sigmacomputing.com)** | **[Technical Writing Intern (Summer 2026)](https://jobright.ai/jobs/info/697fae1dabff4c399a9e3cbb?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943a5e5dd382f5f5669c041?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 01 |
+| **[Sigma](http://sigmacomputing.com)** | **[Technical Writing Intern (Summer 2026)](https://jobright.ai/jobs/info/697f9b40ce48107c0543a50c?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 - 6-Month College Intern - Steamboat Springs, CO (Front Office)](https://jobright.ai/jobs/info/697f92a6abff4c399a9e3339?utm_campaign=1058&utm_source=git)** | Sheraton Steamboat Resort Villas | On Site | Feb 01 |
 | **[SHR (Spectrum Healthcare Resources)](https://www.spectrumhealth.com/)** | **[Internal Medicine Physician](https://jobright.ai/jobs/info/697f8190abff4c399a9e1825?utm_campaign=1058&utm_source=git)** | Montevideo, MN | On Site | Feb 01 |
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Intern, Technology Service Desk  (Houston, TX)](https://jobright.ai/jobs/info/6920312ba49a885af9a37631?utm_campaign=1058&utm_source=git)** | Houston | Remote | Feb 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e1020abff4c399a9ce0ce?utm_campaign=1058&utm_source=git)** | Valparaiso, IN | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e0fdbabff4c399a9ce082?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e0f8fabff4c399a9ce041?utm_campaign=1058&utm_source=git)** | Sault Ste. Marie, MI | On Site | Jan 31 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e0f72abff4c399a9ce021?utm_campaign=1058&utm_source=git)** | Schererville, IN | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
