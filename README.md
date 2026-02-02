@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Interra Credit Union](http://interracu.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/697fff55abff4c399a9eb91a?utm_campaign=1058&utm_source=git)** | Goshen, Indiana, United States | On Site | Feb 01 |
+| **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Per Diem Pharmacy Intern; Mount Sinai Hospital](https://jobright.ai/jobs/info/697ff2197f40342e15d8a8f5?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 01 |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Information Systems IT Leadership Intern](https://jobright.ai/jobs/info/697fef5fce48107c05440bf2?utm_campaign=1058&utm_source=git)** | Cherry Valley, IL | On Site | Feb 01 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Medication History Pharmacy Intern Class of 2028 Students](https://jobright.ai/jobs/info/697fde227f40342e15d89571?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Feb 01 |
-| **[Deepiri](https://deepiri.com)** | **[IT Support Intern (Read Description)](https://jobright.ai/jobs/info/697fca99abff4c399a9e676a?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 - 6-Month College Intern - Steamboat Springs, CO (Front Office)](https://jobright.ai/jobs/info/697fb6ddabff4c399a9e3ee8?utm_campaign=1058&utm_source=git)** | Steamboat Springs, CO | On Site | Feb 01 |
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[CUSTOMER PROGRAMS INTERN](https://jobright.ai/jobs/info/697fd45f7f40342e15d8882d?utm_campaign=1058&utm_source=git)** | Fayetteville, NC, United States | On Site | Feb 01 |
 | **[Sigma](http://sigmacomputing.com)** | **[Technical Writing Intern (Summer 2026)](https://jobright.ai/jobs/info/697fae1dabff4c399a9e3cbb?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
@@ -96,13 +98,13 @@ For a complete list, click the following sortable link below:
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I](https://jobright.ai/jobs/info/68d77b88267b154f9a2da486?utm_campaign=1058&utm_source=git)** | Meridian, MS | On Site | Feb 01 |
 | **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Guest Service](https://jobright.ai/jobs/info/696417a225e1871507809d7c?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 01 |
 | ↳ | **[Intern - Guest Services](https://jobright.ai/jobs/info/693ca04f49a7695fbd036e8d?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 01 |
-| **[Baptist Health](https://www.baptist-health.com/)** | **[Information Services Intern](https://jobright.ai/jobs/info/697f2a757f40342e15d7e871?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Feb 01 |
 | **[Sarasota Memorial Health Care System](https://www.smh.com/)** | **[Cardiovascular Services Intern](https://jobright.ai/jobs/info/697f29a97f40342e15d7e63d?utm_campaign=1058&utm_source=git)** | Nokomis, FL | On Site | Feb 01 |
 | **[Campbell County Health](https://www.cchwyo.org/)** | **[PHARMACY INTERN](https://jobright.ai/jobs/info/697f23e57f40342e15d7d857?utm_campaign=1058&utm_source=git)** | Gillette, WY | On Site | Feb 01 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[IT Intern](https://jobright.ai/jobs/info/697f0d98abff4c399a9db804?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Feb 01 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/697ef68c7f40342e15d7b0c6?utm_campaign=1058&utm_source=git)** | Coos Bay, OR | On Site | Jan 31 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Resident Intern RN OR](https://jobright.ai/jobs/info/697ec078abff4c399a9d630c?utm_campaign=1058&utm_source=git)** | Thornton, CO | On Site | Jan 31 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern - TeleHealth](https://jobright.ai/jobs/info/697ea2edabff4c399a9d4f60?utm_campaign=1058&utm_source=git)** | Portland, ME | On Site | Jan 31 |
+| **[Interra Credit Union](http://interracu.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/697ff02bce48107c05440cf0?utm_campaign=1058&utm_source=git)** | Goshen, IN | On Site | Jan 31 |
 | **[Sika](http://www.sika.com/)** | **[INTERNSHIP: Customer Service Representative (4 months)](https://jobright.ai/jobs/info/6977c33588e2b47213bbb8a8?utm_campaign=1058&utm_source=git)** | Brantford, Ontario, Canada | On Site | Jan 31 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695ab318aa05c26e7ab4364b?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 31 |
 | **[United Rentals Life](http://jobs.unitedrentals.com)** | **[Operations Support Intern](https://jobright.ai/jobs/info/697e5f5dce48107c05428c83?utm_campaign=1058&utm_source=git)** | Columbia, MS | On Site | Jan 31 |
@@ -125,8 +127,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/697e17d9ce48107c05425cbb?utm_campaign=1058&utm_source=git)** | Lemont, IL | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e17b5ce48107c05425caa?utm_campaign=1058&utm_source=git)** | Chino Hills, CA | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e178dce48107c05425c87?utm_campaign=1058&utm_source=git)** | Pomona, CA | On Site | Jan 31 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e173f7f40342e15d6f603?utm_campaign=1058&utm_source=git)** | Gilbert, AZ | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e173f7f40342e15d6f604?utm_campaign=1058&utm_source=git)** | Gaylord, MI | On Site | Jan 31 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e173f7f40342e15d6f603?utm_campaign=1058&utm_source=git)** | Gilbert, AZ | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e16ff7f40342e15d6f5ef?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e16bece48107c05425c19?utm_campaign=1058&utm_source=git)** | Valdosta, GA | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697e169dce48107c05425c0d?utm_campaign=1058&utm_source=git)** | Roxbury Crossing, MA | On Site | Jan 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e0fdbabff4c399a9ce082?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e0f8fabff4c399a9ce041?utm_campaign=1058&utm_source=git)** | Sault Ste. Marie, MI | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e0f72abff4c399a9ce021?utm_campaign=1058&utm_source=git)** | Schererville, IN | On Site | Jan 31 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e0f32abff4c399a9cdfe4?utm_campaign=1058&utm_source=git)** | Madera, CA | On Site | Jan 31 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e0effabff4c399a9cdfc9?utm_campaign=1058&utm_source=git)** | Cheboygan, MI | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
