@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Great Lakes Bay Health Centers](https://greatlakesbayhealthcenters.org)** | **[Optometry Intern](https://jobright.ai/jobs/info/69801531ce48107c05443869?utm_campaign=1058&utm_source=git)** | Saginaw, MI | On Site | Feb 01 |
 | **[Interra Credit Union](http://interracu.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/697fff55abff4c399a9eb91a?utm_campaign=1058&utm_source=git)** | Goshen, Indiana, United States | On Site | Feb 01 |
 | **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Per Diem Pharmacy Intern; Mount Sinai Hospital](https://jobright.ai/jobs/info/697ff2197f40342e15d8a8f5?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 01 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Information Systems IT Leadership Intern](https://jobright.ai/jobs/info/697fef5fce48107c05440bf2?utm_campaign=1058&utm_source=git)** | Cherry Valley, IL | On Site | Feb 01 |
@@ -104,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[IT Intern](https://jobright.ai/jobs/info/697f0d98abff4c399a9db804?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Feb 01 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/697ef68c7f40342e15d7b0c6?utm_campaign=1058&utm_source=git)** | Coos Bay, OR | On Site | Jan 31 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Resident Intern RN OR](https://jobright.ai/jobs/info/697ec078abff4c399a9d630c?utm_campaign=1058&utm_source=git)** | Thornton, CO | On Site | Jan 31 |
+| **[Temple Health – Temple University Health System](https://www.templehealth.org/)** | **[PHARMACY INTERN (PT; 8hrs/wk) - Temple Health/Jeanes Hospital](https://jobright.ai/jobs/info/698014187f40342e15d8d3fc?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Jan 31 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern - TeleHealth](https://jobright.ai/jobs/info/697ea2edabff4c399a9d4f60?utm_campaign=1058&utm_source=git)** | Portland, ME | On Site | Jan 31 |
 | **[Interra Credit Union](http://interracu.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/697ff02bce48107c05440cf0?utm_campaign=1058&utm_source=git)** | Goshen, IN | On Site | Jan 31 |
 | **[Sika](http://www.sika.com/)** | **[INTERNSHIP: Customer Service Representative (4 months)](https://jobright.ai/jobs/info/6977c33588e2b47213bbb8a8?utm_campaign=1058&utm_source=git)** | Brantford, Ontario, Canada | On Site | Jan 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e12dfabff4c399a9ce279?utm_campaign=1058&utm_source=git)** | Palo Alto, CA | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e1087abff4c399a9ce12b?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e1020abff4c399a9ce0ce?utm_campaign=1058&utm_source=git)** | Valparaiso, IN | On Site | Jan 31 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e0fdbabff4c399a9ce082?utm_campaign=1058&utm_source=git)** | San Jose, CA | On Site | Jan 31 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e0f8fabff4c399a9ce041?utm_campaign=1058&utm_source=git)** | Sault Ste. Marie, MI | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
