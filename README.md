@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zeta Global](http://www.zetaglobal.com)** | **[Client Services Intern - LiveIntent](https://jobright.ai/jobs/info/6980da5f7f40342e15d9a142?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Feb 02 |
+| **[Sarepta Therapeutics](https://www.sarepta.com)** | **[International Patient Services Intern](https://jobright.ai/jobs/info/6980d86fabff4c399a9f946d?utm_campaign=1058&utm_source=git)** | Cambridge, MA | Hybrid | Feb 02 |
+| ↳ | **[International Patient Services Intern](https://jobright.ai/jobs/info/6980d65e7f40342e15d99cef?utm_campaign=1058&utm_source=git)** | United States | Hybrid | Feb 02 |
 | **[Temple Health – Temple University Health System](https://www.templehealth.org/)** | **[PHARMACY INTERN (PT; 8hrs/wk) - Temple Health/Jeanes Hospital](https://jobright.ai/jobs/info/6980cbf17f40342e15d994e7?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Feb 02 |
 | **[EASTEAM](easteamny.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/6980cbcc7f40342e15d994d1?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Remote | Feb 02 |
 | **[Aquarion Water Company](http://www.aquarionwater.com)** | **[Intern, Lead and Cooper Program](https://jobright.ai/jobs/info/6980c125abff4c399a9f8253?utm_campaign=1058&utm_source=git)** | Monroe, CT, US, 06468 | On Site | Feb 02 |
 | **[Detroit Lions](http://www.detroitlions.com)** | **[IT Intern](https://jobright.ai/jobs/info/6980c002abff4c399a9f81e4?utm_campaign=1058&utm_source=git)** | Allen Park, MI 48101 | On Site | Feb 02 |
+| **[Sarepta Therapeutics](https://www.sarepta.com)** | **[Medical Affairs & Information Intern](https://jobright.ai/jobs/info/6980dc7e49964d25b5e39612?utm_campaign=1058&utm_source=git)** | Cambridge, MA | Hybrid | Feb 02 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Pharmacy Intern - Medication History - Limited Tenure, Supplemental](https://jobright.ai/jobs/info/6980bde0abff4c399a9f813e?utm_campaign=1058&utm_source=git)** | Rochester, MN | Hybrid | Feb 02 |
 | ↳ | **[Intern Pharmacy - Limited Tenure, Full Time (1.0 FTE)](https://jobright.ai/jobs/info/6980b97f7f40342e15d989b8?utm_campaign=1058&utm_source=git)** | Rochester, MN | On Site | Feb 02 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6980b5a549964d25b5e37e30?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Feb 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Field Service Representative (4 to 12-month) - Dartmouth, NS Canada / Moncton, NB](https://jobright.ai/jobs/info/697e1de9abff4c399a9ce6f4?utm_campaign=1058&utm_source=git)** | Moncton, New Brunswick, Canada | On Site | Jan 31 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e19f1ce48107c05425d56?utm_campaign=1058&utm_source=git)** | Savannah, GA | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e191fce48107c05425d1e?utm_campaign=1058&utm_source=git)** | Griffin, GA | On Site | Jan 31 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e18d9ce48107c05425d09?utm_campaign=1058&utm_source=git)** | Lemont, IL | On Site | Jan 31 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e18b87f40342e15d6f6d5?utm_campaign=1058&utm_source=git)** | Lakeland, FL | On Site | Jan 31 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/697e1899ce48107c05425cf4?utm_campaign=1058&utm_source=git)** | Lakeland, FL | On Site | Jan 31 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e18937f40342e15d6f6c9?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
