@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern Pharmacy - Limited Tenure, Full Time (1.0 FTE)](https://jobright.ai/jobs/info/698056a77f40342e15d92384?utm_campaign=1058&utm_source=git)** | Rochester, MN, United States | Hybrid | Feb 01 |
+| **[Definity](https://www.definityfinancial.com/)** | **[Technical Associate, Deskside Support - Summer 2026 Co-op/Intern](https://jobright.ai/jobs/info/698053ee7f40342e15d9211f?utm_campaign=1058&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | Feb 01 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Radiology Intern I](https://jobright.ai/jobs/info/69803823abff4c399a9efc74?utm_campaign=1058&utm_source=git)** | Booneville, AR | On Site | Feb 01 |
 | **[WestRock Company](http://www.westrock.com)** | **[Customer Service Intern - Summer May - Aug](https://jobright.ai/jobs/info/697304a9694e99351d144c2b?utm_campaign=1058&utm_source=git)** | Guelph, Ontario, Canada | On Site | Feb 01 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Technical Associate, Deskside Support - Summer 2026 Co-op/Intern](https://jobright.ai/jobs/info/69802863abff4c399a9ed5d9?utm_campaign=1058&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | Feb 01 |
@@ -105,6 +107,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Guest Services](https://jobright.ai/jobs/info/693ca04f49a7695fbd036e8d?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 01 |
 | **[Sarasota Memorial Health Care System](https://www.smh.com/)** | **[Cardiovascular Services Intern](https://jobright.ai/jobs/info/697f29a97f40342e15d7e63d?utm_campaign=1058&utm_source=git)** | Nokomis, FL | On Site | Feb 01 |
 | **[Campbell County Health](https://www.cchwyo.org/)** | **[PHARMACY INTERN](https://jobright.ai/jobs/info/697f23e57f40342e15d7d857?utm_campaign=1058&utm_source=git)** | Gillette, WY | On Site | Feb 01 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Summer Internship in the Office of Information Technology](https://jobright.ai/jobs/info/69804c837f40342e15d91dd8?utm_campaign=1058&utm_source=git)** | San Francisco, CA | Hybrid | Feb 01 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[IT Intern](https://jobright.ai/jobs/info/697f0d98abff4c399a9db804?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Feb 01 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/697ef68c7f40342e15d7b0c6?utm_campaign=1058&utm_source=git)** | Coos Bay, OR | On Site | Jan 31 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Resident Intern RN OR](https://jobright.ai/jobs/info/697ec078abff4c399a9d630c?utm_campaign=1058&utm_source=git)** | Thornton, CO | On Site | Jan 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e1533abff4c399a9ce382?utm_campaign=1058&utm_source=git)** | Oak Lawn, IL | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e152aabff4c399a9ce380?utm_campaign=1058&utm_source=git)** | Warner Robins, GA | On Site | Jan 31 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/697e14f4ce48107c05425b8a?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Jan 31 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e14e0ce48107c05425b81?utm_campaign=1058&utm_source=git)** | West Covina, CA | On Site | Jan 31 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e1471abff4c399a9ce319?utm_campaign=1058&utm_source=git)** | Bakersfield, CA | On Site | Jan 31 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697e1467ce48107c05425b28?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
