@@ -85,6 +85,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697f5948ce48107c05437f35?utm_campaign=1058&utm_source=git)** | Millwood, WA | On Site | Feb 01 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697f5920abff4c399a9e0d7f?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Feb 01 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/697f58e2ce48107c05437f15?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | Feb 01 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697f58bece48107c05437f05?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Feb 01 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697f5878abff4c399a9e0d40?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Feb 01 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Graduate Intern Pharmacist](https://jobright.ai/jobs/info/697f74a2ce48107c0543892f?utm_campaign=1058&utm_source=git)** | Santa Rosa, CA | On Site | Feb 01 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Resident Intern RN OR](https://jobright.ai/jobs/info/6963125a2cbf4e44756cdb90?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Feb 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e0f72abff4c399a9ce021?utm_campaign=1058&utm_source=git)** | Schererville, IN | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e0f32abff4c399a9cdfe4?utm_campaign=1058&utm_source=git)** | Madera, CA | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e0effabff4c399a9cdfc9?utm_campaign=1058&utm_source=git)** | Cheboygan, MI | On Site | Jan 31 |
-| **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Helpdesk Support Intern](https://jobright.ai/jobs/info/69282c1af0beb0723262f9bf?utm_campaign=1058&utm_source=git)** | South Sioux City, NE | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
