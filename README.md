@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Corewell Health](https://corewellhealth.org)** | **[Medication History Pharmacy Intern Class of 2028 Students](https://jobright.ai/jobs/info/697fde227f40342e15d89571?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Feb 01 |
 | **[Deepiri](https://deepiri.com)** | **[IT Support Intern (Read Description)](https://jobright.ai/jobs/info/697fca99abff4c399a9e676a?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 - 6-Month College Intern - Steamboat Springs, CO (Front Office)](https://jobright.ai/jobs/info/697fb6ddabff4c399a9e3ee8?utm_campaign=1058&utm_source=git)** | Steamboat Springs, CO | On Site | Feb 01 |
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[CUSTOMER PROGRAMS INTERN](https://jobright.ai/jobs/info/697fd45f7f40342e15d8882d?utm_campaign=1058&utm_source=git)** | Fayetteville, NC, United States | On Site | Feb 01 |
-| **[Corewell Health](https://corewellhealth.org)** | **[Inpatient Pharmacy Technician Intern Grand Rapids Class of 2030 Students](https://jobright.ai/jobs/info/697fd298abff4c399a9e7673?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Feb 01 |
 | **[Sigma](http://sigmacomputing.com)** | **[Technical Writing Intern (Summer 2026)](https://jobright.ai/jobs/info/697fae1dabff4c399a9e3cbb?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Feb 01 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943a5e5dd382f5f5669c041?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 01 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 - 6-Month College Intern - Steamboat Springs, CO (Front Office)](https://jobright.ai/jobs/info/697f92a6abff4c399a9e3339?utm_campaign=1058&utm_source=git)** | Sheraton Steamboat Resort Villas | On Site | Feb 01 |
