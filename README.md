@@ -91,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[SHR (Spectrum Healthcare Resources)](https://www.spectrumhealth.com/)** | **[Internal Medicine Physician](https://jobright.ai/jobs/info/697f8190abff4c399a9e1825?utm_campaign=1058&utm_source=git)** | Montevideo, MN | On Site | Feb 01 |
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Intern, Technology Service Desk  (Houston, TX)](https://jobright.ai/jobs/info/6920312ba49a885af9a37631?utm_campaign=1058&utm_source=git)** | Houston | Remote | Feb 01 |
 | **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Software Applications Support Intern](https://jobright.ai/jobs/info/697f71b87f40342e15d82551?utm_campaign=1058&utm_source=git)** | Richmond, VA | Hybrid | Feb 01 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/697f6459ce48107c054385f6?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 01 |
 | **[Badger Meter](http://badgermeter.com)** | **[IT Service Desk Intern (2029 Graduates)](https://jobright.ai/jobs/info/690ead0444146d3b6ec56ad1?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Feb 01 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/697f602d7f40342e15d81fd1?utm_campaign=1058&utm_source=git)** | Spokane Valley, WA | On Site | Feb 01 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/697f5fffce48107c05438346?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Feb 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e16bece48107c05425c19?utm_campaign=1058&utm_source=git)** | Valdosta, GA | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697e169dce48107c05425c0d?utm_campaign=1058&utm_source=git)** | Roxbury Crossing, MA | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e168a7f40342e15d6f5cc?utm_campaign=1058&utm_source=git)** | Albany, GA | On Site | Jan 31 |
+| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e16787f40342e15d6f5c5?utm_campaign=1058&utm_source=git)** | Carrollton, TX | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
