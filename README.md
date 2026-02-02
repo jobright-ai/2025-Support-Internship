@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jewel-Osco](http://www.jewelosco.com)** | **[2026 Pharmacy Graduate Intern - Roosevelt University](https://jobright.ai/jobs/info/69808c9d49964d25b5e34cbb?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - TechStop](https://jobright.ai/jobs/info/698088d049964d25b5e34ba9?utm_campaign=1058&utm_source=git)** | Tempe, AZ | Hybrid | Feb 02 |
+| **[Telecare Corporation](http://www.telecarecorp.com)** | **[Internship Opportunities for All Telecare Locations! FY26](https://jobright.ai/jobs/info/68673bc3afc79b6161e5b82e?utm_campaign=1058&utm_source=git)** | Alameda, CA | Hybrid | Feb 02 |
+| **[Culver Academies](https://www.culver.org)** | **[26-27 Fellow](https://jobright.ai/jobs/info/69807bb549964d25b5e34609?utm_campaign=1058&utm_source=git)** | Culver, IN | On Site | Feb 02 |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[IT Infrastructure Services Intern (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/698079a0abff4c399a9f43cf?utm_campaign=1058&utm_source=git)** | Beverly Hills, CA | On Site | Feb 02 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA North Information Technology (IT) Intern Paid Internship](https://jobright.ai/jobs/info/69806b13abff4c399a9f361f?utm_campaign=1058&utm_source=git)** | Anchorage, AK | On Site | Feb 02 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - TechStop](https://jobright.ai/jobs/info/698068a7ce48107c0544a208?utm_campaign=1058&utm_source=git)** | Tempe, AZ, US | Hybrid | Feb 02 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Pharmacy Intern - Medication History - Limited Tenure, Supplemental](https://jobright.ai/jobs/info/698067c3ce48107c0544a140?utm_campaign=1058&utm_source=git)** | Rochester, MN, United States | Hybrid | Feb 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e16bece48107c05425c19?utm_campaign=1058&utm_source=git)** | Valdosta, GA | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697e169dce48107c05425c0d?utm_campaign=1058&utm_source=git)** | Roxbury Crossing, MA | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e168a7f40342e15d6f5cc?utm_campaign=1058&utm_source=git)** | Albany, GA | On Site | Jan 31 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e16787f40342e15d6f5c5?utm_campaign=1058&utm_source=git)** | Carrollton, TX | On Site | Jan 31 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e16437f40342e15d6f5af?utm_campaign=1058&utm_source=git)** | Ludington, MI | On Site | Jan 31 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e16367f40342e15d6f5a7?utm_campaign=1058&utm_source=git)** | Honolulu, HI | On Site | Jan 31 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e161c7f40342e15d6f5a0?utm_campaign=1058&utm_source=git)** | Bay City, MI | On Site | Jan 31 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697e15efce48107c05425bd2?utm_campaign=1058&utm_source=git)** | Gilbert, AZ | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
