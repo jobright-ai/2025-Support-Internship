@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I](https://jobright.ai/jobs/info/68d777227a37c712687cdf18?utm_campaign=1058&utm_source=git)** | Collierville, TN | On Site | Feb 02 |
+| **[Valmont Industries, Inc.](http://www.valmont.com)** | **[Technical and Production Support Intern](https://jobright.ai/jobs/info/68d6ac93894705799a2ecd23?utm_campaign=1058&utm_source=git)** | Huron, SD | On Site | Feb 02 |
+| **[Gerdau North America](http://www.gerdau.com)** | **[IT Intern - IT Operations](https://jobright.ai/jobs/info/69170c7d3ea85638ae1c7282?utm_campaign=1058&utm_source=git)** | Whitby, Ontario, Canada | On Site | Feb 02 |
 | **[Jewel-Osco](http://www.jewelosco.com)** | **[2026 Pharmacy Graduate Intern - Roosevelt University](https://jobright.ai/jobs/info/69808c9d49964d25b5e34cbb?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - TechStop](https://jobright.ai/jobs/info/698088d049964d25b5e34ba9?utm_campaign=1058&utm_source=git)** | Tempe, AZ | Hybrid | Feb 02 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Internship Opportunities for All Telecare Locations! FY26](https://jobright.ai/jobs/info/68673bc3afc79b6161e5b82e?utm_campaign=1058&utm_source=git)** | Alameda, CA | Hybrid | Feb 02 |
@@ -66,10 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - TechStop](https://jobright.ai/jobs/info/698068a7ce48107c0544a208?utm_campaign=1058&utm_source=git)** | Tempe, AZ, US | Hybrid | Feb 02 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Pharmacy Intern - Medication History - Limited Tenure, Supplemental](https://jobright.ai/jobs/info/698067c3ce48107c0544a140?utm_campaign=1058&utm_source=git)** | Rochester, MN, United States | Hybrid | Feb 02 |
 | **[Ergon Inc.](http://ergon.com)** | **[Salesforce Intern](https://jobright.ai/jobs/info/69806696abff4c399a9f2df4?utm_campaign=1058&utm_source=git)** | Flowood, MS | On Site | Feb 02 |
-| **[Six Flags](https://www.sixflags.com)** | **[Rentals Leadership Internship](https://jobright.ai/jobs/info/698062ccce48107c0544a071?utm_campaign=1058&utm_source=git)** | Waukegan, IL | On Site | Feb 02 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69805d19abff4c399a9f1c72?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 02 |
 | ↳ | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69805d157f40342e15d928db?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 02 |
-| **[The Family Office Company BSC (c)](https://www.tfoco.com/)** | **[Salesforce Intern](https://jobright.ai/jobs/info/69805c197f40342e15d92854?utm_campaign=1058&utm_source=git)** | Flowood,MS,US | On Site | Feb 02 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Pharmacy Intern - Medication History - Limited Tenure, Supplemental](https://jobright.ai/jobs/info/69805a3bce48107c05448a4d?utm_campaign=1058&utm_source=git)** | Rochester, MN, United States | Hybrid | Feb 02 |
 | **[UMC Health System](https://www.umchealthsystem.com)** | **[Graduate Nurse (GN)- Adult Critical Care Internship (7p-7a)](https://jobright.ai/jobs/info/6980590cabff4c399a9f1ac0?utm_campaign=1058&utm_source=git)** | UMC Main Campus | On Site | Feb 01 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern Pharmacy - Limited Tenure, Full Time (1.0 FTE)](https://jobright.ai/jobs/info/698056a77f40342e15d92384?utm_campaign=1058&utm_source=git)** | Rochester, MN, United States | Hybrid | Feb 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/697e16bece48107c05425c19?utm_campaign=1058&utm_source=git)** | Valdosta, GA | On Site | Jan 31 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/697e169dce48107c05425c0d?utm_campaign=1058&utm_source=git)** | Roxbury Crossing, MA | On Site | Jan 31 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e168a7f40342e15d6f5cc?utm_campaign=1058&utm_source=git)** | Albany, GA | On Site | Jan 31 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/697e16787f40342e15d6f5c5?utm_campaign=1058&utm_source=git)** | Carrollton, TX | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
