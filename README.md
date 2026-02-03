@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Milliman](http://www.milliman.com)** | **[IT Support Intern - Milwaukee Property and Casualty (onsite)](https://jobright.ai/jobs/info/694a0a58c6f0e2546ceefb55?utm_campaign=1058&utm_source=git)** | Brookfield, WI | On Site | Feb 03 |
+| **[University of New Hampshire](https://www.unh.edu)** | **[Technician Intern](https://jobright.ai/jobs/info/68ccff4cd11b445e0bee5d0f?utm_campaign=1058&utm_source=git)** | Durham, NH | On Site | Feb 03 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/6981c9cd49964d25b5e4e201?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 03 |
+| ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/6981c98b49964d25b5e4e1e5?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 03 |
+| **[Medpace](http://www.medpace.com)** | **[Trial Master File Intern](https://jobright.ai/jobs/info/6965d9792cbf4e44756f94c4?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Feb 03 |
+| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[IT Intern](https://jobright.ai/jobs/info/6981c3227f40342e15dae5e8?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Feb 03 |
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Intern, Technology Service Desk (Encino, CA)](https://jobright.ai/jobs/info/69201b4f09cc522e877481f3?utm_campaign=1058&utm_source=git)** | Encino | Remote | Feb 03 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952d982f1f8465b79ea22d4?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | Feb 03 |
 | **[Munich Re](https://www.munichre.com)** | **[Application Support Intern](https://jobright.ai/jobs/info/69657a202cbf4e44756f0c0a?utm_campaign=1058&utm_source=git)** | Cincinnati Metro | Hybrid | Feb 03 |
@@ -84,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Shoppers Drug Mart](http://www.shoppersdrugmart.ca)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6981805b49964d25b5e47e02?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 02 |
 | **[Aramark Destinations](https://thenationsvacation.com/)** | **[Concessions Intern - Whataburger Field](https://jobright.ai/jobs/info/6981826349964d25b5e47f68?utm_campaign=1058&utm_source=git)** | Corpus Christi, TX, US, 78401 | On Site | Feb 02 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Operations Support Intern](https://jobright.ai/jobs/info/697d646b727747250d58484b?utm_campaign=1058&utm_source=git)** | Columbia, MS | On Site | Feb 02 |
-| **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Undergraduate Internship- Detention Hotline](https://jobright.ai/jobs/info/6981982c7f40342e15dabc2d?utm_campaign=1058&utm_source=git)** | Washington, DC | Remote | Feb 02 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Identity Management](https://jobright.ai/jobs/info/6981578149964d25b5e44b1f?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Feb 02 |
 | **[Optum](https://www.optum.com/)** | **[Pharmacist Graduate Intern,](https://jobright.ai/jobs/info/698156d27f40342e15da593b?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Feb 02 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Resolutions Intern (Summer 2026)](https://jobright.ai/jobs/info/6981561b7f40342e15da5878?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Feb 02 |
@@ -103,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Amentum](https://www.amentum.com/)** | **[Service Desk Administrator Internship IRES - SSFB](https://jobright.ai/jobs/info/69813c92abff4c399aa0248f?utm_campaign=1058&utm_source=git)** | US-CO-Colorado Springs | On Site | Feb 02 |
 | **[Janicki](http://www.janicki.com/)** | **[IT Intern](https://jobright.ai/jobs/info/698166b549964d25b5e45c5b?utm_campaign=1058&utm_source=git)** | Sedro-Woolley, Washington, United States | On Site | Feb 02 |
 | **[HOLT Industrial Systems](https://holtindustrialsystems.com)** | **[Service Intern- High School](https://jobright.ai/jobs/info/69816082abff4c399aa05799?utm_campaign=1058&utm_source=git)** | San Antonio, Texas, United States | On Site | Feb 02 |
+| **[Benchmark Community Bank](http://www.bcbonline.com)** | **[Summer Intern-Bank Teller](https://jobright.ai/jobs/info/6981da9da314e76369053d4c?utm_campaign=1058&utm_source=git)** | Kenbridge, VA | On Site | Feb 02 |
 | **[HOLT CAT](http://www.holtcat.com/)** | **[Service Intern- High School](https://jobright.ai/jobs/info/6981596e7f40342e15da5bfc?utm_campaign=1058&utm_source=git)** | San Antonio, Texas, United States | On Site | Feb 02 |
 | **[Amentum](https://www.amentum.com/)** | **[Service Desk Administrator Internship IRES - SSFB](https://jobright.ai/jobs/info/69813a3949964d25b5e41f19?utm_campaign=1058&utm_source=git)** | US-CO-Colorado Springs | On Site | Feb 02 |
 | **[Emerson](http://www.emerson.com)** | **[Customer Experience Intern - Summer 2026](https://jobright.ai/jobs/info/69813815abff4c399aa02057?utm_campaign=1058&utm_source=git)** | 11500 North Mopac Expressway, Austin, TX, 78759, US | On Site | Feb 02 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 Guest Services Intern](https://jobright.ai/jobs/info/6980f80049964d25b5e3c2df?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Feb 02 |
 | **[Samsung Ads](http://www.samsungads.com)** | **[Care Customer Experience Intern](https://jobright.ai/jobs/info/698117bd7f40342e15d9f239?utm_campaign=1058&utm_source=git)** | 6625 Excellence Way, Plano, TX, USA | On Site | Feb 02 |
 | **[Minnkota Power Cooperative](http://www.minnkota.com/)** | **[Technical Support Intern](https://jobright.ai/jobs/info/6980f387abff4c399a9fc14b?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Feb 02 |
-| **[Lutheran Health Network](http://www.lutheranhealth.net)** | **[Nursing Student Intern Progressive Care Unit](https://jobright.ai/jobs/info/698117187f40342e15d9f1d9?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Feb 02 |
-| **[Hornblower Group](https://www.hornblowercorp.com/)** | **[Hospitality Internship - Chicago](https://jobright.ai/jobs/info/6981557349964d25b5e4489a?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
-| **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Undergraduate Internship- Detention Hotline](https://jobright.ai/jobs/info/69811cddabff4c399a9fee30?utm_campaign=1058&utm_source=git)** | Fully Remote | Remote | Feb 02 |
-| **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Intro to Hospitality Internship](https://jobright.ai/jobs/info/68e6af4bae2b894b1d71c7f6?utm_campaign=1058&utm_source=git)** | Round Rock, TX | On Site | Feb 02 |
-| **[CVG Airport - Cincinnati/Northern Kentucky International Airport](https://www.cvgairport.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/69810baa7f40342e15d9e65d?utm_campaign=1058&utm_source=git)** | Cincinnati, Ohio, United States | On Site | Feb 02 |
-| **[belairdirect](http://www.belairdirect.com)** | **[Explore Insurance: Atlantic Student Opportunity – 4 Month Co-op/Internship (Summer 2026)](https://jobright.ai/jobs/info/69810a6babff4c399a9fda27?utm_campaign=1058&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
