@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Intern, Technology Service Desk (Encino, CA)](https://jobright.ai/jobs/info/69201b4f09cc522e877481f3?utm_campaign=1058&utm_source=git)** | Encino | Remote | Feb 03 |
+| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952d982f1f8465b79ea22d4?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | Feb 03 |
 | **[Munich Re](https://www.munichre.com)** | **[Application Support Intern](https://jobright.ai/jobs/info/69657a202cbf4e44756f0c0a?utm_campaign=1058&utm_source=git)** | Cincinnati Metro | Hybrid | Feb 03 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern II](https://jobright.ai/jobs/info/6981aac149964d25b5e4bc88?utm_campaign=1058&utm_source=git)** | US-FL-Jacksonville | On Site | Feb 02 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Global Customer References & Advocacy, Content Strategy](https://jobright.ai/jobs/info/6965668e6d52670c5c3e3210?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Feb 02 |
+| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6981bd08abff4c399aa0cc3f?utm_campaign=1058&utm_source=git)** | Idaho Falls, ID | On Site | Feb 02 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern II](https://jobright.ai/jobs/info/6981a005abff4c399aa0b97b?utm_campaign=1058&utm_source=git)** | Jacksonville, FL, US | On Site | Feb 02 |
 | **[Hagerty](http://www.hagerty.com)** | **[IT Technical Operations Intern](https://jobright.ai/jobs/info/6965bb6da112b4026613c59f?utm_campaign=1058&utm_source=git)** | Traverse City, MI | On Site | Feb 02 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/6981990149964d25b5e4afba?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Feb 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Intro to Hospitality Internship](https://jobright.ai/jobs/info/68e6af4bae2b894b1d71c7f6?utm_campaign=1058&utm_source=git)** | Round Rock, TX | On Site | Feb 02 |
 | **[CVG Airport - Cincinnati/Northern Kentucky International Airport](https://www.cvgairport.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/69810baa7f40342e15d9e65d?utm_campaign=1058&utm_source=git)** | Cincinnati, Ohio, United States | On Site | Feb 02 |
 | **[belairdirect](http://www.belairdirect.com)** | **[Explore Insurance: Atlantic Student Opportunity – 4 Month Co-op/Internship (Summer 2026)](https://jobright.ai/jobs/info/69810a6babff4c399a9fda27?utm_campaign=1058&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | Feb 02 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Clinical Intern - Echocardiography](https://jobright.ai/jobs/info/698109fdabff4c399a9fd99b?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN, US | On Site | Feb 02 |
-| **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Intro to Hospitality Internship](https://jobright.ai/jobs/info/68e6af5dae2b894b1d71c800?utm_campaign=1058&utm_source=git)** | Wisconsin Dells, WI | On Site | Feb 02 |
-| **[Minnkota Power Cooperative](http://www.minnkota.com/)** | **[Technical Support Intern](https://jobright.ai/jobs/info/69810f50abff4c399a9fe00b?utm_campaign=1058&utm_source=git)** | Grand Forks, North Dakota, United States | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
