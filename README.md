@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Amentum](https://www.amentum.com/)** | **[Service Desk Administrator Internship IRES - SSFB](https://jobright.ai/jobs/info/69817e2549964d25b5e47c64?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Feb 02 |
+| **[Amentum](https://www.amentum.com/)** | **[Service Desk Administrator Internship IRES - SSFB](https://jobright.ai/jobs/info/6981918eabff4c399aa0b0b3?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Feb 02 |
+| **[MyMichigan Health](https://www.mymichigan.org)** | **[Student College Intern IT](https://jobright.ai/jobs/info/69818fe149964d25b5e4a986?utm_campaign=1058&utm_source=git)** | Midland, MI | On Site | Feb 02 |
+| **[Emerson](http://www.emerson.com)** | **[Customer Experience Intern - Summer 2026](https://jobright.ai/jobs/info/69818d6c49964d25b5e4a868?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Feb 02 |
 | **[HOLT Group](https://holtgrp.com)** | **[Service Intern- High School](https://jobright.ai/jobs/info/69817a76abff4c399aa07e9d?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Feb 02 |
 | **[Guerra Wealth Advisors](https://guerrafinancial.com)** | **[Client Processor Internship ($15/hr plus bonuses)](https://jobright.ai/jobs/info/6981729fabff4c399aa06fef?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Feb 02 |
 | **[State Industrial Products](http://stateindustrial.com)** | **[IT Intern](https://jobright.ai/jobs/info/6981721449964d25b5e46bc7?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Feb 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shady Grove Fertility](http://ShadyGroveFertility.com)** | **[Medical Assistant Intern](https://jobright.ai/jobs/info/698109b6abff4c399a9fd93f?utm_campaign=1058&utm_source=git)** | Webster, Texas, United States | On Site | Feb 02 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Gastro - APRN/PA - Instrc. I - Internal Medicine](https://jobright.ai/jobs/info/698111717f40342e15d9ebd1?utm_campaign=1058&utm_source=git)** | Florida, United States | On Site | Feb 02 |
 | **[Per Scholas](http://www.perscholas.org/)** | **[Information Technology Technician](https://jobright.ai/jobs/info/6980e663abff4c399a9faf82?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Feb 02 |
-| **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Advanced Hospitality Internship](https://jobright.ai/jobs/info/68e6b69fe8daec61499add66?utm_campaign=1058&utm_source=git)** | Pocono, PA | On Site | Feb 02 |
-| **[BrokerLink](http://www.brokerlink.ca)** | **[Explore Insurance: Atlantic Student Opportunity – 4 Month Co-op/Internship (Summer 2026)](https://jobright.ai/jobs/info/6980e455abff4c399a9fa8f3?utm_campaign=1058&utm_source=git)** | St. John's, Newfoundland and Labrador, CAN | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
