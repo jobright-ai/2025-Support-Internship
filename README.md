@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascension](https://healthcare.ascension.org)** | **[Registered Nurse RN - Student Intern - Critical Care Unit](https://jobright.ai/jobs/info/698162d6abff4c399aa05a48?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL | On Site | Feb 02 |
+| **[Jabil](https://www.jabil.com)** | **[IT Associate - Intern](https://jobright.ai/jobs/info/698161ee7f40342e15da64e5?utm_campaign=1058&utm_source=git)** | Hunt Valley, MD | On Site | Feb 02 |
+| **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Undergraduate Internship- Detention Hotline](https://jobright.ai/jobs/info/698161327f40342e15da6414?utm_campaign=1058&utm_source=git)** | Washington, DC | Remote | Feb 02 |
+| **[Mouser Electronics](http://mouser.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/6981600e49964d25b5e454a1?utm_campaign=1058&utm_source=git)** | Mansfield, TX | On Site | Feb 02 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Identity Management](https://jobright.ai/jobs/info/6981578149964d25b5e44b1f?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Feb 02 |
 | **[Optum](https://www.optum.com/)** | **[Pharmacist Graduate Intern,](https://jobright.ai/jobs/info/698156d27f40342e15da593b?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Feb 02 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Resolutions Intern (Summer 2026)](https://jobright.ai/jobs/info/6981561b7f40342e15da5878?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Feb 02 |
@@ -69,9 +73,12 @@ For a complete list, click the following sortable link below:
 | **[Delaware North](http://www.delawarenorth.com/)** | **[IT Intern, Summer 2026](https://jobright.ai/jobs/info/698149567f40342e15da397d?utm_campaign=1058&utm_source=git)** | West Yellowstone, MT | On Site | Feb 02 |
 | **[Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the-johns-hopkins-hospital)** | **[Patient Care Tech Intern - Oncology](https://jobright.ai/jobs/info/698146aa7f40342e15da37f7?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Feb 02 |
 | **[Xeris Pharmaceuticals, Inc.](http://xerispharma.com)** | **[IT & Business Systems Intern](https://jobright.ai/jobs/info/69814202abff4c399aa02944?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Registered Nurse RN - Student Intern - Critical Care Unit](https://jobright.ai/jobs/info/69816401abff4c399aa05ba3?utm_campaign=1058&utm_source=git)** | Elk Grove Village, IL, US | On Site | Feb 02 |
 | **[Central Bank](https://www.centralbank.net/)** | **[2026 St. Louis Trust Intern](https://jobright.ai/jobs/info/69813d17abff4c399aa024f8?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Feb 02 |
 | **[Amentum](https://www.amentum.com/)** | **[Service Desk Administrator Internship IRES - SSFB](https://jobright.ai/jobs/info/69813c92abff4c399aa0248f?utm_campaign=1058&utm_source=git)** | US-CO-Colorado Springs | On Site | Feb 02 |
-| ↳ | **[Service Desk Administrator Internship IRES - SSFB](https://jobright.ai/jobs/info/69813a3949964d25b5e41f19?utm_campaign=1058&utm_source=git)** | US-CO-Colorado Springs | On Site | Feb 02 |
+| **[HOLT Industrial Systems](https://holtindustrialsystems.com)** | **[Service Intern- High School](https://jobright.ai/jobs/info/69816082abff4c399aa05799?utm_campaign=1058&utm_source=git)** | San Antonio, Texas, United States | On Site | Feb 02 |
+| **[HOLT CAT](http://www.holtcat.com/)** | **[Service Intern- High School](https://jobright.ai/jobs/info/6981596e7f40342e15da5bfc?utm_campaign=1058&utm_source=git)** | San Antonio, Texas, United States | On Site | Feb 02 |
+| **[Amentum](https://www.amentum.com/)** | **[Service Desk Administrator Internship IRES - SSFB](https://jobright.ai/jobs/info/69813a3949964d25b5e41f19?utm_campaign=1058&utm_source=git)** | US-CO-Colorado Springs | On Site | Feb 02 |
 | **[Emerson](http://www.emerson.com)** | **[Customer Experience Intern - Summer 2026](https://jobright.ai/jobs/info/69813815abff4c399aa02057?utm_campaign=1058&utm_source=git)** | 11500 North Mopac Expressway, Austin, TX, 78759, US | On Site | Feb 02 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[IT Assets, Technology & Engineering Fellow](https://jobright.ai/jobs/info/6981380249964d25b5e41bcf?utm_campaign=1058&utm_source=git)** | Brooklyn, NY | On Site | Feb 02 |
 | **[Amentum](https://www.amentum.com/)** | **[Service Desk Administrator Internship IRES - SSFB](https://jobright.ai/jobs/info/698135ac7f40342e15da265a?utm_campaign=1058&utm_source=git)** | US-CO-Colorado Springs | On Site | Feb 02 |
@@ -107,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Middlesex Savings Bank](http://www.middlesexbank.com)** | **[System Support Intern](https://jobright.ai/jobs/info/6981030349964d25b5e3d02c?utm_campaign=1058&utm_source=git)** | US-MA-Westborough | On Site | Feb 02 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/698102eb7f40342e15d9dc4f?utm_campaign=1058&utm_source=git)** | Baltimore, MD, US | On Site | Feb 02 |
 | **[Family Health Centers of Southwest Florida](http://fhcswf.org)** | **[Pharmacy Intern - PRN](https://jobright.ai/jobs/info/6981026eabff4c399a9fd0fe?utm_campaign=1058&utm_source=git)** | Cape Coral,FL,US | On Site | Feb 02 |
-| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[IT Intern](https://jobright.ai/jobs/info/6981232babff4c399a9ff858?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Feb 02 |
 | **[Bon Secours Mercy Health](https://bsmhealth.org/)** | **[Certified Medical Assistant (CMA) -  Internists of Churchland](https://jobright.ai/jobs/info/698125b1abff4c399a9ffabb?utm_campaign=1058&utm_source=git)** | Suffolk, VA | On Site | Feb 02 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/6980ff01abff4c399a9fcd33?utm_campaign=1058&utm_source=git)** | US-MD-Baltimore | On Site | Feb 02 |
 | **[Ottawa Senators Hockey Club](http://senators.nhl.com)** | **[Premium Client Services Intern (Fall 2026/Winter 2027)](https://jobright.ai/jobs/info/6980fe8449964d25b5e3ca53?utm_campaign=1058&utm_source=git)** | Kanata, Ontario, Canada | On Site | Feb 02 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sarepta Therapeutics](https://www.sarepta.com)** | **[International Patient Services Intern](https://jobright.ai/jobs/info/6980d86fabff4c399a9f946d?utm_campaign=1058&utm_source=git)** | Cambridge, MA | Hybrid | Feb 02 |
 | ↳ | **[International Patient Services Intern](https://jobright.ai/jobs/info/6980d65e7f40342e15d99cef?utm_campaign=1058&utm_source=git)** | United States | Hybrid | Feb 02 |
 | **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Advanced Hospitality Internship](https://jobright.ai/jobs/info/68e6a815ae2b894b1d71c4f3?utm_campaign=1058&utm_source=git)** | Wisconsin Dells, WI | On Site | Feb 02 |
-| ↳ | **[Intro to Hospitality Internship](https://jobright.ai/jobs/info/68e6b133ae2b894b1d71c9c4?utm_campaign=1058&utm_source=git)** | Pocono, PA | On Site | Feb 02 |
-| **[EASTEAM](easteamny.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/6980cbcc7f40342e15d994d1?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Remote | Feb 02 |
-| **[Aquarion Water Company](http://www.aquarionwater.com)** | **[Intern, Lead and Cooper Program](https://jobright.ai/jobs/info/6980c125abff4c399a9f8253?utm_campaign=1058&utm_source=git)** | Monroe, CT, US, 06468 | On Site | Feb 02 |
-| **[Detroit Lions](http://www.detroitlions.com)** | **[IT Intern](https://jobright.ai/jobs/info/6980c002abff4c399a9f81e4?utm_campaign=1058&utm_source=git)** | Allen Park, MI 48101 | On Site | Feb 02 |
-| **[Sarepta Therapeutics](https://www.sarepta.com)** | **[Medical Affairs & Information Intern](https://jobright.ai/jobs/info/6980dc7e49964d25b5e39612?utm_campaign=1058&utm_source=git)** | Cambridge, MA | Hybrid | Feb 02 |
-| ↳ | **[Patient Affairs Intern](https://jobright.ai/jobs/info/6980e6207f40342e15d9bb12?utm_campaign=1058&utm_source=git)** | Cambridge, MA | Hybrid | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
