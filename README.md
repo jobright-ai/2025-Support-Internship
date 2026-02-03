@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Identity Management](https://jobright.ai/jobs/info/6981578149964d25b5e44b1f?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Feb 02 |
+| **[Optum](https://www.optum.com/)** | **[Pharmacist Graduate Intern,](https://jobright.ai/jobs/info/698156d27f40342e15da593b?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Feb 02 |
+| **[Love's Travel Stops](http://www.loves.com)** | **[Resolutions Intern (Summer 2026)](https://jobright.ai/jobs/info/6981561b7f40342e15da5878?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Feb 02 |
+| **[Optum](https://www.optum.com/)** | **[Pharmacist Intern Behavioral Health,](https://jobright.ai/jobs/info/6981552cabff4c399aa04ce5?utm_campaign=1058&utm_source=git)** | Indiana, PA | On Site | Feb 02 |
 | **[Kitty Hawk Kites & Adventures](https://www.kittyhawk.com)** | **[2026 Seasonal Information Technology Intern (Outer Banks, NC)](https://jobright.ai/jobs/info/698151c1abff4c399aa04a62?utm_campaign=1058&utm_source=git)** | Banks, OR | On Site | Feb 02 |
 | **[Aurora Health Care](http://aurorahealthcare.org)** | **[Pharmacy Intern I](https://jobright.ai/jobs/info/69815138abff4c399aa049e5?utm_campaign=1058&utm_source=git)** | Sturtevant, WI | On Site | Feb 02 |
 | **[Smith & Associates](http://www.smithweb.com)** | **[IT Helpdesk Intern](https://jobright.ai/jobs/info/69814c8fabff4c399aa04455?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Feb 02 |
@@ -75,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[TRULAND Equipment](https://www.trulandequip.com)** | **[Service Intern - High School](https://jobright.ai/jobs/info/6981519b7f40342e15da54c2?utm_campaign=1058&utm_source=git)** | Angola, IN | On Site | Feb 02 |
 | **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[Nurse Intern- Critical Care Step Down 7W](https://jobright.ai/jobs/info/69813274abff4c399aa0190a?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Feb 02 |
 | **[MyMichigan Health](https://www.mymichigan.org)** | **[Nurse Intern Cohort Summer 2026](https://jobright.ai/jobs/info/697c332c0b88cc7d642339d7?utm_campaign=1058&utm_source=git)** | Sault Ste. Marie, MI | On Site | Feb 02 |
+| **[Family Health Centers of Southwest Florida](http://fhcswf.org)** | **[Pharmacy Intern - PRN](https://jobright.ai/jobs/info/698156c67f40342e15da5935?utm_campaign=1058&utm_source=git)** | Cape Coral, FL | On Site | Feb 02 |
 | **[Shady Grove Fertility](http://ShadyGroveFertility.com)** | **[Medical Assistant Intern](https://jobright.ai/jobs/info/6981165b49964d25b5e3e4d7?utm_campaign=1058&utm_source=git)** | Webster, TX | On Site | Feb 02 |
 | **[Jabil](https://www.jabil.com)** | **[IT Associate - Intern](https://jobright.ai/jobs/info/69812e8dabff4c399aa011f3?utm_campaign=1058&utm_source=git)** | Hunt Valley, MD | On Site | Feb 02 |
 | **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Circuit Court Clerk](https://jobright.ai/jobs/info/69814c7b49964d25b5e44116?utm_campaign=1058&utm_source=git)** | Chesterfield, VA | On Site | Feb 02 |
@@ -117,6 +122,7 @@ For a complete list, click the following sortable link below:
 | **[Samsung Ads](http://www.samsungads.com)** | **[Care Customer Experience Intern](https://jobright.ai/jobs/info/698117bd7f40342e15d9f239?utm_campaign=1058&utm_source=git)** | 6625 Excellence Way, Plano, TX, USA | On Site | Feb 02 |
 | **[Minnkota Power Cooperative](http://www.minnkota.com/)** | **[Technical Support Intern](https://jobright.ai/jobs/info/6980f387abff4c399a9fc14b?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Feb 02 |
 | **[Lutheran Health Network](http://www.lutheranhealth.net)** | **[Nursing Student Intern Progressive Care Unit](https://jobright.ai/jobs/info/698117187f40342e15d9f1d9?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Feb 02 |
+| **[Hornblower Group](https://www.hornblowercorp.com/)** | **[Hospitality Internship - Chicago](https://jobright.ai/jobs/info/6981557349964d25b5e4489a?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
 | **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Undergraduate Internship- Detention Hotline](https://jobright.ai/jobs/info/69811cddabff4c399a9fee30?utm_campaign=1058&utm_source=git)** | Fully Remote | Remote | Feb 02 |
 | **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Intro to Hospitality Internship](https://jobright.ai/jobs/info/68e6af4bae2b894b1d71c7f6?utm_campaign=1058&utm_source=git)** | Round Rock, TX | On Site | Feb 02 |
 | **[CVG Airport - Cincinnati/Northern Kentucky International Airport](https://www.cvgairport.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/69810baa7f40342e15d9e65d?utm_campaign=1058&utm_source=git)** | Cincinnati, Ohio, United States | On Site | Feb 02 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Detroit Lions](http://www.detroitlions.com)** | **[IT Intern](https://jobright.ai/jobs/info/6980c002abff4c399a9f81e4?utm_campaign=1058&utm_source=git)** | Allen Park, MI 48101 | On Site | Feb 02 |
 | **[Sarepta Therapeutics](https://www.sarepta.com)** | **[Medical Affairs & Information Intern](https://jobright.ai/jobs/info/6980dc7e49964d25b5e39612?utm_campaign=1058&utm_source=git)** | Cambridge, MA | Hybrid | Feb 02 |
 | ↳ | **[Patient Affairs Intern](https://jobright.ai/jobs/info/6980e6207f40342e15d9bb12?utm_campaign=1058&utm_source=git)** | Cambridge, MA | Hybrid | Feb 02 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Pharmacy Intern - Medication History - Limited Tenure, Supplemental](https://jobright.ai/jobs/info/6980bde0abff4c399a9f813e?utm_campaign=1058&utm_source=git)** | Rochester, MN | Hybrid | Feb 02 |
-| ↳ | **[Intern Pharmacy - Limited Tenure, Full Time (1.0 FTE)](https://jobright.ai/jobs/info/6980b97f7f40342e15d989b8?utm_campaign=1058&utm_source=git)** | Rochester, MN | On Site | Feb 02 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6980b5a549964d25b5e37e30?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Feb 02 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6980b5967f40342e15d987fa?utm_campaign=1058&utm_source=git)** | Sun City West, AZ | On Site | Feb 02 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/6980b51149964d25b5e37dcb?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 02 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6980b4feabff4c399a9f7e1f?utm_campaign=1058&utm_source=git)** | Cave Creek, AZ | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
