@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Munich Re](https://www.munichre.com)** | **[Application Support Intern](https://jobright.ai/jobs/info/69657a202cbf4e44756f0c0a?utm_campaign=1058&utm_source=git)** | Cincinnati Metro | Hybrid | Feb 03 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern II](https://jobright.ai/jobs/info/6981aac149964d25b5e4bc88?utm_campaign=1058&utm_source=git)** | US-FL-Jacksonville | On Site | Feb 02 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Global Customer References & Advocacy, Content Strategy](https://jobright.ai/jobs/info/6965668e6d52670c5c3e3210?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Feb 02 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern II](https://jobright.ai/jobs/info/6981a005abff4c399aa0b97b?utm_campaign=1058&utm_source=git)** | Jacksonville, FL, US | On Site | Feb 02 |
+| **[Hagerty](http://www.hagerty.com)** | **[IT Technical Operations Intern](https://jobright.ai/jobs/info/6965bb6da112b4026613c59f?utm_campaign=1058&utm_source=git)** | Traverse City, MI | On Site | Feb 02 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II](https://jobright.ai/jobs/info/6981990149964d25b5e4afba?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Feb 02 |
 | **[Amentum](https://www.amentum.com/)** | **[Service Desk Administrator Internship IRES - SSFB](https://jobright.ai/jobs/info/6981918eabff4c399aa0b0b3?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Feb 02 |
 | **[MyMichigan Health](https://www.mymichigan.org)** | **[Student College Intern IT](https://jobright.ai/jobs/info/69818fe149964d25b5e4a986?utm_campaign=1058&utm_source=git)** | Midland, MI | On Site | Feb 02 |
 | **[Emerson](http://www.emerson.com)** | **[Customer Experience Intern - Summer 2026](https://jobright.ai/jobs/info/69818d6c49964d25b5e4a868?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Feb 02 |
@@ -75,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Shoppers Drug Mart](http://www.shoppersdrugmart.ca)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6981805b49964d25b5e47e02?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 02 |
 | **[Aramark Destinations](https://thenationsvacation.com/)** | **[Concessions Intern - Whataburger Field](https://jobright.ai/jobs/info/6981826349964d25b5e47f68?utm_campaign=1058&utm_source=git)** | Corpus Christi, TX, US, 78401 | On Site | Feb 02 |
 | **[United Rentals](http://www.unitedrentals.com)** | **[Operations Support Intern](https://jobright.ai/jobs/info/697d646b727747250d58484b?utm_campaign=1058&utm_source=git)** | Columbia, MS | On Site | Feb 02 |
+| **[Amica Center for Immigrant Rights](http://www.amicacenter.org)** | **[Undergraduate Internship- Detention Hotline](https://jobright.ai/jobs/info/6981982c7f40342e15dabc2d?utm_campaign=1058&utm_source=git)** | Washington, DC | Remote | Feb 02 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Identity Management](https://jobright.ai/jobs/info/6981578149964d25b5e44b1f?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Feb 02 |
 | **[Optum](https://www.optum.com/)** | **[Pharmacist Graduate Intern,](https://jobright.ai/jobs/info/698156d27f40342e15da593b?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Feb 02 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Resolutions Intern (Summer 2026)](https://jobright.ai/jobs/info/6981561b7f40342e15da5878?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Feb 02 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Clinical Intern - Echocardiography](https://jobright.ai/jobs/info/698109fdabff4c399a9fd99b?utm_campaign=1058&utm_source=git)** | Murfreesboro, TN, US | On Site | Feb 02 |
 | **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Intro to Hospitality Internship](https://jobright.ai/jobs/info/68e6af5dae2b894b1d71c800?utm_campaign=1058&utm_source=git)** | Wisconsin Dells, WI | On Site | Feb 02 |
 | **[Minnkota Power Cooperative](http://www.minnkota.com/)** | **[Technical Support Intern](https://jobright.ai/jobs/info/69810f50abff4c399a9fe00b?utm_campaign=1058&utm_source=git)** | Grand Forks, North Dakota, United States | On Site | Feb 02 |
-| **[Needham Bank](http://needhambank.com)** | **[Intern - Customer Care Center (Summer 2026)](https://jobright.ai/jobs/info/6980e8ff7f40342e15d9c142?utm_campaign=1058&utm_source=git)** | Needham, MA | On Site | Feb 02 |
-| **[Kalahari Resorts & Conventions](http://www.kalahariresorts.com)** | **[Intro to Hospitality Internship](https://jobright.ai/jobs/info/68e6b0a3e8daec61499ad737?utm_campaign=1058&utm_source=git)** | Sandusky, OH | On Site | Feb 02 |
-| ↳ | **[Advanced Hospitality Internship](https://jobright.ai/jobs/info/68e6a792e8daec61499ad2e8?utm_campaign=1058&utm_source=git)** | Sandusky, OH | On Site | Feb 02 |
-| **[Middlesex Savings Bank](http://www.middlesexbank.com)** | **[System Support Intern](https://jobright.ai/jobs/info/6981051eabff4c399a9fd384?utm_campaign=1058&utm_source=git)** | Westborough, MA, US | On Site | Feb 02 |
-| **[Shady Grove Fertility](http://ShadyGroveFertility.com)** | **[Medical Assistant Intern](https://jobright.ai/jobs/info/698109b6abff4c399a9fd93f?utm_campaign=1058&utm_source=git)** | Webster, Texas, United States | On Site | Feb 02 |
-| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Gastro - APRN/PA - Instrc. I - Internal Medicine](https://jobright.ai/jobs/info/698111717f40342e15d9ebd1?utm_campaign=1058&utm_source=git)** | Florida, United States | On Site | Feb 02 |
-| **[Per Scholas](http://www.perscholas.org/)** | **[Information Technology Technician](https://jobright.ai/jobs/info/6980e663abff4c399a9faf82?utm_campaign=1058&utm_source=git)** | Buffalo, NY | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
