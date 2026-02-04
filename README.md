@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TowneBank](https://www.townebank.com/)** | **[Summer Intern - Processing Services Support](https://jobright.ai/jobs/info/692e061aef4b48533d13bbab?utm_campaign=1058&utm_source=git)** | Suffolk, VA | On Site | Feb 04 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[IT Intern Summer 2026](https://jobright.ai/jobs/info/694a408831c12007d3b902d9?utm_campaign=1058&utm_source=git)** | Ogden, UT | On Site | Feb 04 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[IT Intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/6982c999348f733a5c35c7e2?utm_campaign=1058&utm_source=git)** | Georgia, United States | On Site | Feb 04 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Service Design and Customer Experience](https://jobright.ai/jobs/info/69776c2e88e2b47213bb4523?utm_campaign=1058&utm_source=git)** | Detroit, MI | Hybrid | Feb 04 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[IT Intern](https://jobright.ai/jobs/info/6982ff53348f733a5c3615c9?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Feb 04 |
@@ -147,7 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69823be50f6f7e7a2cdb6566?utm_campaign=1058&utm_source=git)** | Lakeland, FL | On Site | Feb 03 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/698238b00f6f7e7a2cdb6177?utm_campaign=1058&utm_source=git)** | Laguna Niguel, CA | On Site | Feb 03 |
 | **[Froedtert Health](http://www.froedtert.com)** | **[RESPIRATORY CARE INTERN I](https://jobright.ai/jobs/info/69825ad80a9e07331f8d5ad3?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Feb 03 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Cardiothoracic ICU](https://jobright.ai/jobs/info/6982671c0a9e07331f8d6a11?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Feb 03 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Cardiothoracic ICU](https://jobright.ai/jobs/info/69825a8d348f733a5c352aef?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Feb 03 |
 | **[The State Group](https://www.stategroup.com)** | **[IT Intern - 2026-2027 Program](https://jobright.ai/jobs/info/698255190a9e07331f8d5399?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 03 |
 | **[Hatch](https://www.hatch.com)** | **[IT Service Desk Technician Intern (Summer 2026)](https://jobright.ai/jobs/info/698255290f6f7e7a2cdb7c80?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Feb 03 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Nurse  Intern- Emergency Department - Contingent - Warren](https://jobright.ai/jobs/info/698264e00a9e07331f8d6716?utm_campaign=1058&utm_source=git)** | Warren, Michigan | On Site | Feb 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software System Technologist Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/698237590f6f7e7a2cdb5ff3?utm_campaign=1058&utm_source=git)** | Allen, TX | Hybrid | Feb 03 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6982338f0f6f7e7a2cdb5eeb?utm_campaign=1058&utm_source=git)** | Milpitas, CA | On Site | Feb 03 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Lexington)](https://jobright.ai/jobs/info/6966d2105ad3a93f823238b4?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Feb 03 |
-| **[Central Bank](https://www.centralbank.net/)** | **[2026 Classic Club Intern](https://jobright.ai/jobs/info/698253000a9e07331f8d50c5?utm_campaign=1058&utm_source=git)** | Jefferson City, MO | On Site | Feb 03 |
-| **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Owensboro)](https://jobright.ai/jobs/info/69822ec7c3101f1400c3d613?utm_campaign=1058&utm_source=git)** | Owensboro, KY | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
