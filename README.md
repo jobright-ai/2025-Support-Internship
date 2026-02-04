@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Brenham](http://www.cityofbrenham.org)** | **[Tourism & Event Staff Internship](https://jobright.ai/jobs/info/6982bb730f6f7e7a2cdc0e83?utm_campaign=1058&utm_source=git)** | Brenham, TX | On Site | Feb 03 |
+| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/6982b063348f733a5c35a91e?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Feb 03 |
+| ↳ | **[Retail Pharmacy Intern](https://jobright.ai/jobs/info/6982b00c0f6f7e7a2cdc0225?utm_campaign=1058&utm_source=git)** | Cedar Rapids, IA | On Site | Feb 03 |
+| **[RR Donnelley](http://www.rrd.com)** | **[IT Production Support Specialist Summer Intern](https://jobright.ai/jobs/info/6982ae3c8232105a2d0b00bf?utm_campaign=1058&utm_source=git)** | Logan, UT | Hybrid | Feb 03 |
 | **[Marex](http://marexspectron.com)** | **[Information Technology Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982ac450f6f7e7a2cdbfe40?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 03 |
 | **[GATX](https://www.gatx.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/6982ab430f6f7e7a2cdbfd2c?utm_campaign=1058&utm_source=git)** | Hearne, TX, US | On Site | Feb 03 |
 | **[Marex](http://marexspectron.com)** | **[Information Technology Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982a1fd0a9e07331f8dcd46?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 03 |
@@ -65,6 +69,12 @@ For a complete list, click the following sortable link below:
 | **[Arcellx](http://www.arcellx.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/69829ccf348f733a5c359584?utm_campaign=1058&utm_source=git)** | Redwood City, CA | On Site | Feb 03 |
 | **[Optum](https://www.optum.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69829b790f6f7e7a2cdbecd1?utm_campaign=1058&utm_source=git)** | Gardena, CA | On Site | Feb 03 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Pharmacist Intern - General Pharmacy - PRN](https://jobright.ai/jobs/info/6966b31b5ad3a93f82320471?utm_campaign=1058&utm_source=git)** | Texarkana, TX | On Site | Feb 03 |
+| **[Marex](http://marexspectron.com)** | **[Client Services Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982b30a348f733a5c35ac0e?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 03 |
+| **[City of Brenham](http://www.cityofbrenham.org)** | **[Tourism & Event Staff Internship](https://jobright.ai/jobs/info/6982af388232105a2d0b01b3?utm_campaign=1058&utm_source=git)** | Brenham,TX,US | On Site | Feb 03 |
+| **[Watco](https://www.watco.com/)** | **[Intern, Information Technology - Pittsburg, Kansas](https://jobright.ai/jobs/info/6982b8338232105a2d0b0b13?utm_campaign=1058&utm_source=git)** | Pittsburg, KS | On Site | Feb 03 |
+| **[Marex](http://marexspectron.com)** | **[Information Technology Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982b3950f6f7e7a2cdc0618?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 03 |
+| ↳ | **[Client Services Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982b5858232105a2d0b0865?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 03 |
+| **[Genesee County Human Resources](https://www.geneseecountymi.gov/)** | **[IT INTERN (IT)](https://jobright.ai/jobs/info/6982ad20348f733a5c35a615?utm_campaign=1058&utm_source=git)** | Flint,MI,US | On Site | Feb 03 |
 | **[Maricopa County](http://www.maricopa.gov)** | **[Intern](https://jobright.ai/jobs/info/69828b540a9e07331f8da5dd?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Feb 03 |
 | **[InterWorks](http://www.interworks.com)** | **[IT Intern](https://jobright.ai/jobs/info/68596a3df7e1d7c7ec214cfc?utm_campaign=1058&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Feb 03 |
 | **[MIT Lincoln Laboratory](http://www.ll.mit.edu)** | **[Group 9-94 / CO-OP / IT Support / Electronics for Contested Space / Mar - Aug 2026](https://jobright.ai/jobs/info/6982a4820a9e07331f8dd02c?utm_campaign=1058&utm_source=git)** | Lexington, MA | On Site | Feb 03 |
@@ -104,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Peckham Industries, Inc.](http://peckham.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69826b0f0a9e07331f8d6e05?utm_campaign=1058&utm_source=git)** | Brewster, NY | On Site | Feb 03 |
 | **[Montage Hotels & Resorts](http://www.montagehotels.com)** | **[Food & Beverage Internship / Montage Palmetto Bluff](https://jobright.ai/jobs/info/698268c10a9e07331f8d6b95?utm_campaign=1058&utm_source=git)** | Bluffton, SC | On Site | Feb 03 |
 | **[PowerSouth Energy Cooperative](https://www.powersouth.com/)** | **[Computer Information Services Intern](https://jobright.ai/jobs/info/698264510f6f7e7a2cdb8e2f?utm_campaign=1058&utm_source=git)** | Andalusia, AL | On Site | Feb 03 |
-| **[Shady Grove Fertility](http://ShadyGroveFertility.com)** | **[Medical Assistant Intern](https://jobright.ai/jobs/info/6982a670348f733a5c359ee1?utm_campaign=1058&utm_source=git)** | Webster, TX | On Site | Feb 03 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Nurse Intern- Emergency Department - Contingent - Warren](https://jobright.ai/jobs/info/69825f5e348f733a5c352f73?utm_campaign=1058&utm_source=git)** | Warren, MI | On Site | Feb 03 |
 | **[Viasat](http://www.viasat.com)** | **[Desktop Support Technician Intern](https://jobright.ai/jobs/info/69827c59348f733a5c356348?utm_campaign=1058&utm_source=git)** | Carlsbad, CA | On Site | Feb 03 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Cardiothoracic ICU](https://jobright.ai/jobs/info/69825b8d0a9e07331f8d5bc4?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Feb 03 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mediacom Communications](http://mediacomcable.com)** | **[Internet Technical Support Representative I - Position Starts March 23rd, 2026](https://jobright.ai/jobs/info/69824574a314e7636905a9ec?utm_campaign=1058&utm_source=git)** | Valdosta, GA | Hybrid | Feb 03 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Florence)](https://jobright.ai/jobs/info/695dd91889be3415c746348b?utm_campaign=1058&utm_source=git)** | Florence, KY | On Site | Feb 03 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Material Handler (4-month) - Perth, ON, Canada](https://jobright.ai/jobs/info/69824610a314e7636905aa5f?utm_campaign=1058&utm_source=git)** | Perth, Ontario, Canada | On Site | Feb 03 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69824f750a9e07331f8d4c0e?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 03 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6982443aa314e7636905a884?utm_campaign=1058&utm_source=git)** | Muskegon, MI | On Site | Feb 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69824ecc348f733a5c351ba2?utm_campaign=1058&utm_source=git)** | Plant City, FL | On Site | Feb 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/698252f70a9e07331f8d50be?utm_campaign=1058&utm_source=git)** | Lakeland, FL | On Site | Feb 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/698242880f6f7e7a2cdb6bab?utm_campaign=1058&utm_source=git)** | Mesa, AZ | On Site | Feb 03 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/69825aa5348f733a5c352b0f?utm_campaign=1058&utm_source=git)** | Traverse City, MI | On Site | Feb 03 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/698246260f6f7e7a2cdb6f34?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 03 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/698248d30f6f7e7a2cdb7131?utm_campaign=1058&utm_source=git)** | O'Fallon, MO | On Site | Feb 03 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69825912348f733a5c352921?utm_campaign=1058&utm_source=git)** | Mesa, AZ | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
