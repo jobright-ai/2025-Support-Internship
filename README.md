@@ -57,15 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brinks Home](https://brinkshome.com/)** | **[Desktop Support Technician Intern](https://jobright.ai/jobs/info/6983a2be01214b4cdacb60b1?utm_campaign=1058&utm_source=git)** | Farmers Branch, Texas | On Site | Feb 04 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69839c3801214b4cdacb515c?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Feb 04 |
+| **[Flex](https://flex.com)** | **[IT ERP Intern - Summer 2026](https://jobright.ai/jobs/info/698389e301214b4cdacb41c5?utm_campaign=1058&utm_source=git)** | USA, UT, Salt Lake City | On Site | Feb 04 |
 | **[Wilderness Road Hospitality](https://wildernessroad.com/)** | **[Intern](https://jobright.ai/jobs/info/6983827b01214b4cdacb2f78?utm_campaign=1058&utm_source=git)** | Stanford, KY | On Site | Feb 04 |
-| **[Fox Chase Cancer Center](https://www.foxchase.org)** | **[PHARMACY INTERN (PT; 15hrs/wk) - Temple Health/Fox Chase Cancer Center](https://jobright.ai/jobs/info/6983811201214b4cdacb28f1?utm_campaign=1058&utm_source=git)** | Pennsylvania-Philadelphia | On Site | Feb 04 |
-| **[Temple Health – Temple University Health System](https://www.templehealth.org/)** | **[PHARMACY INTERN (PT; 15hrs/wk) - Temple Health/Fox Chase Cancer Center](https://jobright.ai/jobs/info/69837f4701214b4cdacb22bd?utm_campaign=1058&utm_source=git)** | Pennsylvania-Philadelphia | On Site | Feb 04 |
+| **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698397ba0f6f7e7a2cdd086e?utm_campaign=1058&utm_source=git)** | 3680 CROCKER DR, SACRAMENTO, CA, 95818, US | On Site | Feb 04 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Undergraduate Intern Summer 2026 - Technology](https://jobright.ai/jobs/info/69669ecf7a34f53920551c52?utm_campaign=1058&utm_source=git)** | Queens, NY | Hybrid | Feb 04 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Intern Summer IT RD&M](https://jobright.ai/jobs/info/6966dca5a112b4026614ef9a?utm_campaign=1058&utm_source=git)** | Ridgefield, CT | Hybrid | Feb 04 |
 | **[Maximus](http://www.maximus.com/)** | **[Desktop Support Intern (Onsite Eagan, MN)](https://jobright.ai/jobs/info/69665ff47a34f5392054e51d?utm_campaign=1058&utm_source=git)** | Eagan, MN | On Site | Feb 04 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69838f8701214b4cdacb49c2?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Feb 04 |
 | **[Miami HEAT](http://HEAT.com)** | **[Intern, IT](https://jobright.ai/jobs/info/6966c06ba112b4026614b9e8?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Feb 04 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/6983646801214b4cdacb1011?utm_campaign=1058&utm_source=git)** | Port St Lucie, FL | On Site | Feb 04 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6983639801214b4cdacb0fc4?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Feb 04 |
+| **[CarolinaEast Health System](https://www.carolinaeasthealth.com/)** | **[Cath Lab/EP Technology Intern - Paramedic](https://jobright.ai/jobs/info/6975b675206da320f49fbffc?utm_campaign=1058&utm_source=git)** | New Bern-MC Area | On Site | Feb 04 |
 | **[Allyn International](http://allynintl.com)** | **[Software Support Intern](https://jobright.ai/jobs/info/698360a001214b4cdacb0dc3?utm_campaign=1058&utm_source=git)** | Fort Myers, FL | On Site | Feb 04 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69835f0101214b4cdacb0c1f?utm_campaign=1058&utm_source=git)** | Mesa, AZ | On Site | Feb 04 |
 | **[Maximus](http://www.maximus.com/)** | **[Desktop Support Intern - IT Technician 1](https://jobright.ai/jobs/info/696666915ad3a93f8231bab7?utm_campaign=1058&utm_source=git)** | McLean, VA | On Site | Feb 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[IT Infrastructure Intern - Indianapolis, IN (Summer 2026)](https://jobright.ai/jobs/info/69827d250f6f7e7a2cdbbc14?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Feb 03 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69827c9e0a9e07331f8d9509?utm_campaign=1058&utm_source=git)** | Las Vegas, NV | On Site | Feb 03 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69827c890f6f7e7a2cdbbb99?utm_campaign=1058&utm_source=git)** | Wheat Ridge, CO | On Site | Feb 03 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69827c6d348f733a5c356361?utm_campaign=1058&utm_source=git)** | Arvada, CO | On Site | Feb 03 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69827c540a9e07331f8d944e?utm_campaign=1058&utm_source=git)** | Espanola, NM | On Site | Feb 03 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69827c390a9e07331f8d941c?utm_campaign=1058&utm_source=git)** | Sun City, AZ | On Site | Feb 03 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/69827c100f6f7e7a2cdbbb3a?utm_campaign=1058&utm_source=git)** | Tempe, AZ | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
