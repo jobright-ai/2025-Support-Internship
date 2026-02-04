@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hyatt](http://www.hyatt.com/)** | **[Summer 2026 - College Intern - Front Desk](https://jobright.ai/jobs/info/69679305f25a38006695e855?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Feb 04 |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Technical Information Services](https://jobright.ai/jobs/info/691b8157bcdbf3560c9df7ff?utm_campaign=1058&utm_source=git)** | Garland, TX | On Site | Feb 04 |
+| **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Spa J-1 Intern, Kohler Waters Spa](https://jobright.ai/jobs/info/6965c2565ad3a93f823122a6?utm_campaign=1058&utm_source=git)** | Kohler, WI | On Site | Feb 04 |
 | **[TowneBank](https://www.townebank.com/)** | **[Summer Intern - Processing Services Support](https://jobright.ai/jobs/info/692e061aef4b48533d13bbab?utm_campaign=1058&utm_source=git)** | Suffolk, VA | On Site | Feb 04 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[IT Intern Summer 2026](https://jobright.ai/jobs/info/694a408831c12007d3b902d9?utm_campaign=1058&utm_source=git)** | Ogden, UT | On Site | Feb 04 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[IT Intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/6982c999348f733a5c35c7e2?utm_campaign=1058&utm_source=git)** | Georgia, United States | On Site | Feb 04 |
@@ -129,6 +132,7 @@ For a complete list, click the following sortable link below:
 | **[Peckham Industries, Inc.](http://peckham.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/69826b0f0a9e07331f8d6e05?utm_campaign=1058&utm_source=git)** | Brewster, NY | On Site | Feb 03 |
 | **[Montage Hotels & Resorts](http://www.montagehotels.com)** | **[Food & Beverage Internship / Montage Palmetto Bluff](https://jobright.ai/jobs/info/698268c10a9e07331f8d6b95?utm_campaign=1058&utm_source=git)** | Bluffton, SC | On Site | Feb 03 |
 | **[PowerSouth Energy Cooperative](https://www.powersouth.com/)** | **[Computer Information Services Intern](https://jobright.ai/jobs/info/698264510f6f7e7a2cdb8e2f?utm_campaign=1058&utm_source=git)** | Andalusia, AL | On Site | Feb 03 |
+| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 - 6-Month College Intern - Steamboat Springs, CO (Front Office)](https://jobright.ai/jobs/info/697fb6ddabff4c399a9e3ee8?utm_campaign=1058&utm_source=git)** | Steamboat Springs, CO | On Site | Feb 03 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Nurse Intern- Emergency Department - Contingent - Warren](https://jobright.ai/jobs/info/69825f5e348f733a5c352f73?utm_campaign=1058&utm_source=git)** | Warren, MI | On Site | Feb 03 |
 | **[Viasat](http://www.viasat.com)** | **[Desktop Support Technician Intern](https://jobright.ai/jobs/info/69827c59348f733a5c356348?utm_campaign=1058&utm_source=git)** | Carlsbad, CA | On Site | Feb 03 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Cardiothoracic ICU](https://jobright.ai/jobs/info/69825b8d0a9e07331f8d5bc4?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Feb 03 |
@@ -149,12 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69823be50f6f7e7a2cdb6566?utm_campaign=1058&utm_source=git)** | Lakeland, FL | On Site | Feb 03 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/698238b00f6f7e7a2cdb6177?utm_campaign=1058&utm_source=git)** | Laguna Niguel, CA | On Site | Feb 03 |
 | **[Froedtert Health](http://www.froedtert.com)** | **[RESPIRATORY CARE INTERN I](https://jobright.ai/jobs/info/69825ad80a9e07331f8d5ad3?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Feb 03 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Cardiothoracic ICU](https://jobright.ai/jobs/info/69825a8d348f733a5c352aef?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Feb 03 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Cardiothoracic ICU](https://jobright.ai/jobs/info/6982671c0a9e07331f8d6a11?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Feb 03 |
 | **[The State Group](https://www.stategroup.com)** | **[IT Intern - 2026-2027 Program](https://jobright.ai/jobs/info/698255190a9e07331f8d5399?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 03 |
 | **[Hatch](https://www.hatch.com)** | **[IT Service Desk Technician Intern (Summer 2026)](https://jobright.ai/jobs/info/698255290f6f7e7a2cdb7c80?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Feb 03 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Nurse  Intern- Emergency Department - Contingent - Warren](https://jobright.ai/jobs/info/698264e00a9e07331f8d6716?utm_campaign=1058&utm_source=git)** | Warren, Michigan | On Site | Feb 03 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Software System Technologist Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/698237b5c3101f1400c3e8d0?utm_campaign=1058&utm_source=git)** | Allen, TX (TX139) | On Site | Feb 03 |
-| ↳ | **[Software System Technologist Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/698237590f6f7e7a2cdb5ff3?utm_campaign=1058&utm_source=git)** | Allen, TX | Hybrid | Feb 03 |
-| **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6982338f0f6f7e7a2cdb5eeb?utm_campaign=1058&utm_source=git)** | Milpitas, CA | On Site | Feb 03 |
-| **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Lexington)](https://jobright.ai/jobs/info/6966d2105ad3a93f823238b4?utm_campaign=1058&utm_source=git)** | Lexington, KY | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
