@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Hospitality & Guest Service Internships](https://jobright.ai/jobs/info/68d30af817554c2d9eeed47c?utm_campaign=1058&utm_source=git)** | Sandusky, OH | On Site | Feb 05 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support](https://jobright.ai/jobs/info/698485bf0f6f7e7a2cdeee7d?utm_campaign=1058&utm_source=git)** | Hampton, AR | On Site | Feb 05 |
+| **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/697ee86d7f40342e15d7a8aa?utm_campaign=1058&utm_source=git)** | Ripon, WI | On Site | Feb 05 |
 | **[Lovelace Health System](http://lovelace.com/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/698476e20f6f7e7a2cded6fb?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Feb 05 |
 | **[Arista Networks](http://www.arista.com)** | **[IT Intern](https://jobright.ai/jobs/info/69845d83348f733a5c385cdb?utm_campaign=1058&utm_source=git)** | Santa Clara, CA | Remote | Feb 05 |
 | **[Shaw Industries](https://shawinc.com)** | **[Information Technology Co-op/Internship Fall 2026](https://jobright.ai/jobs/info/69845be30f6f7e7a2cdeb62a?utm_campaign=1058&utm_source=git)** | Dalton, GA | On Site | Feb 05 |
@@ -64,6 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69845979348f733a5c385856?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 05 |
 | **[Maguire](http://maguireiron.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69847528348f733a5c387ceb?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | Feb 05 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/698457d60f6f7e7a2cdeb187?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 05 |
+| **[Arbour Counseling Services](https://arbourhealth.com/)** | **[May 2026 Outpatient Internship](https://jobright.ai/jobs/info/69847bcd8da7a612045eacae?utm_campaign=1058&utm_source=git)** | Worcester, MA | On Site | Feb 05 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/698477460f6f7e7a2cded77e?utm_campaign=1058&utm_source=git)** | Coeur d'Alene, ID | On Site | Feb 04 |
 | **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[IT Technical Support Services Intern](https://jobright.ai/jobs/info/698446a98da7a612045e623c?utm_campaign=1058&utm_source=git)** | Lansing, MI | On Site | Feb 04 |
 | **[MemorialCare](https://www.memorialcare.org)** | **[Pharmacy Intern Per Diem](https://jobright.ai/jobs/info/69728e869b83b424830e7e55?utm_campaign=1058&utm_source=git)** | Fountain Valley, CA | On Site | Feb 04 |
@@ -106,16 +110,18 @@ For a complete list, click the following sortable link below:
 | **[Diasorin](https://www.diasorin.com/)** | **[Intern, IT (End User Support)](https://jobright.ai/jobs/info/6983f287348f733a5c3790c5?utm_campaign=1058&utm_source=git)** | Stillwater, MN | Hybrid | Feb 04 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69842cfd0f6f7e7a2cde6c4f?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Feb 04 |
 | **[Group 1001](https://group1001.com/)** | **[Sales Support Intern](https://jobright.ai/jobs/info/69683f521703f05405a9f2dc?utm_campaign=1058&utm_source=git)** | Zionsville, IN | On Site | Feb 04 |
-| **[Community Health Network](https://www.ecommunity.com/)** | **[Intern - RN, Resource Team](https://jobright.ai/jobs/info/6983f0b1348f733a5c378fec?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Feb 04 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Customer Experience Strategic Research Graduate Intern](https://jobright.ai/jobs/info/69818ab149964d25b5e49cf3?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Feb 04 |
 | **[Promega Corporation](http://www.promega.com/es)** | **[IT Procurement Intern](https://jobright.ai/jobs/info/6983ed2701214b4cdacc2d71?utm_campaign=1058&utm_source=git)** | Madison, WI | On Site | Feb 04 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[General Services Intern](https://jobright.ai/jobs/info/6983eba90f6f7e7a2cdddede?utm_campaign=1058&utm_source=git)** | Las Cruces, NM | On Site | Feb 04 |
+| **[Community Health Network](https://www.ecommunity.com/)** | **[Intern- Respiratory Therapy, Kokomo](https://jobright.ai/jobs/info/6984973f0f6f7e7a2cdf0abd?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | Hybrid | Feb 04 |
 | **[The Christ Hospital Health Network](https://www.thechristhospital.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6983eb2601214b4cdacc27c6?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Feb 04 |
+| **[Shaw Contract EMEA](https://www.shawcontract.com/en-gb)** | **[Information Technology Co-op/Internship Fall 2026](https://jobright.ai/jobs/info/6984937d8da7a612045ec8ea?utm_campaign=1058&utm_source=git)** | Dalton, GA | On Site | Feb 04 |
 | **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698425e0348f733a5c3803ac?utm_campaign=1058&utm_source=git)** | 721 MECHEM DR, RUIDOSO, NM, 88345, US | On Site | Feb 04 |
 | **[Group 1001](https://group1001.com/)** | **[Workday Application Intern](https://jobright.ai/jobs/info/696821251703f05405a9c0e8?utm_campaign=1058&utm_source=git)** | Zionsville, IN | On Site | Feb 04 |
 | **[Providence](http://www.providence.org)** | **[Clinical Student Intern](https://jobright.ai/jobs/info/698420af0f6f7e7a2cde5026?utm_campaign=1058&utm_source=git)** | Richland, WA, United States | On Site | Feb 04 |
-| **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern SICU](https://jobright.ai/jobs/info/698459330f6f7e7a2cdeb2fa?utm_campaign=1058&utm_source=git)** | 1026 GOODYEAR AVENUE, GADSDEN, AL, 35903, US | On Site | Feb 04 |
-| ↳ | **[Nurse Intern](https://jobright.ai/jobs/info/698430a78da7a612045e3bfd?utm_campaign=1058&utm_source=git)** | 1026 GOODYEAR AVENUE, GADSDEN, AL, 35903, US | On Site | Feb 04 |
+| **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern](https://jobright.ai/jobs/info/698430a78da7a612045e3bfd?utm_campaign=1058&utm_source=git)** | 1026 GOODYEAR AVENUE, GADSDEN, AL, 35903, US | On Site | Feb 04 |
+| ↳ | **[Nurse Intern SICU](https://jobright.ai/jobs/info/698459330f6f7e7a2cdeb2fa?utm_campaign=1058&utm_source=git)** | 1026 GOODYEAR AVENUE, GADSDEN, AL, 35903, US | On Site | Feb 04 |
+| **[Covenant Health](https://www.covenanthealth.org)** | **[Clinical Student Intern](https://jobright.ai/jobs/info/6984897d348f733a5c38993d?utm_campaign=1058&utm_source=git)** | Richland, WA, United States | On Site | Feb 04 |
 | **[Providence](http://www.providence.org)** | **[Clinical Student Intern](https://jobright.ai/jobs/info/698477c2348f733a5c3880a9?utm_campaign=1058&utm_source=git)** | Richland, WA | On Site | Feb 04 |
 | **[PRACTICE](https://practicebc.com/)** | **[M.S Spanish Intern](https://jobright.ai/jobs/info/698417128da7a612045e05e8?utm_campaign=1058&utm_source=git)** | Queens, NY | On Site | Feb 04 |
 | **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Pharmacy Intern - Outpatient Pharmacy - Per Diem - Days - MHW](https://jobright.ai/jobs/info/6983dea8348f733a5c375fc2?utm_campaign=1058&utm_source=git)** | Pembroke Pines, FL | On Site | Feb 04 |
@@ -139,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[Dometic](https://www.dometic.com)** | **[Customer Service & Call Center Analyst Intern](https://jobright.ai/jobs/info/6983bfee0f6f7e7a2cdd66a9?utm_campaign=1058&utm_source=git)** | Katy, TX | Hybrid | Feb 04 |
 | ↳ | **[Customer Support and Operations Intern](https://jobright.ai/jobs/info/6983beaa0f6f7e7a2cdd62e0?utm_campaign=1058&utm_source=git)** | Katy, TX | Hybrid | Feb 04 |
 | **[Siouxland Community Health Ctr](https://www.slandchc.com)** | **[IT TECH INTERN](https://jobright.ai/jobs/info/6983bbb10f6f7e7a2cdd5b40?utm_campaign=1058&utm_source=git)** | Sioux City, IA | On Site | Feb 04 |
-| **[San Diego Supercomputer Center](http://www.sdsc.edu/)** | **[Medical Assistant II - Internal Medicine - 138366](https://jobright.ai/jobs/info/6983e049348f733a5c376431?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Feb 04 |
 | **[General Parts Group](http://generalparts.com)** | **[Apprentice Field Service Technician](https://jobright.ai/jobs/info/6983ba5e348f733a5c36ffce?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Feb 04 |
 | **[Western National Insurance](https://wnins.com)** | **[IT Desktop Services Intern](https://jobright.ai/jobs/info/696076627ebc25398eb66bc4?utm_campaign=1058&utm_source=git)** | Edina, MN | On Site | Feb 04 |
 | **[King Soopers/City Market](https://www.kingsoopers.com/)** | **[Pharmacy/Pharmacist Graduate Intern](https://jobright.ai/jobs/info/6983b9b40f6f7e7a2cdd558d?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Feb 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[IT Intern-Corporate Services Support](https://jobright.ai/jobs/info/6983b20b0f6f7e7a2cdd3fec?utm_campaign=1058&utm_source=git)** | Richmond, VA | Hybrid | Feb 04 |
 | **[Campbell County Health](https://www.cchwyo.org/)** | **[RADIOLOGY INTERN](https://jobright.ai/jobs/info/6983b07601214b4cdacb8534?utm_campaign=1058&utm_source=git)** | Gillette, WY | On Site | Feb 04 |
 | **[The State Group](https://www.stategroup.com)** | **[IT Intern - 2026-2027 Program](https://jobright.ai/jobs/info/6983ce84348f733a5c373224?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 04 |
-| **[The Christ Hospital Health Network](https://www.thechristhospital.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6983f9f101214b4cdacc453e?utm_campaign=1058&utm_source=git)** | 2100 Sherman Ave, Norwood, OH, 45212, US | On Site | Feb 04 |
-| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Software Asset Management Intern](https://jobright.ai/jobs/info/6983cc0701214b4cdacbccf7?utm_campaign=1058&utm_source=git)** | Pittsfield, MA | On Site | Feb 04 |
-| **[SAP](https://www.sap.com)** | **[SAP NS2 Business Support Associate Intern](https://jobright.ai/jobs/info/6983d00301214b4cdacbd856?utm_campaign=1058&utm_source=git)** | Herndon, VA | Hybrid | Feb 04 |
-| **[Hall County Government](http://www.hallcounty.org)** | **[Intern Part-Time](https://jobright.ai/jobs/info/6983d9d7348f733a5c37532f?utm_campaign=1058&utm_source=git)** | Gainesville, GA, US | On Site | Feb 04 |
-| **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Gold Rush Summer Intern - Business Solutions & Digital Workplace](https://jobright.ai/jobs/info/6984091e01214b4cdacc66a8?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
