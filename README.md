@@ -62,7 +62,9 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69845b0b0f6f7e7a2cdeb53c?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 05 |
 | ↳ | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69845979348f733a5c385856?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 05 |
 | ↳ | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/698457d60f6f7e7a2cdeb187?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 05 |
+| **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Wish Coordinating Intern, Create](https://jobright.ai/jobs/info/69846cb50f6f7e7a2cdec5f8?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Feb 04 |
 | **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[IT Technical Support Services Intern](https://jobright.ai/jobs/info/698446a98da7a612045e623c?utm_campaign=1058&utm_source=git)** | Lansing, MI | On Site | Feb 04 |
+| **[MemorialCare](https://www.memorialcare.org)** | **[Pharmacy Intern Per Diem](https://jobright.ai/jobs/info/69728e869b83b424830e7e55?utm_campaign=1058&utm_source=git)** | Fountain Valley, CA | On Site | Feb 04 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69845c128da7a612045e7fa9?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Feb 04 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69842db2348f733a5c3811a3?utm_campaign=1058&utm_source=git)** | Galloway, OH | On Site | Feb 04 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69842d09348f733a5c3810a1?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Feb 04 |
@@ -129,7 +131,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Guest Service](https://jobright.ai/jobs/info/696417a225e1871507809d7c?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 04 |
 | **[King Soopers/City Market](https://www.kingsoopers.com/)** | **[Pharmacy/Pharmacist Graduate Intern](https://jobright.ai/jobs/info/6983eb5e0f6f7e7a2cddddf9?utm_campaign=1058&utm_source=git)** | Peoria, IL | On Site | Feb 04 |
 | **[Smartrend Manufacturing Group (SMG)](https://smartrendmfg.com/)** | **[Network Support Analyst Student Co-Op](https://jobright.ai/jobs/info/6983e8650f6f7e7a2cddd5d3?utm_campaign=1058&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Feb 04 |
-| **[Temple Health – Temple University Health System](https://www.templehealth.org/)** | **[PHARMACY INTERN (PT; 15hrs/wk) - Temple Health/Fox Chase Cancer Center](https://jobright.ai/jobs/info/6983c6ff348f733a5c37216c?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Feb 04 |
 | **[Brinks Home](https://brinkshome.com/)** | **[Desktop Support Technician Intern](https://jobright.ai/jobs/info/6983ec330f6f7e7a2cdde05c?utm_campaign=1058&utm_source=git)** | Farmers Branch, TX | On Site | Feb 04 |
 | **[SNY](https://www.sny.tv/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6983c17001214b4cdacbb262?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 04 |
 | **[Dometic](https://www.dometic.com)** | **[Customer Service & Call Center Analyst Intern](https://jobright.ai/jobs/info/6983bfee0f6f7e7a2cdd66a9?utm_campaign=1058&utm_source=git)** | Katy, TX | Hybrid | Feb 04 |
@@ -140,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Western National Insurance](https://wnins.com)** | **[IT Desktop Services Intern](https://jobright.ai/jobs/info/696076627ebc25398eb66bc4?utm_campaign=1058&utm_source=git)** | Edina, MN | On Site | Feb 04 |
 | **[King Soopers/City Market](https://www.kingsoopers.com/)** | **[Pharmacy/Pharmacist Graduate Intern](https://jobright.ai/jobs/info/6983b9b40f6f7e7a2cdd558d?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Feb 04 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacy Intern, Per Diem - Samaritan Hospital](https://jobright.ai/jobs/info/6983b64001214b4cdacb948e?utm_campaign=1058&utm_source=git)** | Troy, NY | On Site | Feb 04 |
+| **[Temple Health – Temple University Health System](https://www.templehealth.org/)** | **[PHARMACY INTERN (PT; 15hrs/wk) - Temple Health/Fox Chase Cancer Center](https://jobright.ai/jobs/info/6983d8ba01214b4cdacbf076?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Feb 04 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Client Service Associate Intern](https://jobright.ai/jobs/info/6984182d348f733a5c37e517?utm_campaign=1058&utm_source=git)** | Conshohocken - Washington | Hybrid | Feb 04 |
 | **[The Cancer & Hematology Centers](https://www.chcwm.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6983b515348f733a5c36f1ef?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Feb 04 |
 | **[Erlanger](https://www.erlanger.org)** | **[PCT Intern-PRN](https://jobright.ai/jobs/info/6983d8250f6f7e7a2cdda626?utm_campaign=1058&utm_source=git)** | Chattanooga, TN | On Site | Feb 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Community Health Systems](http://www.chs.net)** | **[Student Intern-Nursing](https://jobright.ai/jobs/info/6983e80e0f6f7e7a2cddd4ab?utm_campaign=1058&utm_source=git)** | 2520 EAST DUPONT ROAD, FORT WAYNE, IN, 46825, US | On Site | Feb 04 |
 | **[Apogee](https://apogeeusa.com)** | **[Intern](https://jobright.ai/jobs/info/6983d14001214b4cdacbdc52?utm_campaign=1058&utm_source=git)** | Beavercreek, OH | Hybrid | Feb 04 |
 | **[Houlihan Lokey](https://www.hl.com)** | **[IT Operations Internship - Summer 2026](https://jobright.ai/jobs/info/6983d9810f6f7e7a2cddaaad?utm_campaign=1058&utm_source=git)** | Los Angeles, CA, USA | On Site | Feb 04 |
-| **[Licking Memorial Health Systems](http://www.lmhealth.org)** | **[Non-Clinical & Support Services Summer Internship](https://jobright.ai/jobs/info/6983ccb901214b4cdacbce4a?utm_campaign=1058&utm_source=git)** | Newark, OH | On Site | Feb 04 |
-| **[Fortrea](https://www.fortrea.com)** | **[Intern - End User Computing](https://jobright.ai/jobs/info/6983f41a0f6f7e7a2cdded94?utm_campaign=1058&utm_source=git)** | Burlington NC | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
