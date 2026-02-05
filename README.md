@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lovelace Health System](http://lovelace.com/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/698476e20f6f7e7a2cded6fb?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Feb 05 |
 | **[Arista Networks](http://www.arista.com)** | **[IT Intern](https://jobright.ai/jobs/info/69845d83348f733a5c385cdb?utm_campaign=1058&utm_source=git)** | Santa Clara, CA | Remote | Feb 05 |
 | **[Shaw Industries](https://shawinc.com)** | **[Information Technology Co-op/Internship Fall 2026](https://jobright.ai/jobs/info/69845be30f6f7e7a2cdeb62a?utm_campaign=1058&utm_source=git)** | Dalton, GA | On Site | Feb 05 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69845b0b0f6f7e7a2cdeb53c?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 05 |
 | ↳ | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69845979348f733a5c385856?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 05 |
-| ↳ | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/698457d60f6f7e7a2cdeb187?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 05 |
-| **[Make-A-Wish® Illinois](http://wish.org/illinois)** | **[Wish Coordinating Intern, Create](https://jobright.ai/jobs/info/69846cb50f6f7e7a2cdec5f8?utm_campaign=1058&utm_source=git)** | Chicago, IL | Hybrid | Feb 04 |
+| **[Maguire](http://maguireiron.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69847528348f733a5c387ceb?utm_campaign=1058&utm_source=git)** | Sioux Falls, SD | On Site | Feb 05 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/698457d60f6f7e7a2cdeb187?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 05 |
+| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/698477460f6f7e7a2cded77e?utm_campaign=1058&utm_source=git)** | Coeur d'Alene, ID | On Site | Feb 04 |
 | **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[IT Technical Support Services Intern](https://jobright.ai/jobs/info/698446a98da7a612045e623c?utm_campaign=1058&utm_source=git)** | Lansing, MI | On Site | Feb 04 |
 | **[MemorialCare](https://www.memorialcare.org)** | **[Pharmacy Intern Per Diem](https://jobright.ai/jobs/info/69728e869b83b424830e7e55?utm_campaign=1058&utm_source=git)** | Fountain Valley, CA | On Site | Feb 04 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69845c128da7a612045e7fa9?utm_campaign=1058&utm_source=git)** | Spokane, WA | On Site | Feb 04 |
@@ -112,8 +114,9 @@ For a complete list, click the following sortable link below:
 | **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698425e0348f733a5c3803ac?utm_campaign=1058&utm_source=git)** | 721 MECHEM DR, RUIDOSO, NM, 88345, US | On Site | Feb 04 |
 | **[Group 1001](https://group1001.com/)** | **[Workday Application Intern](https://jobright.ai/jobs/info/696821251703f05405a9c0e8?utm_campaign=1058&utm_source=git)** | Zionsville, IN | On Site | Feb 04 |
 | **[Providence](http://www.providence.org)** | **[Clinical Student Intern](https://jobright.ai/jobs/info/698420af0f6f7e7a2cde5026?utm_campaign=1058&utm_source=git)** | Richland, WA, United States | On Site | Feb 04 |
-| **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern](https://jobright.ai/jobs/info/698430a78da7a612045e3bfd?utm_campaign=1058&utm_source=git)** | 1026 GOODYEAR AVENUE, GADSDEN, AL, 35903, US | On Site | Feb 04 |
-| ↳ | **[Nurse Intern SICU](https://jobright.ai/jobs/info/698459330f6f7e7a2cdeb2fa?utm_campaign=1058&utm_source=git)** | 1026 GOODYEAR AVENUE, GADSDEN, AL, 35903, US | On Site | Feb 04 |
+| **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern SICU](https://jobright.ai/jobs/info/698459330f6f7e7a2cdeb2fa?utm_campaign=1058&utm_source=git)** | 1026 GOODYEAR AVENUE, GADSDEN, AL, 35903, US | On Site | Feb 04 |
+| ↳ | **[Nurse Intern](https://jobright.ai/jobs/info/698430a78da7a612045e3bfd?utm_campaign=1058&utm_source=git)** | 1026 GOODYEAR AVENUE, GADSDEN, AL, 35903, US | On Site | Feb 04 |
+| **[Providence](http://www.providence.org)** | **[Clinical Student Intern](https://jobright.ai/jobs/info/698477c2348f733a5c3880a9?utm_campaign=1058&utm_source=git)** | Richland, WA | On Site | Feb 04 |
 | **[PRACTICE](https://practicebc.com/)** | **[M.S Spanish Intern](https://jobright.ai/jobs/info/698417128da7a612045e05e8?utm_campaign=1058&utm_source=git)** | Queens, NY | On Site | Feb 04 |
 | **[Memorial Healthcare System](http://www.memorialregional.com)** | **[Pharmacy Intern - Outpatient Pharmacy - Per Diem - Days - MHW](https://jobright.ai/jobs/info/6983dea8348f733a5c375fc2?utm_campaign=1058&utm_source=git)** | Pembroke Pines, FL | On Site | Feb 04 |
 | **[eTITLE Agency, Inc.](http://etitleagency.com)** | **[IT Internship](https://jobright.ai/jobs/info/6984047c0f6f7e7a2cde1395?utm_campaign=1058&utm_source=git)** | Troy, MI, US | Hybrid | Feb 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Business Support Associate Intern](https://jobright.ai/jobs/info/6983d00301214b4cdacbd856?utm_campaign=1058&utm_source=git)** | Herndon, VA | Hybrid | Feb 04 |
 | **[Hall County Government](http://www.hallcounty.org)** | **[Intern Part-Time](https://jobright.ai/jobs/info/6983d9d7348f733a5c37532f?utm_campaign=1058&utm_source=git)** | Gainesville, GA, US | On Site | Feb 04 |
 | **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Gold Rush Summer Intern - Business Solutions & Digital Workplace](https://jobright.ai/jobs/info/6984091e01214b4cdacc66a8?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 04 |
-| **[Community Health Systems](http://www.chs.net)** | **[Student Intern-Nursing](https://jobright.ai/jobs/info/6983e80e0f6f7e7a2cddd4ab?utm_campaign=1058&utm_source=git)** | 2520 EAST DUPONT ROAD, FORT WAYNE, IN, 46825, US | On Site | Feb 04 |
-| **[Apogee](https://apogeeusa.com)** | **[Intern](https://jobright.ai/jobs/info/6983d14001214b4cdacbdc52?utm_campaign=1058&utm_source=git)** | Beavercreek, OH | Hybrid | Feb 04 |
-| **[Houlihan Lokey](https://www.hl.com)** | **[IT Operations Internship - Summer 2026](https://jobright.ai/jobs/info/6983d9810f6f7e7a2cddaaad?utm_campaign=1058&utm_source=git)** | Los Angeles, CA, USA | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
