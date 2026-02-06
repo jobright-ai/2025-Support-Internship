@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943e68d94730b7398771073?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Feb 05 |
+| **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern](https://jobright.ai/jobs/info/698563a0348f733a5c39c239?utm_campaign=1058&utm_source=git)** | Altoona, PA | On Site | Feb 05 |
+| **[Henry Ford Health](http://www.henryford.com/)** | **[Pharmacy Intern - Contingent Rotating - Grand Blanc](https://jobright.ai/jobs/info/69856249348f733a5c39bf8e?utm_campaign=1058&utm_source=git)** | Grand Blanc, MI | On Site | Feb 05 |
 | **[Ergon Inc.](http://ergon.com)** | **[Salesforce Intern](https://jobright.ai/jobs/info/69855ff38da7a612045fe84c?utm_campaign=1058&utm_source=git)** | Flowood, MS | On Site | Feb 05 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT - Defense Systems Division, Irvine](https://jobright.ai/jobs/info/69855fe70f6f7e7a2ce01891?utm_campaign=1058&utm_source=git)** | Irvine, CA | On Site | Feb 05 |
 | **[IBM](http://www.ibm.com)** | **[Tech Support Intern 2026](https://jobright.ai/jobs/info/696827cc1703f05405a9c9f6?utm_campaign=1058&utm_source=git)** | San Jose, CA | Hybrid | Feb 05 |
@@ -71,6 +74,11 @@ For a complete list, click the following sortable link below:
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Pharmacy Intern - Retail - West Penn Hospital](https://jobright.ai/jobs/info/6985507c0f6f7e7a2cdff922?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Feb 05 |
 | **[GSK](http://www.gsk.com)** | **[Patient Support Program Summer Intern - Mississauga, ON](https://jobright.ai/jobs/info/698550468da7a612045fc969?utm_campaign=1058&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 05 |
 | **[Resmed](https://www.resmed.com.au)** | **[IT Support Analyst Intern](https://jobright.ai/jobs/info/69854872348f733a5c399092?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Feb 05 |
+| **[Penske Logistics](https://www.penskelogistics.com/)** | **[IT Internship (DCM Support)](https://jobright.ai/jobs/info/698565390f6f7e7a2ce02246?utm_campaign=1058&utm_source=git)** | Beachwood, OH | On Site | Feb 05 |
+| **[American Rheinmetall](https://www.rheinmetall.com/en/company/subsidiaries/american-rheinmetall-defense)** | **[IT Intern](https://jobright.ai/jobs/info/6985669f0f6f7e7a2ce02312?utm_campaign=1058&utm_source=git)** | Lansing, MI | On Site | Feb 05 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/698566a20f6f7e7a2ce02315?utm_campaign=1058&utm_source=git)** | Lapeer, MI | On Site | Feb 05 |
+| **[Sarasota Memorial Health Care System](https://www.smh.com/)** | **[**Hiring Registered Nurse Intern NICU Neo-Natal ICU Full Time Night Shift**](https://jobright.ai/jobs/info/698566000f6f7e7a2ce022b8?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | Feb 05 |
+| **[Capital Caring Health](https://www.capitalcaring.org/)** | **[IT Hardware Technician Per Diem Intern - Falls Church, VA](https://jobright.ai/jobs/info/698561d2348f733a5c39be8d?utm_campaign=1058&utm_source=git)** | Fairfax County, VA | On Site | Feb 05 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[ICU RN Internship –ED to Neuro/Surgical ICU](https://jobright.ai/jobs/info/698540778da7a612045fb1eb?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Feb 05 |
 | **[Promega Corporation](http://www.promega.com/es)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/698540700f6f7e7a2cdfe030?utm_campaign=1058&utm_source=git)** | San Luis Obispo, CA | On Site | Feb 05 |
 | **[Avancez LLC](https://www.avancezassembly.com/)** | **[Technical Intern](https://jobright.ai/jobs/info/69698b7af25a3800669830cf?utm_campaign=1058&utm_source=git)** | Greater Lansing | On Site | Feb 05 |
@@ -118,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Geisinger](https://www.geisinger.org)** | **[Pharmacy Intern Technician - Summer Intern](https://jobright.ai/jobs/info/6985174d348f733a5c393f7b?utm_campaign=1058&utm_source=git)** | Muncy, PA | On Site | Feb 05 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Sonography Technologist Intern](https://jobright.ai/jobs/info/6984f6a68da7a612045f3e2e?utm_campaign=1058&utm_source=git)** | US-WI-Appleton | On Site | Feb 05 |
 | **[Valley Baptist Health System](https://www.valleybaptist.net)** | **[Student Intern Surgery Per Diem Days](https://jobright.ai/jobs/info/69851aba348f733a5c394779?utm_campaign=1058&utm_source=git)** | Brownsville, TX | On Site | Feb 05 |
-| **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Vascular Student Intern](https://jobright.ai/jobs/info/69851b60348f733a5c39488c?utm_campaign=1058&utm_source=git)** | West Easton, PA | On Site | Feb 05 |
-| ↳ | **[Vascular Student Intern](https://jobright.ai/jobs/info/69851457348f733a5c393973?utm_campaign=1058&utm_source=git)** | Quakertown, PA | On Site | Feb 05 |
+| **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Vascular Student Intern](https://jobright.ai/jobs/info/69851457348f733a5c393973?utm_campaign=1058&utm_source=git)** | Quakertown, PA | On Site | Feb 05 |
+| ↳ | **[Vascular Student Intern](https://jobright.ai/jobs/info/69851b60348f733a5c39488c?utm_campaign=1058&utm_source=git)** | West Easton, PA | On Site | Feb 05 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/6977dc8a88e2b47213bbd819?utm_campaign=1058&utm_source=git)** | Fond du Lac, WI | Hybrid | Feb 05 |
 | **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Vascular Student Intern](https://jobright.ai/jobs/info/698518f2348f733a5c39435c?utm_campaign=1058&utm_source=git)** | West Bethlehem, PA | On Site | Feb 05 |
 | ↳ | **[Vascular Student Intern](https://jobright.ai/jobs/info/6985135d348f733a5c39379c?utm_campaign=1058&utm_source=git)** | East Stroudsburg, PA | On Site | Feb 05 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Driscoll's](http://www.driscolls.com)** | **[Information Services - Service Management Intern](https://jobright.ai/jobs/info/6984c4850f6f7e7a2cdf36e3?utm_campaign=1058&utm_source=git)** | US - Watsonville, California | On Site | Feb 05 |
 | **[Henkel](http://www.henkel.com)** | **[Digital Customer Experience & Transformations Intern: Summer - Fall 2026](https://jobright.ai/jobs/info/69817d227f40342e15da86cc?utm_campaign=1058&utm_source=git)** | Rocky Hill, CT | On Site | Feb 05 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6984dc578da7a612045f2731?utm_campaign=1058&utm_source=git)** | Boiling Springs, SC | On Site | Feb 05 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/6984bb4c348f733a5c38d3d9?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 05 |
-| **[TowneBank](https://www.townebank.com/)** | **[Summer Intern - Card Services](https://jobright.ai/jobs/info/692fadedfa28370be26acb50?utm_campaign=1058&utm_source=git)** | Suffolk, VA | On Site | Feb 05 |
-| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6948ed3863141d1884589708?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | Feb 05 |
-| **[Henkel](http://www.henkel.com)** | **[Digital Customer Experience & Transformations Intern: Summer - Fall 2026](https://jobright.ai/jobs/info/695f504ba1bbea1d9a7a1c61?utm_campaign=1058&utm_source=git)** | Bridgewater, NJ | Hybrid | Feb 05 |
-| ↳ | **[Digital Customer Experience & Transformations Intern: Summer - Fall 2026](https://jobright.ai/jobs/info/69602cd1a112b402660ee525?utm_campaign=1058&utm_source=git)** | Rocky Hill, CT | Hybrid | Feb 05 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/6984b2ff8da7a612045ef522?utm_campaign=1058&utm_source=git)** | Tacoma, WA | On Site | Feb 05 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6984b2c98da7a612045ef513?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Feb 05 |
-| **[Allegheny Health Network](https://www.ahn.org)** | **[Radiology Technologist Intern / Casual / AGH](https://jobright.ai/jobs/info/6984b2818da7a612045ef4fe?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
