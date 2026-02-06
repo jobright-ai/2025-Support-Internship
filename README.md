@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[Perioperative Registered Nurse Intern (Periop 101) Parker](https://jobright.ai/jobs/info/6985e9268ca8121a3a681bc1?utm_campaign=1058&utm_source=git)** | Parker, CO | On Site | Feb 06 |
+| **[Baptist Health](http://careers.baptisthealth.net)** | **[Pharmacy Intern 2, Ambulatory Pharmacy Services, Per Diem, Varies](https://jobright.ai/jobs/info/6888e5679f961617fe210234?utm_campaign=1058&utm_source=git)** | Miami Lakes, FL | On Site | Feb 06 |
+| **[Trex Company](http://www.trex.com)** | **[2026 Summer Internship Program - Information Technology](https://jobright.ai/jobs/info/68ce23651ad6b16f028a227f?utm_campaign=1058&utm_source=git)** | Winchester, VA | On Site | Feb 06 |
+| **[Medline](http://www.medline.com/home.jsp)** | **[Healthcare Customer Service Internship](https://jobright.ai/jobs/info/6969d99f1703f05405abe746?utm_campaign=1058&utm_source=git)** | Dubuque, IA | Hybrid | Feb 06 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Commercial Lines Intern - Summer 2026](https://jobright.ai/jobs/info/6931f468fa28370be26bfbb3?utm_campaign=1058&utm_source=git)** | Harrison, NY | Hybrid | Feb 06 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Nurse Extern I - Nursing Internship - PRN](https://jobright.ai/jobs/info/6985c1978da7a61204607144?utm_campaign=1058&utm_source=git)** | Lake Charles, LA | On Site | Feb 06 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Paid Internship (Fort Collins, CO)](https://jobright.ai/jobs/info/6913fce5d1047e3565d07a89?utm_campaign=1058&utm_source=git)** | Fort Collins, CO | On Site | Feb 06 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/6985b8498ca8121a3a67e94e?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 06 |
@@ -77,6 +82,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Operations Internship - Guest Services](https://jobright.ai/jobs/info/6985b3440f6f7e7a2ce092da?utm_campaign=1058&utm_source=git)** | Monterey, CA, US | On Site | Feb 05 |
 | **[Davidson Hospitality Group](https://davidsonhospitality.com/)** | **[Summer Operations Internship - Guest Services](https://jobright.ai/jobs/info/6985a7278da7a612046058c0?utm_campaign=1058&utm_source=git)** | US-CA-Monterey | On Site | Feb 05 |
 | **[Texas Health Resources](https://www.texashealth.org/)** | **[Respiratory Care Intern PRN Days](https://jobright.ai/jobs/info/696867ff639b452fb57e0dba?utm_campaign=1058&utm_source=git)** | Arlington, TX | On Site | Feb 05 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Gastro - APRN/PA - Instrc. I - Internal Medicine](https://jobright.ai/jobs/info/6985db558ca8121a3a680d03?utm_campaign=1058&utm_source=git)** | Florida, United States | On Site | Feb 05 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69857b708da7a6120460192d?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Feb 05 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/698579568da7a6120460171d?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Feb 05 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/698576ea8da7a61204601388?utm_campaign=1058&utm_source=git)** | Sierra Vista, AZ | On Site | Feb 05 |
@@ -111,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Grifols](http://www.grifols.com)** | **[Intern - Medical Information](https://jobright.ai/jobs/info/69856bfa0f6f7e7a2ce02f94?utm_campaign=1058&utm_source=git)** | NC-RTP | Hybrid | Feb 05 |
 | **[Resmed](https://www.resmed.com.au)** | **[IT Support Analyst Intern](https://jobright.ai/jobs/info/69854872348f733a5c399092?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Feb 05 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[IT Internship (DCM Support)](https://jobright.ai/jobs/info/698565390f6f7e7a2ce02246?utm_campaign=1058&utm_source=git)** | Beachwood, OH | On Site | Feb 05 |
-| **[American Rheinmetall](https://www.rheinmetall.com/en/company/subsidiaries/american-rheinmetall-defense)** | **[IT Intern](https://jobright.ai/jobs/info/6985b33f0f6f7e7a2ce092d4?utm_campaign=1058&utm_source=git)** | Lapeer, MI | On Site | Feb 05 |
 | **[Sarasota Memorial Health Care System](https://www.smh.com/)** | **[**Hiring Registered Nurse Intern NICU Neo-Natal ICU Full Time Night Shift**](https://jobright.ai/jobs/info/698566000f6f7e7a2ce022b8?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | Feb 05 |
 | **[Capital Caring Health](https://www.capitalcaring.org/)** | **[IT Hardware Technician Per Diem Intern - Falls Church, VA](https://jobright.ai/jobs/info/698561d2348f733a5c39be8d?utm_campaign=1058&utm_source=git)** | Fairfax County, VA | On Site | Feb 05 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[ICU RN Internship –ED to Neuro/Surgical ICU](https://jobright.ai/jobs/info/698540778da7a612045fb1eb?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Feb 05 |
@@ -148,13 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69858cbb0f6f7e7a2ce067af?utm_campaign=1058&utm_source=git)** | Ripon, CA | On Site | Feb 05 |
 | ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/698590658da7a61204603abb?utm_campaign=1058&utm_source=git)** | Gun Barrel City, TX | On Site | Feb 05 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6985ba998da7a61204606798?utm_campaign=1058&utm_source=git)** | Hartville, OH | On Site | Feb 05 |
-| **[Penske Logistics](https://www.penskelogistics.com/)** | **[IT Internship (DCM Support)](https://jobright.ai/jobs/info/69855c85348f733a5c39b384?utm_campaign=1058&utm_source=git)** | 3000 Auburn Dr, Beachwood, OH, 44122, US | On Site | Feb 05 |
-| ↳ | **[IT Internship (Financial Apps)](https://jobright.ai/jobs/info/69853cfb348f733a5c397bc1?utm_campaign=1058&utm_source=git)** | 3000 Auburn Dr, Beachwood, OH, 44122, US | On Site | Feb 05 |
+| **[Penske Logistics](https://www.penskelogistics.com/)** | **[IT Internship (Financial Apps)](https://jobright.ai/jobs/info/69853cfb348f733a5c397bc1?utm_campaign=1058&utm_source=git)** | 3000 Auburn Dr, Beachwood, OH, 44122, US | On Site | Feb 05 |
+| ↳ | **[IT Internship (DCM Support)](https://jobright.ai/jobs/info/69855c85348f733a5c39b384?utm_campaign=1058&utm_source=git)** | 3000 Auburn Dr, Beachwood, OH, 44122, US | On Site | Feb 05 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6985c1838ca8121a3a67f11a?utm_campaign=1058&utm_source=git)** | Sanborn, NY | On Site | Feb 05 |
 | **[Mouser Electronics](http://mouser.com)** | **[Service and Sales Intern](https://jobright.ai/jobs/info/69854276348f733a5c3986c9?utm_campaign=1058&utm_source=git)** | Mansfield, TX, United States | On Site | Feb 05 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Pharmacy Intern - Retail - West Penn Hospital](https://jobright.ai/jobs/info/698514c3348f733a5c393a4c?utm_campaign=1058&utm_source=git)** | Pittsburgh PA, 15224, West Penn 4800 Friendship Ave | On Site | Feb 05 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6985410c348f733a5c3983f0?utm_campaign=1058&utm_source=git)** | Mesa, AZ | On Site | Feb 05 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/698538260f6f7e7a2cdfcef7?utm_campaign=1058&utm_source=git)** | Akron, OH | On Site | Feb 05 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Pharmacy Intern - Canonsburg Hospital - "Smoking Cessation"](https://jobright.ai/jobs/info/698512370f6f7e7a2cdf8fc9?utm_campaign=1058&utm_source=git)** | Canonsburg PA, 15317, 400 Southpointe Blvd | Hybrid | Feb 05 |
-| **[Northwest Federal Credit Union](https://www.nwfcu.org)** | **[IT Desktop Support Intern](https://jobright.ai/jobs/info/698510e68da7a612045f61fd?utm_campaign=1058&utm_source=git)** | Herndon, VA | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
