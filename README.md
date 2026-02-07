@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[University of Michigan](https://www.umich.edu)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/6986f49b8da7a61204620589?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 07 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/6986fd870f6f7e7a2ce238e3?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 07 |
+| **[LASIK MD](https://www.lasikmd.com/)** | **[Ophthalmic Technician Internship - Summer 2026](https://jobright.ai/jobs/info/6986fc038ca8121a3a698151?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 07 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/6986f8d80f6f7e7a2ce233ce?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 07 |
+| ↳ | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/6986f49b8da7a61204620589?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 07 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Pharmacy Intern-24606](https://jobright.ai/jobs/info/6986f2258da7a61204620377?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 07 |
 | **[Essentia Health](https://www.essentiahealth.org/)** | **[Pharmacist Intern - Population Health](https://jobright.ai/jobs/info/6986ec1a8da7a6120461faed?utm_campaign=1058&utm_source=git)** | Essentia Health Superior Belknap Pharmacy | On Site | Feb 06 |
 | **[Gadsden Regional Medical Center](https://www.gadsdenregional.com/)** | **[Nurse Intern](https://jobright.ai/jobs/info/6986e8ea8da7a6120461f91a?utm_campaign=1058&utm_source=git)** | Gadsden, AL | On Site | Feb 06 |
@@ -104,12 +107,12 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Clinical Imaging](https://jobright.ai/jobs/info/6986a52a8da7a612046182a6?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
 | ↳ | **[IT Intern - Clinical Imaging](https://jobright.ai/jobs/info/6986aaf28ca8121a3a69053b?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | Feb 06 |
 | ↳ | **[Nurse Intern - Cardiothoracic Progressive Care Unit](https://jobright.ai/jobs/info/6986ae590f6f7e7a2ce1bdd8?utm_campaign=1058&utm_source=git)** | Wichita, KS, US | On Site | Feb 06 |
+| ↳ | **[IT Intern - Knowledge Management](https://jobright.ai/jobs/info/6986ac320f6f7e7a2ce1baa2?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| ↳ | **[IT Intern - IT Service Management (ITSM)](https://jobright.ai/jobs/info/6986a16e8ca8121a3a68f19d?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | Feb 06 |
+| ↳ | **[IT Intern - IT Service Management (ITSM)](https://jobright.ai/jobs/info/6986a2948da7a61204617f05?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| ↳ | **[IT Intern- Clinical Imaging](https://jobright.ai/jobs/info/6986a4de0f6f7e7a2ce1afd6?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | Feb 06 |
 | ↳ | **[IT Intern- Clinical Imaging](https://jobright.ai/jobs/info/6986a94e8ca8121a3a6901db?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
 | ↳ | **[IT Intern - Knowledge Management](https://jobright.ai/jobs/info/6986bb988da7a6120461a750?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | Feb 06 |
-| ↳ | **[IT Intern - IT Service Management (ITSM)](https://jobright.ai/jobs/info/6986a16e8ca8121a3a68f19d?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | Feb 06 |
-| ↳ | **[IT Intern - Knowledge Management](https://jobright.ai/jobs/info/6986ac320f6f7e7a2ce1baa2?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
-| ↳ | **[IT Intern- Clinical Imaging](https://jobright.ai/jobs/info/6986a4de0f6f7e7a2ce1afd6?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | Feb 06 |
-| ↳ | **[IT Intern - IT Service Management (ITSM)](https://jobright.ai/jobs/info/6986a2948da7a61204617f05?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
 | ↳ | **[IT Intern - Asset and Configuration Management](https://jobright.ai/jobs/info/6986ac5e8ca8121a3a6907b8?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | Feb 06 |
 | ↳ | **[IT Intern - Asset and Configuration Management](https://jobright.ai/jobs/info/6986a4568da7a6120461819e?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
 | **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6986a0ff8ca8121a3a68f0cd?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Feb 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RF-SMART](http://rfsmart.com/)** | **[IT Intern](https://jobright.ai/jobs/info/69863b818ca8121a3a686a2c?utm_campaign=1058&utm_source=git)** | Jacksonville, Florida, United States | On Site | Feb 06 |
 | **[Maricopa County](http://www.maricopa.gov)** | **[Intern](https://jobright.ai/jobs/info/69863b7f0f6f7e7a2ce11e14?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Feb 06 |
 | **[Sentara Health](http://www.sentara.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69863ade8da7a6120460ec23?utm_campaign=1058&utm_source=git)** | Norfolk, VA | Hybrid | Feb 06 |
-| **[Conner Strong & Buckelew](https://www.connerstrong.com)** | **[IT Intern](https://jobright.ai/jobs/info/69863a970f6f7e7a2ce11d02?utm_campaign=1058&utm_source=git)** | Camden, New Jersey, United States | On Site | Feb 06 |
-| **[Massachusetts Water Resources Authority](https://www.linkedin.com/company/mwra)** | **[Intern, Technical Support](https://jobright.ai/jobs/info/69868fc08ca8121a3a68ddaf?utm_campaign=1058&utm_source=git)** | Chelsea,MA,US | On Site | Feb 06 |
-| **[Impinj](http://www.impinj.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/6986335c8da7a6120460e5ed?utm_campaign=1058&utm_source=git)** | Seattle, WA | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
