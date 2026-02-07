@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capacity](http://www.capacityllc.com)** | **[IT Intern](https://jobright.ai/jobs/info/6986d5db8ca8121a3a695b7f?utm_campaign=1058&utm_source=git)** | North Brunswick, NJ | On Site | Feb 06 |
+| **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern- 4N](https://jobright.ai/jobs/info/6986cfe78ca8121a3a694f90?utm_campaign=1058&utm_source=git)** | 4370 W MAIN ST, DOTHAN, AL, 36305, US | On Site | Feb 06 |
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Information Technology Intern - Summer 2026](https://jobright.ai/jobs/info/6986c83f8ca8121a3a6940c1?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
 | **[ABB](https://global.abb/group/en)** | **[Non-ERP Junior IS Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6986c80f8da7a6120461bc11?utm_campaign=1058&utm_source=git)** | Milton, Ontario, Canada | On Site | Feb 06 |
 | **[Impinj](http://www.impinj.com)** | **[Template / United States, Intern](https://jobright.ai/jobs/info/6986c69c0f6f7e7a2ce1e997?utm_campaign=1058&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 06 |
@@ -73,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Asset and Configuration Management](https://jobright.ai/jobs/info/6986a76f0f6f7e7a2ce1b3b1?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Echo Sonography Intern - Echocardiology](https://jobright.ai/jobs/info/6986a4638da7a612046181b7?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Feb 06 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Cardiothoracic Progressive Care Unit](https://jobright.ai/jobs/info/6986a3bf8da7a612046180b8?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Feb 06 |
-| **[SONS' INDIA SOFTWARE PVT. LTD.](http://www.sonsindia.co.in)** | **[INTERN - CUSTOMER SERVICE](https://jobright.ai/jobs/info/6986caa90f6f7e7a2ce1ec6b?utm_campaign=1058&utm_source=git)** | Thomasville, GA | On Site | Feb 06 |
+| **[SONS' INDIA SOFTWARE PVT. LTD.](http://www.sonsindia.co.in)** | **[INTERN - CUSTOMER SERVICE](https://jobright.ai/jobs/info/6986d2760f6f7e7a2ce205cc?utm_campaign=1058&utm_source=git)** | Thomasville, GA | On Site | Feb 06 |
 | **[Ascension](https://healthcare.ascension.org)** | **[IT Intern- Clinical Imaging](https://jobright.ai/jobs/info/6986a1e28da7a61204617e1d?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 06 |
 | **[IMCMV Holdings, Inc- Margaritaville Restaurants](https://www.margaritaville.com/careers)** | **[Copy of Front of House Leadership Intern](https://jobright.ai/jobs/info/6986a1cd8da7a61204617e02?utm_campaign=1058&utm_source=git)** | Myrtle Beach, SC | On Site | Feb 06 |
 | **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Knowledge Management](https://jobright.ai/jobs/info/6986c6820f6f7e7a2ce1e98b?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 06 |
@@ -87,27 +89,27 @@ For a complete list, click the following sortable link below:
 | **[JFK International Air Terminal](https://www.jfkt4.nyc)** | **[Intern, Operations](https://jobright.ai/jobs/info/69868aff8da7a61204615cc8?utm_campaign=1058&utm_source=git)** | Jamaica, NY | On Site | Feb 06 |
 | **[The Cancer & Hematology Centers](https://www.chcwm.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/696aa5b8350cf4380311949f?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Feb 06 |
 | **[Metropolitan District Commission](https://themdc.org)** | **[College Intern -Customer Service](https://jobright.ai/jobs/info/6986bcc08ca8121a3a692910?utm_campaign=1058&utm_source=git)** | 231 Brainard Road, Hartford, CT, USA | On Site | Feb 06 |
-| ↳ | **[College Intern -Information Technology(Infrastructure)](https://jobright.ai/jobs/info/6986bb748da7a6120461a725?utm_campaign=1058&utm_source=git)** | 555 Main Street, Hartford, CT, USA | On Site | Feb 06 |
 | ↳ | **[College Intern -Information Technology](https://jobright.ai/jobs/info/6986ae440f6f7e7a2ce1bdb1?utm_campaign=1058&utm_source=git)** | 555 Main Street, Hartford, CT, USA | On Site | Feb 06 |
+| ↳ | **[College Intern -Information Technology(Infrastructure)](https://jobright.ai/jobs/info/6986bb748da7a6120461a725?utm_campaign=1058&utm_source=git)** | 555 Main Street, Hartford, CT, USA | On Site | Feb 06 |
 | **[Fresh Del Monte](http://freshdelmonte.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/6986b31a0f6f7e7a2ce1c8fd?utm_campaign=1058&utm_source=git)** | Coral Gables-HQ, Coral Gables, FL, US | On Site | Feb 06 |
 | **[First Reliance Bank](https://www.firstreliance.com)** | **[Summer Intern (Mt Pleasant)](https://jobright.ai/jobs/info/6986c0a58da7a6120461acc2?utm_campaign=1058&utm_source=git)** | 800 S Shelmore Blvd, Mount Pleasant, SC 29464, USA | On Site | Feb 06 |
 | **[Participate Learning](https://www.participatelearning.com)** | **[AV Tech Intern](https://jobright.ai/jobs/info/6986afbd8da7a612046194c3?utm_campaign=1058&utm_source=git)** | Chapel Hill,NC,US | On Site | Feb 06 |
 | **[SA Recycling](http://sarecycling.com)** | **[Intern](https://jobright.ai/jobs/info/6986b85c8da7a6120461a3bf?utm_campaign=1058&utm_source=git)** | Montebello, California, United States | On Site | Feb 06 |
 | **[Heinen's Grocery Store](http://www.heinens.com)** | **[PC Services Summer Associate (Intern)](https://jobright.ai/jobs/info/6986aa8a8da7a61204618d8e?utm_campaign=1058&utm_source=git)** | Corporate Office, Warrensville Heights, OH, US | Hybrid | Feb 06 |
 | **[Capacity](http://www.capacityllc.com)** | **[IT Intern](https://jobright.ai/jobs/info/6986b7750f6f7e7a2ce1d193?utm_campaign=1058&utm_source=git)** | North Brunswick, NJ 08902, USA | On Site | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Clinical Imaging](https://jobright.ai/jobs/info/6986a52a8da7a612046182a6?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
-| ↳ | **[IT Intern - Clinical Imaging](https://jobright.ai/jobs/info/6986aaf28ca8121a3a69053b?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | Feb 06 |
+| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Clinical Imaging](https://jobright.ai/jobs/info/6986aaf28ca8121a3a69053b?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | Feb 06 |
+| ↳ | **[IT Intern - Clinical Imaging](https://jobright.ai/jobs/info/6986a52a8da7a612046182a6?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
 | ↳ | **[Nurse Intern - Cardiothoracic Progressive Care Unit](https://jobright.ai/jobs/info/6986ae590f6f7e7a2ce1bdd8?utm_campaign=1058&utm_source=git)** | Wichita, KS, US | On Site | Feb 06 |
-| ↳ | **[IT Intern - Knowledge Management](https://jobright.ai/jobs/info/6986ac320f6f7e7a2ce1baa2?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
-| ↳ | **[IT Intern - IT Service Management (ITSM)](https://jobright.ai/jobs/info/6986a16e8ca8121a3a68f19d?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | Feb 06 |
-| ↳ | **[IT Intern - IT Service Management (ITSM)](https://jobright.ai/jobs/info/6986a2948da7a61204617f05?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
-| ↳ | **[IT Intern- Clinical Imaging](https://jobright.ai/jobs/info/6986a94e8ca8121a3a6901db?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
 | ↳ | **[IT Intern - Knowledge Management](https://jobright.ai/jobs/info/6986bb988da7a6120461a750?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | Feb 06 |
+| ↳ | **[IT Intern - IT Service Management (ITSM)](https://jobright.ai/jobs/info/6986a2948da7a61204617f05?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
 | ↳ | **[IT Intern- Clinical Imaging](https://jobright.ai/jobs/info/6986a4de0f6f7e7a2ce1afd6?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | Feb 06 |
+| ↳ | **[IT Intern- Clinical Imaging](https://jobright.ai/jobs/info/6986a94e8ca8121a3a6901db?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| ↳ | **[IT Intern - IT Service Management (ITSM)](https://jobright.ai/jobs/info/6986a16e8ca8121a3a68f19d?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | Feb 06 |
+| ↳ | **[IT Intern - Knowledge Management](https://jobright.ai/jobs/info/6986ac320f6f7e7a2ce1baa2?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
 | ↳ | **[IT Intern - Asset and Configuration Management](https://jobright.ai/jobs/info/6986ac5e8ca8121a3a6907b8?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | Feb 06 |
 | ↳ | **[IT Intern - Asset and Configuration Management](https://jobright.ai/jobs/info/6986a4568da7a6120461819e?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
-| **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6986acef0f6f7e7a2ce1bbae?utm_campaign=1058&utm_source=git)** | Fort Wayne,  IN | On Site | Feb 06 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6986a0ff8ca8121a3a68f0cd?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Feb 06 |
+| **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6986a0ff8ca8121a3a68f0cd?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Feb 06 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6986acef0f6f7e7a2ce1bbae?utm_campaign=1058&utm_source=git)** | Fort Wayne,  IN | On Site | Feb 06 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Intern, ECM Enterprises Payment](https://jobright.ai/jobs/info/698680a08ca8121a3a68cea7?utm_campaign=1058&utm_source=git)** | Raritan, NJ | On Site | Feb 06 |
 | **[Texell Credit Union](http://texell.org)** | **[IT Support Intern](https://jobright.ai/jobs/info/6986a2028ca8121a3a68f28f?utm_campaign=1058&utm_source=git)** | Temple Headquarters - Temple, TX 76502 | On Site | Feb 06 |
 | **[King County Housing Authority](https://www.kcha.org/)** | **[Customer Service Support Intern](https://jobright.ai/jobs/info/6986a8638da7a61204618aaf?utm_campaign=1058&utm_source=git)** | Auburn, WA | On Site | Feb 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Deaconess Health System](http://www.deaconess.com)** | **[IL Pharmacy Intern- PRN](https://jobright.ai/jobs/info/698665858da7a612046121fe?utm_campaign=1058&utm_source=git)** | Mount Vernon, IL 62864, USA | Hybrid | Feb 06 |
 | **[KCH Transportation](https://www.kchtrans.com)** | **[Intermodal Operations Support Intern](https://jobright.ai/jobs/info/6986671a0f6f7e7a2ce15814?utm_campaign=1058&utm_source=git)** | Chattanooga, Tennessee, United States | On Site | Feb 06 |
 | **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Information Technology Intern - Summer 2026](https://jobright.ai/jobs/info/698670170f6f7e7a2ce16912?utm_campaign=1058&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 06 |
-| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Loyalty Program Operations Intern](https://jobright.ai/jobs/info/698657288ca8121a3a688cfa?utm_campaign=1058&utm_source=git)** | Prior Lake, Minnesota, United States | On Site | Feb 06 |
-| **[XR Trading](http://www.xrtrading.com/)** | **[IT YEAR-ROUND INTERN](https://jobright.ai/jobs/info/69865e300f6f7e7a2ce1460e?utm_campaign=1058&utm_source=git)** | Chicago,IL,US | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
