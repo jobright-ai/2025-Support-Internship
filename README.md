@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kroger](https://www.thekrogerco.com/)** | **[Pharmacy/Pharmacist Graduate Intern](https://jobright.ai/jobs/info/6986632b8da7a61204611d79?utm_campaign=1058&utm_source=git)** | Peoria, IL | On Site | Feb 06 |
+| **[UPMC](https://www.upmc.com/)** | **[Respiratory Care Intern - UPMC Presbyterian](https://jobright.ai/jobs/info/696aacf55fc862418539ab78?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Feb 06 |
+| **[ETS-Lindgren](http://www.ets-lindgren.com/)** | **[Business Admin Technical Writer Intern](https://jobright.ai/jobs/info/698660238ca8121a3a689cbb?utm_campaign=1058&utm_source=git)** | Wood Dale, IL | On Site | Feb 06 |
 | **[UChicago Medicine](https://www.uchicagomedicine.org/)** | **[Student Pharmacy Intern, Meds 2 Beds, Days](https://jobright.ai/jobs/info/69865a7f8ca8121a3a6892f6?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
+| **[Vistal](vistal.com)** | **[IT Intern](https://jobright.ai/jobs/info/696a9272350cf4380311817f?utm_campaign=1058&utm_source=git)** | West Fargo, ND | On Site | Feb 06 |
 | **[Justrite Safety Group](https://www.justrite.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/698650300f6f7e7a2ce1343d?utm_campaign=1058&utm_source=git)** | Wellsburg, WV | On Site | Feb 06 |
 | **[Portage Learning](https://portagelearning.edu)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6986499f0f6f7e7a2ce12c42?utm_campaign=1058&utm_source=git)** | Beaver Falls, PA | On Site | Feb 06 |
 | **[SandboxAQ](https://www.sandboxaq.com)** | **[IT Intern (Summer 2026)](https://jobright.ai/jobs/info/698647808da7a6120460f9ae?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Justrite Safety Group](https://www.justrite.com)** | **[Customer Service Intern](https://jobright.ai/jobs/info/698646f60f6f7e7a2ce12925?utm_campaign=1058&utm_source=git)** | Mattoon, IL | On Site | Feb 06 |
+| **[ProgressiveHealth](http://phrehab.com)** | **[Intern](https://jobright.ai/jobs/info/698667f00f6f7e7a2ce159d1?utm_campaign=1058&utm_source=git)** | Evansville, IN | On Site | Feb 06 |
 | **[Geisinger](https://www.geisinger.org)** | **[Pharmacy Intern Technician - Summer Intern](https://jobright.ai/jobs/info/698642400f6f7e7a2ce1249c?utm_campaign=1058&utm_source=git)** | Muncy, PA | On Site | Feb 06 |
 | **[RF-SMART](http://rfsmart.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6986420e8da7a6120460f315?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Feb 06 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Loyalty Program Operations Intern](https://jobright.ai/jobs/info/69865c328ca8121a3a6895fd?utm_campaign=1058&utm_source=git)** | Prior Lake, MN | On Site | Feb 06 |
@@ -71,9 +76,12 @@ For a complete list, click the following sortable link below:
 | **[Conner Strong & Buckelew](https://www.connerstrong.com)** | **[IT Intern](https://jobright.ai/jobs/info/69863a970f6f7e7a2ce11d02?utm_campaign=1058&utm_source=git)** | Camden, New Jersey, United States | On Site | Feb 06 |
 | **[Impinj](http://www.impinj.com)** | **[IT Help Desk Intern](https://jobright.ai/jobs/info/6986335c8da7a6120460e5ed?utm_campaign=1058&utm_source=git)** | Seattle, WA | Hybrid | Feb 06 |
 | **[Group One Trading](http://group1.com)** | **[Desktop Engineer Intern](https://jobright.ai/jobs/info/69865fe78ca8121a3a689c53?utm_campaign=1058&utm_source=git)** | New York,NY,US | On Site | Feb 06 |
+| **[Deaconess Health System](http://www.deaconess.com)** | **[IL Pharmacy Intern- PRN](https://jobright.ai/jobs/info/698665858da7a612046121fe?utm_campaign=1058&utm_source=git)** | Mount Vernon, IL 62864, USA | Hybrid | Feb 06 |
+| **[KCH Transportation](https://www.kchtrans.com)** | **[Intermodal Operations Support Intern](https://jobright.ai/jobs/info/6986671a0f6f7e7a2ce15814?utm_campaign=1058&utm_source=git)** | Chattanooga, Tennessee, United States | On Site | Feb 06 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Loyalty Program Operations Intern](https://jobright.ai/jobs/info/698657288ca8121a3a688cfa?utm_campaign=1058&utm_source=git)** | Prior Lake, Minnesota, United States | On Site | Feb 06 |
 | **[XR Trading](http://www.xrtrading.com/)** | **[IT YEAR-ROUND INTERN](https://jobright.ai/jobs/info/69865e300f6f7e7a2ce1460e?utm_campaign=1058&utm_source=git)** | Chicago,IL,US | On Site | Feb 06 |
 | **[Bath Fitter](https://www.bathfitter.com/)** | **[IT Help Desk Intern (Summer 2026)](https://jobright.ai/jobs/info/696580b6a112b4026613745c?utm_campaign=1058&utm_source=git)** | Saint-Eustache, Quebec, Canada | On Site | Feb 06 |
+| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern Knowledge Management](https://jobright.ai/jobs/info/698661810f6f7e7a2ce14ca7?utm_campaign=1058&utm_source=git)** | Mount Pleasant, MI, US | Remote | Feb 06 |
 | **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Wire Services](https://jobright.ai/jobs/info/69862a580f6f7e7a2ce10b05?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | **[Fry's Food and Drug](http://www.frysfood.com)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/698629f08da7a6120460dbd4?utm_campaign=1058&utm_source=git)** | Buckeye, AZ | On Site | Feb 06 |
 | **[Harmony Biosciences](https://www.harmonybiosciences.com)** | **[Summer Intern - Trade & Distribution](https://jobright.ai/jobs/info/6986277d8ca8121a3a684f7c?utm_campaign=1058&utm_source=git)** | Plymouth Meeting Office, Plymouth Meeting, PA, US | On Site | Feb 06 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Internship - IT Support Year-Round](https://jobright.ai/jobs/info/69855b48348f733a5c39b0ea?utm_campaign=1058&utm_source=git)** | Eau Claire, WI | On Site | Feb 05 |
 | **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Wyndham Grand Pittsburgh Downtown - Hospitality Management Intern](https://jobright.ai/jobs/info/69698ed8639b452fb57f7bf2?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Feb 05 |
 | **[VytlOne](http://www.maxor.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/696969041703f05405ab4777?utm_campaign=1058&utm_source=git)** | Tallahassee, FL | On Site | Feb 05 |
-| **[Allegheny Health Network](https://www.ahn.org)** | **[Pharmacy Intern - Canonsburg Hospital - "Smoking Cessation"](https://jobright.ai/jobs/info/6985590f348f733a5c39ac79?utm_campaign=1058&utm_source=git)** | Canonsburg, PA | On Site | Feb 05 |
-| **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/69695625f25a38006697e9a1?utm_campaign=1058&utm_source=git)** | Washington, DC | Hybrid | Feb 05 |
-| **[IBM](http://www.ibm.com)** | **[Tech Support Intern 2026](https://jobright.ai/jobs/info/696827eff25a3800669681bd?utm_campaign=1058&utm_source=git)** | Austin, TX | Hybrid | Feb 05 |
-| **[Allegheny Health Network](https://www.ahn.org)** | **[Pharmacy Intern - Retail - West Penn Hospital](https://jobright.ai/jobs/info/6985507c0f6f7e7a2cdff922?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Feb 05 |
-| **[GSK](http://www.gsk.com)** | **[Patient Support Program Summer Intern - Mississauga, ON](https://jobright.ai/jobs/info/698550468da7a612045fc969?utm_campaign=1058&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 05 |
-| **[SAP](https://www.sap.com)** | **[SAP Customer Success iXp Intern - SAP Experience Center Event and Showcase Support](https://jobright.ai/jobs/info/69856f87348f733a5c39d75a?utm_campaign=1058&utm_source=git)** | Newtown Square, PA, US, 19073 | On Site | Feb 05 |
-| **[Grifols](http://www.grifols.com)** | **[Intern - Medical Information](https://jobright.ai/jobs/info/69856bfa0f6f7e7a2ce02f94?utm_campaign=1058&utm_source=git)** | NC-RTP | Hybrid | Feb 05 |
-| **[Resmed](https://www.resmed.com.au)** | **[IT Support Analyst Intern](https://jobright.ai/jobs/info/69854872348f733a5c399092?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
