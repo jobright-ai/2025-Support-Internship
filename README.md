@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship 2026 - Information Technology](https://jobright.ai/jobs/info/69873be48da7a612046252a9?utm_campaign=1058&utm_source=git)** | Coral Springs, FL | On Site | Feb 07 |
+| **[apexanalytix](https://www.apexanalytix.com)** | **[Support/Implementation Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/68c027e1702aa35207aaaf88?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Feb 07 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - IT Support](https://jobright.ai/jobs/info/696b40eb350cf43803129150?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[Guidepoint](http://www.guidepoint.com)** | **[2024 Tech Intern Pool](https://jobright.ai/jobs/info/667713ec3ab189f6697e9413?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
 | **[Sentara Health](http://www.sentara.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6987157a0f6f7e7a2ce2588c?utm_campaign=1058&utm_source=git)** | Norfolk, VA | On Site | Feb 07 |
@@ -106,17 +108,17 @@ For a complete list, click the following sortable link below:
 | **[SA Recycling](http://sarecycling.com)** | **[Intern](https://jobright.ai/jobs/info/6986b85c8da7a6120461a3bf?utm_campaign=1058&utm_source=git)** | Montebello, California, United States | On Site | Feb 06 |
 | **[Heinen's Grocery Store](http://www.heinens.com)** | **[PC Services Summer Associate (Intern)](https://jobright.ai/jobs/info/6986aa8a8da7a61204618d8e?utm_campaign=1058&utm_source=git)** | Corporate Office, Warrensville Heights, OH, US | Hybrid | Feb 06 |
 | **[Capacity](http://www.capacityllc.com)** | **[IT Intern](https://jobright.ai/jobs/info/6986b7750f6f7e7a2ce1d193?utm_campaign=1058&utm_source=git)** | North Brunswick, NJ 08902, USA | On Site | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Clinical Imaging](https://jobright.ai/jobs/info/6986aaf28ca8121a3a69053b?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | Feb 06 |
-| ↳ | **[IT Intern - Clinical Imaging](https://jobright.ai/jobs/info/6986a52a8da7a612046182a6?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Clinical Imaging](https://jobright.ai/jobs/info/6986a52a8da7a612046182a6?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| ↳ | **[IT Intern - Clinical Imaging](https://jobright.ai/jobs/info/6986aaf28ca8121a3a69053b?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | Feb 06 |
 | ↳ | **[Nurse Intern - Cardiothoracic Progressive Care Unit](https://jobright.ai/jobs/info/6986ae590f6f7e7a2ce1bdd8?utm_campaign=1058&utm_source=git)** | Wichita, KS, US | On Site | Feb 06 |
-| ↳ | **[IT Intern- Clinical Imaging](https://jobright.ai/jobs/info/6986a94e8ca8121a3a6901db?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
-| ↳ | **[IT Intern - Knowledge Management](https://jobright.ai/jobs/info/6986bb988da7a6120461a750?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | Feb 06 |
-| ↳ | **[IT Intern - Knowledge Management](https://jobright.ai/jobs/info/6986ac320f6f7e7a2ce1baa2?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
-| ↳ | **[IT Intern - IT Service Management (ITSM)](https://jobright.ai/jobs/info/6986a16e8ca8121a3a68f19d?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | Feb 06 |
-| ↳ | **[IT Intern - IT Service Management (ITSM)](https://jobright.ai/jobs/info/6986a2948da7a61204617f05?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
 | ↳ | **[IT Intern- Clinical Imaging](https://jobright.ai/jobs/info/6986a4de0f6f7e7a2ce1afd6?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | Feb 06 |
-| ↳ | **[IT Intern - Asset and Configuration Management](https://jobright.ai/jobs/info/6986a4568da7a6120461819e?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| ↳ | **[IT Intern - Knowledge Management](https://jobright.ai/jobs/info/6986ac320f6f7e7a2ce1baa2?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| ↳ | **[IT Intern- Clinical Imaging](https://jobright.ai/jobs/info/6986a94e8ca8121a3a6901db?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| ↳ | **[IT Intern - IT Service Management (ITSM)](https://jobright.ai/jobs/info/6986a2948da7a61204617f05?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| ↳ | **[IT Intern - Knowledge Management](https://jobright.ai/jobs/info/6986bb988da7a6120461a750?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | Feb 06 |
+| ↳ | **[IT Intern - IT Service Management (ITSM)](https://jobright.ai/jobs/info/6986a16e8ca8121a3a68f19d?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | Feb 06 |
 | ↳ | **[IT Intern - Asset and Configuration Management](https://jobright.ai/jobs/info/6986ac5e8ca8121a3a6907b8?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | Feb 06 |
+| ↳ | **[IT Intern - Asset and Configuration Management](https://jobright.ai/jobs/info/6986a4568da7a6120461819e?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
 | **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6986acef0f6f7e7a2ce1bbae?utm_campaign=1058&utm_source=git)** | Fort Wayne,  IN | On Site | Feb 06 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/6986a0ff8ca8121a3a68f0cd?utm_campaign=1058&utm_source=git)** | Fort Wayne, IN | On Site | Feb 06 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Intern, ECM Enterprises Payment](https://jobright.ai/jobs/info/698680a08ca8121a3a68cea7?utm_campaign=1058&utm_source=git)** | Raritan, NJ | On Site | Feb 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Miami HEAT](http://HEAT.com)** | **[Intern, IT](https://jobright.ai/jobs/info/6966c06ba112b4026614b9e8?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Feb 06 |
 | **[ProgressiveHealth](http://phrehab.com)** | **[Intern](https://jobright.ai/jobs/info/698667f00f6f7e7a2ce159d1?utm_campaign=1058&utm_source=git)** | Evansville, IN | On Site | Feb 06 |
 | **[Geisinger](https://www.geisinger.org)** | **[Pharmacy Intern Technician - Summer Intern](https://jobright.ai/jobs/info/698642400f6f7e7a2ce1249c?utm_campaign=1058&utm_source=git)** | Muncy, PA | On Site | Feb 06 |
-| **[RF-SMART](http://rfsmart.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6986420e8da7a6120460f315?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Feb 06 |
-| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Loyalty Program Operations Intern](https://jobright.ai/jobs/info/69865c328ca8121a3a6895fd?utm_campaign=1058&utm_source=git)** | Prior Lake, MN | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
