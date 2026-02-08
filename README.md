@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/6988a8f58da7a6120463b767?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Feb 08 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I](https://jobright.ai/jobs/info/67fec2dddd174d346366a820?utm_campaign=1058&utm_source=git)** | Southaven, MS | On Site | Feb 08 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/682420b9b933e9f19acb845a?utm_campaign=1058&utm_source=git)** | Dickinson, ND | On Site | Feb 08 |
+| ↳ | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/678810cd4c4f5e767ed55c8e?utm_campaign=1058&utm_source=git)** | Casselton, ND | On Site | Feb 08 |
+| ↳ | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68a6bace758f2e4ac3fe73ec?utm_campaign=1058&utm_source=git)** | Dayton, MN | On Site | Feb 08 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69889cb10f6f7e7a2ce3dced?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 08 |
 | ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69889a4e8ca8121a3a6b24e8?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 08 |
 | **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Intern- Desktop Support](https://jobright.ai/jobs/info/691d73710b7dff7341503b2b?utm_campaign=1058&utm_source=git)** | Owensboro, KY | On Site | Feb 08 |
@@ -80,12 +85,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889a6a8da7a6120463b533?utm_campaign=1058&utm_source=git)** | Gainesville, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889c530f6f7e7a2ce3dcd1?utm_campaign=1058&utm_source=git)** | Statesboro, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889a958ca8121a3a6b2501?utm_campaign=1058&utm_source=git)** | Jesup, GA | Hybrid | Feb 07 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889a858da7a6120463b539?utm_campaign=1058&utm_source=git)** | Snellville, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889af38da7a6120463b573?utm_campaign=1058&utm_source=git)** | Columbus, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889b508ca8121a3a6b2534?utm_campaign=1058&utm_source=git)** | Dallas, GA | Hybrid | Feb 07 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889a858da7a6120463b539?utm_campaign=1058&utm_source=git)** | Snellville, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889c860f6f7e7a2ce3dce0?utm_campaign=1058&utm_source=git)** | Dalton, GA | Hybrid | Feb 07 |
-| **[General Dynamics](https://www.gd.com)** | **[Business Support Intern](https://jobright.ai/jobs/info/6987f40e8da7a6120462f0b0?utm_campaign=1058&utm_source=git)** | USA-MA-Dedham | On Site | Feb 07 |
-| ↳ | **[Business Support Intern](https://jobright.ai/jobs/info/6987f1670f6f7e7a2ce31522?utm_campaign=1058&utm_source=git)** | MA-Dedham, UNAVAILABLE, USA | On Site | Feb 07 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889cf80f6f7e7a2ce3dd00?utm_campaign=1058&utm_source=git)** | Atlanta, GA | Hybrid | Feb 07 |
+| **[General Dynamics](https://www.gd.com)** | **[Business Support Intern](https://jobright.ai/jobs/info/6987f1670f6f7e7a2ce31522?utm_campaign=1058&utm_source=git)** | MA-Dedham, UNAVAILABLE, USA | On Site | Feb 07 |
+| ↳ | **[Business Support Intern](https://jobright.ai/jobs/info/6987f40e8da7a6120462f0b0?utm_campaign=1058&utm_source=git)** | USA-MA-Dedham | On Site | Feb 07 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6987a13a0f6f7e7a2ce2dd35?utm_campaign=1058&utm_source=git)** | Conroe, TX | On Site | Feb 07 |
 | **[Invited](https://www.invitedclubs.com)** | **[PGM Internship](https://jobright.ai/jobs/info/698799198da7a6120462a7a0?utm_campaign=1058&utm_source=git)** | Wake Forest, NC | On Site | Feb 07 |
 | **[Diamond Run Golf Club](https://www.invitedclubs.com/clubs/diamond-run-golf-club)** | **[PGM Internship](https://jobright.ai/jobs/info/698798740f6f7e7a2ce2d534?utm_campaign=1058&utm_source=git)** | 7305 Village Club Drive, Wake Forest, NC, 27587, US | On Site | Feb 07 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Echo Sonography Intern - Echocardiology](https://jobright.ai/jobs/info/6986a4638da7a612046181b7?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Feb 06 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Cardiothoracic Progressive Care Unit](https://jobright.ai/jobs/info/6986a3bf8da7a612046180b8?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Feb 06 |
 | **[SERC Reliability Corporation](http://www.serc1.org)** | **[IT Intern](https://jobright.ai/jobs/info/6987ffe18da7a61204630883?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern- Clinical Imaging](https://jobright.ai/jobs/info/6986a1e28da7a61204617e1d?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 06 |
-| **[IMCMV Holdings, Inc- Margaritaville Restaurants](https://www.margaritaville.com/careers)** | **[Copy of Front of House Leadership Intern](https://jobright.ai/jobs/info/6986a1cd8da7a61204617e02?utm_campaign=1058&utm_source=git)** | Myrtle Beach, SC | On Site | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Knowledge Management](https://jobright.ai/jobs/info/6986c6820f6f7e7a2ce1e98b?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 06 |
-| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[IT Application Delivery Internship](https://jobright.ai/jobs/info/696ae31b350cf43803120bb9?utm_campaign=1058&utm_source=git)** | Fairfax, VA | On Site | Feb 06 |
-| **[Lucid Software](https://lucid.co)** | **[Customer Experience & Support Intern - Summer 2026](https://jobright.ai/jobs/info/69869c898ca8121a3a68ea34?utm_campaign=1058&utm_source=git)** | Raleigh, NC | Hybrid | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern- Knowledge Management](https://jobright.ai/jobs/info/69869c308ca8121a3a68ea0d?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
