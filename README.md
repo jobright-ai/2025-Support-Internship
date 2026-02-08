@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics](https://www.gd.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/6988e5090f6f7e7a2ce4016a?utm_campaign=1058&utm_source=git)** | AZ-Scottsdale, UNAVAILABLE, USA | Hybrid | Feb 08 |
+| ↳ | **[Technical Writer Intern](https://jobright.ai/jobs/info/6988e1e08da7a6120463d736?utm_campaign=1058&utm_source=git)** | USA-AZ-Scottsdale | Hybrid | Feb 08 |
+| **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6944700a94730b7398779ac1?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Feb 08 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Customer Experience Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/68def803a125e75c422b8b62?utm_campaign=1058&utm_source=git)** | Green Bay, WI | Hybrid | Feb 08 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Pharmacy Student Intern V (Non-Exempt)](https://jobright.ai/jobs/info/693477fc764507023d1bd1ea?utm_campaign=1058&utm_source=git)** | Fort Smith, AR | On Site | Feb 08 |
 | ↳ | **[Ultrasound Intern](https://jobright.ai/jobs/info/6934755cf131d96e4846ac16?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Feb 08 |
@@ -87,17 +90,16 @@ For a complete list, click the following sortable link below:
 | **[CryptocurrencyKE](www.cryptocurrencyke.com)** | **[Tech Support Assistant (Intern) USA only](https://jobright.ai/jobs/info/698872e58ca8121a3a6aff4d?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 08 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695dc344efe5dd5cbd3d9d49?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Feb 08 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/698848c20f6f7e7a2ce38fb1?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 08 |
-| ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/698844da0f6f7e7a2ce38dd2?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 08 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Intern IT I](https://jobright.ai/jobs/info/69880dea0f6f7e7a2ce3412d?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Feb 07 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Business Support Intern](https://jobright.ai/jobs/info/6987fc4d8ca8121a3a6a71a2?utm_campaign=1058&utm_source=git)** | Dedham, MA | On Site | Feb 07 |
 | **[Continental Properties](http://www.cproperties.com/)** | **[Paid HelpDesk Intern](https://jobright.ai/jobs/info/6987f1958da7a6120462e83c?utm_campaign=1058&utm_source=git)** | Menomonee Falls, WI | On Site | Feb 07 |
 | **[Health Connect America](https://healthconnectamerica.com)** | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889b168da7a6120463b58f?utm_campaign=1058&utm_source=git)** | Tyrone, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889a6a8da7a6120463b533?utm_campaign=1058&utm_source=git)** | Gainesville, GA | Hybrid | Feb 07 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889c530f6f7e7a2ce3dcd1?utm_campaign=1058&utm_source=git)** | Statesboro, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889a958ca8121a3a6b2501?utm_campaign=1058&utm_source=git)** | Jesup, GA | Hybrid | Feb 07 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889af38da7a6120463b573?utm_campaign=1058&utm_source=git)** | Columbus, GA | Hybrid | Feb 07 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889b508ca8121a3a6b2534?utm_campaign=1058&utm_source=git)** | Dallas, GA | Hybrid | Feb 07 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889c530f6f7e7a2ce3dcd1?utm_campaign=1058&utm_source=git)** | Statesboro, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889a858da7a6120463b539?utm_campaign=1058&utm_source=git)** | Snellville, GA | Hybrid | Feb 07 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889b508ca8121a3a6b2534?utm_campaign=1058&utm_source=git)** | Dallas, GA | Hybrid | Feb 07 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889af38da7a6120463b573?utm_campaign=1058&utm_source=git)** | Columbus, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889c860f6f7e7a2ce3dce0?utm_campaign=1058&utm_source=git)** | Dalton, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889cf80f6f7e7a2ce3dd00?utm_campaign=1058&utm_source=git)** | Atlanta, GA | Hybrid | Feb 07 |
 | **[General Dynamics](https://www.gd.com)** | **[Business Support Intern](https://jobright.ai/jobs/info/6987f1670f6f7e7a2ce31522?utm_campaign=1058&utm_source=git)** | MA-Dedham, UNAVAILABLE, USA | On Site | Feb 07 |
@@ -117,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Froedtert Health](http://www.froedtert.com)** | **[Outpatient Pharmacy Intern](https://jobright.ai/jobs/info/698788178da7a61204629d1a?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Feb 07 |
 | **[Smith+Nephew](http://www.smith-nephew.com)** | **[Intern Product Support (Austin,TX)](https://jobright.ai/jobs/info/698757ed0f6f7e7a2ce29d2e?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Feb 07 |
 | **[Consumers Credit Union](http://myconsumers.org)** | **[Information Technology Intern - Summer 2026](https://jobright.ai/jobs/info/698754da8ca8121a3a69e48e?utm_campaign=1058&utm_source=git)** | Lake Forest, IL | On Site | Feb 07 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/6987523c8ca8121a3a69e398?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 07 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69874f0f0f6f7e7a2ce29831?utm_campaign=1058&utm_source=git)** | Deerfield Beach, FL | On Site | Feb 07 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69874d770f6f7e7a2ce29676?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Feb 07 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69874d720f6f7e7a2ce2966d?utm_campaign=1058&utm_source=git)** | Gaylord, MI | On Site | Feb 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Heinen's Grocery Store](http://www.heinens.com)** | **[PC Services Summer Associate (Intern)](https://jobright.ai/jobs/info/6986c48d8da7a6120461ba3b?utm_campaign=1058&utm_source=git)** | Warrensville Heights, OH | Hybrid | Feb 06 |
 | **[Endo](https://www.linkedin.com/company/11485)** | **[Intern, End User Computing Help Desk Specialist IT](https://jobright.ai/jobs/info/6986bd2f0f6f7e7a2ce1d7c9?utm_campaign=1058&utm_source=git)** | Hazelwood, MO (675) - USA037 - Hybrid | Hybrid | Feb 06 |
 | **[HCA Florida Largo Hospital](https://www.hcafloridahealthcare.com/)** | **[Radiology Student Intern PRN](https://jobright.ai/jobs/info/6986bb7e8ca8121a3a69271d?utm_campaign=1058&utm_source=git)** | Largo, FL | On Site | Feb 06 |
-| **[AV](https://www.avinc.com/)** | **[Summer 2026 Service Desk Intern](https://jobright.ai/jobs/info/6986ba910f6f7e7a2ce1d52c?utm_campaign=1058&utm_source=git)** | Herndon, VA | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
