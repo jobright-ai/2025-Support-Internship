@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CryptocurrencyKE](www.cryptocurrencyke.com)** | **[Tech Support Assistant (Intern) USA only](https://jobright.ai/jobs/info/698872e58ca8121a3a6aff4d?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 08 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695dc344efe5dd5cbd3d9d49?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Feb 08 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/698848c20f6f7e7a2ce38fb1?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 08 |
 | ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/698844da0f6f7e7a2ce38dd2?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 08 |
@@ -88,8 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69874f0f0f6f7e7a2ce29831?utm_campaign=1058&utm_source=git)** | Deerfield Beach, FL | On Site | Feb 07 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69874d770f6f7e7a2ce29676?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Feb 07 |
 | ↳ | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/69874d720f6f7e7a2ce2966d?utm_campaign=1058&utm_source=git)** | Gaylord, MI | On Site | Feb 07 |
-| **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[IT Intern](https://jobright.ai/jobs/info/69874cfe8ca8121a3a69df55?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Feb 07 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69874b220f6f7e7a2ce293dc?utm_campaign=1058&utm_source=git)** | Midland, MI | On Site | Feb 07 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69874b220f6f7e7a2ce293dc?utm_campaign=1058&utm_source=git)** | Midland, MI | On Site | Feb 07 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69874ac40f6f7e7a2ce29379?utm_campaign=1058&utm_source=git)** | Edina, MN | On Site | Feb 07 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Help Desk Intern](https://jobright.ai/jobs/info/6959ef9ff1f8465b79f05970?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Feb 07 |
 | **[Catalent](https://www.catalent.com)** | **[IT Assistant, Intern](https://jobright.ai/jobs/info/69874a030f6f7e7a2ce292ab?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Feb 07 |
@@ -145,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Order & Sample Management](https://jobright.ai/jobs/info/696ab8ab5fc862418539c97c?utm_campaign=1058&utm_source=git)** | Fairfield, NJ | Hybrid | Feb 06 |
 | **[JFK International Air Terminal](https://www.jfkt4.nyc)** | **[Intern, Operations](https://jobright.ai/jobs/info/69868aff8da7a61204615cc8?utm_campaign=1058&utm_source=git)** | Jamaica, NY | On Site | Feb 06 |
 | **[The Cancer & Hematology Centers](https://www.chcwm.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/696aa5b8350cf4380311949f?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Feb 06 |
-| **[Metropolitan District Commission](https://themdc.org)** | **[College Intern -Information Technology(Infrastructure)](https://jobright.ai/jobs/info/6987f4c58da7a6120462f366?utm_campaign=1058&utm_source=git)** | 555 Main Street, Hartford, CT, USA | On Site | Feb 06 |
-| ↳ | **[College Intern -Information Technology](https://jobright.ai/jobs/info/6988388e0f6f7e7a2ce380f3?utm_campaign=1058&utm_source=git)** | 555 Main Street, Hartford, CT, USA | On Site | Feb 06 |
+| **[Metropolitan District Commission](https://themdc.org)** | **[College Intern -Information Technology](https://jobright.ai/jobs/info/6988388e0f6f7e7a2ce380f3?utm_campaign=1058&utm_source=git)** | 555 Main Street, Hartford, CT, USA | On Site | Feb 06 |
+| ↳ | **[College Intern -Information Technology(Infrastructure)](https://jobright.ai/jobs/info/6987f4c58da7a6120462f366?utm_campaign=1058&utm_source=git)** | 555 Main Street, Hartford, CT, USA | On Site | Feb 06 |
 | **[Fresh Del Monte](http://freshdelmonte.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/6986b31a0f6f7e7a2ce1c8fd?utm_campaign=1058&utm_source=git)** | Coral Gables-HQ, Coral Gables, FL, US | On Site | Feb 06 |
 | **[First Reliance Bank](https://www.firstreliance.com)** | **[Summer Intern (Mt Pleasant)](https://jobright.ai/jobs/info/6987ad008da7a6120462c5ae?utm_campaign=1058&utm_source=git)** | 800 S Shelmore Blvd, Mount Pleasant, SC 29464, USA | On Site | Feb 06 |
 | **[Participate Learning](https://www.participatelearning.com)** | **[AV Tech Intern](https://jobright.ai/jobs/info/6986afbd8da7a612046194c3?utm_campaign=1058&utm_source=git)** | Chapel Hill,NC,US | On Site | Feb 06 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Clinical Imaging](https://jobright.ai/jobs/info/6986aaf28ca8121a3a69053b?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | Feb 06 |
 | ↳ | **[IT Intern - Clinical Imaging](https://jobright.ai/jobs/info/6986a52a8da7a612046182a6?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
 | ↳ | **[Nurse Intern - Cardiothoracic Progressive Care Unit](https://jobright.ai/jobs/info/6986ae590f6f7e7a2ce1bdd8?utm_campaign=1058&utm_source=git)** | Wichita, KS, US | On Site | Feb 06 |
-| ↳ | **[IT Intern- Clinical Imaging](https://jobright.ai/jobs/info/6986a94e8ca8121a3a6901db?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| ↳ | **[IT Intern - Knowledge Management](https://jobright.ai/jobs/info/6986ac320f6f7e7a2ce1baa2?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
