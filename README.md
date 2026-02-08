@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Temple Health – Temple University Health System](https://www.templehealth.org/)** | **[PHARMACY INTERN (PT; 15hrs/wk) - Temple Health/Fox Chase Cancer Center](https://jobright.ai/jobs/info/6988faad8da7a6120463f09e?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Feb 08 |
+| **[Bridgeway](http://bway.org)** | **[IT Services Student Intern](https://jobright.ai/jobs/info/6988f6c68da7a6120463f004?utm_campaign=1058&utm_source=git)** | Galesburg, IL | On Site | Feb 08 |
 | **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern  P1 Contingent Rotate](https://jobright.ai/jobs/info/6988f2768ca8121a3a6b536f?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Feb 08 |
 | **[Metropolitan District Commission](https://themdc.org)** | **[College Intern -Customer Service](https://jobright.ai/jobs/info/6988ef4e0f6f7e7a2ce4080e?utm_campaign=1058&utm_source=git)** | Hartford, CT | On Site | Feb 08 |
 | **[CMIT Solutions of Boston | Cambridge](https://www.cmitsolutions.com/boston-cambridge)** | **[Service Desk Intern](https://jobright.ai/jobs/info/6988eed30f6f7e7a2ce407e5?utm_campaign=1058&utm_source=git)** | Boston, MA | Hybrid | Feb 08 |
@@ -93,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/698895700f6f7e7a2ce3da62?utm_campaign=1058&utm_source=git)** | West Lafayette, IN | On Site | Feb 08 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6988951c0f6f7e7a2ce3da47?utm_campaign=1058&utm_source=git)** | Palmdale, CA | On Site | Feb 08 |
 | **[CryptocurrencyKE](www.cryptocurrencyke.com)** | **[Tech Support Assistant (Intern) USA only](https://jobright.ai/jobs/info/698872e58ca8121a3a6aff4d?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 08 |
-| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Intern, Multifamily](https://jobright.ai/jobs/info/6988f18d8ca8121a3a6b4fde?utm_campaign=1058&utm_source=git)** | Cumming, GA | On Site | Feb 08 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695dc344efe5dd5cbd3d9d49?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Feb 08 |
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/698848c20f6f7e7a2ce38fb1?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 08 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Intern IT I](https://jobright.ai/jobs/info/69880dea0f6f7e7a2ce3412d?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Feb 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Temple Health – Temple University Health System](https://www.templehealth.org/)** | **[PHARMACY INTERN (PT; 15hrs/wk) - Temple Health/Fox Chase Cancer Center](https://jobright.ai/jobs/info/698840000f6f7e7a2ce38769?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Feb 06 |
 | **[Capacity](http://www.capacityllc.com)** | **[IT Intern](https://jobright.ai/jobs/info/6986d5db8ca8121a3a695b7f?utm_campaign=1058&utm_source=git)** | North Brunswick, NJ | On Site | Feb 06 |
 | **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern- 4N](https://jobright.ai/jobs/info/6986cfe78ca8121a3a694f90?utm_campaign=1058&utm_source=git)** | 4370 W MAIN ST, DOTHAN, AL, 36305, US | On Site | Feb 06 |
-| **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Information Technology Intern - Summer 2026](https://jobright.ai/jobs/info/6986c83f8ca8121a3a6940c1?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
