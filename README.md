@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[PAID College Internship- Information Technology, PN 20054023](https://jobright.ai/jobs/info/6989aeef8ca8121a3a6bf6f0?utm_campaign=1058&utm_source=git)** | United States of America-OHIO-Summit County-Akron | On Site | Feb 09 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[IS Help Desk Intern](https://jobright.ai/jobs/info/69165acb286ccf0a15134ddb?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Feb 09 |
 | **[Hunt Oil Company](http://www.huntoil.com)** | **[IT Service Management Intern - Summer 2026](https://jobright.ai/jobs/info/69337635764507023d1b5f16?utm_campaign=1058&utm_source=git)** | Dallas, TX | Hybrid | Feb 09 |
 | **[Red Hat](http://www.redhat.com)** | **[Technical Account Manager (TAM) Intern](https://jobright.ai/jobs/info/698830ea8da7a61204634626?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Feb 09 |
@@ -108,7 +109,9 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern - Information Systems Help Desk](https://jobright.ai/jobs/info/6976ef2452f3c27ec642e488?utm_campaign=1058&utm_source=git)** | Jefferson City, MO | On Site | Feb 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/698895700f6f7e7a2ce3da62?utm_campaign=1058&utm_source=git)** | West Lafayette, IN | On Site | Feb 08 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6988951c0f6f7e7a2ce3da47?utm_campaign=1058&utm_source=git)** | Palmdale, CA | On Site | Feb 08 |
+| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Intern, Multifamily](https://jobright.ai/jobs/info/6989c67c4db8972cecff0296?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Feb 08 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695dc344efe5dd5cbd3d9d49?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Feb 08 |
+| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Intern, Multifamily](https://jobright.ai/jobs/info/6989af258ca8121a3a6bf86f?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Feb 08 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Intern IT I](https://jobright.ai/jobs/info/69880dea0f6f7e7a2ce3412d?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Feb 07 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Business Support Intern](https://jobright.ai/jobs/info/6987fc4d8ca8121a3a6a71a2?utm_campaign=1058&utm_source=git)** | Dedham, MA | On Site | Feb 07 |
 | **[Continental Properties](http://www.cproperties.com/)** | **[Paid HelpDesk Intern](https://jobright.ai/jobs/info/6987f1958da7a6120462e83c?utm_campaign=1058&utm_source=git)** | Menomonee Falls, WI | On Site | Feb 07 |
@@ -116,13 +119,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889a6a8da7a6120463b533?utm_campaign=1058&utm_source=git)** | Gainesville, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889c530f6f7e7a2ce3dcd1?utm_campaign=1058&utm_source=git)** | Statesboro, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889a958ca8121a3a6b2501?utm_campaign=1058&utm_source=git)** | Jesup, GA | Hybrid | Feb 07 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889a858da7a6120463b539?utm_campaign=1058&utm_source=git)** | Snellville, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889b508ca8121a3a6b2534?utm_campaign=1058&utm_source=git)** | Dallas, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889af38da7a6120463b573?utm_campaign=1058&utm_source=git)** | Columbus, GA | Hybrid | Feb 07 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889a858da7a6120463b539?utm_campaign=1058&utm_source=git)** | Snellville, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889c860f6f7e7a2ce3dce0?utm_campaign=1058&utm_source=git)** | Dalton, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889cf80f6f7e7a2ce3dd00?utm_campaign=1058&utm_source=git)** | Atlanta, GA | Hybrid | Feb 07 |
-| **[General Dynamics](https://www.gd.com)** | **[Business Support Intern](https://jobright.ai/jobs/info/6987f1670f6f7e7a2ce31522?utm_campaign=1058&utm_source=git)** | MA-Dedham, UNAVAILABLE, USA | On Site | Feb 07 |
-| ↳ | **[Business Support Intern](https://jobright.ai/jobs/info/6987f40e8da7a6120462f0b0?utm_campaign=1058&utm_source=git)** | USA-MA-Dedham | On Site | Feb 07 |
+| **[General Dynamics](https://www.gd.com)** | **[Business Support Intern](https://jobright.ai/jobs/info/6987f40e8da7a6120462f0b0?utm_campaign=1058&utm_source=git)** | USA-MA-Dedham | On Site | Feb 07 |
+| ↳ | **[Business Support Intern](https://jobright.ai/jobs/info/6987f1670f6f7e7a2ce31522?utm_campaign=1058&utm_source=git)** | MA-Dedham, UNAVAILABLE, USA | On Site | Feb 07 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6987a13a0f6f7e7a2ce2dd35?utm_campaign=1058&utm_source=git)** | Conroe, TX | On Site | Feb 07 |
 | **[Invited](https://www.invitedclubs.com)** | **[PGM Internship](https://jobright.ai/jobs/info/698799198da7a6120462a7a0?utm_campaign=1058&utm_source=git)** | Wake Forest, NC | On Site | Feb 07 |
 | **[Diamond Run Golf Club](https://www.invitedclubs.com/clubs/diamond-run-golf-club)** | **[PGM Internship](https://jobright.ai/jobs/info/698798740f6f7e7a2ce2d534?utm_campaign=1058&utm_source=git)** | 7305 Village Club Drive, Wake Forest, NC, 27587, US | On Site | Feb 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II 3 South](https://jobright.ai/jobs/info/6931f7114c474121999f4eb2?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Feb 07 |
 | **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship 2026 - Information Technology](https://jobright.ai/jobs/info/69873be48da7a612046252a9?utm_campaign=1058&utm_source=git)** | Coral Springs, FL | On Site | Feb 07 |
 | **[Ohio Department of Administrative Services](http://das.ohio.gov)** | **[IT Intern (Enterprise Service Management)](https://jobright.ai/jobs/info/691656eb6f36db06ef055399?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Feb 07 |
-| **[apexanalytix](https://www.apexanalytix.com)** | **[Support/Implementation Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/68c027e1702aa35207aaaf88?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Feb 07 |
-| **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - IT Support](https://jobright.ai/jobs/info/696b40eb350cf43803129150?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 07 |
-| **[Guidepoint](http://www.guidepoint.com)** | **[2024 Tech Intern Pool](https://jobright.ai/jobs/info/667713ec3ab189f6697e9413?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
