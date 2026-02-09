@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[IS Help Desk Intern](https://jobright.ai/jobs/info/69165acb286ccf0a15134ddb?utm_campaign=1058&utm_source=git)** | Dayton, OH | On Site | Feb 09 |
+| **[Hunt Oil Company](http://www.huntoil.com)** | **[IT Service Management Intern - Summer 2026](https://jobright.ai/jobs/info/69337635764507023d1b5f16?utm_campaign=1058&utm_source=git)** | Dallas, TX | Hybrid | Feb 09 |
+| **[Red Hat](http://www.redhat.com)** | **[Technical Account Manager (TAM) Intern](https://jobright.ai/jobs/info/698830ea8da7a61204634626?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Feb 09 |
+| **[Ohio Department of Transportation](http://www.epa.state.oh.us)** | **[PAID College Internship- Information Technology, PN 20054023](https://jobright.ai/jobs/info/6989a49a8ca8121a3a6bead5?utm_campaign=1058&utm_source=git)** | Akron, OH | On Site | Feb 09 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[PAID College Internship- Information Technology, PN 20054023](https://jobright.ai/jobs/info/6989a2750f6f7e7a2ce4a1ce?utm_campaign=1058&utm_source=git)** | United States of America-OHIO-Summit County | On Site | Feb 09 |
+| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943a5e5dd382f5f5669c041?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 09 |
+| **[Columbia Bank](http://www.columbiabankflorida.com)** | **[Private Trust Client Services Intern](https://jobright.ai/jobs/info/6989a0270f6f7e7a2ce49ffe?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Feb 09 |
+| **[University of Michigan](https://www.umich.edu)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69899c1f0f6f7e7a2ce49ea7?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 09 |
+| ↳ | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/69899adf47434001cc67bfce?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 09 |
+| ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/69899a738ca8121a3a6be569?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 09 |
+| **[Bassett Medical Center](https://www.bassett.org/medical/career-center/bassett-medical-center-regional-site-opportunities)** | **[Clinical Pharmacy Intern- Oncology](https://jobright.ai/jobs/info/6989969b0f6f7e7a2ce49c47?utm_campaign=1058&utm_source=git)** | Cooperstown, NY | On Site | Feb 09 |
+| **[Colorado Department of Revenue](https://dmv.colorado.gov)** | **[SIPA Intern](https://jobright.ai/jobs/info/6989968447434001cc67be44?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Feb 09 |
 | **[Run Networks](https://www.runnetworkrun.com/)** | **[Intern - Desktop Support](https://jobright.ai/jobs/info/69898e498ca8121a3a6be095?utm_campaign=1058&utm_source=git)** | Omaha, Nebraska, United States | On Site | Feb 08 |
 | **[Dartmouth Health](https://www.dartmouth-health.org/)** | **[Pharmacy Intern - Mail Center, Per Diem](https://jobright.ai/jobs/info/6989665447434001cc67895e?utm_campaign=1058&utm_source=git)** | Manchester, NH | On Site | Feb 08 |
 | **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Server](https://jobright.ai/jobs/info/6989583c0f6f7e7a2ce4595f?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 08 |
@@ -91,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Intern- Desktop Support](https://jobright.ai/jobs/info/691d73710b7dff7341503b2b?utm_campaign=1058&utm_source=git)** | Owensboro, KY | On Site | Feb 08 |
 | **[AE2S (Advanced Engineering and Environmental Services, LLC)](http://ae2s.com)** | **[IT Intern](https://jobright.ai/jobs/info/698899120f6f7e7a2ce3dc13?utm_campaign=1058&utm_source=git)** | Grand Forks, ND | On Site | Feb 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6988970f8da7a6120463b3d3?utm_campaign=1058&utm_source=git)** | Marrero, LA | On Site | Feb 08 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/698896a78da7a6120463b368?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 08 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Customer Quote Associate](https://jobright.ai/jobs/info/69184e3915b4156367181621?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/698895b10f6f7e7a2ce3da6e?utm_campaign=1058&utm_source=git)** | Gresham, OR | On Site | Feb 08 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern - Information Systems Help Desk](https://jobright.ai/jobs/info/6976ef2452f3c27ec642e488?utm_campaign=1058&utm_source=git)** | Jefferson City, MO | On Site | Feb 08 |
@@ -103,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Continental Properties](http://www.cproperties.com/)** | **[Paid HelpDesk Intern](https://jobright.ai/jobs/info/6987f1958da7a6120462e83c?utm_campaign=1058&utm_source=git)** | Menomonee Falls, WI | On Site | Feb 07 |
 | **[Health Connect America](https://healthconnectamerica.com)** | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889b168da7a6120463b58f?utm_campaign=1058&utm_source=git)** | Tyrone, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889a6a8da7a6120463b533?utm_campaign=1058&utm_source=git)** | Gainesville, GA | Hybrid | Feb 07 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889a958ca8121a3a6b2501?utm_campaign=1058&utm_source=git)** | Jesup, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889c530f6f7e7a2ce3dcd1?utm_campaign=1058&utm_source=git)** | Statesboro, GA | Hybrid | Feb 07 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889a958ca8121a3a6b2501?utm_campaign=1058&utm_source=git)** | Jesup, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889a858da7a6120463b539?utm_campaign=1058&utm_source=git)** | Snellville, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889b508ca8121a3a6b2534?utm_campaign=1058&utm_source=git)** | Dallas, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889af38da7a6120463b573?utm_campaign=1058&utm_source=git)** | Columbus, GA | Hybrid | Feb 07 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Support/Implementation Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/68c027e1702aa35207aaaf88?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Feb 07 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - IT Support](https://jobright.ai/jobs/info/696b40eb350cf43803129150?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[Guidepoint](http://www.guidepoint.com)** | **[2024 Tech Intern Pool](https://jobright.ai/jobs/info/667713ec3ab189f6697e9413?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
-| **[Sentara Health](http://www.sentara.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6987157a0f6f7e7a2ce2588c?utm_campaign=1058&utm_source=git)** | Norfolk, VA | On Site | Feb 07 |
-| **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - IT](https://jobright.ai/jobs/info/69337b2da0dde7020e2ee6d5?utm_campaign=1058&utm_source=git)** | Hilmar, CA | On Site | Feb 07 |
-| **[LASIK MD](https://www.lasikmd.com/)** | **[Ophthalmic Technician Internship - Summer 2026](https://jobright.ai/jobs/info/6986fc038ca8121a3a698151?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 07 |
-| **[Rush University Medical Center](https://www.rush.edu/)** | **[Pharmacy Intern-24606](https://jobright.ai/jobs/info/6986f2258da7a61204620377?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 07 |
-| **[Essentia Health](https://www.essentiahealth.org/)** | **[Pharmacist Intern - Population Health](https://jobright.ai/jobs/info/6986ec1a8da7a6120461faed?utm_campaign=1058&utm_source=git)** | Essentia Health Superior Belknap Pharmacy | On Site | Feb 06 |
-| **[Gadsden Regional Medical Center](https://www.gadsdenregional.com/)** | **[Nurse Intern](https://jobright.ai/jobs/info/6986e8ea8da7a6120461f91a?utm_campaign=1058&utm_source=git)** | Gadsden, AL | On Site | Feb 06 |
-| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6986e89a0f6f7e7a2ce224f2?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Feb 06 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I](https://jobright.ai/jobs/info/6986e78a8ca8121a3a696e87?utm_campaign=1058&utm_source=git)** | West Memphis, AR | On Site | Feb 06 |
-| **[Temple Health – Temple University Health System](https://www.templehealth.org/)** | **[PHARMACY INTERN (PT; 15hrs/wk) - Temple Health/Fox Chase Cancer Center](https://jobright.ai/jobs/info/698840000f6f7e7a2ce38769?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Feb 06 |
-| **[Capacity](http://www.capacityllc.com)** | **[IT Intern](https://jobright.ai/jobs/info/6986d5db8ca8121a3a695b7f?utm_campaign=1058&utm_source=git)** | North Brunswick, NJ | On Site | Feb 06 |
-| **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern- 4N](https://jobright.ai/jobs/info/6986cfe78ca8121a3a694f90?utm_campaign=1058&utm_source=git)** | 4370 W MAIN ST, DOTHAN, AL, 36305, US | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
