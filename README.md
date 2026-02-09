@@ -61,7 +61,6 @@ For a complete list, click the following sortable link below:
 | **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Server](https://jobright.ai/jobs/info/6989583c0f6f7e7a2ce4595f?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 08 |
 | **[Kitty Hawk Kites & Adventures](https://www.kittyhawk.com)** | **[2026 Hospitality Management Internship (Outer Banks, NC)](https://jobright.ai/jobs/info/698936868ca8121a3a6b88fd?utm_campaign=1058&utm_source=git)** | Banks, OR | On Site | Feb 08 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Client Services Intern (Summer 2026)](https://jobright.ai/jobs/info/69892ace8ca8121a3a6b6de7?utm_campaign=1058&utm_source=git)** | Tysons Corner, VA | On Site | Feb 08 |
-| **[Temple Health – Temple University Health System](https://www.templehealth.org/)** | **[PHARMACY INTERN (PT; 15hrs/wk) - Temple Health/Fox Chase Cancer Center](https://jobright.ai/jobs/info/6988faad8da7a6120463f09e?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Feb 08 |
 | **[Bridgeway](http://bway.org)** | **[IT Services Student Intern](https://jobright.ai/jobs/info/6988f6c68da7a6120463f004?utm_campaign=1058&utm_source=git)** | Galesburg, IL | On Site | Feb 08 |
 | **[Detroit Medical Center](http://www.dmc.org/)** | **[Pharmacy Intern  P1 Contingent Rotate](https://jobright.ai/jobs/info/6988f2768ca8121a3a6b536f?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Feb 08 |
 | **[Metropolitan District Commission](https://themdc.org)** | **[College Intern -Customer Service](https://jobright.ai/jobs/info/6988ef4e0f6f7e7a2ce4080e?utm_campaign=1058&utm_source=git)** | Hartford, CT | On Site | Feb 08 |
@@ -97,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern - Information Systems Help Desk](https://jobright.ai/jobs/info/6976ef2452f3c27ec642e488?utm_campaign=1058&utm_source=git)** | Jefferson City, MO | On Site | Feb 08 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/698895700f6f7e7a2ce3da62?utm_campaign=1058&utm_source=git)** | West Lafayette, IN | On Site | Feb 08 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6988951c0f6f7e7a2ce3da47?utm_campaign=1058&utm_source=git)** | Palmdale, CA | On Site | Feb 08 |
+| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Intern, Multifamily](https://jobright.ai/jobs/info/69897aa347434001cc67af1d?utm_campaign=1058&utm_source=git)** | Plano, TX | On Site | Feb 08 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695dc344efe5dd5cbd3d9d49?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Feb 08 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Intern IT I](https://jobright.ai/jobs/info/69880dea0f6f7e7a2ce3412d?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Feb 07 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Business Support Intern](https://jobright.ai/jobs/info/6987fc4d8ca8121a3a6a71a2?utm_campaign=1058&utm_source=git)** | Dedham, MA | On Site | Feb 07 |
@@ -106,12 +106,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889c530f6f7e7a2ce3dcd1?utm_campaign=1058&utm_source=git)** | Statesboro, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889a958ca8121a3a6b2501?utm_campaign=1058&utm_source=git)** | Jesup, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889a858da7a6120463b539?utm_campaign=1058&utm_source=git)** | Snellville, GA | Hybrid | Feb 07 |
-| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889b508ca8121a3a6b2534?utm_campaign=1058&utm_source=git)** | Dallas, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889af38da7a6120463b573?utm_campaign=1058&utm_source=git)** | Columbus, GA | Hybrid | Feb 07 |
+| ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889b508ca8121a3a6b2534?utm_campaign=1058&utm_source=git)** | Dallas, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889c860f6f7e7a2ce3dce0?utm_campaign=1058&utm_source=git)** | Dalton, GA | Hybrid | Feb 07 |
 | ↳ | **[Intern - Client Support Specialist - Bachelor's level](https://jobright.ai/jobs/info/69889cf80f6f7e7a2ce3dd00?utm_campaign=1058&utm_source=git)** | Atlanta, GA | Hybrid | Feb 07 |
-| **[General Dynamics](https://www.gd.com)** | **[Business Support Intern](https://jobright.ai/jobs/info/6987f40e8da7a6120462f0b0?utm_campaign=1058&utm_source=git)** | USA-MA-Dedham | On Site | Feb 07 |
-| ↳ | **[Business Support Intern](https://jobright.ai/jobs/info/6987f1670f6f7e7a2ce31522?utm_campaign=1058&utm_source=git)** | MA-Dedham, UNAVAILABLE, USA | On Site | Feb 07 |
+| **[General Dynamics](https://www.gd.com)** | **[Business Support Intern](https://jobright.ai/jobs/info/6987f1670f6f7e7a2ce31522?utm_campaign=1058&utm_source=git)** | MA-Dedham, UNAVAILABLE, USA | On Site | Feb 07 |
+| ↳ | **[Business Support Intern](https://jobright.ai/jobs/info/6987f40e8da7a6120462f0b0?utm_campaign=1058&utm_source=git)** | USA-MA-Dedham | On Site | Feb 07 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/6987a13a0f6f7e7a2ce2dd35?utm_campaign=1058&utm_source=git)** | Conroe, TX | On Site | Feb 07 |
 | **[Invited](https://www.invitedclubs.com)** | **[PGM Internship](https://jobright.ai/jobs/info/698799198da7a6120462a7a0?utm_campaign=1058&utm_source=git)** | Wake Forest, NC | On Site | Feb 07 |
 | **[Diamond Run Golf Club](https://www.invitedclubs.com/clubs/diamond-run-golf-club)** | **[PGM Internship](https://jobright.ai/jobs/info/698798740f6f7e7a2ce2d534?utm_campaign=1058&utm_source=git)** | 7305 Village Club Drive, Wake Forest, NC, 27587, US | On Site | Feb 07 |
@@ -125,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Ericsson](https://www.ericsson.com)** | **[Service Delivery Intern](https://jobright.ai/jobs/info/69876c180f6f7e7a2ce2a85d?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 07 |
 | **[ASML](https://www.asml.com)** | **[Internship – Customer Badging](https://jobright.ai/jobs/info/68f9ce25cadb2e5a06a67cca?utm_campaign=1058&utm_source=git)** | Hillsboro, OR | On Site | Feb 07 |
 | **[Froedtert Health](http://www.froedtert.com)** | **[Outpatient Pharmacy Intern](https://jobright.ai/jobs/info/698788178da7a61204629d1a?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Feb 07 |
-| **[Smith+Nephew](http://www.smith-nephew.com)** | **[Intern Product Support (Austin,TX)](https://jobright.ai/jobs/info/698757ed0f6f7e7a2ce29d2e?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Feb 07 |
 | **[Consumers Credit Union](http://myconsumers.org)** | **[Information Technology Intern - Summer 2026](https://jobright.ai/jobs/info/698754da8ca8121a3a69e48e?utm_campaign=1058&utm_source=git)** | Lake Forest, IL | On Site | Feb 07 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69874f0f0f6f7e7a2ce29831?utm_campaign=1058&utm_source=git)** | Deerfield Beach, FL | On Site | Feb 07 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69874d770f6f7e7a2ce29676?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Feb 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I](https://jobright.ai/jobs/info/6986e78a8ca8121a3a696e87?utm_campaign=1058&utm_source=git)** | West Memphis, AR | On Site | Feb 06 |
 | **[Temple Health – Temple University Health System](https://www.templehealth.org/)** | **[PHARMACY INTERN (PT; 15hrs/wk) - Temple Health/Fox Chase Cancer Center](https://jobright.ai/jobs/info/698840000f6f7e7a2ce38769?utm_campaign=1058&utm_source=git)** | Philadelphia, PA | On Site | Feb 06 |
 | **[Capacity](http://www.capacityllc.com)** | **[IT Intern](https://jobright.ai/jobs/info/6986d5db8ca8121a3a695b7f?utm_campaign=1058&utm_source=git)** | North Brunswick, NJ | On Site | Feb 06 |
+| **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern- 4N](https://jobright.ai/jobs/info/6986cfe78ca8121a3a694f90?utm_campaign=1058&utm_source=git)** | 4370 W MAIN ST, DOTHAN, AL, 36305, US | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
