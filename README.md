@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/698aa8a90f6f7e7a2ce5de4b?utm_campaign=1058&utm_source=git)** | Glendale, AZ | On Site | Feb 09 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6948ed3863141d1884589708?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | Feb 09 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/698aa5c6c5761b521a99eca1?utm_campaign=1058&utm_source=git)** | Surprise, AZ | On Site | Feb 09 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698aa4a34db8972cec000095?utm_campaign=1058&utm_source=git)** | Sedona, AZ | On Site | Feb 09 |
@@ -80,19 +81,23 @@ For a complete list, click the following sortable link below:
 | **[Country Supplier](www.countrysupplier.com)** | **[IT Helpdesk Specialist - Intern](https://jobright.ai/jobs/info/698a8fd6c5761b521a99d351?utm_campaign=1058&utm_source=git)** | Idaho Falls,ID,US | On Site | Feb 09 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698a8e204db8972cecffe8a9?utm_campaign=1058&utm_source=git)** | Queen Creek, AZ | On Site | Feb 09 |
 | ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698a8df74db8972cecffe87d?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Feb 09 |
+| **[Penske Logistics](https://www.penskelogistics.com/)** | **[IT Internship (Infrastructure)](https://jobright.ai/jobs/info/698aac884db8972cec000912?utm_campaign=1058&utm_source=git)** | Beachwood, OH | On Site | Feb 09 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698a8da84db8972cecffe82b?utm_campaign=1058&utm_source=git)** | US-FL-Orlando | On Site | Feb 09 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698a8d6d0f6f7e7a2ce5bfcd?utm_campaign=1058&utm_source=git)** | Bullhead City, AZ | On Site | Feb 09 |
+| **[Lucid Software](https://lucid.co)** | **[Customer Experience & Support Intern - Summer 2026](https://jobright.ai/jobs/info/69869c898ca8121a3a68ea34?utm_campaign=1058&utm_source=git)** | Raleigh, NC | Hybrid | Feb 09 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698a8c790f6f7e7a2ce5beaf?utm_campaign=1058&utm_source=git)** | US-CO-Lone Tree | On Site | Feb 09 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698a8bdfc5761b521a99cfe0?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Feb 09 |
 | **[GFL Environmental Inc.](https://gflenv.com/)** | **[IT Intern](https://jobright.ai/jobs/info/698a8bd4c5761b521a99cfd3?utm_campaign=1058&utm_source=git)** | Houston, Texas | On Site | Feb 09 |
 | **[Fort Washington Investment Advisors, Inc.](http://www.fortwashington.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/698a8bb10f6f7e7a2ce5bdc8?utm_campaign=1058&utm_source=git)** | CINCINNATI, OH, US | On Site | Feb 09 |
 | **[Nakupuna Companies](https://www.nakupuna.com)** | **[IT Intern](https://jobright.ai/jobs/info/698a8adf4db8972cecffe516?utm_campaign=1058&utm_source=git)** | Honolulu, HI, US | On Site | Feb 09 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698a8ada0f6f7e7a2ce5bcde?utm_campaign=1058&utm_source=git)** | Peoria, AZ | On Site | Feb 09 |
+| **[American Rheinmetall](https://www.rheinmetall.com/en/company/subsidiaries/american-rheinmetall-defense)** | **[IT Intern](https://jobright.ai/jobs/info/698aa98dc5761b521a99f089?utm_campaign=1058&utm_source=git)** | Auburn Hills, MI | On Site | Feb 09 |
 | **[Buckingham Companies](http://buckingham.com)** | **[Information Technology / IT Internship](https://jobright.ai/jobs/info/698a891c4db8972cecffe33c?utm_campaign=1058&utm_source=git)** | US-IN-Indianapolis | On Site | Feb 09 |
-| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698aa85d0f6f7e7a2ce5ddf6?utm_campaign=1058&utm_source=git)** | Mesa, AZ | On Site | Feb 09 |
-| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698aa64d0f6f7e7a2ce5dbbd?utm_campaign=1058&utm_source=git)** | Chandler, AZ | On Site | Feb 09 |
-| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698aa796c5761b521a99ee6d?utm_campaign=1058&utm_source=git)** | Fort Mohave, AZ | On Site | Feb 09 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698aa8b94db8972cec0004f0?utm_campaign=1058&utm_source=git)** | Apache Junction, AZ | On Site | Feb 09 |
+| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698aa85d0f6f7e7a2ce5ddf6?utm_campaign=1058&utm_source=git)** | Mesa, AZ | On Site | Feb 09 |
 | ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698aa6a9c5761b521a99ed86?utm_campaign=1058&utm_source=git)** | Gilbert, AZ | On Site | Feb 09 |
+| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698aad1e0f6f7e7a2ce5e290?utm_campaign=1058&utm_source=git)** | Surprise, AZ | On Site | Feb 09 |
+| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698aac8b0f6f7e7a2ce5e24c?utm_campaign=1058&utm_source=git)** | Prescott Valley, AZ | On Site | Feb 09 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - Palestine (Summer Months)](https://jobright.ai/jobs/info/698a8899c5761b521a99ccdc?utm_campaign=1058&utm_source=git)** | Palestine, IA | On Site | Feb 09 |
 | **[Aurora Health Care](http://aurorahealthcare.org)** | **[Outpatient Pharmacy Grad Intern](https://jobright.ai/jobs/info/698a8682c5761b521a99c94a?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Feb 09 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698a866fc5761b521a99c91e?utm_campaign=1058&utm_source=git)** | Glendale, AZ | On Site | Feb 09 |
@@ -107,13 +112,13 @@ For a complete list, click the following sortable link below:
 | **[The Ritedose Corporation](http://ritedose.com)** | **[Technical Services Intern](https://jobright.ai/jobs/info/698a777c0f6f7e7a2ce59eed?utm_campaign=1058&utm_source=git)** | Columbia, SC | On Site | Feb 09 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Global Delivery Intern - Customer Success Support](https://jobright.ai/jobs/info/698a76a10f6f7e7a2ce59dca?utm_campaign=1058&utm_source=git)** | Austin, TX, United States | On Site | Feb 09 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698a92dd4db8972cecffecfb?utm_campaign=1058&utm_source=git)** | Lone Tree, CO, US | On Site | Feb 09 |
-| ↳ | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698a9a660f6f7e7a2ce5cf1d?utm_campaign=1058&utm_source=git)** | US-AZ-Phoenix | On Site | Feb 09 |
-| ↳ | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698a9af9c5761b521a99e151?utm_campaign=1058&utm_source=git)** | Orlando, FL, US | On Site | Feb 09 |
-| ↳ | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698a94af4db8972cecffef15?utm_campaign=1058&utm_source=git)** | Omaha, NE, US | On Site | Feb 09 |
 | ↳ | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698a95a3c5761b521a99da6e?utm_campaign=1058&utm_source=git)** | Austin, TX, US | On Site | Feb 09 |
-| ↳ | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698a93084db8972cecffed2c?utm_campaign=1058&utm_source=git)** | Phoenix, AZ, US | On Site | Feb 09 |
-| ↳ | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698a92294db8972cecffec1f?utm_campaign=1058&utm_source=git)** | US-TX-Austin | On Site | Feb 09 |
+| ↳ | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698a94af4db8972cecffef15?utm_campaign=1058&utm_source=git)** | Omaha, NE, US | On Site | Feb 09 |
 | ↳ | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698a9b5c4db8972cecfff723?utm_campaign=1058&utm_source=git)** | US-TX-Westlake | On Site | Feb 09 |
+| ↳ | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698a92294db8972cecffec1f?utm_campaign=1058&utm_source=git)** | US-TX-Austin | On Site | Feb 09 |
+| ↳ | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698a9af9c5761b521a99e151?utm_campaign=1058&utm_source=git)** | Orlando, FL, US | On Site | Feb 09 |
+| ↳ | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698a9a660f6f7e7a2ce5cf1d?utm_campaign=1058&utm_source=git)** | US-AZ-Phoenix | On Site | Feb 09 |
+| ↳ | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698a93084db8972cecffed2c?utm_campaign=1058&utm_source=git)** | Phoenix, AZ, US | On Site | Feb 09 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[IT Internship (Infrastructure)](https://jobright.ai/jobs/info/698a74c94db8972cecffc6f0?utm_campaign=1058&utm_source=git)** | 3000 Auburn Dr, Beachwood, OH, 44122, US | On Site | Feb 09 |
 | **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[IT Internship (DCC)](https://jobright.ai/jobs/info/698a748e0f6f7e7a2ce59b6b?utm_campaign=1058&utm_source=git)** | Beachwood, OH, United States | On Site | Feb 09 |
 | **[Polk County BoCC](https://www.polk-county.net/emergency-management)** | **[PC Support Hardware Tech Intern](https://jobright.ai/jobs/info/698a733e0f6f7e7a2ce599f4?utm_campaign=1058&utm_source=git)** | 330 W Church Street, Bartow, FL, 33830, US | On Site | Feb 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/698a4a994db8972cecff898c?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Feb 09 |
 | **[Northmarq](http://www.northmarq.com)** | **[Insurance Intern, Summer 2026](https://jobright.ai/jobs/info/698a49b64db8972cecff88ea?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Feb 09 |
 | **[Miami HEAT](http://HEAT.com)** | **[Intern, IT](https://jobright.ai/jobs/info/6966c06ba112b4026614b9e8?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Feb 09 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support - Engineer](https://jobright.ai/jobs/info/698a6d6d4db8972cecffbd27?utm_campaign=1058&utm_source=git)** | Scranton, PA | On Site | Feb 09 |
-| **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Pharmacy Intern (Per Diem)](https://jobright.ai/jobs/info/698a6c46c5761b521a99a269?utm_campaign=1058&utm_source=git)** | Needham, MA | On Site | Feb 09 |
-| **[Meaden & Moore](http://meadenmoore.com)** | **[Desktop Support Intern](https://jobright.ai/jobs/info/698a6a764db8972cecffb81c?utm_campaign=1058&utm_source=git)** | Cleveland, OH | Hybrid | Feb 09 |
-| **[Metropolitan District Commission](https://themdc.org)** | **[College Intern -Information Technology](https://jobright.ai/jobs/info/698a472b0f6f7e7a2ce559a6?utm_campaign=1058&utm_source=git)** | Hartford, CT | On Site | Feb 09 |
-| **[West Anaheim Medical Center](https://www.westanaheimmedctr.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/698a67340f6f7e7a2ce58ad9?utm_campaign=1058&utm_source=git)** | Anaheim, CA | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
