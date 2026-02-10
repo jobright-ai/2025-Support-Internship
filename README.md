@@ -57,14 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Software System Technologist Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/698ba1fd06d9b0622495c944?utm_campaign=1058&utm_source=git)** | Allen, TX | Hybrid | Feb 10 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698b9f960f6f7e7a2ce71856?utm_campaign=1058&utm_source=git)** | Lone Tree, CO | On Site | Feb 10 |
 | ↳ | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698b9ef006d9b0622495c527?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Feb 10 |
 | **[Miami HEAT](http://HEAT.com)** | **[Intern, Premium Client Service](https://jobright.ai/jobs/info/698b9b9b0f6f7e7a2ce71351?utm_campaign=1058&utm_source=git)** | Miami, FL | On Site | Feb 10 |
 | **[Northeast Bank](https://www.northeastbank.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/698b9a3e0f6f7e7a2ce711ce?utm_campaign=1058&utm_source=git)** | Lewiston, ME | On Site | Feb 10 |
+| **[Charles Schwab](https://www.schwab.com/)** | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698bae4fc5761b521a9b408f?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Feb 10 |
+| **[Reyes Beverage Group](https://reyesbeerdivision.com)** | **[Shared Services Intern](https://jobright.ai/jobs/info/698bae700f6f7e7a2ce72a17?utm_campaign=1058&utm_source=git)** | Manor, TX | On Site | Feb 10 |
+| **[Shoppers Drug Mart](http://www.shoppersdrugmart.ca)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/698bae8b0f6f7e7a2ce72a3b?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 10 |
+| **[Bollinger Shipyards](http://bollingershipyards.com)** | **[IT - Help Desk/IT Service Delivery Intern](https://jobright.ai/jobs/info/698bad3506d9b0622495d6e0?utm_campaign=1058&utm_source=git)** | Lockport, LA | On Site | Feb 10 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - Denison Travel Info Ctr.](https://jobright.ai/jobs/info/698b8b40c5761b521a9b1950?utm_campaign=1058&utm_source=git)** | Denison, TX | On Site | Feb 10 |
 | **[Turlock Irrigation District](https://tid.com)** | **[2026 Student Intern - Information Technology Services](https://jobright.ai/jobs/info/698b888e06d9b0622495ac1c?utm_campaign=1058&utm_source=git)** | Turlock, CA | On Site | Feb 10 |
 | **[First Supply LLC](https://firstsupply.com)** | **[Intern, IT Help Desk](https://jobright.ai/jobs/info/6977c21f52f3c27ec643e3e9?utm_campaign=1058&utm_source=git)** | West Salem, WI | On Site | Feb 10 |
+| **[Hoffmann Brothers](https://www.hoffmannbros.com/)** | **[IT Intern](https://jobright.ai/jobs/info/698ba9a606d9b0622495d2be?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Feb 10 |
+| **[Apptegy](http://www.apptegy.com)** | **[Client Experience Internship](https://jobright.ai/jobs/info/696feadb3ed06875134ad522?utm_campaign=1058&utm_source=git)** | Little Rock, AR | On Site | Feb 10 |
 | **[WellSpan Health](https://www.wellspan.org/)** | **[Imaging Intern - Diagnostic Radiology - Days](https://jobright.ai/jobs/info/698b84840f6f7e7a2ce6f8a4?utm_campaign=1058&utm_source=git)** | Gettysburg, PA | On Site | Feb 10 |
+| **[Porsche Cars North America](http://www.porscheusa.com)** | **[IT Services Intern](https://jobright.ai/jobs/info/698ba5260f6f7e7a2ce71f3d?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Feb 10 |
+| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[IT Generalist Intern](https://jobright.ai/jobs/info/698ba22fc5761b521a9b32ec?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 10 |
 | **[NYC Department of Environmental Protection (NYC DEP)](http://nyc.gov/dep)** | **[2026-FLEET-Client Services Intern](https://jobright.ai/jobs/info/698b794506d9b06224959335?utm_campaign=1058&utm_source=git)** | Queens, NY | On Site | Feb 10 |
 | **[Smilow Cancer Hospital](https://www.ynhh.org/smilow.aspx)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/698b9383c5761b521a9b228d?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Feb 10 |
 | **[Okta](http://www.okta.com)** | **[Technical Account Management Intern (Summer 2026)](https://jobright.ai/jobs/info/698b70d9c5761b521a9af0c4?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
@@ -82,11 +91,12 @@ For a complete list, click the following sortable link below:
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/696e8cd45fc86241853d4558?utm_campaign=1058&utm_source=git)** | Hayward, CA | On Site | Feb 10 |
 | ↳ | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/696edb02350cf4380315d40b?utm_campaign=1058&utm_source=git)** | Billings, MT | On Site | Feb 10 |
 | **[GFL Environmental Inc.](https://gflenv.com/)** | **[IT Intern](https://jobright.ai/jobs/info/698b611e0f6f7e7a2ce6c261?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Feb 10 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Respiratory Therapy Assistant - Intern](https://jobright.ai/jobs/info/698bac2cc5761b521a9b3ec7?utm_campaign=1058&utm_source=git)** | Rochester, MN, United States | On Site | Feb 10 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Corporate IT Solutions Partner](https://jobright.ai/jobs/info/698b5c88c5761b521a9ad031?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Feb 10 |
-| **[Northeast Bank](https://www.northeastbank.com/)** | **[Retail Teller Intern](https://jobright.ai/jobs/info/698b9a26c5761b521a9b2a3b?utm_campaign=1058&utm_source=git)** | Augusta, ME, US | On Site | Feb 10 |
-| ↳ | **[Retail Teller Intern](https://jobright.ai/jobs/info/698b81d206d9b0622495a179?utm_campaign=1058&utm_source=git)** | Auburn, ME, US | On Site | Feb 10 |
+| **[Northeast Bank](https://www.northeastbank.com/)** | **[Retail Teller Intern](https://jobright.ai/jobs/info/698b81d206d9b0622495a179?utm_campaign=1058&utm_source=git)** | Auburn, ME, US | On Site | Feb 10 |
 | ↳ | **[Retail Teller Intern](https://jobright.ai/jobs/info/698b7f080f6f7e7a2ce6f01a?utm_campaign=1058&utm_source=git)** | Portland, ME, US | On Site | Feb 10 |
 | ↳ | **[Retail Teller Intern](https://jobright.ai/jobs/info/698b8116c5761b521a9b0bf1?utm_campaign=1058&utm_source=git)** | South Paris, ME, US | On Site | Feb 10 |
+| ↳ | **[Retail Teller Intern](https://jobright.ai/jobs/info/698b9a26c5761b521a9b2a3b?utm_campaign=1058&utm_source=git)** | Augusta, ME, US | On Site | Feb 10 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Branch Intern - Paid Internship (College Station, TX)](https://jobright.ai/jobs/info/696ef4519c3c52633455ab0d?utm_campaign=1058&utm_source=git)** | College Station, TX | On Site | Feb 10 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Respiratory Therapy Assistant - Intern](https://jobright.ai/jobs/info/698b9f1306d9b0622495c55d?utm_campaign=1058&utm_source=git)** | Rochester, MN, United States | On Site | Feb 10 |
 | **[Sika](http://www.sika.com/)** | **[INTERNSHIP: Customer Service Representative (4 months)](https://jobright.ai/jobs/info/6977c33588e2b47213bbb8a8?utm_campaign=1058&utm_source=git)** | Brantford, Ontario, Canada | On Site | Feb 10 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Country Supplier](www.countrysupplier.com)** | **[IT Helpdesk Specialist - Intern](https://jobright.ai/jobs/info/698a8fd6c5761b521a99d351?utm_campaign=1058&utm_source=git)** | Idaho Falls,ID,US | On Site | Feb 09 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[IT Internship (Infrastructure)](https://jobright.ai/jobs/info/698aac884db8972cec000912?utm_campaign=1058&utm_source=git)** | Beachwood, OH | On Site | Feb 09 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698a8da84db8972cecffe82b?utm_campaign=1058&utm_source=git)** | US-FL-Orlando | On Site | Feb 09 |
-| **[Lucid Software](https://lucid.co)** | **[Customer Experience & Support Intern - Summer 2026](https://jobright.ai/jobs/info/69869c898ca8121a3a68ea34?utm_campaign=1058&utm_source=git)** | Raleigh, NC | Hybrid | Feb 09 |
-| **[Charles Schwab](https://www.schwab.com/)** | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698a8c790f6f7e7a2ce5beaf?utm_campaign=1058&utm_source=git)** | US-CO-Lone Tree | On Site | Feb 09 |
-| **[GFL Environmental Inc.](https://gflenv.com/)** | **[IT Intern](https://jobright.ai/jobs/info/698a8bd4c5761b521a99cfd3?utm_campaign=1058&utm_source=git)** | Houston, Texas | On Site | Feb 09 |
-| **[Fort Washington Investment Advisors, Inc.](http://www.fortwashington.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/698a8bb10f6f7e7a2ce5bdc8?utm_campaign=1058&utm_source=git)** | CINCINNATI, OH, US | On Site | Feb 09 |
-| **[Nakupuna Companies](https://www.nakupuna.com)** | **[IT Intern](https://jobright.ai/jobs/info/698a8adf4db8972cecffe516?utm_campaign=1058&utm_source=git)** | Honolulu, HI, US | On Site | Feb 09 |
-| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698a8ada0f6f7e7a2ce5bcde?utm_campaign=1058&utm_source=git)** | Peoria, AZ | On Site | Feb 09 |
-| **[Buckingham Companies](http://buckingham.com)** | **[Information Technology / IT Internship](https://jobright.ai/jobs/info/698a891c4db8972cecffe33c?utm_campaign=1058&utm_source=git)** | US-IN-Indianapolis | On Site | Feb 09 |
-| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698aa8b94db8972cec0004f0?utm_campaign=1058&utm_source=git)** | Apache Junction, AZ | On Site | Feb 09 |
-| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698aad1e0f6f7e7a2ce5e290?utm_campaign=1058&utm_source=git)** | Surprise, AZ | On Site | Feb 09 |
-| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698aac8b0f6f7e7a2ce5e24c?utm_campaign=1058&utm_source=git)** | Prescott Valley, AZ | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
