@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NYC Department of Environmental Protection (NYC DEP)](http://nyc.gov/dep)** | **[2026-FLEET-Client Services Intern](https://jobright.ai/jobs/info/698b794506d9b06224959335?utm_campaign=1058&utm_source=git)** | Queens, NY | On Site | Feb 10 |
+| **[Okta](http://www.okta.com)** | **[Technical Account Management Intern (Summer 2026)](https://jobright.ai/jobs/info/698b70d9c5761b521a9af0c4?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/696e8b645fc86241853d43cc?utm_campaign=1058&utm_source=git)** | St George, UT | On Site | Feb 10 |
 | **[Dandurand Group](https://www.vinsdandurand.com/en/)** | **[Stagiaire ventes](https://jobright.ai/jobs/info/698b6d1c0f6f7e7a2ce6d560?utm_campaign=1058&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Feb 10 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e38b8df758fe1f97e5f1a9?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Feb 10 |
@@ -95,8 +97,7 @@ For a complete list, click the following sortable link below:
 | **[St. Elizabeth Healthcare](http://www.stelizabeth.com/)** | **[Intern Pharmacy - Retail Outpatient](https://jobright.ai/jobs/info/67fdb2ba2467c92045c0f3c0?utm_campaign=1058&utm_source=git)** | Edgewood, KY | On Site | Feb 10 |
 | **[FirstOntario Credit Union](https://www.firstontario.com)** | **[Internal Member Support Representative (Summer Student)](https://jobright.ai/jobs/info/698afbf8c5761b521a9a5ca5?utm_campaign=1058&utm_source=git)** | Hamilton, Ontario, Canada | On Site | Feb 10 |
 | **[Springfield Empowerment Zone Partnership](https://www.springfieldempowerment.org)** | **[STUDENT INTERNSHIP - INFORMATION TECHNOLOGY](https://jobright.ai/jobs/info/698afb1d0f6f7e7a2ce6490c?utm_campaign=1058&utm_source=git)** | Springfield, MA | On Site | Feb 10 |
-| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/698af01c0f6f7e7a2ce63aff?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 10 |
-| ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/698aee9b0f6f7e7a2ce63998?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 10 |
+| **[DRB Distribution](https://drbdistribution.com/experience-unique/)** | **[Ventes internes - étudiant](https://jobright.ai/jobs/info/698b76fec5761b521a9af7f5?utm_campaign=1058&utm_source=git)** | Sainte-Claire, Quebec, Canada | Remote | Feb 10 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/698ae3e0c5761b521a9a430e?utm_campaign=1058&utm_source=git)** | Anchorage, AK | On Site | Feb 09 |
 | ↳ | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/698ada810f6f7e7a2ce62cd8?utm_campaign=1058&utm_source=git)** | Tualatin, OR | On Site | Feb 09 |
 | **[Buckingham Companies](http://buckingham.com)** | **[Information Technology / IT Internship](https://jobright.ai/jobs/info/698ac25f0f6f7e7a2ce61590?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Feb 09 |
@@ -132,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698a8ada0f6f7e7a2ce5bcde?utm_campaign=1058&utm_source=git)** | Peoria, AZ | On Site | Feb 09 |
 | **[Buckingham Companies](http://buckingham.com)** | **[Information Technology / IT Internship](https://jobright.ai/jobs/info/698a891c4db8972cecffe33c?utm_campaign=1058&utm_source=git)** | US-IN-Indianapolis | On Site | Feb 09 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698aa8b94db8972cec0004f0?utm_campaign=1058&utm_source=git)** | Apache Junction, AZ | On Site | Feb 09 |
-| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698aad1e0f6f7e7a2ce5e290?utm_campaign=1058&utm_source=git)** | Surprise, AZ | On Site | Feb 09 |
 | ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698aac8b0f6f7e7a2ce5e24c?utm_campaign=1058&utm_source=git)** | Prescott Valley, AZ | On Site | Feb 09 |
+| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/698aad1e0f6f7e7a2ce5e290?utm_campaign=1058&utm_source=git)** | Surprise, AZ | On Site | Feb 09 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - Palestine (Summer Months)](https://jobright.ai/jobs/info/698a8899c5761b521a99ccdc?utm_campaign=1058&utm_source=git)** | Palestine, IA | On Site | Feb 09 |
 | **[Aurora Health Care](http://aurorahealthcare.org)** | **[Outpatient Pharmacy Grad Intern](https://jobright.ai/jobs/info/698a8682c5761b521a99c94a?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Feb 09 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Digital Banking Support](https://jobright.ai/jobs/info/698a81d4c5761b521a99bbdf?utm_campaign=1058&utm_source=git)** | Knoxville, TN | On Site | Feb 09 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Global Delivery Intern - Customer Success Support](https://jobright.ai/jobs/info/698a76a10f6f7e7a2ce59dca?utm_campaign=1058&utm_source=git)** | Austin, TX, United States | On Site | Feb 09 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698a92dd4db8972cecffecfb?utm_campaign=1058&utm_source=git)** | Lone Tree, CO, US | On Site | Feb 09 |
 | ↳ | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698a9a660f6f7e7a2ce5cf1d?utm_campaign=1058&utm_source=git)** | US-AZ-Phoenix | On Site | Feb 09 |
-| ↳ | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698a94af4db8972cecffef15?utm_campaign=1058&utm_source=git)** | Omaha, NE, US | On Site | Feb 09 |
 | ↳ | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698a95a3c5761b521a99da6e?utm_campaign=1058&utm_source=git)** | Austin, TX, US | On Site | Feb 09 |
-| ↳ | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698a92294db8972cecffec1f?utm_campaign=1058&utm_source=git)** | US-TX-Austin | On Site | Feb 09 |
+| ↳ | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698a9b5c4db8972cecfff723?utm_campaign=1058&utm_source=git)** | US-TX-Westlake | On Site | Feb 09 |
 | ↳ | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698a9af9c5761b521a99e151?utm_campaign=1058&utm_source=git)** | Orlando, FL, US | On Site | Feb 09 |
 | ↳ | **[Client Services Part-Time Internship](https://jobright.ai/jobs/info/698a93084db8972cecffed2c?utm_campaign=1058&utm_source=git)** | Phoenix, AZ, US | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
