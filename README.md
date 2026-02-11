@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4ce6df1a6c091c9da20ba?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Feb 11 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/697457c537785856350e6e33?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | On Site | Feb 11 |
 | **[Navajo County](http://NavajoCountyAZ.gov)** | **[Intern](https://jobright.ai/jobs/info/698cdad00f6f7e7a2ce88f4b?utm_campaign=1058&utm_source=git)** | Holbrook, AZ | On Site | Feb 11 |
 | **[Duke University Health System](http://dukemedicine.org)** | **[Pharmacy Technician I - Clinical Intern](https://jobright.ai/jobs/info/698cda470f6f7e7a2ce88eb3?utm_campaign=1058&utm_source=git)** | Durham, NC | On Site | Feb 11 |
@@ -66,6 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Centra Health](https://www.centrahealth.com/)** | **[Pharmacist Intern - LGH](https://jobright.ai/jobs/info/66ccd391e8636fc9a39e26f4?utm_campaign=1058&utm_source=git)** | Lynchburg, VA | On Site | Feb 11 |
 | **[SBM Life Science](https://sbm-company.com/)** | **[IT Intern](https://jobright.ai/jobs/info/698cca8a78b4502f12a3424f?utm_campaign=1058&utm_source=git)** | Cary, NC | On Site | Feb 11 |
 | **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68ccfe0d77add66568abd516?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Feb 11 |
+| **[Hillside Medical Group](https://www.hillsideprimarycare.com/)** | **[Family Nurse Practitioner / Internship](https://jobright.ai/jobs/info/698cf4eaf64d441a164ed1a8?utm_campaign=1058&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Feb 11 |
+| **[Atlas Energy Solutions](https://atlas.energy)** | **[IT Intern](https://jobright.ai/jobs/info/698ceafe78b4502f12a360b0?utm_campaign=1058&utm_source=git)** | Austin TX | On Site | Feb 11 |
 | **[WM](https://www.wm.com/)** | **[Internship, Salesforce](https://jobright.ai/jobs/info/698cc65af64d441a164ea708?utm_campaign=1058&utm_source=git)** | 1 STEELE RD, ROCHESTER, NH, 03839, US | On Site | Feb 11 |
 | **[Par Health](https://parsterileproducts.com)** | **[Intern, Information Specialist (Library)](https://jobright.ai/jobs/info/698cc62d0f6f7e7a2ce87e3b?utm_campaign=1058&utm_source=git)** | Webster Groves, MO | On Site | Feb 11 |
 | **[Syntegon](https://www.syntegon.com/)** | **[Service Order Process Analyst Intern](https://jobright.ai/jobs/info/69606652a1bbea1d9a7b4068?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Feb 11 |
@@ -82,7 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Milliman](http://www.milliman.com)** | **[IT Support Intern - Milwaukee Property and Casualty (onsite)](https://jobright.ai/jobs/info/698cb5f4f64d441a164e9b0f?utm_campaign=1058&utm_source=git)** | Brookfield, WI | On Site | Feb 11 |
 | **[BDO USA](https://www.bdo.com/)** | **[Information Technology Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698cb26bf64d441a164e97f5?utm_campaign=1058&utm_source=git)** | 3 5300 Patterson Ave S.E., Grand Rapids, MI, 49512, US | Remote | Feb 11 |
 | ↳ | **[Information Technology Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698cb1f6f64d441a164e9796?utm_campaign=1058&utm_source=git)** | Houston, TX | Remote | Feb 11 |
-| **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[IT OPERATIONS INTERN](https://jobright.ai/jobs/info/698cd76b78b4502f12a352ab?utm_campaign=1058&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 11 |
+| **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[IT OPERATIONS INTERN](https://jobright.ai/jobs/info/698cd63f0f6f7e7a2ce88a6c?utm_campaign=1058&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 11 |
 | **[Sally Beauty Holdings](https://www.linkedin.com/company/105659941)** | **[IT OPERATIONS INTERN](https://jobright.ai/jobs/info/698cd78af64d441a164ebaeb?utm_campaign=1058&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 11 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[IT OPERATIONS INTERN](https://jobright.ai/jobs/info/698cd90b0f6f7e7a2ce88d3f?utm_campaign=1058&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 11 |
 | **[McWane India Private Limited](https://www.mcwane.com/businesses/mcwane-india-private-limited/)** | **[Amerex - Credit Department Intern](https://jobright.ai/jobs/info/698cce9a78b4502f12a3473f?utm_campaign=1058&utm_source=git)** | Trussville, AL | On Site | Feb 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baldor Specialty Foods, Inc.](https://www.baldorfood.com)** | **[Intern - Help Desk](https://jobright.ai/jobs/info/697009b40f4e0f657ea46535?utm_campaign=1058&utm_source=git)** | NYC Metro Area | On Site | Feb 10 |
 | **[CENIC](https://cenic.org/)** | **[CENIC Operations Intern](https://jobright.ai/jobs/info/698c079be4f6572f0e4400e5?utm_campaign=1058&utm_source=git)** | La Mirada, CA | Hybrid | Feb 10 |
 | **[INX International Ink Co.](https://www.inxinternational.com)** | **[Help Desk Intern](https://jobright.ai/jobs/info/698c30070f6f7e7a2ce7e3a8?utm_campaign=1058&utm_source=git)** | Corporate Crossing Rd, Schaumburg, IL 60173, USA | On Site | Feb 10 |
-| **[EG America](https://www.eg-america.com)** | **[Foodservice Intern](https://jobright.ai/jobs/info/698c22270f6f7e7a2ce7b741?utm_campaign=1058&utm_source=git)** | Westborough, MA | On Site | Feb 10 |
-| **[DMA - DuCharme, McMillen & Associates, Inc.](https://www.dmainc.com/)** | **[Unclaimed Property Intern](https://jobright.ai/jobs/info/698c15820f6f7e7a2ce7a788?utm_campaign=1058&utm_source=git)** | Cincinnati, OH | On Site | Feb 10 |
-| **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Student Intern, IT](https://jobright.ai/jobs/info/698c10280f6f7e7a2ce7a159?utm_campaign=1058&utm_source=git)** | 6226 W Sahara Ave, Las Vegas, NV, 89146, US | On Site | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
