@@ -120,8 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Royal Electric Company](https://www.royalelect.com/)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/698b9473c5761b521a9b23b1?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Feb 10 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/696e8b645fc86241853d43cc?utm_campaign=1058&utm_source=git)** | St George, UT | On Site | Feb 10 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37e31b99ec3563b0e0b95?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Feb 10 |
-| **[Dandurand Group](https://www.vinsdandurand.com/en/)** | **[Stagiaire ventes](https://jobright.ai/jobs/info/698b6d1c0f6f7e7a2ce6d560?utm_campaign=1058&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Feb 10 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e379e61852e62f007fc1b4?utm_campaign=1058&utm_source=git)** | Pleasanton, CA | On Site | Feb 10 |
+| ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e379e61852e62f007fc1b4?utm_campaign=1058&utm_source=git)** | Pleasanton, CA | On Site | Feb 10 |
 | ↳ | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e38b8df758fe1f97e5f1a9?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Feb 10 |
 | **[Affordable Homes & Communities (AHC)](http://www.ahcinc.org)** | **[Intern](https://jobright.ai/jobs/info/698b8f490f6f7e7a2ce7058b?utm_campaign=1058&utm_source=git)** | Arlington, VA | On Site | Feb 10 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37d49b99ec3563b0e0b07?utm_campaign=1058&utm_source=git)** | Mission Viejo, CA | On Site | Feb 10 |
@@ -130,10 +129,10 @@ For a complete list, click the following sortable link below:
 | **[GFL Environmental Inc.](https://gflenv.com/)** | **[IT Intern](https://jobright.ai/jobs/info/698b611e0f6f7e7a2ce6c261?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Feb 10 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Respiratory Therapy Assistant - Intern](https://jobright.ai/jobs/info/698bac2cc5761b521a9b3ec7?utm_campaign=1058&utm_source=git)** | Rochester, MN, United States | On Site | Feb 10 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Corporate IT Solutions Partner](https://jobright.ai/jobs/info/698b5c88c5761b521a9ad031?utm_campaign=1058&utm_source=git)** | San Rafael, CA | On Site | Feb 10 |
-| **[Northeast Bank](https://www.northeastbank.com/)** | **[Retail Teller Intern](https://jobright.ai/jobs/info/698b8116c5761b521a9b0bf1?utm_campaign=1058&utm_source=git)** | South Paris, ME, US | On Site | Feb 10 |
-| ↳ | **[Retail Teller Intern](https://jobright.ai/jobs/info/698b81d206d9b0622495a179?utm_campaign=1058&utm_source=git)** | Auburn, ME, US | On Site | Feb 10 |
-| ↳ | **[Retail Teller Intern](https://jobright.ai/jobs/info/698b9a26c5761b521a9b2a3b?utm_campaign=1058&utm_source=git)** | Augusta, ME, US | On Site | Feb 10 |
+| **[Northeast Bank](https://www.northeastbank.com/)** | **[Retail Teller Intern](https://jobright.ai/jobs/info/698b81d206d9b0622495a179?utm_campaign=1058&utm_source=git)** | Auburn, ME, US | On Site | Feb 10 |
 | ↳ | **[Retail Teller Intern](https://jobright.ai/jobs/info/698b7f080f6f7e7a2ce6f01a?utm_campaign=1058&utm_source=git)** | Portland, ME, US | On Site | Feb 10 |
+| ↳ | **[Retail Teller Intern](https://jobright.ai/jobs/info/698b9a26c5761b521a9b2a3b?utm_campaign=1058&utm_source=git)** | Augusta, ME, US | On Site | Feb 10 |
+| ↳ | **[Retail Teller Intern](https://jobright.ai/jobs/info/698b8116c5761b521a9b0bf1?utm_campaign=1058&utm_source=git)** | South Paris, ME, US | On Site | Feb 10 |
 | **[Kelvin Soto, Esq., Osceola Clerk of the Circuit Court & County Comptroller](http://www.osceolaclerk.com)** | **[IT Intern](https://jobright.ai/jobs/info/698bbbc70f6f7e7a2ce7347b?utm_campaign=1058&utm_source=git)** | Kissimmee, FL, US | On Site | Feb 10 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Branch Intern - Paid Internship (College Station, TX)](https://jobright.ai/jobs/info/696ef4519c3c52633455ab0d?utm_campaign=1058&utm_source=git)** | College Station, TX | On Site | Feb 10 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Respiratory Therapy Assistant - Intern](https://jobright.ai/jobs/info/698b9f1306d9b0622495c55d?utm_campaign=1058&utm_source=git)** | Rochester, MN, United States | On Site | Feb 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Community Health Systems](http://www.chs.net)** | **[Student Nurse Intern Tele-Med/Surg PRN](https://jobright.ai/jobs/info/698b82900f6f7e7a2ce6f504?utm_campaign=1058&utm_source=git)** | 1499 FAIR ROAD, STATESBORO, GA, 30458, US | On Site | Feb 10 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952e5fa935649778e20a49f?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | Feb 10 |
 | **[Walgreens](https://www.walgreens.com)** | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/698b4f7d06d9b06224955155?utm_campaign=1058&utm_source=git)** | Belleville, NJ | On Site | Feb 10 |
+| **[Haemonetics](http://www.haemonetics.com)** | **[Sales Operations Support Analyst Internship](https://jobright.ai/jobs/info/69539e59f1f8465b79eaee9c?utm_campaign=1058&utm_source=git)** | Boston, MA | Hybrid | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
