@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4ce6df1a6c091c9da20ba?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Feb 11 |
+| **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/682977756dd7e5f8b5d79e42?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Feb 11 |
+| ↳ | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4ce6df1a6c091c9da20ba?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Feb 11 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/697457c537785856350e6e33?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | On Site | Feb 11 |
 | **[Navajo County](http://NavajoCountyAZ.gov)** | **[Intern](https://jobright.ai/jobs/info/698cdad00f6f7e7a2ce88f4b?utm_campaign=1058&utm_source=git)** | Holbrook, AZ | On Site | Feb 11 |
 | **[Duke University Health System](http://dukemedicine.org)** | **[Pharmacy Technician I - Clinical Intern](https://jobright.ai/jobs/info/698cda470f6f7e7a2ce88eb3?utm_campaign=1058&utm_source=git)** | Durham, NC | On Site | Feb 11 |
@@ -104,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship -Convention Services / Summer 2026](https://jobright.ai/jobs/info/698cbc540f6f7e7a2ce870a0?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Feb 11 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/698c9b990f6f7e7a2ce854ef?utm_campaign=1058&utm_source=git)** | Lake Worth, FL | On Site | Feb 11 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Document Management Solutions Intern Summer 2026](https://jobright.ai/jobs/info/68ffe53f0ab3b222462afb5b?utm_campaign=1058&utm_source=git)** | Cranberry Township, PA | Hybrid | Feb 11 |
-| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/6959e379aa05c26e7ab383eb?utm_campaign=1058&utm_source=git)** | Ithaca, NY | On Site | Feb 11 |
-| ↳ | **[Pharmacy Intern P2](https://jobright.ai/jobs/info/69327a2ff131d96e4845c89a?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | Feb 11 |
+| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Pharmacy Intern P2](https://jobright.ai/jobs/info/69327a2ff131d96e4845c89a?utm_campaign=1058&utm_source=git)** | Seneca Falls, NY | On Site | Feb 11 |
+| ↳ | **[Pharmacy Intern P4](https://jobright.ai/jobs/info/6959e379aa05c26e7ab383eb?utm_campaign=1058&utm_source=git)** | Ithaca, NY | On Site | Feb 11 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Walk-In Services Intern Spring 2026](https://jobright.ai/jobs/info/6969569c639b452fb57f220b?utm_campaign=1058&utm_source=git)** | Baltimore, MD | Hybrid | Feb 11 |
 | **[TowneBank](https://www.townebank.com/)** | **[Summer Intern - Deposit Services](https://jobright.ai/jobs/info/698c973978b4502f12a31631?utm_campaign=1058&utm_source=git)** | Suffolk, VA | On Site | Feb 11 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/698c972c78b4502f12a3161d?utm_campaign=1058&utm_source=git)** | San Diego, CA | On Site | Feb 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sarasota Memorial Health Care System](https://www.smh.com/)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/698c12dc0f6f7e7a2ce7a475?utm_campaign=1058&utm_source=git)** | Sarasota, FL | On Site | Feb 10 |
 | **[Baldor Specialty Foods, Inc.](https://www.baldorfood.com)** | **[Intern - Help Desk](https://jobright.ai/jobs/info/697009b40f4e0f657ea46535?utm_campaign=1058&utm_source=git)** | NYC Metro Area | On Site | Feb 10 |
 | **[CENIC](https://cenic.org/)** | **[CENIC Operations Intern](https://jobright.ai/jobs/info/698c079be4f6572f0e4400e5?utm_campaign=1058&utm_source=git)** | La Mirada, CA | Hybrid | Feb 10 |
-| **[INX International Ink Co.](https://www.inxinternational.com)** | **[Help Desk Intern](https://jobright.ai/jobs/info/698c30070f6f7e7a2ce7e3a8?utm_campaign=1058&utm_source=git)** | Corporate Crossing Rd, Schaumburg, IL 60173, USA | On Site | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
