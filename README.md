@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[IT Intern (Summer 2026)](https://jobright.ai/jobs/info/698de43c78b4502f12a4a972?utm_campaign=1058&utm_source=git)** | Milford, MA | On Site | Feb 12 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/698de3ae78b4502f12a4a8c7?utm_campaign=1058&utm_source=git)** | Topeka, KS | On Site | Feb 12 |
+| **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943e68d94730b7398771073?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Feb 12 |
+| **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6971e27547b64f4e963e152b?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Feb 12 |
 | **[State of Missouri](http://mo.gov)** | **[Summer Intern - Springfield General Services & Facilities](https://jobright.ai/jobs/info/698da36af64d441a164fc9ea?utm_campaign=1058&utm_source=git)** | Springfield, MO | On Site | Feb 12 |
 | **[Buckingham Companies](http://buckingham.com)** | **[Information Technology - IT Internship](https://jobright.ai/jobs/info/698dc3fff64d441a164ff326?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Feb 12 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Service Desk Co-op (July to December)](https://jobright.ai/jobs/info/6971e65dcda45e69535813aa?utm_campaign=1058&utm_source=git)** | Needham, MA | On Site | Feb 12 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/698dc0770f6f7e7a2ce9bb95?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Feb 12 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Senior Resident Services Coordinator](https://jobright.ai/jobs/info/6938d5edb95c305f206e0b7f?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 12 |
-| **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69719e63587dfa0bb55f4cfb?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Feb 12 |
 | **[MercyOne](https://www.mercyone.org/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6971aaf851f7264771842054?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Feb 12 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Customer Experience Intern, Product Support (May to August)](https://jobright.ai/jobs/info/698dabb5f64d441a164fd435?utm_campaign=1058&utm_source=git)** | Needham, MA | On Site | Feb 12 |
 | **[State of Missouri](http://mo.gov)** | **[ITSD IT Internship](https://jobright.ai/jobs/info/698db027f64d441a164fd987?utm_campaign=1058&utm_source=git)** | Jefferson City, MO | On Site | Feb 12 |
@@ -70,9 +73,9 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan](https://www.umich.edu)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/698da2e378b4502f12a45bce?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 11 |
 | ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/698da892f64d441a164fd073?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 11 |
 | ↳ | **[REGISTERED NURSE (Mott Childrens Hospital-10W, Pediatric Cardio-Thoracic Unit GN Internship)](https://jobright.ai/jobs/info/698da49bf64d441a164fcb8f?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 11 |
-| **[Carroll Electric Cooperative Corporation](https://www.carrollecc.com/)** | **[Line Services Intern](https://jobright.ai/jobs/info/698dd3a478b4502f12a495ea?utm_campaign=1058&utm_source=git)** | Bentonville,AR,US | On Site | Feb 11 |
+| **[Carroll Electric Cooperative Corporation](https://www.carrollecc.com/)** | **[Line Services Intern](https://jobright.ai/jobs/info/698dd78478b4502f12a498bc?utm_campaign=1058&utm_source=git)** | Lowell,AR,US | On Site | Feb 11 |
+| ↳ | **[Line Services Intern](https://jobright.ai/jobs/info/698dd3a478b4502f12a495ea?utm_campaign=1058&utm_source=git)** | Bentonville,AR,US | On Site | Feb 11 |
 | **[Dignity Health](https://www.dignityhealth.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/698d9eff0f6f7e7a2ce99183?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Feb 11 |
-| ↳ | **[Pharmacist Intern](https://jobright.ai/jobs/info/698da96d0f6f7e7a2ce99c56?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Feb 11 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, INFORMATION TECHNOLOGY SUPPORT](https://jobright.ai/jobs/info/698da51ff64d441a164fcc39?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Feb 11 |
 | **[Siemens](https://www.siemens.com)** | **[Customer Experience & Support Internship](https://jobright.ai/jobs/info/6971ac71333b6343a14e5613?utm_campaign=1058&utm_source=git)** | Wendell, NC | On Site | Feb 11 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/698d9cf4f64d441a164fc2d6?utm_campaign=1058&utm_source=git)** | Meridian, ID | On Site | Feb 11 |
@@ -138,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/698d91fd78b4502f12a44844?utm_campaign=1058&utm_source=git)** | Hazlet, NJ | On Site | Feb 11 |
 | **[Knapheide](http://knapheide.com)** | **[Information Technology Internship - Operations](https://jobright.ai/jobs/info/697b3a6d1423772304eb6381?utm_campaign=1058&utm_source=git)** | Quincy, IL | On Site | Feb 11 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/698d30eb78b4502f12a3c45a?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Feb 11 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/698d2cfb78b4502f12a3bcd4?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Feb 11 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/698d309678b4502f12a3c3b6?utm_campaign=1058&utm_source=git)** | Palm Coast, FL | On Site | Feb 11 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/698d2cfb78b4502f12a3bcd4?utm_campaign=1058&utm_source=git)** | Scottsdale, AZ | On Site | Feb 11 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/698d324978b4502f12a3c69e?utm_campaign=1058&utm_source=git)** | Cape Coral, FL | On Site | Feb 11 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/698d2280f64d441a164f15ae?utm_campaign=1058&utm_source=git)** | Slidell, LA | On Site | Feb 11 |
 | **[United Therapeutics Corporation](http://www.unither.com)** | **[Intern - Patient Relations](https://jobright.ai/jobs/info/698d273a0f6f7e7a2ce8eb90?utm_campaign=1058&utm_source=git)** | Triangle Area | Hybrid | Feb 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/6971362e333b6343a14da835?utm_campaign=1058&utm_source=git)** | Pflugerville, TX | On Site | Feb 11 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[IT Support Services Intern](https://jobright.ai/jobs/info/698d22610f6f7e7a2ce8e218?utm_campaign=1058&utm_source=git)** | Orlando, FL, United States | On Site | Feb 11 |
 | **[First Internet Bank](https://www.firstib.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69396d80ac80bb5492bbf5c2?utm_campaign=1058&utm_source=git)** | Fishers, IN | On Site | Feb 11 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e39051f758fe1f97e5f4b9?utm_campaign=1058&utm_source=git)** | Savannah, GA | On Site | Feb 11 |
-| **[Finance Factors](http://financefactors.com)** | **[IT Intern](https://jobright.ai/jobs/info/698d3b5f78b4502f12a3d526?utm_campaign=1058&utm_source=git)** | Honolulu, HI, US | On Site | Feb 11 |
-| **[Sally Beauty](https://www.sallybeauty.com/)** | **[IT OPERATIONS INTERN](https://jobright.ai/jobs/info/698d0f6ef64d441a164ef044?utm_campaign=1058&utm_source=git)** | Plano, TX | Hybrid | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
