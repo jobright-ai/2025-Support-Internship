@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Wesley Healthcare](http://www.wesleymc.com)** | **[Sonographer Student Intern PRN](https://jobright.ai/jobs/info/698d44640f6f7e7a2ce916b6?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Feb 11 |
+| **[Wesley Healthcare](http://www.wesleymc.com)** | **[Sonographer Student Intern PRN](https://jobright.ai/jobs/info/698d495c78b4502f12a3ecc2?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Feb 11 |
+| **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY Help Desk Technician](https://jobright.ai/jobs/info/698d491ff64d441a164f503e?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Feb 11 |
+| **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Client Device Specialist Internship](https://jobright.ai/jobs/info/698d46d50f6f7e7a2ce91a11?utm_campaign=1058&utm_source=git)** | Peoria, IL | On Site | Feb 11 |
 | **[SPS Commerce](http://spscommerce.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/698d43ccf64d441a164f48aa?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 11 |
 | **[The Cary Company](https://www.thecarycompany.com/)** | **[Warehouse Intern](https://jobright.ai/jobs/info/698d42cf0f6f7e7a2ce9154b?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Feb 11 |
 | **[Copart](http://www.copart.com)** | **[Corp Support Intern](https://jobright.ai/jobs/info/6906db25ff462851fe005c34?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Feb 11 |
@@ -67,11 +69,14 @@ For a complete list, click the following sortable link below:
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Microsoft 365 Support Intern - Information Technology Division](https://jobright.ai/jobs/info/698d31280f6f7e7a2ce8f8bb?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Feb 11 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/698d30cf0f6f7e7a2ce8f829?utm_campaign=1058&utm_source=git)** | Chattanooga, TN | On Site | Feb 11 |
 | **[Sentara Health](http://www.sentara.com)** | **[Radiology Operations Coordinator - CT Intern](https://jobright.ai/jobs/info/698c286e0f6f7e7a2ce7ca0f?utm_campaign=1058&utm_source=git)** | Harrisonburg, VA | On Site | Feb 11 |
+| **[Alfa Laval](http://www.alfalaval.com)** | **[Customer Experience Intern](https://jobright.ai/jobs/info/698d4c1e0f6f7e7a2ce921b3?utm_campaign=1058&utm_source=git)** | Richmond, VA | Hybrid | Feb 11 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Registered Nurse ICU Medical Internship- Med Surg/PCU to ICU](https://jobright.ai/jobs/info/698d2be5f64d441a164f220d?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Feb 11 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695dc344efe5dd5cbd3d9d49?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Feb 11 |
 | **[Aspida](http://globalbankers.com)** | **[App Services Intern](https://jobright.ai/jobs/info/698d2a6cf64d441a164f1fa0?utm_campaign=1058&utm_source=git)** | Durham, NC | On Site | Feb 11 |
 | **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/69711bca333b6343a14d9134?utm_campaign=1058&utm_source=git)** | Woodbury, MN | On Site | Feb 11 |
-| ↳ | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/69711e2651f726477183562b?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Feb 11 |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Pharmacist Intern - General Pharmacy - PRN](https://jobright.ai/jobs/info/698d462df64d441a164f4c0a?utm_campaign=1058&utm_source=git)** | Texarkana, TX | On Site | Feb 11 |
+| **[SouthState Bank](https://southstatebank.com)** | **[Call Center Intern (WINTER HAVEN)](https://jobright.ai/jobs/info/69715be0587dfa0bb55efd70?utm_campaign=1058&utm_source=git)** | Winter Haven, FL | Hybrid | Feb 11 |
+| **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/69711e2651f726477183562b?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Feb 11 |
 | **[Gothic Landscape](www.gothiclandscape.com)** | **[Help Desk Intern](https://jobright.ai/jobs/info/698d1ef50f6f7e7a2ce8db98?utm_campaign=1058&utm_source=git)** | Santa Clarita, CA | On Site | Feb 11 |
 | **[SWBC](https://www.swbc.com)** | **[Support Design Intern – Customer Experience & Process Improvement](https://jobright.ai/jobs/info/691b962822a2cb4b9bd13f13?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Feb 11 |
 | **[Bon Secours](https://www.bonsecours.com/)** | **[Pharmacy Intern - Inpatient - Memorial Regional Medical Center  - PRN](https://jobright.ai/jobs/info/698d3fbef64d441a164f445c?utm_campaign=1058&utm_source=git)** | Mechanicsville, VA | On Site | Feb 11 |
@@ -134,11 +139,11 @@ For a complete list, click the following sortable link below:
 | **[Lalor Family Dental](https://www.lalordental.com/)** | **[IT Support Internship (Summer) — Lalor Family Dental](https://jobright.ai/jobs/info/698d159f78b4502f12a39561?utm_campaign=1058&utm_source=git)** | Johnson City,NY,US | On Site | Feb 11 |
 | **[WM](https://www.wm.com/)** | **[Internship, Salesforce](https://jobright.ai/jobs/info/698cc65af64d441a164ea708?utm_campaign=1058&utm_source=git)** | 1 STEELE RD, ROCHESTER, NH, 03839, US | On Site | Feb 11 |
 | **[Par Health](https://parsterileproducts.com)** | **[Intern, Information Specialist (Library)](https://jobright.ai/jobs/info/698cc62d0f6f7e7a2ce87e3b?utm_campaign=1058&utm_source=git)** | Webster Groves, MO | On Site | Feb 11 |
-| **[Trimac Transportation](https://www.trimac.com/)** | **[Information Technology (IT) Summer Intern](https://jobright.ai/jobs/info/698d1fd4f64d441a164f106e?utm_campaign=1058&utm_source=git)** | CA-AB-Calgary | On Site | Feb 11 |
-| ↳ | **[Information Technology (IT) Summer Intern](https://jobright.ai/jobs/info/698d224978b4502f12a3acd2?utm_campaign=1058&utm_source=git)** | Calgary, AB, CA | On Site | Feb 11 |
+| **[Trimac Transportation](https://www.trimac.com/)** | **[Information Technology (IT) Summer Intern](https://jobright.ai/jobs/info/698d224978b4502f12a3acd2?utm_campaign=1058&utm_source=git)** | Calgary, AB, CA | On Site | Feb 11 |
+| ↳ | **[Information Technology (IT) Summer Intern](https://jobright.ai/jobs/info/698d1fd4f64d441a164f106e?utm_campaign=1058&utm_source=git)** | CA-AB-Calgary | On Site | Feb 11 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Intern -Recreation /Summer, 2026](https://jobright.ai/jobs/info/698d3cb6f64d441a164f4081?utm_campaign=1058&utm_source=git)** | US-FL-Orlando | On Site | Feb 11 |
-| ↳ | **[Omni Care Internship -Convention Services / Summer 2026](https://jobright.ai/jobs/info/698d1d8178b4502f12a3a564?utm_campaign=1058&utm_source=git)** | Orlando, FL, US | On Site | Feb 11 |
 | ↳ | **[Omni Care Intern -Recreation /Summer, 2026](https://jobright.ai/jobs/info/698d27f878b4502f12a3b37d?utm_campaign=1058&utm_source=git)** | Orlando, FL, US | On Site | Feb 11 |
+| ↳ | **[Omni Care Internship -Convention Services / Summer 2026](https://jobright.ai/jobs/info/698d1d8178b4502f12a3a564?utm_campaign=1058&utm_source=git)** | Orlando, FL, US | On Site | Feb 11 |
 | ↳ | **[Omni Care Internship -Convention Services / Summer 2026](https://jobright.ai/jobs/info/698d0dc3f64d441a164eed01?utm_campaign=1058&utm_source=git)** | US-FL-Orlando | On Site | Feb 11 |
 | **[Saint Luke's](https://www.saintlukeskc.org)** | **[Nursing Intern - Neuro Oncology - PRN](https://jobright.ai/jobs/info/698d0aa00f6f7e7a2ce8bb8b?utm_campaign=1058&utm_source=git)** | Saint Luke's Hospital   |   4401 Wornall Rd   |   Kansas City   |   MO | On Site | Feb 11 |
 | **[Syntegon](https://www.syntegon.com/)** | **[Service Order Process Analyst Intern](https://jobright.ai/jobs/info/69606652a1bbea1d9a7b4068?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Feb 11 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dometic](https://www.dometic.com)** | **[Customer Service & Call Center Analyst Intern](https://jobright.ai/jobs/info/698cbb0df64d441a164e9f39?utm_campaign=1058&utm_source=git)** | Katy, TX | Hybrid | Feb 11 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/698cba76f64d441a164e9ecd?utm_campaign=1058&utm_source=git)** | Cleveland, OH | On Site | Feb 11 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[IT Intern Riverville Mill-Summer/Fall 2026](https://jobright.ai/jobs/info/698ce4040f6f7e7a2ce89598?utm_campaign=1058&utm_source=git)** | Gladstone, VA | On Site | Feb 11 |
-| **[BDO USA](https://www.bdo.com/)** | **[Information Technology Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698cb7260f6f7e7a2ce86a80?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | Remote | Feb 11 |
-| **[Crane Company](http://www.craneco.com/)** | **[Aerospace Customer Service Intern](https://jobright.ai/jobs/info/698cfde578b4502f12a3705e?utm_campaign=1058&utm_source=git)** | Lynnwood, Washington | On Site | Feb 11 |
-| **[Milliman](http://www.milliman.com)** | **[IT Support Intern - Milwaukee Property and Casualty (onsite)](https://jobright.ai/jobs/info/698cb5f4f64d441a164e9b0f?utm_campaign=1058&utm_source=git)** | Brookfield, WI | On Site | Feb 11 |
-| **[BDO USA](https://www.bdo.com/)** | **[Information Technology Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698cb26bf64d441a164e97f5?utm_campaign=1058&utm_source=git)** | 3 5300 Patterson Ave S.E., Grand Rapids, MI, 49512, US | Remote | Feb 11 |
-| ↳ | **[Information Technology Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698cb1f6f64d441a164e9796?utm_campaign=1058&utm_source=git)** | Houston, TX | Remote | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
