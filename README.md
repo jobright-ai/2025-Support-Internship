@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BDO USA](https://www.bdo.com/)** | **[Information Technology Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e10750f6f7e7a2cea2008?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | Remote | Feb 12 |
+| **[BDO USA](https://www.bdo.com/)** | **[Information Technology Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e137778b4502f12a4e103?utm_campaign=1058&utm_source=git)** | Atlanta, GA | Remote | Feb 12 |
+| ↳ | **[Information Technology Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e12bf78b4502f12a4e054?utm_campaign=1058&utm_source=git)** | Houston, TX | Remote | Feb 12 |
+| ↳ | **[Information Technology Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e10750f6f7e7a2cea2008?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | Remote | Feb 12 |
 | **[Sentara Health](http://www.sentara.com)** | **[Registered Nurse Student Internship (SHIP) Sentara Martha Jefferson 2026](https://jobright.ai/jobs/info/698085b9abff4c399a9f47a4?utm_campaign=1058&utm_source=git)** | Charlottesville, VA | On Site | Feb 12 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6971ddecb707bf728a4b66e9?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Feb 12 |
 | **[CAE](http://www.cae.com)** | **[C-DS-112- Warehouse Assistant Intern](https://jobright.ai/jobs/info/698e02680f6f7e7a2cea0f42?utm_campaign=1058&utm_source=git)** | Moose Jaw CMAT | On Site | Feb 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Customer Service Internship - Year-Round](https://jobright.ai/jobs/info/69712498333b6343a14d95eb?utm_campaign=1058&utm_source=git)** | Eau Claire, WI | On Site | Feb 11 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37e29b99ec3563b0e0b8f?utm_campaign=1058&utm_source=git)** | North Charleston, SC | On Site | Feb 11 |
 | **[SA Recycling](http://sarecycling.com)** | **[Intern](https://jobright.ai/jobs/info/6986c67d0f6f7e7a2ce1e988?utm_campaign=1058&utm_source=git)** | Montebello, CA | On Site | Feb 11 |
-| **[Sutter Health](http://www.sutterhealth.org)** | **[Surgical Technician Intern](https://jobright.ai/jobs/info/698d0dfef64d441a164eed6a?utm_campaign=1058&utm_source=git)** | Santa Rosa | On Site | Feb 11 |
-| **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[IT OPERATIONS INTERN](https://jobright.ai/jobs/info/698d0b7678b4502f12a3817e?utm_campaign=1058&utm_source=git)** | Plano, TX | Hybrid | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
