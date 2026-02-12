@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Tech Support Intern 2026](https://jobright.ai/jobs/info/6989779d0f6f7e7a2ce48c69?utm_campaign=1058&utm_source=git)** | Lowell, MA | On Site | Feb 12 |
 | **[Bollinger Shipyards](http://bollingershipyards.com)** | **[IT - Help Desk Intern](https://jobright.ai/jobs/info/698e4509f64d441a16507bf6?utm_campaign=1058&utm_source=git)** | Pascagoula, MS | On Site | Feb 12 |
 | **[Tucson Medical Center](https://www.tmcaz.com/)** | **[Pharmacy Intern Per Diem - Specialty Pharmacy](https://jobright.ai/jobs/info/698e37b178b4502f12a503b3?utm_campaign=1058&utm_source=git)** | Tucson, AZ | On Site | Feb 12 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Customer Care Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e380071852e62f007fc45d?utm_campaign=1058&utm_source=git)** | Myrtle Beach, SC | On Site | Feb 12 |
@@ -70,8 +71,9 @@ For a complete list, click the following sortable link below:
 | **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4c8c710485bdc6e5a0841?utm_campaign=1058&utm_source=git)** | Atlanta, GA | On Site | Feb 12 |
 | **[Proven IT](https://www.provenit.com/)** | **[Summer 2026 IT Internship](https://jobright.ai/jobs/info/698e3e7a0f6f7e7a2cea49bf?utm_campaign=1058&utm_source=git)** | Tinley Park,IL,US | On Site | Feb 12 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[CI Support Intern](https://jobright.ai/jobs/info/698e379778b4502f12a5039d?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Feb 12 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Cardiovascular](https://jobright.ai/jobs/info/698e37980f6f7e7a2cea446e?utm_campaign=1058&utm_source=git)** | Wichita, KS, US | On Site | Feb 12 |
-| ↳ | **[Nurse Intern - Cardiovascular](https://jobright.ai/jobs/info/698e469b78b4502f12a50f9b?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Feb 12 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Cardiovascular](https://jobright.ai/jobs/info/698e469b78b4502f12a50f9b?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Feb 12 |
+| ↳ | **[Nurse Intern - Cardiovascular](https://jobright.ai/jobs/info/698e37980f6f7e7a2cea446e?utm_campaign=1058&utm_source=git)** | Wichita, KS, US | On Site | Feb 12 |
+| **[Franklin Electric Fueling Systems](http://franklinfueling.com)** | **[IT Operations Intern - Summer 2026](https://jobright.ai/jobs/info/698e49b9f64d441a16508065?utm_campaign=1058&utm_source=git)** | US - Indiana - Fort Wayne | On Site | Feb 12 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Digital Banking Support](https://jobright.ai/jobs/info/698e3cb2f64d441a165074ea?utm_campaign=1058&utm_source=git)** | Knoxville, Tennessee, United States | On Site | Feb 12 |
 | **[Smilow Cancer Hospital](https://www.ynhh.org/smilow.aspx)** | **[Clinical Pharmacy Intern](https://jobright.ai/jobs/info/698e367978b4502f12a50282?utm_campaign=1058&utm_source=git)** | Bridgeport, CT | On Site | Feb 12 |
 | **[BDO USA](https://www.bdo.com/)** | **[Information Technology Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698e137778b4502f12a4e103?utm_campaign=1058&utm_source=git)** | Atlanta, GA | Remote | Feb 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SPS Commerce](http://spscommerce.com)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/698d43ccf64d441a164f48aa?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 11 |
 | **[Heritage Landscape Supply Group, Inc.](https://www.heritagelandscapesupplygroup.com)** | **[Transportation Intern](https://jobright.ai/jobs/info/698dc91ef64d441a164ff9d7?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | Feb 11 |
 | **[The Cary Company](https://www.thecarycompany.com/)** | **[Warehouse Intern](https://jobright.ai/jobs/info/698d42cf0f6f7e7a2ce9154b?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | On Site | Feb 11 |
-| **[Copart](http://www.copart.com)** | **[Corp Support Intern](https://jobright.ai/jobs/info/6906db25ff462851fe005c34?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Feb 11 |
-| **[Texas General Land Office](http://www.glo.texas.gov/)** | **[GLO - Information Technology Summer Intern (Clerk II)](https://jobright.ai/jobs/info/698d40abf64d441a164f44d6?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
