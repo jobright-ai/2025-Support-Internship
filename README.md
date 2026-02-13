@@ -57,8 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Timken Company](http://www.timken.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/698f79dd6ea51a7610f1d154?utm_campaign=1058&utm_source=git)** | North Canton, OH | On Site | Feb 13 |
+| **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Practice Support Intern (Year-round)](https://jobright.ai/jobs/info/6968d30ef25a38006697610c?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Feb 13 |
+| **[Oracle](https://www.oracle.com/)** | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/6921352a00c9ee50eaeccdcf?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | Hybrid | Feb 13 |
+| ↳ | **[DRC Customer Success Intern - OVIP](https://jobright.ai/jobs/info/696db6f7db26b6189510ba2f?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 13 |
 | **[AVI Foodsystems](http://www.AVIFoodsystems.com)** | **[Student Barista, (Wofford College)](https://jobright.ai/jobs/info/698f57220cc8ea15f1d9d9b9?utm_campaign=1058&utm_source=git)** | Spartanburg, SC | On Site | Feb 13 |
+| **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Intern  ITS  ServiceDesk](https://jobright.ai/jobs/info/698f6a196ea51a7610f1bd81?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 13 |
+| ↳ | **[Intern  Claims Department](https://jobright.ai/jobs/info/698f70f80f6f7e7a2ceba901?utm_campaign=1058&utm_source=git)** | White Plains, NY | Hybrid | Feb 13 |
+| **[Peckham Industries, Inc.](http://peckham.com)** | **[IT Help Desk Intern (Req #: 1306)](https://jobright.ai/jobs/info/698f6ae90cc8ea15f1d9f141?utm_campaign=1058&utm_source=git)** | Brewster, NY | On Site | Feb 13 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/698f49210f6f7e7a2ceb7602?utm_campaign=1058&utm_source=git)** | Fountain, CO | On Site | Feb 13 |
+| **[GM Performance Power Units](https://gmppu.com)** | **[IT Desktop Support Intern](https://jobright.ai/jobs/info/698f6a3d0cc8ea15f1d9f032?utm_campaign=1058&utm_source=git)** | Concord, NC | On Site | Feb 13 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Mortgage Post Closing Intern](https://jobright.ai/jobs/info/698f47ac6ea51a7610f18ffb?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Feb 13 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[Service Technician Intern](https://jobright.ai/jobs/info/69408626aa598a08c3f02ffc?utm_campaign=1058&utm_source=git)** | Joliet, IL | On Site | Feb 13 |
 | **[Waters Corporation](http://www.waters.com)** | **[Intern, Field Service](https://jobright.ai/jobs/info/698f46956ea51a7610f18e51?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Feb 13 |
@@ -89,11 +97,11 @@ For a complete list, click the following sortable link below:
 | **[Vertiv](https://www.Vertiv.com)** | **[Services Internship, Competitive Analysis & Benchmarking (Summer 2026)](https://jobright.ai/jobs/info/6922b08ec0cefa13343d8d79?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Feb 13 |
 | **[Waters Corporation](http://www.waters.com)** | **[Intern, Field Service](https://jobright.ai/jobs/info/698f4cbb6ea51a7610f19786?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Feb 13 |
 | ↳ | **[Intern, Field Service](https://jobright.ai/jobs/info/698f45716ea51a7610f18caa?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Feb 13 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/698f45ca6ea51a7610f18d36?utm_campaign=1058&utm_source=git)** | Crescent Springs, KY | On Site | Feb 13 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/698f44126ea51a7610f18a74?utm_campaign=1058&utm_source=git)** | Sartell, MN | On Site | Feb 13 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/698f44126ea51a7610f18a74?utm_campaign=1058&utm_source=git)** | Sartell, MN | On Site | Feb 13 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/698f45ca6ea51a7610f18d36?utm_campaign=1058&utm_source=git)** | Crescent Springs, KY | On Site | Feb 13 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/698f43c06ea51a7610f18a03?utm_campaign=1058&utm_source=git)** | Revere, MA | On Site | Feb 13 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/698f498b0cc8ea15f1d9c4d3?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Feb 13 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/698f474f6ea51a7610f18f80?utm_campaign=1058&utm_source=git)** | Covington, KY | On Site | Feb 13 |
+| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/698f498b0cc8ea15f1d9c4d3?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Feb 13 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/698f44fb0cc8ea15f1d9bdda?utm_campaign=1058&utm_source=git)** | Pueblo, CO | On Site | Feb 13 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/698f434b6ea51a7610f18952?utm_campaign=1058&utm_source=git)** | Highland Heights, KY | On Site | Feb 13 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/698f49a76ea51a7610f19303?utm_campaign=1058&utm_source=git)** | Alamosa, CO | On Site | Feb 13 |
@@ -111,8 +119,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern (US)](https://jobright.ai/jobs/info/698f164b0cc8ea15f1d9702b?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | Hybrid | Feb 12 |
 | ↳ | **[Intern (US)](https://jobright.ai/jobs/info/698f29b00f6f7e7a2ceb3ca9?utm_campaign=1058&utm_source=git)** | Mason, OH | Hybrid | Feb 12 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/698f12596ea51a7610f13602?utm_campaign=1058&utm_source=git)** | Atlanta, GA | Hybrid | Feb 12 |
-| ↳ | **[Intern (US)](https://jobright.ai/jobs/info/698f129f6ea51a7610f1368f?utm_campaign=1058&utm_source=git)** | Richmond, VA | Hybrid | Feb 12 |
 | ↳ | **[Intern (US)](https://jobright.ai/jobs/info/698f2b3a0f6f7e7a2ceb3fda?utm_campaign=1058&utm_source=git)** | St Louis, MO | Hybrid | Feb 12 |
+| ↳ | **[Intern (US)](https://jobright.ai/jobs/info/698f129f6ea51a7610f1368f?utm_campaign=1058&utm_source=git)** | Richmond, VA | Hybrid | Feb 12 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/698f30b50f6f7e7a2ceb4a42?utm_campaign=1058&utm_source=git)** | St Louis, MO | Hybrid | Feb 12 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/698f27650f6f7e7a2ceb3801?utm_campaign=1058&utm_source=git)** | Winston-Salem, NC | Hybrid | Feb 12 |
 | ↳ | **[Intern (US)](https://jobright.ai/jobs/info/698f1b460cc8ea15f1d97a85?utm_campaign=1058&utm_source=git)** | Atlanta, GA | Hybrid | Feb 12 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shoppers Drug Mart](http://www.shoppersdrugmart.ca)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/698ebb590f6f7e7a2ceadd8c?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 12 |
 | **[Weidner Apartment Homes](https://www.weidner.com/)** | **[Intern Service](https://jobright.ai/jobs/info/698eb82a0f6f7e7a2ceada85?utm_campaign=1058&utm_source=git)** | Midland, TX | On Site | Feb 12 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6948ed3863141d1884589708?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | Feb 12 |
-| **[Rapsodo](http://rapsodo.com/)** | **[IT Intern](https://jobright.ai/jobs/info/698ea874f64d441a1650f054?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Feb 12 |
-| **[Fairview Health Services](http://www.fairview.org/)** | **[Pharmacy Intern; 2nd Year](https://jobright.ai/jobs/info/698ea15978b4502f12a57acc?utm_campaign=1058&utm_source=git)** | Shoreview, MN | On Site | Feb 12 |
-| **[UMB Bank](https://www.umb.com/)** | **[Institutional Custody Administration Intern](https://jobright.ai/jobs/info/6972a4cf9b83b424830eaf0b?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Feb 12 |
-| **[Consonus Healthcare](https://www.consonushealth.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69728a599b83b424830e7b46?utm_campaign=1058&utm_source=git)** | Gretna, NE | On Site | Feb 12 |
-| **[Denver Health](http://www.denverhealth.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/698eaa44f64d441a1650f1ef?utm_campaign=1058&utm_source=git)** | Denver, CO | On Site | Feb 12 |
-| **[CAPTRUST](https://www.captrust.com)** | **[Intern](https://jobright.ai/jobs/info/698e7ae4f64d441a1650c0a0?utm_campaign=1058&utm_source=git)** | Brentwood, TN | On Site | Feb 12 |
-| **[Curtiss-Wright Corporation](https://curtisswright.com/home/default.aspx)** | **[Co-op Intern](https://jobright.ai/jobs/info/698e9cb6f64d441a1650e5d5?utm_campaign=1058&utm_source=git)** | East Farmingdale, NY | On Site | Feb 12 |
-| **[Northwest Health](https://northwesthealth.com)** | **[Nurse Intern-PRN-Nights](https://jobright.ai/jobs/info/698e933878b4502f12a56cb1?utm_campaign=1058&utm_source=git)** | Springdale, AR | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
