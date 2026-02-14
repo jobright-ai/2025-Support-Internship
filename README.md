@@ -103,12 +103,12 @@ For a complete list, click the following sortable link below:
 | **[Optum](https://www.optum.com/)** | **[Pharmacist Graduate Intern,](https://jobright.ai/jobs/info/698fe9766ea51a7610f24d21?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Feb 13 |
 | **[Clinic Service Corporation](http://www.clinicservice.com/)** | **[Student Nurse Intern PRN](https://jobright.ai/jobs/info/698ff4dc0cc8ea15f1da8c98?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Feb 13 |
 | **[Plan A Health](https://planahealth.org)** | **[Student Nurse Intern PRN](https://jobright.ai/jobs/info/6990000b0cc8ea15f1da989e?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Feb 13 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/699030840f6f7e7a2cec9ce5?utm_campaign=1058&utm_source=git)** | Evansville, IN, US | On Site | Feb 13 |
-| ↳ | **[Student Nurse Intern](https://jobright.ai/jobs/info/699038e90cc8ea15f1daf98d?utm_campaign=1058&utm_source=git)** | US-IN-Evansville | On Site | Feb 13 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/699038e90cc8ea15f1daf98d?utm_campaign=1058&utm_source=git)** | US-IN-Evansville | On Site | Feb 13 |
+| ↳ | **[Student Nurse Intern](https://jobright.ai/jobs/info/699030840f6f7e7a2cec9ce5?utm_campaign=1058&utm_source=git)** | Evansville, IN, US | On Site | Feb 13 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/698fe0616ea51a7610f245bb?utm_campaign=1058&utm_source=git)** | US-WI-Milwaukee | On Site | Feb 13 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/698fdd290cc8ea15f1da735f?utm_campaign=1058&utm_source=git)** | Milwaukee, WI, US | On Site | Feb 13 |
-| ↳ | **[XRay Intern](https://jobright.ai/jobs/info/698fe4c80f6f7e7a2cec2a6d?utm_campaign=1058&utm_source=git)** | Jacksonville, FL, US | On Site | Feb 13 |
 | ↳ | **[XRay Intern](https://jobright.ai/jobs/info/698fe1c80cc8ea15f1da7b16?utm_campaign=1058&utm_source=git)** | US-FL-Jacksonville | On Site | Feb 13 |
+| ↳ | **[XRay Intern](https://jobright.ai/jobs/info/698fe4c80f6f7e7a2cec2a6d?utm_campaign=1058&utm_source=git)** | Jacksonville, FL, US | On Site | Feb 13 |
 | **[ECHO Incorporated](http://echo-usa.com)** | **[Intern - Warehouse Order Picker - 1st Shift](https://jobright.ai/jobs/info/698ff96f0f6f7e7a2cec3f33?utm_campaign=1058&utm_source=git)** | Lake Zurich, Illinois, United States | On Site | Feb 13 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, INFORMATION TECHNOLOGY SUPPORT](https://jobright.ai/jobs/info/698ff3a06ea51a7610f25681?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Feb 13 |
 | ↳ | **[VETERAN INTERN, OFFICE AND CLERICAL SUPPORT](https://jobright.ai/jobs/info/698fdf260f6f7e7a2cec256a?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Feb 13 |
@@ -141,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Consumers Credit Union](http://myconsumers.org)** | **[Information Technology Intern - Summer 2026](https://jobright.ai/jobs/info/698754da8ca8121a3a69e48e?utm_campaign=1058&utm_source=git)** | Lake Forest, IL | On Site | Feb 13 |
 | **[Community Health Systems](http://www.chs.net)** | **[RN Intern - Telemetry](https://jobright.ai/jobs/info/698f87f76ea51a7610f1e46a?utm_campaign=1058&utm_source=git)** | 5001 HARDY STREET, HATTIESBURG, MS, 39402, US | On Site | Feb 13 |
 | **[UAB Medicine](https://www.uabmedicine.org)** | **[Respiratory Therapy Intern - PRN](https://jobright.ai/jobs/info/698fb6d56ea51a7610f221e2?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Feb 13 |
+| **[Texas General Land Office](http://www.glo.texas.gov/)** | **[GLO - Information Technology Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699044886ea51a7610f2d056?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Feb 13 |
 | **[Cone Health](http://www.conehealth.com)** | **[Digital File Conversion & Data Entry Intern](https://jobright.ai/jobs/info/698f83bc0cc8ea15f1da1112?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Feb 13 |
 | **[PACCAR Technical Center](https://jobs.paccar.com/)** | **[Summer Internship 2026 - IT](https://jobright.ai/jobs/info/698fbc480cc8ea15f1da5931?utm_campaign=1058&utm_source=git)** | Mount Vernon, WA | On Site | Feb 13 |
 | **[TA Instruments](http://www.tainstruments.com)** | **[Intern, Field Service](https://jobright.ai/jobs/info/698f81546ea51a7610f1db2e?utm_campaign=1058&utm_source=git)** | Nashville, TN, US | On Site | Feb 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - Harlingen Travel Info Ctr.](https://jobright.ai/jobs/info/699024a76ea51a7610f29f5e?utm_campaign=1058&utm_source=git)** | Harlingen, TX | On Site | Feb 13 |
 | ↳ | **[Intern Support Technician - Anthony Travel Info Ctr.](https://jobright.ai/jobs/info/699023236ea51a7610f29082?utm_campaign=1058&utm_source=git)** | Anthony, NM | On Site | Feb 13 |
 | ↳ | **[Intern Support Technician - Amarillo Travel Info Ctr](https://jobright.ai/jobs/info/699025256ea51a7610f2a35b?utm_campaign=1058&utm_source=git)** | Greater Amarillo Area | On Site | Feb 13 |
-| ↳ | **[Intern Support Technician - Waskom Travel Info Ctr.](https://jobright.ai/jobs/info/6990275f0cc8ea15f1dad327?utm_campaign=1058&utm_source=git)** | Waskom, TX | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
