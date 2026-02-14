@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Providence Medical Center](http://www.providencekc.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6990688e0cc8ea15f1db28be?utm_campaign=1058&utm_source=git)** | Kansas City, KS | On Site | Feb 14 |
+| **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship -nCino](https://jobright.ai/jobs/info/69583bcb9f1b381eb2712555?utm_campaign=1058&utm_source=git)** | Union, NJ | On Site | Feb 14 |
+| **[American Industrial Transport - AITX](https://aitx.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/695832c99f1b381eb2710df3?utm_campaign=1058&utm_source=git)** | St Charles, MO | On Site | Feb 14 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[Field Representative Intern](https://jobright.ai/jobs/info/69903b810f6f7e7a2cecad8f?utm_campaign=1058&utm_source=git)** | Mayville, WI | On Site | Feb 14 |
 | **[Option Care Home Health LLC](https://optioncarehealth.com/)** | **[Intern, Pharmacy - Per Diem](https://jobright.ai/jobs/info/6990398a6ea51a7610f2c4f7?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Feb 14 |
 | **[University of Michigan](https://www.umich.edu)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/699038ee0f6f7e7a2cecaa64?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 14 |
@@ -112,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[ECHO Incorporated](http://echo-usa.com)** | **[Intern - Warehouse Order Picker - 1st Shift](https://jobright.ai/jobs/info/698ff96f0f6f7e7a2cec3f33?utm_campaign=1058&utm_source=git)** | Lake Zurich, Illinois, United States | On Site | Feb 13 |
 | **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, INFORMATION TECHNOLOGY SUPPORT](https://jobright.ai/jobs/info/698ff3a06ea51a7610f25681?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Feb 13 |
 | ↳ | **[VETERAN INTERN, OFFICE AND CLERICAL SUPPORT](https://jobright.ai/jobs/info/698fdf260f6f7e7a2cec256a?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Feb 13 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[2026 Omni Care Summer Internship / Rooms (June-August)](https://jobright.ai/jobs/info/698fdd060f6f7e7a2cec2362?utm_campaign=1058&utm_source=git)** | Boston, MA, US | On Site | Feb 13 |
-| ↳ | **[2026 Omni Care Summer Internship / Rooms (June-August)](https://jobright.ai/jobs/info/698fde420cc8ea15f1da7458?utm_campaign=1058&utm_source=git)** | US-MA-Boston | On Site | Feb 13 |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[2026 Omni Care Summer Internship / Rooms (June-August)](https://jobright.ai/jobs/info/698fde420cc8ea15f1da7458?utm_campaign=1058&utm_source=git)** | US-MA-Boston | On Site | Feb 13 |
+| ↳ | **[2026 Omni Care Summer Internship / Rooms (June-August)](https://jobright.ai/jobs/info/698fdd060f6f7e7a2cec2362?utm_campaign=1058&utm_source=git)** | Boston, MA, US | On Site | Feb 13 |
 | **[iManage](https://imanage.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/698fff380f6f7e7a2cec4877?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 13 |
 | **[Okta](http://www.okta.com)** | **[Customer First Strategy and Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/698fea870f6f7e7a2cec2f5a?utm_campaign=1058&utm_source=git)** | San Francisco, California | On Site | Feb 13 |
 | **[New Hope of Indiana](https://www.newhopeofindiana.org)** | **[Food Truck Intern](https://jobright.ai/jobs/info/698ff8fb0f6f7e7a2cec3eb0?utm_campaign=1058&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[2026 Fall Information Systems Intern/Co-Op](https://jobright.ai/jobs/info/698fb32d0f6f7e7a2cebfe28?utm_campaign=1058&utm_source=git)** | DeRidder, LA 70634, USA | On Site | Feb 13 |
 | **[The Timken Company](http://www.timken.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/698f79dd6ea51a7610f1d154?utm_campaign=1058&utm_source=git)** | North Canton, OH | On Site | Feb 13 |
 | **[St. Elizabeth Healthcare](http://www.stelizabeth.com/)** | **[Intern Pharmacy Inpatient](https://jobright.ai/jobs/info/698fa2f40cc8ea15f1da3e6d?utm_campaign=1058&utm_source=git)** | Edgewood, Kentucky | On Site | Feb 13 |
-| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - Harlingen Travel Info Ctr.](https://jobright.ai/jobs/info/699024a76ea51a7610f29f5e?utm_campaign=1058&utm_source=git)** | Harlingen, TX | On Site | Feb 13 |
-| ↳ | **[Intern Support Technician - Anthony Travel Info Ctr.](https://jobright.ai/jobs/info/699023236ea51a7610f29082?utm_campaign=1058&utm_source=git)** | Anthony, NM | On Site | Feb 13 |
-| ↳ | **[Intern Support Technician - Amarillo Travel Info Ctr](https://jobright.ai/jobs/info/699025256ea51a7610f2a35b?utm_campaign=1058&utm_source=git)** | Greater Amarillo Area | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
