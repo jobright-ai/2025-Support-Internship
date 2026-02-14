@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Driscoll's](http://www.driscolls.com)** | **[Information Services - Service Management Intern](https://jobright.ai/jobs/info/69880d228da7a61204631723?utm_campaign=1058&utm_source=git)** | Watsonville, CA | On Site | Feb 14 |
+| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Customer Care Internship](https://jobright.ai/jobs/info/6990b7426ea51a7610f33871?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Feb 14 |
+| **[DCS Corp](http://www.dcscorp.com)** | **[IT Summer Intern](https://jobright.ai/jobs/info/6974311e206da320f49e52c5?utm_campaign=1058&utm_source=git)** | Sterling Heights, MI | On Site | Feb 14 |
 | **[Honeywell](http://www.honeywell.com)** | **[Intern Field Service Technician](https://jobright.ai/jobs/info/6974d7d137785856350ee170?utm_campaign=1058&utm_source=git)** | Markham, Ontario, Canada | On Site | Feb 14 |
 | **[Froedtert Health](http://www.froedtert.com)** | **[Inpatient Pharmacy Intern](https://jobright.ai/jobs/info/6990aa0b6ea51a7610f3319f?utm_campaign=1058&utm_source=git)** | Menomonee Falls, WI | On Site | Feb 14 |
 | ↳ | **[Inpatient Pharmacy Intern](https://jobright.ai/jobs/info/6990a9c06ea51a7610f33011?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Feb 14 |
@@ -139,13 +142,13 @@ For a complete list, click the following sortable link below:
 | **[Plan A Health](https://planahealth.org)** | **[Student Nurse Intern PRN](https://jobright.ai/jobs/info/6990000b0cc8ea15f1da989e?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Feb 13 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/699030840f6f7e7a2cec9ce5?utm_campaign=1058&utm_source=git)** | Evansville, IN, US | On Site | Feb 13 |
 | ↳ | **[Student Nurse Intern](https://jobright.ai/jobs/info/699038e90cc8ea15f1daf98d?utm_campaign=1058&utm_source=git)** | US-IN-Evansville | On Site | Feb 13 |
-| ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/698fdd290cc8ea15f1da735f?utm_campaign=1058&utm_source=git)** | Milwaukee, WI, US | On Site | Feb 13 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/698fe0616ea51a7610f245bb?utm_campaign=1058&utm_source=git)** | US-WI-Milwaukee | On Site | Feb 13 |
-| ↳ | **[XRay Intern](https://jobright.ai/jobs/info/698fe4c80f6f7e7a2cec2a6d?utm_campaign=1058&utm_source=git)** | Jacksonville, FL, US | On Site | Feb 13 |
+| ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/698fdd290cc8ea15f1da735f?utm_campaign=1058&utm_source=git)** | Milwaukee, WI, US | On Site | Feb 13 |
 | ↳ | **[XRay Intern](https://jobright.ai/jobs/info/698fe1c80cc8ea15f1da7b16?utm_campaign=1058&utm_source=git)** | US-FL-Jacksonville | On Site | Feb 13 |
+| ↳ | **[XRay Intern](https://jobright.ai/jobs/info/698fe4c80f6f7e7a2cec2a6d?utm_campaign=1058&utm_source=git)** | Jacksonville, FL, US | On Site | Feb 13 |
 | **[ECHO Incorporated](http://echo-usa.com)** | **[Intern - Warehouse Order Picker - 1st Shift](https://jobright.ai/jobs/info/698ff96f0f6f7e7a2cec3f33?utm_campaign=1058&utm_source=git)** | Lake Zurich, Illinois, United States | On Site | Feb 13 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[2026 Omni Care Summer Internship / Rooms (June-August)](https://jobright.ai/jobs/info/698fde420cc8ea15f1da7458?utm_campaign=1058&utm_source=git)** | US-MA-Boston | On Site | Feb 13 |
-| ↳ | **[2026 Omni Care Summer Internship / Rooms (June-August)](https://jobright.ai/jobs/info/698fdd060f6f7e7a2cec2362?utm_campaign=1058&utm_source=git)** | Boston, MA, US | On Site | Feb 13 |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[2026 Omni Care Summer Internship / Rooms (June-August)](https://jobright.ai/jobs/info/698fdd060f6f7e7a2cec2362?utm_campaign=1058&utm_source=git)** | Boston, MA, US | On Site | Feb 13 |
+| ↳ | **[2026 Omni Care Summer Internship / Rooms (June-August)](https://jobright.ai/jobs/info/698fde420cc8ea15f1da7458?utm_campaign=1058&utm_source=git)** | US-MA-Boston | On Site | Feb 13 |
 | **[iManage](https://imanage.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/698fff380f6f7e7a2cec4877?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 13 |
 | **[Okta](http://www.okta.com)** | **[Customer First Strategy and Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/698fea870f6f7e7a2cec2f5a?utm_campaign=1058&utm_source=git)** | San Francisco, California | On Site | Feb 13 |
 | **[New Hope of Indiana](https://www.newhopeofindiana.org)** | **[Food Truck Intern](https://jobright.ai/jobs/info/698ff8fb0f6f7e7a2cec3eb0?utm_campaign=1058&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UNICEF](https://agora.unicef.org/)** | **[INTERNSHIP: 2 ICT Associates, Central Services Center (CSC), DFAM, NYHQ (In Person, Full time, 5 Months) - Requisition # 591041](https://jobright.ai/jobs/info/698fea4d6ea51a7610f24de9?utm_campaign=1058&utm_source=git)** | New York, United States | On Site | Feb 13 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/698fb5126ea51a7610f21e91?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Feb 13 |
 | **[Blue Ridge Behavioral Healthcare](https://www.brbh.org)** | **[Intern/Resident Application](https://jobright.ai/jobs/info/698fafdb0cc8ea15f1da4961?utm_campaign=1058&utm_source=git)** | Roanoke, VA | On Site | Feb 13 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Venue IT Intern](https://jobright.ai/jobs/info/698fdb650cc8ea15f1da71f8?utm_campaign=1058&utm_source=git)** | Toronto, ON | On Site | Feb 13 |
-| **[Aires](https://www.aires.com)** | **[2026 Summer IT Intern - Applications Support](https://jobright.ai/jobs/info/6973af10bc8e722e7b188710?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | Feb 13 |
-| **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Intern, Information Technology](https://jobright.ai/jobs/info/698fa3de0f6f7e7a2cebf129?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
