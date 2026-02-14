@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Honeywell](http://www.honeywell.com)** | **[Intern Field Service Technician](https://jobright.ai/jobs/info/6974d7d137785856350ee170?utm_campaign=1058&utm_source=git)** | Markham, Ontario, Canada | On Site | Feb 14 |
+| **[Froedtert Health](http://www.froedtert.com)** | **[Inpatient Pharmacy Intern](https://jobright.ai/jobs/info/6990aa0b6ea51a7610f3319f?utm_campaign=1058&utm_source=git)** | Menomonee Falls, WI | On Site | Feb 14 |
+| ↳ | **[Inpatient Pharmacy Intern](https://jobright.ai/jobs/info/6990a9c06ea51a7610f33011?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Feb 14 |
+| **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68c7b5f15c25e576f7b29d6d?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Feb 14 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6974750937785856350e8ca4?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Feb 14 |
 | **[Overland Park Regional Medical Center](https://www.oprmc.com)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/69744edc37785856350e5331?utm_campaign=1058&utm_source=git)** | Overland Park, KS | On Site | Feb 14 |
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Intern, Technology Service Desk (Houston)](https://jobright.ai/jobs/info/693908c8d52e071e1986483b?utm_campaign=1058&utm_source=git)** | Houston, TX | Remote | Feb 14 |
@@ -137,8 +141,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Nurse Intern](https://jobright.ai/jobs/info/699038e90cc8ea15f1daf98d?utm_campaign=1058&utm_source=git)** | US-IN-Evansville | On Site | Feb 13 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/698fdd290cc8ea15f1da735f?utm_campaign=1058&utm_source=git)** | Milwaukee, WI, US | On Site | Feb 13 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/698fe0616ea51a7610f245bb?utm_campaign=1058&utm_source=git)** | US-WI-Milwaukee | On Site | Feb 13 |
-| ↳ | **[XRay Intern](https://jobright.ai/jobs/info/698fe1c80cc8ea15f1da7b16?utm_campaign=1058&utm_source=git)** | US-FL-Jacksonville | On Site | Feb 13 |
 | ↳ | **[XRay Intern](https://jobright.ai/jobs/info/698fe4c80f6f7e7a2cec2a6d?utm_campaign=1058&utm_source=git)** | Jacksonville, FL, US | On Site | Feb 13 |
+| ↳ | **[XRay Intern](https://jobright.ai/jobs/info/698fe1c80cc8ea15f1da7b16?utm_campaign=1058&utm_source=git)** | US-FL-Jacksonville | On Site | Feb 13 |
 | **[ECHO Incorporated](http://echo-usa.com)** | **[Intern - Warehouse Order Picker - 1st Shift](https://jobright.ai/jobs/info/698ff96f0f6f7e7a2cec3f33?utm_campaign=1058&utm_source=git)** | Lake Zurich, Illinois, United States | On Site | Feb 13 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[2026 Omni Care Summer Internship / Rooms (June-August)](https://jobright.ai/jobs/info/698fde420cc8ea15f1da7458?utm_campaign=1058&utm_source=git)** | US-MA-Boston | On Site | Feb 13 |
 | ↳ | **[2026 Omni Care Summer Internship / Rooms (June-August)](https://jobright.ai/jobs/info/698fdd060f6f7e7a2cec2362?utm_campaign=1058&utm_source=git)** | Boston, MA, US | On Site | Feb 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Venue IT Intern](https://jobright.ai/jobs/info/698fdb650cc8ea15f1da71f8?utm_campaign=1058&utm_source=git)** | Toronto, ON | On Site | Feb 13 |
 | **[Aires](https://www.aires.com)** | **[2026 Summer IT Intern - Applications Support](https://jobright.ai/jobs/info/6973af10bc8e722e7b188710?utm_campaign=1058&utm_source=git)** | Pittsburgh, PA | Hybrid | Feb 13 |
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Intern, Information Technology](https://jobright.ai/jobs/info/698fa3de0f6f7e7a2cebf129?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Feb 13 |
-| **[Twin City Fan & Blower](https://www.tcf.com/)** | **[IT Technical Writer Intern](https://jobright.ai/jobs/info/698fa34a6ea51a7610f20c13?utm_campaign=1058&utm_source=git)** | Plymouth, MN | On Site | Feb 13 |
-| **[Methodist Health System](http://jobs.methodisthealthsystem.org)** | **[Patient Care Intern- General Surgery/Telemetry](https://jobright.ai/jobs/info/698fc37f6ea51a7610f23012?utm_campaign=1058&utm_source=git)** | Dallas, Texas | On Site | Feb 13 |
-| **[BCom](https://bcom.solutions/)** | **[Summer 2026 Internship - Client Services](https://jobright.ai/jobs/info/698fd3240f6f7e7a2cec1d6a?utm_campaign=1058&utm_source=git)** | Remote or Lincoln, NE | Remote | Feb 13 |
-| **[Indiana University Health](http://iuhealth.org)** | **[Methodist and University Hospital-Patient Care Intern (PCI) Program](https://jobright.ai/jobs/info/698f9bbb6ea51a7610f20100?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
