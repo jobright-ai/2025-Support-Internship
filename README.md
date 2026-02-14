@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Intern, Technology Service Desk (Encino, CA)](https://jobright.ai/jobs/info/6920077109cc522e877476a2?utm_campaign=1058&utm_source=git)** | LA Metro Area | Remote | Feb 14 |
 | **[Driscoll's](http://www.driscolls.com)** | **[Information Services - Service Management Intern](https://jobright.ai/jobs/info/69880d228da7a61204631723?utm_campaign=1058&utm_source=git)** | Watsonville, CA | On Site | Feb 14 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Customer Care Internship](https://jobright.ai/jobs/info/6990b7426ea51a7610f33871?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Feb 14 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[IT Summer Intern](https://jobright.ai/jobs/info/6974311e206da320f49e52c5?utm_campaign=1058&utm_source=git)** | Sterling Heights, MI | On Site | Feb 14 |
@@ -140,12 +141,12 @@ For a complete list, click the following sortable link below:
 | **[Westerly Hospital](https://westerlyhospital.org)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/698ff1200cc8ea15f1da88d7?utm_campaign=1058&utm_source=git)** | Westerly, RI | On Site | Feb 13 |
 | **[Clinic Service Corporation](http://www.clinicservice.com/)** | **[Student Nurse Intern PRN](https://jobright.ai/jobs/info/698ff4dc0cc8ea15f1da8c98?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Feb 13 |
 | **[Plan A Health](https://planahealth.org)** | **[Student Nurse Intern PRN](https://jobright.ai/jobs/info/6990000b0cc8ea15f1da989e?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Feb 13 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/699030840f6f7e7a2cec9ce5?utm_campaign=1058&utm_source=git)** | Evansville, IN, US | On Site | Feb 13 |
-| ↳ | **[Student Nurse Intern](https://jobright.ai/jobs/info/699038e90cc8ea15f1daf98d?utm_campaign=1058&utm_source=git)** | US-IN-Evansville | On Site | Feb 13 |
-| ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/698fe0616ea51a7610f245bb?utm_campaign=1058&utm_source=git)** | US-WI-Milwaukee | On Site | Feb 13 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/699038e90cc8ea15f1daf98d?utm_campaign=1058&utm_source=git)** | US-IN-Evansville | On Site | Feb 13 |
+| ↳ | **[Student Nurse Intern](https://jobright.ai/jobs/info/699030840f6f7e7a2cec9ce5?utm_campaign=1058&utm_source=git)** | Evansville, IN, US | On Site | Feb 13 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/698fdd290cc8ea15f1da735f?utm_campaign=1058&utm_source=git)** | Milwaukee, WI, US | On Site | Feb 13 |
-| ↳ | **[XRay Intern](https://jobright.ai/jobs/info/698fe1c80cc8ea15f1da7b16?utm_campaign=1058&utm_source=git)** | US-FL-Jacksonville | On Site | Feb 13 |
+| ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/698fe0616ea51a7610f245bb?utm_campaign=1058&utm_source=git)** | US-WI-Milwaukee | On Site | Feb 13 |
 | ↳ | **[XRay Intern](https://jobright.ai/jobs/info/698fe4c80f6f7e7a2cec2a6d?utm_campaign=1058&utm_source=git)** | Jacksonville, FL, US | On Site | Feb 13 |
+| ↳ | **[XRay Intern](https://jobright.ai/jobs/info/698fe1c80cc8ea15f1da7b16?utm_campaign=1058&utm_source=git)** | US-FL-Jacksonville | On Site | Feb 13 |
 | **[ECHO Incorporated](http://echo-usa.com)** | **[Intern - Warehouse Order Picker - 1st Shift](https://jobright.ai/jobs/info/698ff96f0f6f7e7a2cec3f33?utm_campaign=1058&utm_source=git)** | Lake Zurich, Illinois, United States | On Site | Feb 13 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[2026 Omni Care Summer Internship / Rooms (June-August)](https://jobright.ai/jobs/info/698fdd060f6f7e7a2cec2362?utm_campaign=1058&utm_source=git)** | Boston, MA, US | On Site | Feb 13 |
 | ↳ | **[2026 Omni Care Summer Internship / Rooms (June-August)](https://jobright.ai/jobs/info/698fde420cc8ea15f1da7458?utm_campaign=1058&utm_source=git)** | US-MA-Boston | On Site | Feb 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Costco IT](https://www.costco.com/sustainability-introduction.html)** | **[CDS Intern - Client Hardware Support](https://jobright.ai/jobs/info/698fde160f6f7e7a2cec2497?utm_campaign=1058&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 | **[UNICEF](https://agora.unicef.org/)** | **[INTERNSHIP: 2 ICT Associates, Central Services Center (CSC), DFAM, NYHQ (In Person, Full time, 5 Months) - Requisition # 591041](https://jobright.ai/jobs/info/698fea4d6ea51a7610f24de9?utm_campaign=1058&utm_source=git)** | New York, United States | On Site | Feb 13 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/698fb5126ea51a7610f21e91?utm_campaign=1058&utm_source=git)** | Oxford, MS | On Site | Feb 13 |
-| **[Blue Ridge Behavioral Healthcare](https://www.brbh.org)** | **[Intern/Resident Application](https://jobright.ai/jobs/info/698fafdb0cc8ea15f1da4961?utm_campaign=1058&utm_source=git)** | Roanoke, VA | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
