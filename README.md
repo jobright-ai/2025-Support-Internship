@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walmart](http://www.walmart.com)** | **[Pharmacy Grad Intern (Hrly)](https://jobright.ai/jobs/info/699081630cc8ea15f1db45b7?utm_campaign=1058&utm_source=git)** | Rutland, VT | On Site | Feb 14 |
+| **[Optum](https://www.optum.com/)** | **[Pharmacist Intern Behavioral Health,](https://jobright.ai/jobs/info/699077100cc8ea15f1db374f?utm_campaign=1058&utm_source=git)** | Indiana, PA | On Site | Feb 14 |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - STR Division - Austin, TX](https://jobright.ai/jobs/info/699076eb0f6f7e7a2cece58a?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Feb 14 |
+| **[Optum](https://www.optum.com/)** | **[Pharmacist Graduate Intern,](https://jobright.ai/jobs/info/699074a00f6f7e7a2cece090?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Feb 14 |
+| **[BioCryst Pharmaceuticals, Inc.](http://www.biocryst.com)** | **[Intern, IT Generalist](https://jobright.ai/jobs/info/69859f40348f733a5c3a2126?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Feb 14 |
 | **[Providence Medical Center](http://www.providencekc.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6990688e0cc8ea15f1db28be?utm_campaign=1058&utm_source=git)** | Kansas City, KS | On Site | Feb 14 |
 | **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship -nCino](https://jobright.ai/jobs/info/69583bcb9f1b381eb2712555?utm_campaign=1058&utm_source=git)** | Union, NJ | On Site | Feb 14 |
 | **[American Industrial Transport - AITX](https://aitx.com/)** | **[Information Technology Intern](https://jobright.ai/jobs/info/695832c99f1b381eb2710df3?utm_campaign=1058&utm_source=git)** | St Charles, MO | On Site | Feb 14 |
@@ -103,20 +108,18 @@ For a complete list, click the following sortable link below:
 | **[Leviton](https://www.leviton.com)** | **[Intern, IT Infrastructure](https://jobright.ai/jobs/info/698fe5af6ea51a7610f24a5b?utm_campaign=1058&utm_source=git)** | Melville, NY | On Site | Feb 13 |
 | **[BCom](https://bcom.solutions/)** | **[Summer 2026 Internship - Client Services](https://jobright.ai/jobs/info/698fc14d6ea51a7610f22d26?utm_campaign=1058&utm_source=git)** | Lincoln, NE | Hybrid | Feb 13 |
 | **[Westerly Hospital](https://westerlyhospital.org)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/698ff1200cc8ea15f1da88d7?utm_campaign=1058&utm_source=git)** | Westerly, RI | On Site | Feb 13 |
-| **[Optum](https://www.optum.com/)** | **[Pharmacist Graduate Intern,](https://jobright.ai/jobs/info/698fe9766ea51a7610f24d21?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Feb 13 |
 | **[Clinic Service Corporation](http://www.clinicservice.com/)** | **[Student Nurse Intern PRN](https://jobright.ai/jobs/info/698ff4dc0cc8ea15f1da8c98?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Feb 13 |
 | **[Plan A Health](https://planahealth.org)** | **[Student Nurse Intern PRN](https://jobright.ai/jobs/info/6990000b0cc8ea15f1da989e?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Feb 13 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/699038e90cc8ea15f1daf98d?utm_campaign=1058&utm_source=git)** | US-IN-Evansville | On Site | Feb 13 |
 | ↳ | **[Student Nurse Intern](https://jobright.ai/jobs/info/699030840f6f7e7a2cec9ce5?utm_campaign=1058&utm_source=git)** | Evansville, IN, US | On Site | Feb 13 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/698fe0616ea51a7610f245bb?utm_campaign=1058&utm_source=git)** | US-WI-Milwaukee | On Site | Feb 13 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/698fdd290cc8ea15f1da735f?utm_campaign=1058&utm_source=git)** | Milwaukee, WI, US | On Site | Feb 13 |
-| ↳ | **[XRay Intern](https://jobright.ai/jobs/info/698fe1c80cc8ea15f1da7b16?utm_campaign=1058&utm_source=git)** | US-FL-Jacksonville | On Site | Feb 13 |
 | ↳ | **[XRay Intern](https://jobright.ai/jobs/info/698fe4c80f6f7e7a2cec2a6d?utm_campaign=1058&utm_source=git)** | Jacksonville, FL, US | On Site | Feb 13 |
+| ↳ | **[XRay Intern](https://jobright.ai/jobs/info/698fe1c80cc8ea15f1da7b16?utm_campaign=1058&utm_source=git)** | US-FL-Jacksonville | On Site | Feb 13 |
 | **[ECHO Incorporated](http://echo-usa.com)** | **[Intern - Warehouse Order Picker - 1st Shift](https://jobright.ai/jobs/info/698ff96f0f6f7e7a2cec3f33?utm_campaign=1058&utm_source=git)** | Lake Zurich, Illinois, United States | On Site | Feb 13 |
-| **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, INFORMATION TECHNOLOGY SUPPORT](https://jobright.ai/jobs/info/698ff3a06ea51a7610f25681?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Feb 13 |
-| ↳ | **[VETERAN INTERN, OFFICE AND CLERICAL SUPPORT](https://jobright.ai/jobs/info/698fdf260f6f7e7a2cec256a?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Feb 13 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[2026 Omni Care Summer Internship / Rooms (June-August)](https://jobright.ai/jobs/info/698fde420cc8ea15f1da7458?utm_campaign=1058&utm_source=git)** | US-MA-Boston | On Site | Feb 13 |
-| ↳ | **[2026 Omni Care Summer Internship / Rooms (June-August)](https://jobright.ai/jobs/info/698fdd060f6f7e7a2cec2362?utm_campaign=1058&utm_source=git)** | Boston, MA, US | On Site | Feb 13 |
+| **[County of Los Angeles](https://lacounty.gov)** | **[VETERAN INTERN, OFFICE AND CLERICAL SUPPORT](https://jobright.ai/jobs/info/698fdf260f6f7e7a2cec256a?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Feb 13 |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[2026 Omni Care Summer Internship / Rooms (June-August)](https://jobright.ai/jobs/info/698fdd060f6f7e7a2cec2362?utm_campaign=1058&utm_source=git)** | Boston, MA, US | On Site | Feb 13 |
+| ↳ | **[2026 Omni Care Summer Internship / Rooms (June-August)](https://jobright.ai/jobs/info/698fde420cc8ea15f1da7458?utm_campaign=1058&utm_source=git)** | US-MA-Boston | On Site | Feb 13 |
 | **[iManage](https://imanage.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/698fff380f6f7e7a2cec4877?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 13 |
 | **[Okta](http://www.okta.com)** | **[Customer First Strategy and Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/698fea870f6f7e7a2cec2f5a?utm_campaign=1058&utm_source=git)** | San Francisco, California | On Site | Feb 13 |
 | **[New Hope of Indiana](https://www.newhopeofindiana.org)** | **[Food Truck Intern](https://jobright.ai/jobs/info/698ff8fb0f6f7e7a2cec3eb0?utm_campaign=1058&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Client Experience Intern - Summer 2026](https://jobright.ai/jobs/info/698f7eab0f6f7e7a2cebba26?utm_campaign=1058&utm_source=git)** | Pasadena, CA | Hybrid | Feb 13 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Branch Intern - Paid Internship (Kennesaw, GA)](https://jobright.ai/jobs/info/698f7c150cc8ea15f1da05a2?utm_campaign=1058&utm_source=git)** | Kennesaw, GA | On Site | Feb 13 |
 | **[ARD Outdoor](https://ardoutdoor.com)** | **[Sales Support Administrator/Intern (Design)](https://jobright.ai/jobs/info/698fa2600cc8ea15f1da3d6c?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 13 |
-| **[Packaging Corporation of America](http://packagingcorp.com)** | **[2026 Fall Information Systems Intern/Co-Op](https://jobright.ai/jobs/info/698fb32d0f6f7e7a2cebfe28?utm_campaign=1058&utm_source=git)** | DeRidder, LA 70634, USA | On Site | Feb 13 |
-| **[The Timken Company](http://www.timken.com)** | **[IT Intern - Summer 2026](https://jobright.ai/jobs/info/698f79dd6ea51a7610f1d154?utm_campaign=1058&utm_source=git)** | North Canton, OH | On Site | Feb 13 |
-| **[St. Elizabeth Healthcare](http://www.stelizabeth.com/)** | **[Intern Pharmacy Inpatient](https://jobright.ai/jobs/info/698fa2f40cc8ea15f1da3e6d?utm_campaign=1058&utm_source=git)** | Edgewood, Kentucky | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
