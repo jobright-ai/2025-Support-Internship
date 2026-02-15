@@ -83,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Interac Corp.](http://www.interac.ca)** | **[End User Services Intern](https://jobright.ai/jobs/info/6991337c0f6f7e7a2ced7857?utm_campaign=1058&utm_source=git)** | Toronto | On Site | Feb 14 |
 | **[Optum](https://www.optum.com/)** | **[Pharmacist Intern Behavioral Health,](https://jobright.ai/jobs/info/699116f30f6f7e7a2ced65f3?utm_campaign=1058&utm_source=git)** | Indiana, PA | On Site | Feb 14 |
 | **[Arena](https://arena.run/)** | **[Summer 2026 Internship - Client Services](https://jobright.ai/jobs/info/69915b7e6ea51a7610f3b7b6?utm_campaign=1058&utm_source=git)** | Lincoln, NE | Hybrid | Feb 14 |
-| **[Shoppers Drug Mart](http://www.shoppersdrugmart.ca)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6990e1f70f6f7e7a2ced46d9?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 14 |
 | **[Finance Factors](http://financefactors.com)** | **[IT Intern](https://jobright.ai/jobs/info/6990df150cc8ea15f1db835a?utm_campaign=1058&utm_source=git)** | Honolulu, HI | On Site | Feb 14 |
 | **[Atlantic Coca-Cola Bottling Company](https://www.atlanticbottling.com)** | **[Information Technology (IT) Internship](https://jobright.ai/jobs/info/6990d9cf6ea51a7610f344a2?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Feb 14 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6990d2600f6f7e7a2ced3085?utm_campaign=1058&utm_source=git)** | Eastvale, CA | On Site | Feb 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[2026 Fall Information Systems Intern/Co-Op](https://jobright.ai/jobs/info/698fe0406ea51a7610f245a0?utm_campaign=1058&utm_source=git)** | De Ridder, LA | On Site | Feb 13 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern-Technical Support - Information Technology Division](https://jobright.ai/jobs/info/69913d260cc8ea15f1dbcd21?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Feb 13 |
 | **[Plan A Health](https://planahealth.org)** | **[Student Nurse Intern PRN](https://jobright.ai/jobs/info/698fdafc0f6f7e7a2cec2158?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Feb 13 |
+| **[ECHO Incorporated](http://echo-usa.com)** | **[Intern - Warehouse Order Picker - 1st Shift](https://jobright.ai/jobs/info/698fd7e90cc8ea15f1da6fc3?utm_campaign=1058&utm_source=git)** | Lake Zurich, IL | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
