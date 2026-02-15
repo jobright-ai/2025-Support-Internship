@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Pharmacy Intern - PRN - University Hospital](https://jobright.ai/jobs/info/68c86b9495f5211cd2ce4db9?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Feb 15 |
+| **[The Hotel at Auburn University & Dixon Conference Center](https://www.auhcc.com/careers)** | **[Rooms - International Rooms Intern](https://jobright.ai/jobs/info/6991c35d6ea51a7610f41901?utm_campaign=1058&utm_source=git)** | Auburn, AL | On Site | Feb 15 |
+| **[Perkins Eastman](http://www.perkinseastman.com)** | **[2026 Summer Internship - Information Technology - New York](https://jobright.ai/jobs/info/69752bf4206da320f49f3bbd?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 15 |
+| **[KLA](https://www.kla.com)** | **[Service Support Intern](https://jobright.ai/jobs/info/69340b5af131d96e484691ea?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Feb 15 |
 | **[Hilton](https://www.hilton.com/en/)** | **[Food and Beverage Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/69585bbdaa05c26e7ab23c1a?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Feb 15 |
 | ↳ | **[Revenue Management Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/695863fd9f1b381eb271405b?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Feb 15 |
 | **[UL Research Institutes](https://ul.org)** | **[Summer 2026 Intern Library & Researcher Information Services](https://jobright.ai/jobs/info/69718f28333b6343a14e2a10?utm_campaign=1058&utm_source=git)** | Evanston, IL | On Site | Feb 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Astrion](https://astrion.us)** | **[Intern- Test Support](https://jobright.ai/jobs/info/69900d4c0f6f7e7a2cec5f6f?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | Feb 13 |
 | **[Okta](http://www.okta.com)** | **[Customer First Strategy and Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/698fd2880cc8ea15f1da6cf0?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Feb 13 |
 | **[Toho Water Authority](https://www.tohowater.com/)** | **[Intern-IT](https://jobright.ai/jobs/info/69900c820f6f7e7a2cec5e9d?utm_campaign=1058&utm_source=git)** | Kissimmee, FL | On Site | Feb 13 |
-| **[LASIK MD](https://www.lasikmd.com/)** | **[Ophthalmic Technician Internship - Summer 2026](https://jobright.ai/jobs/info/6986fc038ca8121a3a698151?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 13 |
-| **[Hawaii State Federal Credit Union](https://www.hawaiistatefcu.com)** | **[2026 Summer Student Intern - IT Infrastructure](https://jobright.ai/jobs/info/69901c766ea51a7610f2855b?utm_campaign=1058&utm_source=git)** | HSFCU Headquarters, 333 Queen Street, Honolulu, Hawaii, United States of America | On Site | Feb 13 |
-| **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[IT Intern](https://jobright.ai/jobs/info/698fecf20cc8ea15f1da853d?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 13 |
-| **[Methodist Health System](http://jobs.methodisthealthsystem.org)** | **[Patient Care Intern - Med/Surg](https://jobright.ai/jobs/info/698fc9600cc8ea15f1da66d8?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
