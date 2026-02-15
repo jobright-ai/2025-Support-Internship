@@ -63,6 +63,7 @@ For a complete list, click the following sortable link below:
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Front Desk Agent - J1 Intern](https://jobright.ai/jobs/info/69922da80cc8ea15f1dc9d61?utm_campaign=1058&utm_source=git)** | St. Louis | On Site | Feb 15 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/6811abd51f4024cee35f8fd0?utm_campaign=1058&utm_source=git)** | Great Falls, MT | On Site | Feb 15 |
 | ↳ | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68af50af7bcb7608b3d2c69b?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | Feb 15 |
+| **[WVU Medicine](https://wvumedicine.org/)** | **[Stepdown Nurse Intern](https://jobright.ai/jobs/info/699245910cc8ea15f1dcb454?utm_campaign=1058&utm_source=git)** | Thomas Memorial Hospital (TMH) | On Site | Feb 15 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I](https://jobright.ai/jobs/info/6974fa8d37785856350f059c?utm_campaign=1058&utm_source=git)** | Jonesboro, AR | On Site | Feb 15 |
 | **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Paid Internship Ft Worth, TX](https://jobright.ai/jobs/info/6986d6160f6f7e7a2ce20bf3?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Feb 15 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/6991d9ec0cc8ea15f1dc6a21?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Nurse Intern Med Surg ICU](https://jobright.ai/jobs/info/698fe99c0f6f7e7a2cec2e72?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Feb 13 |
 | **[Hyatt Regency Boston / Cambridge](http://www.hyattregencybostoncambridge.com)** | **[J1 Food & Beverage Intern](https://jobright.ai/jobs/info/699008cd0f6f7e7a2cec5ae9?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | Feb 13 |
 | ↳ | **[J1 Rooms Intern](https://jobright.ai/jobs/info/69900e106ea51a7610f27a53?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | Feb 13 |
-| **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Pharmacy Intern - Various Specialties - YNHH](https://jobright.ai/jobs/info/69900e570f6f7e7a2cec6058?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
