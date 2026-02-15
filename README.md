@@ -72,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Froedtert Health](http://www.froedtert.com)** | **[Inpatient Pharmacy Intern](https://jobright.ai/jobs/info/6990aa0b6ea51a7610f3319f?utm_campaign=1058&utm_source=git)** | Menomonee Falls, WI | On Site | Feb 14 |
 | ↳ | **[Inpatient Pharmacy Intern](https://jobright.ai/jobs/info/6990a9c06ea51a7610f33011?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Feb 14 |
 | **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68c7b5f15c25e576f7b29d6d?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Feb 14 |
+| **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/699163000cc8ea15f1dc0770?utm_campaign=1058&utm_source=git)** | Irving, TX | On Site | Feb 14 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6974750937785856350e8ca4?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Feb 14 |
 | **[Overland Park Regional Medical Center](https://www.oprmc.com)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/69744edc37785856350e5331?utm_campaign=1058&utm_source=git)** | Overland Park, KS | On Site | Feb 14 |
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Intern, Technology Service Desk (Houston)](https://jobright.ai/jobs/info/693908c8d52e071e1986483b?utm_campaign=1058&utm_source=git)** | Houston, TX | Remote | Feb 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leviton](https://www.leviton.com)** | **[Intern, IT Infrastructure](https://jobright.ai/jobs/info/698fe5af6ea51a7610f24a5b?utm_campaign=1058&utm_source=git)** | Melville, NY | On Site | Feb 13 |
 | **[BCom](https://bcom.solutions/)** | **[Summer 2026 Internship - Client Services](https://jobright.ai/jobs/info/698fc14d6ea51a7610f22d26?utm_campaign=1058&utm_source=git)** | Lincoln, NE | Hybrid | Feb 13 |
 | **[Westerly Hospital](https://westerlyhospital.org)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/698ff1200cc8ea15f1da88d7?utm_campaign=1058&utm_source=git)** | Westerly, RI | On Site | Feb 13 |
-| **[Clinic Service Corporation](http://www.clinicservice.com/)** | **[Student Nurse Intern PRN](https://jobright.ai/jobs/info/698ff4dc0cc8ea15f1da8c98?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
