@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship -Events / Summer 2026 (Center of Excellence)](https://jobright.ai/jobs/info/69923bbb0f6f7e7a2cee5a63?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Feb 15 |
+| **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[IT Utility Applications Intern](https://jobright.ai/jobs/info/699236696ea51a7610f462f0?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | On Site | Feb 15 |
+| **[CommonSpirit Health](https://www.commonspirit.org)** | **[Surgical Tech Intern](https://jobright.ai/jobs/info/6992336c0f6f7e7a2cee51e5?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Feb 15 |
+| **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Front Desk Agent - J1 Intern](https://jobright.ai/jobs/info/69922da80cc8ea15f1dc9d61?utm_campaign=1058&utm_source=git)** | St. Louis | On Site | Feb 15 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/6811abd51f4024cee35f8fd0?utm_campaign=1058&utm_source=git)** | Great Falls, MT | On Site | Feb 15 |
 | ↳ | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/68af50af7bcb7608b3d2c69b?utm_campaign=1058&utm_source=git)** | McKinney, TX | On Site | Feb 15 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I](https://jobright.ai/jobs/info/6974fa8d37785856350f059c?utm_campaign=1058&utm_source=git)** | Jonesboro, AR | On Site | Feb 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hyatt Regency Boston / Cambridge](http://www.hyattregencybostoncambridge.com)** | **[J1 Food & Beverage Intern](https://jobright.ai/jobs/info/699008cd0f6f7e7a2cec5ae9?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | Feb 13 |
 | ↳ | **[J1 Rooms Intern](https://jobright.ai/jobs/info/69900e106ea51a7610f27a53?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | Feb 13 |
 | **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Pharmacy Intern - Various Specialties - YNHH](https://jobright.ai/jobs/info/69900e570f6f7e7a2cec6058?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Feb 13 |
-| **[Packaging Corporation of America](http://packagingcorp.com)** | **[2026 Fall Information Systems Intern/Co-Op](https://jobright.ai/jobs/info/698fe0406ea51a7610f245a0?utm_campaign=1058&utm_source=git)** | De Ridder, LA | On Site | Feb 13 |
-| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern-Technical Support - Information Technology Division](https://jobright.ai/jobs/info/69913d260cc8ea15f1dbcd21?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Feb 13 |
-| **[Plan A Health](https://planahealth.org)** | **[Student Nurse Intern PRN](https://jobright.ai/jobs/info/698fdafc0f6f7e7a2cec2158?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Feb 13 |
-| **[ECHO Incorporated](http://echo-usa.com)** | **[Intern - Warehouse Order Picker - 1st Shift](https://jobright.ai/jobs/info/698fd7e90cc8ea15f1da6fc3?utm_campaign=1058&utm_source=git)** | Lake Zurich, IL | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
