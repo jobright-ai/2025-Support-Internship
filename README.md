@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I](https://jobright.ai/jobs/info/6974fa8d37785856350f059c?utm_campaign=1058&utm_source=git)** | Jonesboro, AR | On Site | Feb 15 |
+| **[SiteOne Landscape Supply](http://www.shemin.net)** | **[Paid Internship Ft Worth, TX](https://jobright.ai/jobs/info/6986d6160f6f7e7a2ce20bf3?utm_campaign=1058&utm_source=git)** | Fort Worth, TX | On Site | Feb 15 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/6991d9ec0cc8ea15f1dc6a21?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 15 |
+| ↳ | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/6991d9366ea51a7610f427a9?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 15 |
+| ↳ | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/6991d87b0cc8ea15f1dc6958?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 15 |
+| **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Student Services Specialist "Internal Only"](https://jobright.ai/jobs/info/6991d8350cc8ea15f1dc6952?utm_campaign=1058&utm_source=git)** | Palm Coast, FL | On Site | Feb 15 |
+| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Graduate Intern (Non-US Education)](https://jobright.ai/jobs/info/6991d2680f6f7e7a2cee15a8?utm_campaign=1058&utm_source=git)** | Oak Harbor, WA | On Site | Feb 15 |
 | **[Methodist Le Bonheur Healthcare](https://www.methodisthealth.org/)** | **[Pharmacy Intern - PRN - University Hospital](https://jobright.ai/jobs/info/68c86b9495f5211cd2ce4db9?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Feb 15 |
 | **[The Hotel at Auburn University & Dixon Conference Center](https://www.auhcc.com/careers)** | **[Rooms - International Rooms Intern](https://jobright.ai/jobs/info/6991c35d6ea51a7610f41901?utm_campaign=1058&utm_source=git)** | Auburn, AL | On Site | Feb 15 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[2026 Summer Internship - Information Technology - New York](https://jobright.ai/jobs/info/69752bf4206da320f49f3bbd?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 15 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern-Technical Support - Information Technology Division](https://jobright.ai/jobs/info/69913d260cc8ea15f1dbcd21?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Feb 13 |
 | **[Plan A Health](https://planahealth.org)** | **[Student Nurse Intern PRN](https://jobright.ai/jobs/info/698fdafc0f6f7e7a2cec2158?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Feb 13 |
 | **[ECHO Incorporated](http://echo-usa.com)** | **[Intern - Warehouse Order Picker - 1st Shift](https://jobright.ai/jobs/info/698fd7e90cc8ea15f1da6fc3?utm_campaign=1058&utm_source=git)** | Lake Zurich, IL | On Site | Feb 13 |
-| **[Moody's Corporation](http://www.moodys.com)** | **[Ratings and Research Support Intern](https://jobright.ai/jobs/info/69900a550f6f7e7a2cec5c82?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 13 |
-| **[Aptima](http://aptima.com)** | **[Intern, Information Systems](https://jobright.ai/jobs/info/698fd6946ea51a7610f23e39?utm_campaign=1058&utm_source=git)** | Fairborn,OH,US | On Site | Feb 13 |
-| **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - Client Hardware Support](https://jobright.ai/jobs/info/699001780cc8ea15f1da991c?utm_campaign=1058&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
-| **[King County Housing Authority](https://www.kcha.org/)** | **[Customer Service Support Intern](https://jobright.ai/jobs/info/699010456ea51a7610f27be8?utm_campaign=1058&utm_source=git)** | Auburn, WA | On Site | Feb 13 |
-| **[Astrion](https://astrion.us)** | **[Intern- Test Support](https://jobright.ai/jobs/info/69900d4c0f6f7e7a2cec5f6f?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | Feb 13 |
-| **[Okta](http://www.okta.com)** | **[Customer First Strategy and Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/698fd2880cc8ea15f1da6cf0?utm_campaign=1058&utm_source=git)** | San Francisco, CA | On Site | Feb 13 |
-| **[Toho Water Authority](https://www.tohowater.com/)** | **[Intern-IT](https://jobright.ai/jobs/info/69900c820f6f7e7a2cec5e9d?utm_campaign=1058&utm_source=git)** | Kissimmee, FL | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
