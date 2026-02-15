@@ -144,13 +144,13 @@ For a complete list, click the following sortable link below:
 | **[Plan A Health](https://planahealth.org)** | **[Student Nurse Intern PRN](https://jobright.ai/jobs/info/6990000b0cc8ea15f1da989e?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Feb 13 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/699030840f6f7e7a2cec9ce5?utm_campaign=1058&utm_source=git)** | Evansville, IN, US | On Site | Feb 13 |
 | ↳ | **[Student Nurse Intern](https://jobright.ai/jobs/info/699038e90cc8ea15f1daf98d?utm_campaign=1058&utm_source=git)** | US-IN-Evansville | On Site | Feb 13 |
-| ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/698fdd290cc8ea15f1da735f?utm_campaign=1058&utm_source=git)** | Milwaukee, WI, US | On Site | Feb 13 |
 | ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/698fe0616ea51a7610f245bb?utm_campaign=1058&utm_source=git)** | US-WI-Milwaukee | On Site | Feb 13 |
-| ↳ | **[XRay Intern](https://jobright.ai/jobs/info/698fe4c80f6f7e7a2cec2a6d?utm_campaign=1058&utm_source=git)** | Jacksonville, FL, US | On Site | Feb 13 |
+| ↳ | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/698fdd290cc8ea15f1da735f?utm_campaign=1058&utm_source=git)** | Milwaukee, WI, US | On Site | Feb 13 |
 | ↳ | **[XRay Intern](https://jobright.ai/jobs/info/698fe1c80cc8ea15f1da7b16?utm_campaign=1058&utm_source=git)** | US-FL-Jacksonville | On Site | Feb 13 |
+| ↳ | **[XRay Intern](https://jobright.ai/jobs/info/698fe4c80f6f7e7a2cec2a6d?utm_campaign=1058&utm_source=git)** | Jacksonville, FL, US | On Site | Feb 13 |
 | **[ECHO Incorporated](http://echo-usa.com)** | **[Intern - Warehouse Order Picker - 1st Shift](https://jobright.ai/jobs/info/698ff96f0f6f7e7a2cec3f33?utm_campaign=1058&utm_source=git)** | Lake Zurich, Illinois, United States | On Site | Feb 13 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[2026 Omni Care Summer Internship / Rooms (June-August)](https://jobright.ai/jobs/info/698fdd060f6f7e7a2cec2362?utm_campaign=1058&utm_source=git)** | Boston, MA, US | On Site | Feb 13 |
-| ↳ | **[2026 Omni Care Summer Internship / Rooms (June-August)](https://jobright.ai/jobs/info/698fde420cc8ea15f1da7458?utm_campaign=1058&utm_source=git)** | US-MA-Boston | On Site | Feb 13 |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[2026 Omni Care Summer Internship / Rooms (June-August)](https://jobright.ai/jobs/info/698fde420cc8ea15f1da7458?utm_campaign=1058&utm_source=git)** | US-MA-Boston | On Site | Feb 13 |
+| ↳ | **[2026 Omni Care Summer Internship / Rooms (June-August)](https://jobright.ai/jobs/info/698fdd060f6f7e7a2cec2362?utm_campaign=1058&utm_source=git)** | Boston, MA, US | On Site | Feb 13 |
 | **[iManage](https://imanage.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/698fff380f6f7e7a2cec4877?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 13 |
 | **[Okta](http://www.okta.com)** | **[Customer First Strategy and Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/698fea870f6f7e7a2cec2f5a?utm_campaign=1058&utm_source=git)** | San Francisco, California | On Site | Feb 13 |
 | **[New Hope of Indiana](https://www.newhopeofindiana.org)** | **[Food Truck Intern](https://jobright.ai/jobs/info/698ff8fb0f6f7e7a2cec3eb0?utm_campaign=1058&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 13 |
