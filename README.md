@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deepiri](https://deepiri.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69913f540f6f7e7a2ced828f?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 14 |
+| **[Interac Corp.](http://www.interac.ca)** | **[End User Services Intern](https://jobright.ai/jobs/info/6991337c0f6f7e7a2ced7857?utm_campaign=1058&utm_source=git)** | Toronto | On Site | Feb 14 |
 | **[Optum](https://www.optum.com/)** | **[Pharmacist Intern Behavioral Health,](https://jobright.ai/jobs/info/699116f30f6f7e7a2ced65f3?utm_campaign=1058&utm_source=git)** | Indiana, PA | On Site | Feb 14 |
 | **[Shoppers Drug Mart](http://www.shoppersdrugmart.ca)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6990e1f70f6f7e7a2ced46d9?utm_campaign=1058&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 14 |
 | **[Finance Factors](http://financefactors.com)** | **[IT Intern](https://jobright.ai/jobs/info/6990df150cc8ea15f1db835a?utm_campaign=1058&utm_source=git)** | Honolulu, HI | On Site | Feb 14 |
@@ -83,8 +85,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/699090290cc8ea15f1db5423?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Feb 14 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/699090220f6f7e7a2ced04aa?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Feb 14 |
 | ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6990900f0f6f7e7a2ced049b?utm_campaign=1058&utm_source=git)** | Mansfield, OH | On Site | Feb 14 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6990900e6ea51a7610f3178a?utm_campaign=1058&utm_source=git)** | Sacramento, CA | On Site | Feb 14 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69908fe00f6f7e7a2ced0462?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Feb 14 |
+| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69908fe00f6f7e7a2ced0462?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Feb 14 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/69908f920cc8ea15f1db537a?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 14 |
 | **[Walgreens](https://www.walgreens.com)** | **[Community Management Intern](https://jobright.ai/jobs/info/69908dd06ea51a7610f3158c?utm_campaign=1058&utm_source=git)** | Lawrence, KS | On Site | Feb 14 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Service Desk (Milwaukee, WI Year-Round)](https://jobright.ai/jobs/info/6902b025ff462851fefe5bf8?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 14 |
@@ -92,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Hospitality - Summer 2026](https://jobright.ai/jobs/info/6973e23f37785856350db30b?utm_campaign=1058&utm_source=git)** | Brillion, WI | On Site | Feb 14 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/699085db0f6f7e7a2cecfb0a?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 14 |
 | ↳ | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/699085a90cc8ea15f1db4b8b?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 14 |
+| **[Aptima](http://aptima.com)** | **[Intern, Information Systems](https://jobright.ai/jobs/info/69913e546ea51a7610f3920d?utm_campaign=1058&utm_source=git)** | Fairborn, OH | On Site | Feb 14 |
 | **[Optum](https://www.optum.com/)** | **[Pharmacist Intern Behavioral Health,](https://jobright.ai/jobs/info/699077100cc8ea15f1db374f?utm_campaign=1058&utm_source=git)** | Indiana, PA | On Site | Feb 14 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - STR Division - Austin, TX](https://jobright.ai/jobs/info/699076eb0f6f7e7a2cece58a?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Feb 14 |
 | **[Optum](https://www.optum.com/)** | **[Pharmacist Graduate Intern,](https://jobright.ai/jobs/info/699074a00f6f7e7a2cece090?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Feb 14 |
@@ -117,6 +119,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[J1 Rooms Intern](https://jobright.ai/jobs/info/69900e106ea51a7610f27a53?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | Feb 13 |
 | **[Yale New Haven Health](https://www.ynhhs.org/)** | **[Pharmacy Intern - Various Specialties - YNHH](https://jobright.ai/jobs/info/69900e570f6f7e7a2cec6058?utm_campaign=1058&utm_source=git)** | New Haven, CT | On Site | Feb 13 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[2026 Fall Information Systems Intern/Co-Op](https://jobright.ai/jobs/info/698fe0406ea51a7610f245a0?utm_campaign=1058&utm_source=git)** | De Ridder, LA | On Site | Feb 13 |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern-Technical Support - Information Technology Division](https://jobright.ai/jobs/info/69913d260cc8ea15f1dbcd21?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Feb 13 |
 | **[Plan A Health](https://planahealth.org)** | **[Student Nurse Intern PRN](https://jobright.ai/jobs/info/698fdafc0f6f7e7a2cec2158?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Feb 13 |
 | **[ECHO Incorporated](http://echo-usa.com)** | **[Intern - Warehouse Order Picker - 1st Shift](https://jobright.ai/jobs/info/698fd7e90cc8ea15f1da6fc3?utm_campaign=1058&utm_source=git)** | Lake Zurich, IL | On Site | Feb 13 |
 | **[Moody's Corporation](http://www.moodys.com)** | **[Ratings and Research Support Intern](https://jobright.ai/jobs/info/69900a550f6f7e7a2cec5c82?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Omni Care Summer Internship / Rooms (June-August)](https://jobright.ai/jobs/info/698fdd060f6f7e7a2cec2362?utm_campaign=1058&utm_source=git)** | Boston, MA, US | On Site | Feb 13 |
 | **[iManage](https://imanage.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/698fff380f6f7e7a2cec4877?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 13 |
 | **[Okta](http://www.okta.com)** | **[Customer First Strategy and Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/698fea870f6f7e7a2cec2f5a?utm_campaign=1058&utm_source=git)** | San Francisco, California | On Site | Feb 13 |
-| **[New Hope of Indiana](https://www.newhopeofindiana.org)** | **[Food Truck Intern](https://jobright.ai/jobs/info/698ff8fb0f6f7e7a2cec3eb0?utm_campaign=1058&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 13 |
-| **[Trillium Trading](https://www.trlm.com)** | **[IT Support Intern](https://jobright.ai/jobs/info/698fba480cc8ea15f1da57cc?utm_campaign=1058&utm_source=git)** | NYC | On Site | Feb 13 |
-| **[Costco IT](https://www.costco.com/sustainability-introduction.html)** | **[CDS Intern - Client Hardware Support](https://jobright.ai/jobs/info/698fde160f6f7e7a2cec2497?utm_campaign=1058&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
