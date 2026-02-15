@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Culligan International](http://www.culligan.com/)** | **[Customer Relations Intern](https://jobright.ai/jobs/info/69583205aa05c26e7ab20ded?utm_campaign=1058&utm_source=git)** | Rosemont, IL | On Site | Feb 15 |
+| **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/699185e46ea51a7610f3ed43?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 15 |
+| ↳ | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/6991844d0cc8ea15f1dc2f1a?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 15 |
 | **[Interac Corp.](http://www.interac.ca)** | **[End User Services Intern](https://jobright.ai/jobs/info/699178820cc8ea15f1dc24ce?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 14 |
 | **[Fairview Hospital / Cleveland Clinic](http://fairviewhospital.org)** | **[Student Nurse Intern PRN](https://jobright.ai/jobs/info/699177146ea51a7610f3e133?utm_campaign=1058&utm_source=git)** | Boerne, TX | On Site | Feb 14 |
 | **[Plan A Health](https://planahealth.org)** | **[Student Nurse Intern PRN](https://jobright.ai/jobs/info/69916b830f6f7e7a2cedc639?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Feb 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Godfather's Pizza](http://www.godfathers.com)** | **[IT Intern](https://jobright.ai/jobs/info/698fe5de6ea51a7610f24a7f?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Feb 13 |
 | **[Audi Cape Fear](https://www.audicapefear.com/)** | **[IT Help Desk 1 Intern](https://jobright.ai/jobs/info/69903fe76ea51a7610f2ca61?utm_campaign=1058&utm_source=git)** | Wilmington, NC, 28403, US | On Site | Feb 13 |
 | **[MERIT HEALTH WESLEY](https://www.merithealthwesley.com/)** | **[RN Intern - Telemetry](https://jobright.ai/jobs/info/698ff9780f6f7e7a2cec3f46?utm_campaign=1058&utm_source=git)** | Hattiesburg, MS | On Site | Feb 13 |
-| **[Center for Internet Security](http://cisecurity.org/)** | **[IT Intern - Albany, NY](https://jobright.ai/jobs/info/6973cf85206da320f49dc996?utm_campaign=1058&utm_source=git)** | East Greenbush, NY | On Site | Feb 13 |
-| **[Lynden](https://www.lynden.com)** | **[IT Infrastructure Intern](https://jobright.ai/jobs/info/699017c76ea51a7610f281a2?utm_campaign=1058&utm_source=git)** | 18000 International Blvd, SeaTac, WA 98188, USA | Hybrid | Feb 13 |
-| **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – IT Production Management & Application Support](https://jobright.ai/jobs/info/697405e0206da320f49e1643?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
