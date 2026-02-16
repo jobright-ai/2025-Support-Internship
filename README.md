@@ -92,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #347](https://jobright.ai/jobs/info/699182770f6f7e7a2ceddd13?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Feb 14 |
 | **[RG&T Solutions](https://www.linkedin.com/company/109157280)** | **[Intern - Consumer Experience](https://jobright.ai/jobs/info/699177390cc8ea15f1dc23f2?utm_campaign=1058&utm_source=git)** | Lake Spring, MO | On Site | Feb 14 |
 | **[Interac Corp.](http://www.interac.ca)** | **[End User Services Intern](https://jobright.ai/jobs/info/6991337c0f6f7e7a2ced7857?utm_campaign=1058&utm_source=git)** | Toronto | On Site | Feb 14 |
+| **[Aptima](http://aptima.com)** | **[Intern, Information Systems](https://jobright.ai/jobs/info/69928f1ae0bddb6acac0b185?utm_campaign=1058&utm_source=git)** | Fairborn, OH | On Site | Feb 14 |
 | **[Optum](https://www.optum.com/)** | **[Pharmacist Intern Behavioral Health,](https://jobright.ai/jobs/info/699116f30f6f7e7a2ced65f3?utm_campaign=1058&utm_source=git)** | Indiana, PA | On Site | Feb 14 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/698a960cc5761b521a99dae2?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Feb 14 |
 | **[Arena](https://arena.run/)** | **[Summer 2026 Internship - Client Services](https://jobright.ai/jobs/info/69915b7e6ea51a7610f3b7b6?utm_campaign=1058&utm_source=git)** | Lincoln, NE | Hybrid | Feb 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[2026 Omni Care Summer Internship / Rooms (June-August)](https://jobright.ai/jobs/info/699003d16ea51a7610f2730e?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Feb 13 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II- Med/Surg 9T](https://jobright.ai/jobs/info/6990286a0f6f7e7a2cec925d?utm_campaign=1058&utm_source=git)** | Southaven, MS | On Site | Feb 13 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Mortgage Operations Intern](https://jobright.ai/jobs/info/698ff1bf0cc8ea15f1da8982?utm_campaign=1058&utm_source=git)** | North Liberty, IA | On Site | Feb 13 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/699015ef0f6f7e7a2cec677f?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
