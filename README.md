@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Registered Nurse - Cardiac Intensive Care Unit Internship - 4SCCT - 12-Hour Nights](https://jobright.ai/jobs/info/6992e15d81476f6176aa7073?utm_campaign=1058&utm_source=git)** | 8720 Beverley Blvd, Los Angeles, CA, 90048, US | On Site | Feb 16 |
+| **[Sharp HealthCare](http://www.sharp.com)** | **[Intern Pharmacist – Sharp HealthCare System Float Pool – Variable Shift – Per Diem](https://jobright.ai/jobs/info/6992dcfbce78e77b4fd6a410?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Feb 16 |
+| **[Six Flags](https://www.sixflags.com)** | **[Rentals Leadership Internship](https://jobright.ai/jobs/info/6992daae81476f6176aa6dd7?utm_campaign=1058&utm_source=git)** | Waukegan, IL | On Site | Feb 16 |
+| **[Sharp HealthCare](http://www.sharp.com)** | **[Intern Pharmacist – Sharp HealthCare System Float Pool – Variable Shift – Per Diem](https://jobright.ai/jobs/info/6992d9d0e0bddb6acac1167a?utm_campaign=1058&utm_source=git)** | Orange, CA | On Site | Feb 16 |
+| **[University of Michigan](https://www.umich.edu)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/6992d5c681476f6176aa6ba6?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 16 |
 | **[Ensora Health](https://www.therapybrands.com/)** | **[Knowledgebase Specialist Intern](https://jobright.ai/jobs/info/6992bfafe0bddb6acac108f7?utm_campaign=1058&utm_source=git)** | Remote - New Hampshire | Remote | Feb 15 |
 | ↳ | **[Knowledgebase Specialist Intern](https://jobright.ai/jobs/info/6992bf8be0bddb6acac108a5?utm_campaign=1058&utm_source=git)** | Remote - Pennsylvania | Remote | Feb 15 |
 | ↳ | **[Knowledgebase Specialist Intern](https://jobright.ai/jobs/info/6992bf73e0bddb6acac1085e?utm_campaign=1058&utm_source=git)** | Remote - Iowa | Remote | Feb 15 |
@@ -89,7 +94,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Knowledgebase Specialist Intern](https://jobright.ai/jobs/info/6992b6ce81476f6176aa3b4c?utm_campaign=1058&utm_source=git)** | Remote - Montana | Remote | Feb 15 |
 | ↳ | **[Knowledgebase Specialist Intern](https://jobright.ai/jobs/info/6992b66dce78e77b4fd67145?utm_campaign=1058&utm_source=git)** | Remote - Ohio | Remote | Feb 15 |
 | ↳ | **[Knowledgebase Specialist Intern](https://jobright.ai/jobs/info/6992b64dce78e77b4fd67111?utm_campaign=1058&utm_source=git)** | Remote - Massachusetts | Remote | Feb 15 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Internship / Rooms / Summer 2026 (Center of Excellence)](https://jobright.ai/jobs/info/6992d10681476f6176aa68d2?utm_campaign=1058&utm_source=git)** | US-OK-Oklahoma City | On Site | Feb 15 |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Internship / Events / Summer 2026 (Center of Excellence)](https://jobright.ai/jobs/info/6992d35fe0bddb6acac1132d?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK, US | On Site | Feb 15 |
+| ↳ | **[Omni Care Internship / Events / Summer 2026 (Center of Excellence)](https://jobright.ai/jobs/info/6992ddb981476f6176aa6fa7?utm_campaign=1058&utm_source=git)** | US-OK-Oklahoma City | On Site | Feb 15 |
+| ↳ | **[Omni Care Internship / Rooms / Summer 2026 (Center of Excellence)](https://jobright.ai/jobs/info/6992d10681476f6176aa68d2?utm_campaign=1058&utm_source=git)** | US-OK-Oklahoma City | On Site | Feb 15 |
+| ↳ | **[Omni Care Internship / Food & Beverage / Summer 2026 (Center of Excellence)](https://jobright.ai/jobs/info/6992d75fe0bddb6acac114fb?utm_campaign=1058&utm_source=git)** | US-OK-Oklahoma City | On Site | Feb 15 |
+| ↳ | **[Omni Care Internship / Food & Beverage / Summer 2026 (Center of Excellence)](https://jobright.ai/jobs/info/6992dcdece78e77b4fd6a3fc?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK, US | On Site | Feb 15 |
 | **[WVU Medicine Thomas Hospitals](https://thomashealth.org)** | **[Stepdown Nurse Intern](https://jobright.ai/jobs/info/69929602ce78e77b4fd643a7?utm_campaign=1058&utm_source=git)** | South Charleston, WV | On Site | Feb 15 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Server Assistant - J1 Intern](https://jobright.ai/jobs/info/69927e790f6f7e7a2cee7c02?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Feb 15 |
 | ↳ | **[Front Desk Agent - J1 Intern](https://jobright.ai/jobs/info/69927e3f0cc8ea15f1dcce50?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Feb 15 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/699092986ea51a7610f318d7?utm_campaign=1058&utm_source=git)** | Grove City, OH | On Site | Feb 14 |
 | ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/699092660cc8ea15f1db5562?utm_campaign=1058&utm_source=git)** | Flagstaff, AZ | On Site | Feb 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/699090340cc8ea15f1db543c?utm_campaign=1058&utm_source=git)** | Newark, OH | On Site | Feb 14 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/699090290cc8ea15f1db5423?utm_campaign=1058&utm_source=git)** | Westerville, OH | On Site | Feb 14 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/699090220f6f7e7a2ced04aa?utm_campaign=1058&utm_source=git)** | Kansas City, MO | On Site | Feb 14 |
-| ↳ | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/6990900f0f6f7e7a2ced049b?utm_campaign=1058&utm_source=git)** | Mansfield, OH | On Site | Feb 14 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69908fe00f6f7e7a2ced0462?utm_campaign=1058&utm_source=git)** | Columbus, OH | On Site | Feb 14 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/69908dd06ea51a7610f3158c?utm_campaign=1058&utm_source=git)** | Lawrence, KS | On Site | Feb 14 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – Service Desk (Milwaukee, WI Year-Round)](https://jobright.ai/jobs/info/6902b025ff462851fefe5bf8?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 14 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/6973d82937785856350daa9f?utm_campaign=1058&utm_source=git)** | Kalamazoo, MI | On Site | Feb 14 |
-| **[AriensCo](https://www.ariensco.com/)** | **[Intern, Hospitality - Summer 2026](https://jobright.ai/jobs/info/6973e23f37785856350db30b?utm_campaign=1058&utm_source=git)** | Brillion, WI | On Site | Feb 14 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6991985a0f6f7e7a2cedebfc?utm_campaign=1058&utm_source=git)** | Heath, OH | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
