@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6944700a94730b7398779ac1?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Feb 15 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship -Events / Summer 2026 (Center of Excellence)](https://jobright.ai/jobs/info/69923bbb0f6f7e7a2cee5a63?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Feb 15 |
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[IT Utility Applications Intern](https://jobright.ai/jobs/info/699236696ea51a7610f462f0?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | On Site | Feb 15 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Surgical Tech Intern](https://jobright.ai/jobs/info/6992336c0f6f7e7a2cee51e5?utm_campaign=1058&utm_source=git)** | Omaha, NE | On Site | Feb 15 |
@@ -87,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[RG&T Solutions](https://www.linkedin.com/company/109157280)** | **[Intern - Consumer Experience](https://jobright.ai/jobs/info/699177390cc8ea15f1dc23f2?utm_campaign=1058&utm_source=git)** | Lake Spring, MO | On Site | Feb 14 |
 | **[Interac Corp.](http://www.interac.ca)** | **[End User Services Intern](https://jobright.ai/jobs/info/6991337c0f6f7e7a2ced7857?utm_campaign=1058&utm_source=git)** | Toronto | On Site | Feb 14 |
 | **[Optum](https://www.optum.com/)** | **[Pharmacist Intern Behavioral Health,](https://jobright.ai/jobs/info/699116f30f6f7e7a2ced65f3?utm_campaign=1058&utm_source=git)** | Indiana, PA | On Site | Feb 14 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/698a960cc5761b521a99dae2?utm_campaign=1058&utm_source=git)** | Jacksonville, FL | On Site | Feb 14 |
 | **[Arena](https://arena.run/)** | **[Summer 2026 Internship - Client Services](https://jobright.ai/jobs/info/69915b7e6ea51a7610f3b7b6?utm_campaign=1058&utm_source=git)** | Lincoln, NE | Hybrid | Feb 14 |
 | **[Finance Factors](http://financefactors.com)** | **[IT Intern](https://jobright.ai/jobs/info/6990df150cc8ea15f1db835a?utm_campaign=1058&utm_source=git)** | Honolulu, HI | On Site | Feb 14 |
 | **[Atlantic Coca-Cola Bottling Company](https://www.atlanticbottling.com)** | **[Information Technology (IT) Internship](https://jobright.ai/jobs/info/6990d9cf6ea51a7610f344a2?utm_campaign=1058&utm_source=git)** | Des Moines, IA | On Site | Feb 14 |
@@ -118,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/6973d82937785856350daa9f?utm_campaign=1058&utm_source=git)** | Kalamazoo, MI | On Site | Feb 14 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Hospitality - Summer 2026](https://jobright.ai/jobs/info/6973e23f37785856350db30b?utm_campaign=1058&utm_source=git)** | Brillion, WI | On Site | Feb 14 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/699085db0f6f7e7a2cecfb0a?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 14 |
-| ↳ | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/699085a90cc8ea15f1db4b8b?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 14 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6991985a0f6f7e7a2cedebfc?utm_campaign=1058&utm_source=git)** | Heath, OH | On Site | Feb 14 |
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6991594b0f6f7e7a2cedabc6?utm_campaign=1058&utm_source=git)** | Centerville, OH | On Site | Feb 14 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/699159540cc8ea15f1dbfc0b?utm_campaign=1058&utm_source=git)** | Grandview Heights, OH | On Site | Feb 14 |
@@ -136,7 +137,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/69915a8d0cc8ea15f1dbfc9f?utm_campaign=1058&utm_source=git)** | South Holland, IL | On Site | Feb 14 |
 | **[Optum](https://www.optum.com/)** | **[Pharmacist Intern Behavioral Health,](https://jobright.ai/jobs/info/699077100cc8ea15f1db374f?utm_campaign=1058&utm_source=git)** | Indiana, PA | On Site | Feb 14 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Intern Support Technician - STR Division - Austin, TX](https://jobright.ai/jobs/info/699076eb0f6f7e7a2cece58a?utm_campaign=1058&utm_source=git)** | Austin, TX | On Site | Feb 14 |
-| **[Optum](https://www.optum.com/)** | **[Pharmacist Graduate Intern,](https://jobright.ai/jobs/info/699074a00f6f7e7a2cece090?utm_campaign=1058&utm_source=git)** | Reading, PA | On Site | Feb 14 |
 | **[BioCryst Pharmaceuticals, Inc.](http://www.biocryst.com)** | **[Intern, IT Generalist](https://jobright.ai/jobs/info/69859f40348f733a5c3a2126?utm_campaign=1058&utm_source=git)** | Birmingham, AL | On Site | Feb 14 |
 | **[Providence Medical Center](http://www.providencekc.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6990688e0cc8ea15f1db28be?utm_campaign=1058&utm_source=git)** | Kansas City, KS | On Site | Feb 14 |
 | **[ConnectOne Bank](https://www.connectonebank.com/)** | **[Internship -nCino](https://jobright.ai/jobs/info/69583bcb9f1b381eb2712555?utm_campaign=1058&utm_source=git)** | Union, NJ | On Site | Feb 14 |
