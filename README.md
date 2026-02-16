@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eyes On Eyecare](https://eyesoneyecare.com)** | **[(USA) Optometrist Pre-Grad Intern - Wm (9151 S QUARRY BEND DR, SANDY, UT 84094-7701, United States of America)](https://jobright.ai/jobs/info/69926d080f6f7e7a2cee72ff?utm_campaign=1058&utm_source=git)** | Sandy, UT | On Site | Feb 15 |
 | **[Xometry](https://www.xometry.com)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/6944700a94730b7398779ac1?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Feb 15 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship -Events / Summer 2026 (Center of Excellence)](https://jobright.ai/jobs/info/69923bbb0f6f7e7a2cee5a63?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK | On Site | Feb 15 |
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[IT Utility Applications Intern](https://jobright.ai/jobs/info/699236696ea51a7610f462f0?utm_campaign=1058&utm_source=git)** | Fayetteville, NC | On Site | Feb 15 |
@@ -76,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[The Hotel at Auburn University & Dixon Conference Center](https://www.auhcc.com/careers)** | **[Rooms - International Rooms Intern](https://jobright.ai/jobs/info/6991c35d6ea51a7610f41901?utm_campaign=1058&utm_source=git)** | Auburn, AL | On Site | Feb 15 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[2026 Summer Internship - Information Technology - New York](https://jobright.ai/jobs/info/69752bf4206da320f49f3bbd?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 15 |
 | **[KLA](https://www.kla.com)** | **[Service Support Intern](https://jobright.ai/jobs/info/69340b5af131d96e484691ea?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Feb 15 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/699261760f6f7e7a2cee7181?utm_campaign=1058&utm_source=git)** | Sparks, NV | On Site | Feb 15 |
 | **[Hilton](https://www.hilton.com/en/)** | **[Food and Beverage Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/69585bbdaa05c26e7ab23c1a?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Feb 15 |
 | ↳ | **[Revenue Management Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/695863fd9f1b381eb271405b?utm_campaign=1058&utm_source=git)** | Boston, MA | On Site | Feb 15 |
 | **[UL Research Institutes](https://ul.org)** | **[Summer 2026 Intern Library & Researcher Information Services](https://jobright.ai/jobs/info/69718f28333b6343a14e2a10?utm_campaign=1058&utm_source=git)** | Evanston, IL | On Site | Feb 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/69900d650f6f7e7a2cec5f88?utm_campaign=1058&utm_source=git)** | Auburn, AL | On Site | Feb 13 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/698feb796ea51a7610f24ee0?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Feb 13 |
 | ↳ | **[Nurse Intern Med Surg ICU](https://jobright.ai/jobs/info/698fe99c0f6f7e7a2cec2e72?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Feb 13 |
-| **[Hyatt Regency Boston / Cambridge](http://www.hyattregencybostoncambridge.com)** | **[J1 Food & Beverage Intern](https://jobright.ai/jobs/info/699008cd0f6f7e7a2cec5ae9?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | Feb 13 |
-| ↳ | **[J1 Rooms Intern](https://jobright.ai/jobs/info/69900e106ea51a7610f27a53?utm_campaign=1058&utm_source=git)** | Cambridge, MA | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
