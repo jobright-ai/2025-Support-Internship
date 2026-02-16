@@ -57,11 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sound Credit Union](https://www.soundcu.com)** | **[IT Business Systems Intern](https://jobright.ai/jobs/info/6992fe49e0bddb6acac141bb?utm_campaign=1058&utm_source=git)** | Tacoma, WA | Hybrid | Feb 16 |
+| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695ab318aa05c26e7ab4364b?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 16 |
+| **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - Demo Operations](https://jobright.ai/jobs/info/697723dafdeb8243a279f389?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 16 |
+| **[Ensora Health](https://www.therapybrands.com/)** | **[Knowledgebase Specialist Intern](https://jobright.ai/jobs/info/6992e291e0bddb6acac11ac7?utm_campaign=1058&utm_source=git)** | Georgia, United States | Remote | Feb 16 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Registered Nurse - Cardiac Intensive Care Unit Internship - 4SCCT - 12-Hour Nights](https://jobright.ai/jobs/info/6992e15d81476f6176aa7073?utm_campaign=1058&utm_source=git)** | 8720 Beverley Blvd, Los Angeles, CA, 90048, US | On Site | Feb 16 |
 | **[Sharp HealthCare](http://www.sharp.com)** | **[Intern Pharmacist – Sharp HealthCare System Float Pool – Variable Shift – Per Diem](https://jobright.ai/jobs/info/6992dcfbce78e77b4fd6a410?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Feb 16 |
 | **[Six Flags](https://www.sixflags.com)** | **[Rentals Leadership Internship](https://jobright.ai/jobs/info/6992daae81476f6176aa6dd7?utm_campaign=1058&utm_source=git)** | Waukegan, IL | On Site | Feb 16 |
 | **[Sharp HealthCare](http://www.sharp.com)** | **[Intern Pharmacist – Sharp HealthCare System Float Pool – Variable Shift – Per Diem](https://jobright.ai/jobs/info/6992d9d0e0bddb6acac1167a?utm_campaign=1058&utm_source=git)** | Orange, CA | On Site | Feb 16 |
 | **[University of Michigan](https://www.umich.edu)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/6992d5c681476f6176aa6ba6?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 16 |
+| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Registered Nurse - Emergency Department Internship - 12-Hour Days](https://jobright.ai/jobs/info/6992f170e0bddb6acac12f83?utm_campaign=1058&utm_source=git)** | 8700 Beverly Blvd, Los Angeles, CA, 90048, US | On Site | Feb 16 |
+| ↳ | **[Registered Nurse - Cardiac Surgical Intensive Care Unit Internship - 6SCCT - 12-Hour Nights](https://jobright.ai/jobs/info/6992fd8881476f6176aa9ac9?utm_campaign=1058&utm_source=git)** | 8720 Beverley Blvd, Los Angeles, CA, 90048, US | On Site | Feb 16 |
+| ↳ | **[Registered Nurse - Medical and Respiratory Intensive Care Unit Internship - 7SCCT - 12-Hour Nights](https://jobright.ai/jobs/info/6992f7fae0bddb6acac137f8?utm_campaign=1058&utm_source=git)** | 8720 Beverley Blvd, Los Angeles, CA, 90048, US | On Site | Feb 16 |
+| ↳ | **[Registered Nurse - Emergency Department Internship - 12-Hour Nights](https://jobright.ai/jobs/info/6992f99cce78e77b4fd6ca8a?utm_campaign=1058&utm_source=git)** | 8700 Beverly Blvd, Los Angeles, CA, 90048, US | On Site | Feb 16 |
+| ↳ | **[Registered Nurse - Neuroscience Intensive Care Unit Internship - 8SCCT - 12-Hour Nights](https://jobright.ai/jobs/info/6992f2a3ce78e77b4fd6c0ac?utm_campaign=1058&utm_source=git)** | 8720 Beverley Blvd, Los Angeles, CA, 90048, US | On Site | Feb 16 |
 | **[Ensora Health](https://www.therapybrands.com/)** | **[Knowledgebase Specialist Intern](https://jobright.ai/jobs/info/6992bfafe0bddb6acac108f7?utm_campaign=1058&utm_source=git)** | Remote - New Hampshire | Remote | Feb 15 |
 | ↳ | **[Knowledgebase Specialist Intern](https://jobright.ai/jobs/info/6992bf8be0bddb6acac108a5?utm_campaign=1058&utm_source=git)** | Remote - Pennsylvania | Remote | Feb 15 |
 | ↳ | **[Knowledgebase Specialist Intern](https://jobright.ai/jobs/info/6992bf73e0bddb6acac1085e?utm_campaign=1058&utm_source=git)** | Remote - Iowa | Remote | Feb 15 |
@@ -96,9 +105,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Knowledgebase Specialist Intern](https://jobright.ai/jobs/info/6992b64dce78e77b4fd67111?utm_campaign=1058&utm_source=git)** | Remote - Massachusetts | Remote | Feb 15 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Internship / Events / Summer 2026 (Center of Excellence)](https://jobright.ai/jobs/info/6992d35fe0bddb6acac1132d?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK, US | On Site | Feb 15 |
 | ↳ | **[Omni Care Internship / Events / Summer 2026 (Center of Excellence)](https://jobright.ai/jobs/info/6992ddb981476f6176aa6fa7?utm_campaign=1058&utm_source=git)** | US-OK-Oklahoma City | On Site | Feb 15 |
-| ↳ | **[Omni Care Internship / Rooms / Summer 2026 (Center of Excellence)](https://jobright.ai/jobs/info/6992d10681476f6176aa68d2?utm_campaign=1058&utm_source=git)** | US-OK-Oklahoma City | On Site | Feb 15 |
 | ↳ | **[Omni Care Internship / Food & Beverage / Summer 2026 (Center of Excellence)](https://jobright.ai/jobs/info/6992d75fe0bddb6acac114fb?utm_campaign=1058&utm_source=git)** | US-OK-Oklahoma City | On Site | Feb 15 |
 | ↳ | **[Omni Care Internship / Food & Beverage / Summer 2026 (Center of Excellence)](https://jobright.ai/jobs/info/6992dcdece78e77b4fd6a3fc?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK, US | On Site | Feb 15 |
+| ↳ | **[Omni Care Internship / Rooms / Summer 2026 (Center of Excellence)](https://jobright.ai/jobs/info/6992e27fe0bddb6acac11ab4?utm_campaign=1058&utm_source=git)** | Oklahoma City, OK, US | On Site | Feb 15 |
+| ↳ | **[Omni Care Internship / Rooms / Summer 2026 (Center of Excellence)](https://jobright.ai/jobs/info/6992d10681476f6176aa68d2?utm_campaign=1058&utm_source=git)** | US-OK-Oklahoma City | On Site | Feb 15 |
 | **[WVU Medicine Thomas Hospitals](https://thomashealth.org)** | **[Stepdown Nurse Intern](https://jobright.ai/jobs/info/69929602ce78e77b4fd643a7?utm_campaign=1058&utm_source=git)** | South Charleston, WV | On Site | Feb 15 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Server Assistant - J1 Intern](https://jobright.ai/jobs/info/69927e790f6f7e7a2cee7c02?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Feb 15 |
 | ↳ | **[Front Desk Agent - J1 Intern](https://jobright.ai/jobs/info/69927e3f0cc8ea15f1dcce50?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Feb 15 |
@@ -130,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Culligan International](http://www.culligan.com/)** | **[Customer Relations Intern](https://jobright.ai/jobs/info/69583205aa05c26e7ab20ded?utm_campaign=1058&utm_source=git)** | Rosemont, IL | On Site | Feb 15 |
 | **[Interac Corp.](http://www.interac.ca)** | **[End User Services Intern](https://jobright.ai/jobs/info/699178820cc8ea15f1dc24ce?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 14 |
 | **[Fairview Hospital / Cleveland Clinic](http://fairviewhospital.org)** | **[Student Nurse Intern PRN](https://jobright.ai/jobs/info/699177146ea51a7610f3e133?utm_campaign=1058&utm_source=git)** | Boerne, TX | On Site | Feb 14 |
-| **[Plan A Health](https://planahealth.org)** | **[Student Nurse Intern PRN](https://jobright.ai/jobs/info/69916b830f6f7e7a2cedc639?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Feb 14 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Pharmacist Intern #347](https://jobright.ai/jobs/info/699182770f6f7e7a2ceddd13?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Feb 14 |
 | **[RG&T Solutions](https://www.linkedin.com/company/109157280)** | **[Intern - Consumer Experience](https://jobright.ai/jobs/info/699177390cc8ea15f1dc23f2?utm_campaign=1058&utm_source=git)** | Lake Spring, MO | On Site | Feb 14 |
 | **[Interac Corp.](http://www.interac.ca)** | **[End User Services Intern](https://jobright.ai/jobs/info/6991337c0f6f7e7a2ced7857?utm_campaign=1058&utm_source=git)** | Toronto | On Site | Feb 14 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Inpatient Pharmacy Intern](https://jobright.ai/jobs/info/6990a9c06ea51a7610f33011?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Feb 14 |
 | **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68c7b5f15c25e576f7b29d6d?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Feb 14 |
 | **[Hilb Group](http://hilbgroup.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6974750937785856350e8ca4?utm_campaign=1058&utm_source=git)** | Richmond, VA | On Site | Feb 14 |
-| **[Overland Park Regional Medical Center](https://www.oprmc.com)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/69744edc37785856350e5331?utm_campaign=1058&utm_source=git)** | Overland Park, KS | On Site | Feb 14 |
-| **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Intern, Technology Service Desk (Houston)](https://jobright.ai/jobs/info/693908c8d52e071e1986483b?utm_campaign=1058&utm_source=git)** | Houston, TX | Remote | Feb 14 |
-| **[Bassett Healthcare Network](https://www.bassett.org/)** | **[Clinical Pharmacy Intern- Oncology](https://jobright.ai/jobs/info/699097040cc8ea15f1db56d2?utm_campaign=1058&utm_source=git)** | Cooperstown, NY | On Site | Feb 14 |
-| **[Rogers Electric](https://www.rogerselectric.com)** | **[IT Intern](https://jobright.ai/jobs/info/68cba2669e3a822f5d249752?utm_campaign=1058&utm_source=git)** | Alpharetta, GA | On Site | Feb 14 |
-| **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern Grad](https://jobright.ai/jobs/info/699093970f6f7e7a2ced06b3?utm_campaign=1058&utm_source=git)** | Toledo, OH | On Site | Feb 14 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/6990933c0f6f7e7a2ced0685?utm_campaign=1058&utm_source=git)** | Topeka, KS | On Site | Feb 14 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/699092986ea51a7610f318d7?utm_campaign=1058&utm_source=git)** | Grove City, OH | On Site | Feb 14 |
-| ↳ | **[Community Management Intern](https://jobright.ai/jobs/info/699092660cc8ea15f1db5562?utm_campaign=1058&utm_source=git)** | Flagstaff, AZ | On Site | Feb 14 |
-| ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/699090340cc8ea15f1db543c?utm_campaign=1058&utm_source=git)** | Newark, OH | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
