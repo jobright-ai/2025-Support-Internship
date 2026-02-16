@@ -89,6 +89,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Knowledgebase Specialist Intern](https://jobright.ai/jobs/info/6992b6ce81476f6176aa3b4c?utm_campaign=1058&utm_source=git)** | Remote - Montana | Remote | Feb 15 |
 | ↳ | **[Knowledgebase Specialist Intern](https://jobright.ai/jobs/info/6992b66dce78e77b4fd67145?utm_campaign=1058&utm_source=git)** | Remote - Ohio | Remote | Feb 15 |
 | ↳ | **[Knowledgebase Specialist Intern](https://jobright.ai/jobs/info/6992b64dce78e77b4fd67111?utm_campaign=1058&utm_source=git)** | Remote - Massachusetts | Remote | Feb 15 |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Internship / Rooms / Summer 2026 (Center of Excellence)](https://jobright.ai/jobs/info/6992d10681476f6176aa68d2?utm_campaign=1058&utm_source=git)** | US-OK-Oklahoma City | On Site | Feb 15 |
 | **[WVU Medicine Thomas Hospitals](https://thomashealth.org)** | **[Stepdown Nurse Intern](https://jobright.ai/jobs/info/69929602ce78e77b4fd643a7?utm_campaign=1058&utm_source=git)** | South Charleston, WV | On Site | Feb 15 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Server Assistant - J1 Intern](https://jobright.ai/jobs/info/69927e790f6f7e7a2cee7c02?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Feb 15 |
 | ↳ | **[Front Desk Agent - J1 Intern](https://jobright.ai/jobs/info/69927e3f0cc8ea15f1dcce50?utm_campaign=1058&utm_source=git)** | St Louis, MO | On Site | Feb 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Information Technology (IT) Intern](https://jobright.ai/jobs/info/6973d82937785856350daa9f?utm_campaign=1058&utm_source=git)** | Kalamazoo, MI | On Site | Feb 14 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Hospitality - Summer 2026](https://jobright.ai/jobs/info/6973e23f37785856350db30b?utm_campaign=1058&utm_source=git)** | Brillion, WI | On Site | Feb 14 |
 | **[Walgreens](https://www.walgreens.com)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6991985a0f6f7e7a2cedebfc?utm_campaign=1058&utm_source=git)** | Heath, OH | On Site | Feb 14 |
-| ↳ | **[Summer Pharmacy Intern](https://jobright.ai/jobs/info/6991594b0f6f7e7a2cedabc6?utm_campaign=1058&utm_source=git)** | Centerville, OH | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
