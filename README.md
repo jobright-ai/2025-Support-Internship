@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/6994e6bfce78e77b4fd8f843?utm_campaign=1058&utm_source=git)** | Teaneck, NJ | On Site | Feb 17 |
+| **[Formic](https://formic.co)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6994e3cfce78e77b4fd8f49c?utm_campaign=1058&utm_source=git)** | Chicago || Woodridge, IL | On Site | Feb 17 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Global Customer References & Advocacy, Content Strategy](https://jobright.ai/jobs/info/6994e25ece78e77b4fd8f2b8?utm_campaign=1058&utm_source=git)** | Newtown Square, PA | Hybrid | Feb 17 |
 | **[Cosette Pharmaceuticals, Inc.](https://cosettepharma.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6994dd0fe0bddb6acac35b9f?utm_campaign=1058&utm_source=git)** | Bridgewater, NJ | Hybrid | Feb 17 |
 | **[Mount Carmel Health System](https://www.mountcarmelhealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6994dca781476f6176acb0af?utm_campaign=1058&utm_source=git)** | Dublin, OH | On Site | Feb 17 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Owensboro)](https://jobright.ai/jobs/info/69822ec7c3101f1400c3d613?utm_campaign=1058&utm_source=git)** | Owensboro, KY | On Site | Feb 17 |
@@ -68,35 +71,42 @@ For a complete list, click the following sortable link below:
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Pharmacy Intern-21868](https://jobright.ai/jobs/info/6994d07e81476f6176aca1ca?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 17 |
 | **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6994cfa481476f6176aca0d4?utm_campaign=1058&utm_source=git)** | Indiana, United States | Hybrid | Feb 17 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[IT Operations Intern](https://jobright.ai/jobs/info/6994ce6d81476f6176ac9f67?utm_campaign=1058&utm_source=git)** | Carmel, IN | On Site | Feb 17 |
+| **[Formic](https://formic.co)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6994ebfd81476f6176acc365?utm_campaign=1058&utm_source=git)** | San Francisco || Oakland, IL | On Site | Feb 17 |
 | **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6994cc88ce78e77b4fd8db9c?utm_campaign=1058&utm_source=git)** | Colorado, United States | Hybrid | Feb 17 |
 | ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6994cc6581476f6176ac9dfd?utm_campaign=1058&utm_source=git)** | South Carolina, United States | Hybrid | Feb 17 |
 | ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6994cc3ece78e77b4fd8db0e?utm_campaign=1058&utm_source=git)** | Virginia, United States | Hybrid | Feb 17 |
 | ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6994cbd4ce78e77b4fd8da63?utm_campaign=1058&utm_source=git)** | Missouri, United States | Hybrid | Feb 17 |
-| ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6994ca86ce78e77b4fd8d75a?utm_campaign=1058&utm_source=git)** | Nebraska, United States | Hybrid | Feb 17 |
+| **[Nokia](http://www.nokia.com)** | **[NPI Lab Support Co-op/Intern](https://jobright.ai/jobs/info/6994ea3581476f6176acc0db?utm_campaign=1058&utm_source=git)** | Kanata, Ontario, Canada | On Site | Feb 17 |
+| **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6994ca86ce78e77b4fd8d75a?utm_campaign=1058&utm_source=git)** | Nebraska, United States | Hybrid | Feb 17 |
 | **[Vibra Healthcare](http://vibrahealthcare.com)** | **[Pharmacy Intern Part Time](https://jobright.ai/jobs/info/6994ca33e0bddb6acac3466b?utm_campaign=1058&utm_source=git)** | Fargo, ND | On Site | Feb 17 |
+| **[Waters Corporation](http://www.waters.com)** | **[Intern, Field Service](https://jobright.ai/jobs/info/698f44360cc8ea15f1d9bcaa?utm_campaign=1058&utm_source=git)** | Seattle, WA | On Site | Feb 17 |
+| **[E-Space](https://www.e-space.com/)** | **[Help Desk Technician Intern](https://jobright.ai/jobs/info/6994e9ebce78e77b4fd8fc7d?utm_campaign=1058&utm_source=git)** | Arlington, TX | On Site | Feb 17 |
 | **[Elev8 Medical](https://www.elev8medical.com)** | **[On-Site Clinical Support Intern](https://jobright.ai/jobs/info/6994c6b8e0bddb6acac3407b?utm_campaign=1058&utm_source=git)** | El Paso, TX | On Site | Feb 17 |
 | **[PING](http://ping.com)** | **[ERP Support Intern](https://jobright.ai/jobs/info/6994c53ee0bddb6acac33d68?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Feb 17 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacist - 2026 Grad Intern ✨Sign On Bonus + Relocation Assistance Possible ✨](https://jobright.ai/jobs/info/6994c28781476f6176ac8cc5?utm_campaign=1058&utm_source=git)** | Reno, NV | On Site | Feb 17 |
 | **[Lumanity](http://lumanity.com/)** | **[Medical Communications Intern](https://jobright.ai/jobs/info/6994c1cee0bddb6acac336c8?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 17 |
 | **[Centerpoint Medical Center](http://www.centerpointmedical.com)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/68eb879f2f64880ca0b58b47?utm_campaign=1058&utm_source=git)** | Independence, MO | On Site | Feb 17 |
+| **[Cone Health](http://www.conehealth.com)** | **[Business Intern](https://jobright.ai/jobs/info/698f8f866ea51a7610f1eecc?utm_campaign=1058&utm_source=git)** | Greensboro, NC | On Site | Feb 17 |
+| **[Meijer](https://www.meijer.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6994e8b381476f6176acbebb?utm_campaign=1058&utm_source=git)** | Zionsville, IN | On Site | Feb 17 |
+| **[Saint Luke's](https://www.saintlukeskc.org)** | **[Pharmacy Intern PRN](https://jobright.ai/jobs/info/6994e3b781476f6176acb870?utm_campaign=1058&utm_source=git)** | Saint Luke's South Hospital   |   12300 Metcalf Ave   |   Overland Park   |   KS | On Site | Feb 17 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6994d50681476f6176aca755?utm_campaign=1058&utm_source=git)** | Des Moines Metro | On Site | Feb 17 |
 | **[Maxim Healthcare](https://www.maximhealthcare.com)** | **[HQ Intern - IS Applications](https://jobright.ai/jobs/info/6994b690e0bddb6acac327e6?utm_campaign=1058&utm_source=git)** | Columbia, MD | On Site | Feb 17 |
 | **[Faurecia](https://www.forvia.com)** | **[Year-Round IT Intern](https://jobright.ai/jobs/info/6994dc7381476f6176acb077?utm_campaign=1058&utm_source=git)** | Northville, MI | On Site | Feb 17 |
 | **[RDO Equipment Co.](http://www.rdoequipment.com/)** | **[Access Your Future Service Intern](https://jobright.ai/jobs/info/695c65a3aa05c26e7ab5cef3?utm_campaign=1058&utm_source=git)** | Prescott, AZ | On Site | Feb 17 |
-| **[E-Space](https://www.e-space.com/)** | **[Help Desk Technician Intern](https://jobright.ai/jobs/info/6994dca581476f6176acb0ad?utm_campaign=1058&utm_source=git)** | Arlington, TX | On Site | Feb 17 |
 | **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6994d9d681476f6176acad43?utm_campaign=1058&utm_source=git)** | New Jersey, United States | Hybrid | Feb 17 |
+| ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6994db4c81476f6176acaf21?utm_campaign=1058&utm_source=git)** | Illinois, United States | Hybrid | Feb 17 |
 | ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6994d760e0bddb6acac35459?utm_campaign=1058&utm_source=git)** | Ohio, United States | Hybrid | Feb 17 |
 | ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6994d4b681476f6176aca6e3?utm_campaign=1058&utm_source=git)** | Michigan, United States | Hybrid | Feb 17 |
 | ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6994d1ca81476f6176aca346?utm_campaign=1058&utm_source=git)** | Texas, United States | Hybrid | Feb 17 |
-| ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6994db4c81476f6176acaf21?utm_campaign=1058&utm_source=git)** | Illinois, United States | Hybrid | Feb 17 |
 | ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6994d286ce78e77b4fd8e0f6?utm_campaign=1058&utm_source=git)** | Florida, United States | Hybrid | Feb 17 |
-| ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6994dc7f81476f6176acb084?utm_campaign=1058&utm_source=git)** | North Carolina, United States | Hybrid | Feb 17 |
-| ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6994db2de0bddb6acac35921?utm_campaign=1058&utm_source=git)** | Georgia, United States | Hybrid | Feb 17 |
-| ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6994d91681476f6176acac62?utm_campaign=1058&utm_source=git)** | Iowa, United States | Hybrid | Feb 17 |
 | ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6994d0aa81476f6176aca1f8?utm_campaign=1058&utm_source=git)** | Minnesota, United States | Hybrid | Feb 17 |
-| ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6994d36481476f6176aca535?utm_campaign=1058&utm_source=git)** | Madison, WI | Hybrid | Feb 17 |
+| ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6994dc7f81476f6176acb084?utm_campaign=1058&utm_source=git)** | North Carolina, United States | Hybrid | Feb 17 |
+| ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6994dfc1e0bddb6acac35f1e?utm_campaign=1058&utm_source=git)** | Madison, WI | Hybrid | Feb 17 |
+| ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6994d91681476f6176acac62?utm_campaign=1058&utm_source=git)** | Iowa, United States | Hybrid | Feb 17 |
+| ↳ | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6994db2de0bddb6acac35921?utm_campaign=1058&utm_source=git)** | Georgia, United States | Hybrid | Feb 17 |
 | **[Wonderful Orchards](http://wonderfulorchards.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/6994db0dce78e77b4fd8eb26?utm_campaign=1058&utm_source=git)** | Shafter, CA | On Site | Feb 17 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Corporate Applications Intern](https://jobright.ai/jobs/info/6994d1d181476f6176aca34f?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 17 |
+| ↳ | **[Corporate Applications Intern](https://jobright.ai/jobs/info/6994ea23e0bddb6acac36c3c?utm_campaign=1058&utm_source=git)** | Toronto | Hybrid | Feb 17 |
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6943e68d94730b7398771073?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Feb 17 |
 | **[Sasser, Inc.](https://www.sasser.com/)** | **[Customer Experience Analytics Intern](https://jobright.ai/jobs/info/6994a60481476f6176ac6949?utm_campaign=1058&utm_source=git)** | Oak Brook, IL | Hybrid | Feb 17 |
 | **[Maxim Healthcare](https://www.maximhealthcare.com)** | **[HQ Intern - IS End User Computing](https://jobright.ai/jobs/info/6994c65dce78e77b4fd8d096?utm_campaign=1058&utm_source=git)** | Columbia, MD | On Site | Feb 17 |
@@ -104,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Army Navy Country Club](http://www.ancc.org)** | **[Fairfax Food & Beverage Intern](https://jobright.ai/jobs/info/6994b99fce78e77b4fd8b814?utm_campaign=1058&utm_source=git)** | Fairfax, VA, US | On Site | Feb 17 |
 | **[BMO](http://www.bmo.com)** | **[Customer Service Representative (Co-op/Internship), Summer 2026 - 4 months](https://jobright.ai/jobs/info/69949611e0bddb6acac3082e?utm_campaign=1058&utm_source=git)** | Kirkland, QC, CAN | On Site | Feb 17 |
 | **[Waters Corporation](http://www.waters.com)** | **[Intern, Field Service](https://jobright.ai/jobs/info/698f4da30cc8ea15f1d9cb28?utm_campaign=1058&utm_source=git)** | Nashville, TN | On Site | Feb 17 |
-| **[State of Colorado](https://www.colorado.gov/pacific/sipa)** | **[TEMPORARY Customer Service Representative Technician – Colorado Springs Office](https://jobright.ai/jobs/info/6994dade81476f6176acae8f?utm_campaign=1058&utm_source=git)** | Colorado Springs, CO | On Site | Feb 17 |
 | **[POWERX](http://www.powerxco.com)** | **[Business Support Intern](https://jobright.ai/jobs/info/6994c5ffce78e77b4fd8cfcf?utm_campaign=1058&utm_source=git)** | Phoenix, Arizona, Phoenix, AZ, US | On Site | Feb 17 |
 | ↳ | **[Field Service Technician Intern](https://jobright.ai/jobs/info/6994c53b81476f6176ac9213?utm_campaign=1058&utm_source=git)** | Phoenix, Arizona, Phoenix, AZ, US | On Site | Feb 17 |
 | **[Montage International](https://www.montageinternational.com)** | **[Food & Beverage Internship / Montage Palmetto Bluff](https://jobright.ai/jobs/info/695c39d1aa05c26e7ab58a1c?utm_campaign=1058&utm_source=git)** | Bluffton, SC | On Site | Feb 17 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Case Management Intern](https://jobright.ai/jobs/info/6940779349a7695fbd05f6a3?utm_campaign=1058&utm_source=git)** | Gaithersburg, MD | Hybrid | Feb 17 |
 | **[Viega LLC](https://viega.us)** | **[VMI Intern](https://jobright.ai/jobs/info/6977f7ac52f3c27ec6442fb7?utm_campaign=1058&utm_source=git)** | McPherson, KS | On Site | Feb 17 |
 | **[Guthrie](http://www.guthrie.org)** | **[Pharmacy Intern - Pharmacy - Per Diem](https://jobright.ai/jobs/info/683e1a591ef6a607193d3ec8?utm_campaign=1058&utm_source=git)** | Binghamton, NY | On Site | Feb 17 |
-| **[Moffitt Cancer Center](http://moffitt.org)** | **[APP Internal and Hospital Medicine Fellow](https://jobright.ai/jobs/info/69945534ce78e77b4fd8482f?utm_campaign=1058&utm_source=git)** | Tampa, FL | On Site | Feb 17 |
-| **[EQ Bank](http://www.eqbank.ca)** | **[Technology Workplace Services (TWS) Intern - Summer 2026](https://jobright.ai/jobs/info/69781515fdeb8243a27b0b1c?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 17 |
-| **[Michelin](http://www.michelin.com/)** | **[2026 Summer IT Intern Greenville, SC](https://jobright.ai/jobs/info/6933b770a0dde7020e2f0ca2?utm_campaign=1058&utm_source=git)** | Greenville, SC | On Site | Feb 17 |
-| **[Centric Consulting](http://centricconsulting.com/)** | **[Salesforce Intern](https://jobright.ai/jobs/info/6977f22988e2b47213bbfa65?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 17 |
-| **[CalPortland](https://www.calportland.com)** | **[Service Desk Intern](https://jobright.ai/jobs/info/6940d22749a7695fbd065992?utm_campaign=1058&utm_source=git)** | Glendora, CA | On Site | Feb 17 |
-| **[Bob Evans Farms, Inc.](https://www.bobevansgrocery.com/)** | **[Information Technology Applications & Technical Support Intern Summer 2026](https://jobright.ai/jobs/info/69780e3b88e2b47213bc1259?utm_campaign=1058&utm_source=git)** | New Albany, OH | On Site | Feb 17 |
-| **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6952d982f1f8465b79ea22d4?utm_campaign=1058&utm_source=git)** | Waltham, MA | Hybrid | Feb 17 |
-| **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Customer Experience (CX) Intern](https://jobright.ai/jobs/info/6977fd1f52f3c27ec64436cb?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Feb 17 |
-| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Desktop Support Services Internship](https://jobright.ai/jobs/info/695c07a5aa05c26e7ab55abf?utm_campaign=1058&utm_source=git)** | Schenectady, NY | On Site | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
