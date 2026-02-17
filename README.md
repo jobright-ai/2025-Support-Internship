@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The University of Kansas Health System](https://www.kansashealthsystem.com)** | **[Patient Care Assistant/CNA Intern Program, Nights & DAYs - June 2026 program](https://jobright.ai/jobs/info/69943afece78e77b4fd82edc?utm_campaign=1058&utm_source=git)** | Kansas City, KS | On Site | Feb 17 |
+| **[MathWorks](http://www.mathworks.com)** | **[Technical Documentation Intern - Graduate](https://jobright.ai/jobs/info/695216b429655e4dd65aefc3?utm_campaign=1058&utm_source=git)** | Natick, MA | Hybrid | Feb 17 |
 | **[EP Wealth Advisors](https://www.epwealth.com)** | **[Client Relations Intern](https://jobright.ai/jobs/info/6994356181476f6176abef36?utm_campaign=1058&utm_source=git)** | San Luis Obispo, CA | On Site | Feb 17 |
 | **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Computer Specialist Intern - Summer 2026](https://jobright.ai/jobs/info/6993ecd481476f6176ab8d26?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Feb 17 |
 | **[University of Michigan](https://www.umich.edu)** | **[PHARM INTERN TECH (TEMP)](https://jobright.ai/jobs/info/69942f0181476f6176abe91c?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 17 |
@@ -102,17 +104,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/6993da66e0bddb6acac220fc?utm_campaign=1058&utm_source=git)** | Page, AZ | On Site | Feb 16 |
 | **[Nomad eCommerce](https://www.nomad.site/)** | **[Technical Writer Intern](https://jobright.ai/jobs/info/6993da66ce78e77b4fd7adf4?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 16 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern II](https://jobright.ai/jobs/info/6993e68981476f6176ab8458?utm_campaign=1058&utm_source=git)** | US-FL-Panama City | On Site | Feb 16 |
-| ↳ | **[Nurse Intern - Respiratory Stroke Intermediate Care](https://jobright.ai/jobs/info/6993dab7ce78e77b4fd7ae43?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Feb 16 |
 | ↳ | **[Nurse Intern - Respiratory Stroke Intermediate Care](https://jobright.ai/jobs/info/6993eb4981476f6176ab8b4b?utm_campaign=1058&utm_source=git)** | Wichita, KS, US | On Site | Feb 16 |
-| **[UChicago Medicine](https://www.uchicagomedicine.org/)** | **[Student Pharmacy Intern, Meds 2 Beds, Days](https://jobright.ai/jobs/info/6993d54cce78e77b4fd7a8b8?utm_campaign=1058&utm_source=git)** | Chicago, IL, US | On Site | Feb 16 |
-| ↳ | **[Student Pharmacy Intern, Meds 2 Beds, Days](https://jobright.ai/jobs/info/6993e2a3e0bddb6acac22a21?utm_campaign=1058&utm_source=git)** | US-IL-Chicago | On Site | Feb 16 |
-| **[Silvi Materials](http://silvi.com)** | **[IT Intern](https://jobright.ai/jobs/info/6993da0a81476f6176ab7465?utm_campaign=1058&utm_source=git)** | US-PA-Fairless Hills | On Site | Feb 16 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6993db1fe0bddb6acac221b7?utm_campaign=1058&utm_source=git)** | Fairless Hills, PA, US | On Site | Feb 16 |
+| ↳ | **[Nurse Intern - Respiratory Stroke Intermediate Care](https://jobright.ai/jobs/info/6993dab7ce78e77b4fd7ae43?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Feb 16 |
+| **[UChicago Medicine](https://www.uchicagomedicine.org/)** | **[Student Pharmacy Intern, Meds 2 Beds, Days](https://jobright.ai/jobs/info/6993e2a3e0bddb6acac22a21?utm_campaign=1058&utm_source=git)** | US-IL-Chicago | On Site | Feb 16 |
+| ↳ | **[Student Pharmacy Intern, Meds 2 Beds, Days](https://jobright.ai/jobs/info/6993d54cce78e77b4fd7a8b8?utm_campaign=1058&utm_source=git)** | Chicago, IL, US | On Site | Feb 16 |
+| **[Silvi Materials](http://silvi.com)** | **[IT Intern](https://jobright.ai/jobs/info/6993db1fe0bddb6acac221b7?utm_campaign=1058&utm_source=git)** | Fairless Hills, PA, US | On Site | Feb 16 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/6993da0a81476f6176ab7465?utm_campaign=1058&utm_source=git)** | US-PA-Fairless Hills | On Site | Feb 16 |
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[Pharmacy Intern - Per Diem / Flexible Hours](https://jobright.ai/jobs/info/6993d8e2e0bddb6acac21f4d?utm_campaign=1058&utm_source=git)** | Cincinnati, OH, US | On Site | Feb 16 |
 | **[XiFin, Inc.](http://www.xifin.com)** | **[Software Support Intern](https://jobright.ai/jobs/info/6993afcc81476f6176ab4a9d?utm_campaign=1058&utm_source=git)** | SD Metro Area | On Site | Feb 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6993acb4e0bddb6acac1f3ca?utm_campaign=1058&utm_source=git)** | Lodi, CA | On Site | Feb 16 |
-| **[Atlantic Health](http://www.atlantichealth.org)** | **[Visiting Nurse Services (Medical Records) Intern](https://jobright.ai/jobs/info/6993cd46e0bddb6acac2149b?utm_campaign=1058&utm_source=git)** | Morristown, NJ | On Site | Feb 16 |
-| ↳ | **[Visiting Nurse Services (Hospice) Intern](https://jobright.ai/jobs/info/6993cb19ce78e77b4fd79f98?utm_campaign=1058&utm_source=git)** | Morristown, NJ | On Site | Feb 16 |
+| **[Atlantic Health](http://www.atlantichealth.org)** | **[Visiting Nurse Services (Hospice) Intern](https://jobright.ai/jobs/info/6993cb19ce78e77b4fd79f98?utm_campaign=1058&utm_source=git)** | Morristown, NJ | On Site | Feb 16 |
+| ↳ | **[Visiting Nurse Services (Medical Records) Intern](https://jobright.ai/jobs/info/6993cd46e0bddb6acac2149b?utm_campaign=1058&utm_source=git)** | Morristown, NJ | On Site | Feb 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6993a5fae0bddb6acac1ecf5?utm_campaign=1058&utm_source=git)** | Chester, NJ | On Site | Feb 16 |
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6993a3b9e0bddb6acac1eab4?utm_campaign=1058&utm_source=git)** | Staten Island, NY | On Site | Feb 16 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Senior Resident Services Coordinator](https://jobright.ai/jobs/info/6938d5edb95c305f206e0b7f?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Methodist Health System](http://jobs.methodisthealthsystem.org)** | **[Patient Care Intern - Progressive Care Unit](https://jobright.ai/jobs/info/699365bfe0bddb6acac1ad2f?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Feb 16 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Intensive Care Unit, Nurse Intern, PRN Days](https://jobright.ai/jobs/info/699393b9e0bddb6acac1dc06?utm_campaign=1058&utm_source=git)** | Orlando, FL | On Site | Feb 16 |
 | **[Trean Corporation](https://www.treancorp.com/)** | **[Claims Intern](https://jobright.ai/jobs/info/6993976381476f6176ab2a01?utm_campaign=1058&utm_source=git)** | Maitland,FL,US | On Site | Feb 16 |
-| **[The University of Kansas Health System](https://www.kansashealthsystem.com)** | **[Patient Care Assistant/CNA Intern Program, Nights & DAYs - June 2026 program](https://jobright.ai/jobs/info/6993ab11ce78e77b4fd77ebc?utm_campaign=1058&utm_source=git)** | Kansas City, KS | On Site | Feb 16 |
-| **[National Museum of Women in the Arts](https://nmwa.org/)** | **[Margaret and Peter Dzwilewski Library and Research Center Intern](https://jobright.ai/jobs/info/6993b6fde0bddb6acac1ffee?utm_campaign=1058&utm_source=git)** | WASHINGTON,DC,US | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
