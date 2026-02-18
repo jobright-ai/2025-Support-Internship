@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/699573aa81476f6176ad634a?utm_campaign=1058&utm_source=git)** | Antioch, CA | On Site | Feb 18 |
 | **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/69956259e0bddb6acac3f2b9?utm_campaign=1058&utm_source=git)** | Berkeley, CA | On Site | Feb 17 |
 | **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/699408ffe0bddb6acac263bc?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | Feb 17 |
+| **[Safeway](http://www.safeway.com)** | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/69957a9ace78e77b4fd9a4ac?utm_campaign=1058&utm_source=git)** | Chico, CA | On Site | Feb 17 |
+| ↳ | **[Pharmacy Graduate Intern](https://jobright.ai/jobs/info/699587afe0bddb6acac41d4a?utm_campaign=1058&utm_source=git)** | Del Rey Oaks, CA | On Site | Feb 17 |
+| **[LMCU](https://www.lmcu.org/)** | **[ServiceNow Intern](https://jobright.ai/jobs/info/69958130e0bddb6acac41a16?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Feb 17 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Warehouse Support Intern](https://jobright.ai/jobs/info/6995669181476f6176ad57c8?utm_campaign=1058&utm_source=git)** | Washington, United States | Hybrid | Feb 17 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support (Electro-Mechanical Lab Technician)](https://jobright.ai/jobs/info/69953958ce78e77b4fd9549e?utm_campaign=1058&utm_source=git)** | Colchester, VT | On Site | Feb 17 |
 | **[OhioHealth](https://www.ohiohealth.com/)** | **[Pharmacy Intern - Grady](https://jobright.ai/jobs/info/6995323681476f6176ad11a8?utm_campaign=1058&utm_source=git)** | Delaware, OH | On Site | Feb 17 |
@@ -93,22 +95,22 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Service Support Intern - Housing Choice Voucher Program (Part-Time, Temporary)](https://jobright.ai/jobs/info/69952d5a81476f6176ad0bfb?utm_campaign=1058&utm_source=git)** | Tukwila, WA | On Site | Feb 17 |
 | ↳ | **[Customer Service Support Intern](https://jobright.ai/jobs/info/699527ede0bddb6acac3af9f?utm_campaign=1058&utm_source=git)** | Auburn, WA | On Site | Feb 17 |
 | **[Community Health Network](https://www.ecommunity.com/)** | **[Graduate Intern- Operating Room - Community Hospital North](https://jobright.ai/jobs/info/699530bae0bddb6acac3b8a5?utm_campaign=1058&utm_source=git)** | Indianapolis, IN | On Site | Feb 17 |
-| **[OhioHealth](https://www.ohiohealth.com/)** | **[Pharmacy Intern - Grady](https://jobright.ai/jobs/info/6995383e81476f6176ad196f?utm_campaign=1058&utm_source=git)** | DELAWARE MEDICAL CAMPUS | On Site | Feb 17 |
-| ↳ | **[Pharmacy Intern - Grady](https://jobright.ai/jobs/info/699529d3ce78e77b4fd9410b?utm_campaign=1058&utm_source=git)** | GRADY MEMORIAL HOSPITAL | On Site | Feb 17 |
+| **[OhioHealth](https://www.ohiohealth.com/)** | **[Pharmacy Intern - Grady](https://jobright.ai/jobs/info/699529d3ce78e77b4fd9410b?utm_campaign=1058&utm_source=git)** | GRADY MEMORIAL HOSPITAL | On Site | Feb 17 |
+| ↳ | **[Pharmacy Intern - Grady](https://jobright.ai/jobs/info/6995383e81476f6176ad196f?utm_campaign=1058&utm_source=git)** | DELAWARE MEDICAL CAMPUS | On Site | Feb 17 |
 | **[CASA DE LA FAMILIA](https://www.casadelafamilia.org)** | **[Nonprofit Events and Hospitality Intern](https://jobright.ai/jobs/info/6995326cce78e77b4fd94ca3?utm_campaign=1058&utm_source=git)** | Santa Ana, CA | On Site | Feb 17 |
-| **[Marvin](http://www.marvin.com/)** | **[Customer Services Intern](https://jobright.ai/jobs/info/6995285ae0bddb6acac3b001?utm_campaign=1058&utm_source=git)** | Warroad, MN, US | On Site | Feb 17 |
-| ↳ | **[Customer Services Intern](https://jobright.ai/jobs/info/69952ae9ce78e77b4fd942fb?utm_campaign=1058&utm_source=git)** | US-MN-Warroad | On Site | Feb 17 |
-| **[Lumanity](http://lumanity.com/)** | **[Medical Communications Intern - Residing within a 2 hour commute of Yardley, PA or Morristown, NJ](https://jobright.ai/jobs/info/699525dbce78e77b4fd93e10?utm_campaign=1058&utm_source=git)** | Yardley, PA, US | Hybrid | Feb 17 |
-| ↳ | **[Medical Communications Intern - Residing within a 2 hour commute of Yardley, PA or Morristown, NJ](https://jobright.ai/jobs/info/699538b3e0bddb6acac3c150?utm_campaign=1058&utm_source=git)** | US-PA-Yardley | Hybrid | Feb 17 |
+| **[Marvin](http://www.marvin.com/)** | **[Customer Services Intern](https://jobright.ai/jobs/info/69952ae9ce78e77b4fd942fb?utm_campaign=1058&utm_source=git)** | US-MN-Warroad | On Site | Feb 17 |
+| ↳ | **[Customer Services Intern](https://jobright.ai/jobs/info/6995285ae0bddb6acac3b001?utm_campaign=1058&utm_source=git)** | Warroad, MN, US | On Site | Feb 17 |
+| **[Lumanity](http://lumanity.com/)** | **[Medical Communications Intern - Residing within a 2 hour commute of Yardley, PA or Morristown, NJ](https://jobright.ai/jobs/info/699538b3e0bddb6acac3c150?utm_campaign=1058&utm_source=git)** | US-PA-Yardley | Hybrid | Feb 17 |
+| ↳ | **[Medical Communications Intern - Residing within a 2 hour commute of Yardley, PA or Morristown, NJ](https://jobright.ai/jobs/info/699525dbce78e77b4fd93e10?utm_campaign=1058&utm_source=git)** | Yardley, PA, US | Hybrid | Feb 17 |
 | **[Steelcase](https://www.steelcase.com/)** | **[2026 Year-Round Client Experience Intern](https://jobright.ai/jobs/info/699530d5e0bddb6acac3b8c4?utm_campaign=1058&utm_source=git)** | Grand Rapids, MI | On Site | Feb 17 |
-| **[Ascension](https://healthcare.ascension.org)** | **[CV Tech Intern Cath Lab](https://jobright.ai/jobs/info/6995414681476f6176ad238e?utm_campaign=1058&utm_source=git)** | US-OK-Tulsa | On Site | Feb 17 |
-| ↳ | **[CV Tech Intern Cath Lab](https://jobright.ai/jobs/info/699543d7e0bddb6acac3cf95?utm_campaign=1058&utm_source=git)** | Tulsa, OK, US | On Site | Feb 17 |
+| **[Ascension](https://healthcare.ascension.org)** | **[CV Tech Intern Cath Lab](https://jobright.ai/jobs/info/699543d7e0bddb6acac3cf95?utm_campaign=1058&utm_source=git)** | Tulsa, OK, US | On Site | Feb 17 |
+| ↳ | **[CV Tech Intern Cath Lab](https://jobright.ai/jobs/info/6995414681476f6176ad238e?utm_campaign=1058&utm_source=git)** | US-OK-Tulsa | On Site | Feb 17 |
 | ↳ | **[Nursing Intern Med Surg](https://jobright.ai/jobs/info/69951e0be0bddb6acac3a5d2?utm_campaign=1058&utm_source=git)** | US-WI-Franklin | On Site | Feb 17 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support (Electro-Mechanical Lab Technician)](https://jobright.ai/jobs/info/69953779e0bddb6acac3be30?utm_campaign=1058&utm_source=git)** | US-VT-Colchester | On Site | Feb 17 |
-| ↳ | **[Intern, Technical Support (Electro-Mechanical Lab Technician)](https://jobright.ai/jobs/info/69952971ce78e77b4fd940cf?utm_campaign=1058&utm_source=git)** | Colchester, VT, US | On Site | Feb 17 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support (Electro-Mechanical Lab Technician)](https://jobright.ai/jobs/info/69952971ce78e77b4fd940cf?utm_campaign=1058&utm_source=git)** | Colchester, VT, US | On Site | Feb 17 |
+| ↳ | **[Intern, Technical Support (Electro-Mechanical Lab Technician)](https://jobright.ai/jobs/info/69953779e0bddb6acac3be30?utm_campaign=1058&utm_source=git)** | US-VT-Colchester | On Site | Feb 17 |
 | **[Fulton Bank](https://www.fultonbank.com/)** | **[Military Internship - IT Support Center (Remote)](https://jobright.ai/jobs/info/699521a4e0bddb6acac3a958?utm_campaign=1058&utm_source=git)** | US-PA-Remote | Remote | Feb 17 |
-| ↳ | **[Military Internship - IT Support Center (Remote)](https://jobright.ai/jobs/info/69952b56ce78e77b4fd94373?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 17 |
 | ↳ | **[Military Internship - IT Support Center (Remote)](https://jobright.ai/jobs/info/6995284381476f6176ad0590?utm_campaign=1058&utm_source=git)** | Remote, PA, US | Remote | Feb 17 |
+| ↳ | **[Military Internship - IT Support Center (Remote)](https://jobright.ai/jobs/info/69952b56ce78e77b4fd94373?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 17 |
 | **[Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the-johns-hopkins-hospital)** | **[Patient Care Tech intern - CNA - Adult Oncology 5D](https://jobright.ai/jobs/info/699523fc81476f6176ad01a5?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Feb 17 |
 | ↳ | **[Patient Care Tech intern - CNA - Adult Oncology 5C](https://jobright.ai/jobs/info/69951a8f81476f6176acf7e9?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Feb 17 |
 | **[Mercy](https://www.mercy.net/practice/mercy-hospital-st-louis/)** | **[Ada - Sonography Intern - Part time](https://jobright.ai/jobs/info/69953c93e0bddb6acac3c725?utm_campaign=1058&utm_source=git)** | Mercy Hospital Ada | On Site | Feb 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PAID ODOT College Intern, Office of Information Technology, PN 20079868](https://jobright.ai/jobs/info/69950c2dce78e77b4fd923ef?utm_campaign=1058&utm_source=git)** | United States of America-OHIO-Tuscarawas County-New Philadelphia | On Site | Feb 17 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[IT Operations Intern](https://jobright.ai/jobs/info/6994ce6d81476f6176ac9f67?utm_campaign=1058&utm_source=git)** | Carmel, IN | On Site | Feb 17 |
 | **[Children's Minnesota](https://www.childrensmn.org/)** | **[Medical Imaging Intern](https://jobright.ai/jobs/info/6994f2b181476f6176accd03?utm_campaign=1058&utm_source=git)** | St Paul, MN | On Site | Feb 17 |
-| **[Formic](https://formic.co)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6994ebfd81476f6176acc365?utm_campaign=1058&utm_source=git)** | San Francisco || Oakland, IL | On Site | Feb 17 |
-| **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[IT Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/6994cc88ce78e77b4fd8db9c?utm_campaign=1058&utm_source=git)** | Colorado, United States | Hybrid | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
