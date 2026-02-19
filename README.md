@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International](https://www.international.com)** | **[General IT Intern](https://jobright.ai/jobs/info/69327404764507023d1aed50?utm_campaign=1058&utm_source=git)** | Lisle, IL | On Site | Feb 19 |
+| **[CHI](https://www.catholichealthinitiatives.org/)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/6996cb8881476f6176aecaae?utm_campaign=1058&utm_source=git)** | Bryan, TX | On Site | Feb 19 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Customer Service Intern](https://jobright.ai/jobs/info/6996bb74ce78e77b4fdaf58d?utm_campaign=1058&utm_source=git)** | Teaneck, NJ | On Site | Feb 18 |
+| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/6996d0c7e0bddb6acac56f0a?utm_campaign=1058&utm_source=git)** | Renton, WA | On Site | Feb 18 |
+| **[ISACA](http://www.isaca.org)** | **[Intern, IT Service Desk](https://jobright.ai/jobs/info/6996c98981476f6176aec8f9?utm_campaign=1058&utm_source=git)** | US-IL-Schaumburg - Hybrid | Hybrid | Feb 18 |
 | **[Xometry](https://www.xometry.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/695ab318aa05c26e7ab4364b?utm_campaign=1058&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 18 |
 | **[HCA HealthONE](http://www.healthonecares.com/)** | **[Radiology Student Intern PRN](https://jobright.ai/jobs/info/6996945181476f6176ae7763?utm_campaign=1058&utm_source=git)** | Aurora, CO | On Site | Feb 18 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern - High School-Business Services](https://jobright.ai/jobs/info/69969174ce78e77b4fdaadc4?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Feb 18 |
@@ -81,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Fort Lauderdale](https://jobright.ai/jobs/info/699699e281476f6176ae8109?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 18 |
 | **[UL Research Institutes](https://ul.org)** | **[Summer 2026 Intern Library & Researcher Information Services](https://jobright.ai/jobs/info/69718f28333b6343a14e2a10?utm_campaign=1058&utm_source=git)** | Evanston, IL | On Site | Feb 18 |
 | **[North Okaloosa Medical Center](http://www.northokaloosa.com)** | **[RN Nurse Intern MedSurg PRN](https://jobright.ai/jobs/info/6996988a81476f6176ae7f1c?utm_campaign=1058&utm_source=git)** | Crestview, FL | On Site | Feb 18 |
-| **[Brown University Health](https://www.brownhealth.org)** | **[MG Medical Assistant Intern](https://jobright.ai/jobs/info/69969e2dce78e77b4fdac2d8?utm_campaign=1058&utm_source=git)** | North Dartmouth, MA | On Site | Feb 18 |
 | **[Dynatrace](https://www.dynatrace.com)** | **[D1 Support Operations Intern](https://jobright.ai/jobs/info/69968f9481476f6176ae7027?utm_campaign=1058&utm_source=git)** | Detroit, MI | Hybrid | Feb 18 |
 | **[Fresenius Kabi USA](http://www.fresenius-kabi.us)** | **[INTERN-TECH TRANSFER](https://jobright.ai/jobs/info/699694c0ce78e77b4fdab394?utm_campaign=1058&utm_source=git)** | Grand Island, NY | On Site | Feb 18 |
 | **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[IT Support and Operations Intern](https://jobright.ai/jobs/info/69966212ce78e77b4fda6bc4?utm_campaign=1058&utm_source=git)** | Orem, UT | On Site | Feb 18 |
@@ -106,9 +109,9 @@ For a complete list, click the following sortable link below:
 | **[Critical Mass](http://www.criticalmass.com/)** | **[Client Services Intern](https://jobright.ai/jobs/info/6996618ece78e77b4fda6b27?utm_campaign=1058&utm_source=git)** | Chicago | Hybrid | Feb 18 |
 | **[State Bank of Southern Utah](http://sbsu.com)** | **[Intern - IT](https://jobright.ai/jobs/info/6996641581476f6176ae34e8?utm_campaign=1058&utm_source=git)** | Cedar City, UT | On Site | Feb 18 |
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/69969620ce78e77b4fdab5c1?utm_campaign=1058&utm_source=git)** | Georgia, United States | On Site | Feb 18 |
-| ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6996930bce78e77b4fdab003?utm_campaign=1058&utm_source=git)** | Office - Atlanta (Galleria) | On Site | Feb 18 |
-| ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/69966c2181476f6176ae3d79?utm_campaign=1058&utm_source=git)** | Tennessee, United States | On Site | Feb 18 |
 | ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6996968ee0bddb6acac51996?utm_campaign=1058&utm_source=git)** | South Carolina, United States | On Site | Feb 18 |
+| ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/69966c2181476f6176ae3d79?utm_campaign=1058&utm_source=git)** | Tennessee, United States | On Site | Feb 18 |
+| ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/6996930bce78e77b4fdab003?utm_campaign=1058&utm_source=git)** | Office - Atlanta (Galleria) | On Site | Feb 18 |
 | **[Critical Mass](http://www.criticalmass.com/)** | **[Client Services Intern](https://jobright.ai/jobs/info/699638e5ce78e77b4fda2e79?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 18 |
 | **[State of Ohio](https://development.ohio.gov/)** | **[College Intern - Bureau of Motor Vehicles Investigations](https://jobright.ai/jobs/info/699638acce78e77b4fda2e38?utm_campaign=1058&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Feb 18 |
 | **[RIVA Solutions, Inc.](https://rivasolutionsinc.com)** | **[Client Delivery Intern](https://jobright.ai/jobs/info/69966b3381476f6176ae3c23?utm_campaign=1058&utm_source=git)** | Reston, VA | Hybrid | Feb 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, IT Support](https://jobright.ai/jobs/info/69964250ce78e77b4fda3c0b?utm_campaign=1058&utm_source=git)** | Greenwood Village, CO | On Site | Feb 18 |
 | ↳ | **[STARZ Intern, IT Support](https://jobright.ai/jobs/info/69965d7181476f6176ae2bf7?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 18 |
 | **[Brown University Health](https://www.brownhealth.org)** | **[MG Medical Assistant Intern](https://jobright.ai/jobs/info/69964064ce78e77b4fda393c?utm_campaign=1058&utm_source=git)** | Providence, RI | On Site | Feb 18 |
-| **[AEVEX](https://www.aevex.com/)** | **[IT Support Specialist - INTERN](https://jobright.ai/jobs/info/69963b7ae0bddb6acac49e5a?utm_campaign=1058&utm_source=git)** | Solana Beach, CA | On Site | Feb 18 |
-| **[Toshiba International Corporation](http://www.toshiba.com/tic)** | **[Field Service Intern](https://jobright.ai/jobs/info/699637f1ce78e77b4fda2d3b?utm_campaign=1058&utm_source=git)** | Houston, TX 77041, USA | On Site | Feb 18 |
-| **[Upic Solutions](https://upicsolutions.org/)** | **[Data Entry-SkillBridge Internship](https://jobright.ai/jobs/info/699636fece78e77b4fda2c89?utm_campaign=1058&utm_source=git)** | 7870 E Kemper Rd suite 470, Cincinnati, OH 45249, USA | Remote | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
