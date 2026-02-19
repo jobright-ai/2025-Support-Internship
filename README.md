@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Siemens](https://www.siemens.com)** | **[Customer Experience & Support Internship](https://jobright.ai/jobs/info/6997566981476f6176af7c0c?utm_campaign=1058&utm_source=git)** | Wendell, NC | On Site | Feb 19 |
+| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Senior Resident Services Coordinator](https://jobright.ai/jobs/info/6938d5edb95c305f206e0b7f?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
+| **[Cribl](https://www.cribl.io)** | **[Customer Experience Ops Intern](https://jobright.ai/jobs/info/69974964e0bddb6acac60d2d?utm_campaign=1058&utm_source=git)** | Remote - San Francisco, California | Remote | Feb 19 |
 | **[NYC Department of Finance](http://www.nyc.gov/html/dof/html/home/home.shtml)** | **[ITAM Graduate Intern](https://jobright.ai/jobs/info/69974937ce78e77b4fdba9ec?utm_campaign=1058&utm_source=git)** | Manhattan, NY | On Site | Feb 19 |
 | **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Clinical Student Intern - Radiology](https://jobright.ai/jobs/info/6991699b0f6f7e7a2cedbcab?utm_campaign=1058&utm_source=git)** | Springdale, AR | On Site | Feb 19 |
 | **[Benco Dental](https://www.benco.com/)** | **[IT and Software Solutions Intern (Summer 2026)](https://jobright.ai/jobs/info/699748b6e0bddb6acac60aae?utm_campaign=1058&utm_source=git)** | Pittston, PA | Hybrid | Feb 19 |
@@ -130,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Action Behavior Centers - ABA Therapy for Autism](https://www.actionbehavior.com)** | **[INTERNAL ONLY Clinic Admissions Associate](https://jobright.ai/jobs/info/69968faae0bddb6acac510c1?utm_campaign=1058&utm_source=git)** | North Central Carrollton, TX | On Site | Feb 18 |
 | **[Brown University Health](https://www.brownhealth.org)** | **[MG Medical Assistant Intern](https://jobright.ai/jobs/info/69968ee9ce78e77b4fdaa8c4?utm_campaign=1058&utm_source=git)** | North Dartmouth, MA | On Site | Feb 18 |
 | ↳ | **[MG Medical Assistant Intern](https://jobright.ai/jobs/info/69969868e0bddb6acac51e28?utm_campaign=1058&utm_source=git)** | North Dartmouth, MA | On Site | Feb 18 |
+| ↳ | **[MG Medical Assistant Intern](https://jobright.ai/jobs/info/69969709ce78e77b4fdab73e?utm_campaign=1058&utm_source=git)** | North Dartmouth, MA | On Site | Feb 18 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Food & Beverage / Omni Care Internship](https://jobright.ai/jobs/info/69966ae181476f6176ae3bca?utm_campaign=1058&utm_source=git)** | US-TX-Austin | On Site | Feb 18 |
 | **[Harmony United Psychiatric Care](https://hupcfl.com)** | **[Psychiatric Office Assistant Internship/Outpatient Clinic (Certification Program)/Fort Lauderdale](https://jobright.ai/jobs/info/699699e281476f6176ae8109?utm_campaign=1058&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 18 |
 | **[UL Research Institutes](https://ul.org)** | **[Summer 2026 Intern Library & Researcher Information Services](https://jobright.ai/jobs/info/69718f28333b6343a14e2a10?utm_campaign=1058&utm_source=git)** | Evanston, IL | On Site | Feb 18 |
@@ -142,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[St. Vincent’s Health System](https://uabstvincents.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69969b49e0bddb6acac5241d?utm_campaign=1058&utm_source=git)** | UAB St. Vincent's St. Clair | On Site | Feb 18 |
 | **[Capital Area Intermediate Unit](https://www.caiu.org/)** | **[Tech Intern - Helpdesk](https://jobright.ai/jobs/info/69968e3a81476f6176ae6d68?utm_campaign=1058&utm_source=git)** | Enola, PA | On Site | Feb 18 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Cares Food & Beverage  Internship/ Summer 2026](https://jobright.ai/jobs/info/6996784b81476f6176ae4e6a?utm_campaign=1058&utm_source=git)** | Asheville, NC, US | On Site | Feb 18 |
-| ↳ | **[Food & Beverage / Omni Care Internship](https://jobright.ai/jobs/info/69969392e0bddb6acac5166b?utm_campaign=1058&utm_source=git)** | Austin, TX, US | On Site | Feb 18 |
 | ↳ | **[Omni Cares Rooms  Internship/ Summer 2026](https://jobright.ai/jobs/info/69967115ce78e77b4fda7d48?utm_campaign=1058&utm_source=git)** | US-NC-Asheville | On Site | Feb 18 |
+| ↳ | **[Food & Beverage / Omni Care Internship](https://jobright.ai/jobs/info/69969392e0bddb6acac5166b?utm_campaign=1058&utm_source=git)** | Austin, TX, US | On Site | Feb 18 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Hospitality Internship](https://jobright.ai/jobs/info/6996892ce0bddb6acac50738?utm_campaign=1058&utm_source=git)** | Muskegon, MI | On Site | Feb 18 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Clinical Student Intern – Surgery General](https://jobright.ai/jobs/info/699673a881476f6176ae4758?utm_campaign=1058&utm_source=git)** | Polson, MT | On Site | Feb 18 |
 | **[BAE Systems](http://www.baesystems.com)** | **[NonTechnical Intern 4](https://jobright.ai/jobs/info/699684e1e0bddb6acac50114?utm_campaign=1058&utm_source=git)** | Radford Virginia | On Site | Feb 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern IIII](https://jobright.ai/jobs/info/69967d74e0bddb6acac4f80f?utm_campaign=1058&utm_source=git)** | Intermountain Health Lutheran Hospital | On Site | Feb 18 |
 | **[Sound Credit Union](https://www.soundcu.com)** | **[IT Business Systems Intern](https://jobright.ai/jobs/info/6992fe49e0bddb6acac141bb?utm_campaign=1058&utm_source=git)** | Tacoma, WA | Hybrid | Feb 18 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/699640f4ce78e77b4fda3a36?utm_campaign=1058&utm_source=git)** | Reston, VA | On Site | Feb 18 |
-| **[Community Health Systems](http://www.chs.net)** | **[RN Nurse Intern MedSurg PRN](https://jobright.ai/jobs/info/6996861681476f6176ae608d?utm_campaign=1058&utm_source=git)** | 151 E REDSTONE AVE, CRESTVIEW, FL, 32539, US | On Site | Feb 18 |
-| **[Critical Mass](http://www.criticalmass.com/)** | **[Client Services Intern](https://jobright.ai/jobs/info/6996618ece78e77b4fda6b27?utm_campaign=1058&utm_source=git)** | Chicago | Hybrid | Feb 18 |
-| **[State Bank of Southern Utah](http://sbsu.com)** | **[Intern - IT](https://jobright.ai/jobs/info/6996641581476f6176ae34e8?utm_campaign=1058&utm_source=git)** | Cedar City, UT | On Site | Feb 18 |
-| **[Harris Computer](http://www.harriscomputer.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/69966c2181476f6176ae3d79?utm_campaign=1058&utm_source=git)** | Tennessee, United States | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
