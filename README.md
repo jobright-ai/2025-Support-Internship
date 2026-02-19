@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support - CI/ Operations Intern](https://jobright.ai/jobs/info/69976805ce78e77b4fdbc041?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA, US | On Site | Feb 19 |
+| **[C1](http://www.spanlink.com)** | **[Case Analyst Intern](https://jobright.ai/jobs/info/699767c6e0bddb6acac62098?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 19 |
+| **[Catholic Health](https://www.catholichealthli.org)** | **[Pharmacy Intern-PD](https://jobright.ai/jobs/info/69976648e0bddb6acac61f2b?utm_campaign=1058&utm_source=git)** | Roslyn, NY | On Site | Feb 19 |
+| **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Hopkinsville)](https://jobright.ai/jobs/info/69976538ce78e77b4fdbbd6b?utm_campaign=1058&utm_source=git)** | Hopkinsville, KY, US | On Site | Feb 19 |
+| **[Toshiba International Corporation](http://www.toshiba.com/tic)** | **[Field Service Intern](https://jobright.ai/jobs/info/699764d581476f6176af83dd?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Feb 19 |
+| **[Guardian Pharmacy](https://guardianpharmacy.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69976115ce78e77b4fdbbaa2?utm_campaign=1058&utm_source=git)** | Ankeny, IA | On Site | Feb 19 |
+| **[Interac Corp.](http://www.interac.ca)** | **[Client Experience Intern](https://jobright.ai/jobs/info/69975b35ce78e77b4fdbb758?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 19 |
 | **[Siemens](https://www.siemens.com)** | **[Customer Experience & Support Internship](https://jobright.ai/jobs/info/6997566981476f6176af7c0c?utm_campaign=1058&utm_source=git)** | Wendell, NC | On Site | Feb 19 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Senior Resident Services Coordinator](https://jobright.ai/jobs/info/6938d5edb95c305f206e0b7f?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
 | **[Cribl](https://www.cribl.io)** | **[Customer Experience Ops Intern](https://jobright.ai/jobs/info/69974964e0bddb6acac60d2d?utm_campaign=1058&utm_source=git)** | Remote - San Francisco, California | Remote | Feb 19 |
@@ -146,15 +153,8 @@ For a complete list, click the following sortable link below:
 | **[St. Vincent’s Health System](https://uabstvincents.org)** | **[Imaging Intern](https://jobright.ai/jobs/info/69969b49e0bddb6acac5241d?utm_campaign=1058&utm_source=git)** | UAB St. Vincent's St. Clair | On Site | Feb 18 |
 | **[Capital Area Intermediate Unit](https://www.caiu.org/)** | **[Tech Intern - Helpdesk](https://jobright.ai/jobs/info/69968e3a81476f6176ae6d68?utm_campaign=1058&utm_source=git)** | Enola, PA | On Site | Feb 18 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Cares Food & Beverage  Internship/ Summer 2026](https://jobright.ai/jobs/info/6996784b81476f6176ae4e6a?utm_campaign=1058&utm_source=git)** | Asheville, NC, US | On Site | Feb 18 |
-| ↳ | **[Omni Cares Rooms  Internship/ Summer 2026](https://jobright.ai/jobs/info/69967115ce78e77b4fda7d48?utm_campaign=1058&utm_source=git)** | US-NC-Asheville | On Site | Feb 18 |
 | ↳ | **[Food & Beverage / Omni Care Internship](https://jobright.ai/jobs/info/69969392e0bddb6acac5166b?utm_campaign=1058&utm_source=git)** | Austin, TX, US | On Site | Feb 18 |
+| ↳ | **[Omni Cares Rooms  Internship/ Summer 2026](https://jobright.ai/jobs/info/69967115ce78e77b4fda7d48?utm_campaign=1058&utm_source=git)** | US-NC-Asheville | On Site | Feb 18 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Hospitality Internship](https://jobright.ai/jobs/info/6996892ce0bddb6acac50738?utm_campaign=1058&utm_source=git)** | Muskegon, MI | On Site | Feb 18 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Clinical Student Intern – Surgery General](https://jobright.ai/jobs/info/699673a881476f6176ae4758?utm_campaign=1058&utm_source=git)** | Polson, MT | On Site | Feb 18 |
-| **[BAE Systems](http://www.baesystems.com)** | **[NonTechnical Intern 4](https://jobright.ai/jobs/info/699684e1e0bddb6acac50114?utm_campaign=1058&utm_source=git)** | Radford Virginia | On Site | Feb 18 |
-| **[ISACA](http://www.isaca.org)** | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69967e2381476f6176ae56e1?utm_campaign=1058&utm_source=git)** | US-IL-Schaumburg - Hybrid | Hybrid | Feb 18 |
-| ↳ | **[IT Service Desk Intern](https://jobright.ai/jobs/info/69968634e0bddb6acac502ef?utm_campaign=1058&utm_source=git)** | Schaumburg - Hybrid, IL, US | Hybrid | Feb 18 |
-| **[Intermountain Health](https://intermountainhealthcare.org)** | **[Pharmacy Intern III](https://jobright.ai/jobs/info/6996755a81476f6176ae49d5?utm_campaign=1058&utm_source=git)** | Intermountain Health Lutheran Hospital | On Site | Feb 18 |
-| ↳ | **[Pharmacy Intern IIII](https://jobright.ai/jobs/info/69967d74e0bddb6acac4f80f?utm_campaign=1058&utm_source=git)** | Intermountain Health Lutheran Hospital | On Site | Feb 18 |
-| **[Sound Credit Union](https://www.soundcu.com)** | **[IT Business Systems Intern](https://jobright.ai/jobs/info/6992fe49e0bddb6acac141bb?utm_campaign=1058&utm_source=git)** | Tacoma, WA | Hybrid | Feb 18 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[IS Services & Support Intern (or Co-Op)](https://jobright.ai/jobs/info/699640f4ce78e77b4fda3a36?utm_campaign=1058&utm_source=git)** | Reston, VA | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
