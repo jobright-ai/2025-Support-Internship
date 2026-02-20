@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ellucian](http://www.ellucian.com)** | **[Technical Support Intern (Undergraduate)](https://jobright.ai/jobs/info/699821bace78e77b4fdcc619?utm_campaign=1058&utm_source=git)** | Reston, VA | On Site | Feb 20 |
+| **[Gemini Legal](https://gemini.legal/)** | **[IT Intern- Sac State Career Fair Applicants Only](https://jobright.ai/jobs/info/699811e5ce78e77b4fdcba1f?utm_campaign=1058&utm_source=git)** | Rocklin,CA,US | On Site | Feb 19 |
+| **[TOSSWARE](https://www.tossware.com/)** | **[Office Support Intern](https://jobright.ai/jobs/info/69980e9ee0bddb6acac7165e?utm_campaign=1058&utm_source=git)** | Los Angeles, CA | On Site | Feb 19 |
 | **[Aurora Health Care](http://aurorahealthcare.org)** | **[Surgical Tech Intern Main OR](https://jobright.ai/jobs/info/6998090b81476f6176b076d1?utm_campaign=1058&utm_source=git)** | Grafton, WI | On Site | Feb 19 |
 | **[Gemini Legal](https://gemini.legal/)** | **[IT Intern- Sac State Career Fair Applicants Only](https://jobright.ai/jobs/info/699803cbe0bddb6acac709dc?utm_campaign=1058&utm_source=git)** | Rocklin, CA | On Site | Feb 19 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse II 3 South](https://jobright.ai/jobs/info/6997f9b3ce78e77b4fdc98b5?utm_campaign=1058&utm_source=git)** | Memphis, TN | On Site | Feb 19 |
@@ -82,12 +85,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HCAI - HEALTH INFORMATION AND ELECTRONIC RECORDS ANALYST TRAINING PROGRAM (EHR SUPPORT INTERNSHIP)](https://jobright.ai/jobs/info/6997e01fce78e77b4fdc5716?utm_campaign=1058&utm_source=git)** | Remote N/A | Remote | Feb 19 |
 | **[The Sea Pines Resort](https://www.seapines.com/)** | **[Summer Recreation Internship](https://jobright.ai/jobs/info/6997d2af81476f6176b00563?utm_campaign=1058&utm_source=git)** | Hilton Head Island, SC 29928, USA | On Site | Feb 19 |
 | **[Stewart Title](https://www.stewart.com/)** | **[IT Voice Operations Intern](https://jobright.ai/jobs/info/6997a6bfe0bddb6acac65d3b?utm_campaign=1058&utm_source=git)** | Greater Houston | Hybrid | Feb 19 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern Cardiac Med Surg](https://jobright.ai/jobs/info/6997e085ce78e77b4fdc57de?utm_campaign=1058&utm_source=git)** | Brookfield, WI, US | On Site | Feb 19 |
-| ↳ | **[Nursing Intern Cardiac Med Surg](https://jobright.ai/jobs/info/6997df13e0bddb6acac6b4cc?utm_campaign=1058&utm_source=git)** | US-WI-Brookfield | On Site | Feb 19 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern Cardiac Med Surg](https://jobright.ai/jobs/info/6997df13e0bddb6acac6b4cc?utm_campaign=1058&utm_source=git)** | US-WI-Brookfield | On Site | Feb 19 |
+| ↳ | **[Nursing Intern Cardiac Med Surg](https://jobright.ai/jobs/info/6997e085ce78e77b4fdc57de?utm_campaign=1058&utm_source=git)** | Brookfield, WI, US | On Site | Feb 19 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Visiting Nurse Services (Medical Records) Intern](https://jobright.ai/jobs/info/6993cd46e0bddb6acac2149b?utm_campaign=1058&utm_source=git)** | Morristown, NJ | On Site | Feb 19 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Perioperative Nurse Intern](https://jobright.ai/jobs/info/6997dd51ce78e77b4fdc521a?utm_campaign=1058&utm_source=git)** | Littleton, CO | On Site | Feb 19 |
 | **[Johns Hopkins Hospital](https://www.hopkinsmedicine.org/the-johns-hopkins-hospital)** | **[Patient Care Tech intern - CNA - Adult Oncology 5C](https://jobright.ai/jobs/info/6997d1c5e0bddb6acac69c4d?utm_campaign=1058&utm_source=git)** | DC-Baltimore Area | On Site | Feb 19 |
-| **[AdventHealth](https://www.adventhealth.com/)** | **[Perioperative Nurse Intern](https://jobright.ai/jobs/info/6997c7f5ce78e77b4fdc2e88?utm_campaign=1058&utm_source=git)** | Littleton, CO | On Site | Feb 19 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Pharmacy Technician Intern Zeeland](https://jobright.ai/jobs/info/6997ea97ce78e77b4fdc6ea8?utm_campaign=1058&utm_source=git)** | Zeeland, MI | On Site | Feb 19 |
 | **[NKU Graduate Education](https://www.nku.edu/admissions/graduate.html)** | **[Help Desk Student Employment](https://jobright.ai/jobs/info/6997c598e0bddb6acac688dc?utm_campaign=1058&utm_source=git)** | Newport, KY | On Site | Feb 19 |
 | **[OCHIN, Inc.](https://ochin.org)** | **[HCAI - HEALTH INFORMATION AND ELECTRONIC RECORDS ANALYST TRAINING PROGRAM (EHR SUPPORT INTERNSHIP)](https://jobright.ai/jobs/info/6997bc74e0bddb6acac67c10?utm_campaign=1058&utm_source=git)** | California, United States | Remote | Feb 19 |
@@ -114,13 +116,14 @@ For a complete list, click the following sortable link below:
 | **[Brown University](https://www.brown.edu)** | **[Medical Assistant Intern](https://jobright.ai/jobs/info/6997a112ce78e77b4fdbf665?utm_campaign=1058&utm_source=git)** | BHMGMA Brown Health Medical Group Massachusetts | On Site | Feb 19 |
 | **[Hendrick Motorsports](http://www.hendrickmotorsports.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6997b952e0bddb6acac67610?utm_campaign=1058&utm_source=git)** | Charlotte, NC | On Site | Feb 19 |
 | **[Videotron](http://www.videotron.com)** | **[Stagiaire - Soutien informatique](https://jobright.ai/jobs/info/69782f3439f7f96cc6d076f3?utm_campaign=1058&utm_source=git)** | Montreal, Quebec, Canada | Remote | Feb 19 |
+| **[Inova Health](http://www.inova.org/itmi/home)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69981c4c81476f6176b08805?utm_campaign=1058&utm_source=git)** | Fairfax, VA, United States | On Site | Feb 19 |
 | **[Astrion](https://astrion.us)** | **[Intern- Test Support](https://jobright.ai/jobs/info/699799e281476f6176afb3c8?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | Feb 19 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support - CI/ Operations Intern](https://jobright.ai/jobs/info/6997a30ae0bddb6acac65758?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA | On Site | Feb 19 |
 | **[Homecare Homebase](http://www.hchb.com)** | **[IT Helpdesk Co-Op/Intern](https://jobright.ai/jobs/info/6997bd2dce78e77b4fdc1cd6?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Feb 19 |
 | **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern MICU Nights](https://jobright.ai/jobs/info/6997a748ce78e77b4fdbff9f?utm_campaign=1058&utm_source=git)** | 1026 GOODYEAR AVENUE, GADSDEN, AL, 35903, US | On Site | Feb 19 |
 | ↳ | **[Nurse Intern Cardiac PRN](https://jobright.ai/jobs/info/69978fa7ce78e77b4fdbde93?utm_campaign=1058&utm_source=git)** | 1026 GOODYEAR AVENUE, GADSDEN, AL, 35903, US | On Site | Feb 19 |
-| **[Piovan UnaDyn](http://unadyn.com)** | **[Product Support Intern](https://jobright.ai/jobs/info/6997b0dfe0bddb6acac66d52?utm_campaign=1058&utm_source=git)** | Woodbridge, VA, US | On Site | Feb 19 |
-| ↳ | **[Product Support Intern](https://jobright.ai/jobs/info/69979cfece78e77b4fdbf0c9?utm_campaign=1058&utm_source=git)** | Fredericksburg, VA, US | On Site | Feb 19 |
+| **[Piovan UnaDyn](http://unadyn.com)** | **[Product Support Intern](https://jobright.ai/jobs/info/69979cfece78e77b4fdbf0c9?utm_campaign=1058&utm_source=git)** | Fredericksburg, VA, US | On Site | Feb 19 |
+| ↳ | **[Product Support Intern](https://jobright.ai/jobs/info/6997b0dfe0bddb6acac66d52?utm_campaign=1058&utm_source=git)** | Woodbridge, VA, US | On Site | Feb 19 |
 | **[UBS](https://www.ubs.com)** | **[2026 Summer Internship - Group Technology Office - Raleigh](https://jobright.ai/jobs/info/6997ac6781476f6176afceaa?utm_campaign=1058&utm_source=git)** | Raleigh, NC | On Site | Feb 19 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[Student Service Desk Specialist (Technical) - IT](https://jobright.ai/jobs/info/6997c22bce78e77b4fdc26e8?utm_campaign=1058&utm_source=git)** | Edmond, OK | On Site | Feb 19 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern](https://jobright.ai/jobs/info/69976fd081476f6176af8d7a?utm_campaign=1058&utm_source=git)** | Racine, WI | On Site | Feb 19 |
@@ -146,15 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Essentia Health](https://www.essentiahealth.org/)** | **[Intern - Pharmacist (0.1 FTE)](https://jobright.ai/jobs/info/6997af02e0bddb6acac66a4b?utm_campaign=1058&utm_source=git)** | Duluth, MN | On Site | Feb 19 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Client Experience Intern](https://jobright.ai/jobs/info/69975b35ce78e77b4fdbb758?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 19 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Senior Resident Services Coordinator](https://jobright.ai/jobs/info/6938d5edb95c305f206e0b7f?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern Radiology](https://jobright.ai/jobs/info/69977c29e0bddb6acac6320a?utm_campaign=1058&utm_source=git)** | Round Rock, TX, US | On Site | Feb 19 |
-| ↳ | **[Imaging Intern Radiology](https://jobright.ai/jobs/info/69977a9081476f6176af9762?utm_campaign=1058&utm_source=git)** | US-TX-Round Rock | On Site | Feb 19 |
-| ↳ | **[IT Intern IT Service Management (ITSM)](https://jobright.ai/jobs/info/69978141e0bddb6acac63579?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 19 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern Radiology](https://jobright.ai/jobs/info/69977a9081476f6176af9762?utm_campaign=1058&utm_source=git)** | US-TX-Round Rock | On Site | Feb 19 |
+| ↳ | **[Imaging Intern Radiology](https://jobright.ai/jobs/info/69977c29e0bddb6acac6320a?utm_campaign=1058&utm_source=git)** | Round Rock, TX, US | On Site | Feb 19 |
 | ↳ | **[IT Intern IT Service Management (ITSM)](https://jobright.ai/jobs/info/6997856281476f6176af9dad?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | Feb 19 |
+| ↳ | **[IT Intern IT Service Management (ITSM)](https://jobright.ai/jobs/info/69978141e0bddb6acac63579?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 19 |
 | ↳ | **[Nurse Intern - Medical Surgical](https://jobright.ai/jobs/info/699779f481476f6176af9713?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Feb 19 |
 | ↳ | **[Nurse Intern - Medical Surgical](https://jobright.ai/jobs/info/69977229e0bddb6acac62abf?utm_campaign=1058&utm_source=git)** | Wichita, KS, US | On Site | Feb 19 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support - CI/ Operations Intern](https://jobright.ai/jobs/info/699777b5e0bddb6acac62f4d?utm_campaign=1058&utm_source=git)** | US-PA-Wilkes-Barre | On Site | Feb 19 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Pharmacy Intern - Inpatient - St. Vincent Hospital](https://jobright.ai/jobs/info/699773a5e0bddb6acac62be1?utm_campaign=1058&utm_source=git)** | Erie PA, 16502, 232 West 25th St | On Site | Feb 19 |
-| **[Children's Home Society of South Dakota](https://www.chssd.org)** | **[Associate's or Bachelor's Level Summer Internship](https://jobright.ai/jobs/info/69978137ce78e77b4fdbd4b6?utm_campaign=1058&utm_source=git)** | Sioux Falls,SD,US | On Site | Feb 19 |
-| **[Catholic Health](https://www.catholichealthli.org)** | **[Pharmacy Intern-PD](https://jobright.ai/jobs/info/699773c4ce78e77b4fdbcb1b?utm_campaign=1058&utm_source=git)** | US-NY-Roslyn | On Site | Feb 19 |
-| ↳ | **[Pharmacy Intern-PD](https://jobright.ai/jobs/info/699776cf81476f6176af9527?utm_campaign=1058&utm_source=git)** | Roslyn, NY, US | On Site | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
