@@ -57,28 +57,33 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Siemens](https://www.siemens.com)** | **[Customer Experience & Support Internship](https://jobright.ai/jobs/info/699792d681476f6176afaa47?utm_campaign=1058&utm_source=git)** | Wendell, NC | On Site | Feb 19 |
 | **[Tolmar](http://tolmar.com)** | **[Intern - IT Support Analyst](https://jobright.ai/jobs/info/6997873a81476f6176af9e7a?utm_campaign=1058&utm_source=git)** | Windsor, CO | On Site | Feb 19 |
 | **[Roehl Transport](http://www.Roehl.Jobs)** | **[Customer Service Internship (Summer Position)](https://jobright.ai/jobs/info/69978422e0bddb6acac63768?utm_campaign=1058&utm_source=git)** | Marshfield, WI | On Site | Feb 19 |
 | **[Samaritan Health Services](https://www.samhealth.org/)** | **[Information Services Intern](https://jobright.ai/jobs/info/699782cbe0bddb6acac63676?utm_campaign=1058&utm_source=git)** | Corvallis, OR | On Site | Feb 19 |
 | **[Allegheny Health Network](https://www.ahn.org)** | **[Pharmacy Intern - Inpatient - St. Vincent Hospital](https://jobright.ai/jobs/info/69977efde0bddb6acac633f3?utm_campaign=1058&utm_source=git)** | Erie, PA | On Site | Feb 19 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Nurse Intern - Medical Surgical](https://jobright.ai/jobs/info/69977d09ce78e77b4fdbd23f?utm_campaign=1058&utm_source=git)** | Wichita, KS | On Site | Feb 19 |
 | ↳ | **[Student Nurse Intern](https://jobright.ai/jobs/info/69977cc6e0bddb6acac6325b?utm_campaign=1058&utm_source=git)** | Panama City, FL | On Site | Feb 19 |
-| ↳ | **[Nursing Intern](https://jobright.ai/jobs/info/69976fd081476f6176af8d7a?utm_campaign=1058&utm_source=git)** | Racine, WI | On Site | Feb 19 |
+| **[Haleon](http://www.haleon.com/)** | **[2026 Internship: Customer Service and Logistics (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/69979b35e0bddb6acac64c8b?utm_campaign=1058&utm_source=git)** | USA - New Jersey - Warren | On Site | Feb 19 |
+| **[Astrion](https://astrion.us)** | **[Intern- Test Support](https://jobright.ai/jobs/info/699799e281476f6176afb3c8?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | Feb 19 |
+| **[Community Health Systems](http://www.chs.net)** | **[Nurse Intern Cardiac PRN](https://jobright.ai/jobs/info/69978fa7ce78e77b4fdbde93?utm_campaign=1058&utm_source=git)** | 1026 GOODYEAR AVENUE, GADSDEN, AL, 35903, US | On Site | Feb 19 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Nursing Intern](https://jobright.ai/jobs/info/69976fd081476f6176af8d7a?utm_campaign=1058&utm_source=git)** | Racine, WI | On Site | Feb 19 |
 | **[ECHO Incorporated](http://echo-usa.com)** | **[Intern - Warehouse Order Picker - 1st Shift](https://jobright.ai/jobs/info/698fd7e90cc8ea15f1da6fc3?utm_campaign=1058&utm_source=git)** | Lake Zurich, IL | On Site | Feb 19 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[IT Helpdesk Co-Op/Intern](https://jobright.ai/jobs/info/69976a13ce78e77b4fdbc257?utm_campaign=1058&utm_source=git)** | 4849 Greenville Avenue, Dallas, TX, 75206, US | On Site | Feb 19 |
 | **[Toshiba International Corporation](http://www.toshiba.com/tic)** | **[Site Services Intern](https://jobright.ai/jobs/info/699769f781476f6176af88af?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Feb 19 |
 | ↳ | **[Field Service Intern](https://jobright.ai/jobs/info/6997698781476f6176af8856?utm_campaign=1058&utm_source=git)** | Houston, TX | On Site | Feb 19 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support - CI/ Operations Intern](https://jobright.ai/jobs/info/69976805ce78e77b4fdbc041?utm_campaign=1058&utm_source=git)** | Wilkes-Barre, PA, US | On Site | Feb 19 |
 | **[C1](http://www.spanlink.com)** | **[Case Analyst Intern](https://jobright.ai/jobs/info/699767c6e0bddb6acac62098?utm_campaign=1058&utm_source=git)** | United States | Remote | Feb 19 |
+| **[Hearst Health](http://www.hearsthealth.com)** | **[IT Helpdesk Co-Op/Intern](https://jobright.ai/jobs/info/6997913a81476f6176afa83c?utm_campaign=1058&utm_source=git)** | Dallas, TX | On Site | Feb 19 |
 | **[Catholic Health](https://www.catholichealthli.org)** | **[Pharmacy Intern-PD](https://jobright.ai/jobs/info/69976648e0bddb6acac61f2b?utm_campaign=1058&utm_source=git)** | Roslyn, NY | On Site | Feb 19 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Regional Support Intern (Hopkinsville)](https://jobright.ai/jobs/info/69976538ce78e77b4fdbbd6b?utm_campaign=1058&utm_source=git)** | Hopkinsville, KY, US | On Site | Feb 19 |
+| **[Sister Cities International](http://sistercities.org)** | **[Summer Intern 2026](https://jobright.ai/jobs/info/699794dae0bddb6acac6454a?utm_campaign=1058&utm_source=git)** | Washington, DC | On Site | Feb 19 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Student Nurse Intern](https://jobright.ai/jobs/info/699780e2e0bddb6acac63538?utm_campaign=1058&utm_source=git)** | Manhattan, KS | On Site | Feb 19 |
 | **[Guardian Pharmacy](https://guardianpharmacy.com)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/69976115ce78e77b4fdbbaa2?utm_campaign=1058&utm_source=git)** | Ankeny, IA | On Site | Feb 19 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Client Experience Intern](https://jobright.ai/jobs/info/69975b35ce78e77b4fdbb758?utm_campaign=1058&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 19 |
-| **[Siemens](https://www.siemens.com)** | **[Customer Experience & Support Internship](https://jobright.ai/jobs/info/6997566981476f6176af7c0c?utm_campaign=1058&utm_source=git)** | Wendell, NC | On Site | Feb 19 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Intern Senior Resident Services Coordinator](https://jobright.ai/jobs/info/6938d5edb95c305f206e0b7f?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern Radiology](https://jobright.ai/jobs/info/69977a9081476f6176af9762?utm_campaign=1058&utm_source=git)** | US-TX-Round Rock | On Site | Feb 19 |
-| ↳ | **[Imaging Intern Radiology](https://jobright.ai/jobs/info/69977c29e0bddb6acac6320a?utm_campaign=1058&utm_source=git)** | Round Rock, TX, US | On Site | Feb 19 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Imaging Intern Radiology](https://jobright.ai/jobs/info/69977c29e0bddb6acac6320a?utm_campaign=1058&utm_source=git)** | Round Rock, TX, US | On Site | Feb 19 |
+| ↳ | **[Imaging Intern Radiology](https://jobright.ai/jobs/info/69977a9081476f6176af9762?utm_campaign=1058&utm_source=git)** | US-TX-Round Rock | On Site | Feb 19 |
 | ↳ | **[IT Intern IT Service Management (ITSM)](https://jobright.ai/jobs/info/6997856281476f6176af9dad?utm_campaign=1058&utm_source=git)** | US-Remote | Remote | Feb 19 |
 | ↳ | **[IT Intern IT Service Management (ITSM)](https://jobright.ai/jobs/info/69978141e0bddb6acac63579?utm_campaign=1058&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 19 |
 | ↳ | **[Nurse Intern - Medical Surgical](https://jobright.ai/jobs/info/699779f481476f6176af9713?utm_campaign=1058&utm_source=git)** | US-KS-Wichita | On Site | Feb 19 |
@@ -86,10 +91,10 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Intern, Technical Support - CI/ Operations Intern](https://jobright.ai/jobs/info/699777b5e0bddb6acac62f4d?utm_campaign=1058&utm_source=git)** | US-PA-Wilkes-Barre | On Site | Feb 19 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Pharmacy Intern - Inpatient - St. Vincent Hospital](https://jobright.ai/jobs/info/699773a5e0bddb6acac62be1?utm_campaign=1058&utm_source=git)** | Erie PA, 16502, 232 West 25th St | On Site | Feb 19 |
 | **[Children's Home Society of South Dakota](https://www.chssd.org)** | **[Associate's or Bachelor's Level Summer Internship](https://jobright.ai/jobs/info/69978137ce78e77b4fdbd4b6?utm_campaign=1058&utm_source=git)** | Sioux Falls,SD,US | On Site | Feb 19 |
-| **[Catholic Health](https://www.catholichealthli.org)** | **[Pharmacy Intern-PD](https://jobright.ai/jobs/info/699776cf81476f6176af9527?utm_campaign=1058&utm_source=git)** | Roslyn, NY, US | On Site | Feb 19 |
-| ↳ | **[Pharmacy Intern-PD](https://jobright.ai/jobs/info/699773c4ce78e77b4fdbcb1b?utm_campaign=1058&utm_source=git)** | US-NY-Roslyn | On Site | Feb 19 |
-| **[C1](http://www.spanlink.com)** | **[Case Analyst Intern](https://jobright.ai/jobs/info/69976c94ce78e77b4fdbc400?utm_campaign=1058&utm_source=git)** | Virtual Office, UNAVAILABLE, US | Remote | Feb 19 |
-| ↳ | **[Case Analyst Intern](https://jobright.ai/jobs/info/6997750de0bddb6acac62ca2?utm_campaign=1058&utm_source=git)** | US-Virtual Office | Remote | Feb 19 |
+| **[Catholic Health](https://www.catholichealthli.org)** | **[Pharmacy Intern-PD](https://jobright.ai/jobs/info/699773c4ce78e77b4fdbcb1b?utm_campaign=1058&utm_source=git)** | US-NY-Roslyn | On Site | Feb 19 |
+| ↳ | **[Pharmacy Intern-PD](https://jobright.ai/jobs/info/699776cf81476f6176af9527?utm_campaign=1058&utm_source=git)** | Roslyn, NY, US | On Site | Feb 19 |
+| **[C1](http://www.spanlink.com)** | **[Case Analyst Intern](https://jobright.ai/jobs/info/6997750de0bddb6acac62ca2?utm_campaign=1058&utm_source=git)** | US-Virtual Office | Remote | Feb 19 |
+| ↳ | **[Case Analyst Intern](https://jobright.ai/jobs/info/69976c94ce78e77b4fdbc400?utm_campaign=1058&utm_source=git)** | Virtual Office, UNAVAILABLE, US | Remote | Feb 19 |
 | **[Naples Comprehensive Health - NCH](http://www.nchmd.org/)** | **[IT Intern FR](https://jobright.ai/jobs/info/69976c13e0bddb6acac624db?utm_campaign=1058&utm_source=git)** | Naples, FL | On Site | Feb 19 |
 | **[Cribl](https://www.cribl.io)** | **[Customer Experience Ops Intern](https://jobright.ai/jobs/info/69974964e0bddb6acac60d2d?utm_campaign=1058&utm_source=git)** | Remote - San Francisco, California | Remote | Feb 19 |
 | **[NYC Department of Finance](http://www.nyc.gov/html/dof/html/home/home.shtml)** | **[ITAM Graduate Intern](https://jobright.ai/jobs/info/69974937ce78e77b4fdba9ec?utm_campaign=1058&utm_source=git)** | Manhattan, NY | On Site | Feb 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern - High School-Business Services](https://jobright.ai/jobs/info/69969174ce78e77b4fdaadc4?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Feb 18 |
 | ↳ | **[Intern - High School-Staging](https://jobright.ai/jobs/info/6996907e81476f6176ae718d?utm_campaign=1058&utm_source=git)** | San Antonio, TX | On Site | Feb 18 |
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6996bac981476f6176aeb9b6?utm_campaign=1058&utm_source=git)** | Atlanta Metro | On Site | Feb 18 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6996a5bf81476f6176ae94d8?utm_campaign=1058&utm_source=git)** | Matthews, NC | On Site | Feb 18 |
-| **[Brown University Health](https://www.brownhealth.org)** | **[MG Medical Assistant Intern](https://jobright.ai/jobs/info/6996879d81476f6176ae62b1?utm_campaign=1058&utm_source=git)** | Dartmouth, MA | On Site | Feb 18 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Pharmacy Student Intern](https://jobright.ai/jobs/info/698feb796ea51a7610f24ee0?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Feb 18 |
-| **[Harris Computer](http://www.harriscomputer.com)** | **[Customer Support Intern](https://jobright.ai/jobs/info/6996a01ae0bddb6acac52f4f?utm_campaign=1058&utm_source=git)** | Tennessee, United States | On Site | Feb 18 |
-| ↳ | **[Customer Support Intern](https://jobright.ai/jobs/info/69969ef9e0bddb6acac52dca?utm_campaign=1058&utm_source=git)** | South Carolina, United States | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
