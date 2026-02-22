@@ -100,6 +100,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern](https://jobright.ai/jobs/info/6999412f81476f6176b1d546?utm_campaign=1058&utm_source=git)** | Millburn, NJ | On Site | Feb 20 |
 | **[Tyler Technologies](https://www.tylertech.com)** | **[Software Support Internship, Summer 2026](https://jobright.ai/jobs/info/697d3b64727747250d580b9a?utm_campaign=1058&utm_source=git)** | Yarmouth, ME | On Site | Feb 20 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Nurse I](https://jobright.ai/jobs/info/69995ad2e0bddb6acac88972?utm_campaign=1058&utm_source=git)** | Covington, TN | On Site | Feb 20 |
+| **[Jewel-Osco](http://www.jewelosco.com)** | **[Pharmacy Summer Intern - Jewel Osco](https://jobright.ai/jobs/info/699a9280e0bddb6acac9b82f?utm_campaign=1058&utm_source=git)** | Schaumburg, IL | On Site | Feb 20 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/69993876e0bddb6acac84a4f?utm_campaign=1058&utm_source=git)** | Toms River, NJ | On Site | Feb 20 |
 | **[ROCK](http://www.rockventures.com/)** | **[ROCK Ticketing & Hospitality Intern - Summer 2026](https://jobright.ai/jobs/info/6999371be0bddb6acac848d2?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Feb 20 |
 | **[Nuvance Health](https://www.nuvancehealth.org)** | **[Student Nurse Associate-Summer Intern Sharon Hospital](https://jobright.ai/jobs/info/699956ccce78e77b4fde231b?utm_campaign=1058&utm_source=git)** | Sharon, CT | On Site | Feb 20 |
@@ -132,19 +133,19 @@ For a complete list, click the following sortable link below:
 | **[VGM Group, Inc.](https://www.vgm.com)** | **[IT Support Intern - Waterloo, Iowa](https://jobright.ai/jobs/info/6999231cce78e77b4fddcde8?utm_campaign=1058&utm_source=git)** | Waterloo, IA, US | On Site | Feb 20 |
 | **[ITASCA Consulting](https://www.itascacg.com/)** | **[IT Support Intern (April-August)](https://jobright.ai/jobs/info/69991dbb81476f6176b19c4e?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Feb 20 |
 | **[KENT WORLDWIDE](https://kentww.com)** | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/69994a9ece78e77b4fde1129?utm_campaign=1058&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Feb 20 |
-| ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/69991f2bce78e77b4fddc78c?utm_campaign=1058&utm_source=git)** | Houston, Texas, United States | On Site | Feb 20 |
 | ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/6999156fe0bddb6acac80e69?utm_campaign=1058&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 20 |
 | ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/69993698e0bddb6acac84872?utm_campaign=1058&utm_source=git)** | Birmingham, Alabama, United States | On Site | Feb 20 |
+| ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/69991f2bce78e77b4fddc78c?utm_campaign=1058&utm_source=git)** | Houston, Texas, United States | On Site | Feb 20 |
 | ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/69992c5781476f6176b1b53f?utm_campaign=1058&utm_source=git)** | Dallas, Texas, United States | On Site | Feb 20 |
 | **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/699408ffe0bddb6acac263bc?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | Feb 20 |
 | **[Institute for Advanced Study](https://www.ias.edu/)** | **[Summer Internship - Computing - School of Mathematics](https://jobright.ai/jobs/info/69991780e0bddb6acac81201?utm_campaign=1058&utm_source=git)** | Princeton,NJ,US | On Site | Feb 20 |
 | **[BMO](http://www.bmo.com)** | **[Junior Desktop Support Intern, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6998f658e0bddb6acac7e596?utm_campaign=1058&utm_source=git)** | Calgary, AB, CAN | On Site | Feb 20 |
-| **[KENT® Precision Foods Group](http://precisionfoods.com)** | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/6999386681476f6176b1c55c?utm_campaign=1058&utm_source=git)** | Dallas, Texas, United States | On Site | Feb 20 |
-| ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/69993ef5ce78e77b4fddfcc0?utm_campaign=1058&utm_source=git)** | Houston, Texas, United States | On Site | Feb 20 |
-| ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/69993de0e0bddb6acac85453?utm_campaign=1058&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 20 |
+| **[KENT® Precision Foods Group](http://precisionfoods.com)** | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/699922dae0bddb6acac826f5?utm_campaign=1058&utm_source=git)** | Birmingham, Alabama, United States | On Site | Feb 20 |
+| ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/6999386681476f6176b1c55c?utm_campaign=1058&utm_source=git)** | Dallas, Texas, United States | On Site | Feb 20 |
 | ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/6999269481476f6176b1abda?utm_campaign=1058&utm_source=git)** | Phoenix, Arizona, United States | On Site | Feb 20 |
-| ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/699922dae0bddb6acac826f5?utm_campaign=1058&utm_source=git)** | Birmingham, Alabama, United States | On Site | Feb 20 |
 | ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/699953aace78e77b4fde1f2d?utm_campaign=1058&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Feb 20 |
+| ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/69993de0e0bddb6acac85453?utm_campaign=1058&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 20 |
+| ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/69993ef5ce78e77b4fddfcc0?utm_campaign=1058&utm_source=git)** | Houston, Texas, United States | On Site | Feb 20 |
 | **[BMO](http://www.bmo.com)** | **[Trade Desk Support Analyst, Summer 2026  (Co-op/Internship) – 10 Weeks](https://jobright.ai/jobs/info/6998f48981476f6176b15fe7?utm_campaign=1058&utm_source=git)** | New York, NY, USA | On Site | Feb 20 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Ticketing & Hospitality Intern, ROCK](https://jobright.ai/jobs/info/6998f345e0bddb6acac7e0c0?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Feb 20 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6998f117ce78e77b4fdd8384?utm_campaign=1058&utm_source=git)** | Garfield, NJ | On Site | Feb 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rubrik](http://rubrik.com)** | **[Technical Writer Intern, Summer 2026](https://jobright.ai/jobs/info/69991c78ce78e77b4fddc256?utm_campaign=1058&utm_source=git)** | Palo Alto, CA | On Site | Feb 20 |
 | **[CoorsTek, Inc.](https://www.coorstek.com)** | **[Records Management Clerk Intern](https://jobright.ai/jobs/info/699949d6e0bddb6acac86807?utm_campaign=1058&utm_source=git)** | Golden, CO | On Site | Feb 20 |
 | **[Rare](https://rare.org/#)** | **[Rare Technology, Help Desk Intern](https://jobright.ai/jobs/info/699918bece78e77b4fddbb97?utm_campaign=1058&utm_source=git)** | Arlington, VA | Hybrid | Feb 20 |
-| **[Haas Automation, Inc.](http://haascnc.com)** | **[IT Intern (50231)](https://jobright.ai/jobs/info/6999121fe0bddb6acac8099b?utm_campaign=1058&utm_source=git)** | Oxnard, CA | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
