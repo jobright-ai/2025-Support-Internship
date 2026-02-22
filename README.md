@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68cd9657b2a74e1837ed9323?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 22 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/699b0cd0e0bddb6acaca2458?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 22 |
+| ↳ | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/699b0b5bce78e77b4fdfcfd8?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 22 |
 | **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/6875a21b5cebcd1dd51c233d?utm_campaign=1058&utm_source=git)** | Detroit, MI | On Site | Feb 22 |
 | **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/69992f19e0bddb6acac83b76?utm_campaign=1058&utm_source=git)** | Irving, TX | Hybrid | Feb 22 |
 | **[Xometry](https://www.xometry.com)** | **[Manual Quoting Intern](https://jobright.ai/jobs/info/6945b303951654073537ce11?utm_campaign=1058&utm_source=git)** | Lexington, KY | Hybrid | Feb 22 |
@@ -145,16 +148,13 @@ For a complete list, click the following sortable link below:
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Junior Trade Floor Support Desktop Engineer, Summer 2026 (Internship) - 10 weeks](https://jobright.ai/jobs/info/699928e481476f6176b1b00f?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 20 |
 | **[Brown University Health](https://www.brownhealth.org)** | **[Medical Assistant Intern](https://jobright.ai/jobs/info/699929dace78e77b4fdddd20?utm_campaign=1058&utm_source=git)** | North Dartmouth, MA | On Site | Feb 20 |
 | **[Two Rivers Marketing](http://tworiversmarketing.com)** | **[IT Support Intern - Waterloo, Iowa](https://jobright.ai/jobs/info/69991732e0bddb6acac81174?utm_campaign=1058&utm_source=git)** | Waterloo, IA, US | On Site | Feb 20 |
-| **[Rare](https://rare.org/#)** | **[Rare Technology, Help Desk Intern](https://jobright.ai/jobs/info/699929fe81476f6176b1b226?utm_campaign=1058&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
-| ↳ | **[Rare Technology, Help Desk Intern](https://jobright.ai/jobs/info/69992910e0bddb6acac83331?utm_campaign=1058&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
+| **[Rare](https://rare.org/#)** | **[Rare Technology, Help Desk Intern](https://jobright.ai/jobs/info/69992910e0bddb6acac83331?utm_campaign=1058&utm_source=git)** | Arlington, VA, US | Hybrid | Feb 20 |
+| ↳ | **[Rare Technology, Help Desk Intern](https://jobright.ai/jobs/info/699929fe81476f6176b1b226?utm_campaign=1058&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
 | **[VGM Group, Inc.](https://www.vgm.com)** | **[IT Support Intern - Waterloo, Iowa](https://jobright.ai/jobs/info/6999231cce78e77b4fddcde8?utm_campaign=1058&utm_source=git)** | Waterloo, IA, US | On Site | Feb 20 |
 | **[ITASCA Consulting](https://www.itascacg.com/)** | **[IT Support Intern (April-August)](https://jobright.ai/jobs/info/69991dbb81476f6176b19c4e?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Feb 20 |
-| **[KENT WORLDWIDE](https://kentww.com)** | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/69992c5781476f6176b1b53f?utm_campaign=1058&utm_source=git)** | Dallas, Texas, United States | On Site | Feb 20 |
-| ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/69993698e0bddb6acac84872?utm_campaign=1058&utm_source=git)** | Birmingham, Alabama, United States | On Site | Feb 20 |
-| ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/6999156fe0bddb6acac80e69?utm_campaign=1058&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 20 |
+| **[KENT WORLDWIDE](https://kentww.com)** | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/6999156fe0bddb6acac80e69?utm_campaign=1058&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 20 |
 | ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/69991f2bce78e77b4fddc78c?utm_campaign=1058&utm_source=git)** | Houston, Texas, United States | On Site | Feb 20 |
+| ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/69992c5781476f6176b1b53f?utm_campaign=1058&utm_source=git)** | Dallas, Texas, United States | On Site | Feb 20 |
+| ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/69993698e0bddb6acac84872?utm_campaign=1058&utm_source=git)** | Birmingham, Alabama, United States | On Site | Feb 20 |
 | ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/69994a9ece78e77b4fde1129?utm_campaign=1058&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Feb 20 |
-| **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[College Intern](https://jobright.ai/jobs/info/699408ffe0bddb6acac263bc?utm_campaign=1058&utm_source=git)** | Hollywood, FL | On Site | Feb 20 |
-| **[Institute for Advanced Study](https://www.ias.edu/)** | **[Summer Internship - Computing - School of Mathematics](https://jobright.ai/jobs/info/69991780e0bddb6acac81201?utm_campaign=1058&utm_source=git)** | Princeton,NJ,US | On Site | Feb 20 |
-| **[BMO](http://www.bmo.com)** | **[Junior Desktop Support Intern, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6998f658e0bddb6acac7e596?utm_campaign=1058&utm_source=git)** | Calgary, AB, CAN | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
