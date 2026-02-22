@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yardi](https://www.yardi.com)** | **[Intern, Associate Technical Account Manager](https://jobright.ai/jobs/info/699b2b8ce0bddb6acaca27e6?utm_campaign=1058&utm_source=git)** | New York, NY | Hybrid | Feb 22 |
 | **[RÖDL USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68cd9657b2a74e1837ed9323?utm_campaign=1058&utm_source=git)** | Chicago, IL | On Site | Feb 22 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/699b0cd0e0bddb6acaca2458?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 22 |
 | ↳ | **[REGISTERED NURSE - Neonatal Nurse Practitioner Internship (Brandon NICU and Von Voigtlander Women's Hospital)](https://jobright.ai/jobs/info/699b0b5bce78e77b4fdfcfd8?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 22 |
@@ -74,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan](https://www.umich.edu)** | **[REGISTERED NURSE - CRNA Internship](https://jobright.ai/jobs/info/699abc2ee0bddb6acac9da49?utm_campaign=1058&utm_source=git)** | Ann Arbor, MI | On Site | Feb 22 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Intern](https://jobright.ai/jobs/info/699ab456ce78e77b4fdf7c72?utm_campaign=1058&utm_source=git)** | Happy Valley, OR | On Site | Feb 21 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-INTERN](https://jobright.ai/jobs/info/699aa14ee0bddb6acac9c683?utm_campaign=1058&utm_source=git)** | Albuquerque, NM | On Site | Feb 21 |
-| ↳ | **[Pharmacist Intern #385](https://jobright.ai/jobs/info/699ac7c1e0bddb6acac9e117?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Feb 21 |
 | ↳ | **[Pharmacist Intern #347](https://jobright.ai/jobs/info/699ac769ce78e77b4fdf8f8e?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Feb 21 |
+| ↳ | **[Pharmacist Intern #385](https://jobright.ai/jobs/info/699ac7c1e0bddb6acac9e117?utm_campaign=1058&utm_source=git)** | Henderson, NV | On Site | Feb 21 |
 | **[Capps Plumbing and Sewer, Inc.](https://www.cappsplumbing.com)** | **[GLO - Information Technology Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a5d0be0bddb6acac96341?utm_campaign=1058&utm_source=git)** | Austin GLO Main FL91700 N Congress Ave | On Site | Feb 21 |
 | ↳ | **[GLO - Information Technology Summer Intern (Clerk II)](https://jobright.ai/jobs/info/699a6a9d81476f6176b30285?utm_campaign=1058&utm_source=git)** | Texas-AustinWork Locations | On Site | Feb 21 |
 | **[Peace Wapiti Public School Division](https://www.pwpsd.ca/)** | **[IT Summer Student](https://jobright.ai/jobs/info/699a13f2ce78e77b4fdedb6e?utm_campaign=1058&utm_source=git)** | Medicine Hat, Alberta, Canada | On Site | Feb 21 |
@@ -135,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[Venue Technology Intern / Chase Field](https://jobright.ai/jobs/info/6999239c81476f6176b1a5d9?utm_campaign=1058&utm_source=git)** | Phoenix, AZ | On Site | Feb 20 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Junior Support Analyst, Summer 2026 (Internship) - 10 weeks](https://jobright.ai/jobs/info/699921a0e0bddb6acac82474?utm_campaign=1058&utm_source=git)** | New York, NY | On Site | Feb 20 |
 | **[Mouser Electronics](http://mouser.com)** | **[UAT Specialist Intern](https://jobright.ai/jobs/info/699a719be0bddb6acac98a79?utm_campaign=1058&utm_source=git)** | Mansfield, TX | On Site | Feb 20 |
-| **[Jewel-Osco](http://www.jewelosco.com)** | **[Pharmacy Summer Intern - Jewel Osco](https://jobright.ai/jobs/info/699a712ee0bddb6acac988bb?utm_campaign=1058&utm_source=git)** | Naperville, IL | On Site | Feb 20 |
 | **[VGM Group, Inc.](https://www.vgm.com)** | **[IT Support Intern - Waterloo, Iowa](https://jobright.ai/jobs/info/69994d9bce78e77b4fde15c3?utm_campaign=1058&utm_source=git)** | Waterloo, IA | On Site | Feb 20 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern - TeleHealth](https://jobright.ai/jobs/info/6999164681476f6176b18efe?utm_campaign=1058&utm_source=git)** | Portland, ME | On Site | Feb 20 |
 | **[New York City Ballet](http://nycballet.com)** | **[Special Events Intern](https://jobright.ai/jobs/info/699915dc81476f6176b18e2d?utm_campaign=1058&utm_source=git)** | New York, New York, United States | Hybrid | Feb 20 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[VGM Group, Inc.](https://www.vgm.com)** | **[IT Support Intern - Waterloo, Iowa](https://jobright.ai/jobs/info/6999231cce78e77b4fddcde8?utm_campaign=1058&utm_source=git)** | Waterloo, IA, US | On Site | Feb 20 |
 | **[ITASCA Consulting](https://www.itascacg.com/)** | **[IT Support Intern (April-August)](https://jobright.ai/jobs/info/69991dbb81476f6176b19c4e?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Feb 20 |
 | **[KENT WORLDWIDE](https://kentww.com)** | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/6999156fe0bddb6acac80e69?utm_campaign=1058&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 20 |
-| ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/69991f2bce78e77b4fddc78c?utm_campaign=1058&utm_source=git)** | Houston, Texas, United States | On Site | Feb 20 |
 | ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/69992c5781476f6176b1b53f?utm_campaign=1058&utm_source=git)** | Dallas, Texas, United States | On Site | Feb 20 |
 | ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/69993698e0bddb6acac84872?utm_campaign=1058&utm_source=git)** | Birmingham, Alabama, United States | On Site | Feb 20 |
+| ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/69991f2bce78e77b4fddc78c?utm_campaign=1058&utm_source=git)** | Houston, Texas, United States | On Site | Feb 20 |
 | ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/69994a9ece78e77b4fde1129?utm_campaign=1058&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
