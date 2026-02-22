@@ -84,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Peace Wapiti Public School Division](https://www.pwpsd.ca/)** | **[IT Summer Student](https://jobright.ai/jobs/info/699a13f2ce78e77b4fdedb6e?utm_campaign=1058&utm_source=git)** | Medicine Hat, Alberta, Canada | On Site | Feb 21 |
 | **[Davidson Technologies](https://davidson-tech.com/)** | **[Application Development Support- Summer Internship](https://jobright.ai/jobs/info/699a0e2581476f6176b2b11d?utm_campaign=1058&utm_source=git)** | Huntsville, AL | On Site | Feb 21 |
 | **[CHI](https://www.catholichealthinitiatives.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/699a08cfce78e77b4fded5ad?utm_campaign=1058&utm_source=git)** | Chattanooga, TN | On Site | Feb 21 |
+| **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Lab Support](https://jobright.ai/jobs/info/69971999e0bddb6acac5d295?utm_campaign=1058&utm_source=git)** | Shrewsbury, MA | On Site | Feb 21 |
 | **[Geisinger](https://www.geisinger.org)** | **[Pharmacy Technician Intern](https://jobright.ai/jobs/info/6999f324ce78e77b4fded172?utm_campaign=1058&utm_source=git)** | Lewistown, PA | On Site | Feb 21 |
 | **[Froedtert Health](http://www.froedtert.com)** | **[RESPIRATORY CARE INTERN II](https://jobright.ai/jobs/info/6999e7bfce78e77b4fdecf59?utm_campaign=1058&utm_source=git)** | Milwaukee, WI | On Site | Feb 21 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Plant Systems Intern](https://jobright.ai/jobs/info/6961893ef3f4cd13250697ca?utm_campaign=1058&utm_source=git)** | Shippensburg, PA | On Site | Feb 21 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Rare Technology, Help Desk Intern](https://jobright.ai/jobs/info/699929fe81476f6176b1b226?utm_campaign=1058&utm_source=git)** | US-VA-Arlington | Hybrid | Feb 20 |
 | **[VGM Group, Inc.](https://www.vgm.com)** | **[IT Support Intern - Waterloo, Iowa](https://jobright.ai/jobs/info/6999231cce78e77b4fddcde8?utm_campaign=1058&utm_source=git)** | Waterloo, IA, US | On Site | Feb 20 |
 | **[ITASCA Consulting](https://www.itascacg.com/)** | **[IT Support Intern (April-August)](https://jobright.ai/jobs/info/69991dbb81476f6176b19c4e?utm_campaign=1058&utm_source=git)** | Minneapolis, MN | On Site | Feb 20 |
-| **[KENT WORLDWIDE](https://kentww.com)** | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/6999156fe0bddb6acac80e69?utm_campaign=1058&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Feb 20 |
-| ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/69991f2bce78e77b4fddc78c?utm_campaign=1058&utm_source=git)** | Houston, Texas, United States | On Site | Feb 20 |
+| **[KENT WORLDWIDE](https://kentww.com)** | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/69994a9ece78e77b4fde1129?utm_campaign=1058&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Feb 20 |
 | ↳ | **[Sales Support Specialist Intern](https://jobright.ai/jobs/info/69993698e0bddb6acac84872?utm_campaign=1058&utm_source=git)** | Birmingham, Alabama, United States | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
